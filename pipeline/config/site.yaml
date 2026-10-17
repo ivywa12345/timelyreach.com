@@ -1,0 +1,46 @@
+# 网站基本信息（SEO 用）
+name: "TimelyReach 华人时讯"
+short_name: "华人时讯"
+tagline: "海外华人每日热点 · 美国新闻中文速递 · 华人论坛闲话"
+description: "TimelyReach 华人时讯：每天精选华尔街日报、彭博、纽约邮报、ZeroHedge、推特和各大华人论坛热帖，用通俗中文讲清楚美国新闻、财经股市与华人生活，欢迎注册参与讨论。"
+keywords: "海外华人,华人论坛,美国新闻,中文新闻,华尔街日报中文,彭博中文,美股,华人闲话,一亩三分地,文学城,北美华人"
+base_url: "https://timelyreach.com"
+language: "zh-CN"
+# 站长 GitHub 账号：用这个账号通过 GitHub 登录的用户自动成为站长（admin）
+admin_github: "ivywa12345"
+per_page: 40
+
+# 论坛版块。kind=auto 由机器人自动抓取发帖；kind=user 由读者发帖
+boards:
+  - id: news
+    name: "新闻速递"
+    kind: auto
+    description: "美国及国际要闻，每天从华尔街日报、纽约邮报、文学城等编译"
+  - id: finance
+    name: "财经股市"
+    kind: auto
+    description: "华尔街日报、彭博、ZeroHedge 财经要闻，美股、期权、宏观一网打尽"
+  - id: twitter
+    name: "推特热议"
+    kind: auto
+    description: "推特（X）上大佬和财经大V的热门推文中文解读"
+  - id: hot
+    name: "网络热帖"
+    kind: auto
+    description: "小红书、华人网、一亩三分地、新未名空间的今日热帖，来这里接着聊"
+  - id: chat
+    name: "华人闲话"
+    kind: user
+    description: "海外华人的茶馆，家长里短、时事八卦，想聊就聊"
+  - id: invest
+    name: "投资理财"
+    kind: user
+    description: "股票、期权、0DTE、SPX/VIX、房产、退休账户，交流投资心得"
+  - id: career
+    name: "工作移民"
+    kind: user
+    description: "找工作、跳槽、H1B、绿卡、身份，过来人经验分享"
+  - id: life
+    name: "生活百态"
+    kind: user
+    description: "买房、育儿、美食、旅游、健康，海外生活大小事"

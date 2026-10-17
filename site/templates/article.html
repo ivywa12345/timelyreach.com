@@ -1,0 +1,89 @@
+{% set title = a.title %}
+{% set description = a.summary %}
+{% set keywords = (a.tags + [a.source_name, board.name if board else ''])|join(',') %}
+{% set og_type = 'article' %}
+{% extends "base.html" %}
+{% block head %}
+<meta property="article:published_time" content="{{ a.created }}">
+<meta property="article:section" content="{{ board.name if board else '' }}">
+{% for t in a.tags %}<meta property="article:tag" content="{{ t }}">
+{% endfor %}
+<script type="application/ld+json">{{ {
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": a.title,
+  "description": a.summary,
+  "datePublished": a.created,
+  "dateModified": a.created,
+  "inLanguage": "zh-CN",
+  "mainEntityOfPage": canonical,
+  "image": [site.base_url ~ "/static/img/og.png"],
+  "keywords": a.tags|join(","),
+  "author": {"@type": "Organization", "name": site.name, "url": site.base_url ~ "/"},
+  "publisher": {"@type": "Organization", "name": site.name, "logo": {"@type": "ImageObject", "url": site.base_url ~ "/static/img/og.png"}},
+  "isBasedOn": a.source_url
+}|tojson_safe }}</script>
+<script type="application/ld+json">{{ {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "首页", "item": site.base_url ~ "/"},
+    {"@type": "ListItem", "position": 2, "name": board.name if board else "", "item": site.base_url ~ "/f/" ~ a.board ~ "/"},
+    {"@type": "ListItem", "position": 3, "name": a.title, "item": canonical}
+  ]
+}|tojson_safe }}</script>
+{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="/">首页</a> › {% if board %}<a href="/f/{{ board.id }}/">{{ board.name }}</a> › {% endif %}正文</nav>
+<div class="layout">
+  <div class="col-main">
+    <article class="card post" data-thread-key="{{ a.thread_key }}">
+      <header class="post-head">
+        <h1>{{ a.title }}</h1>
+        <div class="row-meta">
+          <span class="tag">{{ a.source_name }}</span>
+          <span>楼主：时讯小编</span> ·
+          <time datetime="{{ a.created }}">{{ a.created|datetime_cn }}</time> ·
+          <span>浏览 <span class="views">–</span></span> ·
+          <span>回复 <span class="replies">–</span></span>
+        </div>
+      </header>
+      <div class="post-body">
+        {% if a.summary %}<p class="lead">{{ a.summary }}</p>{% endif %}
+        {% for p in a.body %}<p>{{ p }}</p>{% endfor %}
+      </div>
+      <footer class="post-foot">
+        {% if a.tags %}<p class="tags">{% for t in a.tags %}<a class="tag" href="/search.html?q={{ t|urlencode }}">#{{ t }}</a> {% endfor %}</p>{% endif %}
+        <p class="source muted">
+          {% if a.lang == 'zh' %}原帖{% else %}编译自{% endif %}：{{ a.source_name }}
+          {% if a.original_title and a.original_title != a.title %}《{{ a.original_title }}》{% endif %}
+          <a href="{{ a.source_url }}" target="_blank" rel="nofollow noopener">查看原文 ↗</a>
+        </p>
+        <div class="share">
+          <button class="btn btn-ghost btn-small" data-share>分享</button>
+        </div>
+      </footer>
+    </article>
+
+    <section class="card" id="comments" data-thread-key="{{ a.thread_key }}" data-locked="0">
+      <div class="card-head"><h2>网友跟帖</h2></div>
+      <ol class="comments" id="comment-list"><li class="muted">加载中…</li></ol>
+      <div id="comment-form-slot"></div>
+    </section>
+  </div>
+  <aside class="col-side">
+    {% if related %}
+    <section class="card">
+      <div class="card-head"><h2>{{ board.name if board else '' }} · 相关</h2></div>
+      <ul class="sidelist">
+        {% for r in related %}<li><a href="/t/{{ r.slug }}.html">{{ r.title }}</a></li>{% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+    <section class="card">
+      <div class="card-head"><h2>热帖排行</h2></div>
+      <ol class="hotlist" id="hotlist"><li class="muted">加载中…</li></ol>
+    </section>
+  </aside>
+</div>
+{% endblock %}

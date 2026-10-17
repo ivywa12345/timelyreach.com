@@ -1,0 +1,47 @@
+{% set title = board.name ~ ("（第" ~ page ~ "页）" if page > 1 else "") %}
+{% set description = board.description %}
+{% extends "base.html" %}
+{% from "_macros.html" import article_row, user_row %}
+{% block head %}
+{% if prev_url %}<link rel="prev" href="{{ prev_url }}">{% endif %}
+{% if next_url %}<link rel="next" href="{{ next_url }}">{% endif %}
+<script type="application/ld+json">{{ {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "首页", "item": site.base_url ~ "/"},
+    {"@type": "ListItem", "position": 2, "name": board.name, "item": site.base_url ~ "/f/" ~ board.id ~ "/"}
+  ]
+}|tojson_safe }}</script>
+{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="/">首页</a> › {{ board.name }}</nav>
+<section class="card">
+  <div class="card-head board-head">
+    <div>
+      <h1>{{ board.name }}</h1>
+      <p class="muted">{{ board.description }}</p>
+    </div>
+    {% if board.kind == 'user' %}<a class="btn" href="/new.html?board={{ board.id }}">发新帖</a>{% endif %}
+  </div>
+  <div class="rows-head"><span>主题</span><span>回复 / 浏览</span></div>
+  {% if board.kind == 'auto' %}
+    {% if items %}
+    <ul class="rows">{% for a in items %}{{ article_row(a, None) }}{% endfor %}</ul>
+    {% else %}<p class="empty">暂无内容，机器人稍后会自动发帖。</p>{% endif %}
+    {% if pages > 1 %}
+    <nav class="pager">
+      {% if prev_url %}<a href="{{ prev_url }}">« 上一页</a>{% endif %}
+      <span>第 {{ page }} / {{ pages }} 页</span>
+      {% if next_url %}<a href="{{ next_url }}">下一页 »</a>{% endif %}
+    </nav>
+    {% endif %}
+  {% else %}
+    <ul class="rows" data-live-board="{{ board.id }}" data-limit="50" data-paged="1">
+      {% for t in user_threads %}{{ user_row(t, None) }}{% endfor %}
+    </ul>
+    <p class="empty live-empty" {% if user_threads %}hidden{% endif %}>还没有帖子，<a href="/new.html?board={{ board.id }}">来发第一帖</a>！</p>
+    <nav class="pager" id="live-pager" hidden></nav>
+  {% endif %}
+</section>
+{% endblock %}

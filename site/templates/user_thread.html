@@ -1,0 +1,29 @@
+{% set title = t.title %}
+{% set description = (t.body or '')[:120] %}
+{% set og_type = 'article' %}
+{% set author_name = (t.author or {}).get('display_name') or (t.author or {}).get('username') or '网友' %}
+{% extends "base.html" %}
+{% block head %}
+<script type="application/ld+json">{{ {
+  "@context": "https://schema.org",
+  "@type": "DiscussionForumPosting",
+  "headline": t.title,
+  "text": (t.body or '')[:500],
+  "datePublished": t.created_at,
+  "url": canonical,
+  "author": {"@type": "Person", "name": author_name}
+}|tojson_safe }}</script>
+{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="/">首页</a> › {% if board %}<a href="/f/{{ board.id }}/">{{ board.name }}</a> › {% endif %}帖子</nav>
+<article class="card post">
+  <header class="post-head">
+    <h1>{{ t.title }}</h1>
+    <div class="row-meta">楼主：{{ author_name }} · <time datetime="{{ t.created_at }}">{{ t.created_at|datetime_cn }}</time></div>
+  </header>
+  <div class="post-body">
+    {% for p in (t.body or '').split('\n') if p.strip() %}<p>{{ p }}</p>{% endfor %}
+  </div>
+  <p><a class="btn" href="/thread.html?id={{ t.id }}">查看最新跟帖 / 参与讨论 »</a></p>
+</article>
+{% endblock %}

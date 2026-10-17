@@ -1,0 +1,13 @@
+{% set title = "帖子" %}
+{% extends "base.html" %}
+{% block content %}
+<nav class="crumbs"><a href="/">首页</a> › <span id="crumb-board"></span>帖子</nav>
+<article class="card post" id="thread-view">
+  <p class="muted">加载中…</p>
+</article>
+<section class="card" id="comments" data-thread-key="" data-locked="0">
+  <div class="card-head"><h2>网友跟帖</h2></div>
+  <ol class="comments" id="comment-list"></ol>
+  <div id="comment-form-slot"></div>
+</section>
+{% endblock %}

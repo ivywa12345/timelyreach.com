@@ -1,0 +1,123 @@
+name: 抓取新闻并部署网站
+
+on:
+  schedule:
+    # 每 4 小时一次（UTC），美东早上 7 点左右有一次
+    - cron: "17 3,7,11,15,19,23 * * *"
+  push:
+    branches: [main, "claude/**"]
+    paths-ignore: ["data/**", "**.md"]
+  workflow_dispatch:
+    inputs:
+      max_new:
+        description: "本次最多新增几篇"
+        required: false
+        default: "40"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    services:
+      # 自带一个 RSSHub（https://github.com/DIYgod/RSSHub），用来抓推特、文学城、一亩三分地、小红书
+      rsshub:
+        image: diygod/rsshub:latest
+        ports: ["1200:1200"]
+        env:
+          NODE_ENV: production
+          CACHE_TYPE: memory
+          TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
+          XIAOHONGSHU_COOKIE: ${{ secrets.XIAOHONGSHU_COOKIE }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - name: 安装依赖
+        run: pip install -r pipeline/requirements.txt
+
+      - name: 等待 RSSHub 启动
+        run: |
+          for i in $(seq 1 30); do
+            curl -sf http://localhost:1200/ >/dev/null && echo "RSSHub ready" && exit 0
+            sleep 2
+          done
+          echo "::warning::RSSHub did not start; RSSHub sources will be skipped"
+
+      - name: 抓取并编译新闻
+        working-directory: pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
+          XIAOHONGSHU_COOKIE: ${{ secrets.XIAOHONGSHU_COOKIE }}
+          RSSHUB_BASE: http://localhost:1200
+          TR_MAX_NEW: ${{ github.event.inputs.max_new || '40' }}
+        run: |
+          [ -n "$CLAUDE_MODEL" ] || unset CLAUDE_MODEL
+          python -m timelyreach update
+
+      - name: 保存新内容到仓库
+        run: |
+          git config user.name "timelyreach-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "no new content"
+          else
+            git commit -m "content: $(date -u +'%Y-%m-%d %H:%M') 自动更新"
+            for i in 1 2 3; do
+              git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && break
+              sleep 5
+            done
+          fi
+
+      - name: 生成网站
+        working-directory: pipeline
+        env:
+          SUPABASE_URL: ${{ vars.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ vars.SUPABASE_ANON_KEY }}
+        run: python -m timelyreach build
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+  test:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r pipeline/requirements-dev.txt
+      - run: python -m pytest -q
+        working-directory: pipeline

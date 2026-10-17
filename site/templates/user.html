@@ -1,0 +1,18 @@
+{% set title = "会员资料" %}
+{% extends "base.html" %}
+{% block content %}
+<section class="card narrow" id="profile-view"><p class="muted">加载中…</p></section>
+<section class="card narrow" id="profile-edit" hidden>
+  <h2>修改资料</h2>
+  <form id="profile-form" class="form">
+    <label>昵称<input name="display_name" maxlength="20" required></label>
+    <label>个人签名<input name="bio" maxlength="120"></label>
+    <button class="btn" type="submit">保存</button>
+    <p class="form-msg" id="profile-msg" role="status"></p>
+  </form>
+</section>
+<section class="card narrow">
+  <div class="card-head"><h2>最近发帖</h2></div>
+  <ul class="rows" id="profile-threads"></ul>
+</section>
+{% endblock %}

@@ -1,0 +1,144 @@
+# 内容来源。每个来源可配置多种抓取方式（urls 依次尝试，第一个成功即用）。
+#
+#   type: rss        -> 标准 RSS/Atom 地址
+#   type: rsshub     -> RSSHub 路由（https://github.com/DIYgod/RSSHub），
+#                       GitHub Actions 里会自动启动一个 RSSHub 容器（http://localhost:1200）
+#   type: links      -> 直接抓网页，用正则匹配帖子链接（适合论坛列表页）
+#
+#   lang: en  -> 用 AI 编译成中文新闻稿
+#   lang: zh  -> 中文来源，只生成导读摘要 + 原帖链接，供读者讨论
+#   board     -> 发到哪个版块（见 site.yaml）
+#   limit     -> 每次运行最多取几条新内容
+#   full_text -> 是否抓取原文正文供 AI 参考（付费墙网站只能拿到摘要）
+
+sources:
+  # ---------------- 英文新闻 ----------------
+  - id: wsj-world
+    name: "华尔街日报"
+    lang: en
+    board: news
+    limit: 4
+    full_text: false
+    fetch:
+      - {type: rss, url: "https://feeds.content.dowjones.io/public/rss/RSSWorldNews"}
+      - {type: rss, url: "https://feeds.a.dj.com/rss/RSSWorldNews.xml"}
+
+  - id: wsj-markets
+    name: "华尔街日报"
+    lang: en
+    board: finance
+    limit: 4
+    full_text: false
+    fetch:
+      - {type: rss, url: "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain"}
+      - {type: rss, url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"}
+
+  - id: bloomberg-markets
+    name: "彭博社"
+    lang: en
+    board: finance
+    limit: 4
+    full_text: false
+    fetch:
+      - {type: rss, url: "https://feeds.bloomberg.com/markets/news.rss"}
+      - {type: rsshub, route: "/bloomberg/markets"}
+
+  - id: bloomberg-politics
+    name: "彭博社"
+    lang: en
+    board: news
+    limit: 2
+    full_text: false
+    fetch:
+      - {type: rss, url: "https://feeds.bloomberg.com/politics/news.rss"}
+
+  - id: zerohedge
+    name: "ZeroHedge"
+    lang: en
+    board: finance
+    limit: 4
+    full_text: true
+    fetch:
+      - {type: rss, url: "https://feeds.feedburner.com/zerohedge/feed"}
+      - {type: rss, url: "https://cms.zerohedge.com/fullrss2.xml"}
+
+  - id: nypost
+    name: "纽约邮报"
+    lang: en
+    board: news
+    limit: 5
+    full_text: true
+    fetch:
+      - {type: rss, url: "https://nypost.com/news/feed/"}
+      - {type: rss, url: "https://nypost.com/feed/"}
+
+  # ---------------- 推特 / X ----------------
+  # 需要在 GitHub 仓库 Secrets 里设置 TWITTER_AUTH_TOKEN（你自己 X 账号 cookie 里的 auth_token），
+  # RSSHub 才能抓推特。没设置时会自动跳过。
+  - id: twitter
+    name: "推特"
+    lang: en
+    board: twitter
+    limit: 6
+    full_text: false
+    requires_env: TWITTER_AUTH_TOKEN
+    fetch:
+      - {type: rsshub, route: "/twitter/user/elonmusk"}
+      - {type: rsshub, route: "/twitter/user/zerohedge"}
+      - {type: rsshub, route: "/twitter/user/KobeissiLetter"}
+      - {type: rsshub, route: "/twitter/user/unusual_whales"}
+      - {type: rsshub, route: "/twitter/user/realDonaldTrump"}
+    merge: true   # 以上全部合并，而不是只取第一个成功的
+
+  # ---------------- 中文论坛热帖 ----------------
+  - id: wenxuecity
+    name: "文学城"
+    lang: zh
+    board: news
+    limit: 5
+    full_text: true
+    fetch:
+      - {type: rsshub, route: "/wenxuecity/news"}
+      - {type: links, url: "https://www.wenxuecity.com/news/", pattern: "/news/\\d{4}/\\d{2}/\\d{2}/\\d+\\.html"}
+
+  - id: huaren
+    name: "华人网"
+    lang: zh
+    board: hot
+    limit: 6
+    full_text: true
+    fetch:
+      - {type: links, url: "https://huaren.us/showforum.html?forumid=398", pattern: "showtopic\\.html\\?topicid=\\d+"}
+
+  - id: 1point3acres
+    name: "一亩三分地"
+    lang: zh
+    board: hot
+    limit: 6
+    full_text: false
+    fetch:
+      - {type: rsshub, route: "/1point3acres/thread/hot"}
+      - {type: links, url: "https://www.1point3acres.com/bbs/", pattern: "(thread-\\d+-1-1\\.html|mod=viewthread&tid=\\d+)"}
+
+  - id: newmitbbs
+    name: "新未名空间"
+    lang: zh
+    board: hot
+    limit: 6
+    full_text: true
+    fetch:
+      - {type: links, url: "https://newmitbbs.com/", pattern: "(viewtopic\\.php\\?[^\"']*t=\\d+|/t/\\d+|thread-\\d+)"}
+
+  # 小红书没有公开的热榜接口，反爬很严。RSSHub 可以抓指定用户的笔记，
+  # 需要设置 XIAOHONGSHU_COOKIE，并把下面的 user_id 换成你想关注的博主。
+  - id: xiaohongshu
+    name: "小红书"
+    lang: zh
+    board: hot
+    limit: 4
+    full_text: false
+    enabled: false   # 填好博主 ID 后改成 true
+    requires_env: XIAOHONGSHU_COOKIE
+    merge: true
+    fetch:
+      - {type: rsshub, route: "/xiaohongshu/user/REPLACE_WITH_USER_ID/notes"}

@@ -1,0 +1,12 @@
+{% set title = "搜索" %}
+{% extends "base.html" %}
+{% block content %}
+<section class="card">
+  <h1>搜索</h1>
+  <form class="form form-inline" action="/search.html">
+    <input type="search" name="q" id="q" placeholder="输入关键词" aria-label="关键词">
+    <button class="btn" type="submit">搜索</button>
+  </form>
+  <ul class="rows" id="search-results"></ul>
+</section>
+{% endblock %}

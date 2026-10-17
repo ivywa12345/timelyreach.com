@@ -1,0 +1,19 @@
+{% set title = "发新帖" %}
+{% extends "base.html" %}
+{% block content %}
+<section class="card narrow">
+  <h1>发新帖</h1>
+  <div id="need-login" class="notice" hidden>请先 <a href="/login.html?next=/new.html">登录或注册</a> 再发帖。</div>
+  <form id="new-thread" class="form" hidden>
+    <label>版块
+      <select name="board" required>
+        {% for b in boards if b.kind == 'user' %}<option value="{{ b.id }}">{{ b.name }}</option>{% endfor %}
+      </select>
+    </label>
+    <label>标题<input name="title" required minlength="4" maxlength="80" placeholder="一句话说清楚你想聊什么"></label>
+    <label>正文<textarea name="body" required minlength="10" maxlength="20000" rows="12" placeholder="支持换行，链接会自动识别。请文明发帖。"></textarea></label>
+    <button class="btn" type="submit">发布</button>
+    <p class="form-msg" id="new-msg" role="status"></p>
+  </form>
+</section>
+{% endblock %}

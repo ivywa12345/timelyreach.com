@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% set page_title = (title ~ " - " ~ site.short_name) if title else (site.name ~ " - " ~ site.tagline) %}
+<title>{{ page_title }}</title>
+<meta name="description" content="{{ description or site.description }}">
+<meta name="keywords" content="{{ keywords or site.keywords }}">
+{% if noindex %}<meta name="robots" content="noindex,follow">{% else %}<meta name="robots" content="index,follow,max-image-preview:large">{% endif %}
+<link rel="canonical" href="{{ canonical }}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="/feed.xml">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:title" content="{{ title or site.name }}">
+<meta property="og:description" content="{{ description or site.description }}">
+<meta property="og:type" content="{{ og_type or 'website' }}">
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:image" content="{{ site.base_url }}/static/img/og.png">
+<meta property="og:locale" content="zh_CN">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#b91c1c">
+<link rel="icon" href="/static/img/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/static/css/site.css?v={{ now[:13] }}">
+{% block head %}{% endblock %}
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <a class="logo" href="/">
+      <img src="/static/img/favicon.svg" alt="" width="28" height="28">
+      <span class="logo-text">{{ site.short_name }}</span>
+    </a>
+    <form class="search" action="/search.html" role="search">
+      <input type="search" name="q" placeholder="搜索帖子…" aria-label="搜索帖子">
+    </form>
+    <div class="userbox" id="userbox">
+      <a class="btn btn-small" href="/login.html">登录 / 注册</a>
+    </div>
+  </div>
+  <nav class="boardnav" aria-label="版块">
+    <div class="wrap boardnav-inner">
+      <a href="/" {% if not board %}class="on"{% endif %}>首页</a>
+      {% for b in boards %}
+      <a href="/f/{{ b.id }}/" {% if board and board.id == b.id %}class="on"{% endif %}>{{ b.name }}</a>
+      {% endfor %}
+    </div>
+  </nav>
+</header>
+
+<main class="wrap main">
+{% block content %}{% endblock %}
+</main>
+
+<footer class="footer">
+  <div class="wrap">
+    <p><a href="/about.html">关于本站 / 版权声明</a> · <a href="/feed.xml">RSS 订阅</a> · <a href="/sitemap.xml">网站地图</a></p>
+    <p class="muted">新闻内容为编译摘要，版权归原作者及原媒体所有，详情请点击原文链接。网友帖子仅代表个人观点。</p>
+    <p class="muted">© {{ year }} {{ site.name }}</p>
+  </div>
+</footer>
+<script src="/static/vendor/supabase.js" defer></script>
+<script src="/static/js/config.js?v={{ now[:13] }}" defer></script>
+<script src="/static/js/app.js?v={{ now[:13] }}" defer></script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

@@ -1,0 +1,28 @@
+{% macro article_row(a, board_map) %}
+<li class="row" data-key="{{ a.thread_key }}">
+  <div class="row-main">
+    <a class="row-title" href="/t/{{ a.slug }}.html">{{ a.title }}</a>
+    <div class="row-meta">
+      <span class="tag">{{ a.source_name }}</span>
+      {% if board_map and board_map.get(a.board) %}<a class="muted" href="/f/{{ a.board }}/">{{ board_map[a.board].name }}</a> · {% endif %}
+      <time datetime="{{ a.created }}">{{ a.created|datetime_cn }}</time>
+    </div>
+  </div>
+  <div class="row-stats"><span class="replies" title="回复">–</span><span class="views" title="浏览">–</span></div>
+</li>
+{% endmacro %}
+
+{% macro user_row(t, board_map) %}
+<li class="row" data-key="u:{{ t.id }}">
+  <div class="row-main">
+    <a class="row-title" href="/thread.html?id={{ t.id }}">{{ t.title }}</a>
+    <div class="row-meta">
+      <span class="tag tag-user">网友</span>
+      {% if board_map and board_map.get(t.board) %}<a class="muted" href="/f/{{ t.board }}/">{{ board_map[t.board].name }}</a> · {% endif %}
+      {{ (t.author or {}).get('display_name') or (t.author or {}).get('username') or '匿名' }} ·
+      <time datetime="{{ t.created_at }}">{{ t.created_at|datetime_cn }}</time>
+    </div>
+  </div>
+  <div class="row-stats"><span class="replies" title="回复">–</span><span class="views" title="浏览">–</span></div>
+</li>
+{% endmacro %}
