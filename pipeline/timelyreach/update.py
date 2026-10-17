@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import logging
 import os
+import re
 
 from .config import load_sources
 from .fetchers import fetch_full_text, fetch_source
@@ -11,6 +12,9 @@ from .rewrite import available_providers, to_article
 from .store import Store
 
 log = logging.getLogger(__name__)
+
+# video/podcast pages have no article text worth compiling
+SKIP_URL = re.compile(r"/(videos?|audio|podcasts?|live-blog)/", re.I)
 
 
 def run_update(store: Store | None = None, max_new: int | None = None) -> int:
@@ -27,7 +31,10 @@ def run_update(store: Store | None = None, max_new: int | None = None) -> int:
         if not source.is_active():
             log.info("source %s skipped (disabled or missing %s)", source.id, source.requires_env)
             continue
-        fresh = [it for it in fetch_source(source) if not store.is_seen(it.key)][: source.limit]
+        fresh = [
+            it for it in fetch_source(source)
+            if not store.is_seen(it.key) and not SKIP_URL.search(it.url)
+        ][: source.limit]
         for item in fresh:
             if created >= max_new:
                 break

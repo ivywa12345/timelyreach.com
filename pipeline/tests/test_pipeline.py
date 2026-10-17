@@ -260,3 +260,14 @@ def test_run_picks_posts_once_and_closes_issue(tmp_path, monkeypatch):
     assert art.source_id == "editor" and art.board == "finance" and art.body[0].startswith("VIX")
     assert replies[0][0] == 3 and "https://timelyreach.com/t/" in replies[0][1]
     assert picks.run_picks(store, [rewrite.FreeTranslateProvider()]) == 0  # not reposted
+
+
+def test_video_and_podcast_links_are_skipped(tmp_path, monkeypatch):
+    monkeypatch.setattr(update, "load_sources", lambda: [_source()])
+    monkeypatch.setattr(update, "fetch_source", lambda s: [
+        _item(1, url="https://www.bloomberg.com/news/videos/2026-10-17/quiz-video"),
+        _item(2, url="https://www.bloomberg.com/news/articles/2026-10-17/real-story"),
+    ])
+    monkeypatch.setattr(update, "available_providers", lambda: [FakeProvider()])
+    monkeypatch.setattr(update, "run_picks", lambda store, providers: 0)
+    assert update.run_update(store=Store(tmp_path), max_new=10) == 1
