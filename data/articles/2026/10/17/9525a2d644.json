@@ -1,0 +1,21 @@
+{
+ "key": "9525a2d644",
+ "board": "hot",
+ "source_id": "1point3acres",
+ "source_name": "一亩三分地",
+ "source_url": "https://instant.1point3acres.com/thread/1193415",
+ "title": "有没有人知道谷歌内部的termination是什么情况",
+ "summary": "今天突然听到朋友说他隔壁组有个人直接当天被terminate了。官方的说法是performance related并且已经给了很久的warning了，但我朋友说那个人去年才刚升的L4…然后今年年初给的rating也不是m/ni，新的rati",
+ "body": [
+  "今天突然听到朋友说他隔壁组有个人直接当天被terminate了。官方的说法是performance related并且已经给了很久的warning了，但我朋友说那个人去年才刚升的L4…然后今年年初给的rating也不是m/ni，新的rating又没出。。所以不懂为什么performance related。感觉比较make sense的一个原因是：之前他们那边有reorg，那人整个组被分到了另一个mgr手下，然后新mgr被分到了quota之后就拿那人去背quota了。 之前就一直听说谷歌会暗搓搓terminate人，pip啥的policy也不transparent。突然听到身边真实发生的dp还是有点shock…这种直接terminate也没有用fmla的机会。 不知道有没有人会知道一些更多的信息？是不是最近偷摸摸以performance terminate了一些人？ 现在这行情感觉也找不到下一份工作了，只能当日结工干一天算一天😞 补充内容 (2026-10-18 02:01 +08:00): 发这个帖子的主要目的是对termination是performance related这种说法比较doubtful… 想问一下现在公司是不是有这种termination的quota要背？没有的话，是不是老板现在只要想赶人走就可以用这个作为理由直接terminate？",
+  "（以上为一亩三分地内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "一亩三分地"
+ ],
+ "original_title": "有没有人知道谷歌内部的termination是什么情况",
+ "lang": "zh",
+ "published": "2026-10-17T22:52:33+00:00",
+ "created": "2026-10-17T22:55:51+00:00",
+ "rewriter": "free-translate"
+}
