@@ -54,7 +54,7 @@ def test_parse_feed_extracts_items_and_cleans_html():
 def test_parse_links_dedupes_and_skips_pagination():
     html = (FIX / "forum.html").read_text(encoding="utf-8")
     items = parse_links(html, "https://huaren.us/showforum.html?forumid=398", r"showtopic\.html\?topicid=\d+", _source(lang="zh"))
-    assert [i.title for i in items] == ["湾区房价又涨了，大家还买吗？", "孩子申请藤校的经验分享一下"]
+    assert [i.title for i in items] == ["湾区房价又涨了，大家还买吗？", "孩子申请藤校的经验分享一下", "485 二面经验"]
     assert items[0].url == "https://huaren.us/showtopic.html?topicid=3001&fid=398"
 
 
@@ -172,3 +172,27 @@ def test_build_site(tmp_path, monkeypatch):
     assert len(idx) == 49 and idx[0]["u"].startswith("/t/")
     for name in ("thread", "login", "new", "user", "search", "about", "404"):
         assert (out / f"{name}.html").exists()
+
+
+def test_free_translate_retries_then_falls_back_to_mymemory(monkeypatch):
+    import deep_translator
+
+    calls = []
+
+    class Google:
+        def __init__(self, **kw): pass
+        def translate(self, text):
+            calls.append("g")
+            raise RuntimeError("too many requests")
+
+    class MyMemory:
+        def __init__(self, **kw): pass
+        def translate(self, text):
+            calls.append("m")
+            return "译文"
+
+    monkeypatch.setattr(deep_translator, "GoogleTranslator", Google)
+    monkeypatch.setattr(deep_translator, "MyMemoryTranslator", MyMemory)
+    monkeypatch.setattr(rewrite.time, "sleep", lambda s: None)
+    assert rewrite.FreeTranslateProvider()._translate("hello") == "译文"
+    assert calls == ["g", "g", "g", "m"]

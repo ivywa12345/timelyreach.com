@@ -78,6 +78,10 @@ def parse_feed(content: bytes, source: Source) -> list[RawItem]:
     return items
 
 
+# Link texts that are timestamps or counters, e.g. "10 分钟前", "2026-10-17", "3 replies"
+JUNK_TITLE = re.compile(r"^(\d+\s*(秒|分钟|小时|天|周|个月|年)前|昨天.*|前天.*|[\d\s:/.-]+|\d+\s*[A-Za-z]{0,8})$")
+
+
 def parse_links(html: str, base_url: str, pattern: str, source: Source) -> list[RawItem]:
     """Pick thread links off a forum list page by URL pattern, in page order."""
     soup = BeautifulSoup(html, "html.parser")
@@ -86,10 +90,10 @@ def parse_links(html: str, base_url: str, pattern: str, source: Source) -> list[
     items = []
     for a in soup.find_all("a", href=True):
         href = a["href"]
-        if not rx.search(href):
+        if not rx.search(href) or "#" in href:  # "#p123" links jump to a reply, not a thread
             continue
         title = clean_text(a.get_text(" ", strip=True)) or clean_text(a.get("title", ""))
-        if len(title) < 6:  # skip "1", "2", "最后一页" style pagination links
+        if len(title) < 6 or JUNK_TITLE.match(title):  # pagination, "最后一页", "10 分钟前"
             continue
         url = urljoin(base_url, href)
         if url in seen:

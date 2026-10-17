@@ -17,6 +17,7 @@ import json
 import logging
 import os
 import re
+import time
 
 import requests
 from pydantic import BaseModel, Field
@@ -135,9 +136,17 @@ class FreeTranslateProvider(Provider):
     name = "free-translate"
 
     def _translate(self, text: str) -> str:
-        from deep_translator import GoogleTranslator
+        """Google Translate web, throttled and retried; MyMemory if Google keeps rate-limiting."""
+        from deep_translator import GoogleTranslator, MyMemoryTranslator
 
-        return GoogleTranslator(source="auto", target="zh-CN").translate(text[:4500]) or ""
+        text = text[:4500]
+        for delay in (1.5, 6, 15):
+            time.sleep(delay)  # Google allows ~5 req/s but blocks bursts from CI IPs
+            try:
+                return GoogleTranslator(source="auto", target="zh-CN").translate(text) or ""
+            except Exception as exc:  # noqa: BLE001
+                log.info("google translate retry after error: %s", exc)
+        return MyMemoryTranslator(source="en-GB", target="zh-CN").translate(text[:480]) or ""
 
     def rewrite(self, item: RawItem) -> Rewrite:
         excerpt_src = item.summary or item.text
