@@ -12,6 +12,10 @@ per_page: 40
 
 # 论坛版块。kind=auto 由机器人自动抓取发帖；kind=user 由读者发帖
 boards:
+  - id: picks
+    name: "站长荐读"
+    kind: auto
+    description: "站长亲自挑选的好文章，配上站长的点评和解读"
   - id: news
     name: "新闻速递"
     kind: auto

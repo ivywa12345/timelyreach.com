@@ -1,0 +1,35 @@
+name: 站长荐读
+description: 推荐一篇文章并写下你的点评，机器人会写成帖子发到网站（只认站长账号）
+title: "[荐读] "
+labels: ["pick"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        标题可以留空（机器人会根据你的点评起标题），也可以写你想要的标题。
+        **不要粘贴原文全文**，写你自己的看法和要点就好，这样版权上没问题，读者也更爱看。
+  - type: input
+    attributes:
+      label: 原文链接
+      placeholder: https://www.wsj.com/...
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 我的点评
+      description: 你的观点、要点、对华人/投资者意味着什么。几句话到几段都行。
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 原文摘录（可选，最多两句）
+  - type: dropdown
+    attributes:
+      label: 发到哪个版块
+      options:
+        - picks 站长荐读
+        - finance 财经股市
+        - news 新闻速递
+        - twitter 推特热议
+        - hot 网络热帖
+      default: 0

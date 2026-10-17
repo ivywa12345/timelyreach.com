@@ -7,7 +7,7 @@
 - **论坛**：读者用邮箱或 GitHub 注册，可以发帖、跟帖（楼层式），有积分和会员等级（新手上路 → 元老），站长/版主可以置顶、锁帖、删帖、禁言。
 - **SEO**：每篇新闻和网友帖都有静态页面，带标题/描述/关键词、Open Graph、JSON-LD（NewsArticle、DiscussionForumPosting、面包屑）、`sitemap.xml`、Google 新闻 `sitemap-news.xml`、`robots.txt`、RSS。
 - **手机和电脑都适配**，支持深色模式。
-- **全部免费托管**：网站在 GitHub Pages，定时任务在 GitHub Actions，用户和帖子数据在 Supabase 免费版。
+- **全部免费托管**：网站在 Cloudflare Pages，定时任务在 GitHub Actions，用户和帖子数据在 Supabase 免费版。
 
 ## 架构
 
@@ -15,7 +15,7 @@
 GitHub Actions（每 4 小时）
   ├─ RSSHub 容器 ─┐
   ├─ pipeline/ (Python)：抓取 → AI 编译成中文 → data/*.json（提交回仓库）
-  └─ 生成静态网站 _site/ → 部署到 GitHub Pages (timelyreach.com)
+  └─ 生成静态网站 _site/ → 部署到 Cloudflare Pages (timelyreach.com)
 
 浏览器
   └─ site/static/js/app.js ── Supabase（注册登录、发帖、跟帖、积分、浏览数）
@@ -32,29 +32,27 @@ GitHub Actions（每 4 小时）
 
 ## 一次性设置（约 20 分钟）
 
-### 1. 让 `main` 分支指向这份代码
+### 1. 默认分支
 
-仓库目前没有 `main` 分支。在 GitHub 仓库页面点分支下拉框，输入 `main`，选择 “Create branch: main from claude/gifted-galileo-iqcyo2”，然后在 **Settings → General → Default branch** 把默认分支设为 `main`。（定时任务只在默认分支上运行。）
+仓库的默认分支现在是 `claude/gifted-galileo-iqcyo2`（第一次推送的分支自动成了默认分支），定时任务在它上面运行，**不用改也能用**。
+想改名为 `main`：仓库 **Settings → General → Default branch** 旁边的铅笔图标，把分支重命名为 `main`。
 
-### 2. 打开 GitHub Pages 并绑定域名
+### 2. 部署到 Cloudflare Pages 并绑定域名
 
-1. **Settings → Pages → Build and deployment → Source** 选 **GitHub Actions**。
-2. **Custom domain** 填 `timelyreach.com`，保存，DNS 生效后勾选 **Enforce HTTPS**。
-3. 到你买域名的地方（GoDaddy / Namecheap / Cloudflare 等）修改 DNS。**先删除旧 App 留下的 A / AAAA / CNAME 记录**，再添加：
-
-| 类型 | 主机 | 值 |
-| --- | --- | --- |
-| A | @ | 185.199.108.153 |
-| A | @ | 185.199.109.153 |
-| A | @ | 185.199.110.153 |
-| A | @ | 185.199.111.153 |
-| AAAA | @ | 2606:50c0:8000::153 |
-| AAAA | @ | 2606:50c0:8001::153 |
-| AAAA | @ | 2606:50c0:8002::153 |
-| AAAA | @ | 2606:50c0:8003::153 |
-| CNAME | www | ivywa12345.github.io |
-
-如果旧 App 部署在 Vercel / Netlify / Heroku 等平台，也去那边把 `timelyreach.com` 域名解绑或删除项目。
+1. 注册/登录 <https://dash.cloudflare.com>（免费版就够）。
+2. **拿 Account ID**：首页右侧栏 “Account ID”，或者 **Workers & Pages** 页面右侧，点复制。
+3. **建 API Token**：右上角头像 → **My Profile → API Tokens → Create Token** → 选 **Custom token**：
+   - Permissions：`Account` · `Cloudflare Pages` · `Edit`
+   - Account Resources：Include · 你的账号
+   - 创建后复制 token（只显示一次）。
+4. 到 GitHub 仓库 **Settings → Secrets and variables → Actions → New repository secret**，添加：
+   - `CLOUDFLARE_API_TOKEN` = 上面的 token
+   - `CLOUDFLARE_ACCOUNT_ID` = 上面的 Account ID
+5. 到 **Actions → 抓取新闻并部署网站 → Run workflow** 跑一次。成功后 Cloudflare 里会出现 `timelyreach` 项目，先能通过 `https://timelyreach.pages.dev` 访问。
+6. **绑定域名**：
+   - 推荐把域名 DNS 托管到 Cloudflare：Cloudflare 首页 **Add a domain** → 输入 `timelyreach.com` → 选 Free 计划 → Cloudflare 给你两个 nameserver，到你买域名的地方（GoDaddy / Namecheap 等）把 nameserver 改成这两个（一般几分钟到几小时生效）。
+   - **删除旧 App**：在 Cloudflare 的 **DNS → Records** 里，把旧 App 留下的 `A` / `AAAA` / `CNAME` 记录（`timelyreach.com` 和 `www`）删掉；如果旧 App 在 Vercel / Netlify / Heroku 等平台，也去那边解绑域名或删除项目。
+   - **Workers & Pages → timelyreach → Custom domains → Set up a custom domain**，依次添加 `timelyreach.com` 和 `www.timelyreach.com`，Cloudflare 会自动建 DNS 记录和 HTTPS 证书。
 
 ### 3. 开通论坛（Supabase 免费版）
 
@@ -98,6 +96,15 @@ Claude 调用开启了服务端 refusal fallback（`fallbacks: "default"`）：�
 1. [Google Search Console](https://search.google.com/search-console) 添加域名 `timelyreach.com`（DNS TXT 验证），提交 `https://timelyreach.com/sitemap.xml` 和 `https://timelyreach.com/sitemap-news.xml`。
 2. [Bing Webmaster Tools](https://www.bing.com/webmasters) 可以直接从 Google Search Console 导入。
 3. 在 `pipeline/config/site.yaml` 里调整站名、描述和关键词。
+
+## 站长荐读（推荐文章 + 你的点评）
+
+1. 打开仓库 **Issues → New issue → 站长荐读**。
+2. 填原文链接、你的点评（几句到几段都行，不要贴全文）、可选的一两句摘录、要发到的版块。标题可以留空。
+3. 提交后自动运行：机器人以你的口吻把点评整理成帖子（有 Claude key 时会润色、起标题；没有时原样发布你的点评），发到网站，在 issue 里回复帖子链接并关闭 issue。
+4. 荐读帖排在首页“今日头条”最前面，楼主显示“站长”。
+
+只认站长账号（`site.yaml` 里的 `admin_github`）开的 issue，别人开的会被忽略。
 
 ## 本地运行
 

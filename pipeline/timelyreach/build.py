@@ -45,6 +45,12 @@ def _paginate(items: list, per_page: int) -> list[list]:
     return pages or [[]]
 
 
+def _days_ago(days: int) -> str:
+    from datetime import timedelta
+
+    return (datetime.now(timezone.utc) - timedelta(days=days)).isoformat(timespec="seconds")
+
+
 def board_page_url(board_id: str, page: int) -> str:
     return f"/f/{board_id}/" if page == 1 else f"/f/{board_id}/{page}.html"
 
@@ -85,7 +91,8 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
         "index.html",
         "index.html",
         canonical=site.base_url + "/",
-        headlines=articles[:8],
+        # the owner's picks from the last two days lead the front page
+        headlines=([a for a in articles if a.source_id == "editor" and a.created >= _days_ago(2)] + [a for a in articles if a.source_id != "editor"])[:8],
         by_board={k: v[:8] for k, v in by_board.items()},
         latest_users=user_threads[:10],
     )

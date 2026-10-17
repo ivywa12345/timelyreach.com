@@ -41,8 +41,9 @@
       <header class="post-head">
         <h1>{{ a.title }}</h1>
         <div class="row-meta">
+          {% if a.source_id == 'editor' %}<span class="tag tag-pick">站长荐读</span>{% endif %}
           <span class="tag">{{ a.source_name }}</span>
-          <span>楼主：时讯小编</span> ·
+          <span>楼主：{% if a.source_id == 'editor' %}<strong>站长</strong>{% else %}时讯小编{% endif %}</span> ·
           <time datetime="{{ a.created }}">{{ a.created|datetime_cn }}</time> ·
           <span>浏览 <span class="views">–</span></span> ·
           <span>回复 <span class="replies">–</span></span>
@@ -55,7 +56,7 @@
       <footer class="post-foot">
         {% if a.tags %}<p class="tags">{% for t in a.tags %}<a class="tag" href="/search.html?q={{ t|urlencode }}">#{{ t }}</a> {% endfor %}</p>{% endif %}
         <p class="source muted">
-          {% if a.lang == 'zh' %}原帖{% else %}编译自{% endif %}：{{ a.source_name }}
+          {% if a.source_id == 'editor' %}站长推荐原文{% elif a.lang == 'zh' %}原帖{% else %}编译自{% endif %}：{{ a.source_name }}
           {% if a.original_title and a.original_title != a.title %}《{{ a.original_title }}》{% endif %}
           <a href="{{ a.source_url }}" target="_blank" rel="nofollow noopener">查看原文 ↗</a>
         </p>

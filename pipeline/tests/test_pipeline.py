@@ -118,6 +118,7 @@ def test_run_update_stores_and_dedupes(tmp_path, monkeypatch):
     monkeypatch.setattr(update, "load_sources", lambda: [src])
     monkeypatch.setattr(update, "fetch_source", lambda s: [_item(1), _item(2), _item(3)])
     monkeypatch.setattr(update, "available_providers", lambda: [FakeProvider()])
+    monkeypatch.setattr(update, "run_picks", lambda store, providers: 0)
     store = Store(tmp_path)
     assert update.run_update(store=store, max_new=10) == 2  # source limit
     store2 = Store(tmp_path)
@@ -196,3 +197,66 @@ def test_free_translate_retries_then_falls_back_to_mymemory(monkeypatch):
     monkeypatch.setattr(rewrite.time, "sleep", lambda s: None)
     assert rewrite.FreeTranslateProvider()._translate("hello") == "译文"
     assert calls == ["g", "g", "g", "m"]
+
+
+ISSUE_BODY = """### 原文链接
+
+https://www.wsj.com/finance/some-story-123
+
+### 我的点评
+
+VIX 期限结构倒挂，短期要小心。
+0DTE 卖方这周别太激进。
+
+### 原文摘录（可选，最多两句）
+
+_No response_
+
+### 发到哪个版块
+
+finance 财经股市
+"""
+
+
+def test_issue_form_parsing_and_owner_check(monkeypatch):
+    from timelyreach import picks
+
+    fields = picks.parse_issue_form(ISSUE_BODY)
+    assert fields["原文链接"] == "https://www.wsj.com/finance/some-story-123"
+    assert fields["原文摘录（可选，最多两句）"] == ""
+    assert picks.site_name("https://www.wsj.com/x") == "华尔街日报"
+    issue = {"number": 3, "title": "[荐读] 波动率要起飞了", "body": ISSUE_BODY, "user": {"login": "ivywa12345"}, "labels": []}
+    assert picks.is_pick(issue, "ivywa12345")
+    assert not picks.is_pick({**issue, "user": {"login": "stranger"}}, "ivywa12345")
+
+    monkeypatch.setattr(picks, "page_meta", lambda url: ("Volatility Is Back", "Traders brace."))
+    item = picks.issue_to_item(issue)
+    assert item.title == "波动率要起飞了" and item.board == "finance" and item.lang == "editor"
+    assert item.text.startswith("VIX 期限结构倒挂") and "Volatility Is Back" in item.summary
+
+
+def test_run_picks_posts_once_and_closes_issue(tmp_path, monkeypatch):
+    from timelyreach import picks
+
+    replies = []
+
+    class FakeGH:
+        def __init__(self, repo, token): pass
+        def open_issues(self):
+            return [
+                {"number": 3, "title": "[荐读] 波动率要起飞了", "body": ISSUE_BODY, "user": {"login": "ivywa12345"}, "labels": []},
+                {"number": 4, "title": "[荐读] spam", "body": ISSUE_BODY, "user": {"login": "stranger"}, "labels": []},
+            ]
+        def reply_and_close(self, number, text):
+            replies.append((number, text))
+
+    monkeypatch.setenv("GITHUB_REPOSITORY", "ivywa12345/timelyreach.com")
+    monkeypatch.setenv("GITHUB_TOKEN", "x")
+    monkeypatch.setattr(picks, "GitHubIssues", FakeGH)
+    monkeypatch.setattr(picks, "page_meta", lambda url: ("", ""))
+    store = Store(tmp_path)
+    assert picks.run_picks(store, [rewrite.FreeTranslateProvider()]) == 1
+    art = store.load_articles()[0]
+    assert art.source_id == "editor" and art.board == "finance" and art.body[0].startswith("VIX")
+    assert replies[0][0] == 3 and "https://timelyreach.com/t/" in replies[0][1]
+    assert picks.run_picks(store, [rewrite.FreeTranslateProvider()]) == 0  # not reposted

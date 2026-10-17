@@ -6,6 +6,7 @@ import os
 
 from .config import load_sources
 from .fetchers import fetch_full_text, fetch_source
+from .picks import run_picks
 from .rewrite import available_providers, to_article
 from .store import Store
 
@@ -21,7 +22,7 @@ def run_update(store: Store | None = None, max_new: int | None = None) -> int:
         log.error("no rewrite provider available; nothing to do")
         return 0
 
-    created = 0
+    created = run_picks(store, providers)
     for source in load_sources():
         if not source.is_active():
             log.info("source %s skipped (disabled or missing %s)", source.id, source.requires_env)

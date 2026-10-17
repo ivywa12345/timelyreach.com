@@ -181,3 +181,4 @@ h2 { font-size: 1.08rem; }
   .comment-author .level { margin: 0; }
   h1 { font-size: 1.28rem; }
 }
+.tag-pick { background: var(--brand); color: #fff; }
