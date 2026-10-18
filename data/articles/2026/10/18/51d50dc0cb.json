@@ -1,0 +1,21 @@
+{
+ "key": "51d50dc0cb",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-17/australian-home-auctions-decline-as-rate-hikes-dampen-activity",
+ "title": "澳大利亚房屋拍卖因加息而下降抑制活动",
+ "summary": "过去一周，澳大利亚拍卖的房屋数量有所下降，因为利率处于15年来的高位，拖累了房地产市场的活动。",
+ "body": [
+  "过去一周，澳大利亚拍卖的房屋数量有所下降，因为利率处于15年来的高位，拖累了房地产市场的活动。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Australian Home Auctions Decline as Rate Hikes Dampen Activity",
+ "lang": "en",
+ "published": "2026-10-17T23:57:37+00:00",
+ "created": "2026-10-18T01:02:39+00:00",
+ "rewriter": "free-translate"
+}
