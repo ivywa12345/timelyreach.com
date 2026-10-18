@@ -1,0 +1,21 @@
+{
+ "key": "58ccffd850",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/u-s-stocks-fall-as-credit-fears-haunt-tech-sector-db50c887?mod=rss_markets_main",
+ "title": "由于信贷恐慌困扰科技行业，美国股市下跌",
+ "summary": "随着人们越来越担心人工智能利润不会很快到来，以满足CoreWeave和其他有抱负的超大规模企业日益昂贵的信贷义务，美国股市下跌。",
+ "body": [
+  "随着人们越来越担心人工智能利润不会很快到来，以满足CoreWeave和其他有抱负的超大规模企业日益昂贵的信贷义务，美国股市下跌。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "U.S. Stocks Fall as Credit Fears Haunt Tech Sector",
+ "lang": "en",
+ "published": "2026-10-16T21:39:00+00:00",
+ "created": "2026-10-18T14:34:59+00:00",
+ "rewriter": "free-translate"
+}

@@ -1,0 +1,21 @@
+{
+ "key": "27414ca915",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market",
+ "title": "期权交易者支持VIX激增，因为AI Jitters Jolt市场",
+ "summary": "最近几天，美国通胀加速和人工智能行业的震荡震动了股市，一些投资者现在押注，科技股的大幅波动将最终蔓延到更广泛的市场。",
+ "body": [
+  "最近几天，美国通胀加速和人工智能行业的震荡震动了股市，一些投资者现在押注，科技股的大幅波动将最终蔓延到更广泛的市场。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Option Traders Brace for VIX Surge as AI Jitters Jolt Market",
+ "lang": "en",
+ "published": "2026-10-18T14:00:00+00:00",
+ "created": "2026-10-18T14:35:03+00:00",
+ "rewriter": "free-translate"
+}

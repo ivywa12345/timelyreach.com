@@ -1,0 +1,21 @@
+{
+ "key": "9e842666b3",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/china-rail-logs-record-3-71-billion-trips-in-first-nine-months",
+ "title": "中国铁路在前九个月创下37.1亿次出行纪录",
+ "summary": "中国国家铁路集团有限公司周日表示，中国铁路网前三个季度的客运量为37.1亿人次，比去年同期增长4.8% ，创下这一时期的纪录。",
+ "body": [
+  "中国国家铁路集团有限公司周日表示，中国铁路网前三个季度的客运量为37.1亿人次，比去年同期增长4.8% ，创下这一时期的纪录。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "China Rail Logs Record 3.71 Billion Trips in First Nine Months",
+ "lang": "en",
+ "published": "2026-10-18T03:34:56+00:00",
+ "created": "2026-10-18T14:35:07+00:00",
+ "rewriter": "free-translate"
+}
