@@ -1,0 +1,21 @@
+{
+ "key": "5b7b020004",
+ "board": "hot",
+ "source_id": "1point3acres",
+ "source_name": "一亩三分地",
+ "source_url": "https://instant.1point3acres.com/thread/1193468",
+ "title": "system design 问题",
+ "summary": "最近在准备sd，有个问题想请教大家。回答模版里都有一步是measure capacity，又是算dau，qps，等等。最后反正就是traffic比较多，需要scale,availability, latency啥的。感觉在measure的时",
+ "body": [
+  "最近在准备sd，有个问题想请教大家。回答模版里都有一步是measure capacity，又是算dau，qps，等等。最后反正就是traffic比较多，需要scale,availability, latency啥的。感觉在measure的时候很拿不准到底是多少，比如整个qps是100M还是10B？工作中我们的service里最小partition per user 的qps是10哈哈。。。。就想问这些measure重要么？随便编个数感觉有时候拿不准，但是最后都落在了怎么优化上，所以这个还有必要吗？目的是什么？",
+  "（以上为一亩三分地内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "一亩三分地"
+ ],
+ "original_title": "system design 问题",
+ "lang": "zh",
+ "published": "2026-10-18T07:03:18+00:00",
+ "created": "2026-10-18T08:02:44+00:00",
+ "rewriter": "free-translate"
+}

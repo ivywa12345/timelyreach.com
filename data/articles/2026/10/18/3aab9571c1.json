@@ -1,0 +1,21 @@
+{
+ "key": "3aab9571c1",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/kolkata-stampede-leaves-at-least-19-dead-dozens-injured",
+ "title": "加尔各答踩踏事件造成至少19人死亡，数十人受伤",
+ "summary": "周六晚上，在印度东部城市加尔各答举行的热门印度教节日期间，一场踩踏事件造成至少19人死亡， 25人受伤。",
+ "body": [
+  "周六晚上，在印度东部城市加尔各答举行的热门印度教节日期间，一场踩踏事件造成至少19人死亡， 25人受伤。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Kolkata Stampede Leaves At Least 19 Dead, Dozens Injured",
+ "lang": "en",
+ "published": "2026-10-18T05:23:16+00:00",
+ "created": "2026-10-18T08:02:16+00:00",
+ "rewriter": "free-translate"
+}

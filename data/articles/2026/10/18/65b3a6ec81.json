@@ -1,0 +1,21 @@
+{
+ "key": "65b3a6ec81",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/poland-investigates-suspected-violation-of-its-airspace",
+ "title": "波兰调查涉嫌侵犯其领空的行为",
+ "summary": "波兰武装部队作战司令部表示，波兰正在调查一夜之间可能侵犯其领空的行为。",
+ "body": [
+  "波兰武装部队作战司令部表示，波兰正在调查一夜之间可能侵犯其领空的行为。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Poland Investigates Suspected Violation of Its Airspace",
+ "lang": "en",
+ "published": "2026-10-18T06:52:54+00:00",
+ "created": "2026-10-18T08:02:14+00:00",
+ "rewriter": "free-translate"
+}
