@@ -1,0 +1,21 @@
+{
+ "key": "c968ddcc43",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/health-care-roundup-market-talk-a4c91f4c?mod=rss_markets_main",
+ "title": "医疗保健综述：市场谈话",
+ "summary": "在最新的医疗保健市场讲座中，您可以深入了解曼谷杜斯特医疗服务、Suzuken等。",
+ "body": [
+  "在最新的医疗保健市场讲座中，您可以深入了解曼谷杜斯特医疗服务、Suzuken等。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Health Care Roundup: Market Talk",
+ "lang": "en",
+ "published": "2026-10-19T20:59:00+00:00",
+ "created": "2026-10-19T22:55:12+00:00",
+ "rewriter": "free-translate"
+}
