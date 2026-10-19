@@ -1,0 +1,21 @@
+{
+ "key": "8f56e24f8e",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-19/france-s-bonds-drop-as-rioting-heaps-pressure-on-government",
+ "title": "法国债券下跌，引发政府压力",
+ "summary": "法国政府债券在周末发生暴力骚乱后下跌，突显了抗议者对生活费用的不满与无法支付维持和平费用的政府之间的紧张关系。",
+ "body": [
+  "法国政府债券在周末发生暴力骚乱后下跌，突显了抗议者对生活费用的不满与无法支付维持和平费用的政府之间的紧张关系。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "France’s Bonds Drop as Rioting Heaps Pressure on Government",
+ "lang": "en",
+ "published": "2026-10-19T07:43:55+00:00",
+ "created": "2026-10-19T08:52:41+00:00",
+ "rewriter": "free-translate"
+}
