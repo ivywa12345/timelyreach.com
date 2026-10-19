@@ -1,0 +1,21 @@
+{
+ "key": "88eb2c25b8",
+ "board": "hot",
+ "source_id": "1point3acres",
+ "source_name": "一亩三分地",
+ "source_url": "https://instant.1point3acres.com/thread/1193308",
+ "title": "2027 NG Stripe挂经",
+ "summary": "记录一下2027 NG Stripe 挂经（顺带应该是全网最齐全StripeNG资料准备） Timeline 2026.9.3开岗找了朋友内推->2026.9.4拿到OA->2026.9.6完成OA，半小时AC->2026.9.10收到HR",
+ "body": [
+  "记录一下2027 NG Stripe 挂经（顺带应该是全网最齐全StripeNG资料准备） Timeline 2026.9.3开岗找了朋友内推->2026.9.4拿到OA->2026.9.6完成OA，半小时AC->2026.9.10收到HR邮件约Technical Screening->约了9.16Technical Screening->9.16面试官临时有事，等了15分钟重新约了9.25Technical Screen->9.25Technical Screening AC->9.27收到Technical Screen通过让我约VO->约了10.12一轮AICoding，10.13Integration+BugSquash的->10.15挂 https://drive.google.com/file/d/18uVY0ij0Nux_hgFL0CyONhrxjVIkDFas/view?usp=sharing 先放资料 整个前前后后准备了快一个月，翻遍了xhs/过去地理的题，整理出来了这一份我认为应该很难更加齐全的资料了，鉴于资料零散分布这里没办法记录每个原帖是哪一个，如果有原贴主的话可以联系我我在这里特别致谢一下 资料包括： OA/Technical Screen的题库（整理齐全的pdf文档） AICoding：收集的比较乱，随便看看就行，可以看我挂经聊的内容 Integration：Bikemap, Payment Reconciliation, Request Replay（看题目的样子和地理找到的时间可以认为已经不再使用了） BugSquash： Python：Mako，Requests，Colander Java（因为我选Python所以没做过，确定有遗漏新题）：Moshi Integration： Bikemap总共5个部分，一般要求总共3个部分就足够，目前没有人说第4/5个部分是什么 Payment Reconciliation总共4个部分，第4个部分明确说明不要求 BugSquash： Mako：bug1：AST中遗漏了visit_arg函数；bug2：",
+  "（以上为一亩三分地内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "一亩三分地"
+ ],
+ "original_title": "2027 NG Stripe挂经",
+ "lang": "zh",
+ "published": "2026-10-19T01:02:24+00:00",
+ "created": "2026-10-19T01:17:56+00:00",
+ "rewriter": "free-translate"
+}

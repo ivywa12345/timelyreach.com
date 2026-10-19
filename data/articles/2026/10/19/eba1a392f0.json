@@ -1,0 +1,21 @@
+{
+ "key": "eba1a392f0",
+ "board": "hot",
+ "source_id": "1point3acres",
+ "source_name": "一亩三分地",
+ "source_url": "https://instant.1point3acres.com/thread/1193510",
+ "title": "在非AI组如何获得AI经验",
+ "summary": "如题 lz是亚麻retail底下SDE，做的内容是非常business focused的电商相关的传统distributed system。目前为止所有的AI经验基本都在应用层，就是用claude code，别人的agent，skills，",
+ "body": [
+  "如题 lz是亚麻retail底下SDE，做的内容是非常business focused的电商相关的传统distributed system。目前为止所有的AI经验基本都在应用层，就是用claude code，别人的agent，skills，mcp之类的。我是自己比较感兴趣，下一份工作也想找AI开发相关的，但是平时工作中可能真的没有机会去做这些东西。 我看了下内部转组去做ai相关的可能性，感觉也比较低。跟AI沾边的组都有好多人投了，然后HM也不太理人。 那么现在的问题就是： 在日常工作如果无法触及到AI开发相关的内容的话，自己有没有什么好办法可以在业余时间里获得一些hands on exprience？AI开发就比如说做agent harness, mcp之类的 这些hands on experience能写到简历里面为下一次跳槽找AI开发相关工作提供帮助嘛？ 前面想到了可以去给一些开源repo写点代码修点bug，比如发现aws有个开源的agent harness sdk，但是不知道这个方向需要做到何种程度",
+  "（以上为一亩三分地内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "一亩三分地"
+ ],
+ "original_title": "在非AI组如何获得AI经验",
+ "lang": "zh",
+ "published": "2026-10-19T01:13:54+00:00",
+ "created": "2026-10-19T01:17:56+00:00",
+ "rewriter": "free-translate"
+}

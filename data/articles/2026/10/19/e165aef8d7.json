@@ -1,0 +1,21 @@
+{
+ "key": "e165aef8d7",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-18/euro-falls-as-russia-risk-france-protests-dent-trader-sentiment",
+ "title": "欧元因俄罗斯风险而下跌，法国抗议凹痕交易者情绪",
+ "summary": "随着乌克兰紧张局势升级，欧元对大多数10国集团同行下跌，法国的广泛抗议加剧了对该国财政状况的担忧。",
+ "body": [
+  "随着乌克兰紧张局势升级，欧元对大多数10国集团同行下跌，法国的广泛抗议加剧了对该国财政状况的担忧。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Euro Falls as Russia Risk, France Protests Dent Trader Sentiment",
+ "lang": "en",
+ "published": "2026-10-18T23:17:52+00:00",
+ "created": "2026-10-19T01:17:24+00:00",
+ "rewriter": "free-translate"
+}
