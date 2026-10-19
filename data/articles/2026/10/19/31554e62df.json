@@ -1,0 +1,21 @@
+{
+ "key": "31554e62df",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-19/coreweave-upgraded-to-buy-at-goldman-on-overblown-debt-worries",
+ "title": "CoreWeave因债务担忧夸大而升级为高盛买入",
+ "summary": "CoreWeave Inc.被升级为从高盛(Goldman Sachs)的中立公司购买，此举代表了在与债务相关的股票经历了一段时间的剧烈波动后，对该云计算提供商的信任投票。",
+ "body": [
+  "CoreWeave Inc.被升级为从高盛(Goldman Sachs)的中立公司购买，此举代表了在与债务相关的股票经历了一段时间的剧烈波动后，对该云计算提供商的信任投票。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "CoreWeave Upgraded to Buy at Goldman on Overblown Debt Worries",
+ "lang": "en",
+ "published": "2026-10-19T17:12:49+00:00",
+ "created": "2026-10-19T17:29:36+00:00",
+ "rewriter": "free-translate"
+}
