@@ -1,0 +1,21 @@
+{
+ "key": "4e8bcb2317",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-20/latest-oil-market-news-and-analysis-for-oct-21",
+ "title": "10月21日石油市场最新消息和分析",
+ "summary": "在周二经历了波涛汹涌的会议之后，油价走势稳定，交易员们对结束美伊战争的努力进行了相互矛盾的头条新闻解读。",
+ "body": [
+  "在周二经历了波涛汹涌的会议之后，油价走势稳定，交易员们对结束美伊战争的努力进行了相互矛盾的头条新闻解读。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Latest Oil Market News and Analysis for Oct. 21",
+ "lang": "en",
+ "published": "2026-10-20T22:04:52+00:00",
+ "created": "2026-10-20T22:18:36+00:00",
+ "rewriter": "free-translate"
+}

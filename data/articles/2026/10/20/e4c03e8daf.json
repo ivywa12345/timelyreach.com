@@ -1,0 +1,21 @@
+{
+ "key": "e4c03e8daf",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/french-government-bonds-recover-as-yields-on-eurozone-u-s-peers-fall-cf473ce6?mod=rss_markets_main",
+ "title": "美国国债收益率因住房数据疲软而下跌",
+ "summary": "在一系列低于预期的住房报告凸显抵押贷款利率上升的压力后，美国国债收益率小幅下降。",
+ "body": [
+  "在一系列低于预期的住房报告凸显抵押贷款利率上升的压力后，美国国债收益率小幅下降。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Treasury Yields Fall on String of Weak Housing Data",
+ "lang": "en",
+ "published": "2026-10-20T18:51:00+00:00",
+ "created": "2026-10-20T22:18:31+00:00",
+ "rewriter": "free-translate"
+}

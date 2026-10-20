@@ -1,0 +1,21 @@
+{
+ "key": "1e4acae051",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/financial-services-roundup-market-talk-c6d7409e?mod=rss_markets_main",
+ "title": "金融服务综述：市场谈话",
+ "summary": "在涵盖金融服务的最新市场洽谈中，了解有关Equifax、加拿大房价等的见解。",
+ "body": [
+  "在涵盖金融服务的最新市场洽谈中，了解有关Equifax、加拿大房价等的见解。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Financial Services Roundup: Market Talk",
+ "lang": "en",
+ "published": "2026-10-20T21:05:00+00:00",
+ "created": "2026-10-20T22:18:29+00:00",
+ "rewriter": "free-translate"
+}
