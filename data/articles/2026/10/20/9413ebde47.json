@@ -1,0 +1,21 @@
+{
+ "key": "9413ebde47",
+ "board": "hot",
+ "source_id": "1point3acres",
+ "source_name": "一亩三分地",
+ "source_url": "https://instant.1point3acres.com/thread/1193640",
+ "title": "终于从本版拿到毕业证了，记录一下timeline给大家参考",
+ "summary": "最近版上气氛好低沉，希望马上有很多好消息 PD：21.9 交表：25.10 打指纹：25.12 不同于当时版上大部分人两周就收到指纹信，我们等了两个多月，收到后马上改到最近的日期。实际打指纹那天office特别空闲，不懂为什么安排得这么慢",
+ "body": [
+  "最近版上气氛好低沉，希望马上有很多好消息 PD：21.9 交表：25.10 打指纹：25.12 不同于当时版上大部分人两周就收到指纹信，我们等了两个多月，收到后马上改到最近的日期。实际打指纹那天office特别空闲，不懂为什么安排得这么慢 Combo：26.1 这个时候API显示有三个FTA0。有点不走运的是根据12月新规定，卡的有效期只给18个月了，我们正好错过了5年卡 485J close: 26.2 因为表A没到自然没有成为485J批准后24小时暴绿的幸运儿 之后就是漫长的等待了。API有时候一个月有好几个Silent update有时候两个月都不动，我查看的频率大概是两周查一次，保守估计一共SU过十几次。可能是因为PD一直没有到所以心态比较平和吧，在整个申请过程中一次也没有联系过Emma，就是每天会来版上刷一下看看大家的报喜帖子，然后每个月底期待一下表A可以前进。忘了啥时候发现版上有人发帖给了可以看location的API的帖子，点进去看了一下是在一个non-local FO，这个API显示的location自从我开始查看以来从来没变过 Approval：26.10 作为21.9月的PD其实有点煎熬的，交了表以后表A连着几个月大幅前进，但是之后有半年就停在8月一动不动了，有种明明近在咫尺但是够不着的感觉。心里觉得新财年肯定能排到了，结果新财年的pd拖到月底还一直不发布，所以10月份pd current之后马上被批准真的有一点意外之喜的感觉。 我自己常用的几个链接，把自己的Receipt number加到链接最后就可以查看了： 1.查看update code和silent update https://my.uscis.gov/account/case-service/api/cases/IOE 2.查看location，据说不是实时的，显示的是上一次更新时候的location https://my.uscis.gov/account/case-service/api/case_status/IOE 3.可以免费常看附近200个cases的状态，但是更新有几天的滞",
+  "（以上为一亩三分地内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "一亩三分地"
+ ],
+ "original_title": "终于从本版拿到毕业证了，记录一下timeline给大家参考",
+ "lang": "zh",
+ "published": "2026-10-20T01:35:53+00:00",
+ "created": "2026-10-20T01:51:27+00:00",
+ "rewriter": "free-translate"
+}
