@@ -1,0 +1,21 @@
+{
+ "key": "379e330ea2",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-20/brazil-halts-poultry-shipments-to-top-buyer-china-after-disease",
+ "title": "巴西在疫情爆发后停止向中国运送家禽",
+ "summary": "在确认了一例病毒性、高度传染性的新城疫病例后，巴西已停止向其最大买家中国运送所有家禽。",
+ "body": [
+  "在确认了一例病毒性、高度传染性的新城疫病例后，巴西已停止向其最大买家中国运送所有家禽。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Brazil Halts Poultry Shipments to China After Disease Outbreak",
+ "lang": "en",
+ "published": "2026-10-20T15:05:33+00:00",
+ "created": "2026-10-20T15:40:35+00:00",
+ "rewriter": "free-translate"
+}
