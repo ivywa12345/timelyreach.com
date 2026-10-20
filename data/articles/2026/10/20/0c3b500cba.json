@@ -1,0 +1,21 @@
+{
+ "key": "0c3b500cba",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nikkei-falls-amid-lingering-worry-over-ai-boom-amid-elevated-bond-yields-6628932c?mod=rss_markets_main",
+ "title": "欧洲股市开盘下跌，延续周一亏损",
+ "summary": "欧洲股指在开盘时下跌，延续了上个交易日的大幅下跌。技术和能源密集型库存步履蹒跚。",
+ "body": [
+  "欧洲股指在开盘时下跌，延续了上个交易日的大幅下跌。技术和能源密集型库存步履蹒跚。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "European Stocks Fall at Open, Extend Monday’s Losses",
+ "lang": "en",
+ "published": "2026-10-20T07:38:00+00:00",
+ "created": "2026-10-20T08:32:57+00:00",
+ "rewriter": "free-translate"
+}

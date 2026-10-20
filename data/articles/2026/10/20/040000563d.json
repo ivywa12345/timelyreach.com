@@ -1,0 +1,21 @@
+{
+ "key": "040000563d",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/asian-stocks-fall-bucking-u-s-tech-rebound-d5c7aa96?mod=rss_markets_main",
+ "title": "亚洲股市下跌，抵消美国科技股反弹",
+ "summary": "在持续的人工智能投资担忧和油价上涨的背景下，亚洲股市周二继续下跌，一夜之间摆脱了华尔街的反弹。",
+ "body": [
+  "在持续的人工智能投资担忧和油价上涨的背景下，亚洲股市周二继续下跌，一夜之间摆脱了华尔街的反弹。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Asian Stocks Fall, Bucking U.S. Tech Rebound",
+ "lang": "en",
+ "published": "2026-10-20T06:23:00+00:00",
+ "created": "2026-10-20T08:32:59+00:00",
+ "rewriter": "free-translate"
+}
