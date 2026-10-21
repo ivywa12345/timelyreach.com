@@ -1,0 +1,21 @@
+{
+ "key": "524e69bf8a",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/asia/chinese-ai-tool-linked-to-hacks-in-japan-4813d13b?mod=rss_worldnews",
+ "title": "中国人工智能工具链接到日本的黑客",
+ "summary": "大约80家日本公司成为海外黑客攻击的目标，这些黑客攻击带有中国开发的人工智能代理Artex的数字痕迹。",
+ "body": [
+  "大约80家日本公司成为海外黑客攻击的目标，这些黑客攻击带有中国开发的人工智能代理Artex的数字痕迹。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Chinese AI Tool Linked to Hacks in Japan",
+ "lang": "en",
+ "published": "2026-10-21T10:30:00+00:00",
+ "created": "2026-10-21T15:58:28+00:00",
+ "rewriter": "free-translate"
+}

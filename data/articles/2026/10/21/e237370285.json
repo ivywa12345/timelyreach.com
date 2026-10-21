@@ -1,0 +1,21 @@
+{
+ "key": "e237370285",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/healthcare-stocks-are-rallying-and-flashing-a-warning-for-the-rest-of-the-market-ae13aa0b?mod=rss_markets_main",
+ "title": "医疗保健股正在反弹，并对市场其他地区发出警告",
+ "summary": "该行业正在溢价交易，因为投资者希望从人工智能的紧张局势中寻求安全保障。",
+ "body": [
+  "该行业正在溢价交易，因为投资者希望从人工智能的紧张局势中寻求安全保障。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Healthcare Stocks Are Rallying, and Flashing a Warning for the Rest of the Market",
+ "lang": "en",
+ "published": "2026-10-21T09:30:00+00:00",
+ "created": "2026-10-21T15:58:37+00:00",
+ "rewriter": "free-translate"
+}
