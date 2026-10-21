@@ -1,0 +1,21 @@
+{
+ "key": "c1d7332292",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-21/us-orders-some-diplomats-out-of-saudi-arabia-amid-houthi-attacks",
+ "title": "在胡塞武装袭击期间，美国命令一些外交官离开沙特阿拉伯",
+ "summary": "由于邻国也门的胡塞武装分子威胁日益严重，美国国务院下令非紧急人员及其家属离开沙特阿拉伯。",
+ "body": [
+  "由于邻国也门的胡塞武装分子威胁日益严重，美国国务院下令非紧急人员及其家属离开沙特阿拉伯。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "US Orders Some Diplomats Out of Saudi Arabia Amid Houthi Attacks",
+ "lang": "en",
+ "published": "2026-10-21T20:08:04+00:00",
+ "created": "2026-10-21T22:21:42+00:00",
+ "rewriter": "free-translate"
+}

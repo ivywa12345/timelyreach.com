@@ -1,0 +1,21 @@
+{
+ "key": "cfded63c9e",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-21/latest-oil-market-news-and-analysis-for-oct-22",
+ "title": "10月22日石油市场最新消息和分析",
+ "summary": "在沙特油田遭到致命袭击后，石油价格上涨，引发了人们对中东敌对行动升级可能影响供应的担忧，即使最近几个月通过霍尔木兹海峡的出口加速。",
+ "body": [
+  "在沙特油田遭到致命袭击后，石油价格上涨，引发了人们对中东敌对行动升级可能影响供应的担忧，即使最近几个月通过霍尔木兹海峡的出口加速。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Latest Oil Market News and Analysis for Oct. 22",
+ "lang": "en",
+ "published": "2026-10-21T22:05:54+00:00",
+ "created": "2026-10-21T22:21:39+00:00",
+ "rewriter": "free-translate"
+}
