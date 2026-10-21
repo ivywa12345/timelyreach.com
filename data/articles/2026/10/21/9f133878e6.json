@@ -1,0 +1,21 @@
+{
+ "key": "9f133878e6",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-21/nickel-extends-rebound-on-prospect-of-indonesian-production-cuts",
+ "title": "印尼产量削减前景镍价上涨超过$ 16,000",
+ "summary": "由于中国生产商在印尼协调减产的前景提高了供应紧张的预期，镍价连续第四天上涨。",
+ "body": [
+  "由于中国生产商在印尼协调减产的前景提高了供应紧张的预期，镍价连续第四天上涨。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Nickel Rallies Past $16,000 on Prospect of Indonesia Output Cuts",
+ "lang": "en",
+ "published": "2026-10-21T04:02:23+00:00",
+ "created": "2026-10-21T08:34:46+00:00",
+ "rewriter": "free-translate"
+}
