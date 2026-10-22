@@ -1,0 +1,21 @@
+{
+ "key": "7281600cfe",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-22/typhoon-champi-shuts-taiwan-s-5-trillion-stock-market",
+ "title": "台风冠军关闭台湾5万亿美元股市（ $ 5 Trillion Stock Market ）",
+ "summary": "台湾证券交易所将于周五关闭，因为台风Champi接近该岛，带来大雨和强风，促使当局关闭了首都台北的办公室和学校。",
+ "body": [
+  "台湾证券交易所将于周五关闭，因为台风Champi接近该岛，带来大雨和强风，促使当局关闭了首都台北的办公室和学校。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Typhoon Champi Shuts Taiwan’s $5 Trillion Stock Market",
+ "lang": "en",
+ "published": "2026-10-22T13:28:31+00:00",
+ "created": "2026-10-22T22:21:38+00:00",
+ "rewriter": "free-translate"
+}

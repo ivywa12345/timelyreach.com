@@ -1,0 +1,21 @@
+{
+ "key": "af5f88f6b0",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/tech-stocks-fall-on-ai-concerns-eea49847?mod=rss_markets_main",
+ "title": "科技股因人工智能担忧而下跌",
+ "summary": "此外， Meta股价在披露进一步支出承诺后下跌，国库券收益率跌至5%以下。",
+ "body": [
+  "此外， Meta股价在披露进一步支出承诺后下跌，国库券收益率跌至5%以下。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Tech Stocks Fall on AI Concerns",
+ "lang": "en",
+ "published": "2026-10-22T20:26:00+00:00",
+ "created": "2026-10-22T22:21:29+00:00",
+ "rewriter": "free-translate"
+}
