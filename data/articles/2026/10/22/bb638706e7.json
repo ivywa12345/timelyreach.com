@@ -1,0 +1,21 @@
+{
+ "key": "bb638706e7",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/french-government-bond-yields-rise-spread-widens-as-treasury-yields-fall-e67fc4cd?mod=rss_markets_main",
+ "title": "随着国债收益率下跌，法国政府债券收益率上升，利差扩大",
+ "summary": "法国政府债券再次受到强烈的抛售压力， 10年期法国和德国债券收益率之间的利差达到2011年以来的最高水平。",
+ "body": [
+  "法国政府债券再次受到强烈的抛售压力， 10年期法国和德国债券收益率之间的利差达到2011年以来的最高水平。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "French Government-Bond Yields Rise, Spread Widens as Treasury Yields Fall",
+ "lang": "en",
+ "published": "2026-10-22T07:21:00+00:00",
+ "created": "2026-10-22T08:36:52+00:00",
+ "rewriter": "free-translate"
+}
