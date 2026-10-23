@@ -1,0 +1,21 @@
+{
+ "key": "f298f08f18",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-23/gold-holds-near-three-month-low-as-ai-jitters-fuel-volatility",
+ "title": "金价跌至7月低点，因通胀担忧在美联储面前加剧",
+ "summary": "黄金跌至7月以来的最低水平，原因是能源价格再度走强和美国消费者信心减弱，加剧了通胀担忧，而通胀担忧恰好在美联储下次政策会议前几天。",
+ "body": [
+  "黄金跌至7月以来的最低水平，原因是能源价格再度走强和美国消费者信心减弱，加剧了通胀担忧，而通胀担忧恰好在美联储下次政策会议前几天。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Gold Falls to July Low as Inflation Concerns Weigh Before Fed",
+ "lang": "en",
+ "published": "2026-10-23T00:15:37+00:00",
+ "created": "2026-10-23T15:46:07+00:00",
+ "rewriter": "free-translate"
+}

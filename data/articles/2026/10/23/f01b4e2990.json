@@ -1,0 +1,21 @@
+{
+ "key": "f01b4e2990",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026?mod=rss_markets_main",
+ "title": "今日股市：道琼斯指数下滑，油价攀升至五个月来最高水平",
+ "summary": "周四抛售后，纳斯达克亏损更加温和",
+ "body": [
+  "周四抛售后，纳斯达克亏损更加温和",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Stock Market Today: Dow Slides as Oil Prices Climb to Highest in Five Months",
+ "lang": "en",
+ "published": "2026-10-23T09:07:32+00:00",
+ "created": "2026-10-23T15:45:50+00:00",
+ "rewriter": "free-translate"
+}

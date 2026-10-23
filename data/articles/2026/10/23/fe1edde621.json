@@ -1,0 +1,21 @@
+{
+ "key": "fe1edde621",
+ "board": "hot",
+ "source_id": "1point3acres",
+ "source_name": "一亩三分地",
+ "source_url": "https://instant.1point3acres.com/thread/1194083",
+ "title": "【面经】Anthropic Coding：调试 LRU 缓存的 Bug，再让它崩溃后能恢复（WAL + 快照）",
+ "summary": "分享一道我 Anthropic 电面遇到的题，分两部分：先给一个现有的缓存实现找 bug 并修好，再给它加上崩溃恢复。把我的做法贴出来供讨论。 题面。 给你一个内存里的 LRU 缓存（容量固定，满了淘汰最久未用的 key），在生产环境行为异",
+ "body": [
+  "分享一道我 Anthropic 电面遇到的题，分两部分：先给一个现有的缓存实现找 bug 并修好，再给它加上崩溃恢复。把我的做法贴出来供讨论。 题面。 给你一个内存里的 LRU 缓存（容量固定，满了淘汰最久未用的 key），在生产环境行为异常。第一部分：找出并修复所有 bug。第二部分：扩展它，让内容在进程崩溃重启后还能恢复。原始代码： class LRUCache: def __init__(self, capacity): self.capacity = capacity self.data = {} # key -> value self.order = [] # keys, 从最久未用（前）到最近用过（后） def get(self, key): if key in self.data: return self.data return None def put(self, key, value): if len(self.data) > self.capacity: oldest = self.order.pop() del self.data self.data = value self.order.append(key) 我先确认了几个问题：get 算不算一次「使用」（算，LRU 里读就是使用）；put 已存在的 key 应该刷新它的位置且不触发淘汰；capacity 为 0 时不存任何东西；持久化目标是进程崩溃（整机断电放在后续追问里）。 第一部分 —— 五个 bug，每个都给出复现序列 get 不刷新 recency。",
+  "（以上为一亩三分地内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "一亩三分地"
+ ],
+ "original_title": "【面经】Anthropic Coding：调试 LRU 缓存的 Bug，再让它崩溃后能恢复（WAL + 快照）",
+ "lang": "zh",
+ "published": "2026-10-23T15:34:45+00:00",
+ "created": "2026-10-23T15:46:45+00:00",
+ "rewriter": "free-translate"
+}
