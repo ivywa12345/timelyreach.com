@@ -1,0 +1,21 @@
+{
+ "key": "e126388b08",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-23/korean-stocks-drop-on-chip-losses-after-us-selloff-oil-gains",
+ "title": "在美国抛售、油价上涨后，韩国股市因芯片亏损而下跌",
+ "summary": "在油价上涨导致美国科技股隔夜抛售后，重量级芯片制造商下跌，韩国股市回落。",
+ "body": [
+  "在油价上涨导致美国科技股隔夜抛售后，重量级芯片制造商下跌，韩国股市回落。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Korean Stocks Drop on Chip Losses After US Selloff, Oil Gains",
+ "lang": "en",
+ "published": "2026-10-23T00:06:35+00:00",
+ "created": "2026-10-23T01:31:31+00:00",
+ "rewriter": "free-translate"
+}

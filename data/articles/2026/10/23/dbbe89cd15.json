@@ -1,0 +1,21 @@
+{
+ "key": "dbbe89cd15",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/articles/health-care-roundup-market-talk-78d0473d?mod=rss_markets_main",
+ "title": "医疗保健综述：市场谈话",
+ "summary": "在涵盖医疗保健行业的最新市场讲座中，了解有关罗氏控股、CSL等的见解。",
+ "body": [
+  "在涵盖医疗保健行业的最新市场讲座中，了解有关罗氏控股、CSL等的见解。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Health Care Roundup: Market Talk",
+ "lang": "en",
+ "published": "2026-10-22T20:57:00+00:00",
+ "created": "2026-10-23T01:31:27+00:00",
+ "rewriter": "free-translate"
+}

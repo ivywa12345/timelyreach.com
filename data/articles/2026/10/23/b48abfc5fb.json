@@ -1,0 +1,21 @@
+{
+ "key": "b48abfc5fb",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-22/japan-inflation-rises-above-boj-target-level-backing-rate-hikes",
+ "title": "日本通胀高于日本央行目标，支持加息",
+ "summary": "日本的关键物价指数今年首次高于日本央行的目标水平，这为日本央行12月份普遍预期的加息提供了支持。",
+ "body": [
+  "日本的关键物价指数今年首次高于日本央行的目标水平，这为日本央行12月份普遍预期的加息提供了支持。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Japan Inflation Rises Above BOJ Target, Backing Rate Hikes",
+ "lang": "en",
+ "published": "2026-10-22T23:32:16+00:00",
+ "created": "2026-10-23T01:31:37+00:00",
+ "rewriter": "free-translate"
+}
