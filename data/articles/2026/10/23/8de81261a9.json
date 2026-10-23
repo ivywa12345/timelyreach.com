@@ -1,0 +1,21 @@
+{
+ "key": "8de81261a9",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-23/copper-heads-for-weekly-loss-as-ai-selloff-hurts-risk-appetite",
+ "title": "随着人工智能股票抛售的缓解，铜价每周下跌",
+ "summary": "随着科技股抛售的缓解，铜价在四周内减少了第三周的亏损，缓解了对数据中心和电力基础设施所用金属需求的担忧。",
+ "body": [
+  "随着科技股抛售的缓解，铜价在四周内减少了第三周的亏损，缓解了对数据中心和电力基础设施所用金属需求的担忧。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Copper Pares Weekly Decline as Selloff in AI Stocks Eases",
+ "lang": "en",
+ "published": "2026-10-23T03:00:19+00:00",
+ "created": "2026-10-23T08:33:13+00:00",
+ "rewriter": "free-translate"
+}

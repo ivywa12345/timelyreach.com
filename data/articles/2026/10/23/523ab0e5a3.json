@@ -1,0 +1,21 @@
+{
+ "key": "523ab0e5a3",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-bank-stocks-762642bf?mod=rss_markets_main",
+ "title": "欧洲指数因能源密集型股票下跌而下跌",
+ "summary": "欧洲股指在早期交易中好坏参半，因为油价上涨拖累了欧洲大陆，而盈利推动了大规模的个人走势。",
+ "body": [
+  "欧洲股指在早期交易中好坏参半，因为油价上涨拖累了欧洲大陆，而盈利推动了大规模的个人走势。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "European Indexes Lower as Energy-Intensive Stocks Falter",
+ "lang": "en",
+ "published": "2026-10-23T07:40:00+00:00",
+ "created": "2026-10-23T08:33:02+00:00",
+ "rewriter": "free-translate"
+}
