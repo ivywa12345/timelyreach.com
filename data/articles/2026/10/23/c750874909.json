@@ -1,0 +1,21 @@
+{
+ "key": "c750874909",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-23/data-centers-face-downgrade-risk-amid-local-pushback-s-p-says",
+ "title": "标准普尔表示，数据中心在本地推回中面临降级风险",
+ "summary": "根据标准普尔全球评级，由于公众反对的暂停和取消，数据中心面临潜在的信用评级下调。",
+ "body": [
+  "根据标准普尔全球评级，由于公众反对的暂停和取消，数据中心面临潜在的信用评级下调。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Data Centers Face Downgrade Risk Amid Local Pushback, S&P Says",
+ "lang": "en",
+ "published": "2026-10-23T21:56:15+00:00",
+ "created": "2026-10-23T22:11:19+00:00",
+ "rewriter": "free-translate"
+}

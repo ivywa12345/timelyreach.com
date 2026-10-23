@@ -1,0 +1,21 @@
+{
+ "key": "f81859e227",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/stocks-pulled-in-two-directions-fall-to-end-volatile-week-0c2042a8?mod=rss_markets_main",
+ "title": "股票双向拉动，下跌至周末波动",
+ "summary": "通货膨胀和对人工智能的紧张情绪正在争夺投资者的注意力。",
+ "body": [
+  "通货膨胀和对人工智能的紧张情绪正在争夺投资者的注意力。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Stocks, Pulled in Two Directions, Fall to End Volatile Week",
+ "lang": "en",
+ "published": "2026-10-23T21:10:00+00:00",
+ "created": "2026-10-23T22:11:10+00:00",
+ "rewriter": "free-translate"
+}
