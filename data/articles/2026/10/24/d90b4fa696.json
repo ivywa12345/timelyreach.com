@@ -1,0 +1,21 @@
+{
+ "key": "d90b4fa696",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-24/kenya-records-second-ebola-death-a-close-relative-of-first-case",
+ "title": "肯尼亚记录第二例埃博拉死亡，与首例病例密切相关",
+ "summary": "肯尼亚报告了第二例埃博拉病毒死亡病例，这名65岁的女性是该指数病例的近亲。",
+ "body": [
+  "肯尼亚报告了第二例埃博拉病毒死亡病例，这名65岁的女性是该指数病例的近亲。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Kenya Records Second Ebola Death, a Close Relative of First Case",
+ "lang": "en",
+ "published": "2026-10-24T04:41:29+00:00",
+ "created": "2026-10-24T08:08:23+00:00",
+ "rewriter": "free-translate"
+}

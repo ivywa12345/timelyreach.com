@@ -1,0 +1,21 @@
+{
+ "key": "d4573db42d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-24/us-lng-project-developer-funded-by-russia-s-novatek-ft-says",
+ "title": "英国《金融时报》称，由俄罗斯Novatek资助的美国液化天然气项目开发商",
+ "summary": "据英国《金融时报》报道，阿拉斯加液化天然气设施的开发商获得了俄罗斯能源巨头Novatek PJSC的资助，该公司受到美国的制裁。",
+ "body": [
+  "据英国《金融时报》报道，阿拉斯加液化天然气设施的开发商获得了俄罗斯能源巨头Novatek PJSC的资助，该公司受到美国的制裁。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "US LNG Project Developer Funded by Russia’s Novatek, FT Says",
+ "lang": "en",
+ "published": "2026-10-24T04:24:04+00:00",
+ "created": "2026-10-24T08:08:21+00:00",
+ "rewriter": "free-translate"
+}

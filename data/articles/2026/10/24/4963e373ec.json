@@ -1,0 +1,21 @@
+{
+ "key": "4963e373ec",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-oil-prices-hit-five-month-high-a800db83?mod=rss_markets_main",
+ "title": "随着油价触及五个月高位，美国股市下跌",
+ "summary": "随着华尔街继续转向风险较低的投资，以及油价攀升至五个月来的最高水平，美国股市下跌。",
+ "body": [
+  "随着华尔街继续转向风险较低的投资，以及油价攀升至五个月来的最高水平，美国股市下跌。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "U.S. Stocks Fall as Oil Prices Hit Five-Month High",
+ "lang": "en",
+ "published": "2026-10-23T20:34:00+00:00",
+ "created": "2026-10-24T08:08:11+00:00",
+ "rewriter": "free-translate"
+}

@@ -1,0 +1,21 @@
+{
+ "key": "c7ae34fd8b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-24/swiss-stocks-are-becoming-a-haven-from-ai-fears-roiling-markets",
+ "title": "瑞士股市正在成为人工智能恐慌市场的避风港",
+ "summary": "瑞士超防御性大公司的股票是欧洲股市动荡时期的亮点。",
+ "body": [
+  "瑞士超防御性大公司的股票是欧洲股市动荡时期的亮点。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Swiss Stocks Are Becoming a Haven From AI Fears Roiling Markets",
+ "lang": "en",
+ "published": "2026-10-24T07:00:00+00:00",
+ "created": "2026-10-24T08:08:19+00:00",
+ "rewriter": "free-translate"
+}

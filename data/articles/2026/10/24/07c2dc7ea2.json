@@ -1,0 +1,21 @@
+{
+ "key": "07c2dc7ea2",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/u-s-tech-stocks-drop-on-ai-spending-concerns-05400b55?mod=rss_markets_main",
+ "title": "美国科技股因人工智能支出担忧而下跌",
+ "summary": "随着投资者越来越担心人工智能支出飙升将不可持续，美国科技股大幅下跌。",
+ "body": [
+  "随着投资者越来越担心人工智能支出飙升将不可持续，美国科技股大幅下跌。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "U.S. Tech Stocks Drop on AI Spending Concerns",
+ "lang": "en",
+ "published": "2026-10-22T20:45:00+00:00",
+ "created": "2026-10-24T08:08:13+00:00",
+ "rewriter": "free-translate"
+}
