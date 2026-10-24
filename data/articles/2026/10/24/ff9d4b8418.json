@@ -1,0 +1,21 @@
+{
+ "key": "ff9d4b8418",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-23/nyse-options-exchange-trading-halted-by-technical-issue",
+ "title": "纽约证券交易所期权交易所因“技术问题”暂停交易",
+ "summary": "纽约证券交易所的一家期权交易所已暂停交易，导致其他交易所无视场地的报价。",
+ "body": [
+  "纽约证券交易所的一家期权交易所已暂停交易，导致其他交易所无视场地的报价。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "NYSE Options Exchange Trading Halted by ‘Technical Issue’",
+ "lang": "en",
+ "published": "2026-10-23T15:16:45+00:00",
+ "created": "2026-10-24T01:35:50+00:00",
+ "rewriter": "free-translate"
+}
