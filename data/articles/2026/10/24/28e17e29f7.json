@@ -1,0 +1,21 @@
+{
+ "key": "28e17e29f7",
+ "board": "hot",
+ "source_id": "1point3acres",
+ "source_name": "一亩三分地",
+ "source_url": "https://instant.1point3acres.com/thread/1191444",
+ "title": "请教各位：【估计】2026 各大厂 E5/E6 四年 cliff 之后 TC 中位数",
+ "summary": "RT，整理了一下 2026 年这几家 E5/E6 在四年 cliff 之后（第 5 年起，靠 refresher 续命）的年 TC 中位数。先叠甲：都是估计值，公开数据（levels 之类）偏向入职第一年，cliff 之后没有大样本，看趋势",
+ "body": [
+  "RT，整理了一下 2026 年这几家 E5/E6 在四年 cliff 之后（第 5 年起，靠 refresher 续命）的年 TC 中位数。先叠甲：都是估计值，公开数据（levels 之类）偏向入职第一年，cliff 之后没有大样本，看趋势别抠精确数字。 E5 cliff 后中位数（单位 $k）： Meta 450，Google 380，Dropbox 340，Uber 400，DoorDash 400，Databricks 550（纸面） E6 cliff 后中位数： Meta 700，Google 600，Dropbox 480，Uber 600，DoorDash 580，Databricks 850（纸面） 几点说明： 1. Databricks 至今没 IPO，CEO 已明确 2026 不上市、推到 2027 下半年，8 月按 $190B 估值融了 $50 亿。所以它的数字全是纸面财富，变现只能靠公司 tender offer，现金部分（base+bonus）一年也就 250–350k。按现金口径它反而是这几家里最低的。 2.",
+  "（以上为一亩三分地内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "一亩三分地"
+ ],
+ "original_title": "请教各位：【估计】2026 各大厂 E5/E6 四年 cliff 之后 TC 中位数",
+ "lang": "zh",
+ "published": "2026-10-18T10:42:51+00:00",
+ "created": "2026-10-24T21:38:04+00:00",
+ "rewriter": "free-translate"
+}
