@@ -1,0 +1,21 @@
+{
+ "key": "dd3f5187aa",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/articles/european-gas-prices-at-highest-since-2022-on-lng-supply-fears-52b80e20?mod=rss_markets_main",
+ "title": "美国天然气期货在温和的近期天气下跌",
+ "summary": "由于全年天气温和，加上产量增加，美国天然气期货延续了本周的亏损。",
+ "body": [
+  "由于全年天气温和，加上产量增加，美国天然气期货延续了本周的亏损。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "U.S. Natural Gas Futures Fall on Mild Near-Term Weather",
+ "lang": "en",
+ "published": "2026-10-23T20:29:00+00:00",
+ "created": "2026-10-24T18:09:45+00:00",
+ "rewriter": "free-translate"
+}

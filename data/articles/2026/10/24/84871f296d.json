@@ -1,0 +1,21 @@
+{
+ "key": "84871f296d",
+ "board": "hot",
+ "source_id": "1point3acres",
+ "source_name": "一亩三分地",
+ "source_url": "https://instant.1point3acres.com/thread/1194293",
+ "title": "senior eng下一步：应该坚守MLE还是靠向llm呢？",
+ "summary": "楼主情况： 目前在某大厂搜广推部门，L5入组，入组3年一直没升，积攒了一些LLM应用的经验，但并无太多且扎实的MLE核心model技能。核心技能在我看来是用model解决问题。 但近期的一次reorg，我们组model相关的更少了，很多就是",
+ "body": [
+  "楼主情况： 目前在某大厂搜广推部门，L5入组，入组3年一直没升，积攒了一些LLM应用的经验，但并无太多且扎实的MLE核心model技能。核心技能在我看来是用model解决问题。 但近期的一次reorg，我们组model相关的更少了，很多就是根据PM的想法做点东西，都是general business logic的那种。PM就总想着快，然后1/2 quarter后又换方向，所以TL也很少propose一些长期的方案，都是短平快的。我的感觉就是大家都装作很忙，表演式工作，熬到下次priority change就好。 我看周围MLE的组，慢慢有自己的评价指标： 1）是不是own一个重要的model 2）有没有一个strong的TL 3）有没有读paper来跟住热点 我们组2和3都没有，1是和research组合作的，我们就提供数据和serving的服务，所以1也很弱。manager也不想自己做1，外包>自研。 所以我的看法是我们组是个伪装成MLE组的general business logic组。",
+  "（以上为一亩三分地内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "一亩三分地"
+ ],
+ "original_title": "senior eng下一步：应该坚守MLE还是靠向llm呢？",
+ "lang": "zh",
+ "published": "2026-10-24T18:07:13+00:00",
+ "created": "2026-10-24T18:10:30+00:00",
+ "rewriter": "free-translate"
+}

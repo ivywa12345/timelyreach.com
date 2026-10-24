@@ -1,0 +1,21 @@
+{
+ "key": "9f970c8552",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/us-news/law/fbi-explores-espionage-case-against-saudi-openai-suspect-fbaedefe?mod=rss_worldnews",
+ "title": "联邦调查局调查针对沙特OpenAI嫌疑人的间谍案",
+ "summary": "工程师Abdulrahman Alfozan被指控在公司办公室的一个受限会议室窃听。",
+ "body": [
+  "工程师Abdulrahman Alfozan被指控在公司办公室的一个受限会议室窃听。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "FBI Explores Espionage Case Against Saudi OpenAI Suspect",
+ "lang": "en",
+ "published": "2026-10-24T17:07:00+00:00",
+ "created": "2026-10-24T18:09:34+00:00",
+ "rewriter": "free-translate"
+}

@@ -1,0 +1,21 @@
+{
+ "key": "065dfe46f7",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-likely-technical-correction-after-earlier-gains-8de529db?mod=rss_markets_main",
+ "title": "石油期货每周因中东局势升级担忧而上涨",
+ "summary": "随着中东冲突升级的前景增加了对该地区未来供应的担忧，石油期货上涨。",
+ "body": [
+  "随着中东冲突升级的前景增加了对该地区未来供应的担忧，石油期货上涨。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Oil Futures Post Weekly Gains on Middle East Escalation Fears",
+ "lang": "en",
+ "published": "2026-10-23T20:47:00+00:00",
+ "created": "2026-10-24T18:09:43+00:00",
+ "rewriter": "free-translate"
+}

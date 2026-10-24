@@ -1,0 +1,21 @@
+{
+ "key": "08c9353577",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/how-expensive-is-gasoline-where-you-live-4acc6026?mod=rss_markets_main",
+ "title": "您居住的地方的汽油价格有多贵？",
+ "summary": "跟踪您所在地区和全国加油站的最新价格。",
+ "body": [
+  "跟踪您所在地区和全国加油站的最新价格。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "How Expensive is Gasoline Where You Live?",
+ "lang": "en",
+ "published": "2026-10-24T17:19:00+00:00",
+ "created": "2026-10-24T18:09:41+00:00",
+ "rewriter": "free-translate"
+}
