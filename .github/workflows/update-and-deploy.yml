@@ -117,10 +117,19 @@ jobs:
       - name: 部署到 Cloudflare Pages
         if: steps.cf.outputs.ready == 'true'
         env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          RAW_CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          RAW_CF_ACCOUNT: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CF_PROJECT: ${{ vars.CLOUDFLARE_PROJECT || 'timelyreach' }}
         run: |
+          # Secrets pasted from a web page often carry a trailing newline or extra lines;
+          # keep the first non-empty line, without spaces, and say if anything was dropped.
+          clean() { printf '%s\n' "$1" | tr -d ' \t\r' | grep -v '^$' | head -n1; }
+          for name in RAW_CF_TOKEN RAW_CF_ACCOUNT; do
+            n=$(printf '%s\n' "${!name}" | grep -cv '^[[:space:]]*$' || true)
+            if [ "$n" -gt 1 ]; then echo "::warning::${name#RAW_} secret has $n lines; using the first one. Re-save it as a single line."; fi
+          done
+          export CLOUDFLARE_API_TOKEN="$(clean "$RAW_CF_TOKEN")"
+          export CLOUDFLARE_ACCOUNT_ID="$(clean "$RAW_CF_ACCOUNT")"
           npx --yes wrangler@4.139.0 pages project create "$CF_PROJECT" --production-branch=main 2>/dev/null || true
           npx --yes wrangler@4.139.0 pages deploy _site --project-name="$CF_PROJECT" --branch=main --commit-dirty=true
 
