@@ -1,0 +1,21 @@
+{
+ "key": "e0cb4a7330",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/anthropic-ipo-investors-regulation-dario-amodei-c7339185?mod=rss_markets_main",
+ "title": "意见| Anthropic的IPO大赌博",
+ "summary": "该公司表示，它可以拯救人类或摧毁人类。投资者，请下注。",
+ "body": [
+  "该公司表示，它可以拯救人类或摧毁人类。投资者，请下注。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | Anthropic’s Big IPO Gamble",
+ "lang": "en",
+ "published": "2026-10-26T21:41:00+00:00",
+ "created": "2026-10-26T23:35:54+00:00",
+ "rewriter": "free-translate"
+}
