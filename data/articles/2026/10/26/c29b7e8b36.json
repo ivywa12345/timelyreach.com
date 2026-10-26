@@ -2,20 +2,21 @@
  "key": "c29b7e8b36",
  "board": "news",
  "source_id": "wenxuecity",
- "source_name": "文学城",
+ "source_name": "综合编译",
  "source_url": "https://www.wenxuecity.com/news/2026/10/26/126817030.html",
  "title": "发紧急代码 LA飞北京突遇故障 262人被迫返航",
  "summary": "United UA771 to Beijing is reporting a technical issue and returning to LAX https://t.co/Yz5pSDYgua — AIRLIVE (@airliven",
  "body": [
   "United UA771 to Beijing is reporting a technical issue and returning to LAX https://t.co/Yz5pSDYgua — AIRLIVE (@airlivenet) October 25, 2026 美联航UA771飞北京途中报告技术故障 返航洛杉矶 综合编译自AIRLIVE洛杉矶——美国联合航空一架原定飞往北京的航班，在起飞后不久因出现技术问题，被迫中断跨太平洋航程，返回洛杉矶国际机场。 美联航UA771航班由一架波音787-9“梦想客机”执飞，注册编号为N24988。该航班于当地时间凌晨1点前从洛杉矶国际机场起飞，原计划经过近17个小时的跨太平洋飞行，抵达北京首都国际机场。 然而，飞机在起飞后的初始爬升阶段，机组人员在高度达到2.8万英尺时停止继续爬升。 不久后，飞机进入等待航线，在空中盘旋，以便机组人员处理相关状况。随后，机组通过应答机发出7700紧急代码，正式宣布进入紧急状态。7700是国际航空通用的机上紧急状况代码。",
-  "（以上为文学城内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+  "（以上为综合编译内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
  ],
  "tags": [
-  "文学城"
+  "综合编译"
  ],
  "original_title": "发紧急代码 LA飞北京突遇故障 262人被迫返航",
  "lang": "zh",
  "published": "2026-10-26T05:57:11+00:00",
  "created": "2026-10-26T23:36:37+00:00",
- "rewriter": "free-translate"
+ "rewriter": "free-translate",
+ "show_link": false
 }
