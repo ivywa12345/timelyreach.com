@@ -1,0 +1,21 @@
+{
+ "key": "81d9c27a6b",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/financial-services-roundup-market-talk-8a90f511?mod=rss_markets_main",
+ "title": "金融服务综述：市场谈话",
+ "summary": "通过最新的金融服务市场讲座，深入了解巴西的金融市场、Plus500的客户群以及更多信息。",
+ "body": [
+  "通过最新的金融服务市场讲座，深入了解巴西的金融市场、Plus500的客户群以及更多信息。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Financial Services Roundup: Market Talk",
+ "lang": "en",
+ "published": "2026-10-26T16:26:00+00:00",
+ "created": "2026-10-26T17:42:25+00:00",
+ "rewriter": "free-translate"
+}

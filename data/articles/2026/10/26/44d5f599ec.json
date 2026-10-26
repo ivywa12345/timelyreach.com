@@ -1,0 +1,21 @@
+{
+ "key": "44d5f599ec",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-26/doj-appeals-court-ruling-lifting-ban-on-agency-anthropic-use",
+ "title": "美国司法部上诉法院裁定解除对机构人为使用的禁令",
+ "summary": "特朗普政府正在要求上诉法院推翻联邦法官的命令，解除政府对联邦机构使用Anthropic PBC人工智能技术的禁令。",
+ "body": [
+  "特朗普政府正在要求上诉法院推翻联邦法官的命令，解除政府对联邦机构使用Anthropic PBC人工智能技术的禁令。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "DOJ Appeals Court Ruling Lifting Ban on Agency Anthropic Use",
+ "lang": "en",
+ "published": "2026-10-26T16:30:52+00:00",
+ "created": "2026-10-26T17:42:41+00:00",
+ "rewriter": "free-translate"
+}
