@@ -1,0 +1,26 @@
+name: debug-wenxuecity (temporary)
+on: workflow_dispatch
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    services:
+      rsshub:
+        image: diygod/rsshub:latest
+        ports: ["1200:1200"]
+    steps:
+      - name: probe pages
+        run: |
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0 Safari/537.36"
+          echo "=== news index: category links ==="
+          curl -sL -A "$UA" https://www.wenxuecity.com/news/ | iconv -f utf-8 -t utf-8 -c | grep -oE 'href="[^"]*(news|cid|finance|caijing)[^"]*"[^>]*>[^<]{1,12}<' | sort -u | head -80
+          echo "=== article meta ==="
+          curl -sL -A "$UA" https://www.wenxuecity.com/news/2026/10/22/126813010.html -o a.html
+          grep -n -iE '来源|source|于 20|class="(info|meta|author|source)' a.html | head -40
+          echo "=== article 2 ==="
+          curl -sL -A "$UA" https://www.wenxuecity.com/news/2026/10/22/126813025.html -o b.html
+          grep -n -iE '来源|source' b.html | head -20
+          echo "=== rsshub routes ==="
+          for i in $(seq 1 30); do curl -sf http://localhost:1200/ >/dev/null && break; sleep 2; done
+          curl -s http://localhost:1200/wenxuecity/news | head -c 3000; echo
+          for r in /wenxuecity/hot/1 /wenxuecity/news/finance /wenxuecity/bbs/finance; do echo "--- $r"; curl -s -o /dev/null -w "%{http_code}\n" http://localhost:1200$r; done
+          curl -s http://localhost:1200/wenxuecity/bbs/finance | grep -oE '<title>[^<]*' | head -8
