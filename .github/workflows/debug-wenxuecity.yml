@@ -7,15 +7,26 @@ jobs:
       - name: probe finance channel
         run: |
           UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0 Safari/537.36"
-          curl -sL -A "$UA" -o f.html -w "status %{http_code} final %{url_effective}\n" https://bbs.wenxuecity.com/financenews/
-          file f.html; grep -o 'charset=[^"]*' f.html | head -2
-          echo "=== distinct link shapes ==="
-          grep -oE 'href="[^"]+"' f.html | sed -E 's/[0-9]{3,}/N/g' | sort | uniq -c | sort -rn | head -30
-          echo "=== sample anchors ==="
-          grep -oE '<a [^>]*href="[^"]*[0-9]{5,}[^"]*"[^>]*>[^<]{4,60}</a>' f.html | head -25
-          U=$(grep -oE 'href="[^"]*[0-9]{6,}[^"]*"' f.html | head -1 | sed -E 's/href="//; s/"$//')
-          case "$U" in //*) U="https:$U";; /*) U="https://bbs.wenxuecity.com$U";; esac
-          echo "=== first article: $U ==="
-          curl -sL -A "$UA" "$U" -o p.html
-          grep -n -iE '来源|postmeta|itemprop|<title>' p.html | head -20
-          grep -oE 'class="[^"]*(post|content|article|body)[^"]*"' p.html | sort | uniq -c | head -15
+          curl -sL -A "$UA" -o f.html https://bbs.wenxuecity.com/financenews/
+          echo "=== list context ==="
+          python3 - <<'PY'
+          import re
+          s = open("f.html", encoding="utf-8", errors="replace").read()
+          for m in list(re.finditer(r'href="\./(\d+)\.html"', s))[:4]:
+              print(repr(s[max(0, m.start()-500): m.end()+700]))
+              print("-----")
+          ids = re.findall(r'href="\./(\d+)\.html"', s)
+          open("first.txt", "w").write(ids[0] if ids else "")
+          PY
+          ID=$(cat first.txt)
+          echo "=== article $ID ==="
+          curl -sL -A "$UA" "https://bbs.wenxuecity.com/financenews/$ID.html" -o p.html
+          python3 - <<'PY'
+          import re
+          s = open("p.html", encoding="utf-8", errors="replace").read()
+          i = s.find("<title>"); print(repr(s[i:i+200]))
+          for kw in ("postmeta", "itemprop", "来源", "articleContent", 'id="msgbody"', 'class="post'):
+              j = s.find(kw)
+              if j >= 0:
+                  print("##", kw); print(repr(s[max(0, j-300): j+900]))
+          PY
