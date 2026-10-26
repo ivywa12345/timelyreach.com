@@ -1,0 +1,21 @@
+{
+ "key": "152dc5ecb3",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-26/latest-oil-market-news-and-analysis-for-oct-27",
+ "title": "10月27日石油市场最新消息和分析",
+ "summary": "油价连续第二天下跌，加大外交努力提振了美伊战争可能避免更广泛升级的希望。",
+ "body": [
+  "油价连续第二天下跌，加大外交努力提振了美伊战争可能避免更广泛升级的希望。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Latest Oil Market News and Analysis for Oct. 27",
+ "lang": "en",
+ "published": "2026-10-26T22:03:22+00:00",
+ "created": "2026-10-26T23:08:21+00:00",
+ "rewriter": "free-translate"
+}

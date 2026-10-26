@@ -1,0 +1,21 @@
+{
+ "key": "943b221ebb",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/banks-blackstone-form-63-billion-financing-vehicle-for-broadcom-ai-tech-0438f6d2?mod=rss_markets_main",
+ "title": "银行、Blackstone为Broadcom AI Tech组建630亿美元的融资平台",
+ "summary": "一个由主要金融机构组成的联盟正在筹集630亿美元的融资，从Broadcom购买人工智能计算基础设施，并将其租赁给Anthropic。",
+ "body": [
+  "一个由主要金融机构组成的联盟正在筹集630亿美元的融资，从Broadcom购买人工智能计算基础设施，并将其租赁给Anthropic。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Banks, Blackstone Form $63 Billion Financing Vehicle for Broadcom AI Tech",
+ "lang": "en",
+ "published": "2026-10-26T21:00:00+00:00",
+ "created": "2026-10-26T23:08:13+00:00",
+ "rewriter": "free-translate"
+}
