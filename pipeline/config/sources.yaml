@@ -90,44 +90,19 @@ sources:
       - {type: rsshub, route: "/twitter/user/realDonaldTrump"}
     merge: true   # 以上全部合并，而不是只取第一个成功的
 
-  # ---------------- 中文论坛热帖 ----------------
-  - id: wenxuecity
-    name: "文学城"
-    lang: zh
-    board: news
-    limit: 5
+  # ---------------- 中文财经 ----------------
+  # 只抓文学城"财经新闻"频道的主帖（不抓回帖）。文学城是转载站，
+  # 每篇都按页面上的"来源"署名真正的出处（华尔街见闻、财联社、第一财经……），不写文学城。
+  - id: wenxuecity-finance
+    name: "财经媒体"          # 实际署名用每篇的真实来源
+    lang: zh-news
+    board: finance
+    limit: 8
     full_text: true
     fetch:
-      - {type: rsshub, route: "/wenxuecity/news"}
-      - {type: links, url: "https://www.wenxuecity.com/news/", pattern: "/news/\\d{4}/\\d{2}/\\d{2}/\\d+\\.html"}
+      - {type: wxc_finance, url: "https://bbs.wenxuecity.com/financenews/"}
 
-  - id: huaren
-    name: "华人网"
-    lang: zh
-    board: hot
-    limit: 6
-    full_text: true
-    fetch:
-      - {type: links, url: "https://huaren.us/showforum.html?forumid=398", pattern: "showtopic\\.html\\?topicid=\\d+"}
-
-  - id: 1point3acres
-    name: "一亩三分地"
-    lang: zh
-    board: hot
-    limit: 6
-    full_text: false
-    fetch:
-      - {type: rsshub, route: "/1point3acres/thread/hot"}
-      - {type: links, url: "https://www.1point3acres.com/bbs/", pattern: "(thread-\\d+-1-1\\.html|mod=viewthread&tid=\\d+)"}
-
-  - id: newmitbbs
-    name: "新未名空间"
-    lang: zh
-    board: hot
-    limit: 6
-    full_text: true
-    fetch:
-      - {type: links, url: "https://newmitbbs.com/", pattern: "(viewtopic\\.php\\?[^\"']*t=\\d+|/t/\\d+|thread-\\d+)"}
+  # 一亩三分地、新未名空间、华人网已停用（内容不是财经类）。
 
   # 小红书没有公开的热榜接口，反爬很严。RSSHub 可以抓指定用户的笔记，
   # 需要设置 XIAOHONGSHU_COOKIE，并把下面的 user_id 换成你想关注的博主。

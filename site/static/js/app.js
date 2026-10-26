@@ -20,6 +20,8 @@
   // unless the viewer wrote it or moderates.
   var AUTHOR_COLS = "anonymous,author_id,author_username,author_display_name,author_avatar_url,author_points,author_role";
 
+  var EYE = '<svg class="eye" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" d="M1.5 12S5.5 4.5 12 4.5 22.5 12 22.5 12 18.5 19.5 12 19.5 1.5 12 1.5 12z"/><circle cx="12" cy="12" r="3.2" fill="none" stroke="currentColor" stroke-width="2"/></svg>';
+
   var me = null;          // auth user
   var myProfile = null;   // profiles row
 
@@ -158,7 +160,7 @@
     return '<li class="row' + (t.pinned ? " pinned" : "") + '" data-key="u:' + t.id + '">' +
       '<div class="row-main"><a class="row-title" href="/thread.html?id=' + t.id + '">' + esc(t.title) + "</a>" +
       '<div class="row-meta"><span class="tag tag-user">网友</span>' + authorLabel(t) + " · <time>" + fmtTime(t.created_at) + "</time></div></div>" +
-      '<div class="row-stats"><span class="replies">–</span><span class="views">–</span></div></li>';
+      '<div class="row-stats"><span class="replies">–</span><span class="viewcount" title="浏览量">' + EYE + ' <span class="views">–</span></span></div></li>';
   }
 
   function loadLiveBoards() {
@@ -347,8 +349,9 @@
       view.innerHTML = '<header class="post-head">' + (b ? '<a class="kicker" href="/f/' + b.id + '/">' + esc(b.name) + "</a>" : "") +
         "<h1>" + esc(t.title) + "</h1>" +
         '<div class="byline"><span>楼主 ' + authorLabel(t) + ' <span class="level ' + lv.cls + '">' + lv.name + "</span></span><span>" + fmtTime(t.created_at) +
-        '</span><span>浏览 <span class="views">–</span></span><span>回复 <span class="replies">–</span></span>' + (t.locked ? '<span class="tag">已锁定</span>' : "") + "</div></header>" +
+        '</span><span>回复 <span class="replies">–</span></span>' + (t.locked ? '<span class="tag">已锁定</span>' : "") + "</div></header>" +
         '<div class="post-body">' + t.body.split(/\n+/).filter(Boolean).map(function (p) { return "<p>" + linkify(p) + "</p>"; }).join("") + "</div>" +
+        '<p class="viewcount big" title="浏览量">' + EYE + ' <span class="views">–</span> 次浏览</p>' +
         (tools ? '<div class="post-actions">' + tools + "</div>" : "");
       $all("[data-act]", view).forEach(function (btn) {
         btn.onclick = function () {

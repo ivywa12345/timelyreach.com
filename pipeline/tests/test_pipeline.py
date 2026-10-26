@@ -63,9 +63,9 @@ def test_config_files_are_consistent():
     boards = site.board_map
     for s in load_sources():
         assert s.board in boards and boards[s.board].kind == "auto", s.id
-        assert s.lang in ("en", "zh")
+        assert s.lang in ("en", "zh", "zh-news")
         for spec in s.fetch:
-            assert spec["type"] in ("rss", "rsshub", "links")
+            assert spec["type"] in ("rss", "rsshub", "links", "wxc_finance")
             if "pattern" in spec:
                 re.compile(spec["pattern"])
     # user boards must match the CHECK constraint in supabase/schema.sql
@@ -120,6 +120,7 @@ def test_run_update_stores_and_dedupes(tmp_path, monkeypatch):
     monkeypatch.setattr(update, "available_providers", lambda: [FakeProvider()])
     monkeypatch.setattr(update, "run_picks", lambda store, providers: 0)
     monkeypatch.setattr(update, "run_brief", lambda store, providers: None)
+    monkeypatch.setattr(update, "credit_reposted_sources", lambda store: 0)
     store = Store(tmp_path)
     assert update.run_update(store=store, max_new=10) == 2  # source limit
     store2 = Store(tmp_path)
@@ -272,6 +273,7 @@ def test_video_and_podcast_links_are_skipped(tmp_path, monkeypatch):
     monkeypatch.setattr(update, "available_providers", lambda: [FakeProvider()])
     monkeypatch.setattr(update, "run_picks", lambda store, providers: 0)
     monkeypatch.setattr(update, "run_brief", lambda store, providers: None)
+    monkeypatch.setattr(update, "credit_reposted_sources", lambda store: 0)
     assert update.run_update(store=Store(tmp_path), max_new=10) == 1
 
 
@@ -294,3 +296,50 @@ def test_daily_brief_once_per_trading_day(tmp_path):
     assert brief.run_brief(Store(tmp_path / "x"), [rewrite.FreeTranslateProvider()], now=saturday) is None
     too_early = datetime(2026, 10, 27, 8, 0, tzinfo=timezone.utc)  # 4am ET
     assert brief.run_brief(store, [rewrite.FreeTranslateProvider()], now=too_early) is None
+
+
+def test_wenxuecity_finance_top_level_posts_credit_the_outlet():
+    from timelyreach.fetchers import parse_wxc_finance
+
+    html = (FIX / "wxc_finance.html").read_text(encoding="utf-8")
+    items = parse_wxc_finance(html, "https://bbs.wenxuecity.com/financenews/", _source(lang="zh-news", board="finance"))
+    assert [(i.title, i.source_name) for i in items] == [
+        ("从这30个细节，看Costco的能力自信", "砺石商业评论"),
+        ("长鑫科技合并利润看起来很美,但归母公司利润很骨感", "财联社"),
+    ]  # the indented reply by justbuy168 is skipped
+    assert items[0].url == "https://bbs.wenxuecity.com/financenews/34826.html"
+    assert all(not i.show_link for i in items)
+
+
+def test_wxc_source_reads_both_page_layouts():
+    from timelyreach.fetchers import wxc_source
+
+    news = '<div id="postmeta"> 文章来源: <span itemprop="author">华尔街见闻</span> 于 2026-10-22'
+    bbs = '来源:\n <a href="//x" class="username" >\n <span>第一财经</span>\n </a>\n 于 <span class="date">'
+    assert wxc_source(news) == "华尔街见闻"
+    assert wxc_source(bbs) == "第一财经"
+    assert wxc_source("<p>no credit here</p>") == ""
+
+
+def test_zh_news_free_fallback_keeps_short_credited_excerpt():
+    item = _item(lang="zh-news", source_name="华尔街见闻", title="美股最不希望涨的板块涨了",
+                 text="第一段内容，医疗板块走强。\n第二段内容，估值折价消失。\n短\n第三段内容。")
+    rw = rewrite.FreeTranslateProvider().rewrite(item)
+    assert rw.title == "美股最不希望涨的板块涨了"
+    assert rw.body[-1].startswith("（本文据华尔街见闻报道整理")
+    assert "短" not in rw.body and "文学城" not in "".join(rw.body)
+
+
+def test_old_wenxuecity_posts_are_recredited(tmp_path, monkeypatch):
+    store = Store(tmp_path)
+    a = _article(7, title="旧文章")
+    a.source_id, a.source_name, a.board = "wenxuecity", "文学城", "news"
+    a.body = ["正文", "（以上为文学城内容摘译，详情请看原文。）"]
+    a.tags = ["文学城"]
+    store.save_article(a)
+    monkeypatch.setattr(update, "fetch_article", lambda url: ("", "中央社"))
+    assert update.credit_reposted_sources(store) == 1
+    fixed = Store(tmp_path).load_articles()[0]
+    assert fixed.source_name == "中央社" and not fixed.show_link
+    assert "文学城" not in "".join(fixed.body + fixed.tags)
+    assert update.credit_reposted_sources(Store(tmp_path)) == 0

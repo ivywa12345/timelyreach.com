@@ -72,9 +72,22 @@ BRIEF_SYSTEM_PROMPT = """你是海外华人财经社区的编辑，负责每个�
 - 最后一段抛出一个问题，邀请读者在跟帖里聊今天的看法，并提醒"以上不构成投资建议"。
 - 用简体中文。"""
 
+ZH_NEWS_SYSTEM_PROMPT = """你是海外华人财经社区的编辑。材料是一篇中文财经报道（来源已注明）。请"稍加改写"成本站的财经快讯：
+
+- 标题：换一种说法，更抓人、更口语化，但意思和事实不变，不夸大。
+- 正文 3-6 段，总长 300-700 字：保留关键事实、数字和各方说法，用自己的话重新组织，不要大段照抄原文句子。
+- 第一段里自然地注明出处，例如"据华尔街见闻报道"，出处用材料里的"来源"。不要提文学城。
+- 只用材料里的事实，不编造。可以在最后一段点出这件事对美股或海外华人投资者可能意味着什么，并抛出一个讨论问题。
+- 用简体中文。"""
+
 
 def _system_prompt(item: RawItem) -> str:
-    return {"zh": ZH_SYSTEM_PROMPT, "editor": EDITOR_SYSTEM_PROMPT, "brief": BRIEF_SYSTEM_PROMPT}.get(item.lang, SYSTEM_PROMPT)
+    return {
+        "zh": ZH_SYSTEM_PROMPT,
+        "zh-news": ZH_NEWS_SYSTEM_PROMPT,
+        "editor": EDITOR_SYSTEM_PROMPT,
+        "brief": BRIEF_SYSTEM_PROMPT,
+    }.get(item.lang, SYSTEM_PROMPT)
 
 
 def _material(item: RawItem) -> str:
@@ -180,6 +193,19 @@ class FreeTranslateProvider(Provider):
             body = ["过去 24 小时最值得关注的财经要闻：", *item.text.split("\n"),
                     "今天你最关注哪一条？欢迎跟帖聊聊你的看法。（以上不构成投资建议）"]
             return Rewrite(title=item.title, summary=item.summary, body=body, tags=["每日简报", "美股"])
+        if item.lang == "zh-news":  # Chinese report: no model to rewrite it, so keep a short excerpt with credit
+            paras, total = [], 0
+            for p in (item.text or item.summary).split("\n"):
+                p = p.strip()
+                if len(p) < 8:
+                    continue
+                paras.append(p)
+                total += len(p)
+                if total > 600 or len(paras) >= 4:
+                    break
+            body = paras + [f"（本文据{item.source_name}报道整理。欢迎在下面跟帖讨论！）"]
+            summary = (paras[0] if paras else item.title)[:120]
+            return Rewrite(title=item.title, summary=summary, body=body, tags=[item.source_name, "财经"])
         if item.lang == "editor":  # editor's own notes are already Chinese: publish them as written
             body = [p.strip() for p in item.text.split("\n") if p.strip()]
             return Rewrite(title=item.title, summary=(body[0] if body else item.title)[:120], body=body, tags=["站长荐读"])
@@ -237,6 +263,7 @@ def to_article(item: RawItem, providers: list[Provider]) -> Article | None:
             lang=item.lang,
             published=item.published,
             rewriter=provider.name,
+            show_link=item.show_link,
         )
     return None
 

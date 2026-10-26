@@ -25,6 +25,7 @@
   <div class="post-body">
     {% for p in (t.body or '').split('\n') if p.strip() %}<p>{{ p }}</p>{% endfor %}
   </div>
+  <p class="viewcount big post" data-thread-key="u:{{ t.id }}" title="浏览量"><svg class="eye" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" d="M1.5 12S5.5 4.5 12 4.5 22.5 12 22.5 12 18.5 19.5 12 19.5 1.5 12 1.5 12z"/><circle cx="12" cy="12" r="3.2" fill="none" stroke="currentColor" stroke-width="2"/></svg> <span class="views">–</span> 次浏览</p>
   <p><a class="btn" href="/thread.html?id={{ t.id }}">查看最新跟帖 / 参与讨论 ›</a></p>
 </article>
 {% endblock %}

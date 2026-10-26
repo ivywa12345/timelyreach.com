@@ -24,6 +24,7 @@ class RawItem:
     text: str = ""
     author: str = ""
     published: str = ""  # ISO-8601 UTC
+    show_link: bool = True
 
     @property
     def key(self) -> str:
@@ -48,6 +49,7 @@ class Article:
     published: str = ""
     created: str = field(default_factory=lambda: datetime.now(timezone.utc).isoformat(timespec="seconds"))
     rewriter: str = ""
+    show_link: bool = True  # False when the URL is a reposting site rather than the original publisher
 
     @property
     def date_path(self) -> str:

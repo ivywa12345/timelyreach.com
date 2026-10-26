@@ -112,8 +112,51 @@ def parse_links(html: str, base_url: str, pattern: str, source: Source) -> list[
     return items
 
 
+# Wenxuecity reposts other outlets and names them on every page:
+#   news pages:     文章来源: <span itemprop="author">华尔街见闻</span> 于 ...
+#   finance board:  来源: <a class="username"><span>财联社</span></a> 于 ...
+_WXC_SOURCE = re.compile(r"来源\s*[:：]\s*(?:<[^>]+>\s*)*([^<>\s][^<>]{0,30}?)\s*<")
+
+
+def wxc_source(html: str) -> str:
+    m = _WXC_SOURCE.search(html or "")
+    return clean_text(m.group(1)) if m else ""
+
+
+def parse_wxc_finance(html: str, base_url: str, source: Source) -> list[RawItem]:
+    """Top-level posts of bbs.wenxuecity.com/financenews/ (replies are indented 20px and skipped).
+    Each post's author is the outlet it was reposted from."""
+    soup = BeautifulSoup(html, "html.parser")
+    items = []
+    for a in soup.select("#postlist a.post[href]"):
+        p = a.find_parent("p")
+        margin = re.search(r"margin:\s*([^;]+)", (p.get("style") if p else "") or "")
+        parts = margin.group(1).split() if margin else []
+        if len(parts) == 4 and parts[3] not in ("0", "0px"):
+            continue  # a reply in the thread tree, not a news post
+        title = clean_text(a.get("title") or a.get_text(" ", strip=True))
+        author_a = p.select_one("span.b a.b") if p else None
+        outlet = clean_text(author_a.get_text()) if author_a else ""
+        if len(title) < 4:
+            continue
+        items.append(
+            RawItem(
+                source_id=source.id,
+                source_name=outlet or "综合媒体",
+                lang=source.lang,
+                board=source.board,
+                url=urljoin(base_url, a["href"]),
+                title=title[:200],
+                show_link=False,
+            )
+        )
+    return items
+
+
 def _fetch_one(spec: dict, source: Source) -> list[RawItem]:
     kind = spec.get("type")
+    if kind == "wxc_finance":
+        return parse_wxc_finance(http_get(spec["url"]).content.decode("utf-8", "replace"), spec["url"], source)
     if kind == "rss":
         return parse_feed(http_get(spec["url"]).content, source)
     if kind == "rsshub":
@@ -145,14 +188,19 @@ def fetch_source(source: Source) -> list[RawItem]:
     return collected
 
 
-def fetch_full_text(url: str) -> str:
-    """Best-effort article body extraction (trafilatura). Empty string on failure."""
+def fetch_article(url: str) -> tuple[str, str]:
+    """(body text, original outlet named on the page). Empty strings on failure."""
     try:
         import trafilatura
 
         resp = http_get(url)
+        html = resp.content.decode(resp.encoding or "utf-8", "replace")
         text = trafilatura.extract(resp.content, include_comments=False, include_tables=False, url=url)
-        return (text or "")[:12000]
+        return (text or "")[:12000], wxc_source(html) if "wenxuecity.com" in url else ""
     except Exception as exc:  # noqa: BLE001
         log.info("full text failed for %s: %s", url, exc)
-        return ""
+        return "", ""
+
+
+def fetch_full_text(url: str) -> str:
+    return fetch_article(url)[0]
