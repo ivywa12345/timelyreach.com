@@ -3,24 +3,19 @@ on: workflow_dispatch
 jobs:
   probe:
     runs-on: ubuntu-latest
-    services:
-      rsshub:
-        image: diygod/rsshub:latest
-        ports: ["1200:1200"]
     steps:
-      - name: probe pages
+      - name: probe finance channel
         run: |
           UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/128.0 Safari/537.36"
-          echo "=== news index: category links ==="
-          curl -sL -A "$UA" https://www.wenxuecity.com/news/ | iconv -f utf-8 -t utf-8 -c | grep -oE 'href="[^"]*(news|cid|finance|caijing)[^"]*"[^>]*>[^<]{1,12}<' | sort -u | head -80
-          echo "=== article meta ==="
-          curl -sL -A "$UA" https://www.wenxuecity.com/news/2026/10/22/126813010.html -o a.html
-          grep -n -iE '来源|source|于 20|class="(info|meta|author|source)' a.html | head -40
-          echo "=== article 2 ==="
-          curl -sL -A "$UA" https://www.wenxuecity.com/news/2026/10/22/126813025.html -o b.html
-          grep -n -iE '来源|source' b.html | head -20
-          echo "=== rsshub routes ==="
-          for i in $(seq 1 30); do curl -sf http://localhost:1200/ >/dev/null && break; sleep 2; done
-          curl -s http://localhost:1200/wenxuecity/news | head -c 3000; echo
-          for r in /wenxuecity/hot/1 /wenxuecity/news/finance /wenxuecity/bbs/finance; do echo "--- $r"; curl -s -o /dev/null -w "%{http_code}\n" http://localhost:1200$r; done
-          curl -s http://localhost:1200/wenxuecity/bbs/finance | grep -oE '<title>[^<]*' | head -8
+          curl -sL -A "$UA" -o f.html -w "status %{http_code} final %{url_effective}\n" https://bbs.wenxuecity.com/financenews/
+          file f.html; grep -o 'charset=[^"]*' f.html | head -2
+          echo "=== distinct link shapes ==="
+          grep -oE 'href="[^"]+"' f.html | sed -E 's/[0-9]{3,}/N/g' | sort | uniq -c | sort -rn | head -30
+          echo "=== sample anchors ==="
+          grep -oE '<a [^>]*href="[^"]*[0-9]{5,}[^"]*"[^>]*>[^<]{4,60}</a>' f.html | head -25
+          U=$(grep -oE 'href="[^"]*[0-9]{6,}[^"]*"' f.html | head -1 | sed -E 's/href="//; s/"$//')
+          case "$U" in //*) U="https:$U";; /*) U="https://bbs.wenxuecity.com$U";; esac
+          echo "=== first article: $U ==="
+          curl -sL -A "$UA" "$U" -o p.html
+          grep -n -iE '来源|postmeta|itemprop|<title>' p.html | head -20
+          grep -oE 'class="[^"]*(post|content|article|body)[^"]*"' p.html | sort | uniq -c | head -15
