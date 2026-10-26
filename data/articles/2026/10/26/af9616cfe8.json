@@ -1,0 +1,21 @@
+{
+ "key": "af9616cfe8",
+ "board": "hot",
+ "source_id": "1point3acres",
+ "source_name": "一亩三分地",
+ "source_url": "https://instant.1point3acres.com/thread/1194183",
+ "title": "【面经】Stripe Coding：自行车路线规划 —— K 条最便宜的简单路径（过滤+复合成本）",
+ "summary": "分享一道我 Stripe 电面遇到的题：城市地图上的自行车路线规划。说实话这一轮难的不是题，是和面试官的沟通，就这样吧。把题和我的解法贴出来供讨论。 **题面。** 地图是一个无向带权图，每条路是 `(u, v, distance, bik",
+ "body": [
+  "分享一道我 Stripe 电面遇到的题：城市地图上的自行车路线规划。说实话这一轮难的不是题，是和面试官的沟通，就这样吧。把题和我的解法贴出来供讨论。 **题面。** 地图是一个无向带权图，每条路是 `(u, v, distance, bike_lane, elevation_gain, traffic_risk)`，一条路的骑行成本是 `distance + 2 * elevation_gain + 3 * traffic_risk`。给定 `start`、`end`、`k`、`require_bike_lanes` 开关和一份 `closed_roads`（无向对，`(u, v)` 和 `(v, u)` 是同一条路），返回 k 条最便宜的**简单路径**（不重复经过同一个路口），形式是 `(total_cost, path)`，按总成本升序、成本相同按路径字典序排序。不足 k 条就全返回。`start == end` 时直接返回 `[(0, )]`，哪怕一条路都没有。无路可走返回 `[]`。 两个例子。（1）8 条路的图，k=3，不做过滤 → `[(9, <0,3,4> ), (12, <0,1,4> ), (12, <0,2,4> )]`，注意两条成本 12 的路线按字典序排。（2）`require_bike_lanes=True` 且 0-3 这条路关闭（在关闭列表里写的是 `(3, 0)`）时，只剩 `[(4, <0,2,3> )]`：0-1 没有自行车道被过滤，0-3 直达路被关了（哪怕列表里写的是反方向）。 **第一步是过滤建图。** 每次调用都在函数内重新建图——`closed_roads` 每次调用都可能不同（这就是题里说的动态更新），不能跨调用缓存。关闭对按两个方向都放进集合；然后删掉关闭的路，按开关删掉没有自行车道的路，边权就是复合成本： ```python def build_graph(roads, require_bike_lanes, closed_roads): closed = set() for u, v in closed_roads",
+  "（以上为一亩三分地内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "一亩三分地"
+ ],
+ "original_title": "【面经】Stripe Coding：自行车路线规划 —— K 条最便宜的简单路径（过滤+复合成本）",
+ "lang": "zh",
+ "published": "2026-10-26T23:26:46+00:00",
+ "created": "2026-10-26T23:32:00+00:00",
+ "rewriter": "free-translate"
+}

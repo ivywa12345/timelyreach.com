@@ -1,0 +1,21 @@
+{
+ "key": "e783ad0a49",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-ahead-of-tech-earnings-d53bc5e5?mod=rss_markets_main",
+ "title": "美国股市领先科技股盈利",
+ "summary": "美国股市上涨，因为Anthropic的IPO申请在本周晚些时候的科技股收益报告和美联储政策声明之前消除了对潜在人工智能泡沫的担忧。",
+ "body": [
+  "美国股市上涨，因为Anthropic的IPO申请在本周晚些时候的科技股收益报告和美联储政策声明之前消除了对潜在人工智能泡沫的担忧。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "U.S. Stocks Rise Ahead of Tech Earnings",
+ "lang": "en",
+ "published": "2026-10-26T21:00:00+00:00",
+ "created": "2026-10-26T23:31:20+00:00",
+ "rewriter": "free-translate"
+}
