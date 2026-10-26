@@ -1,0 +1,21 @@
+{
+ "key": "36c085a335",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-26/french-markets-rebound-after-nation-avoids-moody-s-downgrade",
+ "title": "法国债券风险自2020年以来降幅最大，因避免降级",
+ "summary": "法国债券风险指数录得自2020年疫情以来的最大跌幅，原因是该国避开穆迪评级(Moody's Ratings)下调评级后，当地市场反弹。",
+ "body": [
+  "法国债券风险指数录得自2020年疫情以来的最大跌幅，原因是该国避开穆迪评级(Moody's Ratings)下调评级后，当地市场反弹。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "French Bond Risk Falls Most Since 2020 as Downgrade Avoided",
+ "lang": "en",
+ "published": "2026-10-26T09:02:58+00:00",
+ "created": "2026-10-26T17:23:59+00:00",
+ "rewriter": "free-translate"
+}

@@ -1,0 +1,21 @@
+{
+ "key": "c097768182",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-see-further-weather-driven-losses-55aff639?mod=rss_markets_main",
+ "title": "美国天然气期货看到进一步的天气驱动损失",
+ "summary": "由于天气驱动的需求前景温和，美国天然气期货在本周11月合约到期前下跌。",
+ "body": [
+  "由于天气驱动的需求前景温和，美国天然气期货在本周11月合约到期前下跌。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "U.S. Natural Gas Futures See Further Weather-Driven Losses",
+ "lang": "en",
+ "published": "2026-10-26T13:20:00+00:00",
+ "created": "2026-10-26T17:23:50+00:00",
+ "rewriter": "free-translate"
+}
