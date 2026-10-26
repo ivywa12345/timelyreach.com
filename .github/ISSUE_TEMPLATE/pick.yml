@@ -28,8 +28,7 @@ body:
       label: 发到哪个版块
       options:
         - picks 站长荐读
-        - finance 财经股市
-        - news 新闻速递
-        - twitter 推特热议
+        - finance 财经要闻
+        - news 美国新闻
         - hot 网络热帖
       default: 0

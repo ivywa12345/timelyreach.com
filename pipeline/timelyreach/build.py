@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 import shutil
 from datetime import datetime, timezone
 from pathlib import Path
@@ -27,6 +28,8 @@ def _env() -> Environment:
         lstrip_blocks=True,
     )
     env.filters["date_cn"] = lambda iso: iso[:10] if iso else ""
+    # RSS summaries (tweets especially) carry bare t.co links that read as noise in a dek
+    env.filters["nourl"] = lambda text: re.sub(r"\s*https?://\S+", "", text or "").strip(" —-")
     env.filters["datetime_cn"] = lambda iso: iso[:16].replace("T", " ") if iso else ""
     # JSON-LD inside <script>: must not be HTML-escaped, but must not be able to close the tag
     env.filters["tojson_safe"] = lambda obj: Markup(
@@ -43,6 +46,16 @@ def _write(path: Path, content: str) -> None:
 def _paginate(items: list, per_page: int) -> list[list]:
     pages = [items[i : i + per_page] for i in range(0, len(items), per_page)]
     return pages or [[]]
+
+
+def _front_page(articles: list[Article], n: int = 7) -> list[Article]:
+    """Owner's picks from the last two days first, then finance and US news alternating."""
+    picks = [a for a in articles if a.source_id == "editor" and a.created >= _days_ago(2)]
+    finance = [a for a in articles if a.board == "finance"]
+    news = [a for a in articles if a.board == "news"]
+    mixed = [a for pair in zip(finance, news) for a in pair]
+    mixed += finance[len(news):] + news[len(finance):]
+    return (picks + mixed)[:n]
 
 
 def _days_ago(days: int) -> str:
@@ -91,10 +104,9 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
         "index.html",
         "index.html",
         canonical=site.base_url + "/",
-        # the owner's picks from the last two days lead the front page
-        headlines=([a for a in articles if a.source_id == "editor" and a.created >= _days_ago(2)] + [a for a in articles if a.source_id != "editor"])[:8],
-        by_board={k: v[:8] for k, v in by_board.items()},
-        latest_users=user_threads[:10],
+        headlines=_front_page(articles),
+        by_board={k: v[:12] for k, v in by_board.items()},
+        latest_users=user_threads[:60],
     )
 
     # Board list pages

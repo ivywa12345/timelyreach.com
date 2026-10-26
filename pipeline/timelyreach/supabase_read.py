@@ -21,10 +21,9 @@ def load_user_threads(limit: int = 2000) -> list[dict]:
         return []
     try:
         resp = requests.get(
-            f"{url}/rest/v1/threads",
+            f"{url}/rest/v1/threads_public",
             params={
-                "select": "id,board,title,body,created_at,updated_at,author:profiles(username,display_name)",
-                "deleted": "eq.false",
+                "select": "id,board,title,body,created_at,updated_at,anonymous,author_username,author_display_name",
                 "order": "created_at.desc",
                 "limit": str(limit),
             },
@@ -32,7 +31,15 @@ def load_user_threads(limit: int = 2000) -> list[dict]:
             timeout=30,
         )
         resp.raise_for_status()
-        return resp.json()
+        threads = resp.json()
     except Exception as exc:  # noqa: BLE001 - the site still builds without reader threads
         log.warning("could not load reader threads from supabase: %s", exc)
         return []
+    for t in threads:
+        # anonymous posts come back without author columns
+        t["author"] = (
+            {"username": t["author_username"], "display_name": t.get("author_display_name")}
+            if t.get("author_username") else None
+        )
+    return threads
+

@@ -119,6 +119,7 @@ def test_run_update_stores_and_dedupes(tmp_path, monkeypatch):
     monkeypatch.setattr(update, "fetch_source", lambda s: [_item(1), _item(2), _item(3)])
     monkeypatch.setattr(update, "available_providers", lambda: [FakeProvider()])
     monkeypatch.setattr(update, "run_picks", lambda store, providers: 0)
+    monkeypatch.setattr(update, "run_brief", lambda store, providers: None)
     store = Store(tmp_path)
     assert update.run_update(store=store, max_new=10) == 2  # source limit
     store2 = Store(tmp_path)
@@ -270,4 +271,26 @@ def test_video_and_podcast_links_are_skipped(tmp_path, monkeypatch):
     ])
     monkeypatch.setattr(update, "available_providers", lambda: [FakeProvider()])
     monkeypatch.setattr(update, "run_picks", lambda store, providers: 0)
+    monkeypatch.setattr(update, "run_brief", lambda store, providers: None)
     assert update.run_update(store=Store(tmp_path), max_new=10) == 1
+
+
+def test_daily_brief_once_per_trading_day(tmp_path):
+    from datetime import datetime, timezone
+
+    from timelyreach import brief
+
+    store = Store(tmp_path)
+    for n in range(5):
+        a = _article(n + 100, title=f"财经新闻{n}")
+        a.created = "2026-10-26T08:00:00+00:00"
+        store.save_article(a)
+    monday_7am_et = datetime(2026, 10, 26, 11, 0, tzinfo=timezone.utc)
+    art = brief.run_brief(store, [rewrite.FreeTranslateProvider()], now=monday_7am_et)
+    assert art.board == "brief" and art.title.startswith("10月26日财经早报")
+    assert any("财经新闻0" in p for p in art.body)
+    assert brief.run_brief(store, [rewrite.FreeTranslateProvider()], now=monday_7am_et) is None  # once a day
+    saturday = datetime(2026, 10, 31, 12, 0, tzinfo=timezone.utc)
+    assert brief.run_brief(Store(tmp_path / "x"), [rewrite.FreeTranslateProvider()], now=saturday) is None
+    too_early = datetime(2026, 10, 27, 8, 0, tzinfo=timezone.utc)  # 4am ET
+    assert brief.run_brief(store, [rewrite.FreeTranslateProvider()], now=too_early) is None

@@ -1,7 +1,7 @@
 {% set title = t.title %}
 {% set description = (t.body or '')[:120] %}
 {% set og_type = 'article' %}
-{% set author_name = (t.author or {}).get('display_name') or (t.author or {}).get('username') or '网友' %}
+{% set author_name = (t.author or {}).get('display_name') or (t.author or {}).get('username') or '匿名网友' %}
 {% extends "base.html" %}
 {% block head %}
 <script type="application/ld+json">{{ {
@@ -16,14 +16,15 @@
 {% endblock %}
 {% block content %}
 <nav class="crumbs"><a href="/">首页</a> › {% if board %}<a href="/f/{{ board.id }}/">{{ board.name }}</a> › {% endif %}帖子</nav>
-<article class="card post">
+<article class="article-wrap post">
   <header class="post-head">
+    {% if board %}<a class="kicker" href="/f/{{ board.id }}/">{{ board.name }}</a>{% endif %}
     <h1>{{ t.title }}</h1>
-    <div class="row-meta">楼主：{{ author_name }} · <time datetime="{{ t.created_at }}">{{ t.created_at|datetime_cn }}</time></div>
+    <div class="byline"><span>楼主 <strong>{{ author_name }}</strong></span><time datetime="{{ t.created_at }}">{{ t.created_at|datetime_cn }}</time></div>
   </header>
   <div class="post-body">
     {% for p in (t.body or '').split('\n') if p.strip() %}<p>{{ p }}</p>{% endfor %}
   </div>
-  <p><a class="btn" href="/thread.html?id={{ t.id }}">查看最新跟帖 / 参与讨论 »</a></p>
+  <p><a class="btn" href="/thread.html?id={{ t.id }}">查看最新跟帖 / 参与讨论 ›</a></p>
 </article>
 {% endblock %}

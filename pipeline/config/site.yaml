@@ -12,39 +12,45 @@ per_page: 40
 
 # 论坛版块。kind=auto 由机器人自动抓取发帖；kind=user 由读者发帖
 boards:
+  # ---- 内容区：机器人和站长发帖，读者跟帖 ----
   - id: picks
     name: "站长荐读"
     kind: auto
     description: "站长亲自挑选的好文章，配上站长的点评和解读"
-  - id: news
-    name: "新闻速递"
+  - id: brief
+    name: "每日简报"
     kind: auto
-    description: "美国及国际要闻，每天从华尔街日报、纽约邮报、文学城等编译"
+    description: "每个交易日的中文财经早报：一帖看懂隔夜要闻和今天要盯的事"
   - id: finance
-    name: "财经股市"
+    name: "财经要闻"
     kind: auto
-    description: "华尔街日报、彭博、ZeroHedge 财经要闻，美股、期权、宏观一网打尽"
-  - id: twitter
-    name: "推特热议"
+    description: "华尔街日报、彭博、ZeroHedge 财经要闻中文速递：美股、利率、宏观、公司动态"
+  - id: news
+    name: "美国新闻"
     kind: auto
-    description: "推特（X）上大佬和财经大V的热门推文中文解读"
+    description: "美国社会、政治与国际要闻，从华尔街日报、纽约邮报、文学城等编译"
   - id: hot
     name: "网络热帖"
     kind: auto
-    description: "小红书、华人网、一亩三分地、新未名空间的今日热帖，来这里接着聊"
+    description: "推特、华人网、一亩三分地、新未名空间的今日热帖，来这里接着聊"
+  # ---- 讨论区：读者发帖（可匿名）----
+  - id: invest
+    name: "美股期权"
+    kind: user
+    description: "个股、期权、0DTE、SPX/VIX、晒单复盘，交流思路（不构成投资建议）"
+  - id: money
+    name: "理财规划"
+    kind: user
+    description: "401k、IRA、Roth、报税、保险、信用卡、银行开户奖励"
+  - id: house
+    name: "房产"
+    kind: user
+    description: "买房、贷款、再融资、出租、房产税"
+  - id: career
+    name: "职场身份"
+    kind: user
+    description: "找工作、薪资对比、跳槽、H1B、绿卡"
   - id: chat
     name: "华人闲话"
     kind: user
-    description: "海外华人的茶馆，家长里短、时事八卦，想聊就聊"
-  - id: invest
-    name: "投资理财"
-    kind: user
-    description: "股票、期权、0DTE、SPX/VIX、房产、退休账户，交流投资心得"
-  - id: career
-    name: "工作移民"
-    kind: user
-    description: "找工作、跳槽、H1B、绿卡、身份，过来人经验分享"
-  - id: life
-    name: "生活百态"
-    kind: user
-    description: "买房、育儿、美食、旅游、健康，海外生活大小事"
+    description: "海外华人的茶馆，家长里短、育儿美食旅游、时事八卦，想聊就聊"

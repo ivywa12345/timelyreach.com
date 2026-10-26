@@ -7,6 +7,7 @@ import re
 
 from .config import load_sources
 from .fetchers import fetch_full_text, fetch_source
+from .brief import run_brief
 from .picks import run_picks
 from .rewrite import available_providers, to_article
 from .store import Store
@@ -47,6 +48,8 @@ def run_update(store: Store | None = None, max_new: int | None = None) -> int:
             store.save_article(article)
             created += 1
             log.info("[%s] %s  <-  %s", article.rewriter, article.title, item.title)
+    if run_brief(store, providers):  # after this run's news, so the brief includes it
+        created += 1
     store.flush()
     log.info("created %d new articles", created)
     return created

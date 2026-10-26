@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% from "_macros.html" import article_row, user_row %}
+{% from "_macros.html" import story, user_row %}
 {% block head %}
 <script type="application/ld+json">{{ {
   "@context": "https://schema.org",
@@ -13,60 +13,80 @@
 {% endblock %}
 {% block content %}
 <h1 class="visually-hidden">{{ site.name }}：{{ site.tagline }}</h1>
-<div class="layout">
-  <div class="col-main">
-    <section class="card">
-      <div class="card-head"><h2>今日头条</h2><span class="muted">每天自动更新</span></div>
-      {% if headlines %}
-      <ul class="headlines">
-        {% for a in headlines %}
-        <li>
-          <a href="/t/{{ a.slug }}.html"><strong>{{ a.title }}</strong></a>
-          <p>{{ a.summary }}</p>
-          <span class="row-meta"><span class="tag">{{ a.source_name }}</span> <time datetime="{{ a.created }}">{{ a.created|datetime_cn }}</time></span>
-        </li>
-        {% endfor %}
-      </ul>
-      {% else %}
-      <p class="empty">新闻机器人正在抓取第一批内容，稍后刷新看看。</p>
-      {% endif %}
-    </section>
 
-    {% for b in boards %}
-    <section class="card">
-      <div class="card-head">
-        <h2><a href="/f/{{ b.id }}/">{{ b.name }}</a></h2>
-        <a class="muted" href="/f/{{ b.id }}/">更多 »</a>
-      </div>
-      {% if b.kind == 'auto' %}
-        {% if by_board.get(b.id) %}
-        <ul class="rows">{% for a in by_board[b.id] %}{{ article_row(a, None) }}{% endfor %}</ul>
-        {% else %}<p class="empty">暂无内容</p>{% endif %}
-      {% else %}
-        {% set prerendered = latest_users|selectattr("board", "equalto", b.id)|list %}
-        <ul class="rows" data-live-board="{{ b.id }}" data-limit="6">
-          {% for t in prerendered[:6] %}{{ user_row(t, None) }}{% endfor %}
-        </ul>
-        <p class="empty live-empty" {% if prerendered %}hidden{% endif %}>还没有帖子，<a href="/new.html?board={{ b.id }}">来发第一帖</a>！</p>
-      {% endif %}
-    </section>
-    {% endfor %}
+<div class="front">
+  <div>
+    {% if headlines %}
+    {% set lead = headlines[0] %}
+    <article class="lead">
+      {% if board_map.get(lead.board) %}<a class="kicker" href="/f/{{ lead.board }}/">{{ board_map[lead.board].name }}</a>{% endif %}
+      <h2><a href="/t/{{ lead.slug }}.html">{{ lead.title }}</a></h2>
+      {% if lead.summary|nourl %}<p class="dek">{{ lead.summary|nourl }}</p>{% endif %}
+      <div class="meta"><span>{{ lead.source_name }}</span><time datetime="{{ lead.created }}">{{ lead.created|datetime_cn }}</time></div>
+    </article>
+    <div class="subs">
+      {% for a in headlines[1:7] %}{{ story(a, board_map) }}{% endfor %}
+    </div>
+    {% else %}
+    <p class="empty">新闻机器人正在抓取第一批内容，稍后刷新看看。</p>
+    {% endif %}
   </div>
 
-  <aside class="col-side">
-    <section class="card">
-      <div class="card-head"><h2>发帖讨论</h2></div>
-      <p>注册后可以发帖、跟帖，发帖越多等级越高。</p>
-      <p><a class="btn" href="/new.html">我要发帖</a></p>
+  <aside class="rail">
+    {% if by_board.get('brief') %}
+    <section>
+      <h2 class="side-head">每日简报</h2>
+      {{ story(by_board['brief'][0], board_map, dek=True, kicker=False) }}
     </section>
-    <section class="card">
-      <div class="card-head"><h2>热帖排行</h2><span class="muted">近 3 天</span></div>
+    {% endif %}
+    {% if by_board.get('picks') %}
+    <section>
+      <h2 class="side-head">站长荐读</h2>
+      {% for a in by_board['picks'][:3] %}{{ story(a, board_map, dek=False, kicker=False) }}{% endfor %}
+    </section>
+    {% endif %}
+    <section>
+      <h2 class="side-head">热帖排行 · 近 3 天</h2>
       <ol class="hotlist" id="hotlist"><li class="muted">加载中…</li></ol>
     </section>
-    <section class="card">
-      <div class="card-head"><h2>会员等级</h2></div>
-      <ul class="levels" id="levels"></ul>
+    <section>
+      <h2 class="side-head">参与讨论</h2>
+      <p class="small">注册后可以发帖、跟帖，也可以匿名发言。发主题 +5 积分，跟帖 +1，积分越高等级越高。</p>
+      <p><a class="btn" href="/new.html">我要发帖</a></p>
     </section>
   </aside>
 </div>
+
+{% set shown = headlines|map(attribute='key')|list %}
+{% for b in boards if b.kind == 'auto' and b.id not in ('brief', 'picks') and by_board.get(b.id) %}
+<section class="card">
+  <div class="section-head">
+    <h2><a href="/f/{{ b.id }}/">{{ b.name }}</a></h2>
+    <a class="more" href="/f/{{ b.id }}/">更多 ›</a>
+  </div>
+  <div class="grid4">
+    {% for a in (by_board[b.id]|rejectattr('key', 'in', shown)|list)[:4] %}{{ story(a, None, dek=True, kicker=False) }}{% endfor %}
+  </div>
+</section>
+{% endfor %}
+
+<section class="card">
+  <div class="section-head">
+    <h2>讨论区</h2>
+    <a class="more" href="/new.html">发新帖 ›</a>
+  </div>
+  <div class="forums">
+    {% for b in boards if b.kind == 'user' %}
+    {% set prerendered = latest_users|selectattr("board", "equalto", b.id)|list %}
+    <div>
+      <h3><a href="/f/{{ b.id }}/">{{ b.name }}</a></h3>
+      <ul class="rows" data-live-board="{{ b.id }}" data-limit="5">
+        {% for t in prerendered[:5] %}{{ user_row(t, None) }}{% endfor %}
+      </ul>
+      <p class="empty live-empty small" {% if prerendered %}hidden{% endif %}>还没有帖子</p>
+      <a class="compose" href="/new.html?board={{ b.id }}">在{{ b.name }}发帖 ›</a>
+    </div>
+    {% endfor %}
+  </div>
+</section>
 {% endblock %}

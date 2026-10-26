@@ -1,14 +1,25 @@
+{% macro story(a, board_map, dek=True, kicker=True) %}
+<article class="story">
+  {% if kicker and board_map and board_map.get(a.board) %}<a class="kicker" href="/f/{{ a.board }}/">{{ board_map[a.board].name }}</a>{% endif %}
+  <h3><a href="/t/{{ a.slug }}.html">{{ a.title }}</a></h3>
+  {% if dek and a.summary|nourl %}<p class="dek">{{ a.summary|nourl }}</p>{% endif %}
+  <div class="meta"><span>{{ a.source_name }}</span><time datetime="{{ a.created }}">{{ a.created|datetime_cn }}</time></div>
+</article>
+{% endmacro %}
+
 {% macro article_row(a, board_map) %}
 <li class="row" data-key="{{ a.thread_key }}">
   <div class="row-main">
     <a class="row-title" href="/t/{{ a.slug }}.html">{{ a.title }}</a>
+    {% if a.summary|nourl %}<p class="dek">{{ a.summary|nourl }}</p>{% endif %}
     <div class="row-meta">
+      {% if a.source_id == 'editor' %}<span class="tag tag-pick">站长荐读</span>{% endif %}
       <span class="tag">{{ a.source_name }}</span>
-      {% if board_map and board_map.get(a.board) %}<a class="muted" href="/f/{{ a.board }}/">{{ board_map[a.board].name }}</a> · {% endif %}
+      {% if board_map and board_map.get(a.board) %}<a href="/f/{{ a.board }}/">{{ board_map[a.board].name }}</a>{% endif %}
       <time datetime="{{ a.created }}">{{ a.created|datetime_cn }}</time>
     </div>
   </div>
-  <div class="row-stats"><span class="replies" title="回复">–</span><span class="views" title="浏览">–</span></div>
+  <div class="row-stats"><span class="replies">–</span><span class="views">–</span></div>
 </li>
 {% endmacro %}
 
@@ -18,11 +29,11 @@
     <a class="row-title" href="/thread.html?id={{ t.id }}">{{ t.title }}</a>
     <div class="row-meta">
       <span class="tag tag-user">网友</span>
-      {% if board_map and board_map.get(t.board) %}<a class="muted" href="/f/{{ t.board }}/">{{ board_map[t.board].name }}</a> · {% endif %}
-      {{ (t.author or {}).get('display_name') or (t.author or {}).get('username') or '匿名' }} ·
+      {% if board_map and board_map.get(t.board) %}<a href="/f/{{ t.board }}/">{{ board_map[t.board].name }}</a>{% endif %}
+      <span>{{ (t.author or {}).get('display_name') or (t.author or {}).get('username') or '匿名网友' }}</span>
       <time datetime="{{ t.created_at }}">{{ t.created_at|datetime_cn }}</time>
     </div>
   </div>
-  <div class="row-stats"><span class="replies" title="回复">–</span><span class="views" title="浏览">–</span></div>
+  <div class="row-stats"><span class="replies">–</span><span class="views">–</span></div>
 </li>
 {% endmacro %}

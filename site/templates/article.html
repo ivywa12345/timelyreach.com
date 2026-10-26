@@ -34,57 +34,56 @@
 }|tojson_safe }}</script>
 {% endblock %}
 {% block content %}
-<nav class="crumbs"><a href="/">首页</a> › {% if board %}<a href="/f/{{ board.id }}/">{{ board.name }}</a> › {% endif %}正文</nav>
 <div class="layout">
   <div class="col-main">
-    <article class="card post" data-thread-key="{{ a.thread_key }}">
+    <article class="article-wrap post" data-thread-key="{{ a.thread_key }}">
       <header class="post-head">
+        {% if board %}<a class="kicker" href="/f/{{ board.id }}/">{{ board.name }}</a>{% endif %}
         <h1>{{ a.title }}</h1>
-        <div class="row-meta">
-          {% if a.source_id == 'editor' %}<span class="tag tag-pick">站长荐读</span>{% endif %}
-          <span class="tag">{{ a.source_name }}</span>
-          <span>楼主：{% if a.source_id == 'editor' %}<strong>站长</strong>{% else %}时讯小编{% endif %}</span> ·
-          <time datetime="{{ a.created }}">{{ a.created|datetime_cn }}</time> ·
-          <span>浏览 <span class="views">–</span></span> ·
+        {% if a.summary|nourl %}<p class="dek">{{ a.summary|nourl }}</p>{% endif %}
+        <div class="byline">
+          <span>楼主 <strong>{% if a.source_id == 'editor' %}站长{% else %}时讯小编{% endif %}</strong></span>
+          <span>{% if a.source_id == 'editor' %}站长荐读 · {% endif %}{{ a.source_name }}</span>
+          <time datetime="{{ a.created }}">{{ a.created|datetime_cn }}</time>
+          <span>浏览 <span class="views">–</span></span>
           <span>回复 <span class="replies">–</span></span>
         </div>
       </header>
       <div class="post-body">
-        {% if a.summary %}<p class="lead">{{ a.summary }}</p>{% endif %}
-        {% for p in a.body %}<p>{{ p }}</p>{% endfor %}
+        {# the free translator's summary is the start of the first paragraph; don't print it twice #}
+        {% for p in a.body if not (a.summary and p.startswith(a.summary[:40])) %}<p>{{ p }}</p>{% endfor %}
       </div>
       <footer class="post-foot">
-        {% if a.tags %}<p class="tags">{% for t in a.tags %}<a class="tag" href="/search.html?q={{ t|urlencode }}">#{{ t }}</a> {% endfor %}</p>{% endif %}
+        {% if a.tags %}<p class="tags">{% for t in a.tags %}<a class="tag" href="/search.html?q={{ t|urlencode }}">#{{ t }}</a>{% endfor %}</p>{% endif %}
+        {% if a.source_id == 'brief' %}
+        <p class="source muted">汇总自本站<a href="/f/finance/">财经要闻</a>和<a href="/f/news/">美国新闻</a>，点进各版块看详细报道。</p>
+        {% else %}
         <p class="source muted">
           {% if a.source_id == 'editor' %}站长推荐原文{% elif a.lang == 'zh' %}原帖{% else %}编译自{% endif %}：{{ a.source_name }}
           {% if a.original_title and a.original_title != a.title %}《{{ a.original_title }}》{% endif %}
           <a href="{{ a.source_url }}" target="_blank" rel="nofollow noopener">查看原文 ↗</a>
         </p>
-        <div class="share">
-          <button class="btn btn-ghost btn-small" data-share>分享</button>
-        </div>
+        {% endif %}
+        <p class="muted small">本文仅供学习交流，不构成投资建议。</p>
+        <div class="share"><button class="btn btn-ghost btn-small" data-share>分享</button></div>
       </footer>
     </article>
 
-    <section class="card" id="comments" data-thread-key="{{ a.thread_key }}" data-locked="0">
-      <div class="card-head"><h2>网友跟帖</h2></div>
+    <section class="article-wrap" id="comments" data-thread-key="{{ a.thread_key }}" data-locked="0">
+      <div class="section-head"><h2>网友跟帖</h2></div>
       <ol class="comments" id="comment-list"><li class="muted">加载中…</li></ol>
       <div id="comment-form-slot"></div>
     </section>
   </div>
   <aside class="col-side">
     {% if related %}
-    <section class="card">
-      <div class="card-head"><h2>{{ board.name if board else '' }} · 相关</h2></div>
-      <ul class="sidelist">
-        {% for r in related %}<li><a href="/t/{{ r.slug }}.html">{{ r.title }}</a></li>{% endfor %}
-      </ul>
-    </section>
+    <h2 class="side-head">{{ board.name if board else '' }} · 相关</h2>
+    <ul class="sidelist">
+      {% for r in related %}<li><a href="/t/{{ r.slug }}.html">{{ r.title }}</a></li>{% endfor %}
+    </ul>
     {% endif %}
-    <section class="card">
-      <div class="card-head"><h2>热帖排行</h2></div>
-      <ol class="hotlist" id="hotlist"><li class="muted">加载中…</li></ol>
-    </section>
+    <h2 class="side-head" style="margin-top:22px">热帖排行</h2>
+    <ol class="hotlist" id="hotlist"><li class="muted">加载中…</li></ol>
   </aside>
 </div>
 {% endblock %}

@@ -26,7 +26,7 @@ create table if not exists public.profiles (
 
 create table if not exists public.threads (
   id bigint generated always as identity primary key,
-  board text not null check (board in ('chat', 'invest', 'career', 'life')),
+  board text not null check (board in ('invest', 'money', 'house', 'career', 'chat')),
   title text not null check (char_length(title) between 4 and 80),
   body text not null check (char_length(body) between 10 and 20000),
   author_id uuid not null default auth.uid() references public.profiles (id) on delete cascade,
@@ -296,3 +296,56 @@ create policy "comments update" on public.comments for update to authenticated
 
 drop policy if exists "stats readable" on public.thread_stats;
 create policy "stats readable" on public.thread_stats for select using (true);
+
+
+-- ---------- 匿名发帖 + 版块调整（2026-10 新增，可重复执行） ----------
+alter table public.threads add column if not exists anonymous boolean not null default false;
+alter table public.comments add column if not exists anonymous boolean not null default false;
+
+-- 新版块：美股期权 / 理财规划 / 房产 / 职场身份 / 华人闲话（旧的"生活百态"并入华人闲话）
+alter table public.threads drop constraint if exists threads_board_check;
+update public.threads set board = 'chat' where board not in ('invest', 'money', 'house', 'career', 'chat');
+alter table public.threads add constraint threads_board_check
+  check (board in ('invest', 'money', 'house', 'career', 'chat'));
+
+-- 匿名帖不能让前端拿到作者：基表不再开放 author_id 列，读取一律走下面两个视图。
+revoke select on public.threads from anon, authenticated;
+grant select (id, board, title, body, pinned, locked, deleted, anonymous, created_at, updated_at)
+  on public.threads to anon, authenticated;
+revoke select on public.comments from anon, authenticated;
+grant select (id, thread_key, body, reply_to, deleted, anonymous, created_at)
+  on public.comments to anon, authenticated;
+
+-- 视图以所有者身份运行（绕过 RLS），所以在这里自己过滤已删除内容。
+-- 作者信息只在非匿名时、或看的人是作者本人/版主时返回。
+create or replace view public.threads_public as
+select t.id, t.board, t.title, t.body, t.pinned, t.locked, t.anonymous, t.created_at, t.updated_at,
+       case when v.show then t.author_id end as author_id,
+       case when v.show then p.username end as author_username,
+       case when v.show then p.display_name end as author_display_name,
+       case when v.show then p.avatar_url end as author_avatar_url,
+       case when v.show then p.points end as author_points,
+       case when v.show then p.role end as author_role
+from public.threads t
+join public.profiles p on p.id = t.author_id
+cross join lateral (
+  select (not t.anonymous or t.author_id = auth.uid() or public.is_moderator()) as show
+) v
+where not t.deleted;
+
+create or replace view public.comments_public as
+select c.id, c.thread_key, c.body, c.reply_to, c.anonymous, c.created_at,
+       case when v.show then c.author_id end as author_id,
+       case when v.show then p.username end as author_username,
+       case when v.show then p.display_name end as author_display_name,
+       case when v.show then p.avatar_url end as author_avatar_url,
+       case when v.show then p.points end as author_points,
+       case when v.show then p.role end as author_role
+from public.comments c
+join public.profiles p on p.id = c.author_id
+cross join lateral (
+  select (not c.anonymous or c.author_id = auth.uid() or public.is_moderator()) as show
+) v
+where not c.deleted;
+
+grant select on public.threads_public, public.comments_public to anon, authenticated;

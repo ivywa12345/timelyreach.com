@@ -18,29 +18,44 @@
 <meta property="og:image" content="{{ site.base_url }}/static/img/og.png">
 <meta property="og:locale" content="zh_CN">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#b91c1c">
+<meta name="theme-color" content="#ffffff">
 <link rel="icon" href="/static/img/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=Playfair+Display:wght@900&display=swap">
 <link rel="stylesheet" href="/static/css/site.css?v={{ now[:13] }}">
 {% block head %}{% endblock %}
 </head>
 <body>
-<header class="topbar">
-  <div class="wrap topbar-inner">
-    <a class="logo" href="/">
-      <img src="/static/img/favicon.svg" alt="" width="28" height="28">
-      <span class="logo-text">{{ site.short_name }}</span>
-    </a>
-    <form class="search" action="/search.html" role="search">
-      <input type="search" name="q" placeholder="搜索帖子…" aria-label="搜索帖子">
-    </form>
-    <div class="userbox" id="userbox">
-      <a class="btn btn-small" href="/login.html">登录 / 注册</a>
+<header>
+  <div class="utility">
+    <div class="wrap utility-inner">
+      <span class="date" id="today">{{ now[:10] }}</span>
+      <div class="utility-right">
+        <form class="search" action="/search.html" role="search">
+          <input type="search" name="q" placeholder="搜索" aria-label="搜索帖子">
+        </form>
+        <div class="userbox" id="userbox">
+          <a href="/login.html">登录 / 注册</a>
+        </div>
+      </div>
     </div>
   </div>
-  <nav class="boardnav" aria-label="版块">
-    <div class="wrap boardnav-inner">
+  <div class="masthead">
+    <a href="/">
+      <span class="wordmark">TimelyReach</span>
+      <span class="wordmark-cn">{{ site.short_name }}</span>
+    </a>
+    <div class="tagline">{{ site.tagline }}</div>
+  </div>
+  <nav class="sections" aria-label="版块">
+    <div class="wrap sections-inner">
       <a href="/" {% if not board %}class="on"{% endif %}>首页</a>
-      {% for b in boards %}
+      {% for b in boards if b.kind == 'auto' %}
+      <a href="/f/{{ b.id }}/" {% if board and board.id == b.id %}class="on"{% endif %}>{{ b.name }}</a>
+      {% endfor %}
+      <span class="sep" aria-hidden="true"></span>
+      {% for b in boards if b.kind == 'user' %}
       <a href="/f/{{ b.id }}/" {% if board and board.id == b.id %}class="on"{% endif %}>{{ b.name }}</a>
       {% endfor %}
     </div>
@@ -53,10 +68,11 @@
 
 <footer class="footer">
   <div class="wrap">
-    <p><a href="/about.html">关于本站 / 版权声明</a> · <a href="/feed.xml">RSS 订阅</a> · <a href="/sitemap.xml">网站地图</a></p>
-    <p class="muted"><strong>本站内容仅供学习交流，不构成任何投资建议。</strong>投资有风险，决策请独立判断或咨询持牌专业人士。</p>
-    <p class="muted">新闻内容为编译摘要，版权归原作者及原媒体所有，详情请点击原文链接。网友帖子仅代表个人观点。</p>
-    <p class="muted">© {{ year }} {{ site.name }}</p>
+    <span class="wordmark">TimelyReach</span>
+    <p><a href="/about.html">关于本站</a> · <a href="/new.html">我要发帖</a> · <a href="/feed.xml">RSS 订阅</a> · <a href="/sitemap.xml">网站地图</a></p>
+    <p><strong>本站内容仅供学习交流，不构成任何投资建议。</strong>投资有风险，决策请独立判断或咨询持牌专业人士。</p>
+    <p>新闻内容为编译摘要，版权归原作者及原媒体所有，详情请点击原文链接。网友帖子仅代表个人观点。</p>
+    <p>© {{ year }} {{ site.name }}</p>
   </div>
 </footer>
 <script src="/static/vendor/supabase.js" defer></script>

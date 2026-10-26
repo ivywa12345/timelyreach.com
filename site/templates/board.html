@@ -15,33 +15,40 @@
 }|tojson_safe }}</script>
 {% endblock %}
 {% block content %}
-<nav class="crumbs"><a href="/">首页</a> › {{ board.name }}</nav>
-<section class="card">
-  <div class="card-head board-head">
-    <div>
-      <h1>{{ board.name }}</h1>
-      <p class="muted">{{ board.description }}</p>
-    </div>
-    {% if board.kind == 'user' %}<a class="btn" href="/new.html?board={{ board.id }}">发新帖</a>{% endif %}
+<div class="board-head">
+  <div>
+    <h1>{{ board.name }}</h1>
+    <p>{{ board.description }}</p>
   </div>
-  <div class="rows-head"><span>主题</span><span>回复 / 浏览</span></div>
-  {% if board.kind == 'auto' %}
-    {% if items %}
-    <ul class="rows">{% for a in items %}{{ article_row(a, None) }}{% endfor %}</ul>
-    {% else %}<p class="empty">暂无内容，机器人稍后会自动发帖。</p>{% endif %}
-    {% if pages > 1 %}
-    <nav class="pager">
-      {% if prev_url %}<a href="{{ prev_url }}">« 上一页</a>{% endif %}
-      <span>第 {{ page }} / {{ pages }} 页</span>
-      {% if next_url %}<a href="{{ next_url }}">下一页 »</a>{% endif %}
-    </nav>
+  {% if board.kind == 'user' %}<a class="btn" href="/new.html?board={{ board.id }}">发新帖</a>{% endif %}
+</div>
+<div class="layout">
+  <section class="col-main">
+    <div class="rows-head"><span>{% if page > 1 %}第 {{ page }} 页{% else %}最新{% endif %}</span><span>回复 / 浏览</span></div>
+    {% if board.kind == 'auto' %}
+      {% if items %}
+      <ul class="rows">{% for a in items %}{{ article_row(a, None) }}{% endfor %}</ul>
+      {% else %}<p class="empty">暂无内容，机器人稍后会自动发帖。</p>{% endif %}
+      {% if pages > 1 %}
+      <nav class="pager">
+        {% if prev_url %}<a href="{{ prev_url }}">‹ 上一页</a>{% endif %}
+        <span>第 {{ page }} / {{ pages }} 页</span>
+        {% if next_url %}<a href="{{ next_url }}">下一页 ›</a>{% endif %}
+      </nav>
+      {% endif %}
+    {% else %}
+      <ul class="rows" data-live-board="{{ board.id }}" data-limit="50" data-paged="1">
+        {% for t in user_threads %}{{ user_row(t, None) }}{% endfor %}
+      </ul>
+      <p class="empty live-empty" {% if user_threads %}hidden{% endif %}>还没有帖子，<a href="/new.html?board={{ board.id }}">来发第一帖</a>！</p>
+      <nav class="pager" id="live-pager" hidden></nav>
     {% endif %}
-  {% else %}
-    <ul class="rows" data-live-board="{{ board.id }}" data-limit="50" data-paged="1">
-      {% for t in user_threads %}{{ user_row(t, None) }}{% endfor %}
-    </ul>
-    <p class="empty live-empty" {% if user_threads %}hidden{% endif %}>还没有帖子，<a href="/new.html?board={{ board.id }}">来发第一帖</a>！</p>
-    <nav class="pager" id="live-pager" hidden></nav>
-  {% endif %}
-</section>
+  </section>
+  <aside class="col-side">
+    <h2 class="side-head">热帖排行 · 近 3 天</h2>
+    <ol class="hotlist" id="hotlist"><li class="muted">加载中…</li></ol>
+    <h2 class="side-head" style="margin-top:22px">会员等级</h2>
+    <ul class="levels" id="levels"></ul>
+  </aside>
+</div>
 {% endblock %}

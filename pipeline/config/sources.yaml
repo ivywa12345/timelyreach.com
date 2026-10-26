@@ -78,7 +78,7 @@ sources:
   - id: twitter
     name: "推特"
     lang: en
-    board: twitter
+    board: hot
     limit: 6
     full_text: false
     requires_env: TWITTER_AUTH_TOKEN

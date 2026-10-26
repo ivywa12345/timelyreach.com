@@ -16,7 +16,9 @@
     [0, "新手上路"], [20, "初级会员"], [100, "中级会员"], [300, "高级会员"],
     [800, "资深会员"], [2000, "荣誉会员"], [5000, "元老"]
   ];
-  var AUTHOR_COLS = "username,display_name,avatar_url,points,role";
+  // Reads go through the *_public views, which blank the author of anonymous posts
+  // unless the viewer wrote it or moderates.
+  var AUTHOR_COLS = "anonymous,author_id,author_username,author_display_name,author_avatar_url,author_points,author_role";
 
   var me = null;          // auth user
   var myProfile = null;   // profiles row
@@ -52,13 +54,24 @@
     LEVELS.forEach(function (l, i) { if ((profile.points || 0) >= l[0]) { name = l[1]; idx = i; } });
     return { name: name, cls: idx >= 3 ? "lv-high" : "" };
   }
-  function displayName(p) { return p ? (p.display_name || p.username || "网友") : "网友"; }
+  function displayName(p) { return p ? (p.display_name || p.username || "网友") : "匿名网友"; }
+  // Flattened author_* columns from the public views -> profile-like object (null = hidden).
+  function authorOf(row) {
+    if (!row || !row.author_username) return null;
+    return { username: row.author_username, display_name: row.author_display_name, avatar_url: row.author_avatar_url,
+             points: row.author_points, role: row.author_role };
+  }
+  function authorLabel(row) {
+    var a = authorOf(row);
+    if (!a) return "匿名网友";
+    return userLink(a) + (row.anonymous ? ' <span class="muted small">（匿名发布，仅你/版主可见）</span>' : "");
+  }
   function avatarHtml(p) {
     if (p && p.avatar_url) return '<img src="' + esc(p.avatar_url) + '" alt="" loading="lazy">';
     return '<span class="ph">' + esc(displayName(p).slice(0, 1)) + "</span>";
   }
   function userLink(p) {
-    if (!p) return "网友";
+    if (!p) return "匿名网友";
     return '<a href="/user.html?u=' + encodeURIComponent(p.username) + '">' + esc(displayName(p)) + "</a>";
   }
   function isMod() { return myProfile && (myProfile.role === "admin" || myProfile.role === "moderator"); }
@@ -86,15 +99,15 @@
     var box = $("#userbox");
     if (!box) return;
     if (!me) {
-      box.innerHTML = '<a class="btn btn-small" href="/login.html?next=' + encodeURIComponent(location.pathname + location.search) + '">登录 / 注册</a>';
+      box.innerHTML = '<a href="/login.html?next=' + encodeURIComponent(location.pathname + location.search) + '">登录 / 注册</a>';
       return;
     }
     var p = myProfile || { username: "", display_name: me.email };
     box.innerHTML =
-      '<a class="btn btn-small" href="/new.html">发帖</a>' +
+      '<a href="/new.html">发帖</a>' +
       '<a href="/user.html?u=' + encodeURIComponent(p.username) + '" title="' + esc(displayName(p)) + '">' +
       (p.avatar_url ? '<img class="avatar" src="' + esc(p.avatar_url) + '" alt="">' : esc(displayName(p).slice(0, 6))) + "</a>" +
-      '<button type="button" class="btn btn-small" id="logout">退出</button>';
+      '<button type="button" class="btn btn-ghost btn-small" id="logout">退出</button>';
     $("#logout").onclick = function () { sb.auth.signOut().then(function () { location.reload(); }); };
   }
 
@@ -144,7 +157,7 @@
   function userRowHtml(t) {
     return '<li class="row' + (t.pinned ? " pinned" : "") + '" data-key="u:' + t.id + '">' +
       '<div class="row-main"><a class="row-title" href="/thread.html?id=' + t.id + '">' + esc(t.title) + "</a>" +
-      '<div class="row-meta"><span class="tag tag-user">网友</span>' + userLink(t.author) + " · <time>" + fmtTime(t.created_at) + "</time></div></div>" +
+      '<div class="row-meta"><span class="tag tag-user">网友</span>' + authorLabel(t) + " · <time>" + fmtTime(t.created_at) + "</time></div></div>" +
       '<div class="row-stats"><span class="replies">–</span><span class="views">–</span></div></li>';
   }
 
@@ -157,8 +170,8 @@
       var page = Math.max(1, parseInt(param("page"), 10) || 1);
       var paged = ul.hasAttribute("data-paged");
       var from = paged ? (page - 1) * limit : 0;
-      return sb.from("threads").select("id,title,created_at,pinned,author:profiles(" + AUTHOR_COLS + ")", { count: "exact" })
-        .eq("board", board).eq("deleted", false)
+      return sb.from("threads_public").select("id,title,created_at,pinned," + AUTHOR_COLS, { count: "exact" })
+        .eq("board", board)
         .order("pinned", { ascending: false }).order("created_at", { ascending: false })
         .range(from, from + limit - 1)
         .then(function (r) {
@@ -199,7 +212,7 @@
         var stats = (r.data || []).filter(function (s) { return s.reply_count > 0; });
         if (!stats.length) { ol.innerHTML = '<li class="muted">还没有热帖，快去跟帖吧</li>'; return; }
         var uids = stats.filter(function (s) { return s.thread_key.indexOf("u:") === 0; }).map(function (s) { return s.thread_key.slice(2); });
-        var userQ = uids.length ? sb.from("threads").select("id,title").in("id", uids) : Promise.resolve({ data: [] });
+        var userQ = uids.length ? sb.from("threads_public").select("id,title").in("id", uids) : Promise.resolve({ data: [] });
         Promise.all([loadSearchIndex(), userQ]).then(function (res) {
           var titles = {};
           res[0].forEach(function (a) { titles["t:" + a.u.replace(/^\/t\//, "").replace(/\.html$/, "")] = { t: a.t, u: a.u }; });
@@ -223,17 +236,17 @@
   var commentsByID = {};
 
   function commentHtml(c, floor) {
-    var p = c.author, lv = levelOf(p);
+    var p = authorOf(c), lv = p ? levelOf(p) : { name: "匿名", cls: "" };
     var quote = "";
     if (c.reply_to && commentsByID[c.reply_to]) {
       var q = commentsByID[c.reply_to];
-      quote = "<blockquote>回复 " + esc(displayName(q.author)) + "：" + esc(q.body.slice(0, 120)) + (q.body.length > 120 ? "…" : "") + "</blockquote>";
+      quote = "<blockquote>回复 " + esc(displayName(authorOf(q))) + "：" + esc(q.body.slice(0, 120)) + (q.body.length > 120 ? "…" : "") + "</blockquote>";
     }
     var tools = '<button type="button" data-reply="' + c.id + '">回复</button>';
-    if (me && (c.author_id === me.id || isMod())) tools += '<button type="button" data-del="' + c.id + '">删除</button>';
-    return '<li class="comment" id="c' + c.id + '">' +
-      '<div class="comment-author">' + avatarHtml(p) + userLink(p) + '<br><span class="level ' + lv.cls + '">' + lv.name + "</span></div>" +
-      '<div><div class="comment-meta"><span>' + floor + "楼 · " + fmtTime(c.created_at) + '</span><span class="comment-tools">' + tools + "</span></div>" +
+    if (me && ((c.author_id && c.author_id === me.id) || isMod())) tools += '<button type="button" data-del="' + c.id + '">删除</button>';
+    return '<li class="comment" id="c' + c.id + '">' + avatarHtml(p) +
+      '<div><div class="comment-head">' + authorLabel(c) + ' <span class="level ' + lv.cls + '">' + lv.name + "</span></div>" +
+      '<div class="comment-meta"><span>' + floor + "楼 · " + fmtTime(c.created_at) + '</span><span class="comment-tools">' + tools + "</span></div>" +
       quote + '<div class="comment-body">' + linkify(c.body) + "</div></div></li>";
   }
 
@@ -241,7 +254,7 @@
     var list = $("#comment-list");
     if (!list) return;
     if (!requireSb(list)) return;
-    sb.from("comments").select("id,body,created_at,reply_to,author_id,author:profiles(" + AUTHOR_COLS + ")")
+    sb.from("comments_public").select("id,body,created_at,reply_to," + AUTHOR_COLS)
       .eq("thread_key", key).order("id", { ascending: true }).limit(1000)
       .then(function (r) {
         if (r.error) { list.innerHTML = '<li class="muted">跟帖加载失败：' + esc(r.error.message) + "</li>"; return; }
@@ -265,7 +278,8 @@
     }
     slot.innerHTML = '<form class="form" id="comment-form"><div id="replying" class="muted small" hidden></div>' +
       '<textarea name="body" required maxlength="5000" rows="4" placeholder="说说你的看法…（请文明发言）"></textarea>' +
-      '<div><button class="btn" type="submit">发表跟帖</button></div><p class="form-msg" id="comment-msg" role="status"></p></form>';
+      '<div class="form-row"><button class="btn" type="submit">发表跟帖</button>' +
+      '<label class="check"><input type="checkbox" name="anonymous"> 匿名跟帖</label></div><p class="form-msg" id="comment-msg" role="status"></p></form>';
     var form = $("#comment-form"), replyTo = null;
     $("#comment-list").addEventListener("click", function (ev) {
       var t = ev.target;
@@ -273,7 +287,7 @@
         replyTo = parseInt(t.getAttribute("data-reply"), 10);
         var c = commentsByID[replyTo], box = $("#replying");
         box.hidden = false;
-        box.innerHTML = "回复 " + esc(displayName(c && c.author)) + ' <button type="button" class="btn-ghost btn btn-small" id="cancel-reply">取消</button>';
+        box.innerHTML = "回复 " + esc(displayName(authorOf(c))) + ' <button type="button" class="btn-ghost btn btn-small" id="cancel-reply">取消</button>';
         $("#cancel-reply").onclick = function () { replyTo = null; box.hidden = true; };
         form.body.focus();
       } else if (t.hasAttribute("data-del")) {
@@ -288,7 +302,7 @@
       var body = form.body.value.trim(), m = $("#comment-msg");
       if (!body) return;
       form.querySelector("button[type=submit]").disabled = true;
-      sb.from("comments").insert({ thread_key: key, body: body, reply_to: replyTo }).then(function (r) {
+      sb.from("comments").insert({ thread_key: key, body: body, reply_to: replyTo, anonymous: form.anonymous.checked }).then(function (r) {
         form.querySelector("button[type=submit]").disabled = false;
         if (r.error) { msg(m, errText(r.error)); return; }
         form.body.value = ""; replyTo = null; $("#replying").hidden = true;
@@ -316,23 +330,24 @@
     var id = parseInt(param("id"), 10);
     if (!id) { view.innerHTML = "<p>帖子不存在。</p>"; return Promise.resolve(); }
     if (!requireSb(view)) return Promise.resolve();
-    return sb.from("threads").select("*,author:profiles(" + AUTHOR_COLS + ")").eq("id", id).maybeSingle().then(function (r) {
+    return sb.from("threads_public").select("id,board,title,body,pinned,locked,created_at," + AUTHOR_COLS).eq("id", id).maybeSingle().then(function (r) {
       var t = r.data;
       if (!t) { view.innerHTML = "<h1>帖子不存在或已被删除</h1>"; $("#comments").hidden = true; return; }
       document.title = t.title + " - " + document.title.split(" - ").slice(-1)[0];
       var b = BOARDS[t.board];
       if (b) $("#crumb-board").innerHTML = '<a href="/f/' + b.id + '/">' + esc(b.name) + "</a> › ";
-      var lv = levelOf(t.author);
+      var ta = authorOf(t), lv = ta ? levelOf(ta) : { name: "匿名", cls: "" };
       var tools = "";
-      if (me && (t.author_id === me.id || isMod())) tools += '<button class="btn btn-ghost btn-small" data-act="delete">删除</button>';
+      if (me && ((t.author_id && t.author_id === me.id) || isMod())) tools += '<button class="btn btn-ghost btn-small" data-act="delete">删除</button>';
       if (isMod()) {
         tools += '<button class="btn btn-ghost btn-small" data-act="pin">' + (t.pinned ? "取消置顶" : "置顶") + "</button>";
         tools += '<button class="btn btn-ghost btn-small" data-act="lock">' + (t.locked ? "解锁" : "锁帖") + "</button>";
       }
       view.setAttribute("data-thread-key", "u:" + t.id);
-      view.innerHTML = '<header class="post-head"><h1>' + esc(t.title) + "</h1>" +
-        '<div class="row-meta">楼主：' + userLink(t.author) + ' <span class="level ' + lv.cls + '">' + lv.name + "</span> · " + fmtTime(t.created_at) +
-        ' · 浏览 <span class="views">–</span> · 回复 <span class="replies">–</span>' + (t.locked ? ' · <span class="tag">已锁定</span>' : "") + "</div></header>" +
+      view.innerHTML = '<header class="post-head">' + (b ? '<a class="kicker" href="/f/' + b.id + '/">' + esc(b.name) + "</a>" : "") +
+        "<h1>" + esc(t.title) + "</h1>" +
+        '<div class="byline"><span>楼主 ' + authorLabel(t) + ' <span class="level ' + lv.cls + '">' + lv.name + "</span></span><span>" + fmtTime(t.created_at) +
+        '</span><span>浏览 <span class="views">–</span></span><span>回复 <span class="replies">–</span></span>' + (t.locked ? '<span class="tag">已锁定</span>' : "") + "</div></header>" +
         '<div class="post-body">' + t.body.split(/\n+/).filter(Boolean).map(function (p) { return "<p>" + linkify(p) + "</p>"; }).join("") + "</div>" +
         (tools ? '<div class="post-actions">' + tools + "</div>" : "");
       $all("[data-act]", view).forEach(function (btn) {
@@ -411,7 +426,8 @@
       ev.preventDefault();
       var m = $("#new-msg"), btn = form.querySelector("button[type=submit]");
       btn.disabled = true;
-      sb.from("threads").insert({ board: form.board.value, title: form.title.value.trim(), body: form.body.value.trim() })
+      sb.from("threads").insert({ board: form.board.value, title: form.title.value.trim(), body: form.body.value.trim(),
+                                  anonymous: !!(form.anonymous && form.anonymous.checked) })
         .select("id").single().then(function (r) {
           btn.disabled = false;
           if (r.error) { msg(m, errText(r.error)); return; }
@@ -434,7 +450,7 @@
       if (!p) { view.innerHTML = "<p>用户不存在。</p>"; return; }
       var lv = levelOf(p);
       var next = LEVELS.filter(function (l) { return l[0] > (p.points || 0); })[0];
-      view.innerHTML = '<div class="comment-author" style="border:0;text-align:left;display:flex;gap:12px;align-items:center">' + avatarHtml(p) +
+      view.innerHTML = '<div class="profile-head">' + avatarHtml(p) +
         "<div><h1>" + esc(displayName(p)) + '</h1><span class="muted">@' + esc(p.username) + '</span> <span class="level ' + lv.cls + '">' + lv.name + "</span>" +
         (p.banned ? ' <span class="tag">已禁言</span>' : "") + "</div></div>" +
         (p.bio ? "<p>" + esc(p.bio) + "</p>" : "") +
@@ -458,7 +474,7 @@
           });
         };
       }
-      sb.from("threads").select("id,title,created_at,pinned,author:profiles(" + AUTHOR_COLS + ")").eq("author_id", p.id).eq("deleted", false)
+      sb.from("threads_public").select("id,title,created_at,pinned," + AUTHOR_COLS).eq("author_id", p.id)
         .order("created_at", { ascending: false }).limit(20).then(function (t) {
           var ul = $("#profile-threads");
           ul.innerHTML = (t.data || []).map(userRowHtml).join("") || '<li class="muted">还没有发过主题</li>';
@@ -477,7 +493,7 @@
     var terms = q.toLowerCase().split(/\s+/).filter(Boolean);
     out.innerHTML = '<li class="muted">搜索中…</li>';
     var userQ = sb
-      ? sb.from("threads").select("id,title,created_at,pinned,author:profiles(" + AUTHOR_COLS + ")").eq("deleted", false)
+      ? sb.from("threads_public").select("id,title,created_at,pinned," + AUTHOR_COLS)
           .ilike("title", "%" + q.replace(/[%_]/g, "") + "%").order("created_at", { ascending: false }).limit(30)
       : Promise.resolve({ data: [] });
     Promise.all([loadSearchIndex(), userQ]).then(function (res) {
@@ -505,7 +521,16 @@
     });
   }
 
+  function renderDate() {
+    var el = $("#today");
+    if (!el) return;
+    try {
+      el.textContent = new Date().toLocaleDateString("zh-CN", { year: "numeric", month: "long", day: "numeric", weekday: "long", timeZone: "America/New_York" }) + "（美东）";
+    } catch (e) { /* keep the build date */ }
+  }
+
   function start() {
+    renderDate();
     renderLevels();
     initShare();
     loadMe().then(function () {

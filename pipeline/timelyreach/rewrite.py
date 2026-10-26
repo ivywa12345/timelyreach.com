@@ -63,9 +63,18 @@ EDITOR_SYSTEM_PROMPT = """你是一家海外华人中文网站站长的编辑助
 - 结尾抛出一个问题，邀请读者讨论。
 - 用简体中文。"""
 
+BRIEF_SYSTEM_PROMPT = """你是海外华人财经社区的编辑，负责每个交易日开盘前的"财经早报"。材料是过去 24 小时本站已发布的新闻标题和导读。
+
+要求：
+- 标题格式："X月X日财经早报：<今天最重要的一件事>"，口语化、抓人，但不夸张。
+- 第一段用两三句话概括今天市场最该关注什么。
+- 然后挑 5-8 条最重要的新闻，每条一段：先一句话说发生了什么，再一句话说对美股/利率/华人钱包可能意味着什么。只用材料里的事实，不要编造数字或行情。
+- 最后一段抛出一个问题，邀请读者在跟帖里聊今天的看法，并提醒"以上不构成投资建议"。
+- 用简体中文。"""
+
 
 def _system_prompt(item: RawItem) -> str:
-    return {"zh": ZH_SYSTEM_PROMPT, "editor": EDITOR_SYSTEM_PROMPT}.get(item.lang, SYSTEM_PROMPT)
+    return {"zh": ZH_SYSTEM_PROMPT, "editor": EDITOR_SYSTEM_PROMPT, "brief": BRIEF_SYSTEM_PROMPT}.get(item.lang, SYSTEM_PROMPT)
 
 
 def _material(item: RawItem) -> str:
@@ -167,6 +176,10 @@ class FreeTranslateProvider(Provider):
         return MyMemoryTranslator(source="en-GB", target="zh-CN").translate(text[:480]) or ""
 
     def rewrite(self, item: RawItem) -> Rewrite:
+        if item.lang == "brief":  # headlines are already Chinese: list them as the brief
+            body = ["过去 24 小时最值得关注的财经要闻：", *item.text.split("\n"),
+                    "今天你最关注哪一条？欢迎跟帖聊聊你的看法。（以上不构成投资建议）"]
+            return Rewrite(title=item.title, summary=item.summary, body=body, tags=["每日简报", "美股"])
         if item.lang == "editor":  # editor's own notes are already Chinese: publish them as written
             body = [p.strip() for p in item.text.split("\n") if p.strip()]
             return Rewrite(title=item.title, summary=(body[0] if body else item.title)[:120], body=body, tags=["站长荐读"])
