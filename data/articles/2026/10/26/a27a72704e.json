@@ -1,0 +1,21 @@
+{
+ "key": "a27a72704e",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-25/gold-steadies-after-weekly-drop-as-focus-shifts-to-fed-meeting",
+ "title": "随着焦点转向美联储会议，每周下跌后金价稳定",
+ "summary": "金价在6月份以来最大的周跌幅之后稳定下来，交易员在美联储即将召开的政策会议之前顽固地权衡高企的能源价格。",
+ "body": [
+  "金价在6月份以来最大的周跌幅之后稳定下来，交易员在美联储即将召开的政策会议之前顽固地权衡高企的能源价格。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Gold Steadies After Weekly Drop as Focus Shifts to Fed Meeting",
+ "lang": "en",
+ "published": "2026-10-25T23:23:38+00:00",
+ "created": "2026-10-26T01:10:14+00:00",
+ "rewriter": "free-translate"
+}
