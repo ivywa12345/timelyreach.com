@@ -1,0 +1,22 @@
+{
+ "key": "2b51a9df18",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/economy/central-banking/interest-rates-look-kinda-low-39f99f8c?mod=rss_markets_main",
+ "title": "利率看起来有点低",
+ "summary": "此外， Anthropic的人工智能愿景、聊天机器人处理经济数据，以及Kevin Warsh的全球受众。",
+ "body": [
+  "此外， Anthropic的人工智能愿景、聊天机器人处理经济数据，以及Kevin Warsh的全球受众。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Interest Rates Look Kinda Low",
+ "lang": "en",
+ "published": "2026-10-27T09:58:00+00:00",
+ "created": "2026-10-27T14:00:40+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

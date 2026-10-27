@@ -1,0 +1,22 @@
+{
+ "key": "7d95103b31",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-c4aa51dc?mod=rss_markets_main",
+ "title": "科技、媒体和电信综述：市场谈话",
+ "summary": "在涵盖技术、媒体和电信的最新市场讲座中，了解有关Anthropic、Verizon、ZTE等的见解。",
+ "body": [
+  "在涵盖技术、媒体和电信的最新市场讲座中，了解有关Anthropic、Verizon、ZTE等的见解。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Tech, Media & Telecom Roundup: Market Talk",
+ "lang": "en",
+ "published": "2026-10-27T12:33:00+00:00",
+ "created": "2026-10-27T14:00:31+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

@@ -1,0 +1,22 @@
+{
+ "key": "0f35229a60",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/european-stocks-pulled-lower-by-banks-as-hsbc-results-disappoint",
+ "title": "随着油价下跌，欧洲股市抹去损失；汇丰银行下滑",
+ "summary": "由于油价下跌抵消了基准重量级汇丰控股公司(HSBC Holdings Plc)令人失望的盈利，欧洲股市收复了早前的亏损。",
+ "body": [
+  "由于油价下跌抵消了基准重量级汇丰控股公司(HSBC Holdings Plc)令人失望的盈利，欧洲股市收复了早前的亏损。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "European Stocks Erase Losses as Oil Price Falls; HSBC Slides",
+ "lang": "en",
+ "published": "2026-10-27T08:18:07+00:00",
+ "created": "2026-10-27T14:00:58+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
