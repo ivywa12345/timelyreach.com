@@ -1,0 +1,27 @@
+{
+ "key": "e48895e9c1",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/americas-military-presence-reshapes-hormuz-94c3f686?mod=rss_worldnews",
+ "title": "霍尔木兹海峡大变样？美军的存在感到底是怎么刷出来的",
+ "summary": "《华尔街日报》发表观点文章指出，美军在霍尔木兹海峡的军事存在正在重塑当地局势，局势的改善有目共睹且原因清晰。",
+ "body": [
+  "最近，《华尔街日报》刊登了一篇关于霍尔木兹海峡（Strait of Hormuz）局势的评论文章，核心意思很简单：美军在那里的军事存在感越来越强，并且实实在在地改变了当地的格局。",
+  "文章指出，虽然具体细节没有在摘要中过多展开，但目前的进展是“不可否认的”，而且背后有着非常清晰的解释。长期以来，这一战略要地的风吹草动都牵动着全球能源和航运的神经。",
+  "对于海外华人来说，中东局势的每一次风吹草动往往都会通过国际油价、全球供应链间接影响到大家的钱包和日常生活。后续美军在海峡的进一步动作会如何影响能源市场，咱们还得继续搬小凳子看戏。"
+ ],
+ "tags": [
+  "霍尔木兹海峡",
+  "美军",
+  "华尔街日报",
+  "中东局势",
+  "海外观察"
+ ],
+ "original_title": "Opinion | America’s Military Presence Reshapes Hormuz",
+ "lang": "en",
+ "published": "2026-10-27T15:50:00+00:00",
+ "created": "2026-10-27T15:51:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

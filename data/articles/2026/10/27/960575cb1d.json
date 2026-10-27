@@ -1,0 +1,27 @@
+{
+ "key": "960575cb1d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/pork-slump-worsens-as-high-gas-prices-curb-road-trip-pit-stops",
+ "title": "油价太高大家不出门了？美国猪肉行业迎来“双重打击”！",
+ "summary": "美国猪肉行业正面临需求疲软和高油价的双重夹击，自驾游减少直接导致公路沿线餐饮和猪肉消费遇冷。",
+ "body": [
+  "据彭博社（Bloomberg）报道，本来就日子不好过的美国猪肉行业最近又挨了一闷棍——高居不下的汽油价格，让大家的自驾游热情大打折扣。",
+  "按照彭博社记者Ilena Peng的报道，美国猪肉产业目前正深陷需求疲软的泥潭。而随着油价飙升，人们开车出门旅游的次数减少，那些公路沿途的加油站、小卖部和小饭馆的生意自然受到影响，这也让本就滞销的猪肉产品更加卖不动了。",
+  "对于海外华人来说，虽然这可能意味着超市里偶尔能买到价格更实惠的猪肉，但也从侧面反映出美国通胀和高油价正在全方位挤压消费者的出行和生活预算。"
+ ],
+ "tags": [
+  "美国经济",
+  "通胀",
+  "猪肉市场",
+  "油价",
+  "海外生活"
+ ],
+ "original_title": "Pork Slump Worsens as High Gas Prices Curb Road Trip Pit Stops",
+ "lang": "en",
+ "published": "2026-10-27T15:38:54+00:00",
+ "created": "2026-10-27T15:52:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
