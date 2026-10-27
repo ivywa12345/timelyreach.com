@@ -1,0 +1,22 @@
+{
+ "key": "47785fce94",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-investors-mull-potential-fed-rate-hike-this-year-1c4b50fd?mod=rss_markets_main",
+ "title": "黄金下跌，投资者等待美联储会议",
+ "summary": "黄金价格小幅下跌，因为投资者等待美联储的会议，以获得更多关于利率方向的线索。",
+ "body": [
+  "黄金价格小幅下跌，因为投资者等待美联储的会议，以获得更多关于利率方向的线索。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Gold Falls as Investors Await Fed Meeting",
+ "lang": "en",
+ "published": "2026-10-27T08:59:00+00:00",
+ "created": "2026-10-27T15:14:02+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

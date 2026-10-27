@@ -1,0 +1,22 @@
+{
+ "key": "86c2735aca",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/weak-european-fertilizer-demand-poses-threat-to-crop-yields",
+ "title": "欧洲肥料需求疲软对作物产量构成威胁",
+ "summary": "由于价格上涨抑制了需求，欧洲农民正在遏制化肥购买，这可能使作物产量面临风险。",
+ "body": [
+  "由于价格上涨抑制了需求，欧洲农民正在遏制化肥购买，这可能使作物产量面临风险。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Weak European Fertilizer Demand Poses Threat to Crop Yields",
+ "lang": "en",
+ "published": "2026-10-27T14:19:54+00:00",
+ "created": "2026-10-27T15:14:09+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
