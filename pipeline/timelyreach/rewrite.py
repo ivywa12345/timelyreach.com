@@ -254,6 +254,8 @@ class FreeTranslateProvider(Provider):
 
 
 GEMINI_BASE_URL = "https://generativelanguage.googleapis.com/v1beta/openai"
+# keys that clearly belong to someone else, so must never be sent to Google by default
+OTHER_PROVIDER_KEY_PREFIXES = ("sk-", "gsk_", "xai-", "sk_", "pplx-", "r8_", "hf_")
 
 
 def _env(name: str) -> str:
@@ -269,11 +271,12 @@ def available_providers() -> list[Provider]:
     for name in ("ANTHROPIC_API_KEY", "LLM_API_KEY", "LLM_BASE_URL", "LLM_MODEL"):
         log.info("setting %s: %s", name, "present" if _env(name) else "EMPTY")
     if _env("LLM_API_KEY") and not _env("LLM_BASE_URL"):
-        if _env("LLM_API_KEY").startswith("AIza"):
-            os.environ["LLM_BASE_URL"] = GEMINI_BASE_URL  # a Google AI Studio key: Gemini is the only place it works
-            log.info("LLM_BASE_URL empty: using Gemini's endpoint because the key looks like a Gemini key")
+        if not _env("LLM_API_KEY").startswith(OTHER_PROVIDER_KEY_PREFIXES):
+            # The setup guide asks for a Gemini key; don't make the owner also create a Variable for it.
+            os.environ["LLM_BASE_URL"] = GEMINI_BASE_URL
+            log.info("LLM_BASE_URL empty: assuming a Gemini key and using Gemini's endpoint")
         else:
-            log.warning("LLM_API_KEY is set but LLM_BASE_URL is empty: it must be a repository *Variable*, not a Secret")
+            log.warning("LLM_API_KEY looks like another provider's key but LLM_BASE_URL is empty: add it as a repository *Variable*")
     if _env("LLM_BASE_URL") and not _env("LLM_API_KEY"):
         log.warning("LLM_BASE_URL is set but LLM_API_KEY is empty: the key must be a repository *Secret*")
     if _env("ANTHROPIC_API_KEY"):

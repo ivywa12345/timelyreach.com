@@ -405,12 +405,13 @@ def test_env_values_are_trimmed_and_provider_is_detected(monkeypatch):
 def test_gemini_key_alone_is_enough(monkeypatch):
     monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
     monkeypatch.setenv("TR_DISABLE_FREE_TRANSLATE", "1")
-    monkeypatch.setenv("LLM_API_KEY", "AIzaSyExample")
-    monkeypatch.delenv("LLM_BASE_URL", raising=False)
-    monkeypatch.delenv("LLM_MODEL", raising=False)
-    providers = rewrite.available_providers()
-    assert [p.name for p in providers] == ["openai-compatible"]
-    assert providers[0].base_url == rewrite.GEMINI_BASE_URL
+    for key in ("AIzaSyExample", "AQ.Ab8RN6examplekey"):  # old and new Google AI Studio key formats
+        monkeypatch.setenv("LLM_API_KEY", key)
+        monkeypatch.delenv("LLM_BASE_URL", raising=False)
+        monkeypatch.delenv("LLM_MODEL", raising=False)
+        providers = rewrite.available_providers()
+        assert [p.name for p in providers] == ["openai-compatible"]
+        assert providers[0].base_url == rewrite.GEMINI_BASE_URL
     monkeypatch.setenv("LLM_API_KEY", "sk-other")
     monkeypatch.delenv("LLM_BASE_URL")
     assert rewrite.available_providers() == []  # not a Gemini key: needs an explicit base URL
