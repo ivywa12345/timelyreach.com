@@ -1,4 +1,5 @@
 import json
+import requests
 import re
 from pathlib import Path
 from types import SimpleNamespace
@@ -353,3 +354,33 @@ def test_brief_line_does_not_repeat_the_title():
     assert _line(a) == "美联储按兵不动：市场押注年内降息两次。"
     a.summary = "另一句导读"
     assert _line(a) == "美联储按兵不动：另一句导读"
+
+
+def test_openai_compatible_retries_rate_limits_then_gives_up(monkeypatch):
+    monkeypatch.setenv("LLM_BASE_URL", "https://llm.example/v1")
+    monkeypatch.setenv("LLM_API_KEY", "k")
+    monkeypatch.setenv("LLM_MIN_INTERVAL", "0")
+    monkeypatch.setattr(rewrite.time, "sleep", lambda s: None)
+    good = {"choices": [{"message": {"content": '{"title":"标题","summary":"导读","body":["段落"],"tags":["a"]}'}}]}
+
+    class Resp:
+        def __init__(self, code, body=None):
+            self.status_code, self._body, self.headers = code, body, {"retry-after": "1"}
+        def json(self): return self._body
+        def raise_for_status(self):
+            if self.status_code >= 400:
+                raise requests.HTTPError(response=self)
+
+    seq = iter([Resp(429), Resp(429), Resp(200, good)])
+    monkeypatch.setattr(rewrite.requests, "post", lambda *a, **k: next(seq))
+    prov = rewrite.OpenAICompatibleProvider()
+    assert prov.rewrite(_item()).title == "标题" and not prov.exhausted
+
+    calls = []
+    monkeypatch.setattr(rewrite.requests, "post", lambda *a, **k: calls.append(1) or Resp(429))
+    with pytest.raises(requests.HTTPError):
+        prov.rewrite(_item())
+    assert prov.exhausted and len(calls) == 4  # first try + 3 retries
+    with pytest.raises(RuntimeError):  # later items fail fast, no more requests
+        prov.rewrite(_item())
+    assert len(calls) == 4

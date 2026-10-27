@@ -135,7 +135,12 @@ class ClaudeProvider(Provider):
 
 
 class OpenAICompatibleProvider(Provider):
-    """Gemini (https://generativelanguage.googleapis.com/v1beta/openai/), DeepSeek, etc."""
+    """Gemini (https://generativelanguage.googleapis.com/v1beta/openai/), DeepSeek, etc.
+
+    Free tiers allow only a handful of requests per minute, so calls are spaced out
+    (LLM_MIN_INTERVAL seconds, default 6.5) and rate-limit answers are retried. Once the
+    quota stays exhausted the provider gives up for the rest of the run, so remaining
+    items fall through to the next provider quickly instead of waiting on every call."""
 
     name = "openai-compatible"
 
@@ -143,23 +148,48 @@ class OpenAICompatibleProvider(Provider):
         self.base_url = os.environ["LLM_BASE_URL"].rstrip("/")
         self.api_key = os.environ["LLM_API_KEY"]
         self.model = os.environ.get("LLM_MODEL", "gemini-2.5-flash")
+        self.min_interval = float(os.environ.get("LLM_MIN_INTERVAL", "6.5"))
+        self._last_call = 0.0
+        self.exhausted = False
 
-    def rewrite(self, item: RawItem) -> Rewrite:
-        system = _system_prompt(item)
-        schema_hint = '只输出 JSON：{"title": str, "summary": str, "body": [str, ...], "tags": [str, ...]}'
-        resp = requests.post(
+    def _post(self, payload: dict) -> requests.Response:
+        wait = self._last_call + self.min_interval - time.monotonic()
+        if wait > 0:
+            time.sleep(wait)
+        self._last_call = time.monotonic()
+        return requests.post(
             f"{self.base_url}/chat/completions",
             headers={"Authorization": f"Bearer {self.api_key}"},
-            json={
-                "model": self.model,
-                "messages": [
-                    {"role": "system", "content": system + "\n\n" + schema_hint},
-                    {"role": "user", "content": "请根据以下材料写稿：\n\n" + _material(item)},
-                ],
-                "response_format": {"type": "json_object"},
-            },
+            json=payload,
             timeout=120,
         )
+
+    def rewrite(self, item: RawItem) -> Rewrite:
+        if self.exhausted:
+            raise RuntimeError("llm quota exhausted earlier in this run")
+        system = _system_prompt(item)
+        schema_hint = '只输出 JSON：{"title": str, "summary": str, "body": [str, ...], "tags": [str, ...]}'
+        payload = {
+            "model": self.model,
+            "messages": [
+                {"role": "system", "content": system + "\n\n" + schema_hint},
+                {"role": "user", "content": "请根据以下材料写稿：\n\n" + _material(item)},
+            ],
+            "response_format": {"type": "json_object"},
+        }
+        resp = self._post(payload)
+        for attempt in range(3):
+            if resp.status_code not in (429, 500, 502, 503, 504):
+                break
+            try:
+                delay = float(resp.headers.get("retry-after", ""))
+            except ValueError:
+                delay = 20.0 * (attempt + 1)
+            time.sleep(min(delay, 65.0))
+            resp = self._post(payload)
+        if resp.status_code == 429:
+            self.exhausted = True
+            log.warning("llm rate limit/quota still exceeded after retries; using the next provider for the rest of the run")
         resp.raise_for_status()
         content = resp.json()["choices"][0]["message"]["content"]
         content = re.sub(r"^```(?:json)?|```$", "", content.strip(), flags=re.M).strip()
