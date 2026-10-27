@@ -1,0 +1,35 @@
+{% set title = "站长后台" %}
+{% extends "base.html" %}
+{% block content %}
+<section class="card narrow">
+  <h1>站长后台</h1>
+  <p class="muted small">文章会保存到仓库的 <code>inbox/</code> 目录，几分钟内自动发布（发布后会出现在对应版块和首页）。</p>
+
+  <form id="token-form" class="form" hidden>
+    <label>GitHub Token（只保存在这台浏览器里）
+      <input name="token" type="password" autocomplete="off" placeholder="github_pat_…" required>
+    </label>
+    <button class="btn" type="submit">保存</button>
+    <p class="muted small">在 GitHub → Settings → Developer settings → Fine-grained tokens 新建：Repository 只选 timelyreach.com，Permissions → Contents: Read and write。</p>
+    <p class="form-msg" id="token-msg" role="status"></p>
+  </form>
+
+  <form id="post-form" class="form" hidden>
+    <label>版块
+      <select name="board" required>
+        {% for b in boards if b.kind == 'auto' and b.id != 'brief' %}<option value="{{ b.id }}">{{ b.name }}</option>{% endfor %}
+      </select>
+    </label>
+    <label>标题<input name="title" required maxlength="80" placeholder="15–30 个字，有信息量"></label>
+    <label>导语（一两句话，会显示在列表和搜索结果里）<textarea name="summary" rows="2" maxlength="200"></textarea></label>
+    <label>正文（段落之间空一行）<textarea name="body" required rows="14" placeholder="第一段&#10;&#10;第二段"></textarea></label>
+    <label>署名来源（原创就留空，会显示“站长”）<input name="source_name" maxlength="30" placeholder="华尔街日报"></label>
+    <label>原文链接（可选）<input name="source_url" type="url" placeholder="https://"></label>
+    <label>标签（用逗号分隔，最多 4 个）<input name="tags" maxlength="60" placeholder="美股, 美联储"></label>
+    <button class="btn" type="submit" id="post-submit">发布</button>
+    <p class="form-msg" id="post-msg" role="status"></p>
+    <p class="muted small"><a href="#" id="token-reset">更换或清除 Token</a></p>
+  </form>
+</section>
+<script src="/static/js/admin.js" defer></script>
+{% endblock %}

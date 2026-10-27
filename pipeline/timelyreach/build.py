@@ -151,7 +151,7 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
         )
 
     # App pages (dynamic, rendered in the browser)
-    for name in ("thread", "login", "new", "user", "search", "about", "404"):
+    for name in ("thread", "login", "new", "user", "search", "about", "404", "admin"):
         render(f"{name}.html", f"{name}.html", canonical=f"{site.base_url}/{name}.html", noindex=name not in ("about",))
 
     _write(
@@ -162,6 +162,7 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
                 "supabaseUrl": sb_url,
                 "supabaseAnonKey": sb_key,
                 "adminGithub": site.admin_github,
+                "repo": "ivywa12345/timelyreach.com",
                 "boards": [b.__dict__ for b in site.boards],
             },
             ensure_ascii=False,
@@ -215,7 +216,7 @@ def _write_seo_files(out: Path, site: SiteConfig, articles: list[Article], user_
 
     _write(
         out / "robots.txt",
-        "User-agent: *\nAllow: /\nDisallow: /login.html\nDisallow: /new.html\n\n"
+        "User-agent: *\nAllow: /\nDisallow: /login.html\nDisallow: /new.html\nDisallow: /admin.html\n\n"
         f"Sitemap: {base}/sitemap.xml\nSitemap: {base}/sitemap-news.xml\n",
     )
 

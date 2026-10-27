@@ -7,6 +7,7 @@ import re
 
 from .config import load_sources
 from .fetchers import fetch_article, fetch_source
+from .inbox import run_inbox
 from .brief import run_brief
 from .picks import run_picks
 from .rewrite import available_providers, to_article
@@ -42,13 +43,15 @@ def credit_reposted_sources(store: Store, limit: int = 60) -> int:
 def run_update(store: Store | None = None, max_new: int | None = None) -> int:
     store = store or Store()
     max_new = max_new if max_new is not None else int(os.environ.get("TR_MAX_NEW", "40"))
+    created = run_inbox(store)  # already written by the owner or an outside agent; no LLM needed
     providers = available_providers()
     log.info("rewrite providers: %s", [p.name for p in providers])
     if not providers:
         log.error("no rewrite provider available; nothing to do")
-        return 0
+        store.flush()
+        return created
 
-    created = run_picks(store, providers)
+    created += run_picks(store, providers)
     for source in load_sources():
         if not source.is_active():
             log.info("source %s skipped (disabled or missing %s)", source.id, source.requires_env)

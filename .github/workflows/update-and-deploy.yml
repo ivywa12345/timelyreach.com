@@ -9,7 +9,7 @@ on:
     - cron: "47 10,11,12,13 * * 1-5"
   push:
     branches: [main, "claude/**"]
-    paths-ignore: ["data/**", "**.md"]
+    paths-ignore: ["data/**", "inbox/done/**", "inbox/rejected/**", "**.md"]
   issues:
     # 站长提交"站长荐读"后马上发布
     types: [opened, reopened]
@@ -89,7 +89,7 @@ jobs:
         run: |
           git config user.name "timelyreach-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
+          git add data inbox
           if git diff --cached --quiet; then
             echo "no new content"
           else

@@ -472,3 +472,24 @@ def test_gemini_key_alone_is_enough(monkeypatch):
     assert rewrite.available_providers() == []  # not a Gemini key: needs an explicit base URL
 
 
+
+
+def test_inbox_publishes_valid_files_and_rejects_bad_ones(tmp_path):
+    from timelyreach.inbox import run_inbox
+
+    inbox = tmp_path / "inbox"
+    inbox.mkdir()
+    good = {"title": "美联储降息", "summary": "导语", "body": ["第一段", "第二段"], "source_name": "华尔街日报",
+            "source_url": "https://wsj.com/a", "board": "finance", "tags": ["美股"], "created": "2026-10-27T13:05:00Z"}
+    (inbox / "a.json").write_text(json.dumps(good, ensure_ascii=False), encoding="utf-8")
+    own = {"title": "我的看法", "body": ["只有正文"], "board": "nope", "author": "站长"}
+    (inbox / "b.json").write_text(json.dumps(own, ensure_ascii=False), encoding="utf-8")
+    (inbox / "c.json").write_text('{"title": "没正文", "body": []}', encoding="utf-8")
+    store = Store(tmp_path / "data")
+    assert run_inbox(store, inbox) == 2
+    arts = {a.title: a for a in store.load_articles()}
+    assert arts["美联储降息"].source_name == "华尔街日报" and arts["美联储降息"].created.startswith("2026-10-27T13:05")
+    assert arts["我的看法"].board == "finance" and arts["我的看法"].source_id == "editor" and not arts["我的看法"].show_link
+    assert not list(inbox.glob("*.json")) and (inbox / "rejected" / "c.json").exists()
+    (inbox / "a.json").write_text(json.dumps(good, ensure_ascii=False), encoding="utf-8")
+    assert run_inbox(store, inbox) == 0  # same URL is not published twice

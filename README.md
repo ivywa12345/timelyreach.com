@@ -123,3 +123,9 @@ python -m http.server -d ../_site 8000    # 打开 http://localhost:8000
 - 新闻是**编译摘要 + 原文链接**，不是全文翻译；华尔街日报、彭博有付费墙，机器人只用标题和摘要写快讯。
 - 外站热帖只转标题和导读，引导读者点原帖。
 - 有权利人投诉时，删掉 `data/articles/` 里对应的 JSON 并推送即可下线。
+
+## 站长后台与投稿箱（inbox）
+
+- 打开 `https://你的域名/admin.html`，第一次填入 GitHub Fine-grained Token（只选本仓库，Contents: Read and write；只保存在你的浏览器里），之后直接写标题、正文、点发布。
+- 文章被保存成 `inbox/*.json`，推送会触发一轮运行，几分钟内发布。外部 Agent 也可以用同样的 JSON 格式往 `inbox/` 里写文件（字段：title、summary、body[]、source_name、source_url、board、tags[]、created）。
+- 处理过的文件移到 `inbox/done/`，格式不对的移到 `inbox/rejected/`。
