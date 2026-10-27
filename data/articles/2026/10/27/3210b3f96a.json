@@ -1,0 +1,26 @@
+{
+ "key": "3210b3f96a",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/indicted-ex-fund-manager-can-sue-jefferies-for-costs-court-says",
+ "title": "被起诉诈骗前东家，华尔街前基金经理反手把老东家告了：法院判他能拿回律师费！",
+ "summary": "纽约上诉法院裁定，被指控欺诈前雇主杰富瑞金融集团（Jefferies Financial Group Inc.）的前对冲基金经理，有权起诉该公司以报销其法律辩护费用。",
+ "body": [
+  "话说华尔街最近又出了个让人跌眼镜的官司。根据彭博社报道，杰富瑞金融集团（Jefferies Financial Group Inc.）的一名前对冲基金经理之前被指控涉嫌欺诈老东家，结果这位老兄也不是省油的灯，反手就把公司告了，要求公司掏钱帮他出打官司的律师费。",
+  "这事儿闹到了纽约的上诉法院，法官最近做出裁决：支持这位前基金经理的诉求！这意味着他可以正式起诉公司，让老东家来承担他庞大的法律辩护开销。",
+  "虽然这只是一起关于法律费用报销的裁决，但也提醒了海外打工人们，在职场上面对公司的指控时，合同和法律条款往往是保护自己权益的重要武器。至于这笔官司最后到底谁输谁赢，咱们还得继续吃瓜看后续。"
+ ],
+ "tags": [
+  "华尔街",
+  "法律诉讼",
+  "对冲基金",
+  "职场权益"
+ ],
+ "original_title": "Indicted Ex-Fund Manager Can Sue Jefferies for Costs, Court Says",
+ "lang": "en",
+ "published": "2026-10-27T19:22:11+00:00",
+ "created": "2026-10-27T20:09:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "c371b89cc8",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/banks-ease-loan-approvals-to-weather-australia-property-slump",
+ "title": "澳大利亚房市大跌，银行急了：不仅降低贷款门槛，还送手机话费和旅游券？",
+ "summary": "澳大利亚正经历几代人中最快的房地产低迷期，购房客户越来越少。为了抢夺有限的客户，澳大利亚的银行开始放松房贷审批要求，甚至送出手机话费和旅游代金券等福利。",
+ "body": [
+  "据彭博社（Bloomberg）记者理查德·亨德森（Richard Henderson）报道，随着澳大利亚房地产市场遭遇几代人以来最快的下滑速度，买房的人越来越少，银行之间的竞争也进入了白热化阶段。",
+  "为了在萎缩的客户群中抢到业务，各大银行不仅开始放松房贷审批的要求，甚至还祭出了送礼物的招数，直接向客户赠送用于支付手机话费（phone bills）和旅游（travel）的代金券。",
+  "对于关注海外资产配置或在澳华人来说，虽然银行放宽贷款短期内可能更容易借到钱买房，但也需要警惕房地产市场持续低迷带来的潜在风险。"
+ ],
+ "tags": [
+  "澳大利亚房市",
+  "银行贷款",
+  "海外置业",
+  "金融快讯"
+ ],
+ "original_title": "Banks Ease Loan Approvals to Weather Australia Property Slump",
+ "lang": "en",
+ "published": "2026-10-27T20:00:00+00:00",
+ "created": "2026-10-27T20:09:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

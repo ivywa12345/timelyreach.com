@@ -1,0 +1,25 @@
+{
+ "key": "5e884509ae",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/u-s-bancorp-poised-for-canada-bond-return-after-two-decades",
+ "title": "时隔20年重返加拿大！美国合众银行准备发债高达10亿加元",
+ "summary": "美国合众银行（U.S. Bancorp）时隔二十多年再次计划进入加拿大债券市场，拟发售最多10亿加元（约合7.13亿美元）的债券。",
+ "body": [
+  "据彭博社报道，美国合众银行（U.S. Bancorp）目前正计划在加拿大发售最高可达10亿加元（约合7.13亿美元）的债券。这也是该行自20多年来首次重新涉足加拿大的加元债券市场。",
+  "近年来，跨国金融机构频频通过海外市场来拓宽融资渠道。对于持有加元资产或关注北美金融市场动向的海外华人来说，这类大型银行的债务发行动态往往也是观察加拿大资本市场流动性和利率环境的一个风向标。"
+ ],
+ "tags": [
+  "美国合众银行",
+  "加拿大债券",
+  "金融市场",
+  "海外投资"
+ ],
+ "original_title": "U.S. Bancorp Poised for Canada Bond Return After Two Decades",
+ "lang": "en",
+ "published": "2026-10-27T16:43:32+00:00",
+ "created": "2026-10-27T20:09:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

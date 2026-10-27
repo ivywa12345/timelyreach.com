@@ -1,0 +1,28 @@
+{
+ "key": "045c73ccee",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/energy/nano-nuclear-taps-korean-builder-already-bet-30-million-its-reactor",
+ "title": "砸3000万美元却竹篮打水？韩国大厂这次接手美核能初创公司的微堆项目",
+ "summary": "NANO核能公司（NANO Nuclear Energy, NNE）近日与韩国现代工程公司（Hyundai Engineering）签署谅解备忘录，将合作推进其在伊利诺伊大学的首个KRONOS微反应器项目。这不仅是一次简单的工程合作，背后还牵涉到原设计方破产、韩国企业前期巨额投资打水漂，以及NANO捡漏的戏剧性历程。",
+ "body": [
+  "在激光浓缩合作伙伴LIS技术公司（LIS Technologies）申请纳斯达克IPO的第二天，NANO核能公司（NANO Nuclear Energy, NNE）宣布与韩国现代工程公司（Hyundai Engineering）签署了一份谅解备忘录。双方将携手推进KRONOS微反应器（KRONOS MMR）的项目执行和未来舰队部署，重点放在伊利诺伊大学的微堆单元上，该单元的建设许可申请已于今年5月被美国核管会（NRC）接受审查。",
+  "NANO核能创始人兼董事长余浩（Jay Yu，音译）表示，公司的目标不仅是开发先进的微反应器，更是要围绕其构建涵盖工程、制造、燃料、运输和供应链在内的更广泛平台，实现技术的重复部署。",
+  "值得注意的是，现代工程对这款反应炉其实“门清”。早在2012年，它就开始与该设计的最初开发商“超级安全核能”（Ultra Safe Nuclear, USNC）合作，并在2022年初向USNC砸下3000万美元，以获得其微反应器的独家建造权。然而，USNC随后宣告破产，NANO核能则在2025年初仅用850万美元（不到现代工程投资额的三分之一）就接盘了该设计。",
+  "此外，NANO的商业版图还在不断扩张，其业务现已涵盖核运输业务、新墨西哥州的转化许可证申请，以及对LIS公司的持股。随着合作伙伴接连推进IPO和项目落地，NANO正在一步步将先进核能技术从纸面设计推向实际建设。"
+ ],
+ "tags": [
+  "NANO Nuclear",
+  "现代工程",
+  "微反应器",
+  "核能技术",
+  "美股IPO"
+ ],
+ "original_title": "NANO Nuclear Taps The Korean Builder That Already Bet $30 Million On Its Reactor",
+ "lang": "en",
+ "published": "2026-10-27T15:30:00+00:00",
+ "created": "2026-10-27T20:10:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

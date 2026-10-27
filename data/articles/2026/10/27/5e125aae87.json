@@ -1,0 +1,26 @@
+{
+ "key": "5e125aae87",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/americas/brazil-cancels-bolsonaros-passports-as-questions-swirl-about-his-location-9e8561fe?mod=rss_worldnews",
+ "title": "巴西前总统博索纳罗儿子被扣护照！正接受最高法院调查",
+ "summary": "巴西最高法院对卷入金融犯罪调查的弗拉维奥·博索纳罗实施了出境禁令，扣留其护照。",
+ "body": [
+  "巴西政坛又有大动作！据《华尔街日报》报道，在周日的选举失利后，正因涉嫌金融犯罪而接受巴西最高法院（Supreme Court）调查的弗拉维奥·博索纳罗（Flávio Bolsonaro）已被禁止离开巴西，护照也被取消。",
+  "目前，关于他的具体行踪各方说法不一，引发了外界的种种猜测。由于他正面临司法调查，此次出境限制意味着案件有了进一步的发展。"
+ ],
+ "tags": [
+  "巴西",
+  "博索纳罗",
+  "最高法院",
+  "出境禁令",
+  "海外动态"
+ ],
+ "original_title": "Brazil Cancels Bolsonaro’s Passports as Questions Swirl About His Location",
+ "lang": "en",
+ "published": "2026-10-27T19:57:00+00:00",
+ "created": "2026-10-27T20:09:08+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

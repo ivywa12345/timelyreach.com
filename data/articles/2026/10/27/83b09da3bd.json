@@ -1,0 +1,27 @@
+{
+ "key": "83b09da3bd",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/political/comey-charged-third-time-over-alleged-2016-leak-defense-information-reporter",
+ "title": "一年被起诉三次！前FBI局长詹姆斯·科米又摊上事了，涉嫌泄露国防机密",
+ "summary": "前FBI局长詹姆斯·科米（James Comey）因涉嫌在2016年向记者泄露国防机密信息，再遭联邦检察官起诉。这是司法部在一年多时间里第三次对其实施刑事指控。科米坚称自己无罪，其律师已提出驳回动议。",
+ "body": [
+  "华盛顿联邦法院周一解封了一份起诉文件，指控前联邦调查局（FBI）局长詹姆斯·科米（James Comey）在2016年10月担任局长期间，通过共谋者指使他人向一家全国性新闻媒体（辩方称其为《纽约时报》）的记者泄露国防机密信息。科米目前面临非法向未授权人员传输国防信息以及共谋罪两项罪名。",
+  "根据特别助理美国检察官达斯廷·法拉纳克（Dustin Farahnak）提交的文件显示，调查发现科米曾指示手下工作人员，就一篇路透社报道的准确性问题与《纽约时报》记者沟通。由于该指控的追诉时效为10年，检方恰好在事件发生十年后的2026年10月5日首次秘密提交了此案。目前科米尚未进行抗辩，其辩护律师帕特里克·菲茨杰拉德（Patrick Fitzgerald）已申请驳回指控，并指出这是司法部在一年多内第三次试图对科米提出联邦刑事指控，指控的内容并非他所为。",
+  "面对再次指控，科米在社交媒体Instagram上发布视频声明称：“如果这不是对司法部令人发指的滥用，它几乎要显得滑稽了。”并在书面声明中强调自己依然是清白的。值得一提的是，此前司法部对科米的其他两起诉讼进展并不顺利：2025年关于作虚假陈述和妨碍司法的案件因主审法官裁定检察官任命违法而被驳回；今年4月在北卡罗来纳州因一张写有“86 47”字样的贝壳照片引发的第二起案件，其提审也被推迟到明年年初。截至目前，科米尚未受审，相关指控仍有待法庭审理。"
+ ],
+ "tags": [
+  "美国司法部",
+  "FBI",
+  "詹姆斯科米",
+  "泄密门",
+  "美国政坛"
+ ],
+ "original_title": "Comey Charged A Third Time, Over An Alleged 2016 Leak Of Defense Information To A Reporter",
+ "lang": "en",
+ "published": "2026-10-27T16:00:00+00:00",
+ "created": "2026-10-27T20:10:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

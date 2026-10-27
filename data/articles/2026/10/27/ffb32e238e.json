@@ -1,0 +1,27 @@
+{
+ "key": "ffb32e238e",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/machado-s-return-exposes-fault-line-in-venezuela-s-oil-sector",
+ "title": "委内瑞拉反对派领袖回国，当地石油圈要变天？两拨石油商心态大不同",
+ "summary": "委内瑞拉反对派领袖流亡归来，这一政治变动迅速在当地石油行业引发分歧，让原本依靠暗箱操作获利的石油商和期待政治过渡的传统企业形成鲜明对比。",
+ "body": [
+  "据彭博社报道，委内瑞拉主要反对派领袖（Machado）近日结束流亡返回国内。这一重磅回归立刻让该国石油行业的深层矛盾浮出水面——业内两派人马的心态来了个大转弯。",
+  "报道指出，一方面，那些老牌石油公司可能对政治过渡持欢迎态度；另一方面，还有另一拨石油运营商，它们在得到美国支持的临时政府期间，靠着不透明的交易赚得盆满钵满，如今对局势的发展显然有着不同的盘算。",
+  "对于关注拉美局势和能源市场的海外华人来说，委内瑞拉政坛和石油板块的震荡，未来可能会对国际油价以及相关地缘政治产生连锁反应。"
+ ],
+ "tags": [
+  "委内瑞拉",
+  "石油行业",
+  "反对派领袖",
+  "国际油价",
+  "彭博社"
+ ],
+ "original_title": "Machado’s Return Exposes Fault Line in Venezuela’s Oil Sector",
+ "lang": "en",
+ "published": "2026-10-27T18:46:33+00:00",
+ "created": "2026-10-27T20:09:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
