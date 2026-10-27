@@ -1,0 +1,26 @@
+{
+ "key": "1bd4181660",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/us-to-issue-visas-to-brazilian-election-loser-flavio-bolsonaro",
+ "title": "巴西大选落败后出走，弗拉维奥·博索纳罗全家要拿美国签证了？",
+ "summary": "彭博社报道称，特朗普政府计划向在巴西大选中失利后离境的弗拉维奥·博索纳罗及其家属发放赴美签证。",
+ "body": [
+  "根据彭博社的报道，特朗普政府计划向巴西大选的落败总统候选人弗拉维奥·博索纳罗（Flavio Bolsonaro）及其家人发放赴美签证，允许他们进入美国。此前，他已经离开了自己的祖国巴西。",
+  "目前关于该签证的具体类型以及他们计划在美国停留多久，相关材料中暂未披露更多细节。",
+  "对于关注海外动态的华人来说，政要及其家属的跨国流动往往伴随着复杂的地区政治博弈。虽然这起事件主要局限于巴西政坛与美国外交政策的交集，但签证政策的变动也再次引发了外界对美国入境政策及政治避风港话题的关注。我们将持续关注事态的最新进展。"
+ ],
+ "tags": [
+  "美国签证",
+  "巴西政坛",
+  "弗拉维奥·博索纳罗",
+  "国际新闻"
+ ],
+ "original_title": "US to Issue Visas to Brazilian Election Loser Flavio Bolsonaro",
+ "lang": "en",
+ "published": "2026-10-27T21:14:23+00:00",
+ "created": "2026-10-27T21:18:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

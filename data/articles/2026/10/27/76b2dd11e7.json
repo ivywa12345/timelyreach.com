@@ -1,0 +1,27 @@
+{
+ "key": "76b2dd11e7",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/indonesia-s-msci-downgrade-threat-what-it-means-for-investors-podcast",
+ "title": "印尼股市遭遇30年来最惨暴跌！MSCI发出的降级警告到底有多吓人？",
+ "summary": "由于遭到MSCI的双重降级警告，印尼市场迎来了近30年来最惨烈的抛售，数十亿美元的外资面临大洗牌。",
+ "body": [
+  "最近印尼金融市场可以说是经历了一场大地震！根据彭博社（Bloomberg）的报道，国际知名指数编制公司明晟（MSCI）对印尼发出了双重降级警告，直接引发了该国近30年来最惨烈的一场市场抛售。",
+  "这场突如其来的危机，让数以十亿计美元的海外资本瞬间悬在了半空中，随时面临撤资的风险。对于靠外资输血的印尼资本市场来说，这无疑是一记沉重打击。",
+  "虽然这事发生在印尼，但对关注新兴市场投资的海外华人来说也是一个提醒：在全球经济动荡的大环境下，资金风向说变就变，投资高风险新兴市场时一定要盯紧政策和国际评级机构的风吹草动，看紧自己的钱包。"
+ ],
+ "tags": [
+  "印尼股市",
+  "MSCI",
+  "外资撤离",
+  "金融市场",
+  "海外投资"
+ ],
+ "original_title": "Indonesia’s MSCI Downgrade Threat – What It Means for Investors: Podcast",
+ "lang": "en",
+ "published": "2026-10-27T21:13:38+00:00",
+ "created": "2026-10-27T21:18:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
