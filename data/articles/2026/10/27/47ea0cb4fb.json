@@ -1,0 +1,27 @@
+{
+ "key": "47ea0cb4fb",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/when-is-a-sports-bet-not-a-sports-bet-d1eebe97?mod=rss_markets_main",
+ "title": "预测市场和赌球到底是不是一回事？华尔街大佬发话了！",
+ "summary": "华尔街日报发表评论文章指出，像Kalshi这样的预测市场与传统体育博彩有着本质区别，不仅不是赌博，还能为公众带来实际的好处。",
+ "body": [
+  "最近几年，各种预测市场火得不行，但很多人把它们和买彩票、去赌场赌球混为一谈。最近，Kalshi的创始人塔里克·曼苏尔（Tarek Mansour）在《华尔街日报》上发表了一篇观点文章，专门为预测市场正名，直言这跟体育博彩（sportsbooks）完全是两码事。",
+  "简单来说，传统的体育博彩纯粹是娱乐消遣、愿赌服输，而像Kalshi这样的预测市场（Prediction markets）其实承担了汇聚大众智慧、预测未来重大事件走向的功能。作者认为，这种机制能让公众获得切实的益处，提供了一种更理性的风险评估和信息聚合方式。",
+  "对于咱们海外华人来说，这类新型金融和预测工具近年来发展迅猛，不仅关乎投资理财的选择，也可能逐渐影响到大家对美国经济和政策走向的判断。不过，不管是投资还是参与预测，了解清楚它们的本质和合规性，才能更好地守住自己的钱包。"
+ ],
+ "tags": [
+  "预测市场",
+  "Kalshi",
+  "华尔街日报",
+  "体育博彩",
+  "海外理财"
+ ],
+ "original_title": "Opinion | When Is a Sports Bet Not a Sports Bet?",
+ "lang": "en",
+ "published": "2026-10-27T16:24:00+00:00",
+ "created": "2026-10-27T16:38:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

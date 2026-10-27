@@ -1,0 +1,26 @@
+{
+ "key": "c0d5758518",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/acts-of-god-meet-acts-of-ai-in-private-equity-s-new-debt-play",
+ "title": "活久见！公司借钱开始防“AI造反”了，这届私募合同太会玩",
+ "summary": "根据彭博社报道，过去用来防天灾人祸的“不可抗力”条款，现在竟然被一些借款企业用来防范人工智能（AI）带来的冲击了。",
+ "body": [
+  "说到“不可抗力”（Force majeure），大家想到的往往是地震、洪水这种“天灾”。不过，据彭博社（Bloomberg）报道，在如今的私募债务市场里，画风全变了——一些企业在借钱时，竟然要求在合同里加上保护伞，用来防范“AI带来的风险”。",
+  "长期以来，“不可抗力”条款一直是企业在遇到意料之外的灾难时免责的法宝。但随着人工智能技术狂飙突进，许多企业开始担心，自己的业务说不定哪天就被颠覆了。于是，部分借款人开始琢磨着把“AI冲击”也写进免责或保护条款里。",
+  "对于在海外打拼、关注科技和投资动向的华人来说，这绝对是个新鲜事。这也从侧面说明，AI不再只是科技圈的谈资，而是已经实实在在影响到了金融市场的底层逻辑和合同博弈。"
+ ],
+ "tags": [
+  "人工智能",
+  "私募债务",
+  "商业合同",
+  "科技趋势"
+ ],
+ "original_title": "Acts of God Meet Acts of AI in Private Equity’s New Debt Play",
+ "lang": "en",
+ "published": "2026-10-27T11:05:02+00:00",
+ "created": "2026-10-27T16:38:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

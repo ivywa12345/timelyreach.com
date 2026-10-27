@@ -1,0 +1,27 @@
+{
+ "key": "78a102de8c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/millennium-taps-prediction-markets-data-in-hunt-for-trading-edge",
+ "title": "华尔街巨头也盯上“预测市场”了！千禧年基金正寻找全新交易秘籍",
+ "summary": "知名对冲基金千禧年管理公司（Millennium Management）正在探索利用预测市场的数据来指导其交易策略，成为又一家涉足该领域的华尔街大牌机构。",
+ "body": [
+  "据彭博社报道，管理着庞大资产的华尔街老牌对冲基金千禧年管理公司（Millennium Management）最近有了新动作：他们正在研究如何利用预测市场（Prediction Markets）的数据来为自家的交易策略提供参考。",
+  "在此之前，已经有一长串的华尔街金融机构开始在这个新兴领域“试水”。预测市场由于能够实时反映大众对未来事件（如大选、经济数据等）的预期概率，正越来越受到专业投资者的关注，被视为捕捉市场先机的新工具。",
+  "对于咱们海外华人投资者来说，华尔街大佬们连预测市场的数据都不放过，说明市场上的信息战已经打到了新维度。这也提醒大家，未来的投资风向可能越来越依赖这种前瞻性的另类数据，平时多关注这些新兴趋势，对了解宏观经济和市场情绪大有裨益。"
+ ],
+ "tags": [
+  "华尔街",
+  "对冲基金",
+  "预测市场",
+  "千禧年基金",
+  "投资风向"
+ ],
+ "original_title": "Millennium Taps Prediction Markets Data in Hunt for Trading Edge",
+ "lang": "en",
+ "published": "2026-10-27T15:46:00+00:00",
+ "created": "2026-10-27T16:39:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

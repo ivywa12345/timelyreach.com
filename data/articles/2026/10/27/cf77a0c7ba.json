@@ -1,0 +1,27 @@
+{
+ "key": "cf77a0c7ba",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/eu-s-sec-lite-plan-hinges-on-governance-outgoing-chief-warns",
+ "title": "欧盟证券监管大佬直言：想追上美国SEC？我看这辈子悬！",
+ "summary": "欧盟证券监管机构的卸任负责人近日表示，欧盟证券监管机构在有生之年很难达到美国同行（SEC）的规模，而未来能否提升市场监管效率，关键在于能否建立起能让监管机构迅速采取行动的治理机制。",
+ "body": [
+  "欧盟证券监管机构的一把手马上就要卸任了，这位大佬最近抛出了一番大实话：欧盟的证券监管机构想要达到美国同行（美国证券交易委员会，即 SEC）的规模和覆盖范围，在她有生之年基本上是不太可能了。",
+  "不过她也警告说，欧盟现在正极力推动更有效的市场监管，而这背后的核心其实是“治理问题”。只有建立起一套能够让监管机构迅速采取行动的机制，市场监管才能真正落到实处。",
+  "对于咱们海外华人特别是关注欧美资本市场和投资动向的朋友来说，欧洲和美国在金融监管力度和反应速度上的差异，可能会直接影响到两地市场的合规环境和投资风向，值得平时多留个心眼。"
+ ],
+ "tags": [
+  "欧盟",
+  "SEC",
+  "金融监管",
+  "海外投资",
+  "华尔街"
+ ],
+ "original_title": "EU’s SEC-Lite Plan Hinges on Governance, Outgoing Chief Warns",
+ "lang": "en",
+ "published": "2026-10-27T15:41:47+00:00",
+ "created": "2026-10-27T16:40:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

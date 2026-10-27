@@ -1,0 +1,27 @@
+{
+ "key": "d9f7902cff",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/serb-election-winners-call-for-media-overhaul-after-vucic-defeat",
+ "title": "塞族大选变天！学生运动胜出后第一件事：整顿官媒",
+ "summary": "在周日的塞尔维亚大选中，胜出的学生运动组织要求对被视为前领导人武契奇喉舌的各大媒体进行彻底整顿。",
+ "body": [
+  "塞国政坛迎来大地震！在刚刚过去的周日（Sunday）大选中，成功把执政党赶下台的学生运动（student movement）近日发出了最新诉求：他们强烈要求对国内的媒体机构进行大洗牌，直指这些媒体过去沦为了前领导人亚历山大·武契奇（Aleksandar Vucic）的“御用喉舌”。",
+  "据彭博社（Bloomberg）报道，这场由学生主导的政治风暴在周日选举中大获全胜，成功颠覆了现有的政治格局。胜选后，新势力迅速将矛头对准了舆论宣传阵地，认为必须改变过去媒体一边倒的局面，还原新闻的客观公正。",
+  "对于远在海外的华人来说，不论关注的是欧洲局势还是海外政治动向，一个国家的政权更迭往往伴随着媒体生态和政策的剧烈调整。后续这些媒体整顿政策是否会影响当地的言论环境以及营商、生活氛围，还有待持续观察。"
+ ],
+ "tags": [
+  "塞尔维亚",
+  "大选变天",
+  "学生运动",
+  "媒体整顿",
+  "国际新闻"
+ ],
+ "original_title": "Serb Election Winners Call for Media Overhaul after Vucic Defeat",
+ "lang": "en",
+ "published": "2026-10-27T16:19:48+00:00",
+ "created": "2026-10-27T16:40:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

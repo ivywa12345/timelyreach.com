@@ -1,0 +1,27 @@
+{
+ "key": "d1deb30312",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/trump-rubio-plan-to-visit-tanker-with-venezuelan-crude-in-texas",
+ "title": "特朗普和卢比奥这回坐不住了！马上一起去得州围观委内瑞拉运油船",
+ "summary": "美国总统特朗普与国务卿卢比奥计划于周二前往得克萨斯州，迎接一艘载有委内瑞拉原油的油轮。此举旨在展示来自该拉美国家的石油供应，时间点正值美国中期选举前夕。",
+ "body": [
+  "美国总统特朗普（Donald Trump）和国务卿马可·卢比奥（Marco Rubio）计划在本周二前往得克萨斯州（Texas），亲自去迎接一艘从委内瑞拉运送原油抵达的油轮（oil tanker）。",
+  "这次高调的视察安排在距离美国中期选举仅剩一周的时间节点，白宫方面显然希望借此机会向选民展示来自拉美国家的石油供应情况。",
+  "对于在美华人来说，能源供应和油价的变化直接关乎大家的日常生活成本和钱包厚度，这类选前的大动作也往往伴随着政坛对外交与能源政策的新一轮交锋。"
+ ],
+ "tags": [
+  "特朗普",
+  "委内瑞拉原油",
+  "得克萨斯州",
+  "美国政治",
+  "能源供应"
+ ],
+ "original_title": "Trump, Rubio Plan to Visit Tanker With Venezuelan Crude in Texas",
+ "lang": "en",
+ "published": "2026-10-27T16:24:47+00:00",
+ "created": "2026-10-27T16:40:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
