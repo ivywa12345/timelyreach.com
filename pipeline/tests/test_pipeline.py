@@ -356,34 +356,79 @@ def test_brief_line_does_not_repeat_the_title():
     assert _line(a) == "美联储按兵不动：另一句导读"
 
 
-def test_openai_compatible_retries_rate_limits_then_gives_up(monkeypatch):
+class _Resp:
+    def __init__(self, code, body=None, text=""):
+        self.status_code, self._body, self.text, self.headers = code, body, text, {"retry-after": "1"}
+    def json(self): return self._body
+    def raise_for_status(self):
+        if self.status_code >= 400:
+            raise requests.HTTPError(response=self)
+
+
+_GOOD = {"choices": [{"message": {"content": '{"title":"标题","summary":"导读","body":["段落"],"tags":["a"]}'}}]}
+
+
+def _llm(monkeypatch, **env):
     monkeypatch.setenv("LLM_BASE_URL", "https://llm.example/v1")
     monkeypatch.setenv("LLM_API_KEY", "k")
     monkeypatch.setenv("LLM_MIN_INTERVAL", "0")
+    monkeypatch.delenv("LLM_MODEL", raising=False)
+    for k, v in env.items():
+        monkeypatch.setenv(k, v)
     monkeypatch.setattr(rewrite.time, "sleep", lambda s: None)
-    good = {"choices": [{"message": {"content": '{"title":"标题","summary":"导读","body":["段落"],"tags":["a"]}'}}]}
+    monkeypatch.setattr(rewrite.requests, "get", lambda *a, **k: _Resp(200, {"data": [{"id": "models/gemini-x"}]}))
+    return rewrite.OpenAICompatibleProvider()
 
-    class Resp:
-        def __init__(self, code, body=None):
-            self.status_code, self._body, self.text, self.headers = code, body, "slow down", {"retry-after": "1"}
-        def json(self): return self._body
-        def raise_for_status(self):
-            if self.status_code >= 400:
-                raise requests.HTTPError(response=self)
 
-    seq = iter([Resp(429), Resp(429), Resp(200, good)])
-    monkeypatch.setattr(rewrite.requests, "post", lambda *a, **k: next(seq))
-    prov = rewrite.OpenAICompatibleProvider()
-    assert prov.rewrite(_item()).title == "标题" and not prov.exhausted
+def test_llm_retries_a_rate_limit_on_the_same_model(monkeypatch):
+    prov = _llm(monkeypatch)
+    seq = iter([_Resp(429), _Resp(429), _Resp(200, _GOOD)])
+    used = []
+    monkeypatch.setattr(rewrite.requests, "post", lambda *a, **k: used.append(k["json"]["model"]) or next(seq))
+    assert prov.rewrite(_item()).title == "标题"
+    assert used == ["gemini-flash-latest"] * 3 and prov.idx == 0
 
+
+def test_llm_moves_on_when_a_model_is_overloaded_or_missing_and_remembers_it(monkeypatch):
+    prov = _llm(monkeypatch)
+    used = []
+
+    def post(*a, **k):
+        m = k["json"]["model"]
+        used.append(m)
+        if m == "gemini-flash-latest":
+            return _Resp(503, text="overloaded")
+        if m == "gemini-flash-lite-latest":
+            return _Resp(404, text="not found")
+        return _Resp(200, _GOOD)
+
+    monkeypatch.setattr(rewrite.requests, "post", post)
+    assert prov.rewrite(_item()).title == "标题"
+    assert prov.model == "gemini-2.5-flash-lite"
+    used.clear()
+    prov.rewrite(_item())
+    assert used == ["gemini-2.5-flash-lite"]  # later items start at the model that works
+
+
+def test_llm_gives_up_for_the_run_when_every_model_is_exhausted(monkeypatch):
+    prov = _llm(monkeypatch, LLM_MODEL="only-model")
     calls = []
-    monkeypatch.setattr(rewrite.requests, "post", lambda *a, **k: calls.append(1) or Resp(429))
-    with pytest.raises(RuntimeError):
+    monkeypatch.setattr(rewrite.requests, "post", lambda *a, **k: calls.append(1) or _Resp(429, text="quota"))
+    with pytest.raises(RuntimeError, match="no usable llm model"):
         prov.rewrite(_item())
-    assert prov.exhausted and len(calls) == 4  # first try + 3 retries
-    with pytest.raises(RuntimeError):  # later items fail fast, no more requests
+    assert prov.exhausted and len(calls) == 3  # first try + 2 retries
+    with pytest.raises(RuntimeError, match="exhausted"):
         prov.rewrite(_item())
-    assert len(calls) == 4
+    assert len(calls) == 3  # later items fail fast
+
+
+def test_llm_bad_key_is_not_retried_on_other_models(monkeypatch):
+    prov = _llm(monkeypatch)
+    calls = []
+    monkeypatch.setattr(rewrite.requests, "post", lambda *a, **k: calls.append(1) or _Resp(403, text="denied"))
+    with pytest.raises(requests.HTTPError):
+        prov.rewrite(_item())
+    assert len(calls) == 1
 
 
 def test_env_values_are_trimmed_and_provider_is_detected(monkeypatch):
@@ -396,7 +441,7 @@ def test_env_values_are_trimmed_and_provider_is_detected(monkeypatch):
     assert [p.name for p in providers] == ["openai-compatible"]
     assert providers[0].api_key == "AIza-secret"
     assert providers[0].base_url == "https://generativelanguage.googleapis.com/v1beta/openai"
-    assert providers[0].model == "gemini-2.5-flash"
+    assert providers[0].model == "gemini-flash-latest"
     monkeypatch.setenv("LLM_API_KEY", "sk-not-gemini")
     monkeypatch.delenv("LLM_BASE_URL")
     assert rewrite.available_providers() == []
@@ -417,32 +462,3 @@ def test_gemini_key_alone_is_enough(monkeypatch):
     assert rewrite.available_providers() == []  # not a Gemini key: needs an explicit base URL
 
 
-def test_openai_compatible_switches_to_a_listed_model_after_404(monkeypatch):
-    monkeypatch.setenv("LLM_BASE_URL", "https://llm.example/v1")
-    monkeypatch.setenv("LLM_API_KEY", "k")
-    monkeypatch.setenv("LLM_MIN_INTERVAL", "0")
-    monkeypatch.delenv("LLM_MODEL", raising=False)
-    monkeypatch.setattr(rewrite.time, "sleep", lambda s: None)
-    good = {"choices": [{"message": {"content": '{"title":"标题","summary":"导读","body":["段落"],"tags":[]}'}}]}
-
-    class Resp:
-        def __init__(self, code, body=None, text=""):
-            self.status_code, self._body, self.text, self.headers = code, body, text, {}
-        def json(self): return self._body
-        def raise_for_status(self):
-            if self.status_code >= 400:
-                raise requests.HTTPError(response=self)
-
-    used = []
-
-    def post(url, headers=None, json=None, timeout=0):
-        used.append(json["model"])
-        return Resp(404, text="model not found") if json["model"] == "gemini-2.5-flash" else Resp(200, good)
-
-    listing = {"data": [{"id": "models/gemini-2.5-flash-lite"}, {"id": "models/gemini-3-flash"},
-                        {"id": "models/gemini-3-flash-preview"}, {"id": "models/gemini-2.0-flash"}, {"id": "models/gemma-3"}]}
-    monkeypatch.setattr(rewrite.requests, "post", post)
-    monkeypatch.setattr(rewrite.requests, "get", lambda *a, **k: Resp(200, listing))
-    prov = rewrite.OpenAICompatibleProvider()
-    assert prov.rewrite(_item()).title == "标题"
-    assert used == ["gemini-2.5-flash", "gemini-3-flash"] and prov.model == "gemini-3-flash"

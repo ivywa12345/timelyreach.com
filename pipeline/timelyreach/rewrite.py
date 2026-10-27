@@ -137,21 +137,29 @@ class ClaudeProvider(Provider):
 class OpenAICompatibleProvider(Provider):
     """Gemini (https://generativelanguage.googleapis.com/v1beta/openai/), DeepSeek, etc.
 
-    Free tiers allow only a handful of requests per minute, so calls are spaced out
-    (LLM_MIN_INTERVAL seconds, default 6.5) and rate-limit answers are retried. Once the
-    quota stays exhausted the provider gives up for the rest of the run, so remaining
-    items fall through to the next provider quickly instead of waiting on every call."""
+    Free tiers allow only a few requests per minute and some models are often overloaded, so:
+    calls are spaced out (LLM_MIN_INTERVAL seconds, default 6.5); a model that stays
+    rate-limited, overloaded or missing is dropped for the rest of the run in favour of the next
+    one in ``models`` (LLM_MODEL pins a single model); when none is left, the provider gives up
+    for the run and remaining items fall through to the next provider."""
 
     name = "openai-compatible"
+    DEFAULT_MODELS = ("gemini-flash-latest", "gemini-flash-lite-latest", "gemini-2.5-flash-lite")
 
     def __init__(self) -> None:
         self.base_url = _env("LLM_BASE_URL").rstrip("/")
         self.api_key = _env("LLM_API_KEY")
-        self.model = _env("LLM_MODEL") or "gemini-2.5-flash"
+        pinned = _env("LLM_MODEL")
+        self.models = [pinned] if pinned else list(self.DEFAULT_MODELS)
+        self.idx = 0
         self.min_interval = float(os.environ.get("LLM_MIN_INTERVAL", "6.5"))
         self._last_call = 0.0
+        self._listed_models = False
         self.exhausted = False
-        self._model_checked = False
+
+    @property
+    def model(self) -> str:
+        return self.models[min(self.idx, len(self.models) - 1)]
 
     def _post(self, payload: dict) -> requests.Response:
         wait = self._last_call + self.min_interval - time.monotonic()
@@ -162,8 +170,37 @@ class OpenAICompatibleProvider(Provider):
             f"{self.base_url}/chat/completions",
             headers={"Authorization": f"Bearer {self.api_key}"},
             json=payload,
-            timeout=120,
+            timeout=60,
         )
+
+    def _call(self, payload: dict) -> requests.Response:
+        """One model: retry a rate limit twice (honouring Retry-After) and an overload once."""
+        resp = self._post(payload)
+        for attempt in range(2):
+            if resp.status_code == 429:
+                try:
+                    delay = float(resp.headers.get("retry-after", ""))
+                except ValueError:
+                    delay = 25.0 * (attempt + 1)
+            elif resp.status_code in (500, 502, 503, 504) and attempt == 0:
+                delay = 8.0
+            else:
+                break
+            time.sleep(min(delay, 45.0))
+            resp = self._post(payload)
+        return resp
+
+    def _log_models(self) -> None:
+        if self._listed_models:
+            return
+        self._listed_models = True
+        try:
+            resp = requests.get(f"{self.base_url}/models", headers={"Authorization": f"Bearer {self.api_key}"}, timeout=30)
+            resp.raise_for_status()
+            ids = sorted(str(m.get("id", "")).removeprefix("models/") for m in resp.json().get("data", []))
+            log.info("models available to this key: %s", ", ".join(ids[:80]))
+        except Exception as exc:  # noqa: BLE001
+            log.info("could not list models for this key: %s", exc)
 
     def rewrite(self, item: RawItem) -> Rewrite:
         if self.exhausted:
@@ -171,59 +208,29 @@ class OpenAICompatibleProvider(Provider):
         system = _system_prompt(item)
         schema_hint = '只输出 JSON：{"title": str, "summary": str, "body": [str, ...], "tags": [str, ...]}'
         payload = {
-            "model": self.model,
             "messages": [
                 {"role": "system", "content": system + "\n\n" + schema_hint},
                 {"role": "user", "content": "请根据以下材料写稿：\n\n" + _material(item)},
             ],
             "response_format": {"type": "json_object"},
         }
-        resp = self._post(payload)
-        for attempt in range(3):
-            if resp.status_code not in (429, 500, 502, 503, 504):
-                break
-            try:
-                delay = float(resp.headers.get("retry-after", ""))
-            except ValueError:
-                delay = 20.0 * (attempt + 1)
-            time.sleep(min(delay, 65.0))
-            resp = self._post(payload)
-        if resp.status_code in (400, 404) and not self._model_checked and not _env("LLM_MODEL"):
-            # The default model name may have been retired: ask the API what this key can use.
-            self._model_checked = True
-            if self._pick_model():
-                payload["model"] = self.model
-                resp = self._post(payload)
-        if resp.status_code == 429:
-            self.exhausted = True
-            log.warning("llm rate limit/quota still exceeded after retries; using the next provider for the rest of the run")
-        if resp.status_code >= 400:
-            raise RuntimeError(f"{self.base_url} answered {resp.status_code} (model {self.model}): {resp.text[:300]!r}")
-        content = resp.json()["choices"][0]["message"]["content"]
-        content = re.sub(r"^```(?:json)?|```$", "", content.strip(), flags=re.M).strip()
-        return Rewrite.model_validate(json.loads(content))
-
-    def _pick_model(self) -> bool:
-        """List the models behind this key and switch to the newest stable 'flash' one."""
-        try:
-            resp = requests.get(f"{self.base_url}/models", headers={"Authorization": f"Bearer {self.api_key}"}, timeout=30)
-            resp.raise_for_status()
-            ids = [str(m.get("id", "")).removeprefix("models/") for m in resp.json().get("data", [])]
-        except Exception as exc:  # noqa: BLE001
-            log.warning("could not list models for this key: %s", exc)
-            return False
-        log.info("models available to this key: %s", ", ".join(sorted(ids)[:60]))
-        stable = []
-        for mid in ids:
-            m = re.fullmatch(r"gemini-(\d+(?:\.\d+)?)-flash", mid)
-            if m:
-                stable.append((float(m.group(1)), mid))
-        pool = sorted(stable, reverse=True) or sorted((0.0, mid) for mid in ids if "flash" in mid and "lite" not in mid)
-        if not pool or pool[0][1] == self.model:
-            return False
-        self.model = pool[0][1]
-        log.info("using model %s", self.model)
-        return True
+        last = ""
+        while self.idx < len(self.models):
+            payload["model"] = self.model
+            resp = self._call(payload)
+            if resp.status_code < 400:
+                content = resp.json()["choices"][0]["message"]["content"]
+                content = re.sub(r"^```(?:json)?|```$", "", content.strip(), flags=re.M).strip()
+                return Rewrite.model_validate(json.loads(content))
+            last = f"{resp.status_code} (model {self.model}): {resp.text[:300]!r}"
+            if resp.status_code in (401, 403):
+                resp.raise_for_status()  # bad key / no access: nothing to switch to
+            if resp.status_code == 404:
+                self._log_models()
+            log.warning("llm model %s unusable (%s); trying the next one", self.model, last)
+            self.idx += 1
+        self.exhausted = True
+        raise RuntimeError(f"no usable llm model left for this run; last answer: {last}")
 
 
 class FreeTranslateProvider(Provider):
