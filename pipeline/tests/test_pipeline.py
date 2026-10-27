@@ -397,6 +397,7 @@ def test_env_values_are_trimmed_and_provider_is_detected(monkeypatch):
     assert providers[0].api_key == "AIza-secret"
     assert providers[0].base_url == "https://generativelanguage.googleapis.com/v1beta/openai"
     assert providers[0].model == "gemini-2.5-flash"
+    monkeypatch.setenv("LLM_API_KEY", "sk-not-gemini")
     monkeypatch.delenv("LLM_BASE_URL")
     assert rewrite.available_providers() == []
 
