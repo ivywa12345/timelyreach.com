@@ -2,20 +2,21 @@
  "key": "cd81f174d5",
  "board": "news",
  "source_id": "wenxuecity",
- "source_name": "文学城",
+ "source_name": "中时电子报",
  "source_url": "https://www.wenxuecity.com/news/2026/10/20/126810955.html",
  "title": "外星人？ 美墨边境惊传出现人形掠食者捕食鸡只",
  "summary": "A mysterious creature has been terrorizing residents of Valle de Juárez, Mexico, leaving locals frightened and some aban",
  "body": [
   "A mysterious creature has been terrorizing residents of Valle de Juárez, Mexico, leaving locals frightened and some abandoning their homes. Witnesses describe a strange, hairless creature that walks on two legs and has an extraordinary ability to jump. Locals also blame the mysterious being for the disappearance and deaths of several farm animals, including chickens, pigeons, and rabbits. What could this creature be?",
-  "（以上为文学城内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+  "（以上为中时电子报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
  ],
  "tags": [
-  "文学城"
+  "中时电子报"
  ],
  "original_title": "外星人？ 美墨边境惊传出现人形掠食者捕食鸡只",
  "lang": "zh",
  "published": "2026-10-20T04:29:00+00:00",
  "created": "2026-10-21T01:37:18+00:00",
- "rewriter": "free-translate"
+ "rewriter": "free-translate",
+ "show_link": false
 }

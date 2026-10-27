@@ -1,0 +1,22 @@
+{
+ "key": "58bca22629",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/saudi-arabia-contains-fire-near-ras-tanura-oil-hub-after-attack",
+ "title": "袭击发生后，沙特阿拉伯Ras Tanura石油中心附近发生火灾",
+ "summary": "据知情人士透露，沙特阿拉伯在波斯湾沿岸最大的出口码头塔努拉角（ Ras Tanura ）附近发生火灾。",
+ "body": [
+  "据知情人士透露，沙特阿拉伯在波斯湾沿岸最大的出口码头塔努拉角（ Ras Tanura ）附近发生火灾。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Saudi Arabia Contains Fire Near Ras Tanura Oil Hub After Attack",
+ "lang": "en",
+ "published": "2026-10-27T08:25:42+00:00",
+ "created": "2026-10-27T08:59:52+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
