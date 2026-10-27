@@ -145,9 +145,9 @@ class OpenAICompatibleProvider(Provider):
     name = "openai-compatible"
 
     def __init__(self) -> None:
-        self.base_url = os.environ["LLM_BASE_URL"].rstrip("/")
-        self.api_key = os.environ["LLM_API_KEY"]
-        self.model = os.environ.get("LLM_MODEL", "gemini-2.5-flash")
+        self.base_url = _env("LLM_BASE_URL").rstrip("/")
+        self.api_key = _env("LLM_API_KEY")
+        self.model = _env("LLM_MODEL") or "gemini-2.5-flash"
         self.min_interval = float(os.environ.get("LLM_MIN_INTERVAL", "6.5"))
         self._last_call = 0.0
         self.exhausted = False
@@ -253,14 +253,35 @@ class FreeTranslateProvider(Provider):
         return Rewrite(title=title, summary=summary, body=body, tags=[item.source_name])
 
 
+GEMINI_BASE_URL = "https://generativelanguage.googleapis.com/v1beta/openai"
+
+
+def _env(name: str) -> str:
+    """First non-empty line, trimmed: secrets pasted from a web page often carry a trailing newline."""
+    for line in os.environ.get(name, "").splitlines():
+        if line.strip():
+            return line.strip()
+    return ""
+
+
 def available_providers() -> list[Provider]:
     providers: list[Provider] = []
-    if os.environ.get("ANTHROPIC_API_KEY"):
+    for name in ("ANTHROPIC_API_KEY", "LLM_API_KEY", "LLM_BASE_URL", "LLM_MODEL"):
+        log.info("setting %s: %s", name, "present" if _env(name) else "EMPTY")
+    if _env("LLM_API_KEY") and not _env("LLM_BASE_URL"):
+        if _env("LLM_API_KEY").startswith("AIza"):
+            os.environ["LLM_BASE_URL"] = GEMINI_BASE_URL  # a Google AI Studio key: Gemini is the only place it works
+            log.info("LLM_BASE_URL empty: using Gemini's endpoint because the key looks like a Gemini key")
+        else:
+            log.warning("LLM_API_KEY is set but LLM_BASE_URL is empty: it must be a repository *Variable*, not a Secret")
+    if _env("LLM_BASE_URL") and not _env("LLM_API_KEY"):
+        log.warning("LLM_BASE_URL is set but LLM_API_KEY is empty: the key must be a repository *Secret*")
+    if _env("ANTHROPIC_API_KEY"):
         try:
             providers.append(ClaudeProvider())
         except Exception as exc:  # noqa: BLE001
             log.warning("claude provider unavailable: %s", exc)
-    if os.environ.get("LLM_BASE_URL") and os.environ.get("LLM_API_KEY"):
+    if _env("LLM_BASE_URL") and _env("LLM_API_KEY"):
         providers.append(OpenAICompatibleProvider())
     if os.environ.get("TR_DISABLE_FREE_TRANSLATE") != "1":
         providers.append(FreeTranslateProvider())

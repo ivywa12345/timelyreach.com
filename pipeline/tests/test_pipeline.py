@@ -384,3 +384,32 @@ def test_openai_compatible_retries_rate_limits_then_gives_up(monkeypatch):
     with pytest.raises(RuntimeError):  # later items fail fast, no more requests
         prov.rewrite(_item())
     assert len(calls) == 4
+
+
+def test_env_values_are_trimmed_and_provider_is_detected(monkeypatch):
+    monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
+    monkeypatch.setenv("TR_DISABLE_FREE_TRANSLATE", "1")
+    monkeypatch.setenv("LLM_API_KEY", "AIza-secret\n")
+    monkeypatch.setenv("LLM_BASE_URL", " https://generativelanguage.googleapis.com/v1beta/openai/ \n")
+    monkeypatch.delenv("LLM_MODEL", raising=False)
+    providers = rewrite.available_providers()
+    assert [p.name for p in providers] == ["openai-compatible"]
+    assert providers[0].api_key == "AIza-secret"
+    assert providers[0].base_url == "https://generativelanguage.googleapis.com/v1beta/openai"
+    assert providers[0].model == "gemini-2.5-flash"
+    monkeypatch.delenv("LLM_BASE_URL")
+    assert rewrite.available_providers() == []
+
+
+def test_gemini_key_alone_is_enough(monkeypatch):
+    monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
+    monkeypatch.setenv("TR_DISABLE_FREE_TRANSLATE", "1")
+    monkeypatch.setenv("LLM_API_KEY", "AIzaSyExample")
+    monkeypatch.delenv("LLM_BASE_URL", raising=False)
+    monkeypatch.delenv("LLM_MODEL", raising=False)
+    providers = rewrite.available_providers()
+    assert [p.name for p in providers] == ["openai-compatible"]
+    assert providers[0].base_url == rewrite.GEMINI_BASE_URL
+    monkeypatch.setenv("LLM_API_KEY", "sk-other")
+    monkeypatch.delenv("LLM_BASE_URL")
+    assert rewrite.available_providers() == []  # not a Gemini key: needs an explicit base URL
