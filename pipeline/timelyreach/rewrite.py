@@ -151,6 +151,7 @@ class OpenAICompatibleProvider(Provider):
         self.min_interval = float(os.environ.get("LLM_MIN_INTERVAL", "6.5"))
         self._last_call = 0.0
         self.exhausted = False
+        self._model_checked = False
 
     def _post(self, payload: dict) -> requests.Response:
         wait = self._last_call + self.min_interval - time.monotonic()
@@ -187,13 +188,42 @@ class OpenAICompatibleProvider(Provider):
                 delay = 20.0 * (attempt + 1)
             time.sleep(min(delay, 65.0))
             resp = self._post(payload)
+        if resp.status_code in (400, 404) and not self._model_checked and not _env("LLM_MODEL"):
+            # The default model name may have been retired: ask the API what this key can use.
+            self._model_checked = True
+            if self._pick_model():
+                payload["model"] = self.model
+                resp = self._post(payload)
         if resp.status_code == 429:
             self.exhausted = True
             log.warning("llm rate limit/quota still exceeded after retries; using the next provider for the rest of the run")
-        resp.raise_for_status()
+        if resp.status_code >= 400:
+            raise RuntimeError(f"{self.base_url} answered {resp.status_code} (model {self.model}): {resp.text[:300]!r}")
         content = resp.json()["choices"][0]["message"]["content"]
         content = re.sub(r"^```(?:json)?|```$", "", content.strip(), flags=re.M).strip()
         return Rewrite.model_validate(json.loads(content))
+
+    def _pick_model(self) -> bool:
+        """List the models behind this key and switch to the newest stable 'flash' one."""
+        try:
+            resp = requests.get(f"{self.base_url}/models", headers={"Authorization": f"Bearer {self.api_key}"}, timeout=30)
+            resp.raise_for_status()
+            ids = [str(m.get("id", "")).removeprefix("models/") for m in resp.json().get("data", [])]
+        except Exception as exc:  # noqa: BLE001
+            log.warning("could not list models for this key: %s", exc)
+            return False
+        log.info("models available to this key: %s", ", ".join(sorted(ids)[:60]))
+        stable = []
+        for mid in ids:
+            m = re.fullmatch(r"gemini-(\d+(?:\.\d+)?)-flash", mid)
+            if m:
+                stable.append((float(m.group(1)), mid))
+        pool = sorted(stable, reverse=True) or sorted((0.0, mid) for mid in ids if "flash" in mid and "lite" not in mid)
+        if not pool or pool[0][1] == self.model:
+            return False
+        self.model = pool[0][1]
+        log.info("using model %s", self.model)
+        return True
 
 
 class FreeTranslateProvider(Provider):

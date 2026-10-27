@@ -365,7 +365,7 @@ def test_openai_compatible_retries_rate_limits_then_gives_up(monkeypatch):
 
     class Resp:
         def __init__(self, code, body=None):
-            self.status_code, self._body, self.headers = code, body, {"retry-after": "1"}
+            self.status_code, self._body, self.text, self.headers = code, body, "slow down", {"retry-after": "1"}
         def json(self): return self._body
         def raise_for_status(self):
             if self.status_code >= 400:
@@ -378,7 +378,7 @@ def test_openai_compatible_retries_rate_limits_then_gives_up(monkeypatch):
 
     calls = []
     monkeypatch.setattr(rewrite.requests, "post", lambda *a, **k: calls.append(1) or Resp(429))
-    with pytest.raises(requests.HTTPError):
+    with pytest.raises(RuntimeError):
         prov.rewrite(_item())
     assert prov.exhausted and len(calls) == 4  # first try + 3 retries
     with pytest.raises(RuntimeError):  # later items fail fast, no more requests
@@ -415,3 +415,34 @@ def test_gemini_key_alone_is_enough(monkeypatch):
     monkeypatch.setenv("LLM_API_KEY", "sk-other")
     monkeypatch.delenv("LLM_BASE_URL")
     assert rewrite.available_providers() == []  # not a Gemini key: needs an explicit base URL
+
+
+def test_openai_compatible_switches_to_a_listed_model_after_404(monkeypatch):
+    monkeypatch.setenv("LLM_BASE_URL", "https://llm.example/v1")
+    monkeypatch.setenv("LLM_API_KEY", "k")
+    monkeypatch.setenv("LLM_MIN_INTERVAL", "0")
+    monkeypatch.delenv("LLM_MODEL", raising=False)
+    monkeypatch.setattr(rewrite.time, "sleep", lambda s: None)
+    good = {"choices": [{"message": {"content": '{"title":"标题","summary":"导读","body":["段落"],"tags":[]}'}}]}
+
+    class Resp:
+        def __init__(self, code, body=None, text=""):
+            self.status_code, self._body, self.text, self.headers = code, body, text, {}
+        def json(self): return self._body
+        def raise_for_status(self):
+            if self.status_code >= 400:
+                raise requests.HTTPError(response=self)
+
+    used = []
+
+    def post(url, headers=None, json=None, timeout=0):
+        used.append(json["model"])
+        return Resp(404, text="model not found") if json["model"] == "gemini-2.5-flash" else Resp(200, good)
+
+    listing = {"data": [{"id": "models/gemini-2.5-flash-lite"}, {"id": "models/gemini-3-flash"},
+                        {"id": "models/gemini-3-flash-preview"}, {"id": "models/gemini-2.0-flash"}, {"id": "models/gemma-3"}]}
+    monkeypatch.setattr(rewrite.requests, "post", post)
+    monkeypatch.setattr(rewrite.requests, "get", lambda *a, **k: Resp(200, listing))
+    prov = rewrite.OpenAICompatibleProvider()
+    assert prov.rewrite(_item()).title == "标题"
+    assert used == ["gemini-2.5-flash", "gemini-3-flash"] and prov.model == "gemini-3-flash"
