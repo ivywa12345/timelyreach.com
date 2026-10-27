@@ -1,0 +1,22 @@
+{
+ "key": "f1fbc42145",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/cftc-aims-to-publish-commitments-of-traders-report-twice-weekly",
+ "title": "CFTC旨在每周两次发布交易者承诺额度报告",
+ "summary": "商品期货交易委员会正在努力在年底前每周两次发布其广泛关注的交易者承诺报告。",
+ "body": [
+  "商品期货交易委员会正在努力在年底前每周两次发布其广泛关注的交易者承诺报告。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "CFTC Aims to Publish Commitments of Traders Report Twice Weekly",
+ "lang": "en",
+ "published": "2026-10-27T14:41:12+00:00",
+ "created": "2026-10-27T15:09:56+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
