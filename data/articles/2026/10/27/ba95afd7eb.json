@@ -1,0 +1,26 @@
+{
+ "key": "ba95afd7eb",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-10-27/a-visit-to-the-ai-model-retirement-home",
+ "title": "AI模型也有“退休养老院”？这算不算一种新的算力内卷",
+ "summary": "彭博社专栏作家Joe Weisenthal和Tracy Alloway发文调侃，随着人工智能技术的飞速发展，如今连淘汰的AI模型都有了“退休养老院”，这也折射出当前AI行业对算力的巨大消耗。",
+ "body": [
+  "话说现在AI更新换代的速度比换手机还快，那些被淘汰的AI模型都去哪儿了？最近，彭博社（Bloomberg）的专栏作家乔·维森塔尔（Joe Weisenthal）和特雷西·阿洛威（Tracy Alloway）发文调侃了这个现象——他们关注到一个专门收留“退役AI模型”的地方，也就是所谓的“AI模型退休养老院”。",
+  "虽然文章摘要很简单，只有一句“又一种算力的用法”（Another use of compute），但这也戳中了当前科技圈的现状：为了维持各种新老AI的运转，算力资源的消耗简直是个无底洞。当旧模型不断退居二线，庞大的算力到底花得值不值，也成了大家琢磨的事。",
+  "对于咱们海外华人来说，AI技术这么个烧法，不仅推动了科技股的波动，相关的芯片、云服务价格也时刻牵动着大家的钱包。看着AI越来越卷，不知道以后咱用的各种智能工具，会不会也面临“交养老金”的那一天呢？"
+ ],
+ "tags": [
+  "人工智能",
+  "算力",
+  "科技趣闻",
+  "海外生活"
+ ],
+ "original_title": "A Visit to the AI Model Retirement Home",
+ "lang": "en",
+ "published": "2026-10-27T17:04:41+00:00",
+ "created": "2026-10-27T18:59:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "9b0d948189",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/corporate-bond-trading-is-moving-beyond-top-securities-barclays-says",
+ "title": "买卖公司债越来越容易了？巴克莱：流动性正在变好！",
+ "summary": "根据巴克莱银行的分析，美国和欧洲大公司发行的企业债券中，有更多债券的交易变得更加频繁，这表明欧美企业债市场的流动性正在不断增强。",
+ "body": [
+  "平时买卖大公司的债券是不是越来越顺手了？根据彭博社报道，英国巴克莱银行（Barclays）近日指出，美国和欧洲各家蓝筹公司的企业债券，现在交易频率越来越高了。",
+  "简单来说，这意味着现在的债券市场比以前更活跃、更好出手了。过去可能有些公司的债券买完后很难转手，但现在由于流动性的增加，整个市场的资金转动得更快，无论是买方还是卖方都更加灵活。",
+  "对于在海外关注投资理财的华人朋友来说，债券市场流动性的提升是个好消息。这意味着如果你的投资组合里包含企业债券，以后在调整资产配置、买进卖出时，可能会遇到更好的市场深度和更顺畅的交易体验。"
+ ],
+ "tags": [
+  "企业债券",
+  "巴克莱",
+  "金融市场",
+  "海外投资",
+  "流动性"
+ ],
+ "original_title": "Corporate-Bond Trading Is Moving Beyond Top Securities, Barclays Says",
+ "lang": "en",
+ "published": "2026-10-27T17:35:30+00:00",
+ "created": "2026-10-27T18:59:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

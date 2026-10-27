@@ -1,0 +1,26 @@
+{
+ "key": "5c0837f7cf",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/economy/china-claims-strong-economic-growth-but-skeptics-question-official-figures-22e583db?mod=rss_worldnews",
+ "title": "中国官方公布今年经济增长强劲，但专家们开始犯嘀咕了？",
+ "summary": "北京近期公布了强劲的经济增长数据，但越来越多的经济学家对这些官方数字的准确性提出了质疑。",
+ "body": [
+  "据《华尔街日报》报道，中国今年报告了强劲的经济增长，然而，质疑的声音也在不断增加，越来越多的经济学家开始怀疑这些官方数字到底水分有多少、准确性究竟如何。",
+  "长期以来，外界对中国经济数据的讨论一直存在。一方面是官方亮眼的增长成绩单，另一方面则是部分专业人士和市场观察家对底层经济活动数据的审视。这种反差也让外界在评估中国经济复苏的真实热度时，产生了更多不同的看法。",
+  "对于远在海外的华人来说，了解国内经济的真实走势非常重要。无论是做生意、投资理财，还是关注国内亲友的发展，官方数据与市场体感的差异都值得我们多留个心眼，谨慎评估相关风险。"
+ ],
+ "tags": [
+  "中国经济",
+  "华尔街日报",
+  "经济数据",
+  "海外华人"
+ ],
+ "original_title": "China Claims Strong Economic Growth, but Skeptics Question Official Figures",
+ "lang": "en",
+ "published": "2026-10-27T17:08:00+00:00",
+ "created": "2026-10-27T18:59:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

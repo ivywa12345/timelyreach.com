@@ -1,0 +1,25 @@
+{
+ "key": "101a3949c8",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/nuclear-inspectors-see-no-evidence-iran-repaired-us-bombed-sites",
+ "title": "核查人员：伊朗没有修复此前遭美以空袭的核设施",
+ "summary": "联合国原子能机构表示，尽管德黑兰仍限制核查人员进入大部分核设施，但目前并未发现伊朗有修复过去两年中遭美国和以色列空袭受损核设施的迹象。",
+ "body": [
+  "联合国核监督机构近日透露，虽然伊朗方面依然阻止核查人员进入其大部分原子能设施，但他们并没有发现伊朗有试图重建或修复过去两年中遭美国和以色列空袭破坏的核设施的迹象。",
+  "在此之前，伊朗的核设施在美以两国的数次打击中受损，引发了国际社会的高度关注。不过，最新的核查结果显示，这些受损地点目前尚未展开任何修复工作。"
+ ],
+ "tags": [
+  "伊朗核问题",
+  "联合国",
+  "美以空袭",
+  "国际新闻"
+ ],
+ "original_title": "Nuclear Inspectors See No Evidence Iran Repaired US-Bombed Sites",
+ "lang": "en",
+ "published": "2026-10-27T18:13:35+00:00",
+ "created": "2026-10-27T18:59:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

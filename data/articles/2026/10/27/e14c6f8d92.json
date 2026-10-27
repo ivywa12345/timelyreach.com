@@ -1,0 +1,25 @@
+{
+ "key": "e14c6f8d92",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/rail-merger-arises-as-key-issue-in-tight-nebraska-senate-race",
+ "title": "内布拉斯加州参议员之争：铁路政策成两党候选人交锋焦点",
+ "summary": "在内布拉斯加州激烈的参议员竞选中，无党派候选人丹·奥斯本（Dan Osborn）将铁路政策作为挑战现任共和党参议员皮特·里基茨（Pete Ricketts）的核心议题。",
+ "body": [
+  "近日，内布拉斯加州的参议院选情异常激烈。无党派候选人丹·奥斯本（Dan Osborn）把矛头对准了现任共和党参议员皮特·里基茨（Pete Ricketts），并将“铁路政策”打造成了自己竞选的核心话题。",
+  "内布拉斯加州的经济很大程度上依赖于铁路运输及其相关客户，这也让铁路议题直接关系到当地的经济命脉和普通民众的切身利益。奥斯本正是抓住了这一点，试图在农业和交通大州撼动里基茨的地位。"
+ ],
+ "tags": [
+  "内布拉斯加州",
+  "美国参议院",
+  "铁路政策",
+  "美国大选"
+ ],
+ "original_title": "Rail Merger Arises as Key Issue in Tight Nebraska Senate Race",
+ "lang": "en",
+ "published": "2026-10-27T18:28:40+00:00",
+ "created": "2026-10-27T18:59:51+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
