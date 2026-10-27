@@ -1,0 +1,22 @@
+{
+ "key": "86c9c42ee5",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/congo-ebola-cases-top-10-000-as-violence-hits-health-workers",
+ "title": "由于暴力袭击卫生工作者，刚果埃博拉病例排名前1万",
+ "summary": "根据刚果民主共和国政府和联合国的数据，刚果民主共和国确诊的埃博拉病例超过1万例，因为针对应对疫情的卫生工作者的暴力行为导致一名护士死亡。",
+ "body": [
+  "根据刚果民主共和国政府和联合国的数据，刚果民主共和国确诊的埃博拉病例超过1万例，因为针对应对疫情的卫生工作者的暴力行为导致一名护士死亡。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Congo Ebola Cases Top 10,000 as Violence Hits Health Workers",
+ "lang": "en",
+ "published": "2026-10-27T12:06:04+00:00",
+ "created": "2026-10-27T13:15:31+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

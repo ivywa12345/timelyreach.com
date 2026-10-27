@@ -1,0 +1,22 @@
+{
+ "key": "db9b08892d",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/articles/inside-the-11th-hour-scramble-to-save-anthropics-debt-deal-1c8ad883?mod=rss_markets_main",
+ "title": "第11小时内争先恐后地拯救人类的债务交易",
+ "summary": "此外，微软和Skydance转向自愿退出以缩减劳动力，特朗普的关税暴露了美国对加拿大铝的依赖。",
+ "body": [
+  "此外，微软和Skydance转向自愿退出以缩减劳动力，特朗普的关税暴露了美国对加拿大铝的依赖。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Inside the 11th-Hour Scramble to Save Anthropic’s Debt Deal",
+ "lang": "en",
+ "published": "2026-10-27T10:05:00+00:00",
+ "created": "2026-10-27T13:15:15+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

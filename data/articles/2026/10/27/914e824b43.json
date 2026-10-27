@@ -1,0 +1,22 @@
+{
+ "key": "914e824b43",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/anthropics-adjusted-profit-exposes-wall-streets-earnings-game-40cbcef1?mod=rss_markets_main",
+ "title": "Anthropic的“调整后”利润暴露了华尔街的盈利游戏",
+ "summary": "这位人工智能开发人员的亏损是亚马逊和Alphabet大获全胜的另一面。",
+ "body": [
+  "这位人工智能开发人员的亏损是亚马逊和Alphabet大获全胜的另一面。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Anthropic’s ‘Adjusted’ Profit Exposes Wall Street’s Earnings Game",
+ "lang": "en",
+ "published": "2026-10-27T09:30:00+00:00",
+ "created": "2026-10-27T13:15:17+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
