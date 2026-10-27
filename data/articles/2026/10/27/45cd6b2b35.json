@@ -1,0 +1,26 @@
+{
+ "key": "45cd6b2b35",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/the-statue-of-liberty-may-be-frances-only-good-idea-caafee64?mod=rss_worldnews",
+ "title": "美媒犀利开麦：法国除了送个自由女神像，还有啥好主意？",
+ "summary": "《华尔街日报》发表了一篇颇具争议的评论文章，盘点并批评了法国历史上输出的种种“发明”与思想。",
+ "body": [
+  "近日，《华尔街日报》(The Wall Street Journal)刊登了一篇由评论员Dimitri Burshtein撰写的文章，标题相当扎心，直言“自由女神像可能是法国唯一的好主意”。",
+  "这篇文章把法国的历史输出狠狠吐槽了一遍，文章指出，这个国家不仅给了世界吉头（断头台），还带来了恐怖主义、马克思主义、财富税以及街头骚乱等种种现象。",
+  "对于在海外生活的华人来说，这类主流媒体对欧洲社会体制和历史思潮的犀利吐槽，也常常引发大家关于税收、社会治安和文化差异的热烈讨论。"
+ ],
+ "tags": [
+  "华尔街日报",
+  "法国",
+  "自由女神像",
+  "海外热议"
+ ],
+ "original_title": "Opinion | The Statue of Liberty May Be France’s Only Good Idea",
+ "lang": "en",
+ "published": "2026-10-27T20:44:00+00:00",
+ "created": "2026-10-27T20:48:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

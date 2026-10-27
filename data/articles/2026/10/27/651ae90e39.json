@@ -1,0 +1,27 @@
+{
+ "key": "651ae90e39",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/u-s-stocks-add-to-gains-ahead-of-earnings-fed-statement-d996e176?mod=rss_markets_main",
+ "title": "美股又涨了！大厂财报和美联储决议在即，市场在兴奋啥？",
+ "summary": "由于市场对即将到来的AI巨头财报充满信心，美股连续第二个交易日上涨，大家都在紧盯本周的重头戏。",
+ "body": [
+  "美股周二（根据华尔街日报报道）迎来连续第二个交易日上涨。这背后的主要推动力，是投资者对即将发布财报的所谓“人工智能超大规模企业”（AI hyperscalers）抱有越来越高的乐观情绪。",
+  "除了即将出炉的企业财报，市场也在屏息以待美联储（Fed）即将发布的最新政策声明。这两大因素交织在一起，成了近期左右美股走势的关键风向标。",
+  "对于咱们海外华人来说，大盘的涨跌直接关系到401(k)退休账户和个人的投资组合。在财报季和美联储政策明朗之前，市场波动可能还会加剧，大家的投资理财还得系好安全带，多留个心眼。"
+ ],
+ "tags": [
+  "美股",
+  "人工智能",
+  "美联储",
+  "财报季",
+  "海外理财"
+ ],
+ "original_title": "U.S. Stocks Add to Gains Ahead of Earnings, Fed Statement",
+ "lang": "en",
+ "published": "2026-10-27T20:45:00+00:00",
+ "created": "2026-10-27T20:48:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

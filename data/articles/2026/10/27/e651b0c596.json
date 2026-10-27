@@ -1,0 +1,27 @@
+{
+ "key": "e651b0c596",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/trafigura-mubadala-cancel-planned-sale-of-brazilian-iron-port",
+ "title": "铁矿石行情太虐心！托克和穆abubadala急卖巴西大港，结果流标了",
+ "summary": "由于出价没达到心理预期且大宗商品前景不明朗，贸易巨头托克集团（Trafigura Group）和穆巴达拉资本（Mubadala Capital）决定取消出售巴西一座铁矿石港口的计划。",
+ "body": [
+  "知情人士透露，由于买家给出的报价低于卖家预期，加上当前大宗商品市场的前景实在让人看不清，托克集团（Trafigura Group）和穆巴达拉资本（Mubadala Capital）已经把出售巴西一座铁矿石港口的计划暂时搁置了。",
+  "这两家公司原本希望通过出售这座港口来回笼资金，但奈何买家们的出价都相当保守。这也反映出当前全球矿产资源市场的观望情绪非常浓厚，大宗商品价格波动让投资者下手时格外谨慎。",
+  "对于远在海外的华人投资者和关注全球经济走向的朋友来说，这类大宗商品基础设施交易的搁浅，往往是全球矿业需求疲软和市场信心不足的一个缩影，也可能间接影响到相关资源的供应链成本。"
+ ],
+ "tags": [
+  "大宗商品",
+  "托克集团",
+  "穆巴达拉资本",
+  "巴西港口",
+  "海外投资"
+ ],
+ "original_title": "Trafigura, Mubadala Cancel Planned Sale of Brazilian Iron Port",
+ "lang": "en",
+ "published": "2026-10-27T20:20:42+00:00",
+ "created": "2026-10-27T20:48:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

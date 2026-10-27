@@ -1,0 +1,27 @@
+{
+ "key": "62418ea0d2",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/racist-x-post-turns-texas-oil-regulator-contest-into-a-dead-heat",
+ "title": "一条种族歧视推特，直接把德州油气监管局的稳操胜券搅成了五五开？",
+ "summary": "德州共和党候选人在社交媒体X上发表种族歧视言论引发众怒，导致德州长期稳固的油气监管机构席位争夺战陷入胶着。",
+ "body": [
+  "德州政坛最近出了一桩大新闻。长期由共和党把持的德州油气监管委员会（Texas oil regulatory commission）席位竞选，本来胜券在握，结果因为共和党候选人管不住自己的手，发了一条种族歧视的推文，遭到全网群起而攻之，现在选情直接变成了五五开的拉锯战。",
+  "根据彭博社（Bloomberg）报道，这位共和党候选人（GOP candidate）因为发表了不当的种族歧视言论（Racist X Post），引发了广泛的谴责（widespread condemnation）。这让原本稳操胜券的选举充满了变数，竞争异常激烈（neck-and-neck race）。",
+  "对于咱们海外华人来说，德州的油气行业不仅关乎当地经济和能源价格，也直接影响着不少华人的就业和钱包。政客管不住嘴引发政治地震，接下来选情走向如何，还得看选民们在投票箱前怎么表态。"
+ ],
+ "tags": [
+  "德州",
+  "美国选举",
+  "种族歧视",
+  "油气监管",
+  "华人生活"
+ ],
+ "original_title": "Racist X Post Turns Texas Oil Regulator Contest Into a Dead Heat",
+ "lang": "en",
+ "published": "2026-10-27T17:59:42+00:00",
+ "created": "2026-10-27T20:49:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

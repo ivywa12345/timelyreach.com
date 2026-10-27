@@ -1,0 +1,27 @@
+{
+ "key": "2a897aabc7",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/tech-stocks-power-higher-oil-cools-724e6a63?mod=rss_markets_main",
+ "title": "科技股大涨油价降温，波音又双叒叕跌了？",
+ "summary": "华尔街最新行情：科技股强势走高，石油价格回落，不过波音因为面临新的亏损导致股价下跌。",
+ "body": [
+  "美股市场迎来新动态，科技板块（Tech Stocks）这几天发力走高，把大盘给撑了起来；与此同时，之前一直让人头疼的油价（Oil）总算降温了，稍微缓解了大家的通胀焦虑。",
+  "不过几家欢喜几家愁，飞机制造巨头波音（Boeing）最近的日子可不太好过。由于传出新的亏损消息，波音的股价在盘面上直接滑落，表现相当疲软。此外，法律界也有大动作，知名律所威尔·哥特沙尔（Weil Gotshal）最近刚挖来了一位厉害的破产律师（bankruptcy lawyer），准备应对接下来的市场变局。",
+  "对咱们海外华人来说，科技股和油价的波动直接关系到大家的401(k)养老金账户和日常生活的开销。油价跌了，去加油站的心情能好点；但大盘震荡时，手里握着个股尤其是像波音这种传统工业股的朋友，可得密切关注公司的财务状况和市场风向了。"
+ ],
+ "tags": [
+  "美股",
+  "科技股",
+  "波音",
+  "油价",
+  "海外理财"
+ ],
+ "original_title": "Tech Stocks Power Higher, Oil Cools",
+ "lang": "en",
+ "published": "2026-10-27T20:23:00+00:00",
+ "created": "2026-10-27T20:48:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
