@@ -1,0 +1,26 @@
+{
+ "key": "be02e5d1f5",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/raizen-debt-is-said-to-be-eyed-by-fs-mubadala-in-restructuring",
+ "title": "巴西生物燃料巨头Raizen遇麻烦？中东土豪和同行准备出手接盘债务了！",
+ "summary": "知情人士透露，巴西生物燃料生产商FS与阿布扎比主权财富基金穆巴达拉投资公司（Mubadala Investment Co.）正计划收购陷入困境的同行巨头Raizen SA的债权人所持债务。",
+ "body": [
+  "根据知情人士透露，巴西生物燃料生产商FS（FS — Fueling Sustainability）以及阿联酋阿布扎比的主权财富基金穆巴达拉投资公司（Mubadala Investment Co.）目前正在密切关注陷入困境的生物燃料巨头Raizen SA的债务问题，并寻求买入其债权人手里的债务。",
+  "这次行动的核心在于处理Raizen SA目前的债务危机，两家机构联手进场展现了对该行业资产的兴趣。截至目前，相关各方仍在推进相关事宜。"
+ ],
+ "tags": [
+  "巴西",
+  "生物燃料",
+  "债务重组",
+  "穆巴达拉",
+  "Raizen"
+ ],
+ "original_title": "Raizen Debt to Be Eyed by FS, Mubadala in Restructuring",
+ "lang": "en",
+ "published": "2026-10-27T21:02:00+00:00",
+ "created": "2026-10-27T22:58:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

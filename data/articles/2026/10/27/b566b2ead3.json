@@ -1,0 +1,27 @@
+{
+ "key": "b566b2ead3",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/haiti-crisis-el-salvador-surges-hundreds-of-troops-to-find-missing-soldiers",
+ "title": "为了找回4名失踪士兵，萨尔瓦多总统把军队直接拉去海地了？",
+ "summary": "据研究人员透露，萨尔瓦多在海地的驻军规模已飙升至至少600人，此举主要是为了寻找此前在海地被绑架的4名萨尔瓦多士兵。",
+ "body": [
+  "据彭博社报道，加勒比海岛国海地（Haiti）目前的乱局还在持续升级。为了寻找4名在当地遭到绑架的士兵，萨尔瓦多总统布克尔（Nayib Bukele）直接下令，把该国在海地的驻军规模迅速扩充到了至少600人。",
+  "长期以来，海地因为严重的治安危机陷入动荡，各路武装势力盘踞。萨尔瓦多士兵这次涉险卷入其中，并且遭遇绑架，促使萨尔瓦多政府采取了极其强硬的增兵搜救行动。",
+  "对于身处海外的华人来说，加勒比海及拉丁美洲部分地区的安全形势复杂多变，此类跨国武装行动和地方治安恶化再次提醒大家，前往或关注高风险地区时务必高度警惕人身安全。"
+ ],
+ "tags": [
+  "海地危机",
+  "萨尔瓦多",
+  "布克尔",
+  "军事行动",
+  "海外安全"
+ ],
+ "original_title": "Haiti Crisis: El Salvador Surges Hundreds of Troops to Find Missing Soldiers",
+ "lang": "en",
+ "published": "2026-10-27T22:23:47+00:00",
+ "created": "2026-10-27T22:58:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

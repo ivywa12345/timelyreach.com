@@ -1,0 +1,27 @@
+{
+ "key": "088c304f10",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/stock-market-today-dow-s-p-live-updates",
+ "title": "AI热潮又双叒回来了！周三亚洲股市稳了？",
+ "summary": "受华尔街AI板块反弹带动，亚洲股市周三有望迎来上涨。市场正密切关注科技巨头的财报以及美联储的最新利率决议。",
+ "body": [
+  "各位在海外的华人朋友，炒股的可以关注一下盘面。根据彭博社（Bloomberg）记者Toby Alder的报道，周三亚洲股市看起来要涨啦！",
+  "这波上涨主要是跟着华尔街（Wall Street）的脚步。最近市场对人工智能（AI）的热情再次高涨，直接把股市给抬了起来。不过大家也知道，现在市场正盯着两件大事：一是各大科技巨头的财报要发布了，二是美联储（Federal Reserve）马上要公布利率决定，这两点都会直接影响大家的钱袋子。",
+  "对于咱们在海外的华人来说，美联储的利率决定直接关系到房贷、车贷利率和美元走势，而科技股的表现也牵动着不少人的投资组合。接下来几天盘面波动可能不会小，大家盯紧自己的钱包和投资吧！"
+ ],
+ "tags": [
+  "亚洲股市",
+  "人工智能",
+  "美联储",
+  "华尔街",
+  "海外投资"
+ ],
+ "original_title": "Asian Stocks Set to Gain on Resurgent AI Optimism: Markets Wrap",
+ "lang": "en",
+ "published": "2026-10-27T22:09:07+00:00",
+ "created": "2026-10-27T22:58:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

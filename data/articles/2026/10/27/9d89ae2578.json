@@ -1,0 +1,28 @@
+{
+ "key": "9d89ae2578",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/trump-casts-high-gas-price-as-short-term-pain-at-texas-rally",
+ "title": "特朗普急奔得州救场！直言油价上涨只是“阵痛”",
+ "summary": "美国总统特朗普周二前往得克萨斯州参加集会，为陷入苦战的参议员候选人肯·帕克斯顿（Ken Paxton）拉票，并对高油价问题做出回应。",
+ "body": [
+  "美国总统特朗普（Donald Trump）周二（当地时间）火速赶往得克萨斯州，进行最后冲刺，全力拉抬参议员候选人肯·帕克斯顿（Ken Paxton）的选情。",
+  "按理说得州是个传统的“红州”，共和党通常稳操胜券，但这次帕克斯顿的选情却异常胶着，这也让共和党高层捏了一把汗，担心可能会丢掉参议院的控制权。",
+  "面对选民普遍关心的油价问题，特朗普在集会上表示，高油价只是一种“短期的阵痛”（Short-Term Pain）。",
+  "对于在美华人来说，油价直接关系到日常通勤和生活成本。政客们在选前为了关键选区频频出招，后续的能源政策走向仍将直接影响大家的钱包。"
+ ],
+ "tags": [
+  "特朗普",
+  "得克萨斯州",
+  "美国大选",
+  "油价",
+  "海外华人"
+ ],
+ "original_title": "Trump Says High Gas Price a ‘Short-Term Pain’ at Texas Rally",
+ "lang": "en",
+ "published": "2026-10-27T21:05:11+00:00",
+ "created": "2026-10-27T22:58:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

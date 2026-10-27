@@ -1,0 +1,25 @@
+{
+ "key": "ee24bdddc6",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/latest-oil-market-news-and-analysis-for-oct-28",
+ "title": "油价连跌两天！中东大选结果将如何牵动美伊局势？",
+ "summary": "由于交易员密切关注以色列大选结果，该结果将对美国与伊朗的冲突产生影响，国际油价连续两天保持下跌趋势。",
+ "body": [
+  "据彭博社报道（作者：Kanoko Matsuyama），国际油价迎来了连续第二天的下跌。近期市场紧盯着以色列一场胶着的大选，因为这场选举的结果将直接影响到未来美国与伊朗冲突的发展走向。",
+  "对身在海外的我们来说，国际油价的波动往往最先体现在加油站的油价账单上。虽然目前油价暂时回落，但中东地缘政治的任何风吹草动，都可能随时拨动能源市场的神经，进而影响到大家的日常出行成本和整体通胀水平。"
+ ],
+ "tags": [
+  "油价",
+  "中东局势",
+  "以色列大选",
+  "美国伊朗"
+ ],
+ "original_title": "Latest Oil Market News and Analysis for Oct. 28",
+ "lang": "en",
+ "published": "2026-10-27T22:04:57+00:00",
+ "created": "2026-10-27T22:58:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
