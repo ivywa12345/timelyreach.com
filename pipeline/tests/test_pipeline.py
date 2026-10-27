@@ -343,3 +343,13 @@ def test_old_wenxuecity_posts_are_recredited(tmp_path, monkeypatch):
     assert fixed.source_name == "中央社" and not fixed.show_link
     assert "文学城" not in "".join(fixed.body + fixed.tags)
     assert update.credit_reposted_sources(Store(tmp_path)) == 0
+
+
+def test_brief_line_does_not_repeat_the_title():
+    from timelyreach.brief import _line
+
+    a = _article(9, title="美联储按兵不动")
+    a.summary = "美联储按兵不动，市场押注年内降息两次。"
+    assert _line(a) == "美联储按兵不动：市场押注年内降息两次。"
+    a.summary = "另一句导读"
+    assert _line(a) == "美联储按兵不动：另一句导读"

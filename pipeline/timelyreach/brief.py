@@ -18,6 +18,14 @@ SOURCE_BOARDS = ("picks", "finance", "news")
 EARLIEST_HOUR_ET = 6  # write it once the overnight news is in
 
 
+def _line(a: Article) -> str:
+    """Title plus a short deck; the deck often starts with the title itself, so drop that part."""
+    deck = a.summary.strip()
+    if deck.startswith(a.title[:20]):
+        deck = deck[len(a.title):].lstrip("：:，, ")
+    return a.title + (f"：{deck[:90]}" if deck else "")
+
+
 def brief_key(day: str) -> str:
     return url_hash(f"brief:{day}")
 
@@ -39,7 +47,7 @@ def run_brief(store: Store, providers: list[Provider], now: datetime | None = No
         return None
 
     date_cn = f"{now_et.month}月{now_et.day}日"
-    lines = [f"{i}. {a.title}：{a.summary}" for i, a in enumerate(recent, 1)]
+    lines = [f"{i}. {_line(a)}" for i, a in enumerate(recent, 1)]
     item = RawItem(
         source_id="brief",
         source_name="本站编辑部",

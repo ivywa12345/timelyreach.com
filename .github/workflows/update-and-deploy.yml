@@ -46,6 +46,10 @@ jobs:
           XIAOHONGSHU_COOKIE: ${{ secrets.XIAOHONGSHU_COOKIE }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          # 排队的运行要基于分支最新提交，而不是触发时的旧提交，
+          # 否则会和上一轮机器人提交的 data/ 合并冲突
+          ref: ${{ github.ref }}
 
       - uses: actions/setup-python@v5
         with:
@@ -90,12 +94,17 @@ jobs:
             echo "no new content"
           else
             git commit -m "content: $(date -u +'%Y-%m-%d %H:%M') 自动更新"
-            BRANCH="${{ github.event.repository.default_branch }}"
-            [ "${{ github.event_name }}" = "push" ] && BRANCH="${GITHUB_REF_NAME}"
+            BRANCH="${GITHUB_REF_NAME}"
+            pushed=0
             for i in 1 2 3; do
-              git pull --rebase origin "$BRANCH" && git push origin "HEAD:$BRANCH" && break
+              if git pull --rebase origin "$BRANCH" && git push origin "HEAD:$BRANCH"; then pushed=1; break; fi
+              git rebase --abort 2>/dev/null || true
               sleep 5
             done
+            if [ "$pushed" != "1" ]; then
+              echo "::error::could not push new content (merge conflict in data/?)"
+              exit 1
+            fi
           fi
 
       - name: 生成网站
