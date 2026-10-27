@@ -89,7 +89,8 @@ jobs:
         run: |
           git config user.name "timelyreach-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data inbox
+          git add data
+          [ -d inbox ] && git add -A inbox || true
           if git diff --cached --quiet; then
             echo "no new content"
           else
