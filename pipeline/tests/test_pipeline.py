@@ -386,7 +386,7 @@ def test_llm_retries_a_rate_limit_on_the_same_model(monkeypatch):
     used = []
     monkeypatch.setattr(rewrite.requests, "post", lambda *a, **k: used.append(k["json"]["model"]) or next(seq))
     assert prov.rewrite(_item()).title == "标题"
-    assert used == ["gemini-flash-latest"] * 3 and prov.idx == 0
+    assert used == ["gemini-flash-lite-latest"] * 3 and not prov.dead  # ordinary news starts on the roomy lite model
 
 
 def test_llm_moves_on_when_a_model_is_overloaded_or_missing_and_remembers_it(monkeypatch):
@@ -396,18 +396,28 @@ def test_llm_moves_on_when_a_model_is_overloaded_or_missing_and_remembers_it(mon
     def post(*a, **k):
         m = k["json"]["model"]
         used.append(m)
-        if m == "gemini-flash-latest":
-            return _Resp(503, text="overloaded")
         if m == "gemini-flash-lite-latest":
+            return _Resp(503, text="overloaded")
+        if m == "gemini-flash-latest":
             return _Resp(404, text="not found")
         return _Resp(200, _GOOD)
 
     monkeypatch.setattr(rewrite.requests, "post", post)
     assert prov.rewrite(_item()).title == "标题"
-    assert prov.model == "gemini-2.5-flash-lite"
+    assert used == ["gemini-flash-lite-latest"] * 2 + ["gemini-flash-latest", "gemini-2.5-flash-lite"]
     used.clear()
     prov.rewrite(_item())
-    assert used == ["gemini-2.5-flash-lite"]  # later items start at the model that works
+    assert used == ["gemini-2.5-flash-lite"]  # later items go straight to the model that works
+
+
+def test_llm_brief_and_picks_try_the_better_model_first(monkeypatch):
+    prov = _llm(monkeypatch)
+    used = []
+    monkeypatch.setattr(rewrite.requests, "post", lambda *a, **k: used.append(k["json"]["model"]) or _Resp(200, _GOOD))
+    prov.rewrite(_item(lang="brief"))
+    prov.rewrite(_item(lang="editor"))
+    prov.rewrite(_item())
+    assert used == ["gemini-flash-latest", "gemini-flash-latest", "gemini-flash-lite-latest"]
 
 
 def test_llm_gives_up_for_the_run_when_every_model_is_exhausted(monkeypatch):
@@ -441,7 +451,7 @@ def test_env_values_are_trimmed_and_provider_is_detected(monkeypatch):
     assert [p.name for p in providers] == ["openai-compatible"]
     assert providers[0].api_key == "AIza-secret"
     assert providers[0].base_url == "https://generativelanguage.googleapis.com/v1beta/openai"
-    assert providers[0].model == "gemini-flash-latest"
+    assert providers[0].models == list(rewrite.OpenAICompatibleProvider.DEFAULT_MODELS)
     monkeypatch.setenv("LLM_API_KEY", "sk-not-gemini")
     monkeypatch.delenv("LLM_BASE_URL")
     assert rewrite.available_providers() == []

@@ -137,29 +137,37 @@ class ClaudeProvider(Provider):
 class OpenAICompatibleProvider(Provider):
     """Gemini (https://generativelanguage.googleapis.com/v1beta/openai/), DeepSeek, etc.
 
-    Free tiers allow only a few requests per minute and some models are often overloaded, so:
-    calls are spaced out (LLM_MIN_INTERVAL seconds, default 6.5); a model that stays
-    rate-limited, overloaded or missing is dropped for the rest of the run in favour of the next
-    one in ``models`` (LLM_MODEL pins a single model); when none is left, the provider gives up
-    for the run and remaining items fall through to the next provider."""
+    Free tiers allow few requests per minute and per day, and some models are often overloaded:
+    calls are spaced out (LLM_MIN_INTERVAL seconds, default 6.5); a model that stays rate-limited,
+    overloaded or missing is dropped for the rest of the run; when none is left, the provider
+    gives up for the run and remaining items fall through to the next provider.
+
+    Default Gemini models (free quota seen in AI Studio, Oct 2026): the lite alias allows ~500
+    requests/day, the full flash alias only ~20. So ordinary news goes to lite first, while the
+    daily brief and the owner's picks try the better flash model first. LLM_MODEL pins one model."""
 
     name = "openai-compatible"
-    DEFAULT_MODELS = ("gemini-flash-latest", "gemini-flash-lite-latest", "gemini-2.5-flash-lite")
+    DEFAULT_MODELS = ("gemini-flash-lite-latest", "gemini-flash-latest", "gemini-2.5-flash-lite")
+    PREMIUM_MODEL = "gemini-flash-latest"
+    PREMIUM_LANGS = ("brief", "editor")
 
     def __init__(self) -> None:
         self.base_url = _env("LLM_BASE_URL").rstrip("/")
         self.api_key = _env("LLM_API_KEY")
         pinned = _env("LLM_MODEL")
         self.models = [pinned] if pinned else list(self.DEFAULT_MODELS)
-        self.idx = 0
+        self.dead: set[str] = set()
         self.min_interval = float(os.environ.get("LLM_MIN_INTERVAL", "6.5"))
         self._last_call = 0.0
         self._listed_models = False
         self.exhausted = False
 
-    @property
-    def model(self) -> str:
-        return self.models[min(self.idx, len(self.models) - 1)]
+    def _order(self, item: RawItem) -> list[str]:
+        models = [m for m in self.models if m not in self.dead]
+        if item.lang in self.PREMIUM_LANGS and self.PREMIUM_MODEL in models:
+            models.remove(self.PREMIUM_MODEL)
+            models.insert(0, self.PREMIUM_MODEL)
+        return models
 
     def _post(self, payload: dict) -> requests.Response:
         wait = self._last_call + self.min_interval - time.monotonic()
@@ -215,22 +223,22 @@ class OpenAICompatibleProvider(Provider):
             "response_format": {"type": "json_object"},
         }
         last = ""
-        while self.idx < len(self.models):
-            payload["model"] = self.model
+        for model in self._order(item):
+            payload["model"] = model
             resp = self._call(payload)
             if resp.status_code < 400:
                 content = resp.json()["choices"][0]["message"]["content"]
                 content = re.sub(r"^```(?:json)?|```$", "", content.strip(), flags=re.M).strip()
                 return Rewrite.model_validate(json.loads(content))
-            last = f"{resp.status_code} (model {self.model}): {resp.text[:300]!r}"
+            last = f"{resp.status_code} (model {model}): {resp.text[:300]!r}"
             if resp.status_code in (401, 403):
                 resp.raise_for_status()  # bad key / no access: nothing to switch to
             if resp.status_code == 404:
                 self._log_models()
-            log.warning("llm model %s unusable (%s); trying the next one", self.model, last)
-            self.idx += 1
-        self.exhausted = True
-        raise RuntimeError(f"no usable llm model left for this run; last answer: {last}")
+            log.warning("llm model %s unusable for the rest of this run (%s)", model, last)
+            self.dead.add(model)
+        self.exhausted = len(self.dead) >= len(self.models)
+        raise RuntimeError(f"no usable llm model left for this item; last answer: {last}")
 
 
 class FreeTranslateProvider(Provider):
