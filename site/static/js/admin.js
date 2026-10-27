@@ -1,38 +1,49 @@
-/* 站长后台：把文章写成 JSON 提交到仓库的 inbox/ 目录（GitHub Contents API）。 */
+/* 站长后台：把文章交给本站的 /api/post，由服务器写进仓库的 inbox/。 */
 (function () {
-  var cfg = window.TR_CONFIG || {};
-  var KEY = "tr_admin_token";
+  var KEY = "tr_admin_pw";
   var $ = function (id) { return document.getElementById(id); };
-  var tokenForm = $("token-form"), postForm = $("post-form");
+  var pwForm = $("token-form"), postForm = $("post-form");
 
-  function getToken() { try { return localStorage.getItem(KEY) || ""; } catch (e) { return ""; } }
-  function setToken(v) { try { v ? localStorage.setItem(KEY, v) : localStorage.removeItem(KEY); } catch (e) {} }
+  function getPw() { try { return localStorage.getItem(KEY) || ""; } catch (e) { return ""; } }
+  function setPw(v) { try { v ? localStorage.setItem(KEY, v) : localStorage.removeItem(KEY); } catch (e) {} }
   function show() {
-    var has = !!getToken();
-    tokenForm.hidden = has;
+    var has = !!getPw();
+    pwForm.hidden = has;
     postForm.hidden = !has;
   }
 
-  function b64(str) {
-    var bytes = new TextEncoder().encode(str), bin = "";
-    for (var i = 0; i < bytes.length; i++) bin += String.fromCharCode(bytes[i]);
-    return btoa(bin);
+  function send(doc, pw) {
+    return fetch("/api/post", {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Admin-Password": pw },
+      body: JSON.stringify(doc)
+    }).then(function (r) {
+      return r.json().catch(function () { return {}; }).then(function (d) {
+        if (r.status === 404 || r.status === 405) throw new Error("发布接口还没部署上（" + r.status + "），请稍后再试");
+        if (!r.ok) throw new Error(d.error || ("服务器返回 " + r.status));
+        return d;
+      });
+    });
   }
 
-  tokenForm.addEventListener("submit", function (e) {
+  pwForm.addEventListener("submit", function (e) {
     e.preventDefault();
-    setToken(tokenForm.token.value.trim());
-    tokenForm.token.value = "";
-    show();
+    var pw = pwForm.token.value.trim(), msg = $("token-msg");
+    msg.textContent = "验证中…";
+    send({ check: true, title: "x", body: ["x"] }, pw).then(function () {
+      setPw(pw);
+      pwForm.token.value = "";
+      msg.textContent = "";
+      show();
+    }).catch(function (err) { msg.textContent = "失败：" + err.message; });
   });
-  $("token-reset").addEventListener("click", function (e) { e.preventDefault(); setToken(""); show(); });
+  $("token-reset").addEventListener("click", function (e) { e.preventDefault(); setPw(""); show(); });
 
   postForm.addEventListener("submit", function (e) {
     e.preventDefault();
     var f = postForm, msg = $("post-msg"), btn = $("post-submit");
     var body = f.body.value.split(/\n\s*\n/).map(function (p) { return p.trim(); }).filter(Boolean);
     var owner = !f.source_name.value.trim();
-    var now = new Date().toISOString().replace(/\.\d+Z$/, "Z");
     var doc = {
       title: f.title.value.trim(),
       summary: f.summary.value.trim(),
@@ -41,22 +52,15 @@
       source_url: f.source_url.value.trim(),
       board: f.board.value,
       tags: f.tags.value.split(/[,，]/).map(function (t) { return t.trim(); }).filter(Boolean).slice(0, 4),
-      created: now,
       author: owner ? "站长" : ""
     };
-    var name = "inbox/" + now.slice(0, 10) + "-admin-" + Math.random().toString(16).slice(2, 10) + ".json";
     btn.disabled = true;
     msg.textContent = "提交中…";
-    fetch("https://api.github.com/repos/" + cfg.repo + "/contents/" + name, {
-      method: "PUT",
-      headers: { "Authorization": "Bearer " + getToken(), "Accept": "application/vnd.github+json" },
-      body: JSON.stringify({ message: "inbox: " + doc.title, content: b64(JSON.stringify(doc, null, 1)) })
-    }).then(function (r) {
-      if (r.status === 401 || r.status === 403 || r.status === 404) throw new Error("Token 无效或没有这个仓库的写权限（" + r.status + "）");
-      if (!r.ok) throw new Error("GitHub 返回 " + r.status);
+    send(doc, getPw()).then(function () {
       msg.textContent = "已提交！几分钟后自动发布。";
       f.reset();
     }).catch(function (err) {
+      if (/密码/.test(err.message)) { setPw(""); show(); }
       msg.textContent = "失败：" + err.message;
     }).then(function () { btn.disabled = false; });
   });

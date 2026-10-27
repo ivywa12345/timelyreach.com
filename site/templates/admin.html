@@ -6,11 +6,11 @@
   <p class="muted small">文章会保存到仓库的 <code>inbox/</code> 目录，几分钟内自动发布（发布后会出现在对应版块和首页）。</p>
 
   <form id="token-form" class="form" hidden>
-    <label>GitHub Token（只保存在这台浏览器里）
-      <input name="token" type="password" autocomplete="off" placeholder="github_pat_…" required>
+    <label>后台密码
+      <input name="token" type="password" autocomplete="current-password" required>
     </label>
-    <button class="btn" type="submit">保存</button>
-    <p class="muted small">在 GitHub → Settings → Developer settings → Fine-grained tokens 新建：Repository 只选 timelyreach.com，Permissions → Contents: Read and write。</p>
+    <button class="btn" type="submit">进入后台</button>
+    <p class="muted small">密码就是你在 GitHub 仓库 Secrets 里设置的 ADMIN_PASSWORD，验证后会记在这台浏览器里。</p>
     <p class="form-msg" id="token-msg" role="status"></p>
   </form>
 
@@ -28,7 +28,7 @@
     <label>标签（用逗号分隔，最多 4 个）<input name="tags" maxlength="60" placeholder="美股, 美联储"></label>
     <button class="btn" type="submit" id="post-submit">发布</button>
     <p class="form-msg" id="post-msg" role="status"></p>
-    <p class="muted small"><a href="#" id="token-reset">更换或清除 Token</a></p>
+    <p class="muted small"><a href="#" id="token-reset">退出后台</a></p>
   </form>
 </section>
 <script src="/static/js/admin.js" defer></script>

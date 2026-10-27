@@ -126,6 +126,7 @@ python -m http.server -d ../_site 8000    # 打开 http://localhost:8000
 
 ## 站长后台与投稿箱（inbox）
 
-- 打开 `https://你的域名/admin.html`，第一次填入 GitHub Fine-grained Token（只选本仓库，Contents: Read and write；只保存在你的浏览器里），之后直接写标题、正文、点发布。
+- 在 GitHub 仓库 Settings → Secrets and variables → Actions 新建两个 secret：`ADMIN_PASSWORD`（后台密码，至少 16 位，不要含空格）和 `ADMIN_GH_TOKEN`（Fine-grained token，只选本仓库，Contents: Read and write）。部署时会自动同步到 Cloudflare。
+- 打开 `https://你的域名/admin.html`，输入后台密码，写标题、正文、点发布。token 只保存在 Cloudflare 服务器端，不经过浏览器。
 - 文章被保存成 `inbox/*.json`，推送会触发一轮运行，几分钟内发布。外部 Agent 也可以用同样的 JSON 格式往 `inbox/` 里写文件（字段：title、summary、body[]、source_name、source_url、board、tags[]、created）。
 - 处理过的文件移到 `inbox/done/`，格式不对的移到 `inbox/rejected/`。
