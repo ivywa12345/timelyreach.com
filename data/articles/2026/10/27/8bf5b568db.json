@@ -1,0 +1,22 @@
+{
+ "key": "8bf5b568db",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2026?mod=rss_markets_main",
+ "title": "今日股市：布伦特原油下滑至每桶约110 $ ，聚焦中东",
+ "summary": "以色列大选可能在伊朗战争期间产生影响；美国股票期货趋于平静",
+ "body": [
+  "以色列大选可能在伊朗战争期间产生影响；美国股票期货趋于平静",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Stock Market Today: Brent Crude Slips to About $110 a Barrel With Mideast in Focus",
+ "lang": "en",
+ "published": "2026-10-27T09:21:34+00:00",
+ "created": "2026-10-27T13:09:12+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

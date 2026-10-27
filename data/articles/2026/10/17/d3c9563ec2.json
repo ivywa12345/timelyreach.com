@@ -2,20 +2,21 @@
  "key": "d3c9563ec2",
  "board": "news",
  "source_id": "wenxuecity",
- "source_name": "文学城",
+ "source_name": "综合新闻",
  "source_url": "https://www.wenxuecity.com/news/2026/10/17/126807647.html",
  "title": "俄勒冈校园枪击案枪手曾为特教学生 母子合影流出",
  "summary": "Griffin J. John II, 16, shot the glass out of a locked side door at Silver Rail Elementary in Bend, Oregon on Thursday a",
  "body": [
   "Griffin J. John II, 16, shot the glass out of a locked side door at Silver Rail Elementary in Bend, Oregon on Thursday and forced his way in. About a minute earlier he'd fired into a car in the parking lot. He walked into the first classroom he reached.",
-  "（以上为文学城内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+  "（以上为综合新闻内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
  ],
  "tags": [
-  "文学城"
+  "综合新闻"
  ],
  "original_title": "俄勒冈校园枪击案枪手曾为特教学生 母子合影流出",
  "lang": "zh",
  "published": "2026-10-17T05:17:28+00:00",
  "created": "2026-10-17T22:55:49+00:00",
- "rewriter": "free-translate"
+ "rewriter": "free-translate",
+ "show_link": false
 }

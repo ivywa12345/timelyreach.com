@@ -1,0 +1,22 @@
+{
+ "key": "98756fa8f9",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/russia-s-oil-exports-hit-a-one-month-high-amid-baltic-rebound",
+ "title": "在波罗的海反弹之际，俄罗斯石油出口触及一个月高位",
+ "summary": "普里莫尔斯克出货量上周强劲复苏，但还不足以推动四周的流量",
+ "body": [
+  "普里莫尔斯克出货量上周强劲复苏，但还不足以推动四周的流量",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Russia's Oil Exports Hit a One-Month High Amid Baltic Rebound",
+ "lang": "en",
+ "published": "2026-10-27T12:38:20+00:00",
+ "created": "2026-10-27T13:09:31+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

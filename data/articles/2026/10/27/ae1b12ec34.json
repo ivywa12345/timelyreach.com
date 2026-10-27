@@ -1,0 +1,22 @@
+{
+ "key": "ae1b12ec34",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/maruti-suzuki-profit-misses-estimate-as-costs-squeeze-margins",
+ "title": "随着高成本导致利润下降27% ， Maruti计划进一步提高价格",
+ "summary": "Maruti Suzuki India Ltd.正在考虑另一轮价格上涨，以保护其利润率，此前这家印度最大的汽车制造商报告称，由于投入成本上升，季度利润低于预期。",
+ "body": [
+  "Maruti Suzuki India Ltd.正在考虑另一轮价格上涨，以保护其利润率，此前这家印度最大的汽车制造商报告称，由于投入成本上升，季度利润低于预期。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Maruti Plans More Price Hikes as Profit Drops 27% on High Costs",
+ "lang": "en",
+ "published": "2026-10-27T10:08:59+00:00",
+ "created": "2026-10-27T13:09:34+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
