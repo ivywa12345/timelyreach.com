@@ -2,20 +2,21 @@
  "key": "dd79791481",
  "board": "news",
  "source_id": "wenxuecity",
- "source_name": "文学城",
+ "source_name": "HK01",
  "source_url": "https://www.wenxuecity.com/news/2026/10/23/126813907.html",
  "title": "特朗普先发制人 因候选人撞名提前入禀法院",
  "summary": "美国将于11月3日举行中期选举。司法部10月22日（周四）提前提出诉讼，试图阻止阿拉斯加州（Alaska）在民主党参议员候选人佩尔托拉（Mary Peltola）胜选的情况下认证选举结果，因为有两名共和党候选人，退休教师苏利文（Daniel",
  "body": [
   "美国将于11月3日举行中期选举。司法部10月22日（周四）提前提出诉讼，试图阻止阿拉斯加州（Alaska）在民主党参议员候选人佩尔托拉（Mary Peltola）胜选的情况下认证选举结果，因为有两名共和党候选人，退休教师苏利文（Daniel J. Sullivan Jr.）与现任参议员苏利文（Daniel S. Sullivan）的名字几乎相同，选民可能会在投票时感到困惑。 据路透社报道，这宗诉讼突显特朗普（Donald Trump，又译川普）政府有意挑战中期选举结果的意愿，而这场选举将决定美国参众两院的控制权，民主党须要比共和党多取4席，才能重夺参议院的控制权。",
-  "（以上为文学城内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+  "（以上为HK01内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
  ],
  "tags": [
-  "文学城"
+  "HK01"
  ],
  "original_title": "特朗普先发制人 因候选人撞名提前入禀法院",
  "lang": "zh",
  "published": "2026-10-23T06:19:08+00:00",
  "created": "2026-10-24T01:36:33+00:00",
- "rewriter": "free-translate"
+ "rewriter": "free-translate",
+ "show_link": false
 }

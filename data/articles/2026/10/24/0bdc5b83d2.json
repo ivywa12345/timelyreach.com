@@ -2,20 +2,21 @@
  "key": "0bdc5b83d2",
  "board": "news",
  "source_id": "wenxuecity",
- "source_name": "文学城",
+ "source_name": "中时电子报",
  "source_url": "https://www.wenxuecity.com/news/2026/10/24/126814698.html",
  "title": "涉嫌监控赖清德长子 张婉莹出庭否认间谍指控",
  "summary": "Alleged Chinese spy Wanying Zhang pleaded Not Guilty today. Case is set for trial Nov. 30. Her husband didn’t show up in",
  "body": [
   "Alleged Chinese spy Wanying Zhang pleaded Not Guilty today. Case is set for trial Nov. 30. Her husband didn’t show up in court, after prosecutors claimed in a filing that she had a romantic affair with her “co-conspirator,” Fatai Miao.",
-  "（以上为文学城内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+  "（以上为中时电子报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
  ],
  "tags": [
-  "文学城"
+  "中时电子报"
  ],
  "original_title": "涉嫌监控赖清德长子 张婉莹出庭否认间谍指控",
  "lang": "zh",
  "published": "2026-10-24T05:28:01+00:00",
  "created": "2026-10-24T21:38:02+00:00",
- "rewriter": "free-translate"
+ "rewriter": "free-translate",
+ "show_link": false
 }

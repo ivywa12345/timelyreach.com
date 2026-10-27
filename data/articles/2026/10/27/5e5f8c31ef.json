@@ -1,0 +1,22 @@
+{
+ "key": "5e5f8c31ef",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-7-led-by-chip-related-stocks-a902969d?mod=rss_markets_main",
+ "title": "日经指数上涨1.7% ，由芯片相关股票领涨",
+ "summary": "在Anthropic的IPO文书工作帮助缓解了对潜在人工智能泡沫的担忧之后，日本股市走高。",
+ "body": [
+  "在Anthropic的IPO文书工作帮助缓解了对潜在人工智能泡沫的担忧之后，日本股市走高。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Nikkei Rises 1.7%, Led by Chip-Related Stocks",
+ "lang": "en",
+ "published": "2026-10-27T00:50:00+00:00",
+ "created": "2026-10-27T02:05:35+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

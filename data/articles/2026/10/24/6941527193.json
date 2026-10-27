@@ -2,20 +2,21 @@
  "key": "6941527193",
  "board": "news",
  "source_id": "wenxuecity",
- "source_name": "文学城",
+ "source_name": "VOA美国之音",
  "source_url": "https://www.wenxuecity.com/news/2026/10/24/126814485.html",
  "title": "五角大楼宣布将孔子学院列为美国国家安全威胁",
  "summary": "The War Department has designated Confucius Institutes as a threat to our national security. https://t.co/bvMTUBwGei — S",
  "body": [
   "The War Department has designated Confucius Institutes as a threat to our national security. https://t.co/bvMTUBwGei — Secretary of War Pete Hegseth (@SecWar) October 23, 2026 美国战争部部长皮特·海格塞斯(Pete Hegseth)星期五(10月23日)宣布，五角大楼已经将美国大学校园内，由中国资助设立的孔子学院列为国家安全威胁。 海格塞斯星期五在一段视频讲话中表示，孔子学院是由中国政府支持的“所谓文化中心”，渗透到几乎美国每一个州的大学校园里。庆幸的是，美国国会在几年前立法禁止了这些孔子学院的运作。 但是孔子学院死灰复燃，以不同形式或名字继续出现在美国校园里，五角大楼决定将其列入威胁美国国家安全的机构名单。",
-  "（以上为文学城内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+  "（以上为VOA美国之音内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
  ],
  "tags": [
-  "文学城"
+  "VOA美国之音"
  ],
  "original_title": "五角大楼宣布将孔子学院列为美国国家安全威胁",
  "lang": "zh",
  "published": "2026-10-24T01:27:04+00:00",
  "created": "2026-10-24T18:10:27+00:00",
- "rewriter": "free-translate"
+ "rewriter": "free-translate",
+ "show_link": false
 }

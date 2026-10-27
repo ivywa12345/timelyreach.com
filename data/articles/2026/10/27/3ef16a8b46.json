@@ -1,0 +1,22 @@
+{
+ "key": "3ef16a8b46",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/asian-chip-stocks-rise-as-anthropic-ipo-filing-rekindles-ai-bets",
+ "title": "随着Anthropic IPO申请重新点燃AI赌注，亚洲芯片股上涨",
+ "summary": "亚洲半导体股上涨，因为Anthropic PBC的首次公开募股申请帮助投资者重新燃起了对人工智能交易的热情。",
+ "body": [
+  "亚洲半导体股上涨，因为Anthropic PBC的首次公开募股申请帮助投资者重新燃起了对人工智能交易的热情。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Asian Chip Stocks Rise as Anthropic IPO Filing Rekindles AI Bets",
+ "lang": "en",
+ "published": "2026-10-27T01:00:52+00:00",
+ "created": "2026-10-27T02:05:37+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
