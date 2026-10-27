@@ -1,0 +1,27 @@
+{
+ "key": "02f8a8750a",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/political/appeals-court-rejects-dojs-challenge-suspected-noncitizen-ballots-california",
+ "title": "美国联邦上诉法院驳回司法部请求：加州2万张涉嫌非公民选票暂不隔离！",
+ "summary": "联邦上诉法院以2比1的投票结果，驳回了特朗普政府要求紧急隔离加州2万张涉嫌非公民邮寄选票的请求。法院认为下级法院尚未裁决，且此举会在大选前造成选民混乱。加州州长纽森对此表示欢迎，而司法部则强调加州选举系统存在漏洞。",
+ "body": [
+  "近日，美国联邦第九巡回上诉法院（Ninth Circuit Court of Appeals）作出裁决，拒绝了特朗普政府（Trump administration）试图阻止加州统计约2万张涉嫌非公民邮寄选票的紧急请求。",
+  "此前，美国司法部（DOJ）向位于旧金山的第九巡回上诉法院提交了一项紧急申请，要求阻止加州清点这批选票。10月26日，由三名法官组成的小组以2比1的投票结果驳回了司法部的动议，理由是下级地区法院尚未对该案作出裁决，上诉法院目前缺乏管辖权。多数派法官马克·班尼特（Mark Bennett）和加布里埃尔·桑切斯（Gabriel Sanchez）指出，司法部在距离11月3日大选仅剩约一周时才提出紧急干预，这会给加州选民造成混乱，甚至可能让符合资格的选民被错误贴上非法投票的标签。不过，帕特里克·布马太（Patrick Bumatay）法官对此持反对意见，他在异议中表示，联邦法律应当防止非公民的选票与合法选票混在一起。",
+  "这场法律交锋源于司法部此前称加州未能完成对2万名被怀疑是非公民的邮寄选票持有者的审查。据了解，司法部此前已起诉了加州28名涉嫌进行选举相关违规的非公民（均为持有绿卡的合法永久居民，但无投票权），并将他们列入了上述2万人的名单中。加州州长加文·纽森（Gavin Newsom）在社交平台X上对上诉法院的裁决表示欢迎，指责特朗普攻击美国宪法和民主，并表示加州将继续回击。而加州中区联邦检察官比尔·埃萨利（Bill Essayli）则批评加州的邮寄选票系统缺乏身份证要求，存在助长欺诈的严重漏洞。"
+ ],
+ "tags": [
+  "加州选票",
+  "美国司法部",
+  "第九巡回上诉法院",
+  "2024大选",
+  "非公民投票"
+ ],
+ "original_title": "Appeals Court Rejects DOJ's Challenge To Suspected Noncitizen Ballots In California",
+ "lang": "en",
+ "published": "2026-10-27T19:30:00+00:00",
+ "created": "2026-10-27T20:25:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

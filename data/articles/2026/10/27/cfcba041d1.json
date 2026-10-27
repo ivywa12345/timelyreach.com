@@ -1,0 +1,27 @@
+{
+ "key": "cfcba041d1",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/kalshi-sets-2-500-monthly-deposit-limits-for-users-under-21",
+ "title": "炒预测市场也有门槛了？美国年轻人每个月最多只能充2500美元！",
+ "summary": "美国知名预测市场平台Kalshi宣布对18至20岁的年轻用户实施存款限制，每月最高只能存入2500美元。",
+ "body": [
+  "美国头部预测市场运营商Kalshi Inc.最近有了新动作，他们宣布对18岁到20岁的年轻用户群体收紧规则，设立了每月2,500美元的充值上限。",
+  "作为一家备受关注的预测市场平台，Kalshi此次主动为年轻用户踩刹车，主要是为了加强对年轻投资者的风控管理。虽然没有完全禁止年轻人参与，但限制了每月的资金流入额度，防止他们过度投机。",
+  "对于喜欢尝鲜的年轻华人群体或者留学生来说，参与这类平台时需要注意各大交易所不断收紧的合规政策，合理规划自己的资金，理性投资最重要。"
+ ],
+ "tags": [
+  "Kalshi",
+  "预测市场",
+  "投资理财",
+  "海外华人",
+  "金融监管"
+ ],
+ "original_title": "Kalshi Sets $2,500 Monthly Deposit Limits for Users Under 21",
+ "lang": "en",
+ "published": "2026-10-27T20:09:24+00:00",
+ "created": "2026-10-27T20:25:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

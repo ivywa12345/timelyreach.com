@@ -1,0 +1,27 @@
+{
+ "key": "e750c838dd",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/10/27/us-news/lax-people-mover-malfunctions-with-electrical-arc-flash-fire-amid-test/",
+ "title": "洛杉矶机场“空中列车”测试惊现大火球！开通又双叒叕要延期？",
+ "summary": "洛杉矶国际机场（LAX）备受瞩目的全自动运人列车（People Mover）在近期测试中发生严重的电气故障，迸发出巨大的电弧闪光并伴随火花和浓烟，导致本已多次延期的项目再次蒙上阴影。",
+ "body": [
+  "洛杉矶国际机场（LAX）投资高达33亿美元的全新全自动运人列车项目（SkyLink，原名Automated People Mover）近日流出一段惊悚视频。根据Fox LA获得的画面显示，在上个月下旬的一场常规测试中，轨道上突然发生了剧烈的电气爆炸，现场火光冲天并伴有浓烟。",
+  "列车专家蒂莫西·博尔彻斯（Timothy Borchers）看过视频后表示，这被称为“电弧闪光”（arc flash）或闪络，是由于电流路径出现电气问题导致的。他直言这是他见过最严重的闪络之一，可能引发灾难性的电气事故，且视频显示电气爆炸持续了相当长一段时间，并未能立即熄灭。不过，洛杉矶世界机场（Los Angeles World Airports）回应称，测试期间出现电弧闪光并不罕见。项目承包商LINXS也表示，系统完全按设计运行，目前系统演示测试已经重新启动。",
+  "这个全长2.25英里的自动化列车项目原本计划在2023年开通，旨在连接各大航站楼、经济型停车场、租车中心和洛杉矶地铁交通中心。然而由于多年延期和合同争议，项目成本从最初的19亿美元飙升至33.4亿美元。承包商此前已承认无法赶上12月的最后期限，开通时间不得不推迟到明年1月，甚至连1月这个日期也无法保证。项目目前虽已完成超过99%，但不仅面临法律诉讼和巨额超支，如今又添安全隐患，让经常往返LAX的南加州华人出行大感头疼。"
+ ],
+ "tags": [
+  "LAX",
+  "洛杉矶机场",
+  "空中列车",
+  "海外出行",
+  "美国生活"
+ ],
+ "original_title": "LAX’s embattled ‘People Mover’ malfunctions with massive arc flash during routine test of train",
+ "lang": "en",
+ "published": "2026-10-27T18:05:09+00:00",
+ "created": "2026-10-27T20:26:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

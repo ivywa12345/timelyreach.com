@@ -1,0 +1,25 @@
+{
+ "key": "f2760758c0",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/10/27/us-news/ted-bundy-connected-to-1974-murder-of-17-year-old-girl-in-utah-by-dna-evidence-police/",
+ "title": "尘封50年！美联社：臭名昭著的连环杀手邦迪通过DNA被确认为1974年犹他州少女谋杀案凶手",
+ "summary": "根据最新DNA证据，美国警方周二宣布，已故臭名昭著的连环杀手泰德·邦迪（Ted Bundy）被证实是1974年一名犹他州17岁少女谋杀案的真凶。这起案件尘封了半个多世纪。",
+ "body": [
+  "这年头，DNA技术的进步让很多陈年旧案（cold case）露出了原形。犹他州萨米特县（Summit County）的检察官在周二宣布，通过最新的DNA证据，调查人员终于确认臭名昭著的连环杀手泰德·邦迪（Ted Bundy）就是1974年杀害17岁少女梅丽莎·安·史密斯（Melissa Ann Smith）的凶手。这起案件在过去半个多世纪里一直是一桩悬案，当年她的遗体是一位猎人无意中发现的。",
+  "说起泰德·邦迪（Ted Bundy），他是美国历史上最臭名昭著的连环杀手之一。他在上世纪70年代曾在多个州杀害了至少30名女性，还有许多人侥幸逃生或受伤。虽然他早在1989年就在佛罗里达州因杀害两名女大学生而被执行电椅死刑，但随着DNA检测技术的不断发展，他名下的受害者名单至今仍在不断增加。"
+ ],
+ "tags": [
+  "美国新闻",
+  "连环杀手",
+  "DNA破案",
+  "陈年旧案"
+ ],
+ "original_title": "Ted Bundy connected to 1974 murder of 17-year-old girl in Utah by DNA evidence: police",
+ "lang": "en",
+ "published": "2026-10-27T19:25:13+00:00",
+ "created": "2026-10-27T20:26:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

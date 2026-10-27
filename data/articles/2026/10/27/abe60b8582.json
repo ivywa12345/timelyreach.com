@@ -1,0 +1,26 @@
+{
+ "key": "abe60b8582",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/israeli-oppositon-leader-eisenkot-leading-netanyahu-after-vote",
+ "title": "变天了？以色列民调出炉，内塔尼亚胡竟然落后了！",
+ "summary": "根据最新出口民调，以色列反对派领导人艾森科特在自2023年10月冲突以来的首次选举中，支持率超越了现任总理内塔尼亚胡。",
+ "body": [
+  "据彭博社（Bloomberg）报道，以色列政坛迎来大地震。自2023年10月爆发新一轮冲突以来的首次选举中，出口民调显示，反对派领导人加迪·艾森科特（Gadi Eisenkot）的支持率已经领先现任总理本杰明·内塔尼亚胡（Benjamin Netanyahu）。",
+  "这场选举是以色列在经历去年10月袭击后的首次政治风向标。长久以来稳坐政坛的内塔尼亚胡（Benjamin Netanyahu）面临着巨大的执政压力，而反对派代表艾森科特（Gadi Eisenkot）则借着选民对现状的不满实现了反超。",
+  "对于远在海外的华人来说，中东局势的动荡不仅关乎地缘政治，也可能牵动全球能源价格和资本市场的神经。后续政权若发生更迭，以色列的内外政策走向值得我们持续关注。"
+ ],
+ "tags": [
+  "以色列",
+  "内塔尼亚胡",
+  "中东局势",
+  "海外快讯"
+ ],
+ "original_title": "Israeli Opposition Leader Eisenkot Leading Netanyahu After Vote",
+ "lang": "en",
+ "published": "2026-10-27T20:10:57+00:00",
+ "created": "2026-10-27T20:25:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
