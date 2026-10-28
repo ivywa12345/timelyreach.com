@@ -1,0 +1,26 @@
+{
+ "key": "f4d477d929",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/uk-homebuilders-fall-as-first-time-buyer-support-disappoints",
+ "title": "英国政府新房贷计划雷声大雨点小？地产股直接跌惨了！",
+ "summary": "周三，英国最大几家房屋建筑商的股价集体大跌，因为英国政府公布了旨在帮助首次购房者的新政策细节，而该计划的预计放贷规模远低于以往的项目。",
+ "body": [
+  "周三（当地时间），英国股市的几大地产开发商股价集体下挫。这一切的导火索，是英国政府刚刚揭晓了一项旨在帮年轻人买首套房的新政策细节。",
+  "根据彭博社（Bloomberg）报道，虽然新政策号称要扶持首次购房者（First Time Buyer），但大家仔细一看数据发现，政府预计发放的贷款额度竟然比之前的旧计划少得多，妥妥的“雷声大雨点小”。",
+  "面对这个让人失望的预期，资本市场立刻用脚投票，导致各大房屋建筑商（Homebuilders）的股价应声下跌。"
+ ],
+ "tags": [
+  "英国房市",
+  "地产股",
+  "首次购房者",
+  "财经新闻"
+ ],
+ "original_title": "UK Homebuilders Fall as First Time Buyer Support Disappoints",
+ "lang": "en",
+ "published": "2026-10-28T15:37:34+00:00",
+ "created": "2026-10-28T17:12:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "8e8ec22946",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/europe/u-k-budget-keeps-government-on-track-to-stay-within-rules-421ae665?mod=rss_worldnews",
+ "title": "英国新预算案出炉：为了缩小赤字，这回又要勒紧裤腰带了？",
+ "summary": "英国政府公布了最新的税收和支出计划，旨在让财政赤字继续走在缩小的轨道上，但速度比之前预期的要慢。",
+ "body": [
+  "英国政府近日公布了全新的财政预算计划，涵盖了税收和公共开支的新安排。根据这项计划，政府将继续朝着缩小预算赤字的目标前进，不过实现这个目标的步伐会比此前预期的慢一些。",
+  "华尔街日报（Wall Street Journal）记者Paul Hannon指出，这份新预算案的核心，是在维持政府财政纪律的同时，调整了减赤的速度和节奏。"
+ ],
+ "tags": [
+  "英国经济",
+  "财政预算",
+  "赤字",
+  "税收政策"
+ ],
+ "original_title": "U.K. Budget Keeps Government on Track to Stay Within Rules",
+ "lang": "en",
+ "published": "2026-10-28T14:59:00+00:00",
+ "created": "2026-10-28T17:10:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "f18323afaa",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/trump-faces-another-loss-in-fight-over-taxpayer-funded-ads",
+ "title": "川普又吃官司！联邦法官叫停用纳税人的钱打电视广告",
+ "summary": "华盛顿联邦法官对川普政府动用纳税人资金播放赞美总统的电视广告一事下达了新的禁令，将原本的临时禁令范围进一步扩大。",
+ "body": [
+  "话说华盛顿的一位联邦法官最近又让川普（Trump）政府吃了个瘪。法官直接下达了新的禁令，彻底堵死了川普政府想用纳税人的钱来打电视广告、给总统脸上贴金的路子，把之前那项临时的禁令给正式扩大了。",
+  "简单来说，这笔钱本来是老百姓交的税，但政府却拿去拍电视广告宣传总统。现在法官觉得这么搞不合规，直接大手一挥给叫停了。",
+  "对于咱们海外华人来说，虽然这事儿属于美国政府的常规司法博弈，但也算是一场关于“纳税人的钱到底能不能这么花”的公开较量。后续这事儿会不会影响到政府预算的其他方面，咱们可以继续吃瓜围观。"
+ ],
+ "tags": [
+  "川普",
+  "美国政治",
+  "纳税人",
+  "联邦法官",
+  "新闻快讯"
+ ],
+ "original_title": "Trump Faces Another Loss in Fight Over Taxpayer-Funded Ads",
+ "lang": "en",
+ "published": "2026-10-28T15:54:22+00:00",
+ "created": "2026-10-28T17:13:32+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

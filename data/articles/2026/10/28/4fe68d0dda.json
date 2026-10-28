@@ -1,0 +1,25 @@
+{
+ "key": "4fe68d0dda",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/uk/u-k-s-budget-ducks-hard-choices-amid-market-concerns-over-debt-5aa7d1d6?mod=rss_worldnews",
+ "title": "英国新预算案出炉：加税加大撒币，这是要提前大选的节奏？",
+ "summary": "安迪·伯恩罕（Andy Burnham）政府近日推出了包含加税和增加支出的新预算案，在债务市场引发担忧的同时，也让外界猜测这可能是提前大选的前奏。",
+ "body": [
+  "安迪·伯恩罕（Andy Burnham）政府最近推出了最新的预算案，里面包含了加税和派发福利的举措。面对市场上对国家债务的种种担忧，这份预算案却显得有些避重就轻，没有做出艰难的抉择。",
+  "不过，外界普遍分析认为，这种“一边加税、一边撒钱”的操作，很有可能是政府在为提前举行大选做铺垫。"
+ ],
+ "tags": [
+  "英国政治",
+  "预算案",
+  "加税",
+  "大选"
+ ],
+ "original_title": "U.K. Budget Ducks Hard Choices Amid Market Concerns Over Debt",
+ "lang": "en",
+ "published": "2026-10-28T16:58:00+00:00",
+ "created": "2026-10-28T17:10:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

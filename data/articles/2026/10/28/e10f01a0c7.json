@@ -1,0 +1,26 @@
+{
+ "key": "e10f01a0c7",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/boston-office-tower-sells-for-546-million-discount-at-auction",
+ "title": "直接打折到只剩三成！波士顿写字楼法拍价惨遭“腰斩再腰斩”",
+ "summary": "一家房地产投资公司在法拍会上以三折的超低价格买下波士顿一栋写字楼，这直接暴露出疫情后商业地产估值的巨大缩水。",
+ "body": [
+  "话说美国商业地产这波寒气，真的是越来越刺骨了。根据彭博社（Bloomberg）的报道，最近波士顿（Boston）有一栋写字楼在法拍会上被一家房地产投资公司买下，成交价居然只有该楼在2019年购入价的三分之一！",
+  "这意味着什么？这栋楼的身价直接缩水了5.46亿美元。当年风光无限的高级写字楼，如今在疫情后居家办公常态化、写字楼空置率居高不下的现实面前，彻底沦为了“白菜价”。这次极端的交易，可以说是近年来商业地产估值崩盘的一个缩影。",
+  "对于咱们在海外打拼、或是关注美国经济的小伙伴来说，这类商业地产的持续暴雷不仅会冲击地方政府的税收，还可能给部分地方银行带来坏账压力。如果这种资产贬值潮继续蔓延，难免会对整体金融市场和经济大环境产生连带影响，大家在投资时还是得捂紧钱包，看清大势。"
+ ],
+ "tags": [
+  "美国经济",
+  "商业地产",
+  "波士顿",
+  "资产贬值"
+ ],
+ "original_title": "Boston Office Tower Sells for $546 Million Discount at Auction",
+ "lang": "en",
+ "published": "2026-10-28T16:45:48+00:00",
+ "created": "2026-10-28T17:12:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

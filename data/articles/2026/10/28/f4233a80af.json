@@ -1,0 +1,27 @@
+{
+ "key": "f4233a80af",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/uk-sticks-with-north-sea-windfall-tax-despite-industry-outcry",
+ "title": "英国政府“铁了心”！顶住能源巨头压力，北海暴利税明年照收不误",
+ "summary": "尽管遭到石油和天然气行业的强烈反对，英国政府依然决定继续对北海油气生产商征收暴利税，拒绝了行业要求明年取消该税的呼声。",
+ "body": [
+  "话说英国能源圈最近正闹得不可开交。根据彭博社（Bloomberg）报道，英国政府态度非常坚决，决定继续对北海（North Sea）的石油和天然气生产商征收暴利税（Windfall Tax），完全不理会行业内希望明年彻底废除这笔税收的各种呼声。",
+  "长期以来，北海的油气能源企业一直在向政府施压，认为这项额外的税收严重打击了投资积极性，要求按计划在明年取消。但从目前的情况来看，政府为了财政收入，并没有松口的打算。",
+  "对于海外华人来说，能源税收政策的走向往往直接牵动着当地的通胀和生活成本。英国这波“顶风作案”继续收税的操作，未来是否会转嫁到消费者的电费和油费账单上，还有待观察，远在海外的大家平时也得多留意自家的生活开销。"
+ ],
+ "tags": [
+  "英国新闻",
+  "北海油气",
+  "暴利税",
+  "海外生活",
+  "能源政策"
+ ],
+ "original_title": "UK Sticks With North Sea Windfall Tax Despite Industry Outcry",
+ "lang": "en",
+ "published": "2026-10-28T14:41:41+00:00",
+ "created": "2026-10-28T17:12:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

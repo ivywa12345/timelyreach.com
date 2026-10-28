@@ -1,0 +1,27 @@
+{
+ "key": "0e86802959",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-extreme-networks-to-pay-2-5-million-over-sales-to-russian-missile-maker-ec74931d?mod=rss_markets_main",
+ "title": "卖军工零件给俄罗斯？这家美企乖乖交了250万罚款！",
+ "summary": "极限网络公司（Extreme Networks）因向俄罗斯导弹制造商违规出售产品，同意支付250万美元罚金。同时，英国反欺诈办公室正借鉴美国建立吹哨人计划，而美国SEC的执法活动近期下降了57%。",
+ "body": [
+  "最近，网络设备供应商极限网络公司（Extreme Networks）摊上大事了。根据《华尔街日报》报道，该公司因为把产品卖给了一家俄罗斯导弹制造企业，违反了美国的出口管制规定，最终同意支付250万美元的罚款来平息此事。",
+  "除了这起出口违规案，执法界还有不少新动向。英国严重欺诈办公室（SFO）目前正在向美国取经，准备建立自己的吹哨人（内部举报）奖励计划，鼓励更多人内幕爆料。与此同时，一份最新报告显示，美国证券交易委员会（SEC）的执法活动大幅下降了57%。",
+  "对于海外华人特别是从事高科技、贸易和金融行业的从业者来说，美国对俄出口管制和合规审查依然是个高压线。平时做生意或在跨国公司工作时，一定要守住合规底线，千万别踩雷，以免给公司和个人带来严重的法律麻烦。"
+ ],
+ "tags": [
+  "美国制裁",
+  "出口管制",
+  "极限网络",
+  "俄罗斯",
+  "合规风险"
+ ],
+ "original_title": "The Morning Risk Report: Extreme Networks to Pay $2.5 Million Over Sales to Russian Missile Maker",
+ "lang": "en",
+ "published": "2026-10-28T11:30:00+00:00",
+ "created": "2026-10-28T17:11:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

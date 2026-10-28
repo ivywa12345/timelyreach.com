@@ -1,0 +1,27 @@
+{
+ "key": "1598e2763a",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/tech-rally-continues-treasurys-weaken-ahead-of-fed-decision-bbc5771d?mod=rss_markets_main",
+ "title": "科技股狂欢降温！纳斯达克微跌，道指标普表现如何？",
+ "summary": "由于Anthropic传出IPO消息带动的科技股狂欢情绪消退，纳斯达克指数周三收盘小幅下跌，而道琼斯工业平均指数和标普500指数则录得微涨。",
+ "body": [
+  "最近科技股的热情好像有点降温了。根据《华尔街日报》报道，由于之前由人工智能公司 Anthropic 准备IPO（首次公开募股）消息所点燃的科技股狂欢逐渐冷却，纳斯达克综合指数在盘中显得有些后劲不足，最终小幅收跌。",
+  "不过，整个大盘并非一片惨淡。在科技股暂时歇息的同时，道琼斯工业平均指数和标普500指数却逆势微涨，表现相对稳健，说明资金在不同板块之间进行了一定的轮动。",
+  "对于咱们关注美股的海外华人来说，科技股一直是大家资产配置里的重头戏。这种板块之间的此消彼长提醒我们，市场风向变得挺快，单一押注科技股的波动风险不小，日常投资还得注意分散配置，看紧自己的钱包。"
+ ],
+ "tags": [
+  "美股",
+  "纳斯达克",
+  "科技股",
+  "海外理财",
+  "华尔街日报"
+ ],
+ "original_title": "Nasdaq Edges Lower as Tech Rally Stalls Out",
+ "lang": "en",
+ "published": "2026-10-28T16:25:00+00:00",
+ "created": "2026-10-28T17:11:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

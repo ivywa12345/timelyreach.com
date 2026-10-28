@@ -1,0 +1,27 @@
+{
+ "key": "e2142a4e59",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/el-nino-rains-in-brazil-threaten-start-to-next-sugar-season",
+ "title": "厄尔尼诺大雨袭扰巴西！全球糖价又要坐过山车？",
+ "summary": "由于厄尔尼诺现象带来持续暴雨，全球最大食糖出口国巴西的甘蔗收割严重受阻，糖厂出现积压，并可能威胁到下一季的开局。",
+ "body": [
+  "最近爱吃甜的朋友可能得注意了！根据彭博社的报道，由于厄尔尼诺现象（El Niño）引发的强降雨，全球最大的食糖出口国巴西，目前正遭遇甘蔗收割难的头疼问题。",
+  "据了解，由于大雨连连，甘蔗地里泥泞不堪，收割进度被迫严重滞后。这不仅导致大批甘蔗无法及时采收，还造成了糖厂的加工大排长龙。如果这种延误持续下去，不仅会影响当前的产量，甚至连下一季的生产节奏都会被打乱，供应面临严峻考验。",
+  "对于海外华人来说，粮食和糖类等大宗商品的供应波动，往往最终会直接反映在超市的食品货架和日常开销上。看来接下来的日子里，甜食和含糖饮品的钱包开销还得再多留意一下了。"
+ ],
+ "tags": [
+  "巴西",
+  "厄尔尼诺",
+  "食糖",
+  "海外生活",
+  "财经速递"
+ ],
+ "original_title": "El Niño Rains in Brazil Threaten Start to Next Sugar Season",
+ "lang": "en",
+ "published": "2026-10-28T10:00:00+00:00",
+ "created": "2026-10-28T17:12:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
