@@ -1,0 +1,28 @@
+{
+ "key": "40182902d8",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/10/28/us-news/two-college-students-missing-after-going-on-ice-mountain-hike-as-search-team-makes-devastating-discoveries/",
+ "title": "科罗拉多州两名大学生雪山徒步失联！搜救队发现被雪压塌的帐篷，黄金救援时间正飞速流逝",
+ "summary": "科罗拉多州两名大学生上周末前往冰山（Ice Mountain）进行雪地徒步时失踪，搜救人员周二在现场发现了他们被大雪压塌的帐篷，目前正全力搜寻两人的下落。",
+ "body": [
+  "科罗拉多州两名大学生上周末结伴去雪山徒步，结果神秘失踪。当地警方表示，找到他们的黄金救援时间正在快速流逝。",
+  "根据查菲县（Chaffee County）警长办公室的消息，失联的两人分别是19岁的卡登·马苏达（Kaden Matsuda）和20岁的杰克逊·唐隆（Jackson Donlon）。他们于上周五（Friday）离开科罗拉多山地学院（Colorado Mountain College）利德维尔（Leadville）校区，前往落基山脉东坡、海拔近1.4万英尺的冰山（Ice Mountain）进行背包徒步探险。",
+  "据朋友透露，两人原本计划如果感觉不安全就在周六返回，如果天气好则在周日返回。然而天公不作美，周六下午1点左右，当地天气突然从雨转为大雪，导致道路状况“极其糟糕”。",
+  "周二，搜救队出动直升机在搜寻区域进行地毯式搜索，结果发现了一个被积雪压塌的帐篷，里面还留着他们的睡袋和衣物，但两名学生却不见踪影。"
+ ],
+ "tags": [
+  "科罗拉多",
+  "失踪",
+  "大学生",
+  "徒步",
+  "搜救"
+ ],
+ "original_title": "Two college students missing after going on Ice Mountain hike as search team makes devastating discoveries",
+ "lang": "en",
+ "published": "2026-10-28T16:55:20+00:00",
+ "created": "2026-10-28T16:56:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

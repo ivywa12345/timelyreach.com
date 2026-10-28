@@ -1,0 +1,25 @@
+{
+ "key": "81699ddbee",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/chinas-electric-carmakers-are-running-out-of-domestic-buyers-ce6c581d?mod=rss_markets_main",
+ "title": "国内卷不动了？中国电车巨头面临国内买家见顶挑战",
+ "summary": "华尔街日报报道指出，中国的电动汽车制造商正面临国内买家逐渐枯竭的困境，这可能促使它们进一步加速开拓海外市场。",
+ "body": [
+  "根据《华尔街日报》编辑 Emma Tucker 的最新报道，中国的电动汽车制造商（Electric Carmakers）目前正面临着国内买家逐渐减少的严峻挑战。随着国内市场竞争日益白热化，车企们不得不开始寻找新的增长点。",
+  "业内分析认为，国内市场的饱和意味着车企必须在海外寻找出路。对于在海外的华人来说，这意味着未来可能在当地街头看到更多性价比极高的中国新能源汽车，同时也可能对当地的汽车市场和油价产生一定影响。不过，这也伴随着贸易壁垒和本地化服务的挑战。"
+ ],
+ "tags": [
+  "中国电车",
+  "海外出路",
+  "新能源汽车",
+  "华尔街日报"
+ ],
+ "original_title": "China’s Electric Carmakers Are Running Out of Domestic Buyers",
+ "lang": "en",
+ "published": "2026-10-28T10:07:00+00:00",
+ "created": "2026-10-28T16:53:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

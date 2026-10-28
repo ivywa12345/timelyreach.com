@@ -1,0 +1,27 @@
+{
+ "key": "550b6a2eaf",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/wall-street-empieza-a-atragantarse-con-la-gigantesca-ola-de-deuda-de-la-ia",
+ "title": "华尔街开始“吃不消”了？AI烧钱大战迎来借贷瓶颈！",
+ "summary": "根据彭博社报道，为人工智能（AI）狂潮提供资金正变得越来越困难。随着收益率攀升、银行接近风险敞口极限，投资者对承担风险的要求也越来越高。",
+ "body": [
+  "据彭博社（Bloomberg）报道，这场烧钱无极限的AI军备竞赛，最近在华尔街遇到了不小的麻烦。简单来说，借钱搞AI没那么容易了。",
+  "目前市场上的情况是，各类借贷的收益率正在不断上升，各大银行也逐渐逼近了各自的风险敞口上限。面对源源不断的巨额债务需求，投资者们现在变得更加挑剔，要求更高的回报才肯接盘。",
+  "对于关注科技股和宏观经济的海外华人来说，AI基础设施的融资成本上升，可能意味着相关科技公司的扩张步伐将受到资金面的实质性考验，进而影响到整体市场情绪和投资回报。"
+ ],
+ "tags": [
+  "人工智能",
+  "华尔街",
+  "金融市场",
+  "科技投资",
+  "AI融资"
+ ],
+ "original_title": "Wall Street empieza a atragantarse con la gigantesca ola de deuda de la IA",
+ "lang": "en",
+ "published": "2026-10-28T15:57:48+00:00",
+ "created": "2026-10-28T16:54:30+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

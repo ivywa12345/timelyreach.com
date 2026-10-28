@@ -1,0 +1,26 @@
+{
+ "key": "9ed5115849",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/healey-to-scrap-uk-s-standing-charges-on-gas-bills",
+ "title": "英国政府放大招补贴电费，但代价是砍掉10亿英镑绿色环保预算？",
+ "summary": "英国政府推出了一揽子新措施，旨在帮民众抵御未来可能飙升的能源账单，但同时决定削减10亿英镑（约合13亿美元）用于房屋清洁供暖和节能改造的绿色项目资金。",
+ "body": [
+  "据彭博社报道（Jessica Shankleman、Eamon Akil Farhat和Chloe Chaplain联合报道），英国政府最近提出了一套能源减负方案，主要是为了防止老百姓再次面临沉重的能源账单压力。",
+  "不过，这份计划的代价是牺牲了一部分环保支出。政府决定从那些旨在让房屋更环保、取暖成本更低的改造项目中，直接削减10亿英镑（约合13亿美元）的资金。",
+  "对于海外华人朋友来说，虽然短期内能看到政府出手缓解能源账单的压力，但环保补贴的缩水也意味着未来想要升级房屋节能设备，可能没那么容易拿到政府支持了。"
+ ],
+ "tags": [
+  "英国能源",
+  "生活成本",
+  "海外热点",
+  "政策变动"
+ ],
+ "original_title": "UK Offers Energy Bill Relief While Cutting Green Spending",
+ "lang": "en",
+ "published": "2026-10-28T07:07:13+00:00",
+ "created": "2026-10-28T16:55:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

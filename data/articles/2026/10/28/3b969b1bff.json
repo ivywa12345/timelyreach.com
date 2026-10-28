@@ -1,0 +1,25 @@
+{
+ "key": "3b969b1bff",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/americas/flavio-bolsonaro-fled-brazil-to-argentina-boarded-flight-to-ecuador-6a0e9da0?mod=rss_worldnews",
+ "title": "刚在巴西落败，前总统博索纳罗就飞去了迈阿密！",
+ "summary": "巴西前总统博索纳罗在败选后搭机抵达迈阿密。他在国内面临两项刑事调查，其护照此前已被取消。",
+ "body": [
+  "话说刚在总统大选中落败的巴西前总统博索纳罗（Jair Bolsonaro），最近悄悄离开了祖国，人已经到了美国迈阿密。",
+  "根据外媒报道，博索纳罗目前在老家巴西正焦头烂额，面临着两项刑事调查，而且当地此前还取消了他的护照。这回跑到迈阿密避风头，后续局势到底会怎么发展，还得看两国的进一步动向。"
+ ],
+ "tags": [
+  "博索纳罗",
+  "巴西政治",
+  "迈阿密",
+  "海外新闻"
+ ],
+ "original_title": "Bolsonaro Lands in Miami After Fleeing Brazil",
+ "lang": "en",
+ "published": "2026-10-28T14:09:00+00:00",
+ "created": "2026-10-28T16:51:30+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

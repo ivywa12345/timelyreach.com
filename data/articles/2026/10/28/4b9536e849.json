@@ -1,0 +1,26 @@
+{
+ "key": "4b9536e849",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/israel-braces-for-uncertainty-with-early-results-pointing-to-deadlock-ce284c9d?mod=rss_worldnews",
+ "title": "以色列大选又双叒僵局了？内塔尼亚胡联盟领先，但想组阁还差口气！",
+ "summary": "根据《华尔街日报》报道，以色列大选已统计了四分之三以上的选票，现任总理内塔尼亚胡的联盟虽然暂时领先，但依然没有达到组建政府所需的61个议席。",
+ "body": [
+  "以色列政坛又要陷入新一轮的不确定性了吗？根据《华尔街日报》记者Feliz Solomon的报道，随着大选超过四分之三的选票完成统计，现任总理本杰明·内塔尼亚胡（Benjamin Netanyahu）领导的联盟虽然在目前的计票中处于领先地位，但依然没能跨过61个议席的门槛，无法直接拿下组建政府的多数席位。",
+  "长期以来，以色列政坛的分裂导致组阁难产已经成了“家常便饭”。这次选举结果再次陷入僵局，意味着各方势力的拉锯战还将继续，未来究竟谁能成功掌权、组建新政府，目前都还是个未知数。",
+  "对于远在海外的华人来说，中东地区的政局动荡往往牵动着全球能源价格和地缘政治的神经。后续政权能否稳定，也将直接影响到当地的经济走势和安全局势。"
+ ],
+ "tags": [
+  "以色列大选",
+  "内塔尼亚胡",
+  "中东政局",
+  "海外快讯"
+ ],
+ "original_title": "Israel Braces for Uncertainty With Early Election Results Pointing to Deadlock",
+ "lang": "en",
+ "published": "2026-10-28T11:39:00+00:00",
+ "created": "2026-10-28T16:51:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

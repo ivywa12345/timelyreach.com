@@ -1,0 +1,27 @@
+{
+ "key": "cfb5c0bb58",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/baltic-pushed-brokers-to-submit-rates-during-war-court-told",
+ "title": "波罗的海交易所聊天记录曝光：为了催出运费报价，威逼利诱都用上了？",
+ "summary": "根据法庭披露的信息，在伊朗战争爆发后，波罗的海交易所的一名运费评估员曾向经纪人坦言，需要进行“一定程度的劝说和霸凌”，才能让各大公司提供油轮运费率。",
+ "body": [
+  "最近法庭上爆出的一则消息挺有意思。根据彭博社（Bloomberg）报道，波罗的海交易所（Baltic Exchange）的一名运费评估员在伊朗战争爆发后，曾对一名经纪人直言不讳，称为了让各家公司乖乖交出油轮运费率，必须进行“一定程度的劝说和霸凌（cajoling and bullying）”。",
+  "这桩猛料揭示了国际航运场在面对突发地缘政治冲突时，运费数据收集背后的混乱与压力。当时战争一爆发，市场瞬息万变，如何准确评估油轮运费成了大难题，交易所工作人员为了拿到一手数据，甚至不得不采取强硬手段向业内施压。",
+  "对于咱们海外华人来说，这类国际大宗商品和航运市场的动荡，最终往往会通过供应链传导到终端消费品上。油轮运费蹭蹭涨，石油和各类进口物资的成本也就跟着水涨船高，大家的油瓶子和钱包难免又要受到一波波及。"
+ ],
+ "tags": [
+  "航运",
+  "波罗的海交易所",
+  "油轮运费",
+  "供应链",
+  "海外华人"
+ ],
+ "original_title": "Baltic Pushed Brokers to Submit Rates During War, Court Told",
+ "lang": "en",
+ "published": "2026-10-28T16:01:01+00:00",
+ "created": "2026-10-28T16:54:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

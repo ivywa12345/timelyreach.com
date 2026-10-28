@@ -1,0 +1,25 @@
+{
+ "key": "6dbbeb725b",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=rss_markets_main",
+ "title": "老牌知名律所Weil Gotshal撑不下去了？传高层正商讨关闭公司",
+ "summary": "曾经风光无限的老牌律所Weil Gotshal因遭遇多名核心合伙人跳槽以及合并谈判破裂，目前管理层正面临艰难抉择，讨论逐步关闭律所的计划。",
+ "body": [
+  "根据《华尔街日报》记者Erin Mulvaney报道，曾在一众法律机构中名声显赫的威科（Weil Gotshal）律所，近期遭遇了一连串高管和核心律师的高调跳槽（high-profile defections），可以说是元气大伤。祸不单行的是，他们此前寄予厚望的合并谈判也以失败告终。",
+  "在经历了人才流失和合并泡汤的双重打击后，这家老牌律所发现自己已经几乎没有了其他可行的出路。目前，律所领导层正在严肃讨论关闭公司（wind down law firm）的具体计划。"
+ ],
+ "tags": [
+  "法律行业",
+  "职场动态",
+  "商业新闻",
+  "海外动态"
+ ],
+ "original_title": "Weil Gotshal Leaders Discussing Plan to Wind Down Law Firm",
+ "lang": "en",
+ "published": "2026-10-28T16:31:00+00:00",
+ "created": "2026-10-28T16:52:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

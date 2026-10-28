@@ -1,0 +1,27 @@
+{
+ "key": "013d9bdb62",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/geopolitical/least-30-dead-after-high-speed-train-collide-south-madrid",
+ "title": "西班牙突发高铁追尾！马德里南部两车相撞，已致至少64人死亡",
+ "summary": "西班牙中部马德里南部发生一起极其严重的高铁追尾事故，国营的Renfe列车撞上了停在轨道上的私营Iryo列车。最新死亡人数已上升至64人，另有大量人员受伤，成为该国近年最惨重的铁路事故之一。",
+ "body": [
+  "周三（10月28日），西班牙中部托莱多省（Toledo province）发生了一起震惊全国的高铁相撞事故。一辆高速行驶的列车狠狠撞上了前方一辆停在轨道上的列车，现场残骸画面随后在社交媒体X上流传，情况惨烈。",
+  "根据外媒最新报道与官方通报，事故涉及两家运营商：国营的Renfe列车当时载有397名乘客，私营的Iryo列车载有146名乘客。西班牙媒体初步指出，是Renfe列车追尾了Iryo列车。西班牙卫生大臣莫妮卡·加西亚（Mónica García）在接受国家电视台TVE采访时表示：“这是一次高速撞击，我们预料这是一场悲剧。”她透露，伤亡最惨重的是在撞击中被压扁的两节车厢。",
+  "随着搜救和统计的深入，死亡人数已经攀升至至少64人，这也让此次事故成为西班牙近年来最致命的铁路灾难之一。卡斯蒂利亚-拉曼恰（Castilla-La Mancha）地区发言人埃斯特尔·帕迪拉（Esther Padilla）此前就曾警告称死亡人数还会继续上升。值得注意的是，这已经是今年西班牙铁路系统发生的又一重大安全事故，今年1月南部曾发生过一起导致45人死亡的脱轨事故，当时也涉及Renfe和Iryo的列车。西班牙历史上最惨重的铁路事故则发生在2013年，当时造成80人死亡。"
+ ],
+ "tags": [
+  "西班牙高铁事故",
+  "交通安全",
+  "突发新闻",
+  "Renfe",
+  "Iryo"
+ ],
+ "original_title": "At Least 30 Dead After High-Speed Train Collide South Of Madrid",
+ "lang": "en",
+ "published": "2026-10-28T11:10:00+00:00",
+ "created": "2026-10-28T16:56:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

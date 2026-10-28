@@ -1,0 +1,27 @@
+{
+ "key": "a5425548fa",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/europe/spain-high-speed-rail-crash-kills-at-least-10-6c4fda57?mod=rss_worldnews",
+ "title": "西班牙一年内连出两起高铁惨剧！马德里南部列车相撞已致数十人死",
+ "summary": "西班牙马德里南部发生严重高铁相撞事故，造成至少68人死亡。",
+ "body": [
+  "根据《华尔街日报》报道，西班牙首都马德里南部近日发生了一起惨烈的高铁相撞事故，两列火车不幸正面碰撞，目前已造成至少68人死亡。这也是该国今年发生的第二起高铁重大事故。",
+  "目前事故的具体原因和相关细节仍在调查中，有关部门正在全力搜救伤员并处理善后事宜。",
+  "对于近期有计划前往欧洲或西班牙旅行的海外华人来说，出行时一定要多关注当地的交通安全和铁路运营状况，确保行程安全。"
+ ],
+ "tags": [
+  "西班牙",
+  "高铁事故",
+  "马德里",
+  "海外快讯",
+  "交通安全"
+ ],
+ "original_title": "Spain’s Second High-Speed Train Crash This Year Leaves Dozens Dead",
+ "lang": "en",
+ "published": "2026-10-28T16:03:00+00:00",
+ "created": "2026-10-28T16:50:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
