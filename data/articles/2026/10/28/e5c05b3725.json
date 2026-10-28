@@ -1,0 +1,27 @@
+{
+ "key": "e5c05b3725",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-houthi-militants-target-saudi-energy-45c38fe0?mod=rss_worldnews",
+ "title": "突发！沙特核心炼油厂遭弹道导弹袭击，油价应声上涨",
+ "summary": "胡塞武装于周二宣称，他们使用弹道导弹袭击了沙特阿拉伯东部省份的拉斯坦努拉炼油厂，受此地缘政治紧张局势影响，国际油价随之走高。",
+ "body": [
+  "据《华尔街日报》报道，也门胡塞武装（Houthis）在周二表示，他们已经用一枚弹道导弹击中了沙特阿拉伯东部省份（Eastern Province）的拉斯坦努拉（Ras Tanura）炼油厂。",
+  "作为沙特石油基础设施的核心部分，这一袭击事件迅速引发了市场对中东能源供应安全的担忧，推动国际油价在消息传出后出现上涨。",
+  "对于远在海外的华人来说，中东局势动荡和油价波动往往会直接传导至生活成本中，特别是日常加油和开车的油费开支可能面临上涨压力，大家近期可以多留意能源市场的变化。"
+ ],
+ "tags": [
+  "油价",
+  "沙特",
+  "胡塞武装",
+  "中东局势",
+  "海外生活"
+ ],
+ "original_title": "Oil Prices Rise as Houthi Militants Target Saudi Energy",
+ "lang": "en",
+ "published": "2026-10-28T07:51:00+00:00",
+ "created": "2026-10-28T09:39:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

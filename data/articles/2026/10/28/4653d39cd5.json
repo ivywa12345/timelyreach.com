@@ -1,0 +1,25 @@
+{
+ "key": "4653d39cd5",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/adani-flagship-returns-to-profit-as-newer-businesses-deliver",
+ "title": "阿达尼旗舰企业第二季度扭亏为盈，机场和数据中心业务立大功！",
+ "summary": "印度亿万富翁Gautam Adani旗下的Adani Enterprises Ltd.凭借机场和数据中心等新业务的规模化发展，在第二季度成功实现扭亏为盈。",
+ "body": [
+  "据彭博社报道，印度富豪Gautam Adani旗下的旗舰企业阿达尼企业有限公司（Adani Enterprises Ltd.）在第二季度交出了亮眼的成绩单，成功实现了从亏损到盈利的转变。",
+  "这家公司能够扭亏为盈，主要归功于其近年来大力拓展的新业务板块，特别是机场运营和数据中心等领域的业务规模不断扩大，为公司带来了强劲的增长动力。"
+ ],
+ "tags": [
+  "阿达尼",
+  "印度经济",
+  "企业财报",
+  "海外财经"
+ ],
+ "original_title": "Adani Flagship Returns to Profit as Newer Businesses Deliver",
+ "lang": "en",
+ "published": "2026-10-28T08:12:23+00:00",
+ "created": "2026-10-28T09:40:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

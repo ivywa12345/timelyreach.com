@@ -1,0 +1,26 @@
+{
+ "key": "b5489d591a",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/economy/consumers/german-consumers-grow-slightly-gloomier-on-lingering-inflation-concerns-a15a9232?mod=rss_worldnews",
+ "title": "通胀还没完！德国人对未来钱包更没底了",
+ "summary": "德国消费者信心指数在11月预测中微跌至负30.8点，显示民众对持续的通货膨胀依然充满担忧。",
+ "body": [
+  "根据《华尔街日报》报道，德国消费者的好日子感觉还远得很。根据最新的消费者气候指数预测，11月份的指数从10月份的负30.6微跌到了负30.8。",
+  "虽然只是小幅下降，但这反映出德国老百姓对钱包缩水和持续的通货膨胀依然心有余悸，大家花钱变得更加谨慎了。",
+  "对海外华人来说，欧洲经济的晴雨表往往折射出全球宏观经济的走向。通胀高企和消费者信心不足，也提醒着大家在日常理财和投资时需要更加保守稳健。"
+ ],
+ "tags": [
+  "德国经济",
+  "通货膨胀",
+  "消费者信心",
+  "海外财经"
+ ],
+ "original_title": "German Consumers Grow Slightly Gloomier on Lingering Inflation Concerns",
+ "lang": "en",
+ "published": "2026-10-28T07:11:00+00:00",
+ "created": "2026-10-28T09:39:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

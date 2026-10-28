@@ -1,0 +1,27 @@
+{
+ "key": "417af80e04",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/turkey-cancels-license-of-brokerage-at-heart-of-fund-crisis",
+ "title": "爆雷了！土耳其直接吊销核心券商牌照，基金危机持续大地震",
+ "summary": "土耳其市场监管机构正式取消了Tera Yatirim Menkul Degerler券商的牌照，并暂停其股票交易。这是该国持续处理基金危机、整顿核心涉事券商的重要一步。",
+ "body": [
+  "据彭博社报道（作者 Tugce Ozsoy），土耳其金融市场正在经历大地震。土耳其市场监管机构日前宣布，正式取消Tera Yatirim Menkul Degerler券商的经营牌照，并全面暂停其股票交易。",
+  "这次被拔掉牌照的这家券商，正是近期轰动全市场的土耳其基金危机的核心涉事机构。监管部门目前的动作，实际上是持续拆解和整顿这家问题券商的关键一步。",
+  "虽然这场风暴发生在遥远的土耳其，但对于关注国际金融市场和新兴市场投资的海外华人来说，这也是一个提醒：在海外配置资产时，务必关注当地金融机构的合规风险与市场波动，看紧自己的钱袋子。"
+ ],
+ "tags": [
+  "土耳其",
+  "基金危机",
+  "券商牌照",
+  "金融监管",
+  "海外财经"
+ ],
+ "original_title": "Turkey Cancels License of Brokerage at Heart of Fund Crisis",
+ "lang": "en",
+ "published": "2026-10-28T08:46:31+00:00",
+ "created": "2026-10-28T09:40:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

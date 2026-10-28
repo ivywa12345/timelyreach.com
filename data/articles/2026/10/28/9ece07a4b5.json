@@ -1,0 +1,27 @@
+{
+ "key": "9ece07a4b5",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/banking/ai-boom-drives-a-jump-in-lending-but-bankers-still-sound-cautious-78bd7a58?mod=rss_markets_main",
+ "title": "AI浪潮火了！银行借贷需求大增，但为啥这帮金融大佬还在疯狂敲警钟？",
+ "summary": "大型银行和区域性银行都在搭乘AI借贷的热潮，但银行家们的态度却十分谨慎。",
+ "body": [
+  "最近这股AI热潮不仅让科技圈赚得盆满钵满，连银行也跟着沾光了！根据《华尔街日报》报道，不管是华尔街的大行，还是地方上的区域性银行，最近都在疯狂发放跟AI相关的贷款，业务可以说是相当火爆。",
+  "不过，虽然钱借出去了，银行家们心里却并不踏实。据《华尔街日报》专栏作家 Telis Demos 分析，尽管AI借贷迎来了大涨，银行内部对这波狂热依然保持着高度的警惕和谨慎。",
+  "对于咱们海外华人来说，AI行业的每一次资金异动，其实都跟咱们的钱包、职业发展紧密相连。虽然AI前景看好，但金融机构的谨慎态度也提醒大家，在这波科技热潮中，不管是投资还是找工作，都还得保持几分清醒。"
+ ],
+ "tags": [
+  "AI浪潮",
+  "银行借贷",
+  "华尔街",
+  "海外华人",
+  "科技投资"
+ ],
+ "original_title": "AI Boom Drives a Jump in Lending, but Bankers Still Sound Cautious",
+ "lang": "en",
+ "published": "2026-10-28T09:30:00+00:00",
+ "created": "2026-10-28T09:39:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

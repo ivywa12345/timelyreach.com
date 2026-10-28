@@ -1,0 +1,27 @@
+{
+ "key": "b1d14d20c2",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
+ "title": "美联储利率决议前夕：科技股带头冲，纳斯达克期货先涨为敬！",
+ "summary": "美联储即将公布利率决定之际，市场普遍预计利率将保持不变。受芯片大厂SK海力士（SK Hynix）亮眼财报的提振，纳斯达克期货率先走高。",
+ "body": [
+  "美联储（Fed）的最新利率决定马上就要揭晓了。虽然大家普遍预计这次利率会按兵不动，但华尔街的神经可一点没放松。",
+  "在这关键时刻，芯片巨头SK海力士（SK Hynix）交出了一份不错的财报。受此鼓舞，纳斯达克（Nasdaq）期货率先上涨，科技股板块显得相当有活力。",
+  "对咱们海外华人来说，美联储的每次利率动向都直接牵动着大家的钱袋子——从房贷利率到投资理财，再到整体经济走势。虽然这次大概率维持利率不变，但美联储官员随后的表态，依然是接下来市场风向的关键风向标。"
+ ],
+ "tags": [
+  "美联储",
+  "科技股",
+  "纳斯达克",
+  "SK海力士",
+  "股市动态"
+ ],
+ "original_title": "Stock Market Today: Tech Stocks Buoyant Ahead of Fed Rate Decision",
+ "lang": "en",
+ "published": "2026-10-28T08:17:33+00:00",
+ "created": "2026-10-28T09:39:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

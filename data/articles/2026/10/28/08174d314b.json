@@ -1,0 +1,26 @@
+{
+ "key": "08174d314b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/us-friendly-nations-slash-treasury-purchases-by-60-led-by-asia",
+ "title": "铁杆盟友也不买美债了？亚洲国家带头大砍60%！",
+ "summary": "根据彭博社报道，美国的一些亲密盟友近来大幅削减了对美国国债的购买量，降幅高达60%，其中以亚洲国家为主。这表明华盛顿的紧密合作伙伴不再像以前那样稳定地为美国财政赤字买单了。",
+ "body": [
+  "平时跟美国好得穿一条裤子的那些盟友们，现在掏钱买美国国债可没那么痛快了。根据彭博社（Bloomberg）的报道，由亚洲国家带头，美国这些所谓“友好国家”近来把美债购买量直接砍掉了60%。",
+  "这就意味着，当美国还在四处找钱填补庞大的财政赤字时，那些曾经靠得住的铁杆伙伴们，现在下手买美债的动作明显慢了下来，不再像以前那样稳定地给美国“输血”了。",
+  "对于在海外和美国生活的华人来说，美国国债和财政赤字的动向往往牵扯着通货膨胀、利率走向甚至大家的钱包。盟友们捂紧钱包少买美债，也折射出当前复杂的国际金融风向变化，后续值得继续关注。"
+ ],
+ "tags": [
+  "美债",
+  "美国经济",
+  "财政赤字",
+  "海外华人"
+ ],
+ "original_title": "US-Friendly Nations Slash Treasury Purchases by 60%, Led by Asia",
+ "lang": "en",
+ "published": "2026-10-28T03:21:11+00:00",
+ "created": "2026-10-28T09:40:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

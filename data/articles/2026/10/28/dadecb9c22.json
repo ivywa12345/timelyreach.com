@@ -1,0 +1,27 @@
+{
+ "key": "dadecb9c22",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/banking/jpmorgans-skyscraper-on-park-avenue-estimated-to-cost-around-6-billion-76881bb3?mod=rss_markets_main",
+ "title": "造价高达60亿美元？摩根大通这栋纽约新地标真是太吸金了！",
+ "summary": "摩根大通去年落成于纽约公园大道的全新总部大楼，据估算其最终造价达到了惊人的60亿美元，不过银行官方至今没有公布过具体数字。",
+ "body": [
+  "华尔街巨头摩根大通（JPMorgan Chase）去年在纽约公园大道（Park Avenue）新落成的摩天大楼，近日被估算其造价高达约60亿美元。",
+  "不过据《华尔街日报》报道，自从这座备受瞩目的新大楼去年开放以来，摩根大通官方一直没有对外公开过这栋建筑的最终确切成本。",
+  "对咱们普通海外华人来说，华尔街大行砸重金在纽约核心地段盖总部，不仅展现了美国金融业的雄厚实力，也再次刷新了商业地产的天价纪录。"
+ ],
+ "tags": [
+  "摩根大通",
+  "纽约",
+  "华尔街",
+  "商业地产",
+  "公园大道"
+ ],
+ "original_title": "JPMorgan’s Skyscraper on Park Avenue Estimated to Cost Around $6 Billion",
+ "lang": "en",
+ "published": "2026-10-28T09:30:00+00:00",
+ "created": "2026-10-28T09:40:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

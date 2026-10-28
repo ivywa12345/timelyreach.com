@@ -1,0 +1,25 @@
+{
+ "key": "e1dfec7e00",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/israeli-vote-too-close-to-call-between-netanyahu-and-eisenkot",
+ "title": "以色列大选杀疯了！70%选票数完，内塔尼亚胡微弱领先",
+ "summary": "以色列总理内塔尼亚胡在开票超过70%时微弱领先反对派领导人埃森科特，但双方目前都还无法组阁。",
+ "body": [
+  "据彭博社报道，以色列这场竞争异常激烈的选举正在火热开票中。随着超过70%的选票清点完毕，现任总理本雅明·内塔尼亚胡（Benjamin Netanyahu）暂时领先于反对派领导人加迪·埃森科特（Gadi Eisenkot）。",
+  "不过，虽然内塔尼亚胡稍微占了点上风，但目前的选情依然胶着。到目前为止，无论是内塔尼亚胡还是埃森科特，都还没有拿到清晰的组阁多数席位，谁能最终掌权还是个未知数。"
+ ],
+ "tags": [
+  "以色列大选",
+  "内塔尼亚胡",
+  "国际政治",
+  "中东局势"
+ ],
+ "original_title": "Netanyahu Leads Eisenkot With Over Half Israel Votes Counted",
+ "lang": "en",
+ "published": "2026-10-28T02:47:34+00:00",
+ "created": "2026-10-28T09:40:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
