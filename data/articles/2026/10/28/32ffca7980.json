@@ -1,0 +1,27 @@
+{
+ "key": "32ffca7980",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/sprouts-slashes-outlook-after-cyclospora-outbreak-hit-sales",
+ "title": "生菜吃出病加上大家钱包捂得紧，Sprouts超市股价直接跳水！",
+ "summary": "由于遭遇生菜寄生虫疫情打击以及消费者信心低迷，主打健康有机食品的Sprouts农贸市场公司（Sprouts Farmers Market Inc.）下调了业绩预期，导致其股价大跌。",
+ "body": [
+  "如果你最近去买菜，可能会发现连有机超市的日子也不好过了。根据彭博社的报道，主打健康和有机食品的超市Sprouts农贸市场公司（Sprouts Farmers Market Inc.）最近把全年的业绩预期给调低了，消息一出，公司股价直接在股市上来了个大跳水。",
+  "这次业绩下滑主要有两个倒霉原因：一是近期爆发了由生菜引发的环孢子虫（Cyclospora）疫情，这直接影响了绿叶菜的销量；二是现在的消费者都勒紧裤腰带过日子，大家花钱变得更加谨慎，零售日子不好过。",
+  "对咱们海外华人来说，平时去这种有机超市买生鲜的频率可能挺高。这类食品安全事件和零售端的数据往往反映了整体通胀下大家的消费降级，钱包缩水的时候，连买菜都要精打细算啦。"
+ ],
+ "tags": [
+  "Sprouts",
+  "生鲜超市",
+  "食品安全",
+  "消费降级",
+  "股市动态"
+ ],
+ "original_title": "Sprouts Sinks After Outlook Cut on Cyclospora, Consumer Woes",
+ "lang": "en",
+ "published": "2026-10-28T21:24:40+00:00",
+ "created": "2026-10-28T23:15:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

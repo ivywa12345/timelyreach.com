@@ -1,0 +1,27 @@
+{
+ "key": "a9de809801",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/fed-leaves-rates-unchanged-oil-tops-115-f922556e?mod=rss_markets_main",
+ "title": "美联储利率按兵不动，油价狂飙突破115美元！AI概念股继续狂欢",
+ "summary": "美联储最新决定维持利率不变，同时国际油价突破每桶115美元。此外，AI主题股票继续大涨，温蒂汉堡（Wendy's）也收到了收购邀约。",
+ "body": [
+  "美联储（Fed）近日宣布维持利率不变，这一决定立刻牵动着无数投资者的神经。与此同时，国际能源市场风云突变，油价一路走高，正式突破了每桶115美元的大关，通胀压力依然不容小觑。",
+  "在股市方面，AI主题的股票继续延续强劲涨势，受到市场资金的疯狂追捧。此外，知名快餐品牌温蒂汉堡（Wendy's）也迎来了新动态，目前已经吸引到了买家的收购邀约。",
+  "对于海外华人来说，油价高企意味着日常出行和生活成本可能会继续承压，而美联储按兵不动则暗示着高利率环境可能还会维持一段时间，大家的房贷、车贷以及投资理财规划都需要随之调整。"
+ ],
+ "tags": [
+  "美联储",
+  "油价",
+  "AI股票",
+  "温蒂汉堡",
+  "财经热点"
+ ],
+ "original_title": "Fed Leaves Rates Unchanged, Oil Tops $115",
+ "lang": "en",
+ "published": "2026-10-28T20:24:00+00:00",
+ "created": "2026-10-28T23:15:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

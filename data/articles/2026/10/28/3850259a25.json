@@ -1,0 +1,27 @@
+{
+ "key": "3850259a25",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/vance-engaged-iran-to-revive-peace-talks-f19eaaf8?mod=rss_worldnews",
+ "title": "万斯接触伊朗重启和平谈判？华尔街日报最新消息",
+ "summary": "根据《华尔街日报》报道，万斯近期参与了旨在重启和平谈判的对伊朗接触。此外，知名律所 Weil Gotshal 领导层计划解散该机构，美联储则宣布维持利率不变。",
+ "body": [
+  "据《华尔街日报》消息，万斯（Vance）近期参与了针对伊朗的接触，目的是为了重启相关的和平谈判。目前各方正在关注这一外交动向将如何发展。",
+  "除了上述地缘政治动态，财经和法律界近期也传出大新闻。老牌知名律所 Weil Gotshal 的领导层表示，他们正计划解散这家历史悠久的法律机构。",
+  "在经济和货币政策方面，美国联邦储备委员会（Fed，简称美联储）在最新的会议上决定维持利率不变，继续评估当前的经济形势。"
+ ],
+ "tags": [
+  "万斯",
+  "伊朗",
+  "美联储",
+  "和平谈判",
+  "法律界"
+ ],
+ "original_title": "Vance Engaged Iran to Revive Peace Talks",
+ "lang": "en",
+ "published": "2026-10-28T21:28:00+00:00",
+ "created": "2026-10-28T23:14:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

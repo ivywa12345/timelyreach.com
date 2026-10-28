@@ -1,0 +1,26 @@
+{
+ "key": "3b6a0afa04",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/pro/central-banking/growth-plays-key-supporting-role-in-bank-of-canada-rate-hike-decision-fa80b153?mod=rss_worldnews",
+ "title": "加拿大央行信心爆棚！底气十足果断宣布加息",
+ "summary": "加拿大央行周三宣布加息，主要源于对国内经济的强劲信心，以及企业应对贸易风浪的能力。",
+ "body": [
+  "据《华尔街日报》报道，加拿大央行（Bank of Canada）周三正式做出加息决定。这次央行之所以这么有底气，主要是因为他们对国内经济的发展越来越有信心，并且相信当地企业完全有能力应付复杂的贸易风浪。",
+  "分析指出，正是这种经济层面的韧性和企业表现出的抗压能力，让央行坚定了在此时收紧货币政策的决心。",
+  "虽然这条新闻说的是加拿大，但对于关注北美经济走势的朋友来说，利率变动往往牵一发而动全身。无论是汇率波动还是跨境投资，都值得我们多留个心眼。"
+ ],
+ "tags": [
+  "加拿大央行",
+  "加息",
+  "经济走势",
+  "海外财经"
+ ],
+ "original_title": "Growth Plays Key Supporting Role in Bank of Canada Rate-Hike Decision",
+ "lang": "en",
+ "published": "2026-10-28T18:30:00+00:00",
+ "created": "2026-10-28T23:14:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

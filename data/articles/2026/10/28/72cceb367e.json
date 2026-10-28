@@ -1,0 +1,27 @@
+{
+ "key": "72cceb367e",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/stock-market-today-dow-s-p-live-updates",
+ "title": "美股期指亚洲早盘跳水！谷歌财报泼冷水，砸进去的AI钱能回本吗？",
+ "summary": "受谷歌母公司Alphabet财报不及预期影响，美股股指期货在亚洲早盘出现下跌，市场对各大公司持续砸重金投资人工智能（AI）的回报率担忧再起。",
+ "body": [
+  "今天亚洲早盘一开局，美股股指期货就齐刷刷往下走。这主要是因为科技巨头谷歌母公司Alphabet Inc.交出的财报没达到大家的预期，直接把市场给浇了一盆冷水。",
+  "这段时间，各大科技公司都在人工智能（AI）领域疯狂砸钱，动不动就是几十亿美元的投入。但谷歌这份最新财报再次引发了市场的焦虑：花出去这么多真金白银，到底什么时候才能真正赚回来？",
+  "对咱们海外华人来说，科技股的波动直接关系到401(k)退休账户和个人的投资钱包。如果AI热潮开始降温、巨头们的盈利增速放缓，接下来美股的走势可能还会继续坐过山车，大家在调整资产配置时可得盯紧了。"
+ ],
+ "tags": [
+  "美股",
+  "谷歌",
+  "人工智能",
+  "财经热点",
+  "海外投资"
+ ],
+ "original_title": "US Stock Futures Fall After Alphabet, Fed Holds: Markets Wrap",
+ "lang": "en",
+ "published": "2026-10-28T22:11:47+00:00",
+ "created": "2026-10-28T23:15:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

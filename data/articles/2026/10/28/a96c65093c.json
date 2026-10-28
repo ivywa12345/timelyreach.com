@@ -1,0 +1,26 @@
+{
+ "key": "a96c65093c",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/vance-engaged-iran-to-revive-peace-talks-f19eaaf8?mod=rss_markets_main",
+ "title": "万斯接触伊朗重启和平谈判，美联储维持利率不变",
+ "summary": "万斯就重启和平谈判与伊朗进行了接触，同时知名律所 Weil Gotshal 计划解散，美联储宣布维持利率不变。",
+ "body": [
+  "据《华尔街日报》报道，近期政经界发生几件大事：万斯（Vance）就重启和平谈判与伊朗进行了接触。与此同时，有着辉煌历史的知名律所 Weil Gotshal 的领导层宣布，他们计划将该所解散。",
+  "在经济方面，美国联邦储备委员会（Fed，简称美联储）最新决定维持利率不变。对于在美的华人朋友来说，利率按兵不动意味着房贷利率和各类贷款成本暂时不会有大动作，大家的钱包可以稍微喘口气，但仍需密切关注后续的经济走势对工作和投资的影响。"
+ ],
+ "tags": [
+  "万斯",
+  "伊朗",
+  "美联储",
+  "利率",
+  "海外华人"
+ ],
+ "original_title": "Vance Engaged Iran to Revive Peace Talks",
+ "lang": "en",
+ "published": "2026-10-28T21:28:00+00:00",
+ "created": "2026-10-28T23:15:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

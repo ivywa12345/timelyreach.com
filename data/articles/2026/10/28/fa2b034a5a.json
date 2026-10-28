@@ -1,0 +1,28 @@
+{
+ "key": "fa2b034a5a",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/markets/google-plunges-after-ugly-top-and-bottom-line-miss-ai-cannibalizes-search-and-ads",
+ "title": "谷歌财报大翻车！营收利润双双逊色，AI反噬搜索业务？",
+ "summary": "谷歌母公司 Alphabet 最新财报表现不佳，营收和每股收益均未达到华尔街预期，股价应声大跌。分析指出，AI技术的发展正在反噬谷歌传统的搜索和广告业务，而巨额的AI资本开支也让市场对其投资回报产生了担忧。",
+ "body": [
+  "华尔街巨头财报夜，谷歌母公司 Alphabet 却交出了一份让市场失望的答卷。由于营收和每股收益（EPS）双双逊于华尔街预期，Alphabet 股价在财报发布后遭遇大跌。",
+  "从具体数据来看，财报显示其扣除流量获取成本（TAC）后的营收为 111.21亿美元（略低于预期的 111.29亿美元），每股收益为 2.12美元（远低于市场预期的 3.03美元）。核心的广告业务表现疲软，谷歌广告总营收为 82.01亿美元，未达 83.57亿美元的预期。其中，搜索引擎及其他业务营收 63.35亿美元，YouTube 广告营收 11.21亿美元，均低于分析师预期。市场分析认为，AI技术正在开始“蚕食”和反噬传统的搜索与广告收入。",
+  "在此之前，华尔街对科技股“七巨头”（Mag 7）抱有极高的期望，而 Alphabet 此前一直是各大机构筹资做空的标的。虽然谷歌云（Google Cloud）等业务备受期待，但巨额的资本开支和 AI 基础设施投入让投资者对投入产出比打上了一个大问号。",
+  "对于关注美股和科技行业的海外华人来说，这次财报不仅折射出科技巨头在 AI 转型期的阵痛，也反映出资本市场对高额 AI 投资回报开始变得更加苛刻。如果 AI 无法迅速带来与其庞大支出相匹配的利润，不仅科技股的估值可能面临修正，相关产业链的投资逻辑也将发生变化。"
+ ],
+ "tags": [
+  "Google",
+  "Alphabet",
+  "美股财报",
+  "人工智能",
+  "科技股"
+ ],
+ "original_title": "Google Plunges After Ugly Top And Bottom Line Miss, As AI Cannibalizes Search And Ads",
+ "lang": "en",
+ "published": "2026-10-28T20:47:00+00:00",
+ "created": "2026-10-28T23:16:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

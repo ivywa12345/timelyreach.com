@@ -1,0 +1,26 @@
+{
+ "key": "937fcf9203",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/the-fed-held-steady-on-rates-leaving-investors-to-sit-tight-too-9c77723b?mod=rss_markets_main",
+ "title": "美联储利率按兵不动！华尔街：这哥们儿好像没那么鹰？",
+ "summary": "美联储主席凯文·沃什（Kevin Warsh）在利率决策上按兵不动，华尔街解读其态度并未表现出激进加息的倾向，刺激股市和长期美债收益率小幅走高。",
+ "body": [
+  "美联储（Fed）近日在利率问题上保持按兵不动，让一众投资者们也只能继续耐心等待。华尔街在解读美联储主席凯文·沃什（Kevin Warsh）的表态后，普遍认为他对激进加息表现得比较犹豫。",
+  "受此消息影响，市场情绪受到一定程度的鼓舞，股市和长期美债收益率在消息公布后均出现了小幅上涨。"
+ ],
+ "tags": [
+  "美联储",
+  "利率",
+  "华尔街",
+  "美股",
+  "财经"
+ ],
+ "original_title": "The Fed Held Steady on Rates, Leaving Investors to Sit Tight, Too",
+ "lang": "en",
+ "published": "2026-10-28T21:12:00+00:00",
+ "created": "2026-10-28T23:14:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

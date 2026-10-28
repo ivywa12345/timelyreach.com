@@ -1,0 +1,27 @@
+{
+ "key": "e690dbab4d",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/fox-news-viewer-dip-before-election-may-signal-republican-unease",
+ "title": "大选前夕福克斯新闻收视率暴跌28%，共和党铁粉这是怎么了？",
+ "summary": "根据彭博社报道，在期中选举前的最后四周里，福克斯新闻的黄金时段收视率大跌了28%，这可能暗示其传统的保守派观众对即将到来的选举热情有所降温。",
+ "body": [
+  "说到美国有线电视新闻网，福克斯新闻（Fox News）一直是收视率的绝对霸主。不过，根据彭博社（Bloomberg）记者Hannah Miller的报道，在11月3日大选前的最后四周里，福克斯新闻在黄金时段的收视率竟然遭遇了滑铁卢，暴跌了28%。",
+  "业内人士分析，这个不同寻常的跌幅可能释放了一个信号：一直以来表现积极的保守派核心观众，这次对大选的参与热情似乎并没有那么高涨了。",
+  "对于关注美国政治走向的海外华人来说，大选选情瞬息万变，各大主流媒体的收视波动往往折射出选民的真实心态。不管支持哪一方，接下来的选情走向都值得我们密切关注。"
+ ],
+ "tags": [
+  "美国大选",
+  "福克斯新闻",
+  "收视率",
+  "共和党",
+  "海外华人"
+ ],
+ "original_title": "Fox News Viewer Dip Pre-Election Suggests Republican Unease",
+ "lang": "en",
+ "published": "2026-10-28T22:30:38+00:00",
+ "created": "2026-10-28T23:15:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "d4a664c2b8",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/petrobras-pumps-at-record-as-iran-war-upends-oil-markets",
+ "title": "中东打仗油价乱？巴西石油公司闷声发大财，产量直接冲上历史新高！",
+ "summary": "受中东局势及伊朗战争（Iran war）影响，全球能源市场动荡不安。不过巴西国家石油公司（Petrobras）在第三季度迎难而上，不仅把石油产量拉升到了历史最高纪录，炼油厂开工率也几乎拉满，成功帮巴西顶住了全球能源市场的风浪。",
+ "body": [
+  "最近中东打仗闹得沸沸扬扬，全球能源市场跟着大地震，油价上下乱窜。不过，远在南美洲的巴西国家石油公司（Petrobras）却借着这波东风，交出了一份相当亮眼的成绩单。",
+  "根据彭博社（Bloomberg）报道，这家由巴西国家控制的石油巨头在今年第三季度火力全开，不仅石油产量创下了历史新高，旗下的炼油厂也几乎是在满负荷运转。这波操作不仅让公司赚得盆满钵满，更关键的是，它实实在在地帮巴西稳住了阵脚，成功抵御了国际能源供应链断裂的冲击。",
+  "对海外华人来说，国际油价的剧烈波动直接关乎大家的日常生活成本。无论是开车通勤的油费，还是日常的水电气账单，都和这些全球能源巨头的产能息息相关。巴西石油公司这次产能大爆发，在一定程度上帮全球市场缓解了供给焦虑，对大家的钱包算是一个好消息。"
+ ],
+ "tags": [
+  "能源市场",
+  "巴西国家石油公司",
+  "Petrobras",
+  "油价波动",
+  "海外生活"
+ ],
+ "original_title": "Petrobras Pumps at Record as Iran War Upends Oil Markets",
+ "lang": "en",
+ "published": "2026-10-28T23:06:04+00:00",
+ "created": "2026-10-28T23:15:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "4567632540",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran",
+ "title": "油价突然跌了！中东局势现转机，这回能消停会儿吗？",
+ "summary": "由于交易员们正密切关注中东地区为避免美国对伊朗重启军事打击而展开的新一轮外交努力，国际油价迎来了下跌。",
+ "body": [
+  "周三油价出现回落，主要因为市场正在评估中东最新的外交动向。根据彭博社（Bloomberg）报道，交易员们发现各方正在积极通过外交手段斡旋，试图阻止美国可能对伊朗重新发起的军事打击。",
+  "目前来看，国际原油市场的神经依然紧绷，任何关于中东局势的风吹草动都会直接牵动油价的神经。虽然这次外交努力暂时缓解了市场对军事冲突升级的担忧，进而压低了油价，但后续进展仍充满不确定性。",
+  "对于海外华人来说，国际油价的波动直接关系到咱们日常加油的钱包厚度。如果中东局势能真正缓和，油价有望保持稳定甚至进一步回落，大家的出行成本也能稍微松口气。我们将持续为您关注油价和局势的最新变化。"
+ ],
+ "tags": [
+  "油价",
+  "中东局势",
+  "伊朗",
+  "海外生活",
+  "财经快讯"
+ ],
+ "original_title": "Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran",
+ "lang": "en",
+ "published": "2026-10-28T22:05:01+00:00",
+ "created": "2026-10-28T23:15:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
