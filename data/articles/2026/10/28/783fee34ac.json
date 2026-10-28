@@ -1,0 +1,26 @@
+{
+ "key": "783fee34ac",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/india-s-record-bank-cash-surplus-fades-as-rbi-curbs-rupee-bets",
+ "title": "印度银行界“不差钱”的日子到头了？央行出手护汇率，流动性急剧收紧",
+ "summary": "根据彭博社报道，随着印度央行采取紧缩的流动性政策以遏制针对本币的押注，印度商业银行此前创纪录的现金盈余正在迅速消退。",
+ "body": [
+  "如果你关注国际金融市场，最近印度银行界可谓迎来了大变天。据彭博社（Bloomberg）报道，印度商业银行此前创下纪录的巨额现金盈余正在快速消失。这背后的主要推手，是印度央行（Reserve Bank of India，简称 RBI）为了阻止市场过度押注贬值卢比，选择主动收紧了市场上的流动性。",
+  "简单来说，过去一段时间印度银行里资金充裕，但随着央行开始收闸放水、维持偏紧的资金面，这种好日子正面临终结。央行的核心诉求很明确，就是通过控制流动性来打击那些做空本币卢比的投机行为，稳定汇率市场。",
+  "对于海外华人投资者或关注南亚经济的人来说，印度央行此举意味着当地的借贷成本可能会受到影响，资金面不再像以前那么宽松。后续是否会传导至实体经济和更广泛的投资市场，值得持续观察。"
+ ],
+ "tags": [
+  "印度经济",
+  "印度央行",
+  "卢比汇率",
+  "全球财经"
+ ],
+ "original_title": "India’s Record Bank Cash Surplus Fades as RBI Curbs Rupee Bets",
+ "lang": "en",
+ "published": "2026-10-28T01:51:10+00:00",
+ "created": "2026-10-28T02:15:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

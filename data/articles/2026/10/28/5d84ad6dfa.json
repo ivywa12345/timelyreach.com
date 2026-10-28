@@ -1,0 +1,25 @@
+{
+ "key": "5d84ad6dfa",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/malaysian-palm-oil-glut-swamps-storage-in-top-producing-state",
+ "title": "马来西亚棕榈油大丰收仓库塞爆！政府压力山大",
+ "summary": "马来西亚棕榈油库存暴增，导致最大产油州的仓储能力不堪重负，丰收引发的供过于求问题迫使政府急需清理过剩库存。",
+ "body": [
+  "根据彭博社（Bloomberg）报道，马来西亚目前的棕榈油库存正在不断膨胀，这给该国主要产油州的仓储设施带来了巨大的压力。由于迎来了一个丰收季，大量的棕榈油积压在仓库里，这也让马来西亚政府面临着尽快清理过剩供应的紧迫压力。",
+  "这次棕榈油供应过剩主要是因为产量大增导致的丰收季（bumper harvest）。目前，这些过剩的库存已经让当地的仓储空间捉襟见肘，后续如何消化这些多出来的产量，将是摆在政府和行业面前的一大难题。"
+ ],
+ "tags": [
+  "马来西亚",
+  "棕榈油",
+  "农业经济",
+  "海外快讯"
+ ],
+ "original_title": "Malaysian Palm Oil Glut Swamps Storage in Top-Growing State",
+ "lang": "en",
+ "published": "2026-10-27T09:10:39+00:00",
+ "created": "2026-10-28T02:15:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

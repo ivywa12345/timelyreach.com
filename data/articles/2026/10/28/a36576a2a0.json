@@ -1,0 +1,26 @@
+{
+ "key": "a36576a2a0",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/israeli-arab-parties-claim-kingmaker-status-in-extra-tight-vote",
+ "title": "以色列大选杀疯了！阿拉伯政党成最大“黑马”？",
+ "summary": "以色列总理内塔尼亚胡在大选当天紧急呼吁支持者投票，称阿拉伯裔公民的投票率打破纪录。事实证明他的担忧并非空穴来风。",
+ "body": [
+  "据彭博社（Bloomberg）报道，在这次竞争异常激烈的以色列大选中，阿拉伯政党异军突起，甚至有望成为决定大选走向的“造王者”（Kingmaker）。",
+  "在选举日当天，现任总理本杰明·内塔尼亚胡（Benjamin Netanyahu）花了大半天时间警告自己的基本盘选民，称阿拉伯裔公民正在以创纪录的数量涌向投票站。而后续的情况表明，他的确说对了，阿拉伯选民的投票热情空前高涨。",
+  "对于关注中东局势及海外政治动向的华人朋友来说，这次选举不仅关系到以色列国内政坛的权力洗牌，也可能对整个地区的政局稳定产生深远影响。"
+ ],
+ "tags": [
+  "以色列大选",
+  "内塔尼亚胡",
+  "中东政局",
+  "海外热点"
+ ],
+ "original_title": "Israeli Arab Parties Claim Kingmaker Status in Extra-Tight Vote",
+ "lang": "en",
+ "published": "2026-10-28T00:08:25+00:00",
+ "created": "2026-10-28T02:15:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

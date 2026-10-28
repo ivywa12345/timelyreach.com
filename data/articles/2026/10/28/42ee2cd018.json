@@ -1,0 +1,27 @@
+{
+ "key": "42ee2cd018",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/10/27/us-news/60-minutes-knew-deported-texas-dad-with-wife-claimed-he-was-gay-on-immigration-documents-but-still-ran-story-dhs/",
+ "title": "节目组被指“明知故问”？CBS王牌节目被爆隐瞒移民材料造假",
+ "summary": "据国土安全部（DHS）官员透露，CBS王牌新闻节目《60 Minutes》在节目播出两周前，就已经知道他们报道的一名被驱逐移民曾在移民文件中自称是同性恋以逃避遣返，但节目中却对此只字未提，反而将其塑造成因改信基督教而面临迫害的受害者。",
+ "body": [
+  "根据《纽约邮报》（New York Post）报道，美国国土安全部（DHS）官员周二表示，CBS新闻节目《60 Minutes》在周日播出的一期节目中，隐瞒了一名被驱逐移民涉嫌在避难申请中作假的内幕。这名有两个孩子的已婚父亲名为穆萨·迪亚瓦拉（Moussa Diawara），他曾在2012年的移民文件中声称自己是同性恋，以此作为阻止被遣返至马里的理由。迪亚瓦拉目前已婚且育有子女。",
+  "国土安全部发言人指出，节目组在节目播出整整两周前，就接到了关于迪亚瓦拉涉嫌在性取向问题上作假的通报。然而，《60 Minutes》在报道中并未提及他利用同性恋身份来躲避遣返，反而称他因改信基督教而害怕在穆斯林占多数的马里遭到宗教迫害。节目播出后，国土安全部总法律顾问詹姆斯·珀西瓦尔（James Percival）在社交媒体X上发文，称自己调取了迪亚瓦拉的移民档案，发现他当年申请避难时填写的恐惧原因其实是“同性恋”。福克斯新闻（Fox News）获得的申请文件显示，迪亚瓦拉在文件中写道自己“更习惯与男孩亲密”。",
+  "迪亚瓦拉在签证逾期滞留美国十年多后，于今年7月被驱逐出境至加纳。《60 Minutes》节目则报道称，他在抵达加纳几天后就被当地当局强行送上了飞往马里的航班，目前他已逃离马里并居住在一个未公开的国家。截至周二，该节目的代表尚未对此事做出回应。对于关注美国移民政策和身份申请的在美华人来说，这起事件再次凸显了移民审查和相关虚假陈述引发的争议与关注。"
+ ],
+ "tags": [
+  "移民政策",
+  "CBS",
+  "60 Minutes",
+  "避难申请",
+  "美国新闻"
+ ],
+ "original_title": "‘60 Minutes’ knew married dad claimed to be gay on immigration docs to avoid deportation — but still ran story: DHS",
+ "lang": "en",
+ "published": "2026-10-28T01:57:55+00:00",
+ "created": "2026-10-28T02:16:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

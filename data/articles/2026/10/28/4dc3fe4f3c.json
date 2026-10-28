@@ -1,0 +1,26 @@
+{
+ "key": "4dc3fe4f3c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-27/dongshan-precision-set-to-debut-after-1-3-billion-hk-listing",
+ "title": "A股巨头赴港上市却破发？募资13亿美元，这波AI概念股行情有点冷！",
+ "summary": "苏州东山精密制造股份有限公司在香港上市首日股价遭遇下跌，此前该公司通过IPO募资99亿港元（约合1.3亿美元），这次上市也成了检验市场在经历大幅回调后对AI概念股投资热情的一次试金石。",
+ "body": [
+  "苏州东山精密制造股份有限公司（Suzhou Dongshan Precision Manufacturing Co.）最近去香港挂牌上市啦！不过，他们的开局可不太顺利，首日交易股价就出现了下滑。",
+  "据了解，这家公司这次通过香港IPO成功募资了99亿港元（约合1.3亿美元）。在近期市场经历了一波明显回调的背景下，他们这次上市可以说是给投资者对AI（人工智能）相关概念股的胃口和信心，做了一次实打实的测试。"
+ ],
+ "tags": [
+  "东山精密",
+  "港股上市",
+  "AI概念股",
+  "财经热点",
+  "海外华人"
+ ],
+ "original_title": "Dongshan Precision Slips in Debut After $1.3 Billion HK Listing",
+ "lang": "en",
+ "published": "2026-10-27T23:00:00+00:00",
+ "created": "2026-10-28T02:15:32+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

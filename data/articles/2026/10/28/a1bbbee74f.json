@@ -1,0 +1,26 @@
+{
+ "key": "a1bbbee74f",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/see-how-anthropic-arrived-at-its-mind-boggling-40-trillion-market-opportunity-948c56a0?mod=rss_markets_main",
+ "title": "AI公司胃口有多大？这家初创企业盯上40万亿美元的知识工作市场！",
+ "summary": "AI独角兽Anthropic估算其未来市场机会高达40万亿美元，超越了SpaceX之前的惊人数字，引发热议。",
+ "body": [
+  "根据《华尔街日报》报道，AI新星Anthropic近期给自己的市场潜力估出了一个天文数字——高达40万亿美元。这个数字直接把今年早些时候SpaceX引发轰动的天价估值给比了下去，可以说是赚足了眼球。",
+  "据了解，Anthropic对这个庞大数字的测算逻辑，跟知识工作者（knowledge workers）未来能创造的经济价值直接挂钩。也就是说，他们把未来所有靠脑力吃饭的岗位的产出，都当成了自家AI技术的潜在替代或服务市场。",
+  "对咱们在美华人来说，这类科技巨头疯狂砸钱、扩张AI应用，最直接的影响就是职场竞争正在加速变天。不管是写代码、做分析还是文字工作，传统知识工作者的饭碗正面临前所未有的科技冲击，未来如何利用AI提升自身竞争力，成了大家不得不思考的问题。"
+ ],
+ "tags": [
+  "Anthropic",
+  "人工智能",
+  "职场与经济",
+  "华尔街日报"
+ ],
+ "original_title": "See How Anthropic Arrived at Its Mind-Boggling $40 Trillion Market Opportunity",
+ "lang": "en",
+ "published": "2026-10-28T00:10:00+00:00",
+ "created": "2026-10-28T02:15:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

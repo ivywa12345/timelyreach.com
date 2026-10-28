@@ -1,0 +1,27 @@
+{
+ "key": "3daa219846",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/military/first-us-submarine-revealed-deployment-australia-under-aukus",
+ "title": "AUKUS协议实质落地！首艘派往澳大利亚的美军核潜艇敲定了",
+ "summary": "美英澳三方安全伙伴关系（AUKUS）迎来实质性进展，美国正式敲定首艘将部署到西澳大利亚的核潜艇，为澳大利亚未来组建自己的核潜艇舰队铺路。",
+ "body": [
+  "美英澳三方安全伙伴关系（AUKUS）有了新动作。美、英、澳三国防长于10月27日共同宣布，美军将派遣第一艘核动力潜艇进驻西澳大利亚，标志着澳大利亚拥有并运营核潜艇舰队的计划从纸面规划正式迈入实施阶段。",
+  "根据官方公布的计划，这艘打头阵的美军“弗吉尼亚”级快速攻击核潜艇（Virginia-class fast-attack submarine）是“科罗拉多”号（USS Colorado, SSN 788），它将于2027年底开始在西澳的斯特灵海军基地（HMAS Stirling）进行轮换部署。未来，该基地（被称为SRF-West）将轮流部署最多4艘美国“弗吉尼亚”级潜艇和1艘英国“机敏”级潜艇（Astute-class）。",
+  "澳大利亚潜艇局局长、海军中将乔纳森·米德（Jonathan Mead）表示，这项任命意味着协议从规划转入了实施。美军核潜艇的进驻和日常协同，将帮助澳大利亚海军官兵积累操作核潜艇的技能、经验和知识转移，为澳大利亚在2030年代初接收首艘美制“弗吉尼亚”级潜艇打下基础。在此之前，澳大利亚已经开始在斯特灵海军基地参与美军潜艇的维护工作，例如2025年对“佛蒙特”号（USS Vermont）进行的维护。"
+ ],
+ "tags": [
+  "AUKUS",
+  "美国海军",
+  "澳大利亚",
+  "核潜艇",
+  "军事动态"
+ ],
+ "original_title": "First US Submarine Revealed For Deployment To Australia Under AUKUS",
+ "lang": "en",
+ "published": "2026-10-28T01:45:00+00:00",
+ "created": "2026-10-28T02:15:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
