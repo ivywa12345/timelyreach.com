@@ -24,7 +24,11 @@ export async function onRequestPost({ request, env }) {
   if (!env.ADMIN_PASSWORD || !env.ADMIN_GH_TOKEN) {
     return json(503, { error: "后台还没配置好：缺少 ADMIN_PASSWORD 或 ADMIN_GH_TOKEN" });
   }
-  if (!sameSecret(request.headers.get("x-admin-password") || "", env.ADMIN_PASSWORD)) {
+  // The deploy step strips whitespace from secrets, so compare both sides without it.
+  const norm = (v) => String(v || "").replace(/\s+/g, "");
+  let given = request.headers.get("x-admin-password") || "";
+  try { given = decodeURIComponent(given); } catch { /* sent unencoded */ }
+  if (!sameSecret(norm(given), norm(env.ADMIN_PASSWORD))) {
     return json(401, { error: "后台密码不对" });
   }
   let doc;

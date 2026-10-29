@@ -15,7 +15,7 @@
   function send(doc, pw) {
     return fetch("/api/post", {
       method: "POST",
-      headers: { "Content-Type": "application/json", "X-Admin-Password": pw },
+      headers: { "Content-Type": "application/json", "X-Admin-Password": encodeURIComponent(pw) },
       body: JSON.stringify(doc)
     }).then(function (r) {
       return r.json().catch(function () { return {}; }).then(function (d) {
