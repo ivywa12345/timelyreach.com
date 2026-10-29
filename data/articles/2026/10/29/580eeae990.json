@@ -1,0 +1,28 @@
+{
+ "key": "580eeae990",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/markets/feds-favorite-inflation-indicator-surges-september-soaring-energy-drags-americans-savings",
+ "title": "物价又双叒飙了！美国9月通胀数据出炉，储蓄率跌至四年新低",
+ "summary": "美联储最看重的通胀指标PCE在9月全线反弹，受能源成本飙升影响，整体PCE同比上涨3.6%，核心通胀也维持高位。与此同时，美国人的收入增长放缓而消费增加，导致储蓄率暴跌至2022年10月以来的最低水平。",
+ "body": [
+  "继此前火热的CPI和PPI数据之后，最新出炉的9月个人消费支出（PCE）价格指数再次给美国人的钱包泼了一盆冷水。数据显示，9月整体PCE环比显著上涨0.5%，将同比涨幅拉高至3.6%，创下了今年5月以来的最高纪录。",
+  "在各项细分数据中，剔除食品和能源后的核心PCE环比上涨0.3%，同比上涨3.1%，符合市场预期。然而，由于原油价格突然反弹，PCE能源成本飙升至历史新高，直接拖累整体通胀。此外，剔除住房后的核心服务通胀（SuperCore PCE）也创下自2024年12月以来的最高同比涨幅。更让美联储头疼的是，非周期性通胀比周期性通胀更热，意味着通胀正变得越来越顽固。",
+  "通胀高企的同时，美国人的钱袋子却在缩水。最新公布的收入和支出数据均逊于预期，其中个人收入仅环比增长0.2%（预期0.5%），而支出则增长了0.5%（预期0.6%）。这种“工资涨得慢、花钱如流水”的现象，直接导致美国人的储蓄率大跌，降到了2022年10月以来的最低谷。",
+  "对在美华人来说，能源和日常服务成本居高不下意味着生活开销将持续承压。在工资增长放缓、储蓄不断缩水的背景下，日常家庭预算需要更加精打细算，防范未来的经济不确定性。"
+ ],
+ "tags": [
+  "美联储",
+  "通胀",
+  "PCE",
+  "储蓄率",
+  "美国经济"
+ ],
+ "original_title": "Fed's Favorite Inflation Indicator Surges In September As Soaring Energy Costs Drags Americans' Savings Rate To 4-Year Lows",
+ "lang": "en",
+ "published": "2026-10-29T12:15:40+00:00",
+ "created": "2026-10-29T16:02:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

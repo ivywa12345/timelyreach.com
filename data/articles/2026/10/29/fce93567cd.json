@@ -1,0 +1,26 @@
+{
+ "key": "fce93567cd",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/gop-house-oversight-chair-probes-democrats-in-alaska-senate-race",
+ "title": "阿拉斯加参议员选举有诈？共和党众议员大佬宣布介入调查！",
+ "summary": "美国众议院监督委员会的共和党主席宣布，将对阿拉斯加州的联邦参议员选举展开调查。此前有指控称，该州民主党阵营的盟友涉嫌“阴招”招募了一名与现任共和党参议员同名的候选人，引发共和党方面的强烈关注。",
+ "body": [
+  "据彭博社（Bloomberg）报道，众议院监督委员会（House Oversight Committee）的共和党主席近日宣布，将正式对阿拉斯加州（Alaska）的联邦参议员选举进行调查。这也是共和党人针对该场选举中“同名候选人”争议展开的最新一轮审查动作。",
+  "事件的核心在于，外界指控民主党（Democrat）参选人的盟友涉嫌故意招募了一名与现任共和党参议员丹·沙利文（Dan Sullivan）同名的候选人，试图以此来混淆选民视听、分散选票。目前，这一 allegations（指控）正受到共和党高层的持续聚焦和强力追查。"
+ ],
+ "tags": [
+  "美国政治",
+  "阿拉斯加",
+  "参议员选举",
+  "共和党",
+  "民主党"
+ ],
+ "original_title": "GOP House Oversight Chair Probes Democrats in Alaska Senate Race",
+ "lang": "en",
+ "published": "2026-10-29T15:51:46+00:00",
+ "created": "2026-10-29T15:59:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

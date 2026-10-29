@@ -1,0 +1,26 @@
+{
+ "key": "fc96b3174a",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/u-s-stocks-up-treasury-yields-mixed-after-fed-hold-0766f105?mod=rss_markets_main",
+ "title": "美联储维持利率不变！美股微涨，12月加息悬念还在...",
+ "summary": "美联储宣布维持利率不变，虽然通胀居高不下，但并没有彻底关死12月加息的大门。消息公布后，美国股市小幅收涨，国债收益率表现不一。",
+ "body": [
+  "根据《华尔街日报》（The Wall Street Journal）记者Rob Curran的报道，由于通胀数据依然偏高，美联储（Federal Reserve）近期选择维持利率不变，不过同时也留了个心眼，没有排除12月再次加息的可能性。",
+  "在此消息刺激下，美国股市（U.S. Stocks）在盘中表现坚挺，小幅收涨，而美国国债收益率（Treasury Yields）则呈现出涨跌不一的混合走势。"
+ ],
+ "tags": [
+  "美联储",
+  "美股",
+  "通胀",
+  "加息",
+  "财经快讯"
+ ],
+ "original_title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
+ "lang": "en",
+ "published": "2026-10-28T20:48:00+00:00",
+ "created": "2026-10-29T15:57:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

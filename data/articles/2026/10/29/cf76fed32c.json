@@ -1,0 +1,27 @@
+{
+ "key": "cf76fed32c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/sec-eyes-manipulation-insider-risk-in-prediction-markets",
+ "title": "预测市场火过头了？美国SEC也想插一脚！",
+ "summary": "美国证券交易委员会（SEC）正盯上快速发展的预测市场行业，将其列为监控操纵和内幕交易风险的监管对象之一。",
+ "body": [
+  "最近火得不行的预测市场（Prediction Market）迎来了新监管者。据彭博社报道，美国证券交易委员会（SEC，Securities and Exchange Commission）已经将目光投向了这个领域，准备防范其中的市场操纵和内幕交易风险。",
+  "作为近年来增长迅猛的新兴行业，预测市场吸引了大量普通用户的参与。但随着资金规模越来越大，相关的合规和监管问题也浮出水面，监管机构显然坐不住了。",
+  "对于关注新兴投资和科技趋势的海外华人来说，监管收紧意味着这类平台的规则未来可能会更加严格，参与相关活动时需要格外注意合规与资金安全风险。"
+ ],
+ "tags": [
+  "SEC",
+  "预测市场",
+  "监管",
+  "内幕交易",
+  "美国财经"
+ ],
+ "original_title": "SEC Eyes Manipulation, Insider Risk in Prediction Markets",
+ "lang": "en",
+ "published": "2026-10-29T15:45:00+00:00",
+ "created": "2026-10-29T15:58:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

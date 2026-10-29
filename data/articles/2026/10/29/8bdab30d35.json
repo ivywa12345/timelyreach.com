@@ -1,0 +1,26 @@
+{
+ "key": "8bdab30d35",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/features/2026-10-29/fondos-de-acciones-latinas-una-especie-rumbo-a-la-extincion",
+ "title": "快绝种了？拉美股票基金在华尔街遭遇“大溃败”！",
+ "summary": "根据彭博社的数据，拉美股票基金近年来遭遇了断崖式下跌，数量从2015年的660多只锐减到如今的226只，主要反映出该地区经济增长乏力、缺乏创新和新企业。",
+ "body": [
+  "如果你平时关注投资，可能会发现拉美市场的存在感越来越低了。根据彭博社（Bloomberg）的报道，曾经热闹的拉丁美洲股票基金现在正面临着走向消亡的命运。",
+  "数据显示，在2015年的时候，有超过660只基金投资于拉美股票；但时至今日，活下来的基金仅仅剩下226只。这种长期的下滑趋势清晰地表明，该地区在经济增长、商业创新以及新企业创立方面都显得后劲不足，导致华尔街的资本逐渐失去耐心。",
+  "虽然这主要是南美和中美洲当地经济与资本市场的故事，但对于海外华人投资者来说，这也提醒我们在进行全球资产配置时，需要更加警惕那些长期缺乏创新和增长动能的新兴市场板块，看紧自己的钱包。"
+ ],
+ "tags": [
+  "拉美基金",
+  "华尔街",
+  "海外投资",
+  "彭博社"
+ ],
+ "original_title": "Fondos de acciones latinas: una especie rumbo a la extinción",
+ "lang": "en",
+ "published": "2026-10-29T15:54:51+00:00",
+ "created": "2026-10-29T15:57:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

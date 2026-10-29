@@ -1,0 +1,26 @@
+{
+ "key": "0b12fa8579",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/accidente-ferroviario-en-espana-eleva-la-presion-electoral-sobre-sanchez",
+ "title": "西班牙大选前突发惨烈火车事故！10多年来最严重，会拉垮现任首相吗？",
+ "summary": "西班牙即将在大选中迎来关键时刻，却发生了十多年来最严重的列车脱轨事故。初步迹象指向人为失误，这一悲剧迅速成为选战焦点，给首相佩德罗·桑切斯（Pedro Sánchez）带来了巨大的政治压力。",
+ "body": [
+  "就在西班牙大选迫在眉睫的节骨眼上，该国迎来了十多年来最严重的一次铁路交通惨剧。根据初步迹象，这起事故很可能是由人为失误导致的。",
+  "目前，这场悲剧已经被迅速卷入紧张的政治竞选漩涡之中，让现任首相佩德罗·桑切斯（Pedro Sánchez）面临的选情压力骤然升级。",
+  "对于远在海外的华人来说，虽然这远在欧洲，但重大公共安全事件往往会引发政坛大地震，进而影响当地的经济走向和政策变化，后续进展值得持续关注。"
+ ],
+ "tags": [
+  "西班牙",
+  "火车事故",
+  "大选",
+  "欧洲新闻"
+ ],
+ "original_title": "Accidente ferroviario en España eleva la presión electoral sobre Sánchez",
+ "lang": "en",
+ "published": "2026-10-29T15:10:36+00:00",
+ "created": "2026-10-29T16:00:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

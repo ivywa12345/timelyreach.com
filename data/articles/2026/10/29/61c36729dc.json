@@ -1,0 +1,25 @@
+{
+ "key": "61c36729dc",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-6-led-by-ai-related-stocks-854322dd?mod=rss_markets_main",
+ "title": "欧洲股市开盘多数上涨！这回又是靠财报撑场子？",
+ "summary": "欧洲股市周一开盘后普遍走高，主要受到企业亮眼财报的提振。",
+ "body": [
+  "周一欧洲股市迎来了不错的开局，主要股指在开盘后大多呈现上涨态势。根据《华尔街日报》（The Wall Street Journal）的报道，这波涨势主要归功于近期发布的上市公司企业财报表现强劲，成功提振了市场投资者的信心。",
+  "对于关注全球宏观经济和海外资产配置的华人朋友来说，股市的波动往往也牵动着全球资本市场的神经。虽然这只是欧洲市场的日常开盘表现，但强劲的企业盈利数据在一定程度上缓解了市场对经济放缓的担忧。"
+ ],
+ "tags": [
+  "欧洲股市",
+  "财报",
+  "海外财经",
+  "股市快讯"
+ ],
+ "original_title": "European Stock Indexes Mostly Higher",
+ "lang": "en",
+ "published": "2026-10-29T08:29:00+00:00",
+ "created": "2026-10-29T15:57:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

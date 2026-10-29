@@ -1,0 +1,22 @@
+{
+ "key": "3bf044065b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/polymarket-investigating-suspicious-trades-on-israeli-election",
+ "title": "Polymarket调查以色列选举中的可疑交易",
+ "summary": "Polymarket正在调查本周以色列大选的一系列适时和有利可图的交易，这是最近的一起案件，引发了对预测市场潜在内幕交易的担忧。",
+ "body": [
+  "Polymarket正在调查本周以色列大选的一系列适时和有利可图的交易，这是最近的一起案件，引发了对预测市场潜在内幕交易的担忧。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Polymarket Investigating Suspicious Trades on Israeli Election",
+ "lang": "en",
+ "published": "2026-10-29T14:57:49+00:00",
+ "created": "2026-10-29T15:59:15+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

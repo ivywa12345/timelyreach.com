@@ -1,0 +1,27 @@
+{
+ "key": "7a94db72e8",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/google-debt-risk-gauge-rises-as-earnings-revive-ai-debt-jitters",
+ "title": "谷歌股价大跌！疯狂砸钱搞AI，华尔街开始慌了？",
+ "summary": "由于财报表现令人失望，市场对谷歌母公司Alphabet的AI巨额债务支出产生担忧，导致其债务违约保险成本在周四上升，股价也随之暴跌。",
+ "body": [
+  "周四，谷歌母公司Alphabet Inc.的股价遭遇暴跌，与此同时，用于为该公司债务损失提供保险的成本也随之上升。这一切的导火索，是最新发布的财报业绩未能达到市场预期，彻底点燃了投资者对AI烧钱大战的焦虑。",
+  "长期以来，科技巨头们一直在人工智能领域进行大规模、靠债务支撑的砸钱投资。然而，这次令人失望的财报让外界开始严重怀疑：这场史无前例的AI豪赌，未来究竟能不能赚回本？",
+  "对于关注科技股和宏观经济的海外华人来说，大厂在AI上的军备竞赛不仅关乎资本市场的风吹草动，也直接牵动着科技行业的就业景气度以及相关投资组合的钱包厚度。后续各家巨头如何向华尔街证明AI的变现能力，将成为市场关注的焦点。"
+ ],
+ "tags": [
+  "谷歌",
+  "Alphabet",
+  "人工智能",
+  "美股",
+  "科技财报"
+ ],
+ "original_title": "Google Debt-Risk Gauge Rises as Earnings Revive AI Debt Jitters",
+ "lang": "en",
+ "published": "2026-10-29T15:02:33+00:00",
+ "created": "2026-10-29T15:58:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
