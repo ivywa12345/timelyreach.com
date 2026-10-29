@@ -1,0 +1,27 @@
+{
+ "key": "1a46b6b8df",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-s-ailing-stock-needs-booming-cloud-growth-to-revive-rally",
+ "title": "亚马逊股价熄火，下周财报能靠云计算“满血复活”吗？",
+ "summary": "亚马逊（Amazon.com Inc.）即将迎来新一期财报。由于此前靠云业务大涨的股价已经回吐过半，市场现在全看云业务能不能再次交出亮眼答卷，来拯救疲软的股价。",
+ "body": [
+  "说到亚马逊（Amazon.com Inc.）最近的股价表现，可以说是有点“虚”。在上一份财报里，公司靠着惊艳的云计算业务增长，直接把股价推上了天。但好景不长，现在这些涨幅已经有一半多都吐回去了，股价也开始显现疲态。",
+  "根据彭博社（Bloomberg）记者 Carmen Reinicke 的分析，为了让这波上涨行情重新燃起来，亚马逊这次必须再秀一次实力，证明自己的云计算业务还能继续狂飙突进。如果云业务表现不及预期，投资者的信心恐怕很难支撑目前的股价。",
+  "对于咱们海外华人来说，科技巨头的财报不仅是股市风向标，往往也直接牵动着科技行业的招聘和整体经济景气度。接下来几天，盯紧亚马逊的财报数据，看看它能不能给市场打上一剂强心针。"
+ ],
+ "tags": [
+  "亚马逊",
+  "美股",
+  "云计算",
+  "财经新闻",
+  "科技股"
+ ],
+ "original_title": "Amazon’s Ailing Stock Needs Booming Cloud Growth to Revive Rally",
+ "lang": "en",
+ "published": "2026-10-29T11:30:01+00:00",
+ "created": "2026-10-29T19:42:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

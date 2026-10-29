@@ -1,0 +1,27 @@
+{
+ "key": "e3280ea7bb",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/cio-journal/ai-is-almost-the-easy-part-everything-else-is-hard-556c9204?mod=rss_Technology",
+ "title": "AI其实最好搞定？大厂财报揭秘背后的“大麻烦”！",
+ "summary": "微软和谷歌最新财报显示云业务增长强劲，但专家指出，在人工智能时代，技术本身反而是最容易的部分，真正的难点在于其他方面的挑战。",
+ "body": [
+  "最近微软（Microsoft）和谷歌（Google）交出的财报相当亮眼，两家公司的云服务业务都迎来了大幅增长。这说明大家对科技巨头的云端算力和技术需求依然非常旺盛。",
+  "不过，《华尔街日报》作者汤姆·洛夫图斯（Tom Loftus）指出，虽然人工智能（AI）现在火得不行，但把AI做出来其实只是“最轻松的第一步”。真正让人头疼的是接下来的各种落地难题，从基础设施、能源消耗到实际应用场景的适配，样样都不简单。",
+  "对于咱们海外华人来说，科技巨头在AI领域的军备竞赛不仅推高了相关股票的关注度，也正在悄悄改变未来的职场和商业环境。无论是搞技术还是做投资，接下来的挑战可能才刚开始。"
+ ],
+ "tags": [
+  "人工智能",
+  "微软",
+  "谷歌",
+  "财报",
+  "科技新闻"
+ ],
+ "original_title": "AI Is Almost the Easy Part. Everything Else Is Hard",
+ "lang": "en",
+ "published": "2026-10-29T13:12:00+00:00",
+ "created": "2026-10-29T19:41:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

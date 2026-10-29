@@ -1,0 +1,26 @@
+{
+ "key": "bbb6908f26",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/raizen-business-split-gives-shell-some-rights-over-fuel-unit",
+ "title": "壳牌要接盘？巴西生物燃料巨头Raizen拆分出售部分燃料业务",
+ "summary": "根据知情人士透露，巴西生物燃料制造商Raizen正准备出售部分燃料分销业务，同时让其大股东壳牌（Shell Plc）获得该盈利业务板块的大部分权益。",
+ "body": [
+  "据彭博社报道，知情人士透露，巴西生物燃料制造商Raizen SA正在将部分燃料分销业务挂牌出售。与此同时，这次业务拆分也将让其股东壳牌（Shell Plc）在这块利润丰厚的业务板块中获得重要的权益。",
+  "目前，Raizen正通过这一系列的资本动作来调整其业务结构。虽然具体的交易细节和财务数据尚未完全公开，但引入壳牌的深度参与，无疑将为该盈利业务板块的后续发展带来更多确定性。",
+  "对于海外华人车主和能源市场关注者来说，巨头之间的股权和业务调整往往会影响到长期的能源供应和油价走向。我们将持续关注这笔交易对北美及全球能源市场的后续影响。"
+ ],
+ "tags": [
+  "壳牌",
+  "Raizen",
+  "能源市场",
+  "海外财经"
+ ],
+ "original_title": "Raizen Business Split Gives Shell Some Rights Over Fuel Unit",
+ "lang": "en",
+ "published": "2026-10-29T17:53:51+00:00",
+ "created": "2026-10-29T19:43:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "ce75ea47cc",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/regulation/elizabeth-warren-demands-answers-from-anthropic-on-existential-risks-5362f009?mod=rss_markets_main",
+ "title": "沃伦参议员坐不住了！公开逼问AI巨头Anthropic：你们上市到底藏了啥风险？",
+ "summary": "美国民主党参议员伊丽莎白·沃伦（Elizabeth Warren）对AI巨头Anthropic在IPO文件中提到的“存在主义”风险深感担忧，在公司上市前列出一长串问题要求对方给个说法。",
+ "body": [
+  "美国政坛对AI的监管又出新动作了！民主党参议员伊丽莎白·沃伦（Elizabeth Warren）最近盯上了AI巨头Anthropic。事情的起因是，这家公司在准备首次公开募股（IPO）的文件中，竟然提到了所谓的“存在主义”风险，这让沃伦直呼“深感不安”。",
+  "为了搞清楚状况，沃伦直接向Anthropic发难，要求他们在公司正式上市前，必须对她列出的一长串问题给出明确答复。虽然目前细节还在发酵，但政客对AI商业化过程中潜在威胁的盯防显然越来越紧了。",
+  "对于关注科技股和AI发展的海外华人来说，这类监管动态可能会直接影响到AI板块的走势。大厂上市前频频爆出风险警示，也提醒我们在关注科技投资或相关行业合规时，得把眼睛擦亮一点，多留意政策风向对钱包和行业带来的震荡。"
+ ],
+ "tags": [
+  "Anthropic",
+  "伊丽莎白沃伦",
+  "人工智能",
+  "IPO",
+  "科技监管"
+ ],
+ "original_title": "Elizabeth Warren Demands Answers From Anthropic on ‘Existential’ Risks",
+ "lang": "en",
+ "published": "2026-10-28T09:00:00+00:00",
+ "created": "2026-10-29T19:41:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "8a6cadbcc6",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/finance-and-economics/2026/10/29/the-never-ending-absurdity-of-global-oil-markets",
+ "title": "中东打得热闹，油价怎么还在原地打转？",
+ "summary": "尽管海湾地区石油出口强劲，但由于地缘政治风险持续存在，布伦特原油价格依然接近伊朗冲突爆发时的峰值。",
+ "body": [
+  "最近国际油市可以说是让人看不懂。按理说，海湾地区的石油出口相当强劲，但布伦特原油（Brent）的价格却死死咬住此前因伊朗局势紧张而飙升的高位不放，荒诞感拉满。",
+  "专家分析指出，全球石油市场的这种“魔幻”现象背后，是供应端的韧性与地缘政治的不确定性在激烈博弈。一方面海湾产油国源源不断地往外运油，另一方面战乱和冲突的阴云始终笼罩，让市场紧绷的神经根本不敢松懈。",
+  "对于咱们海外华人来说，油价在高位盘整直接关系到日常出行的油费开销，甚至会推高物价影响通胀走势。如果油价继续居高不下，大家的钱包又要面临新一波压力了。"
+ ],
+ "tags": [
+  "油价",
+  "国际新闻",
+  "经济学人",
+  "海外生活",
+  "通货膨胀"
+ ],
+ "original_title": "The never-ending absurdity of global oil markets",
+ "lang": "en",
+ "published": "2026-10-29T11:16:13+00:00",
+ "created": "2026-10-29T19:42:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

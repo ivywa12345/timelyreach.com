@@ -1,0 +1,27 @@
+{
+ "key": "078e73a65c",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/polymarket-investigating-suspicious-trades-on-israel-election-44626e53?mod=rss_markets_main",
+ "title": "大选结果出炉前疯狂下注？预测市场Polymarket正调查以色列大选可疑交易",
+ "summary": "知名预测市场平台Polymarket正在对以色列大选期间的一批可疑交易展开调查。这笔交易在投票关闭前不久涌入，押注以色列总理内塔尼亚胡的表现会好于其竞争对手。",
+ "body": [
+  "据《华尔街日报》报道，知名预测市场平台 Polymarket（Polymarket）目前正在调查一桩发生在该平台上的可疑交易。这起事件发生在一场备受关注的以色列大选期间，引发了市场的广泛关注。",
+  "根据 Polymarket 的调查显示，这些被盯上的可疑交易集中在投票即将结束前的短时间内。当时，下注者疯狂押注以色列总理内塔尼亚胡（Benjamin Netanyahu）的最终表现将会超越他的主要竞争对手。",
+  "目前，该平台正在对这波异常资金流向及其背后的操作进行深入核查，以确定是否存在内幕交易或其他违规行为。"
+ ],
+ "tags": [
+  "Polymarket",
+  "以色列大选",
+  "内塔尼亚胡",
+  "预测市场",
+  "可疑交易"
+ ],
+ "original_title": "Polymarket Is Investigating Suspicious Trades on Israel Election",
+ "lang": "en",
+ "published": "2026-10-29T17:55:00+00:00",
+ "created": "2026-10-29T19:40:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

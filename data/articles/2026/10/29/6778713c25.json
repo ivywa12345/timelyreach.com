@@ -1,0 +1,27 @@
+{
+ "key": "6778713c25",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/shanghai-exchange-halts-bonded-copper-aluminium-deliveries",
+ "title": "上期所紧急出手！暂停保税仓库铜铝期货交割，发生了啥？",
+ "summary": "上海期货交易所（Shanghai Futures Exchange）已暂停使用保税仓库的铜和铝期货交割，此举可能影响长期以来中国贸易商利用该机制避税并将金属销往海外的操作。",
+ "body": [
+  "据彭博社（Bloomberg）报道，上海期货交易所（Shanghai Futures Exchange）近日做出决定，暂停了通过保税仓库进行铜和铝期货交割的结算机制。",
+  "长期以来，这一机制一直是国内贸易商用来避免对可销往海外的金属缴税的重要途径。此次暂停交割，意味着这项备受关注的操作模式迎来了变数。",
+  "目前该举措的具体后续影响尚在观察中，相关金属贸易商和业内人士正密切关注交易所的进一步动向。"
+ ],
+ "tags": [
+  "上海期货交易所",
+  "铜铝期货",
+  "保税仓库",
+  "金属贸易",
+  "财经快讯"
+ ],
+ "original_title": "Shanghai Exchange Halts Duty-Free Metal Delivery Against Futures",
+ "lang": "en",
+ "published": "2026-10-29T10:50:31+00:00",
+ "created": "2026-10-29T19:42:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

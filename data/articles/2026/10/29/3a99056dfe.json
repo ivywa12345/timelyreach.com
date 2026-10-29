@@ -1,0 +1,26 @@
+{
+ "key": "3a99056dfe",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-fed-decision-28baaa62?mod=rss_markets_main",
+ "title": "美元三连涨戛然而止！WSJ美元指数小幅回调",
+ "summary": "根据《华尔街日报》数据，WSJ美元指数微跌0.12%至97.18点，结束了此前连续三个交易日的上涨势头。",
+ "body": [
+  "如果你最近正盯着汇率准备换钱，可能会注意到美元稍微歇了口气。根据《华尔街日报》最新数据，WSJ Dollar Index（WSJ美元指数）在经历了一波“三连涨”之后，于近日小幅下跌了0.12%（摘要显示跌幅约为0.1%），最新报收于97.18点。",
+  "虽然这只是一个很小的波动，但对于关注外汇市场的朋友来说，也算是一个短期的方向调整。近期美元走势频频受到市场各种经济数据的牵动，此次回调暂时打断了之前的连涨势头。",
+  "对于咱们海外华人来说，汇率的每一次小波动都跟钱包息息相关。不管是打算把美金汇回国给家人，还是准备回国旅游消费，或者是手头有些投资理财需要调整的，都可以多关注几天的市场走势，看看这究竟是暂时的回调，还是新趋势的开始。"
+ ],
+ "tags": [
+  "美元指数",
+  "华尔街日报",
+  "汇率波动",
+  "海外理财"
+ ],
+ "original_title": "WSJ Dollar Index Falls 0.12% to 97.18",
+ "lang": "en",
+ "published": "2026-10-28T21:46:00+00:00",
+ "created": "2026-10-29T19:40:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

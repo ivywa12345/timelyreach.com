@@ -1,0 +1,26 @@
+{
+ "key": "74d20cdc69",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/south-carolina-s-us-senate-race-now-rated-toss-up-by-fox-news",
+ "title": "铁红州变天？福克斯新闻把南卡参议员选情改成了“胜负难料”！",
+ "summary": "福克斯新闻将传统共和党票仓南卡罗来纳州的参议员竞选评级下调为“胜负难料”，促使美国总统特朗普于周四紧急前往当地，为谋求连任的现任参议员琳赛·格雷厄姆（Darline Graham）站台助阵。",
+ "body": [
+  "据彭博社报道（作者：Erik Wasson 和 Skylar Woodhouse），福克斯新闻（Fox News）近日更新了最新的选情预测，将南卡罗来纳州这个传统的共和党“铁红州”参议员席位竞选，从原本的安全区直接下调到了“胜负难料”（toss-up）级别。",
+  "面对选情告急的压力，美国总统特朗普（Donald Trump）在周四迅速采取行动，亲自前往南卡罗来纳州，全力为面临严峻挑战的现任参议员琳赛·格雷厄姆（Darline Graham）拉票助威，试图稳住阵脚。"
+ ],
+ "tags": [
+  "美国大选",
+  "南卡罗来纳州",
+  "参议员选举",
+  "特朗普",
+  "福克斯新闻"
+ ],
+ "original_title": "Fox News Moves South Carolina Senate Contest to Toss-Up in New Rating",
+ "lang": "en",
+ "published": "2026-10-29T16:12:15+00:00",
+ "created": "2026-10-29T19:43:08+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

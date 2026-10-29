@@ -1,0 +1,25 @@
+{
+ "key": "d3f45b5394",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/netanyahu-s-likud-led-bloc-garners-most-seats-in-israel-election",
+ "title": "以色列大选出炉！内塔尼亚胡阵营抢下最多席次，但离过半还差一口气",
+ "summary": "本周以色列大选结果揭晓，现任总理内塔尼亚胡及其盟友拿下53个席位，领先反对派阵营的48席，但仍未达到独立组阁所需的多数席位。",
+ "body": [
+  "本周以色列举行了新一届大选，根据彭博社（Bloomberg）的报道，现任总理本杰明·内塔尼亚胡（Benjamin Netanyahu）领导的利库德集团及盟友阵营成功斩获了53个席位。",
+  "不过，虽然他们的席位超过了主要反对派阵营的48席，但依然没有达到能够直接独立组阁并执政的多数门槛，这意味着后续还需要争取其他力量的支持才能打破僵局。"
+ ],
+ "tags": [
+  "以色列大选",
+  "内塔尼亚胡",
+  "国际政治",
+  "中东局势"
+ ],
+ "original_title": "Netanyahu’s Likud-Led Bloc Garners Most Seats in Israel Election",
+ "lang": "en",
+ "published": "2026-10-29T18:02:33+00:00",
+ "created": "2026-10-29T19:43:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

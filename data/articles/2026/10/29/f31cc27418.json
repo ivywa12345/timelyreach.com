@@ -1,0 +1,28 @@
+{
+ "key": "f31cc27418",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/markets/tech-futures-tumble-alphabet-plunges-small-caps-rise-ahead-pce-ecb",
+ "title": "谷歌暴跌10%！科技股遭血洗，AI烧钱真的能回本吗？",
+ "summary": "美股期指周四集体走低，纳斯达克期指跌约1%，主要由于谷歌母公司Alphabet搜索和广告业务不及预期，股价盘前暴跌10%，再度引发市场对AI资本开支能否回本的担忧；与此同时，微软因云业务亮眼且开支受控而逆势上涨，中小盘股则表现强势。",
+ "body": [
+  "美股期指在周四盘前遭遇抛售，科技股重镇纳斯达克合同下滑，核心导火索是Alphabet（GOOGL）交出了一份令人失望的财报。由于其搜索和广告销售额不及预期，叠加连续两个季度出现自由现金流为负（这是该公司上市以来的首次），市场对其核心业务受到AI威胁的担忧再度加剧，导致其股价在盘前直接大跌10%。",
+  "不过科技巨头内部表现分化严重。微软（MSFT）因为云业务Azure增长强劲且资本开支得到控制，给焦虑的投资者吃了一颗定心丸，盘前股价逆势上涨约3%。此外，软件板块整体遭到重创，ServiceNow暴跌18%至19%、Fortinet暴跌26%，多只个股因业绩不及预期引发行业抛售。与此同时，外卖巨头DoorDash同意以约17亿美元估值收购竞争对手Instacart（CART），展现出行业整合的趋势。",
+  "宏观层面来看，随着美联储此前维持利率不变并在12月降息/加息预期上摇摆，加上市场正等待 PCE 通胀数据及欧洲央行（ECB）的最新决议，资金正从高高在上的AI主题流出，转向防御性和其他板块。AT Global Markets首席市场分析师尼克·特维代尔（Nick Twidale）指出：‘市场对AI和科技支出的担忧已经压倒了对巨额利润的预期，鉴于今年上半年涨幅惊人，第三季度的预期太高了，任何达不到卓越的表现都是失望。’",
+  "对身处海外的华人投资者和打工人来说，科技股的剧烈波动和AI投资回报的审视，直接关系到科技大厂的招聘预算、股票期权价值以及整体经济的走向。近期市场资金从高风险AI股向非AI板块（如金融、消费品）轮动，提醒我们在资产配置时需要更加分散，避免过度集中于单一高估值板块。"
+ ],
+ "tags": [
+  "美股",
+  "Alphabet",
+  "微软",
+  "AI泡沫",
+  "科技股"
+ ],
+ "original_title": "Tech Futures Tumble As Alphabet Plunges, Small Caps Rise Ahead Of PCE, ECB",
+ "lang": "en",
+ "published": "2026-10-29T12:13:02+00:00",
+ "created": "2026-10-29T19:43:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
