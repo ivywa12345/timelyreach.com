@@ -1,0 +1,27 @@
+{
+ "key": "9ebf120219",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/oil-is-gushing-out-of-the-gulf-why-are-prices-still-above-100-a-barrel-3ccff61d?mod=rss_markets_main",
+ "title": "墨西哥湾狂冒石油，油价怎么还死守100美元下不来？",
+ "summary": "尽管墨西哥湾石油产量大增，但加油站的高油价仍未给司机们带来什么喘息的机会。",
+ "body": [
+  "各位老司机最近去加油是不是肉疼？虽然最近有消息说墨西哥湾（Gulf of Mexico）正哗哗地往外流出石油，但油价就是不肯给面子，硬生生赖在每桶100美元以上不下来，想看到油价跌回以前简直太难了。",
+  "根据《华尔街日报》记者丽贝卡·冯（Rebecca Feng）的报道，目前高居不下的油价让那些盼着油费能降点、稍微减轻点生活压力的车主们彻底凉了半截，完全看不到油价下跌的希望。",
+  "对咱们在海外谋生的华人来说，油价一直高位运行直接关系到日常通勤和出行的钱包厚度。不管是接送孩子上学还是开车上下班，这笔刚性开销看来短期内是省不下来了，大家只能继续精打细算过日子。"
+ ],
+ "tags": [
+  "油价",
+  "墨西哥湾",
+  "通货膨胀",
+  "海外生活",
+  "财经热点"
+ ],
+ "original_title": "Oil Is Gushing Out of the Gulf. Why Are Prices Still Above $100 a Barrel?",
+ "lang": "en",
+ "published": "2026-10-29T00:00:00+00:00",
+ "created": "2026-10-29T02:28:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

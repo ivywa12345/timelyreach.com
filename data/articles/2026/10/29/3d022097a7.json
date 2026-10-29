@@ -1,0 +1,27 @@
+{
+ "key": "3d022097a7",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/justice-department-appeals-order-over-20-000-california-ballots",
+ "title": "2万张加州选票到底数不数？美国司法部急了，直接提起上诉！",
+ "summary": "美国司法部因为公民身份存疑的问题，要求暂缓计算加州多达2万张邮寄选票，但遭到法官拒绝。司法部不服，目前已经正式提起上诉。",
+ "body": [
+  "话说美国大选的各种官司还在继续。根据彭博社（Bloomberg）记者埃里克·拉尔森（Erik Larson）的报道，美国司法部（US Justice Department）最近杠上了加州的一批邮寄选票。事情是这样的：司法部之前觉得加州有大约2万张邮寄选票的公民身份有点问题，要求法庭赶紧下令暂缓统计这批选票。",
+  "不过，审理此案的法官并没有买账，直接拒绝了司法部的请求。司法部显然咽不下这口气，目前已经正式针对这个裁决提出了上诉，非要争个明白不可。",
+  "对咱们海外华人来说，选票和选举合法性一直都是大家茶余饭后热议的话题，毕竟这直接关系到当地的政治风向和社区治理。这2万张选票最后到底能不能数、怎么数，咱们还得继续吃瓜看后续法院怎么判。"
+ ],
+ "tags": [
+  "美国司法部",
+  "加州选票",
+  "美国大选",
+  "邮寄选票",
+  "法律诉讼"
+ ],
+ "original_title": "Justice Department Appeals Order Over 20,000 California Ballots",
+ "lang": "en",
+ "published": "2026-10-29T02:14:26+00:00",
+ "created": "2026-10-29T02:30:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

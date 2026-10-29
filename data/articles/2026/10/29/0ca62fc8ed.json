@@ -1,0 +1,25 @@
+{
+ "key": "0ca62fc8ed",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/economy/central-banking/the-feds-ai-puzzle-will-high-rates-slow-the-boom-c9c43ce2?mod=rss_markets_main",
+ "title": "美联储主席凯文·沃什：高利率遇上人工智能热潮，该怎么降息？",
+ "summary": "美联储官员凯文·沃什（Kevin Warsh）表示，高利率正在对投资热潮产生影响，同时经济增长也正在超越这一领域，这让利率决策面临复杂的局面。",
+ "body": [
+  "最近美联储内部对利率走向有了新的讨论。美联储主席凯文·沃什（Kevin Warsh）指出，持续的高利率已经开始传导至目前的投资热潮，而与此同时，整体经济增长也开始向更多领域扩展。",
+  "不过，这些不同的经济信号也让美联储在接下来该把利率定在什么水平上产生了分歧，不同的立场在政策方向上产生了拉扯。"
+ ],
+ "tags": [
+  "美联储",
+  "利率",
+  "经济",
+  "投资"
+ ],
+ "original_title": "The Fed’s AI Puzzle: Will High Rates Slow the Boom?",
+ "lang": "en",
+ "published": "2026-10-29T01:12:00+00:00",
+ "created": "2026-10-29T02:29:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

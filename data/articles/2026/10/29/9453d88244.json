@@ -1,0 +1,25 @@
+{
+ "key": "9453d88244",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/americas/latin-americas-right-wing-surge-suddenly-seems-vulnerable-8399a911?mod=rss_worldnews",
+ "title": "拉美右翼崛起势头怎么突然悬了？这事让美国有点头大",
+ "summary": "随着卢拉在巴西大选中的胜利，拉美最大的两个经济体巴西和墨西哥目前均由左翼执政，这给美国试图在西半球建立区域保守派联盟的宏伟计划泼了一盆冷水。",
+ "body": [
+  "话说回来，最近拉美政坛的风向真是说变就变。根据《华尔街日报》的报道，随着卢拉（Lula）赢得大选，巴西和墨西哥这两大拉美经济支柱双双落入左翼手中。这一政治格局的转变，直接打乱了美国在后院布局的算盘，让美国想要打造一个区域保守派联盟的梦想变得更加复杂和棘手。",
+  "长期以来，美国一直希望在拉美拉拢一帮右翼或者保守派盟友，好在区域事务上形成合力。但现在，随着拉美左翼力量的重新抬头，这种战略同盟的建设难度直线上升。对于关注美洲地缘政治走向的人来说，这种政坛的左右摇摆不仅影响外交政策，也可能对整个美洲大陆的经贸合作带来新的变数。"
+ ],
+ "tags": [
+  "拉美政治",
+  "美国外交",
+  "巴西大选",
+  "国际风云"
+ ],
+ "original_title": "Latin America’s Right-Wing Surge Suddenly Seems Vulnerable",
+ "lang": "en",
+ "published": "2026-10-29T00:00:00+00:00",
+ "created": "2026-10-29T02:28:32+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

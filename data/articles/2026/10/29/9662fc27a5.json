@@ -1,0 +1,28 @@
+{
+ "key": "9662fc27a5",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/10/28/us-news/energy-dept-lab-fire-sparks-nuclear-scare-after-radiological-release-at-sc-facility/",
+ "title": "南卡核设施突发火灾！引发“放射性物质泄漏”虚惊一场，交通一度全面管制",
+ "summary": "美国能源部位于南卡罗来纳州的萨凡纳河核研究设施周三傍晚发生火灾，导致局部“放射性物质泄漏”，并一度引发交通管制。官方表示污染未扩散至建筑外部。",
+ "body": [
+  "周三傍晚，美国能源部（US Department of Energy）位于南卡罗来纳州的萨凡纳河核研究设施（Savannah River Site）内发生了一起火灾，并引发了关于“放射性物质泄漏”的虚惊，当地的铁路、水路和空中交通一度被迫关闭。",
+  "根据官方通报，火灾于当天下午5点40分左右发生在萨凡纳河国家实验室（Savannah River National Laboratory）内的一个房间里，不到两个小时就被扑灭。虽然萨凡纳河基地（SRS）表示污染并未扩散到“受影响”的建筑之外，但这场火灾确实导致了一次“未经过滤的地面级放射性释放”。",
+  "火情发生时，A区实验室的工作人员被迫在掩体后就地避险约30分钟。作为预防措施，未参与应急响应或停工操作的员工也被安排就地避险。受此影响，该地区的铁路、水路、空中交通以及基地的出入口均受到了交通管制。",
+  "据了解，萨凡纳河基地占地310平方英里，横跨南卡罗来纳州的多个县，主要从事核环境清理及相关技术的研发。该基地既是一个清理项目所在地，也是国家安全和核科学的活跃中心。"
+ ],
+ "tags": [
+  "美国新闻",
+  "核设施火灾",
+  "南卡罗来纳州",
+  "放射性泄漏",
+  "突发事件"
+ ],
+ "original_title": "Energy Department lab fire sparks nuclear scare after ‘radiological release’ at SC facility",
+ "lang": "en",
+ "published": "2026-10-29T01:28:42+00:00",
+ "created": "2026-10-29T02:31:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

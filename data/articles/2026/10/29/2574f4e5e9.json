@@ -1,0 +1,25 @@
+{
+ "key": "2574f4e5e9",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/philippines-may-use-more-tools-to-stem-peso-slide-analysts-say",
+ "title": "菲律宾比索今年跌惨了！对美元汇率大跌近8%，央行要放大招了？",
+ "summary": "由于今年菲律宾比索对美元汇率暴跌近8%，市场分析人士预计，菲律宾中央银行可能会动用更多政策工具来稳定汇率。",
+ "body": [
+  "今年以来，菲律宾比索（Philippine peso）对美元的汇率一路下滑，跌幅已经逼近8%。看着货币这么个跌法，市场分析人士纷纷猜测，菲律宾央行可能坐不住了，接下来得掏出更多的工具来稳住汇率。",
+  "作为东南亚的主要货币之一，比索近期的疲软主要受到了美元走强等多重市场因素的挤压。业内观察家指出，如果贬值趋势持续下去，可能会对当地的进口成本和通胀压力造成进一步影响。"
+ ],
+ "tags": [
+  "菲律宾比索",
+  "汇率下跌",
+  "菲律宾央行",
+  "外汇市场"
+ ],
+ "original_title": "Philippines May Use More Tools to Stem Peso Slide, Analysts Say",
+ "lang": "en",
+ "published": "2026-10-29T01:15:02+00:00",
+ "created": "2026-10-29T02:29:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

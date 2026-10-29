@@ -1,0 +1,25 @@
+{
+ "key": "f3c0b910c1",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/shapoorji-seeks-to-raise-up-to-200-million-to-repay-debt",
+ "title": "急着还债！印度商业巨头Shapoorji Pallonji正四处筹集2亿美元",
+ "summary": "印度知名企业集团Shapoorji Pallonji Group因面临沉重的债务压力，目前正寻求筹集1.5亿至2亿美元资金用于还债。",
+ "body": [
+  "据知情人士向彭博社透露，印度老牌企业集团Shapoorji Pallonji Group（Shapoorji Pallonji集团）目前正紧锣密鼓地寻求筹集1.5亿至2亿美元（约合1.5亿至2亿美元）的资金。",
+  "知情人士表示，这家印度企业巨头此举主要是为了应对当前不断压顶的债务压力，缓解资金链条的紧张状况。"
+ ],
+ "tags": [
+  "印度经济",
+  "企业债务",
+  "融资",
+  "海外财经"
+ ],
+ "original_title": "Shapoorji Seeks to Raise Up to $200 Million to Repay Debt",
+ "lang": "en",
+ "published": "2026-10-29T00:56:44+00:00",
+ "created": "2026-10-29T02:29:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

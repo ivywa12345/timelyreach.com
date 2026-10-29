@@ -1,0 +1,26 @@
+{
+ "key": "eaabe532c9",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/lynas-expects-one-month-shutdown-at-malaysian-rare-earths-plant",
+ "title": "马来西亚稀土厂要停工一个月？官方：放心，订单不受影响！",
+ "summary": "稀土巨头莱纳斯公司（Lynas Rare Earths Ltd.）宣布其位于马来西亚的精炼厂将进行计划中的维护，导致本季度产量下降，但库存充足，不会影响客户订单。",
+ "body": [
+  "稀土巨头莱纳斯公司（Lynas Rare Earths Ltd.）近日宣布，他们计划对位于马来西亚的稀土精炼厂进行例行维护，预计将导致该厂停工一个月，并直接削减本季度的产量。",
+  "不过，该公司给客户吃了一颗定心丸。莱纳斯表示，目前手中握有充足的关键矿物库存，完全有能力保证客户的订单按时交付，不会受到此次停工维护的波及。"
+ ],
+ "tags": [
+  "稀土",
+  "莱纳斯",
+  "马来西亚",
+  "供应链",
+  "海外快讯"
+ ],
+ "original_title": "Lynas Expects One-Month Shutdown at Malaysian Rare-Earths Plant",
+ "lang": "en",
+ "published": "2026-10-29T01:58:46+00:00",
+ "created": "2026-10-29T02:29:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
