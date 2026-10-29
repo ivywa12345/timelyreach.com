@@ -29,7 +29,9 @@ export async function onRequestPost({ request, env }) {
   let given = request.headers.get("x-admin-password") || "";
   try { given = decodeURIComponent(given); } catch { /* sent unencoded */ }
   if (!sameSecret(norm(given), norm(env.ADMIN_PASSWORD))) {
-    return json(401, { error: "后台密码不对" });
+    // temporary diagnostic: lengths only, never the values
+    const a = norm(given), b = norm(env.ADMIN_PASSWORD);
+    return json(401, { error: `后台密码不对（你输入 ${a.length} 位，服务器上是 ${b.length} 位）` });
   }
   let doc;
   try {
