@@ -1,0 +1,28 @@
+{
+ "key": "ab84c4fceb",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+ "title": "太突然！知名预测平台Polymarket遭黑客黑手，用户资金被盗，官方承诺全赔",
+ "summary": "预测市场平台Polymarket国际版近日遭遇黑客攻击，导致部分用户资金被盗。官方已紧急暂停交易并修复漏洞，承诺自掏腰包全额赔偿受影响用户，同时已将案件移交英国警方。",
+ "body": [
+  "就在美国中期选举即将开打、交易量暴增的关键节骨眼上，知名预测市场平台 Polymarket 国际版（Polymarket's international exchange）却出事了！周四下午，不少网友在社交媒体上爆料，称自己的账户出现了莫名其妙的未经授权提现。原来，平台遭遇了黑客攻击，导致部分用户的资金被盗。",
+  "发现情况不对后，Polymarket 反应倒也快，立刻叫停了国际版的交易。据知情人士向 CNBC 透露，这次事故的源头其实是第三方网站性能监控平台 DebugBear 遭到黑客入侵。由于 DebugBear 总部在英国，Polymarket 已经把这起案件正式移交给了英国执法部门处理（U.K. authorities）。",
+  "好在漏洞很快被修补，官方表示国际版的交易已经在美东时间下午 3 点恢复，且美国本土的平台并没有受到影响。虽然受波及的具体人数还没公布，但 Polymarket 已经拍胸脯保证，所有受影响的交易员都会获得赔偿。其实早在今年 6 月，这家平台就发生过类似第三方供应商被黑的事，当时也是承诺给用户退款。",
+  "对于喜欢在加密货币和预测市场投资的海外华人来说，这类平台虽然热闹，但第三方服务商的安全漏洞确实防不胜防。尤其是在大选等大行情来临前夕，资金安全和账户防护千万不能马虎，大家把钱放在去中心化平台上时还是得多留个心眼。"
+ ],
+ "tags": [
+  "Polymarket",
+  "黑客攻击",
+  "资金安全",
+  "加密货币",
+  "预测市场"
+ ],
+ "original_title": "Some Polymarket user funds stolen by hackers, exchange referring matter to U.K. authorities",
+ "lang": "en",
+ "published": "2026-10-29T19:40:13+00:00",
+ "created": "2026-10-29T19:48:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

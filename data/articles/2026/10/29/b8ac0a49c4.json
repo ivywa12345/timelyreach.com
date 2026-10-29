@@ -1,0 +1,28 @@
+{
+ "key": "b8ac0a49c4",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+ "title": "黄仁勋被美国情报部门盯上？Nvidia火速辟谣：纯属无稽之谈！",
+ "summary": "Nvidia官方紧急回应《纽约时报》关于CEO黄仁勋身边人涉嫌“中国间谍”的报道，称相关指控毫无依据，并强调公司云服务客户的合规性。",
+ "body": [
+  "近日有媒体爆出猛料，称美国情报机构曾监视一名与Nvidia（英伟达）CEO黄仁勋（Jensen Huang）关系密切的女子，怀疑她是中国的间谍。对此，Nvidia发言人在周四进行了强烈的回击，直言这种说法根本站不住脚。",
+  "根据《纽约时报》的报道，这名女子名为Alice Huang，与总部位于新加坡的云服务公司Megaspeed有关联，曾与黄仁勋关系密切。美国情报部门一度担心她会帮助中国获取Nvidia的机密。不过，Nvidia发言人澄清说，Megaspeed只是公司的区域云客户之一，黄仁勋每年要跟成千上万的客户交流，这种互动非常正常，而且客户根本接触不到核心商业机密或国家安全信息。",
+  "此外，报道还提到Megaspeed此前曾被怀疑协助他人规避美国对华AI芯片的出口管制。Nvidia对此回应称，针对该区域云的所谓“转移指控”在去年就已经被彻底调查过，证明是子虚乌有。Nvidia还暗示，如果美国政府真的认为某人构成了威胁，肯定早就通知他们了。",
+  "作为目前全球AI浪潮的执牛耳者，Nvidia在华盛顿的处境一直如履薄冰，其AI芯片既是科技界香饽饽，也是中美博弈的焦点。黄仁勋本人此前一直在积极拉近与美国政府的关系，推动AI基础设施建设。Nvidia发言人最后指出，中国政府其实并没有通过Megaspeed这样的区域云来寻求Nvidia产品，反而还曾阻止美国AI芯片进口以保护本土产业，这导致Nvidia去年承受了巨大的财务损失。"
+ ],
+ "tags": [
+  "Nvidia",
+  "黄仁勋",
+  "美国情报",
+  "芯片出口管制",
+  "中美科技战"
+ ],
+ "original_title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
+ "lang": "en",
+ "published": "2026-10-29T19:16:32+00:00",
+ "created": "2026-10-29T19:47:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

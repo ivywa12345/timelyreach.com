@@ -1,0 +1,28 @@
+{
+ "key": "d39324bb07",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+ "title": "亚马逊财报今晚盘后揭晓：云业务火爆但AI烧钱引发全场盯梢！",
+ "summary": "亚马逊（Amazon）将于周四盘后公布第三季度财报，华尔街正密切关注其AWS云业务的高速增长、高达千亿级别的AI烧钱支出，以及对公司现金流和裁员的影响。",
+ "body": [
+  "亚马逊（Amazon）将在本周四收盘后交出第三季度财报成绩单。根据LSEG的数据，华尔街分析师预计其调整后每股收益为1.96美元，总营收预计达2,023.1亿美元。",
+  "云服务（AWS）依然是全场焦点。StreetAccount的数据显示，AWS销售额预计将强劲增长38%，这将是其连续第五个季度实现营收加速。亚马逊CEO安迪·贾西（Andy Jassy）上周透露，由于需求爆棚，明年的云服务产能“基本上已经卖光”，甚至2028年的很多份额也被提前预定。不过，为了满足AI算力需求，亚马逊疯狂砸钱建设数据中心，导致自由现金流由正转负，上一财年同期正向18.2亿美元的现金流，在7月份变成了负76亿美元。与此同时，亚马逊也在持续缩减员工规模，自2022年以来已累计裁员超过5.7万人（约占企业员工总数的16%），本周三其设备软件与服务团队又裁掉了不到250人。",
+  "对于在美华人来说，巨头在AI领域的军备竞赛不仅关乎科技股投资者的钱袋子，也直接影响着大厂打工人的职业稳定。此外，亚马逊近期为了保护自身利益，不仅封禁了Meta的AI购物助手 Muse，还起诉了Perplexity等外部AI初创公司，全力推广自家的“Alexa for Shopping”工具。随着各大巨头纷纷杀入AI购物赛道，未来咱们网购找好货的方式可能又要大变样了。"
+ ],
+ "tags": [
+  "亚马逊",
+  "财报",
+  "AWS",
+  "美股",
+  "AI投资",
+  "裁员"
+ ],
+ "original_title": "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
+ "lang": "en",
+ "published": "2026-10-29T16:00:01+00:00",
+ "created": "2026-10-29T19:47:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

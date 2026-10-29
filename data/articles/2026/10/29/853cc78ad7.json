@@ -1,0 +1,26 @@
+{
+ "key": "853cc78ad7",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/america-s-farm-firms-signal-more-murky-times-with-soaring-costs",
+ "title": "油价飙升、出口不稳！美国农民这日子怕是又要难过了？",
+ "summary": "根据彭博社报道，由于创纪录的柴油价格和不稳定的农产品出口，美国的农业企业和农机制造商正面临着更大的不确定性，期待中的行业复苏迟迟未能到来。",
+ "body": [
+  "最近打算关注美国农业的朋友可能要叹气了。根据彭博社（Bloomberg）的报道，创纪录的柴油价格再加上时好时坏的农产品出口，正给那些盼着行业苦尽甘来的农作物贸易商和农机制造商当头泼了一盆冷水。",
+  "本来大家还指望农业市场能迎来一波强劲复苏，但现在看来，高昂的运营成本和变数不断的国际贸易让前景变得扑朔迷离。不管是开着大卡车运货的，还是造拖拉机的，最近日子都过得有点心惊肉跳。",
+  "对咱们海外华人来说，农业景气与否往往直接牵动着菜篮子和整体经济的神经。虽然咱们不直接种地，但物流成本居高不下，最终大概率还是会转嫁到日常消费的物价上，大家的钱包恐怕又要多经受一番考验了。"
+ ],
+ "tags": [
+  "美国经济",
+  "通货膨胀",
+  "农业成本",
+  "海外生活"
+ ],
+ "original_title": "America’s Farm Firms Signal More Murky Times With Soaring Costs",
+ "lang": "en",
+ "published": "2026-10-29T17:32:22+00:00",
+ "created": "2026-10-29T19:47:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "11cb914a0f",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/lula-enfrenta-presion-por-moraes-y-el-tribunal-supremo-de-brasil",
+ "title": "巴西总统卢拉这也头疼？对前总统的禁令连自己人都坐不住了！",
+ "summary": "据彭博社报道，巴西最高法院对前总统博索纳罗的限制令引发了各方关注，甚至让现任总统卢拉的盟友和身边人也感到不安。",
+ "body": [
+  "根据彭博社（Bloomberg）报道，最近巴西最高法院（Supreme Court）针对前总统博索纳罗（Jair Bolsonaro）下达的一道司法命令，在政坛激起了千层浪。让人意外的是，这股不安的情绪不仅在反对派里蔓延，甚至连现任总统卢拉（Luiz Inácio Lula da Silva）的核心社交圈和盟友内部，都开始觉得有些不是滋味。",
+  "目前，这起司法风波的具体细节仍在持续发酵中，各方政治力量正在密切关注最高法院与行政部门之间的微妙关系，以及它对巴西政坛稳定可能产生的影响。"
+ ],
+ "tags": [
+  "巴西政治",
+  "卢拉",
+  "博索纳罗",
+  "最高法院"
+ ],
+ "original_title": "Lula enfrenta presión por Moraes y el Tribunal Supremo de Brasil",
+ "lang": "en",
+ "published": "2026-10-29T17:52:26+00:00",
+ "created": "2026-10-29T19:47:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

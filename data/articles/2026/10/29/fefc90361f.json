@@ -1,0 +1,28 @@
+{
+ "key": "fefc90361f",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+ "title": "谷歌搜索终于被AI抢生意了？财报不及预期，股价盘后大跌10%！",
+ "summary": "由于核心搜索业务营收增长放缓且不及预期，Alphabet最新财报遭到华尔街痛击，盘后股价大跌约10%。尽管搜索查询量创下五年来新高，但分析认为AI聊天机器人正在分流传统搜索流量，不过其云业务表现亮眼。",
+ "body": [
+  "谷歌母公司 Alphabet 近日交出了一份让华尔街大跌眼镜的财报。虽然整体营收和利润均逊于预期，但最引人注目的还是它的核心支柱——搜索业务（Search）。",
+  "数据显示，搜索及其他业务营收同比增长12%至约630亿美元，但已连续第二个季度低于市场预期。让人尴尬的是，Google 表示平台的搜索查询量其实创下了五年来的最高增速。这种“人越来越多、钱没涨多少”的尴尬反差，让外界更加确信：AI聊天机器人和智能代理（Agent）正在实实在在地啃食传统搜索的蛋糕。Deepwater Asset Management 的分析师 Gene Munster 指出，如果个性化AI机器人大行其道，它们将成为很多人的商业起点，从而对谷歌的基本盘造成直接冲击。",
+  "受财报拖累以及高达90亿美元的季度自由现金流赤字影响，Alphabet 股价在盘后交易中一度暴跌约10%。公司高管解释称，汇率波动是搜索营收增速放缓的最大幕后推手。不过，Alphabet 在AI基建上的砸钱力度丝毫没有减弱，其2026年资本支出预测维持在1950亿至2050亿美元之间，并预计2027年还会大幅增加。",
+  "相比焦虑的搜索业务，Alphabet 的云业务（Cloud）则成了赚钱的大功臣。云部门营收同比翻倍，达到近31亿美元，云服务订单储备（Backlog）更是达到了惊人的5600亿美元，显示出市场对AI基础设施的疯狂需求。D.A. Davidson 分析师 Gil Luria 认为，2023年到2025年间市场对AI冲击谷歌的担忧，如今终于在财报中显现出来了，投资者不得不重新评估AI商业化对谷歌未来的真正影响。"
+ ],
+ "tags": [
+  "Alphabet",
+  "谷歌",
+  "人工智能",
+  "美股财报",
+  "AI搜索"
+ ],
+ "original_title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+ "lang": "en",
+ "published": "2026-10-29T16:25:40+00:00",
+ "created": "2026-10-29T19:47:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

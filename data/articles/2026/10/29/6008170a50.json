@@ -1,0 +1,26 @@
+{
+ "key": "6008170a50",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/apple-squeezed-these-chip-suppliers-for-years-ai-is-helping-them-get-even-ea73a0e4?mod=rss_Technology",
+ "title": "被苹果压榨多年，这群芯片厂靠AI终于要翻身了？",
+ "summary": "华尔街日报报道指出，过去多年被苹果公司压榨的芯片供应商们，如今正借助人工智能（AI）浪潮迎来翻盘的机会。",
+ "body": [
+  "话说回来，科技巨头苹果公司（Apple）多年来对供应链上的芯片供应商可以说是各种拿捏，压榨得挺狠。不过根据《华尔街日报》记者Emma Tucker的报道，风水轮流转，随着AI时代的爆发，这些芯片供应商终于迎来了翻身扬眉吐气的好机会。",
+  "虽然报道摘要里还顺便提到了律所Weil Gotshal要关门大吉，以及一场耗资3.11亿美元、旨在打造全美最贵豪宅之一的抢地大战，但对于咱们海外华人特别是关注科技股和行业动向的朋友来说，苹果和芯片供应商这波关系的微妙变化，绝对是值得盯紧的风向标。"
+ ],
+ "tags": [
+  "苹果",
+  "芯片供应商",
+  "人工智能",
+  "华尔街日报",
+  "科技财经"
+ ],
+ "original_title": "Apple Squeezed These Chip Suppliers for Years. AI Is Helping Them Get Even.",
+ "lang": "en",
+ "published": "2026-10-29T09:47:00+00:00",
+ "created": "2026-10-29T19:45:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

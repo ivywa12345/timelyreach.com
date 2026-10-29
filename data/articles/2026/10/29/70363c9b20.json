@@ -1,0 +1,26 @@
+{
+ "key": "70363c9b20",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+ "title": "美联储官宣：这家堪萨斯州银行终于“摘帽”过关了！",
+ "summary": "美联储于2026年10月16日宣布，正式解除对堪萨斯州加德纳金融公司（Gardner Bancshares, Inc.）和小企业银行（Small Business Bank）的多项监管处罚令。",
+ "body": [
+  "如果你关注美国金融监管的动向，最近可能注意到了一则新消息。美联储（Federal Reserve Board）在周五正式宣布，取消了对位于堪萨斯州列克星敦（应为Lenexa，原文Lenexa）的加德纳金融公司（Gardner Bancshares, Inc.）以及小企业银行（Small Business Bank）的一系列执法行动。",
+  "回顾过去的监管记录，这家小企业银行（Small Business Bank）此前背负了不少合规压力。它曾在2023年9月1日被下达停止和 desist 令和解令（Cease and Desist Order），随后在2024年11月13日又吃了一张同类罚单。紧接着在2026年6月29日，美联储还对其采取了迅速纠正行动（Prompt Corrective Action）。不过好消息是，随着美联储的最新评估，所有这些在2023年到2026年间落下的大棒，已经在2026年10月13日全部正式终止。",
+  "对在美华人来说，这类地方性银行的监管动态虽然不直接影响日常生活，但也折射出美国银行业在合规风控方面的持续整顿。能顺利从美联储的“黑名单”或重点监管中解脱出来，说明该银行已经达到了监管部门的整改要求，恢复了正常的运营合规状态。"
+ ],
+ "tags": [
+  "美联储",
+  "银行监管",
+  "财经快讯",
+  "美国金融"
+ ],
+ "original_title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+ "lang": "en",
+ "published": "2026-10-16T15:00:00+00:00",
+ "created": "2026-10-29T19:48:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

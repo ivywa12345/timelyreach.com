@@ -1,0 +1,26 @@
+{
+ "key": "d717b08198",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/pepperand-salt-12332e4b?mod=rss_opinion",
+ "title": "华尔街日报的幽默哲学：盐和胡椒的简短人生哲学",
+ "summary": "华尔街日报近期发表了一篇风格轻松、充满生活哲学的短文《Pepper…and Salt》，探讨了餐桌上最常见的调味品所折射出的趣味日常。",
+ "body": [
+  "如果你最近翻开《华尔街日报》（The Wall Street Journal），可能会被一篇题为《Pepper…and Salt》的短小精悍的内容吸引。虽然没有宏大的国际新闻或经济数据，但它用独特的视角记录了生活中的小趣味。",
+  "这类文章通常是该报标志性的轻阅读栏目，通过幽默的笔触和日常细节，为忙碌的读者提供片刻的轻松和笑声。",
+  "对于海外华人来说，在快节奏的职场和生活压力之下来点这样的轻松读物，不仅能放松心情，也是感受地道英语幽默和文化氛围的一个小窗口。"
+ ],
+ "tags": [
+  "华尔街日报",
+  "生活哲学",
+  "海外闲聊",
+  "轻松阅读"
+ ],
+ "original_title": "Pepper…and Salt",
+ "lang": "en",
+ "published": "2026-10-29T04:00:00+00:00",
+ "created": "2026-10-29T19:46:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
