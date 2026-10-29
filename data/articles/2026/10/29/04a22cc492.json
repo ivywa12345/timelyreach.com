@@ -1,0 +1,25 @@
+{
+ "key": "04a22cc492",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/air-canada-reduces-profit-outlook-again-on-jet-fuel-costs",
+ "title": "油价太狠！加拿大航空连续第二个季度下调利润预期",
+ "summary": "由于航空煤油价格居高不下，加拿大最大航空公司加拿大航空（Air Canada）再次下调了全年的利润预期。",
+ "body": [
+  "如果你最近准备坐飞机或者关注航空股，可能得注意这个消息了。根据彭博社（Bloomberg）记者 Thomas Seal 的报道，由于航空煤油价格的涨势超出了预期，加拿大航空（Air Canada）不得不连续第二个季度削减其全年的业绩指引。",
+  "作为加拿大最大的航空公司，加航原本对今年抱有不错的期望，但高昂的燃油成本直接侵蚀了公司的利润。这也是他们继上个季度之后，再次被迫向下修正财务预期，可见航油价格对航空公司的打击有多大。"
+ ],
+ "tags": [
+  "加拿大航空",
+  "机票",
+  "油价",
+  "海外出行"
+ ],
+ "original_title": "Air Canada Reduces Profit Outlook Again on Jet Fuel Costs",
+ "lang": "en",
+ "published": "2026-10-29T21:03:30+00:00",
+ "created": "2026-10-29T23:50:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

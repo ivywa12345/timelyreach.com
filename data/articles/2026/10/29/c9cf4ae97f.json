@@ -1,0 +1,27 @@
+{
+ "key": "c9cf4ae97f",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/economy-gdp-investment-boom-tariffs-inflation-donald-trump-071da0e2?mod=rss_opinion",
+ "title": "美国经济到底行不行？最新GDP亮了，但这俩政策成“拖后腿”的",
+ "summary": "美国最新GDP增速达到3.4%，表现亮眼，但《华尔街日报》编辑委员会指出，如果不是关税和大规模驱逐移民的政策拖后腿，经济数据本可以更强劲。",
+ "body": [
+  "最近美国经济又给了一波惊喜！根据《华尔街日报》社论板（The Editorial Board）的报道，美国最新的GDP（国内生产总值）增长率表现强劲，达到了3.4%。",
+  "不过，文章也直言不讳地指出，如果不是受到了关税以及大规模驱逐非法移民政策的负面拖累，这次的经济增长数据本来还可以更加亮眼。",
+  "对于身在海外的华人来说，宏观经济数据的强劲虽然听着提气，但关税政策直接关系到日常进口商品的物价和咱们的钱包，而移民政策也牵动着劳动力市场和各行各业的用工成本。这些政策最终都会实实在在地影响到华人的日常生活和生意经营。"
+ ],
+ "tags": [
+  "美国经济",
+  "GDP增长",
+  "华尔街日报",
+  "关税政策",
+  "海外华人"
+ ],
+ "original_title": "The U.S. Investment Boom Arrives",
+ "lang": "en",
+ "published": "2026-10-29T21:50:00+00:00",
+ "created": "2026-10-29T23:50:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

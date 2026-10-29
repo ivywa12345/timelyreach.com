@@ -1,0 +1,27 @@
+{
+ "key": "e4e4ccbc70",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d?mod=rss_Technology",
+ "title": "预测市场Polymarket遭黑客洗劫数百万！官方紧急表态：亏的钱全赔",
+ "summary": "知名预测市场平台Polymarket近日发生安全漏洞，黑客盗取了用户数百万美元资产。平台官方随后表示，将全额赔偿受影响的交易员。",
+ "body": [
+  "据《华尔街日报》报道，知名预测市场平台Polymarket近日遭遇黑客攻击，导致用户价值数百万美元的资产被盗。这起最新的安全漏洞事件再次敲响了加密货币和预测市场领域的安全警钟。",
+  "不过，对于不幸中招的交易员来说算是不幸中的万幸。Polymarket官方随后表态称，在此次安全事故中损失资金的用户将会“获得全额赔偿”（made whole）。",
+  "对于关注加密货币和链上投资的海外华人来说，这类黑客事件提醒我们，把资产放在去中心化平台或热钱包时，安全性永远是第一位的。虽然官方承诺赔付，但防范未然、注意账户安全依然是保护自己钱包的关键。"
+ ],
+ "tags": [
+  "Polymarket",
+  "黑客攻击",
+  "网络安全",
+  "加密货币",
+  "海外华人"
+ ],
+ "original_title": "Hackers Swipe Millions From Polymarket Users in Latest Security Breach",
+ "lang": "en",
+ "published": "2026-10-29T21:25:00+00:00",
+ "created": "2026-10-29T23:50:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

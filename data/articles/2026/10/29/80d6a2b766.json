@@ -1,0 +1,27 @@
+{
+ "key": "80d6a2b766",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/trump-lubbock-texas-oil-drilling-epa-lee-zeldin-13b85d0d?mod=rss_opinion",
+ "title": "特朗普上台第一把火？拜登时期的天然气钻探重罚被推翻！",
+ "summary": "美国环保署（EPA）正式推翻了一项由拜登政府时期制定的、针对天然气钻探的高成本环保规定。",
+ "body": [
+  "美国环保署（EPA）最近有了大动作，直接推翻了拜登政府时期针对天然气钻探的一项成本高昂的环保规定。华尔街日报编辑委员会（The Editorial Board）指出，这是特朗普在放松能源管制方面取得的一个重要进展。",
+  "在此之前，拜登政府的这项规定给油气钻探企业套上了沉重的合规枷锁，导致天然气开采成本大幅上升。而环保署此番改弦更张，被视为对传统能源行业的一个重大松绑，预计将大幅降低企业的运营负担。",
+  "对于海外华人来说，能源价格往往直接牵动着大家的钱包。天然气成本的下降，未来有望在一定程度上缓解电费和家庭燃气费的压力，对日常生活成本产生积极影响。"
+ ],
+ "tags": [
+  "特朗普",
+  "美国环保署",
+  "天然气",
+  "能源政策",
+  "通胀"
+ ],
+ "original_title": "Trump Scores on Methane Regulation",
+ "lang": "en",
+ "published": "2026-10-29T21:47:00+00:00",
+ "created": "2026-10-29T23:50:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

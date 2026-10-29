@@ -1,0 +1,27 @@
+{
+ "key": "d5f01f9dd7",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+ "title": "加拿大丰业银行获准收购美国Maple Financial，将正式进军德州和俄克拉荷马州",
+ "summary": "美联储于2026年10月29日宣布，正式批准加拿大丰业银行（The Bank of Nova Scotia）成为银行控股公司的申请。该行通过收购德州Maple Financial Holdings, Inc.，间接获得了俄克拉荷马州MapleMark Bank的所有权。",
+ "body": [
+  "美联储在周四下午发布公告，正式点头放行了一桩跨国银行收购案。来自加拿大多伦多的加拿大丰业银行（The Bank of Nova Scotia），申请成为美国银行控股公司的请求已经顺利获得批准。",
+  "根据公告内容，加拿大丰业银行是通过收购位于德克萨斯州达拉斯的枫树金融控股公司（Maple Financial Holdings, Inc.）来实现这一目标的。通过这笔交易，他们也将间接把总部位于俄克拉荷马州塔尔萨的MapleMark Bank（MapleMark Bank）收入囊中。",
+  "近年来，北美金融机构的跨国并购和合规审查备受关注。对于在相关地区生活或有跨国金融需求的华人来说，此类银行资本版图的变动，可能会在未来影响到相关的商业贷款、储蓄服务或是地方银行的业务网点调整。"
+ ],
+ "tags": [
+  "美联储",
+  "加拿大丰业银行",
+  "银行收购",
+  "金融快讯",
+  "海外华人"
+ ],
+ "original_title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+ "lang": "en",
+ "published": "2026-10-29T20:30:00+00:00",
+ "created": "2026-10-29T23:52:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

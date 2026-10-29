@@ -1,0 +1,27 @@
+{
+ "key": "e95750d1b7",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+ "title": "运通栽了！涉嫌洗钱监管不力，美国运通被美联储重拳出击",
+ "summary": "美联储对美国运通公司（American Express Company）采取执法行动，因其未能充分检测和报告与洗钱相关的可疑活动，且反洗钱项目存在重大缺陷。",
+ "body": [
+  "美国运通公司（American Express Company）这次遇到麻烦了！美联储（Federal Reserve Board）于周四宣布对其采取正式的执法行动，原因直指该公司未能有效检测并上报相关的可疑洗钱活动。",
+  "除了美联储的点名，监管部门还发现运通在执行全公司范围的反洗钱项目时存在明显漏洞，特别是在其旗下的国民银行子公司。同时，该国民银行的主要联邦监管机构——货币监理署（Office of the Comptroller of the Currency）也对该银行下达了单独的执法行动。",
+  "美联储表示，这次的监管重拳是为了确保运通公司能严格遵守美国的各项法律法规。对于咱们海外华人在美国的生活和金融消费来说，金融巨头合规收紧也提醒大家在进行大额转账或资金操作时，务必走正规渠道，避免触发银行的反洗钱风控审查。"
+ ],
+ "tags": [
+  "美国运通",
+  "美联储",
+  "反洗钱",
+  "金融监管",
+  "海外华人"
+ ],
+ "original_title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+ "lang": "en",
+ "published": "2026-10-08T20:30:00+00:00",
+ "created": "2026-10-29T23:52:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

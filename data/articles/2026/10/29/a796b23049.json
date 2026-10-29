@@ -1,0 +1,27 @@
+{
+ "key": "a796b23049",
+ "board": "hot",
+ "source_id": "wsj-lifestyle",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/autos/chevy-bolt-electric-vehicle-road-trip-e908d420?mod=rss_lifestyle",
+ "title": "开着美国最便宜的电车去“充电荒漠”自驾，结果会怎样？",
+ "summary": "《华尔街日报》专栏作家挑战驾驶平价电动汽车前往美国南部充电设施稀少地区，实测长途出行遭遇。",
+ "body": [
+  "读者们此前向《华尔街日报》专栏作家克里斯托弗·米姆斯（Christopher Mims）发起了一项挑战：开着一辆价格亲民的电动汽车，去一条充电设施不太理想的路线自驾一趟。结果到底怎么样？这场“充电荒漠”之旅揭示了目前平价电车在长途出行中面临的现实考验。",
+  "虽然电动汽车在日常通勤中表现不错，但一旦离开基础设施完善的大都市，开往南部等充电桩稀缺的地区，续航焦虑和充电难的问题就会立刻放大。这也是许多打算入手新能源车的消费者最关心的痛点。",
+  "对于咱们海外华人来说，买电车不仅要看日常上下班省不省油，还得考虑偶尔的长途出行、假期回国或跨州旅游到底方不方便。目前来看，如果家里只有一辆车且经常跑长途，充电网络的完善度依然是下手前必须盘算清楚的一笔账。"
+ ],
+ "tags": [
+  "电动汽车",
+  "华尔街日报",
+  "自驾游",
+  "充电桩",
+  "海外生活"
+ ],
+ "original_title": "I Took America’s Cheapest EV Into the Charging Desert of the Deep South",
+ "lang": "en",
+ "published": "2026-10-23T01:00:00+00:00",
+ "created": "2026-10-29T23:49:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

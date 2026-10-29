@@ -1,0 +1,26 @@
+{
+ "key": "cb3abbebdd",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/gold-steadies-near-4-000-as-inflation-keeps-rate-hike-bets-firm",
+ "title": "金价在4000美元附近稳住！通胀高烧不退，年底加息稳了？",
+ "summary": "黄金价格在每盎司4000美元附近保持稳定，本月可能遭遇连续第二个月下跌。由于能源主导的通胀卷土重来，市场对美联储在年底前加息的预期持续升温。",
+ "body": [
+  "近期国际金价在每盎司4000美元大关附近企稳，但由于能源价格上涨推高了通胀预期，金价本月依然录得连续第二个月下跌的走势。能源成本的攀升让通胀压力迟迟不退，也让市场对美联储（Federal Reserve）在今年年底前再度加息的押注变得更加坚定。",
+  "对于在美华人来说，美联储如果因为通胀卷土重来而继续加息，意味着房贷、车贷和信用卡等借贷成本可能会在高位维持更久，大家的钱包压力依然不小。不过，作为传统避险资产的黄金在动荡市况中依然保持抗跌，也给投资者的资产配置提供了一些缓冲空间。"
+ ],
+ "tags": [
+  "黄金价格",
+  "通胀",
+  "美联储加息",
+  "在美华人",
+  "理财投资"
+ ],
+ "original_title": "Gold Steadies Near $4,000 as Inflation Keeps Rate-Hike Bets Firm",
+ "lang": "en",
+ "published": "2026-10-29T23:32:06+00:00",
+ "created": "2026-10-29T23:50:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "691dd18b0f",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/vale-iron-ore-output-trails-forecasts-despite-mine-ramp-ups",
+ "title": "铁矿石巨头淡水河谷翻车？三季度产量没达标，竟是因为这个！",
+ "summary": "全球最大铁矿石生产商淡水河谷（Vale）第三季度产量不及预期，主要受到巴西北部矿山运营挑战的影响。",
+ "body": [
+  "全球最大的炼钢原料生产商淡水河谷（Vale SA）公布了最新的产量成绩单。根据彭博社报道，由于巴西北部一座矿山遇到了麻烦，该公司第三季度的铁矿石产量没有达到预期目标。",
+  "作为全球钢铁供应链的关键一环，淡水河谷的生产变动一直牵动着国际市场的神经。此次产量不及预期，主要受制于其在巴西北部Serra Norte矿区面临的实际运营挑战，这也暴露出大型矿企在复杂开采环境下的不确定性。",
+  "对于海外华人特别是关注全球大宗商品走势和通胀的朋友来说，铁矿石产量的波动往往会传导至下游的钢铁和制造业，进而影响到全球经济复苏的节奏以及相关的投资市场表现。"
+ ],
+ "tags": [
+  "淡水河谷",
+  "铁矿石",
+  "海外财经",
+  "大宗商品"
+ ],
+ "original_title": "Vale Iron Ore Output Trails Forecast on Serra Norte Curbs",
+ "lang": "en",
+ "published": "2026-10-29T22:29:25+00:00",
+ "created": "2026-10-29T23:50:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

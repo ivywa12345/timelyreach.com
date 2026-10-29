@@ -1,0 +1,27 @@
+{
+ "key": "520e4bb1e3",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-alphabet-slide-weighs-on-ai-optimism-1a8d67b7?mod=rss_markets_main",
+ "title": "美股大跌！谷歌母公司暴雷，大家开始怀疑AI花的大钱到底能不能回本了？",
+ "summary": "由于谷歌母公司Alphabet财报营收不及预期，市值遭遇美股历史上最大单日蒸发之一，直接拖累大盘下跌，也让市场对人工智能（AI）基础设施巨额投资回报的乐观情绪产生怀疑。",
+ "body": [
+  "美股周三集体下跌，罪魁祸首竟然是科技巨头谷歌（Google）的母公司Alphabet。由于其最新财报显示营收不及预期，公司市值遭遇了美股历史上单日最大幅度的蒸发之一。",
+  "华尔街日报（The Wall Street Journal）记者Rob Curran指出，这场资本市场的震动，源于投资者开始对巨额的人工智能（AI）基建投入产生了实质性质疑。大家都在担心，各大科技公司砸了那么多真金白银进去，到底什么时候才能看到真正的回报？",
+  "对于咱们在海外的华人来说，美股科技股的波动往往直接牵动着401(k)退休账户、科技大厂员工的股票期权（RSU）甚至是整个就业市场的神经。AI概念这一波还能不能继续吹下去，咱们的钱包和饭碗可能都得跟着捏把汗。"
+ ],
+ "tags": [
+  "美股",
+  "谷歌",
+  "Alphabet",
+  "人工智能",
+  "海外理财"
+ ],
+ "original_title": "U.S. Stocks Fall as Alphabet Slide Weighs on AI Optimism",
+ "lang": "en",
+ "published": "2026-10-29T20:43:00+00:00",
+ "created": "2026-10-29T23:49:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

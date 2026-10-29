@@ -1,0 +1,27 @@
+{
+ "key": "9c054d0432",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/new-energy-for-the-u-s-virgin-islands-e5e48756?mod=rss_worldnews",
+ "title": "美属维尔京群岛的财政危机，竟然能靠委内瑞拉石油来解？",
+ "summary": "华尔街日报发表评论文章，探讨了如何利用委内瑞拉原油来解决美属维尔京群岛的财政危机。",
+ "body": [
+  "近日，《华尔街日报》刊登了一篇由罗伯特·戈登（Robert Gordon）撰写的评论文章，把美属维尔京群岛（U.S. Virgin Islands）目前的财政危机和委内瑞拉原油的出路联系在了一起，提出了一种新颖的解决思路。",
+  "长期以来，该领地一直面临着严峻的财政压力。与此同时，国际市场上如何处理委内瑞拉原油（Venezuelan crude）也是一个让人头疼的问题。文章认为，这两件看似不相关的事，或许可以结合起来找到出路。",
+  "对于远在海外的华人来说，加勒比海地区的经济动向虽然不直接影响柴米油盐，但能源市场的每一次变动都可能牵动全球经济的神经。后续如何发展，我们还将持续关注。"
+ ],
+ "tags": [
+  "美属维尔京群岛",
+  "委内瑞拉原油",
+  "财政危机",
+  "华尔街日报",
+  "海外快讯"
+ ],
+ "original_title": "Opinion | New Energy for the U.S. Virgin Islands",
+ "lang": "en",
+ "published": "2026-10-29T20:42:00+00:00",
+ "created": "2026-10-29T23:49:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
