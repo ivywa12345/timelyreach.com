@@ -128,6 +128,61 @@ sources:
       - {type: rss, url: "https://nypost.com/news/feed/"}
       - {type: rss, url: "https://nypost.com/feed/"}
 
+  # ---------------- 美股 / 理财 ----------------
+  - id: cnbc
+    name: "CNBC"
+    lang: en
+    board: finance
+    limit: 4
+    full_text: true
+    merge: true
+    fetch:
+      - {type: rss, url: "https://www.cnbc.com/id/100003114/device/rss/rss.html"}   # top news
+      - {type: rss, url: "https://www.cnbc.com/id/20910258/device/rss/rss.html"}    # economy
+
+  - id: marketwatch
+    name: "MarketWatch"
+    lang: en
+    board: finance
+    limit: 3
+    full_text: true
+    fetch:
+      - {type: rss, url: "https://feeds.content.dowjones.io/public/rss/mw_topstories"}
+      - {type: rss, url: "https://feeds.marketwatch.com/marketwatch/topstories/"}
+
+  - id: fed
+    name: "美联储"
+    lang: en
+    board: finance
+    limit: 2
+    full_text: true
+    fetch:
+      - {type: rss, url: "https://www.federalreserve.gov/feeds/press_all.xml"}
+
+  # ---------------- 华人生活：移民 ----------------
+  - id: uscis
+    name: "美国移民局"
+    lang: en
+    board: news
+    limit: 2
+    full_text: true
+    fetch:
+      - {type: rss, url: "https://www.uscis.gov/news/rss-feed/59144"}
+      - {type: rss, url: "https://news.google.com/rss/search?q=USCIS+OR+H-1B+OR+green+card+when:2d&hl=en-US&gl=US&ceid=US:en"}
+
+  # ---------------- 中文媒体 ----------------
+  - id: zaobao
+    name: "联合早报"
+    lang: zh-news
+    board: news
+    limit: 3
+    full_text: true
+    merge: true
+    fetch:
+      - {type: rss, url: "https://www.zaobao.com.sg/rss/realtime/china"}
+      - {type: rss, url: "https://www.zaobao.com.sg/rss/realtime/world"}
+      - {type: rsshub, route: "/zaobao/realtime/china"}
+
   # ---------------- 推特 / X ----------------
   # 需要在 GitHub 仓库 Secrets 里设置 TWITTER_AUTH_TOKEN（你自己 X 账号 cookie 里的 auth_token），
   # RSSHub 才能抓推特。没设置时会自动跳过。
