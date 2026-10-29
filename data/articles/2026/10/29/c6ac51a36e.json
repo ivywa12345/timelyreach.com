@@ -1,0 +1,27 @@
+{
+ "key": "c6ac51a36e",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?mod=rss_Technology",
+ "title": "风水轮流转！曾经被苹果压榨的闪存厂商，这次终于扬眉吐气了",
+ "summary": "过去几年一直被苹果公司压榨、被迫大幅降价的闪存芯片制造商，如今终于迎来了翻身仗。随着人工智能（AI）巨头疯狂抢购并推高芯片价格，苹果的日子没那么好过了。",
+ "body": [
+  "长期以来，苹果公司（Apple）凭借其庞大的采购规模，一直在闪存芯片供应商面前掌握绝对话语权，逼着这些厂商给出跳楼价。不过，好日子总是会过去的。",
+  "根据《华尔街日报》报道，随着AI技术爆发，各大AI超大规模数据中心（AI hyperscalers）开始疯狂抢购芯片，不仅把市场上的闪存价格炒得老高，还把有限的产能给抢光了。这就导致风水轮流转，曾经备受挤压的闪存供应商们，终于迎来了报复性反弹的机会。",
+  "对咱们普通海外华人特别是科技数码爱好者来说，供应链成本上升往往意味着终端产品价格可能坚挺。虽然这主要是B2B商业博弈，但芯片大厂利润回血，也折射出整个AI浪潮正在彻底重塑全球供应链的权力版图。"
+ ],
+ "tags": [
+  "苹果",
+  "芯片",
+  "AI",
+  "供应链",
+  "华尔街日报"
+ ],
+ "original_title": "The Beleaguered Chip Sellers Getting Their Revenge on Apple",
+ "lang": "en",
+ "published": "2026-10-29T01:00:00+00:00",
+ "created": "2026-10-29T19:57:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

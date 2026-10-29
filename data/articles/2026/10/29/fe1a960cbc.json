@@ -1,0 +1,28 @@
+{
+ "key": "fe1a960cbc",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/alerts/litigation-related-update-sileiri-doe-class-members-may-request-reopening-or-reconsideration-of-an",
+ "title": "当年收邮件被取消身份？这群通过CBP One入境的人迎来了转机！",
+ "summary": "美国移民局（USCIS）发布最新通知，根据马萨诸塞州联邦地区法院的命令，Sileiri Doe诉国土安全部（DHS）案的集体诉讼成员可以免申请费要求重新审理或复议此前的移民不利决定。",
+ "body": [
+  "如果你曾在2025年4月通过群发邮件被取消了假释（Parole）身份，现在事情有了新进展。根据美国移民局（USCIS）的最新消息，马萨诸塞州联邦地区法院在2026年9月28日下达了一项命令，要求国土安全部（DHS）对部分受到不利影响的群体进行救济。",
+  "这项救济针对的是“Sileiri Doe”案的集体诉讼成员。这群人此前通过CBP One手机应用预约入境，并在2023年5月16日至2025年1月19日期间获得假释，但却在2025年4月收到了一封写着“是时候离开美国了”等类似语言的邮件，被联邦政府终止了假释。不过，该法院已在2026年3月裁定这封邮件无效，并责令恢复假释。",
+  "根据最新的法院命令，符合条件的Sileiri Doe集体诉讼成员，如果在2025年4月1日至2026年4月21日期间，因当年的假释终止而遭到美国移民局（USCIS）的不利决定（包括申请被拒绝、驳回、视为放弃、行政关闭等），现在可以免交申请费，向移民局提交重新审理（reopen）或复议（reconsider）的请求。目前该申请没有截止日期，但基于假释的工作许可申请除外。",
+  "需要注意的是，申请人必须使用移民局指定的表格，按要求说明当年的假释终止是如何影响其福利资格的，并且移民局将进行个案审查。如果申请人目前正处于移民法官审理的遣返程序（Removal Proceedings）中，通常需要先由移民法官终止或撤销该遣返程序，才能向移民局申请重新审理，否则移民局将拒绝或否决相关请求。"
+ ],
+ "tags": [
+  "美国移民局",
+  "CBP One",
+  "假释",
+  "身份恢复",
+  "移民政策"
+ ],
+ "original_title": "Litigation-Related Update: Sileiri Doe Class Members May Request Reopening or Reconsideration of an Adverse Decision Without a Fee",
+ "lang": "en",
+ "published": "2026-10-26T15:44:18+00:00",
+ "created": "2026-10-29T20:00:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

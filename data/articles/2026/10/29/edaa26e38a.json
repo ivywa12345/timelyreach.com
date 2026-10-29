@@ -1,0 +1,27 @@
+{
+ "key": "edaa26e38a",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/politics/policy/google-meta-ice-midterms-e6f2a6c4?mod=rss_Technology",
+ "title": "谷歌、Meta等科技巨头硬刚移民局！为啥突然对用户数据说“不”？",
+ "summary": "谷歌和Meta等科技公司正在加大力度，拒绝美国移民和海关执法局（ICE）对用户数据的大规模调取要求，以避免引发民主党的严格审查。",
+ "body": [
+  "话说最近啊，硅谷的科技巨头们跟美国移民和海关执法局（ICE）杠上了。根据《华尔街日报》记者Hannah Critchfield的报道，包括谷歌（Google）和Meta在内的各大科技公司，现在正联手把挡箭牌举得高高的，坚决回绝ICE索要海量用户数据的广泛要求。原来啊，这个联邦执法机构最近一直在各大平台上到处搜寻跟移民相关的言论。",
+  "事情的背景是这样的：ICE一直想通过搜罗网上的移民言论来获取线索，但科技大厂们也不是吃素的。为了避免被民主党政客们盯上并遭到严格审查，这些互联网大厂们选择在这个时候踩刹车，对执法部门的过度索取说“不”。",
+  "这件事对海外华人朋友们来说其实挺值得关注的。虽然它主要涉及科技公司与联邦执法权力的博弈，但也再次提醒了大家：我们在网络上留下的言论和数据痕迹，时刻都在受到各方势力的关注和拉扯。个人隐私和言论边界，在科技巨头和政府的博弈中显得格外微妙。"
+ ],
+ "tags": [
+  "科技巨头",
+  "移民局",
+  "隐私保护",
+  "海外华人",
+  "美国新闻"
+ ],
+ "original_title": "Tech Giants Ramp Up Resistance to ICE in Bid to Avoid Democratic Scrutiny",
+ "lang": "en",
+ "published": "2026-10-29T01:00:00+00:00",
+ "created": "2026-10-29T19:57:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

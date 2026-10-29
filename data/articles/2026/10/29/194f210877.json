@@ -1,0 +1,26 @@
+{
+ "key": "194f210877",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/ukraine-says-russian-strike-kills-at-least-13-at-train-station",
+ "title": "乌克兰空袭升级一天夺走19条人命，泽连斯基怒了：这就是莫斯科的真心？",
+ "summary": "周四，俄罗斯对乌克兰发动的大规模空袭造成19名平民丧生。乌克兰总统泽连斯基对此表示愤怒，称这充分暴露了莫斯科对缓和局势的“真实态度”。",
+ "body": [
+  "周四这天，乌克兰多地遭到俄罗斯空袭，导致19名平民不幸丧生。这次袭击发生在战事持续胶着的背景下，让本就紧张的局势再度升级。",
+  "乌克兰总统泽连斯基（Volodymyr Zelenskyy）在空袭发生后公开表态，直言这次袭击就是莫斯科对所谓“局势降温”的“真实态度”。",
+  "对于远在海外的华人来说，这场持续延宕的冲突不仅继续牵动着全球能源和粮食市场的神经，也时刻提醒着地缘政治风险对普通人生活可能带来的波及。"
+ ],
+ "tags": [
+  "俄乌冲突",
+  "空袭",
+  "泽连斯基",
+  "国际新闻"
+ ],
+ "original_title": "Russia Kills 19 Civilians in Escalating Strikes Across Ukraine",
+ "lang": "en",
+ "published": "2026-10-29T11:18:27+00:00",
+ "created": "2026-10-29T19:58:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "dc342897fb",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/canadian-dollar-poised-for-best-month-since-april-after-boc-hike",
+ "title": "加元创4月以来最佳月度表现！全靠这俩推手",
+ "summary": "受高油价和加拿大央行收紧货币政策的推动，加元正迎来4月份以来的最大单月涨幅。",
+ "body": [
+  "彭博社（Bloomberg）记者Melos Ambaye报道，加拿大元（Canadian dollar）本月表现亮眼，正创下自4月以来的最佳月度涨幅。",
+  "这次加元走强主要有两个幕后推手：一是持续处于高位的油价，二是加拿大央行（Bank of Canada）转向更紧缩的货币政策立场。",
+  "对于在北美生活、经常需要加美两地跑或者关注汇率波动的华人朋友来说，加元的这波走强值得留意，换汇成本可能会受到相应影响。"
+ ],
+ "tags": [
+  "加元",
+  "加拿大央行",
+  "汇率",
+  "油价",
+  "海外财经"
+ ],
+ "original_title": "Canadian Dollar Poised for Best Month Since April After BOC Hike",
+ "lang": "en",
+ "published": "2026-10-29T19:10:33+00:00",
+ "created": "2026-10-29T19:58:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

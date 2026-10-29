@@ -1,0 +1,26 @@
+{
+ "key": "aef05e6bdc",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/china/2026/10/29/chinas-investment-in-transport-infrastructure-has-peaked",
+ "title": "中国交通基建投资到顶了？修了这么多高铁和高速，真的够了吗",
+ "summary": "根据《经济学人》报道，中国的交通基础设施投资可能已经达到了峰值，引发了外界对于高速公路和高铁是否修建过多的讨论。",
+ "body": [
+  "说到中国的基建，大家脑子里马上浮现出来的就是四通八达的高铁和修到家门口的高速公路。不过，最近权威外媒《经济学人》（The Economist）发文指出，中国的交通基础设施投资可能已经见顶了。",
+  "长期以来，大规模的交通基建一直是拉动经济的重要引擎。但随着路网越来越密集，外界也开始出现了一些反思的声音：我们是不是建了太多的高速公路和高铁路线？",
+  "对于远在海外的华人来说，国内基建的发展速度一直让人惊叹。虽然投资增速可能放缓，但这不仅标志着一个大规模基建时代的阶段性总结，也意味着未来国内经济发展的重点可能会发生新的转变。"
+ ],
+ "tags": [
+  "基建",
+  "高铁",
+  "高速公路",
+  "中国经济"
+ ],
+ "original_title": "China’s investment in transport infrastructure has peaked",
+ "lang": "en",
+ "published": "2026-10-29T13:48:04+00:00",
+ "created": "2026-10-29T19:58:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

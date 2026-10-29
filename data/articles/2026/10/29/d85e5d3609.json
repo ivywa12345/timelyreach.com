@@ -1,0 +1,26 @@
+{
+ "key": "d85e5d3609",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+ "title": "美联储公开最新贴现率会议纪要，透露了什么信号？",
+ "summary": "美联储于2026年10月13日发布了8月17日、9月9日和9月16日的贴现率会议纪要，记录了向存款机构提供贴现窗口贷款利率的审议过程。",
+ "body": [
+  "美联储（Federal Reserve）在周二正式公布了近期的贴现率会议纪要，涵盖了今年8月17日、9月9日以及9月16日举行的三次会议。",
+  "这次会议主要审议和决定了通过“贴现窗口”（discount window）向存款机构提供的贴现率。美联储特别说明，贴现率的设定程序，和联邦公开市场委员会（FOMC）设定联邦基金利率目标区间的程序是完全不同的。",
+  "虽然这只是一份例行的会议纪要发布，但对于密切关注美国货币政策走向和利率变化的海外华人来说，了解美联储的各项利率工具依然是观察贷款和经济风向的重要窗口。"
+ ],
+ "tags": [
+  "美联储",
+  "贴现率",
+  "美国经济",
+  "利率政策"
+ ],
+ "original_title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+ "lang": "en",
+ "published": "2026-10-13T18:00:00+00:00",
+ "created": "2026-10-29T19:59:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

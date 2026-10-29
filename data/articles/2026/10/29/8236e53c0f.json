@@ -1,0 +1,27 @@
+{
+ "key": "8236e53c0f",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/china/2026/10/27/kim-jong-uns-curious-visit-to-china",
+ "title": "朝鲜最高领导人罕见访华：老朋友这是要重修旧好？",
+ "summary": "朝鲜最高领导人金正恩近日罕见访问中国，外界高度关注两国在国际局势下如何重新巩固传统盟友关系。",
+ "body": [
+  "最近国际上挺热闹，据《经济学人》报道，朝鲜最高领导人金正恩（Kim Jong Un）最近去中国进行了一次备受关注的访问。说白了，这位朝鲜领导人就是在跟老朋友重新走动、修复关系。",
+  "虽然具体会谈的细节没有完全公开，但这次访问的信号意义非常明显。在当前复杂的国际地缘政治环境下，朝鲜和中国的频繁互动历来都牵动着各方的神经，也一直是国际媒体追逐的焦点。",
+  "对于咱们海外华人来说，半岛局势的任何风吹草动，其实都关系到东北亚的整体和平与稳定，也直接影响着区域内的经商和投资环境。"
+ ],
+ "tags": [
+  "朝鲜",
+  "中国",
+  "金正恩",
+  "国际关系",
+  "地缘政治"
+ ],
+ "original_title": "Kim Jong Un’s curious visit to China",
+ "lang": "en",
+ "published": "2026-10-27T16:17:18+00:00",
+ "created": "2026-10-29T19:58:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

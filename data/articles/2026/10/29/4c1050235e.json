@@ -1,0 +1,27 @@
+{
+ "key": "4c1050235e",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/strong-gdp-unlikely-to-sway-midterm-voters-worried-about-inflation",
+ "title": "美国三季度GDP强劲增长，但选民为何还在为钱包发愁？",
+ "summary": "美国经济在期中选举前加速增长，但通货膨胀同样居高不下，这凸显了强劲的宏观经济数据与美国民众实际感受之间的巨大反差。",
+ "body": [
+  "美国经济在下周的期中选举（Midterm Elections）前夕突然加速，交出了一份亮眼的GDP增长答卷。然而，物价上涨的压力却丝毫没有减轻，让普通老百姓完全高兴不起来。",
+  "长期以来，官方的经济数据与民众的实际生活感受之间存在着明显的错位。虽然宏观经济指标表现强劲，但高通胀带来的生活成本飙升，才是选民们在日常生活中最真切的体会。",
+  "对于咱们海外华人来说，这种经济数据与现实的温差直接关系到每个月的钱包厚度。无论是去超市买菜还是日常开销，通胀的压力依然实实在在，这也难怪大家对这次期中选举格外关注了。"
+ ],
+ "tags": [
+  "美国经济",
+  "期中选举",
+  "通货膨胀",
+  "海外华人",
+  "生活成本"
+ ],
+ "original_title": "Strong GDP Unlikely to Sway Midterm Voters Worried About Inflation",
+ "lang": "en",
+ "published": "2026-10-29T17:43:38+00:00",
+ "created": "2026-10-29T19:58:30+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
