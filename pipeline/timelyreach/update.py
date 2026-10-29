@@ -10,6 +10,7 @@ from .fetchers import fetch_article, fetch_source
 from .inbox import run_inbox
 from .brief import run_brief
 from .picks import run_picks
+from .models import url_hash
 from .rewrite import available_providers, to_article
 from .store import Store
 
@@ -17,6 +18,11 @@ log = logging.getLogger(__name__)
 
 # video/podcast pages have no article text worth compiling
 SKIP_URL = re.compile(r"/(videos?|audio|podcasts?|live-blog)/", re.I)
+
+
+def title_key(title: str) -> str:
+    """The same story often appears in several feeds under different URLs."""
+    return url_hash("title:" + re.sub(r"\W+", "", title.lower()))
 
 
 def credit_reposted_sources(store: Store, limit: int = 60) -> int:
@@ -58,7 +64,7 @@ def run_update(store: Store | None = None, max_new: int | None = None) -> int:
             continue
         fresh = [
             it for it in fetch_source(source)
-            if not store.is_seen(it.key) and not SKIP_URL.search(it.url)
+            if not store.is_seen(it.key) and not store.is_seen(title_key(it.title)) and not SKIP_URL.search(it.url)
         ][: source.limit]
         for item in fresh:
             if created >= max_new:
@@ -72,6 +78,7 @@ def run_update(store: Store | None = None, max_new: int | None = None) -> int:
                 log.warning("could not rewrite %s", item.url)
                 continue
             store.save_article(article)
+            store.mark_seen(title_key(item.title))
             created += 1
             log.info("[%s] %s  <-  %s", article.rewriter, article.title, item.title)
     credit_reposted_sources(store)

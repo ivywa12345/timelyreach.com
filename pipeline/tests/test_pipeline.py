@@ -23,6 +23,12 @@ def _source(**kw):
     return Source(**base)
 
 
+@pytest.fixture(autouse=True)
+def _no_real_inbox(monkeypatch):
+    """run_update must not pick up files sitting in the repository's real inbox/."""
+    monkeypatch.setattr(update, "run_inbox", lambda store: 0)
+
+
 def _item(n=1, **kw):
     base = dict(source_id="src", source_name="测试源", lang="en", board="news",
                 url=f"https://example.com/a{n}", title=f"Headline {n}", summary="Something happened.")
@@ -493,3 +499,20 @@ def test_inbox_publishes_valid_files_and_rejects_bad_ones(tmp_path):
     assert not list(inbox.glob("*.json")) and (inbox / "rejected" / "c.json").exists()
     (inbox / "a.json").write_text(json.dumps(good, ensure_ascii=False), encoding="utf-8")
     assert run_inbox(store, inbox) == 0  # same URL is not published twice
+
+
+def test_same_story_from_two_feeds_is_posted_once(tmp_path, monkeypatch):
+    a = _source(limit=5)
+    b = _source(limit=5)
+    b.id = "src2"
+    monkeypatch.setattr(update, "load_sources", lambda: [a, b])
+    feeds = {
+        "src": [_item(1, title="Opinion | Anthropic’s IPO Will Be a Win")],
+        "src2": [_item(2, title="Opinion | Anthropic's IPO Will Be a Win"), _item(3)],
+    }
+    monkeypatch.setattr(update, "fetch_source", lambda s: feeds[s.id])
+    monkeypatch.setattr(update, "available_providers", lambda: [FakeProvider()])
+    monkeypatch.setattr(update, "run_picks", lambda store, providers: 0)
+    monkeypatch.setattr(update, "run_brief", lambda store, providers: None)
+    monkeypatch.setattr(update, "credit_reposted_sources", lambda store: 0)
+    assert update.run_update(store=Store(tmp_path), max_new=10) == 2

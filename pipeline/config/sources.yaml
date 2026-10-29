@@ -33,6 +33,62 @@ sources:
       - {type: rss, url: "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain"}
       - {type: rss, url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"}
 
+  # WSJ 里比较好玩、适合讨论的：生活方式、科技、观点版（付费墙只拿得到摘要，AI 据摘要编译）
+  - id: wsj-lifestyle
+    name: "华尔街日报"
+    lang: en
+    board: hot
+    limit: 3
+    full_text: false
+    fetch:
+      - {type: rss, url: "https://feeds.content.dowjones.io/public/rss/RSSLifestyle"}
+      - {type: rss, url: "https://feeds.a.dj.com/rss/RSSLifestyle.xml"}
+
+  - id: wsj-tech
+    name: "华尔街日报"
+    lang: en
+    board: finance
+    limit: 2
+    full_text: false
+    fetch:
+      - {type: rss, url: "https://feeds.content.dowjones.io/public/rss/RSSWSJD"}
+      - {type: rss, url: "https://feeds.a.dj.com/rss/RSSWSJD.xml"}
+
+  - id: wsj-opinion
+    name: "华尔街日报"
+    lang: en
+    board: hot
+    limit: 2
+    full_text: false
+    fetch:
+      - {type: rss, url: "https://feeds.content.dowjones.io/public/rss/RSSOpinion"}
+      - {type: rss, url: "https://feeds.a.dj.com/rss/RSSOpinion.xml"}
+
+  # 经济学人：分版块 RSS，付费墙同样只有摘要
+  - id: economist-finance
+    name: "经济学人"
+    lang: en
+    board: finance
+    limit: 3
+    full_text: false
+    merge: true
+    fetch:
+      - {type: rss, url: "https://www.economist.com/finance-and-economics/rss.xml"}
+      - {type: rss, url: "https://www.economist.com/business/rss.xml"}
+
+  - id: economist-world
+    name: "经济学人"
+    lang: en
+    board: news
+    limit: 3
+    full_text: false
+    merge: true
+    fetch:
+      - {type: rss, url: "https://www.economist.com/leaders/rss.xml"}
+      - {type: rss, url: "https://www.economist.com/united-states/rss.xml"}
+      - {type: rss, url: "https://www.economist.com/china/rss.xml"}
+      - {type: rss, url: "https://www.economist.com/science-and-technology/rss.xml"}
+
   - id: bloomberg-markets
     name: "彭博社"
     lang: en
