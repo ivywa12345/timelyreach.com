@@ -1,0 +1,27 @@
+{
+ "key": "3ca215d71e",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026?mod=rss_markets_main",
+ "title": "谷歌财报砸盘？纳斯达克期货开局不妙，科技巨头烧钱太猛惹的祸",
+ "summary": "由于科技巨头谷歌（Google）最新财报表现令人失望，烧钱速度超过预期，导致纳斯达克股指期货应声下跌。",
+ "body": [
+  "各位股友注意啦！科技巨头谷歌的最新财报一出，市场立马坐不住了。根据《华尔街日报》的报道，由于这家科技巨头花钱的速度比大家预期的还要快，财报表现让人大失所望，纳斯达克指数期货（Nasdaq Futures）在消息公布后直接来了个大跳水。",
+  "这次市场反应这么激烈，主要还是因为大家看到大公司花起钱来像流水，但短期内的回报却没跟上。对于咱们平时关心美股、或是把血汗钱放在科技股和退休账户里的海外华人来说，大盘这一波动，大家的钱包又跟着捏了一把汗。",
+  "目前来看，科技股的财报风向直接决定了美股短期的走势。接下来几家大厂的表现能不能稳住，还得看各自的硬实力。提醒大家近期盯紧盘面，注意风险，别盲目跟风抄底。"
+ ],
+ "tags": [
+  "美股",
+  "谷歌",
+  "纳斯达克",
+  "科技股",
+  "海外投资"
+ ],
+ "original_title": "Stock Market Today: Nasdaq Futures Slump After Google Earnings Disappoint",
+ "lang": "en",
+ "published": "2026-10-29T09:22:32+00:00",
+ "created": "2026-10-29T09:58:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

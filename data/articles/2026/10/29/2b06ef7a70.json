@@ -1,0 +1,26 @@
+{
+ "key": "2b06ef7a70",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/hong-kong-housing-secretary-quits-after-inquiry-into-deadly-fire",
+ "title": "香港发生数十年最惨烈火灾！特首罕见道歉，房屋局局长引咎辞职",
+ "summary": "香港发生数十年来最惨烈的一场大火，引发政治地震。特首李家超罕见公开道歉，房屋局局长也已宣布辞职。这场灾难让外界对政府的公信力打上了问号，因为政府花了将近一年时间才为这场惨剧承担责任。",
+ "body": [
+  "香港近日遭遇了数十年来最惨烈的一场火灾，造成重大人员伤亡。面对巨大的舆论压力，香港特首李家超（John Lee）发表了罕见的公开道歉，并证实房屋局局长已经引咎辞职（stepped down）。",
+  "这场突如其来的灾难不仅夺去了宝贵的生命，更将特区政府推到了风口浪尖。外界质疑，政府竟然花了将近一年的时间才正式为这场灾难承担责任，这也让民众对政府的治理信誉产生了严重怀疑。"
+ ],
+ "tags": [
+  "香港",
+  "火灾",
+  "李家超",
+  "辞职",
+  "政治风暴"
+ ],
+ "original_title": "Hong Kong Reckons With Deadly Fire as Political Fallout Begins",
+ "lang": "en",
+ "published": "2026-10-29T07:05:42+00:00",
+ "created": "2026-10-29T09:59:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

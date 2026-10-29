@@ -1,0 +1,27 @@
+{
+ "key": "ee041edc5b",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/apple-squeezed-these-chip-suppliers-for-years-ai-is-helping-them-get-even-ea73a0e4?mod=rss_worldnews",
+ "title": "被苹果压榨多年，这些芯片厂靠着AI终于要翻身了？",
+ "summary": "华尔街日报报道指出，一些长期被苹果公司（Apple）压榨的芯片供应商正借助人工智能（AI）浪潮迎来转机。此外，大型律所Weil Gotshal宣布关门，美国还发生了一场耗资3.11亿美元的豪宅土地争夺战。",
+ "body": [
+  "各位海外同胞，今天咱们来看看华尔街日报（The Wall Street Journal）最新关注的几件商业圈大新闻。首先是大家天天用的苹果公司（Apple）。长期以来，苹果对旗下的芯片供应商压价可以说是出了名的，但最近情况好像有了变化，AI（人工智能）的爆发正帮这些供应商找回底气。",
+  "不过，除了芯片圈的这场博弈，商业服务界也传出不太平的消息。大名鼎鼎的唯开律所（Weil Gotshal）突然宣布要关门大吉了，这在法律界可以说是扔下了一颗不小的炸弹。",
+  "最后，美国地产圈也搞出了大动作——一场高达3.11亿美元的抢地大战正在上演，目标是要打造全美最贵的豪宅之一。看来不管经济怎么变，顶层圈子的烧钱游戏是一点没停。"
+ ],
+ "tags": [
+  "苹果",
+  "芯片供应商",
+  "人工智能",
+  "华尔街日报",
+  "美国地产"
+ ],
+ "original_title": "Apple Squeezed These Chip Suppliers for Years. AI Is Helping Them Get Even.",
+ "lang": "en",
+ "published": "2026-10-29T09:47:00+00:00",
+ "created": "2026-10-29T09:57:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

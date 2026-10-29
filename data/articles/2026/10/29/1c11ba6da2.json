@@ -1,0 +1,26 @@
+{
+ "key": "1c11ba6da2",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/alphabet-still-has-the-ingredients-to-win-in-an-ai-pullback-6583aa7c?mod=rss_markets_main",
+ "title": "AI热潮降温，谷歌母公司Alphabet反倒成了失宠的“优等生”？",
+ "summary": "华尔街日报分析指出，尽管科技巨头Alphabet拥有诸多优势，但目前却不再受投资者青睐。在AI市场面临回调之际，它其实依然具备获胜的各种潜质。",
+ "body": [
+  "话说最近在美股市场上，科技巨头Alphabet（谷歌母公司）的日子好像没那么受宠了。明明手里攥着大把优势，却依然不怎么讨投资者的欢心，这到底是咋回事？",
+  "根据《华尔街日报》的报道分析，随着市场对人工智能（AI）的热情开始冷静、出现回调，Alphabet其实依然具备在这一领域脱颖而出的各种核心要素。不管是技术底子还是资金实力，它都样样不缺。"
+ ],
+ "tags": [
+  "Alphabet",
+  "谷歌",
+  "人工智能",
+  "美股投资",
+  "科技巨头"
+ ],
+ "original_title": "Alphabet Still Has the Ingredients to Win in an AI Pullback",
+ "lang": "en",
+ "published": "2026-10-29T09:30:00+00:00",
+ "created": "2026-10-29T09:58:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

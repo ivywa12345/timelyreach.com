@@ -1,0 +1,27 @@
+{
+ "key": "e9824be87d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/bank-assets-in-india-hub-that-competes-with-singapore-jump-60",
+ "title": "对标新加坡香港！印度这个金融新星火了，资产半年暴增60%",
+ "summary": "印度国际金融服务中心（GIFT City）的一位高级官员透露，自6月以来，该金融枢纽的银行资产飙升了约60%，正全力吸引海外资本。",
+ "body": [
+  "说到亚洲的国际金融中心，大家想到的往往是新加坡和香港，不过现在，印度的GIFT City（GIFT City）也正在奋起直追，成了资本的新宠儿。",
+  "据彭博社报道，印度国际金融服务中心的顶级官员表示，得益于国内信贷市场的蓬勃发展，自今年6月以来，该金融枢纽的银行资产已经狂飙了大约60%，吸引外国资本的势头十分强劲。",
+  "虽然印度这个金融中心来势汹汹，正试图在吸引全球资本方面分一杯羹，但对于海外华人来说，这也提醒我们，亚洲区域内的金融竞争正变得越来越白热化，各地的资本流向和投资机会也在悄然发生变化。"
+ ],
+ "tags": [
+  "印度金融",
+  "GIFT City",
+  "新加坡",
+  "海外资本",
+  "财经热点"
+ ],
+ "original_title": "Bank Assets in India Hub That Competes With Singapore Jump 60%",
+ "lang": "en",
+ "published": "2026-10-29T08:57:48+00:00",
+ "created": "2026-10-29T09:58:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
