@@ -1,0 +1,27 @@
+{
+ "key": "c59fa746d9",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/technology/41000-homeland-security-employees-and-undercover-ice-agents-exposed-data-leak-hackers",
+ "title": "炸裂！国土安全部4万多员工和卧底信息遭黑客大曝光，连ICE都被开盒了？",
+ "summary": "黑客组织宣称攻破美国国土安全部（DHS）内部数据库，导致超过4.1万名员工的个人和工作信息被公开，其中包括联邦卧底移民特工、边境巡逻队及海关执法人员。DHS发言人表示已知悉这起潜在的违规事件，正在积极处理。",
+ "body": [
+  "近日，美国国土安全部（Department of Homeland Security，简称DHS）遭遇严重数据泄露。一个自称“和平部”（Department of Peace）的黑客组织宣称，他们成功黑入了DHS的内部数据库，并将包含4.1万多名员工个人信息的数据库发布到了网上。泄露的数据不仅有邮箱、电话号码和办公地点，甚至还涉及卧底移民官员。据爆料，“和平部”将这些数据提供给了曝光黑客文件的组织“分布式秘密拒绝”（Distributed Denial of Secrets，简称DDoSecrets）以及瑞士黑客maia arson crimew。后者更是在一个名为“Icepick”的数据库上创建了在线搜索工具，把这些信息公之于众。",
+  "从公开的数据来看，受影响的范围相当广泛，其中包括超过2.1万名边境巡逻人员（Border Patrol）、近6600名移民和海关执法局（ICE）特工，以及海关与边境保护局（CBP）、联邦保护局（FPS）、国土安全调查局（HSI）等多个部门的员工。DDoSecrets的艾玛·贝斯特（Emma Best）透露，这批数据不仅暴露了负责秘密和卧底行动的官员，还涉及政府追查泄密者的关键人员，以及DHS遣返计划的核心人员。黑客组织在新闻稿中直言，这是对国土安全部部长马克韦恩·穆林（Markwayne Mullin）此前强硬表态的报复。值得注意的是，今年3月，同一个黑客组织就曾入侵过DHS网站，泄露了DHS、ICE与6000多家公司（包括国防承包商）之间的合同文件。",
+  "面对这起严重的安全事故，国土安全部发言人回应称，部门已经意识到潜在的违规漏洞，并正在迅速有效地采取行动解决问题。“我们高度重视针对员工和官员的所有安全威胁，并将努力确保所有人得到妥善保护。一旦有更多信息，我们将向公众更新。”对于身处美国的华人来说，这类涉及到强力执法部门（如ICE和边境巡逻队）的大规模数据泄露，往往意味着移民执法系统的内部机密和人员部署受到干扰，后续可能会对相关的移民审查、边境执法节奏产生连锁反应，值得大家持续关注。"
+ ],
+ "tags": [
+  "美国国土安全部",
+  "数据泄露",
+  "黑客攻击",
+  "ICE",
+  "移民执法"
+ ],
+ "original_title": "41,000 Homeland Security Employees And Undercover ICE Agents Exposed In Data Leak, Hackers Say",
+ "lang": "en",
+ "published": "2026-10-29T22:20:00+00:00",
+ "created": "2026-10-29T23:20:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

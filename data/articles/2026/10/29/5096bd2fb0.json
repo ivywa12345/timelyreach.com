@@ -1,0 +1,26 @@
+{
+ "key": "5096bd2fb0",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/science-and-technology/2026/10/28/why-dogs-catch-yawns-from-their-owners-but-not-other-dogs",
+ "title": "为什么狗子会传染主人的哈欠，却对别的狗无动于衷？",
+ "summary": "一项针对狼的研究表明，狗会传染主人的哈欠可能与人类的驯化过程有关。",
+ "body": [
+  "大家有没有发现过这样一个有趣的现象：当你忍不住打哈欠时，身边的狗子也跟着张大了嘴？但奇怪的是，它们对同类打哈欠却往往没什么反应。这背后的原因，科学家们最近有了一些新发现。",
+  "根据《经济学人》（The Economist）报道，近期对狼的相关研究表明，这种打哈欠会传染的现象，很可能是动物在被人类驯化过程中产生的一种结果。也就是说，这是狗子为了更好地融入人类生活、理解人类情绪而进化出的特殊能力。",
+  "对于咱们海外铲屎官来说，这不仅说明你家毛孩子是真的时刻在关注你，也从侧面印证了人与宠物之间那份独特的跨物种默契。下次它再陪你一起打哈欠时，不妨多给它一点爱抚吧！"
+ ],
+ "tags": [
+  "宠物趣闻",
+  "狗狗行为",
+  "科学研究",
+  "铲屎官"
+ ],
+ "original_title": "Why dogs catch yawns from their owners but not other dogs",
+ "lang": "en",
+ "published": "2026-10-28T17:52:55+00:00",
+ "created": "2026-10-29T23:19:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

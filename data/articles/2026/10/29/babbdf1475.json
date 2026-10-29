@@ -1,0 +1,25 @@
+{
+ "key": "babbdf1475",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/israel-votes-for-hope-4b76b08c?mod=rss_worldnews",
+ "title": "以色列大选出炉！这回的碎片结果，反而能带来新希望？",
+ "summary": "华尔街日报发表评论文章称，以色列选举结果分化，可能促使各派系未来在组阁时与极端正统派（Haredi）及阿拉伯政党展开更多合作。",
+ "body": [
+  "最近以色列的大选结果出炉啦，局面可以说是相当“碎片化”。知名评论员阿维·沙夫兰（Avi Shafran）在《华尔街日报》上发表文章指出，正是这种分散的选举结果和接下来势在必行的组阁过程，或许会成为一个契机，推动各方打破僵局，与极端正统派（Haredi）以及阿拉伯政党展开更多的合作与对话。",
+  "虽然目前的政治格局看起来挺复杂，各方势力拉扯不断，但文章认为，这种不得不妥协和结盟的现实，反而可能给长期撕裂的以色列政坛带来一丝希望，促使不同阵营坐下来寻找共同点。"
+ ],
+ "tags": [
+  "以色列大选",
+  "中东政治",
+  "组阁合作",
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | Israel Votes for Hope",
+ "lang": "en",
+ "published": "2026-10-29T21:50:00+00:00",
+ "created": "2026-10-29T23:18:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

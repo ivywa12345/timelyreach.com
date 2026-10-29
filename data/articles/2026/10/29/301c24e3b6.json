@@ -1,0 +1,27 @@
+{
+ "key": "301c24e3b6",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+ "title": "币安疑似遭黑客攻击？各大稳定币巨头急冻18亿美元！比特币应声跌破8万美元",
+ "summary": "加密货币交易所币安（Binance）正调查一起潜在的安全问题，Circle、Tether等多家加密公司已紧急冻结约18亿美元相关资金，比特币随后跌破8万美元大关。",
+ "body": [
+  "周四，全球最大加密货币交易所币安（Binance）疑似遭遇安全漏洞，币安官方表示正在调查“潜在的安全问题”，并强调用户资金“绝对安全”。虽然币安尚未明确承认遭到黑客攻击，但行业内多方已经紧急采取行动。",
+  "为了防止资金外流，Circle Internet Group和稳定币巨头Tether等公司迅速出手。Circle CEO杰里米·阿莱尔（Jeremy Allaire）在社交媒体上透露，公司已冻结了与此事件相关的超过8亿美元的USD Coin；Tether CEO保罗·阿尔多伊诺（Paolo Ardoino）也表示，已冻结超过15亿美元的USDT。此外，币安联合创始人何一表示，Ripple公司也协助阻止了2.02亿美元相关资金的转移。不过，加密数据提供商Arkham Intelligence指出，这18亿美元可能只是冰山一角，他们监测到与此次潜在漏洞相关的数字资产规模接近6亿美元。",
+  "受此消息影响，加密货币市场迅速震荡。比特币（Bitcoin）下跌超过3%，跌破8万美元；以太坊（Ether）下跌近4%，索拉纳（Solana）下跌约3%。Circle盘后股价也下挫了约5%。对于在美华人投资者来说，近期加密市场波动剧烈，涉及资产安全和合规交易的风险再度拉响警报，大家在操作时务必注意防范风险，盯紧自己的钱包。"
+ ],
+ "tags": [
+  "加密货币",
+  "币安",
+  "比特币",
+  "Tether",
+  "Circle"
+ ],
+ "original_title": "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
+ "lang": "en",
+ "published": "2026-10-29T22:47:32+00:00",
+ "created": "2026-10-29T23:21:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

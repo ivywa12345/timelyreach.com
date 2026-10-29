@@ -1,0 +1,28 @@
+{
+ "key": "71e9e02051",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/crypto/binance-investigates-possible-hack-after-billions-transferred-out-tether-and-circle-freeze",
+ "title": "币安突发数十亿美元大转移？稳定币巨头急冻结，赵长鹏直言“看起来像黑客攻击”",
+ "summary": "币安（Binance）正对一起“潜在安全问题”展开调查，因有数十亿美元加密货币流出交易所钱包，而稳定币发行商Tether与Circle已紧急冻结了总计超过10亿美元的资产。具体损失金额及攻击方式尚未得到官方最终确认，但链上数据显示流出规模巨大，比特币也随之跌破80,000美元。",
+ "body": [
+  "币安在周四表示，其团队正在积极调查一项“潜在安全问题”。此前，大笔加密货币从该交易所钱包中转出。虽然币安最初对文案进行了多次修改，并最终在社交平台X上发文称“用户资金完全安全”，但未透露具体被盗金额或是否为黑客所为。",
+  "不过，币安创始人赵长鹏（Changpeng Zhao）的态度则直率得多。他发文直言：“这看起来确实像是对币安的黑客攻击。”作为股东，他表示自己期望“所有用户资金都能得到全面覆盖”，并感谢了Tether和Circle的快速冻结操作。",
+  "在稳定币发行商方面，Tether首席执行官保罗·阿尔多伊诺（Paolo Ardoino）表示该公司已冻结与此次潜在攻击相关的超15.67亿美元USDT；Circle首席执行官杰里米·阿莱尔（Jeremy Allaire）则称，Circle在与执法部门配合下冻结了超8亿美元USDC。不过各方统计口径有所出入，链上追踪机构Decrypt的统计显示，总计有价值高达数十亿美元的加密资产发生可疑流出，各家追踪数据在33亿至58亿美元不等，币安目前尚未对这些数字予以证实。",
+  "受此消息影响，加密货币市场迅速作出反应，比特币（Bitcoin）跌回80,000美元以下，币安币（BNB）下跌约7%至699美元左右。如果最终确认损失达到链上估算的规模，这将远超此前保持的历史纪录。对于在币安存放资产或进行交易的华人用户来说，近期市场波动剧烈，建议密切关注官方渠道的最新进展，注意防范资金与市场风险。"
+ ],
+ "tags": [
+  "币安",
+  "加密货币",
+  "黑客攻击",
+  "比特币",
+  "稳定币"
+ ],
+ "original_title": "Binance Investigates Possible Hack After Billions Transferred Out; Tether And Circle Freeze Stablecoins",
+ "lang": "en",
+ "published": "2026-10-29T23:00:00+00:00",
+ "created": "2026-10-29T23:20:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

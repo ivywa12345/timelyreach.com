@@ -1,0 +1,25 @@
+{
+ "key": "01a9a872da",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/europe/why-does-spain-keep-having-deadly-rail-accidents-65d8416e?mod=rss_worldnews",
+ "title": "西班牙刚发生致命火车相撞，这下大选有得吵了！",
+ "summary": "西班牙周三发生了一起致命的铁路事故，由于大选临近，铁路安全问题瞬间变成了竞选热点话题。",
+ "body": [
+  "周三，西班牙发生了一起令人痛心的致命火车相撞事故。随着大选脚步的临近，铁路安全问题迅速被推到了风口浪尖，成了各方竞选时争论的焦点。",
+  "根据《华尔街日报》记者Margherita Stancati的报道，这起事故不仅关乎交通安全，也在政坛引发了不小的震动，候选人们纷纷开始就轨道交通的监管和安全表态。"
+ ],
+ "tags": [
+  "西班牙",
+  "火车事故",
+  "大选",
+  "铁路安全"
+ ],
+ "original_title": "Why Does Spain Keep Having Deadly Rail Accidents?",
+ "lang": "en",
+ "published": "2026-10-29T21:22:00+00:00",
+ "created": "2026-10-29T23:17:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

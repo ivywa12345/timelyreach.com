@@ -1,0 +1,27 @@
+{
+ "key": "5a3bfd626b",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+ "title": "英特尔股价跌惨了！PC业务遇冷，到底发生了什么？",
+ "summary": "英特尔股价正在经历两年多来最糟糕的下跌，主要因为内存芯片价格上涨压制了市场需求，同时企业IT预算缩减导致笔记本电脑不好卖了。",
+ "body": [
+  "芯片巨头英特尔（Intel）最近的日子不太好过，其股价正朝着两年多来的最大单日跌幅滑落。根据MarketWatch报道，这次股价跳水的主因是公司的核心PC业务正面临巨大压力。",
+  "市场分析指出，内存芯片价格的上涨直接影响了下游需求，让消费者和企业买单时更加犹豫。与此同时，各大企业的IT采购团队勒紧了裤腰带，减少了用于采购笔记本电脑的预算，导致英特尔的业绩预期受到牵连。",
+  "对于关注美股和科技股的海外华人来说，半导体板块的波动往往直接牵动着投资账户。科技巨头们的资本开支和业务调整，也可能间接影响到身处IT和互联网行业的华人的工作稳定性，值得大家在做资产配置时多留个心眼。"
+ ],
+ "tags": [
+  "英特尔",
+  "美股",
+  "科技股",
+  "芯片行业",
+  "海外投资"
+ ],
+ "original_title": "Why Intel’s stock is sinking toward its worst drop in two years",
+ "lang": "en",
+ "published": "2026-10-29T23:11:00+00:00",
+ "created": "2026-10-29T23:21:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

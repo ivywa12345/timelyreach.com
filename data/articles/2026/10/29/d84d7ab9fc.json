@@ -1,0 +1,27 @@
+{
+ "key": "d84d7ab9fc",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/alphabets-market-value-drops-500-billion-df24d044?mod=rss_Technology",
+ "title": "谷歌手市值一下蒸发了5000亿美元？这波操作太猛了！",
+ "summary": "根据《华尔街日报》报道，谷歌母公司Alphabet的市值近期遭遇重挫，大跌5000亿美元。同时，美国司法部扩大了对阿拉斯加州参议院选举的刑事调查，而美国国债占GDP的比例也正式达到了100%。",
+ "body": [
+  "科技巨头谷歌母公司Alphabet（Alphabet）近日在资本市场上遭遇滑铁卢，市值直接蒸发了5000亿美元，引发了市场广泛关注。",
+  "除了科技股的巨大震动，近期美国政经领域还有两件大事备受瞩目。一是美国司法部（DOJ）进一步扩大了针对阿拉斯加州参议院选举的刑事调查；二是官方数据显示，美国国家债务规模已经达到了GDP的100%。",
+  "对于咱们海外华人来说，科技巨头股价大跌往往会直接波及相关投资理财和科技行业的就业风向，而国债飙升和宏观经济的不稳定，也可能在未来对我们的钱包、汇率和整体经济环境产生深远影响。"
+ ],
+ "tags": [
+  "谷歌",
+  "美股",
+  "美国国债",
+  "海外华人",
+  "财经新闻"
+ ],
+ "original_title": "Alphabet’s Market Value Drops $500 Billion",
+ "lang": "en",
+ "published": "2026-10-29T21:30:00+00:00",
+ "created": "2026-10-29T23:19:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

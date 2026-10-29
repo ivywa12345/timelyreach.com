@@ -1,0 +1,26 @@
+{
+ "key": "59b28a2b9d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
+ "title": "科技股财报又让人失望？美股期货下跌，资金开始大挪移",
+ "summary": "由于最新科技股财报表现不及预期，美国股指期货走低，投资者纷纷将资金转投股市其他板块，同时债券市场迎来上涨。",
+ "body": [
+  "根据彭博社（Bloomberg）报道，周期的美股股市迎来新变化。由于多家科技公司的财报表现未能让投资者满意，美国股指期货（US equity-index futures）出现下跌。这导致资金开始从科技板块撤离，转而流入股市的其他领域。",
+  "与此同时，避险情绪也推动了债券市场（Bonds）的上涨，显示出投资者在财报季正在重新调整资产配置，寻找更稳妥的投资去处。"
+ ],
+ "tags": [
+  "美股",
+  "科技股",
+  "财报季",
+  "债券市场",
+  "海外投资"
+ ],
+ "original_title": "Nasdaq Futures Fall as Tech Struggles, Bonds Gain: Markets Wrap",
+ "lang": "en",
+ "published": "2026-10-29T22:07:56+00:00",
+ "created": "2026-10-29T23:19:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,28 @@
+{
+ "key": "d4fdee7cd0",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/alphabet-stumbles-u-s-economy-surges-7f47a441?mod=rss_markets_main",
+ "title": "美股大洗牌！谷歌母公司栽跟头，美国经济却猛冲？",
+ "summary": "最新市场消息传来：科技巨头Alphabet股价遭遇滑铁卢，与此同时美国整体经济表现强劲；另外，外卖巨头DoorDash将收购Instacart，而ServiceNow股价则出现暴跌。",
+ "body": [
+  "最近华尔街可谓冰火两重天。一方面，科技巨头谷歌母公司Alphabet（Alphabet）遭遇了不小的挫折，股价表现疲软；而另一方面，美国整体经济数据却显示出强劲的增长势头，让人大跌眼镜。",
+  "除了大盘和科技股的动荡，行业内部也传出了大动作。外卖平台DoorDash（DoorDash）计划出手收购竞争对手Instacart（Instacart）。几家欢喜几家愁，企业软件公司ServiceNow（ServiceNow）的股价更是直接遭遇了崩盘式下跌。",
+  "对于咱们海外华人来说，华尔街的这波大地震直接牵动着大家的神经。股市动荡意味着我们的401(k)养老金账户和投资组合可能正在经历过山车，而经济数据的强劲又可能让美联储的利率政策再生变数，进而影响到大家的房贷利率和就业饭碗。接下来盯紧自己的钱包，保持观望是个稳妥的选择。"
+ ],
+ "tags": [
+  "美股",
+  "Alphabet",
+  "DoorDash",
+  "Instacart",
+  "美国经济",
+  "海外华人"
+ ],
+ "original_title": "Alphabet Stumbles, U.S. Economy Surges",
+ "lang": "en",
+ "published": "2026-10-29T20:32:00+00:00",
+ "created": "2026-10-29T23:18:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

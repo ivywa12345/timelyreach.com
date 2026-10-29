@@ -1,0 +1,25 @@
+{
+ "key": "af0fbe1156",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/why-josh-kushners-firm-just-spent-7-6-billion-on-a-150-year-old-company-8bfdd9f8?mod=rss_markets_main",
+ "title": "川普小舅子出手太猛！直接砸76亿美元买下150年老牌公司",
+ "summary": "贾里德·库什纳（Jared Kushner）的弟弟约什·库什纳（Josh Kushner）旗下的Thrive Holdings正在收购老牌公司ADT，这笔高达76亿美元的交易展现了他超越传统风投的宏大野心。",
+ "body": [
+  "说起库什纳家族，大家可能更熟悉特朗普（Donald Trump）的幕僚长贾里德·库什纳（Jared Kushner）。不过最近，他的亲弟弟约什·库什纳（Josh Kushner）在商界搞出了大动静。他旗下的Thrive Holdings公司最近正准备豪掷76亿美元，买下一家拥有150年历史的老牌企业ADT。",
+  "根据《华尔街日报》记者Kate Clark的报道，这笔高达76亿美元的收购案并不是孤立事件，而是约什·库什纳近年来一系列疯狂“买买买”的一部分。这也清楚地表明，他的商业版图和野心已经远远超出了传统的风险投资（VC）领域，开始向更大体量的成熟企业进军。"
+ ],
+ "tags": [
+  "商业新闻",
+  "库什纳",
+  "投资并购",
+  "华尔街"
+ ],
+ "original_title": "Why Josh Kushner’s Firm Just Spent $7.6 Billion on a 150-Year-Old Company",
+ "lang": "en",
+ "published": "2026-10-29T23:00:00+00:00",
+ "created": "2026-10-29T23:18:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

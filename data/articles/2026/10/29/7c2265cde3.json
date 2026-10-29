@@ -1,0 +1,26 @@
+{
+ "key": "7c2265cde3",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?mod=rss_markets_main",
+ "title": "币安创办人承认：交易所可能遭遇了史上最大规模加密货币盗窃案？",
+ "summary": "币安（Binance）创办人赵长鹏表示用户资金安全，但分析人士指出，黑客可能窃取了至少17亿美元甚至更多的资金。",
+ "body": [
+  "最近币安（Binance）可能摊上大事了！据《华尔街日报》报道，币安创办人赵长鹏（Changpeng Zhao）表示，目前用户资金是安全的。不过，分析人士指出，黑客似乎已经卷走了至少17亿美元，甚至可能更多。",
+  "虽然官方一再强调资产安全，但巨额资金的不翼而飞还是让加密货币市场捏了一把汗。这不仅让投资者对平台的安全防护产生担忧，也再次给所有加密货币持有者敲响了警钟：数字资产的存放安全永远是第一位的。"
+ ],
+ "tags": [
+  "币安",
+  "加密货币",
+  "黑客攻击",
+  "赵长鹏",
+  "海外快讯"
+ ],
+ "original_title": "Binance Founder Says Exchange May Be Victim of Biggest-Ever Crypto Heist",
+ "lang": "en",
+ "published": "2026-10-29T22:27:00+00:00",
+ "created": "2026-10-29T23:18:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

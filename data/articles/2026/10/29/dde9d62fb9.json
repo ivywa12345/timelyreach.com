@@ -1,0 +1,26 @@
+{
+ "key": "dde9d62fb9",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/israel-votes-for-hope-4b76b08c?mod=rss_opinion",
+ "title": "以色列大选结果出炉，这次能带来转机吗？",
+ "summary": "以色列大选结果尘埃落定，由于选票分散，新政府极需组建联合政府，这或许会促成与极正统犹太教政党及阿拉伯政党的合作。",
+ "body": [
+  "近日，以色列大选结果揭晓，各方势力分庭抗礼。由于没有单一政党能直接拿到绝对多数，接下来的组阁之路注定充满拉锯战和艰难的政治博弈。",
+  "根据《华尔街日报》专栏作家 Avi Shafran 的分析，这种碎片化的选举结果虽然让组阁变得复杂，但从另一个角度来看，也可能成为推动国内不同阵营走向合作的契机，特别是促成主流政治力量与极正统犹太教（Haredi）政党以及阿拉伯政党的接触与协作。",
+  "对于远在海外的华人来说，中东政坛的每一次震荡都牵动着全球能源价格和地缘政治的神经，后续新政府的对外政策走向仍需持续关注。"
+ ],
+ "tags": [
+  "以色列大选",
+  "中东局势",
+  "组阁",
+  "海外观察"
+ ],
+ "original_title": "Israel Votes for Hope",
+ "lang": "en",
+ "published": "2026-10-29T21:50:00+00:00",
+ "created": "2026-10-29T23:19:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

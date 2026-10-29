@@ -1,0 +1,27 @@
+{
+ "key": "71d4fca08c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/kioxia-faces-test-to-impress-with-earnings-after-60-stock-slump",
+ "title": "从暴涨到暴跌？铠侠财报将迎来终极大考",
+ "summary": "曾经风光无限的存储芯片巨头铠侠（Kioxia）经历了一场“过山车”般的股市行情，从全球最牛股票迅速沦为低迷的存储芯片板块中表现最差的标的，即将发布的财报将对其构成严峻考验。",
+ "body": [
+  "据彭博社报道，存储芯片大厂铠侠控股公司（Kioxia Holdings Corp.）目前正面临着巨大的市场压力。在经历了股价的大幅暴跌之后，其即将公布的财报成为了投资者关注的焦点，铠侠必须交出一份足够亮眼的成绩单来证明自己。",
+  "回顾此前的市场表现，铠侠的股价经历了剧烈波动。它曾一度冲上云霄，成为全球表现最强的股票之一；然而好景不长，随着存储芯片行业整体陷入低迷，铠侠迅速滑落，成为了该板块中表现最差的公司。",
+  "对于关注科技股和半导体行业的海外华人投资者来说，存储芯片板块的冷热交替直接反映了全球电子消费市场的复苏节奏。铠侠这次能不能靠财报打个漂亮的翻身仗，不仅关乎其自身的市值，也是整个芯片行业走向的风向标。"
+ ],
+ "tags": [
+  "铠侠",
+  "Kioxia",
+  "存储芯片",
+  "美股财报",
+  "半导体行业"
+ ],
+ "original_title": "Kioxia Faces Test to Impress With Earnings After 60% Stock Slump",
+ "lang": "en",
+ "published": "2026-10-29T22:30:00+00:00",
+ "created": "2026-10-29T23:20:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

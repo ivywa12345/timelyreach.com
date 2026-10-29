@@ -1,0 +1,26 @@
+{
+ "key": "603d50cd31",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai",
+ "title": "美媒：中国AI越来越依赖“抄作业”？这招虽然气坏美国，但可能反而会坑了自己？",
+ "summary": "根据《经济学人》报道，中国AI企业正越来越依赖从美国人工智能模型中进行“蒸馏”来提升自己的技术，这虽然让美方十分恼火，但长远来看可能会限制中国本土AI的自主创新能力。",
+ "body": [
+  "最近科技圈又有新话题了。《经济学人》(The Economist)近日发文指出，中国的人工智能（AI）行业正越来越依赖一种被称为“模型蒸馏”（Model distillation）的技术，简单来说，就是通过学习美国顶尖AI的输出来快速提升自己的水平。",
+  "这种做法可以说是把美国气得够呛，但专家分析认为，过度依赖“偷师”或者“抄作业”虽然能解燃眉之急，但从长远来看，可能会对中国AI的底层创新能力踩下刹车，甚至限制未来的发展高度。",
+  "对于咱们海外华人来说，AI技术的竞争直接关系到中美高科技领域的博弈走向，进而也可能影响到相关行业的就业和投资风向。后续这方面的监管和技术封锁会不会加码，值得我们持续关注。"
+ ],
+ "tags": [
+  "人工智能",
+  "中美科技战",
+  "经济学人",
+  "海外华人"
+ ],
+ "original_title": "China increasingly depends on copying American AI",
+ "lang": "en",
+ "published": "2026-10-25T17:44:35+00:00",
+ "created": "2026-10-29T23:19:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

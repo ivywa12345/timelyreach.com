@@ -1,0 +1,25 @@
+{
+ "key": "eb57745865",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30",
+ "title": "中东又要折腾？传美国可能对伊朗动武，油价蹭蹭往上涨！",
+ "summary": "受美国可能恢复对伊朗军事打击的迹象影响，国际油价再度走高，市场担心这会引发中东新一轮动荡并冲击能源供应。",
+ "body": [
+  "据彭博社（Bloomberg）报道，由于有迹象显示美国可能会对伊朗重新展开军事打击，国际油价在10月30日出现了上涨。市场各方都在担心，这可能会给本就动荡的中东地区带来新的风波，甚至进一步扰乱全球的能源供应链。",
+  "对咱们海外华人来说，能源价格一波动，紧接着受影响的就是油箱里的油费和日常生活的通胀压力。后续局势是否会升级、会不会波及油价，还得继续观察。"
+ ],
+ "tags": [
+  "油价",
+  "中东局势",
+  "美国伊朗",
+  "海外生活"
+ ],
+ "original_title": "Latest Oil Market News and Analysis for Oct. 30",
+ "lang": "en",
+ "published": "2026-10-29T22:02:17+00:00",
+ "created": "2026-10-29T23:19:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

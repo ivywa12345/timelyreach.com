@@ -1,0 +1,27 @@
+{
+ "key": "67d2667aaf",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/trump-s-dhs-owned-deportation-fleet-makes-first-removal-flights",
+ "title": "特朗普政府出手了！国土安全部首次动用“自购专机”遣返非法移民",
+ "summary": "美国国土安全部首次使用新购置的飞机将遣返人员送往墨西哥，这标志着这支此前备受关注的遣返机队正式投入使用。",
+ "body": [
+  "据彭博社（Bloomberg）报道，美国国土安全部（Department of Homeland Security，简称DHS）近日首次动用了一架新购置的飞机，将遣返人员送往墨西哥（Mexico）。",
+  "这次飞行不仅是一次普通的遣返行动，也可能为几个月来关于这支飞机的种种猜测画上了句号。此前，这些在前国土安全部负责人克里斯蒂·诺姆（Kristi Noem）任内购买的喷气式飞机，其具体用途和命运曾引发外界不少讨论和不确定性。",
+  "对于关注美国移民政策和边境安全的海外华人来说，特朗普（Trump）政府正在逐步兑现其加强边境管控和大规模遣返的承诺。随着这支“DHS专属遣返机队”的正式启用，未来的遣返效率和频率可能会进一步提升。"
+ ],
+ "tags": [
+  "美国移民",
+  "特朗普政府",
+  "国土安全部",
+  "遣返行动",
+  "墨西哥"
+ ],
+ "original_title": "Trump’s DHS-Owned Deportation Fleet Makes First Removal Flights",
+ "lang": "en",
+ "published": "2026-10-29T21:30:50+00:00",
+ "created": "2026-10-29T23:20:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

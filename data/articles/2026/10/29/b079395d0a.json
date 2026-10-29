@@ -1,0 +1,25 @@
+{
+ "key": "b079395d0a",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/africa/trumps-deportation-deal-with-cameroon-will-equip-unit-accused-of-war-crimes-a94d3faa?mod=rss_worldnews",
+ "title": "用装甲车换接收被遣返人员？特朗普政府这笔交易引争议",
+ "summary": "根据《华尔街日报》报道，特朗普政府与喀麦隆达成一项协议，美方将向喀麦隆提供装甲运兵车，作为交换，喀麦隆同意接收来自第三国家的被遣返人员。",
+ "body": [
+  "近日有媒体爆出，特朗普（Trump）政府为了推进遣返第三国人员的计划，和非洲国家喀麦隆（Cameroon）达成了一项不同寻常的交易。根据协议，美方将向喀麦隆提供装甲运兵车，而喀麦隆则答应协助接收被遣返人员。",
+  "不过，这笔交易在人权和国际法层面引发了不小的讨论。据报道，即将接收这批美制装甲运兵车的喀麦隆军事单位，此前曾被指控涉嫌战争罪。这也让外界对这起旨在解决移民遣返问题的幕后交易产生了诸多性质复杂的质疑。"
+ ],
+ "tags": [
+  "特朗普政府",
+  "移民遣返",
+  "喀麦隆",
+  "国际新闻"
+ ],
+ "original_title": "Trump’s Deportation Deal With Cameroon Will Equip Unit Accused of War Crimes",
+ "lang": "en",
+ "published": "2026-10-29T20:56:00+00:00",
+ "created": "2026-10-29T23:18:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "a0b86f0bbb",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/science-and-technology/2026/10/26/treatments-for-age-related-infertility-are-being-developed-at-last",
+ "title": "年纪大了生不出？终于有救了！初创公司正全力攻克高龄生育难题",
+ "summary": "长期以来，年龄大导致的生育困难一直是医学难题。如今，一些初创公司正试图通过揭示不孕不育的生物学机制，来彻底改善试管婴儿（IVF）技术。",
+ "body": [
+  "年纪大备孕有多难，经历过的人都懂。好消息是，医学界终于开始认真研究如何解决与年龄增长相关的生育难题了。",
+  "根据《经济学人》（The Economist）的报道，目前许多初创公司正把目光投向基础生物学，试图通过弄清楚不孕不育的底层机制，来让试管婴儿（IVF）技术变得更有效。长期以来，大龄生育一直缺乏针对性的特效治疗手段，这些新公司的探索或许能为许多求子心切的家庭带来新希望。",
+  "对于海外华人家庭来说，生娃往往伴随着高昂的时间和金钱成本。如果未来这些针对年龄相关不孕不育的新疗法能够成功研发并普及，不仅能减轻试管婴儿过程中的身心折磨，也能实实在在地帮大家省下一大笔医疗开销。"
+ ],
+ "tags": [
+  "生育",
+  "试管婴儿",
+  "科技医疗",
+  "大龄备孕",
+  "海外生活"
+ ],
+ "original_title": "Treatments for age-related infertility are being developed at last",
+ "lang": "en",
+ "published": "2026-10-26T21:40:51+00:00",
+ "created": "2026-10-29T23:19:32+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

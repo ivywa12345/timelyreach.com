@@ -1,0 +1,26 @@
+{
+ "key": "985b11735b",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/amazon-amzn-q3-earnings-report-2026-stock-a0b92f17?mod=rss_Technology",
+ "title": "亚马逊净利突破200亿美元，股价却为啥大跌？",
+ "summary": "虽然云业务增长创下近年新高且三季度净利润突破200亿美元，但亚马逊自由现金流暴跌，导致华尔街不买账，股价应声下跌。",
+ "body": [
+  "根据《华尔街日报》记者 Isabella Simonetti 的报道，电商巨头亚马逊（Amazon）交出了一份喜忧参半的第三季度财报。数据显示，公司净利润成功突破了20亿美元（注：原文为net income topped $20 billion，此处依原文），云业务也迎来了近年来最强劲的增长。",
+  "然而，华尔街投资者们似乎并不满足。财报中最让人揪心的是，亚马逊的自由现金流出现了暴跌（free cash flow plunged），这也直接导致其股价在华尔街遭遇下跌。"
+ ],
+ "tags": [
+  "亚马逊",
+  "美股",
+  "财报",
+  "华尔街",
+  "云计算"
+ ],
+ "original_title": "Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years",
+ "lang": "en",
+ "published": "2026-10-29T22:13:00+00:00",
+ "created": "2026-10-29T23:18:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
