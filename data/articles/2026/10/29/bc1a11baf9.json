@@ -1,0 +1,27 @@
+{
+ "key": "bc1a11baf9",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-fd780fc4?mod=rss_markets_main",
+ "title": "科技股又有什么新动向？谷歌、微软最新市场风向标来了",
+ "summary": "华尔街日报最新发布了科技、媒体与电信行业的市场观点汇总，涵盖了Alphabet、微软（Microsoft）以及意法半导体（STMicroelectronics）等行业巨头的最新动态。",
+ "body": [
+  "如果你最近在关注美股科技板块，那这份最新的行业动态可得瞅瞅。根据《华尔街日报》（The Wall Street Journal）发布的最新市场快讯，科技、媒体和电信（TMT）领域迎来了一波新的分析讨论。",
+  "在这期市场谈话（Market Talk）栏目中，重点关注了几家大厂的最新表现，其中包括搜索引擎巨头谷歌母公司Alphabet（Alphabet）、软件领头羊微软（Microsoft），以及芯片制造商意法半导体（STMicroelectronics）等。虽然具体财务数据和分析细节需要进入正文细品，但这几家公司的一举一动依然牵动着无数投资者的神经。",
+  "对于咱们海外华人来说，科技股不仅常常是投资组合里的主力，也直接关系到大厂打工人的年终奖和股票期权。后续这些巨头在AI浪潮和全球供应链上的动作，咱们还得持续保持关注。"
+ ],
+ "tags": [
+  "美股",
+  "科技股",
+  "谷歌",
+  "微软",
+  "海外投资"
+ ],
+ "original_title": "Tech, Media & Telecom Roundup: Market Talk",
+ "lang": "en",
+ "published": "2026-10-29T16:30:00+00:00",
+ "created": "2026-10-29T17:06:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

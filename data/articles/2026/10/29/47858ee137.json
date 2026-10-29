@@ -1,0 +1,25 @@
+{
+ "key": "47858ee137",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/lula-s-top-court-problem-moraes-passport-order-angers-brazil-s-president",
+ "title": "巴西总统卢拉遇上“大麻烦”：最高法院法官这回把总统惹毛了",
+ "summary": "据彭博社报道，巴西总统卢拉（Luiz Inácio Lula da Silva）目前正为最高法院的一位关键法官亚历山大·德·莫赖斯（Alexandre de Moraes）头疼不已，这位法官下达的一道关于护照的命令彻底激怒了总统。",
+ "body": [
+  "巴西政坛最近不太平，总统卢拉（Luiz Inácio Lula da Silva）遇上了一个棘手的最高法院难题。让卢拉脑大的是最高法院大法官亚历山大·德·莫赖斯（Alexandre de Moraes）。",
+  "根据彭博社（Bloomberg）的报道，真正点燃怒火的是莫赖斯近期发布的一项关于护照的行政命令。这一举动不仅引发了法律界和政坛的震动，也让身为总统的卢拉感到十分难办与愤怒，直接激化了行政权与司法权之间的矛盾。"
+ ],
+ "tags": [
+  "巴西政治",
+  "卢拉",
+  "最高法院",
+  "国际新闻"
+ ],
+ "original_title": "Lula’s Top Court Problem: Moraes Passport Order Angers Brazil’s President",
+ "lang": "en",
+ "published": "2026-10-29T16:59:18+00:00",
+ "created": "2026-10-29T17:07:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

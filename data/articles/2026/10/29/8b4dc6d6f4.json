@@ -1,0 +1,27 @@
+{
+ "key": "8b4dc6d6f4",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/us-stock-futures-fall-as-alphabet-sales-miss-revives-ai-fears",
+ "title": "AI泡沫要破？谷歌股价创纪录暴跌，科技股集体拉闸！",
+ "summary": "受财报表现不佳及AI对其核心业务威胁的担忧影响，谷歌母公司Alphabet Inc.遭遇创纪录暴跌，拖累科技股集体走低。",
+ "body": [
+  "各位老铁，科技股这回又让人捏了一把汗！最近美股科技板块集体走低，罪魁祸首居然是搜索巨头谷歌的母公司Alphabet Inc.。由于最新财报没能让投资人满意，Alphabet Inc.遭遇了史诗级的创纪录暴跌。大家突然开始疯狂担心：人工智能（AI）这把火，是不是反而要把谷歌自己的老家给烧了？",
+  "事情的起因很简单，就是因为财报数据不够亮眼，直接把投资者的焦虑给勾出来了。大家本来对AI的发展乐见其成，但现在市场风向变了，开始认真审视AI对传统核心业务到底构成了多大的生存威胁。这波恐慌情绪迅速蔓延，直接把整个科技股板块都给带沟里去了。",
+  "对于咱们海外华人来说，科技股大跌往往牵一发而动全身，不仅关乎401(k)和股票账户里的真金白银，也让身处科技圈的打工人对大厂的动向捏了一把冷汗。AI这波浪潮到底是在造富还是在砸饭碗，接下来的市场走势可得睁大眼睛看清楚了。"
+ ],
+ "tags": [
+  "科技股",
+  "谷歌",
+  "人工智能",
+  "美股",
+  "海外华人"
+ ],
+ "original_title": "Tech Stocks Slide as Alphabet’s Record Plunge Revives AI Fears",
+ "lang": "en",
+ "published": "2026-10-29T11:09:59+00:00",
+ "created": "2026-10-29T17:08:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

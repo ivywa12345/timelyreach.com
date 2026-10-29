@@ -1,0 +1,25 @@
+{
+ "key": "885b310979",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/us-news/billionaires-dont-like-the-wealth-tax-heres-what-some-propose-instead-4cb5e4e2?mod=rss_markets_main",
+ "title": "亿万富翁为啥不爱“财富税”？他们转头出了这些主意",
+ "summary": "华尔街日报报道，一些亿万富翁对征收财富税并不感冒，他们更倾向于通过削减政府浪费开支或改善底层民众生活来解决问题。",
+ "body": [
+  "最近美国关于富人该不该多交税吵得火热，不过根据《华尔街日报》记者朱丽叶·钟（Juliet Chung）的报道，许多身家过亿的超级富豪对直接征收“财富税”可没什么好感。他们觉得与其把钱直接收上去，不如把目光放在别的地方。",
+  "这些富豪们提出了不少替代方案。有的人认为当务之急是彻查并根治政府内部的浪费开支，把纳税人的钱花在刀刃上；还有的人主张把重点放在如何切实改善底层弱势群体的生活状况上，而不是在税率上做文章。"
+ ],
+ "tags": [
+  "亿万富翁",
+  "财富税",
+  "美国经济",
+  "海外华人"
+ ],
+ "original_title": "Billionaires Don’t Like the Wealth Tax. Here’s What Some Propose Instead.",
+ "lang": "en",
+ "published": "2026-10-29T16:42:00+00:00",
+ "created": "2026-10-29T17:06:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

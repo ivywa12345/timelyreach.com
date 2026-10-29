@@ -1,0 +1,29 @@
+{
+ "key": "e4d60c9600",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/10/29/us-news/boy-15-fatally-shot-while-walking-to-school-in-broad-daylight-nyc-attack-cops-sources/",
+ "title": "纽约大白天的悲剧：15岁男孩在上学路上遭枪击身亡",
+ "summary": "纽约布朗克斯区发生一起令人痛心的枪击案。一名15岁男孩在大白天上学途中腹部中枪，送医后不幸身亡，警方目前正在追捕三名涉案嫌疑人。",
+ "body": [
+  "据《纽约邮报》（New York Post）报道，周四上午，纽约布朗克斯区（Bronx）发生了一起令人震惊的枪击事件，一名15岁男孩在上学路上不幸丧命。",
+  "警方和执法消息人士表示，事发时大约是上午9点25分，地点位于克莱蒙特（Claremont）的东171街（East 171 Street）交第三大道（Third Avenue）附近。当时这名男孩正在去学校的路上，却突遭枪击，腹部中弹。",
+  "事发后，警方用警车将其紧急送往圣巴纳巴斯医院（St. Barnabas Hospital）。最初他的情况还算稳定，但病情随后急转直下，在大约两个小时后被宣告不治身亡。",
+  "目击者和警方指出，枪击发生后，有三名身穿全身黑衣、年龄估计在16至18岁之间的男性嫌疑人逃离现场。他们最后被发现往富尔顿大道（Fulton Avenue）南侧逃进克罗托纳公园（Crotona Park）。现场只留下了一只乔丹（Jordan）运动鞋供警方取证。",
+  "截至目前，警方尚未逮捕任何人，作案动机仍在进一步调查中。这起光天化日之下的校园路上的枪击悲剧，再次给社区的安全敲响了警钟，也让家长们对孩子的出行安全感到揪心。"
+ ],
+ "tags": [
+  "纽约治安",
+  "枪击案",
+  "布朗克斯",
+  "突发新闻",
+  "海外安全"
+ ],
+ "original_title": "Boy, 15, shot dead by apparent teen gunmen on way to school in NYC attack",
+ "lang": "en",
+ "published": "2026-10-29T16:59:21+00:00",
+ "created": "2026-10-29T17:11:51+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

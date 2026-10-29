@@ -1,0 +1,27 @@
+{
+ "key": "97f795d505",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/citadel-can-subpoena-top-marshall-wace-executives-judge-rules",
+ "title": "华尔街对头开战！法官裁定：Citadel可传唤Marshall Wace高管",
+ "summary": "知名对冲基金Citadel与竞争对手Marshall Wace因高管跳槽一事展开法律大战，法官最新裁定Citadel有权获取对方两名高管的通讯记录。",
+ "body": [
+  "华尔街的对冲基金大鳄们又掐起来了！这次的主角是金融巨头城堡投资（Citadel）和英国对冲基金Marshall Wace。事情的起因是Marshall Wace挖走了Citadel的前投资组合经理丹尼尔·沙茨（Daniel Shatz），让他担任全球信贷负责人。Citadel气不过直接告上法庭，最近法官判了：Citadel可以拿到Marshall Wace两名顶级高管的通讯记录！",
+  "根据彭博社（Bloomberg）报道，这场官司的核心就是围绕着丹尼尔·沙茨（Daniel Shatz）的跳槽展开。Citadel显然觉得对方挖人的手段或者涉及的商业机密有问题，因此紧咬不放，非要查清楚这几位高管之间的沟通内容不可。",
+  "对于在海外金融圈打拼的华人来说，华尔街大厂之间的顶尖人才争夺战一向火药味十足。高管跳槽往往伴随着敏感的竞业协议和商业机密博弈，稍有不慎就会引发神仙打架般的法律诉讼。这场官司不仅关乎两家公司的利益，也再次给金融圈的跳槽族敲响了合规的警钟。"
+ ],
+ "tags": [
+  "华尔街",
+  "对冲基金",
+  "Citadel",
+  "Marshall Wace",
+  "职场法律"
+ ],
+ "original_title": "Citadel Can Subpoena Top Marshall Wace Executives, Judge Rules",
+ "lang": "en",
+ "published": "2026-10-29T16:30:54+00:00",
+ "created": "2026-10-29T17:08:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

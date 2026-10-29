@@ -1,0 +1,26 @@
+{
+ "key": "7257177904",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/venezuelan-leader-commits-to-elections-ahead-of-machado-speech",
+ "title": "委内瑞拉政局突变！代总统突然松口：选举肯定办，国际社会来监督",
+ "summary": "委内瑞拉代总统德尔茜·罗德里格斯（Delcy Rodríguez）周四在一次罕见的电视讲话中承诺，委内瑞拉将举行选举，并由重组后的选举监管机构负责、国际社会进行监督。此时正值反对派领袖玛丽亚·科丽娜·马查多（María Corina Machado）归国，该国临时政府面临的压力不断增大。",
+ "body": [
+  "委内瑞拉代总统德尔茜·罗德里格斯（Delcy Rodríguez）在周四进行了一场罕见的电视直播讲话，给外界抛出一个重磅消息：委内瑞拉将要举行选举了！",
+  "按照罗德里格斯的说法，这次选举将由一个全新改组的选举监管机构来操办，而且会邀请国际社会来当“监考员”。",
+  "值得注意的是，就在她发表这番言论之前不久，反对派领袖玛丽亚·科丽娜·马查多（María Corina Machado）刚刚回国。随着马查多的回归，代总统罗德里格斯领导的临时政府正面临着越来越大的各方政治压力。"
+ ],
+ "tags": [
+  "委内瑞拉",
+  "大选",
+  "国际新闻",
+  "政治动态"
+ ],
+ "original_title": "Venezuelan Leader Commits to Elections Ahead of Machado Speech",
+ "lang": "en",
+ "published": "2026-10-29T16:27:08+00:00",
+ "created": "2026-10-29T17:08:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
