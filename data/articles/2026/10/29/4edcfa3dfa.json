@@ -1,0 +1,25 @@
+{
+ "key": "4edcfa3dfa",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/economy/global/irish-economy-surges-again-in-boost-to-eurozone-58395075?mod=rss_worldnews",
+ "title": "顶住能源涨价！爱尔兰经济又双叒叕飙了，给欧元区打了一剂强心针",
+ "summary": "根据《华尔街日报》报道，爱尔兰经济再次呈现强劲增长势头，这为整个欧元区克服高昂能源成本、实现持续扩张带来了新的希望。",
+ "body": [
+  "虽然欧洲这段时间一直面临能源成本居高不下的压力，但爱尔兰的经济表现却让人眼前一亮，再次出现了猛烈的增长势头。",
+  "经济学家认为，爱尔兰这次的亮眼表现不仅是其国内的利好，也给整个欧元区（Eurozone）的经济持续扩张注入了信心，让外界对欧洲整体摆脱阴霾多了一份期待。"
+ ],
+ "tags": [
+  "爱尔兰经济",
+  "欧元区",
+  "海外财经",
+  "欧洲能源"
+ ],
+ "original_title": "Irish Economy Surges Again in Boost to Eurozone",
+ "lang": "en",
+ "published": "2026-10-29T11:54:00+00:00",
+ "created": "2026-10-29T15:52:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

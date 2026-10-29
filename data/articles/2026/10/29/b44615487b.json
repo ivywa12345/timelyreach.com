@@ -1,0 +1,26 @@
+{
+ "key": "b44615487b",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/the-new-age-of-mutually-assured-disruption-4e511f69?mod=rss_worldnews",
+ "title": "美媒：军事AI的终极目标，可能是让传统战争直接“失业”？",
+ "summary": "《华尔街日报》发表观点文章指出，军事人工智能（AI）的最终成就，或许就是让传统战争变得越来越没有必要。",
+ "body": [
+  "最近《华尔街日报》(The Wall Street Journal)刊登了一篇很有意思的观点文章，讨论了军事AI的终极走向。文章的核心观点很简单：军事人工智能的最终极成就，可能不是打赢战争，而是让传统的真刀真枪越来越没有必要。",
+  "简单来说，随着AI技术在军事领域的狂飙突进，大国之间的技术威慑和博弈方式正在发生深刻变化。传统战争劳民伤财，而AI时代的对抗可能更多转向了看不见的领域。这种改变不仅重塑了国防逻辑，也将对未来的全球地缘政治产生深远影响。",
+  "对于咱们海外华人来说，科技战和军事AI的发展虽然听起来离日常生活挺远，但它直接关系到大国关系的走向、高科技行业的监管，甚至可能影响到未来的就业方向和经济大盘。我们会继续关注这方面的最新动态。"
+ ],
+ "tags": [
+  "军事AI",
+  "华尔街日报",
+  "科技与战争",
+  "海外观察"
+ ],
+ "original_title": "Opinion | The New Age of Mutually Assured Disruption",
+ "lang": "en",
+ "published": "2026-10-28T20:04:00+00:00",
+ "created": "2026-10-29T15:51:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

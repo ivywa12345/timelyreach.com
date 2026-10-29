@@ -1,0 +1,25 @@
+{
+ "key": "dc3b2619b5",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/dont-bring-orban-to-the-u-n-to-prove-a-point-7d80c79d?mod=rss_worldnews",
+ "title": "别把欧尔班请到联合国当靶子了！华尔街日报：这操作真没必要",
+ "summary": "《华尔街日报》发表评论文章，直言匈牙利总理欧尔班的政绩实在太差，没必要为了证明某点而把他请到联合国。",
+ "body": [
+  "近日，外媒发表了一篇关于国际政治的评论文章，矛头直指匈牙利总理欧尔班（Viktor Orbán）。文章开门见山地指出，欧尔班过去的执政记录相当糟糕（His record is terrible），并质疑为何要专门把他请到联合国（U.N.）来证明某些观点。",
+  "虽然文章篇幅简短，但作者的态度非常明确。在国际舞台上，如何对待备受争议的政治人物一直是个难题，而作者显然认为，给这类人物提供联合国这样的高规格平台并不是明智之举。"
+ ],
+ "tags": [
+  "联合国",
+  "匈牙利",
+  "欧尔班",
+  "国际评论"
+ ],
+ "original_title": "Opinion | Don’t Bring Orbán to the U.N. to Prove a Point",
+ "lang": "en",
+ "published": "2026-10-28T20:06:00+00:00",
+ "created": "2026-10-29T15:51:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
