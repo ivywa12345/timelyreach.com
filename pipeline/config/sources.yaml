@@ -145,7 +145,7 @@ sources:
     lang: en
     board: finance
     limit: 3
-    full_text: true
+    full_text: false   # 原文页对机器人返回 401
     fetch:
       - {type: rss, url: "https://feeds.content.dowjones.io/public/rss/mw_topstories"}
       - {type: rss, url: "https://feeds.marketwatch.com/marketwatch/topstories/"}
@@ -179,9 +179,8 @@ sources:
     full_text: true
     merge: true
     fetch:
-      - {type: rss, url: "https://www.zaobao.com.sg/rss/realtime/china"}
-      - {type: rss, url: "https://www.zaobao.com.sg/rss/realtime/world"}
       - {type: rsshub, route: "/zaobao/realtime/china"}
+      - {type: rsshub, route: "/zaobao/realtime/world"}
 
   # ---------------- 推特 / X ----------------
   # 需要在 GitHub 仓库 Secrets 里设置 TWITTER_AUTH_TOKEN（你自己 X 账号 cookie 里的 auth_token），

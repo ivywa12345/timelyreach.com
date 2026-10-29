@@ -18,6 +18,8 @@ log = logging.getLogger(__name__)
 
 # video/podcast pages have no article text worth compiling
 SKIP_URL = re.compile(r"/(videos?|audio|podcasts?|live-blog)/", re.I)
+# recurring cartoons and quote boxes, not stories
+SKIP_TITLE = re.compile(r"^(pepper\W*and\W*salt|notable\s*&\s*quotable|the crossword)", re.I)
 
 
 def title_key(title: str) -> str:
@@ -64,7 +66,7 @@ def run_update(store: Store | None = None, max_new: int | None = None) -> int:
             continue
         fresh = [
             it for it in fetch_source(source)
-            if not store.is_seen(it.key) and not store.is_seen(title_key(it.title)) and not SKIP_URL.search(it.url)
+            if not store.is_seen(it.key) and not store.is_seen(title_key(it.title)) and not SKIP_URL.search(it.url) and not SKIP_TITLE.search(it.title)
         ][: source.limit]
         for item in fresh:
             if created >= max_new:
