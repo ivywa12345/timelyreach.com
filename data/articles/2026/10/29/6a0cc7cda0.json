@@ -1,0 +1,27 @@
+{
+ "key": "6a0cc7cda0",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-10-29/tokenization-gives-illiquid-funds-a-24-7-trading-twist",
+ "title": "买基金也能24小时交易了？区块链代币化正悄悄改变华尔街",
+ "summary": "彭博社报道称，将间隔基金（interval funds）放到区块链上进行代币化，带来的改变将远不止改变股票交易方式那么简单。",
+ "body": [
+  "平时买基金，总觉得交易不够灵活、流动性差？据彭博社（Bloomberg）报道，最近华尔街正在搞一个新动作——把“间隔基金（interval funds）”搬到区块链上去。简单来说，就是通过代币化（Tokenization），让原本不太好随时买卖的基金份额，变成可以7×24小时全天候交易的“香饽饽”。",
+  "据财经记者维尔达纳·哈吉奇（Vildana Hajric）分析，这种技术的引入不仅改变了人们买卖基金份额的方式，还可能在未来给整个资产管理行业带来深远的影响，让原本流动性较低的资金变得更加活跃和透明。",
+  "对于咱们海外华人来说，虽然这类金融创新目前主要还在机构和专业投资者圈子里打转，但它未来大概率会渗透到更多的个人理财产品中。以后我们在配置资产、管理自己的“钱袋子”时，或许能享受到更便捷、全天候的流动性支持，当然，随之而来的区块链合规和安全问题也值得持续关注。"
+ ],
+ "tags": [
+  "区块链",
+  "代币化",
+  "基金投资",
+  "华尔街",
+  "海外理财"
+ ],
+ "original_title": "Tokenization Gives Illiquid Funds a 24/7 Trading Twist",
+ "lang": "en",
+ "published": "2026-10-29T19:34:04+00:00",
+ "created": "2026-10-29T19:38:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

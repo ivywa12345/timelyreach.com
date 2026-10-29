@@ -1,0 +1,27 @@
+{
+ "key": "8ae21b3343",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/iran-receives-letter-from-vance-though-no-word-on-likely-reply",
+ "title": "万斯给伊朗安全高官发信了？德黑兰：态度没变，和平协议条件免谈！",
+ "summary": "据彭博社报道，伊朗半官方的塔斯尼姆通讯社称，伊朗已收到美国副总统万斯致该国最高安全官员的一封信。随后，伊朗最高谈判代表之一表示，德黑兰在结束战争问题上的立场不会做出妥协。",
+ "body": [
+  "据彭博社援引伊朗半官方的塔斯尼姆通讯社（Tasnim）报道，美国副总统万斯（JD Vance）最近给伊朗最高安全官员发了一封信。信件内容曝光后，外界高度关注美伊之间的外交动向。",
+  "不过，这封信似乎并没有打破僵局。在收到信件后不久，伊朗的一位高级谈判代表公开表态，暗示德黑兰在结束战争条件上的立场不会发生任何改变，也不会做出妥协。",
+  "对于关注地缘政治的海外华人来说，中东局势的任何风吹草动都可能牵动全球能源价格和市场神经。后续美伊双方是否会有进一步的接触，仍有待观察。"
+ ],
+ "tags": [
+  "伊朗",
+  "美国",
+  "万斯",
+  "地缘政治",
+  "国际新闻"
+ ],
+ "original_title": "Iran Receives Vance Letter, Signals No Shift in Peace Deal Terms",
+ "lang": "en",
+ "published": "2026-10-29T16:16:17+00:00",
+ "created": "2026-10-29T19:38:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

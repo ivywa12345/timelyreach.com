@@ -1,0 +1,26 @@
+{
+ "key": "fc64208439",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/investors-buy-rogers-rci-bce-telus-stocks-after-canada-telecom-selloff",
+ "title": "加拿大电信股被卖惨了？大跌之后，投资者开始疯狂“捡漏”！",
+ "summary": "由于政府债券收益率上升以及来自SpaceX的竞争，加拿大电信股近期遭遇大跌。不过，嗅到机会的投资者已经开始入场“抄底”罗杰斯（Rogers）、BCE和Telus等电信巨头。",
+ "body": [
+  "最近一段时间，加拿大的电信板块可不太平。受政府债券收益率（government-bond yields）上升，以及来自太空探索技术公司（SpaceX）的强力竞争双重夹击，加拿大电信股遭遇了一波相当惨烈的抛售，股价一路走低。",
+  "不过，正所谓“跌出来的都是机会”。据彭博社（Bloomberg）报道，正因为前期的股价大跌，精明的投资者们觉得有利可图，开始纷纷涌入市场，开启了“淘宝捡漏”模式。像罗杰斯（Rogers，股票代码RCI）、BCE以及Telus这几家当地的电信巨头，成了大家重点关注和扫货的对象。"
+ ],
+ "tags": [
+  "加拿大",
+  "电信股",
+  "抄底",
+  "股票投资",
+  "SpaceX"
+ ],
+ "original_title": "Investors Buy Rogers (RCI), BCE, Telus Stocks After Canada Telecom Selloff",
+ "lang": "en",
+ "published": "2026-10-29T11:38:07+00:00",
+ "created": "2026-10-29T19:38:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

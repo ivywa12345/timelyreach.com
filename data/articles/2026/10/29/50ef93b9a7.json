@@ -1,0 +1,27 @@
+{
+ "key": "50ef93b9a7",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-traders-weigh-middle-east-risks-f814aedd?mod=rss_markets_main",
+ "title": "中东局势要缓和？美国这番操作让国际油价直接跳水！",
+ "summary": "由于美国积极推动与伊朗强硬派对话，化解了市场对冲突升级的担忧，国际原油期货价格随之回落。",
+ "body": [
+  "近期国际原油期货价格出现回落。根据《华尔街日报》报道，美国正努力与伊朗强硬派（Iranian hardliners）展开对话，这一外交动作有效缓解了市场对美国中期选举后地缘冲突升级的担忧情绪，从而拉低了油价。",
+  "在此之前，市场一直高度担忧中东局势会进一步恶化并冲击全球原油供应。随着美国最新外交努力的推进，紧张气氛有所降温，直接反映在了期货市场的走势上。",
+  "对于海外华人来说，国际油价的波动直接关系到咱们日常加油的钱包厚度。油价回落意味着短期内通胀压力有望得到一定程度的缓解，开车出行和日常生活的能源开支可能会轻松一些。"
+ ],
+ "tags": [
+  "国际油价",
+  "美国外交",
+  "伊朗",
+  "海外生活",
+  "通货膨胀"
+ ],
+ "original_title": "Oil Futures Pull Back on Latest U.S. Diplomatic Push",
+ "lang": "en",
+ "published": "2026-10-29T14:05:00+00:00",
+ "created": "2026-10-29T19:37:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

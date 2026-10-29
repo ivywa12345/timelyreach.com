@@ -1,0 +1,27 @@
+{
+ "key": "aca1d58d0f",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/warsh-s-forward-silence-risks-bigger-treasury-market-swings",
+ "title": "美联储主席热门人选凯文·沃什有个新打算，华尔街债券大佬们却慌了？",
+ "summary": "投资者担心美联储主席候选人凯文·沃什（Kevin Warsh）减少每年利率决策次数的计划，可能会引发高达32万亿美元的美国国债市场出现更大波动。",
+ "body": [
+  "据彭博社报道，华尔街目前正盯着美联储（Federal Reserve）的一举一动。有消息称，被视为美联储主席热门人选的凯文·沃什（Kevin Warsh）正计划减少每年利率决策的次数。",
+  "然而，这一想法并没有让市场安心，反而引发了投资者的担忧。大家普遍认为，如果真减少了开会决策的频率，可能会导致高达32万亿美元的美国国债市场面临更大的剧烈波动风险。",
+  "对于咱们海外华人来说，美联储的任何政策变动都牵动着全美经济的神经，直接关系到房贷利率、投资回报以及整体经济走向。后续这位热门人选究竟会出什么招，我们还得继续拭目以待。"
+ ],
+ "tags": [
+  "美联储",
+  "凯文·沃什",
+  "美国国债",
+  "华尔街",
+  "利率决策"
+ ],
+ "original_title": "Warsh’s ‘Forward Silence’ Risks Bigger Treasury Market Swings",
+ "lang": "en",
+ "published": "2026-10-29T19:23:34+00:00",
+ "created": "2026-10-29T19:38:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

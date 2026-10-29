@@ -1,0 +1,27 @@
+{
+ "key": "223d726c99",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d?mod=rss_markets_main",
+ "title": "账户里钱突然没了？这家大火的预测平台出事了！",
+ "summary": "知名预测市场平台 Polymarket 因部分用户报告资金被盗而暂停交易，官方承诺将全额赔偿受损用户。",
+ "body": [
+  "最近靠着押注各种大选和热点事件火遍全网的预测市场平台 Polymarket 出状况了！根据《华尔街日报》记者 Sam Kessler 的报道，该平台最近有一些用户反映自己的账户资金被莫名其妙地清空，吓得平台赶紧紧急暂停了部分交易功能。",
+  "好在官方反应还算快，Polymarket 随后表态称，对于在这次事故中遭受损失的交易员，平台一定会“全额赔偿”（made whole），把大家亏掉的钱如数补回来，这才稍微安抚了一下用户们焦虑的心情。",
+  "对于咱们平时喜欢在网上搞点投资或者关注新兴平台的海外华人来说，这类事件再次敲响了警钟：不管是玩加密货币还是预测市场，资金安全永远是第一位的。虽然平台承诺赔付，但在选择这些平台时，账户的安全防护和风控能力绝对是我们必须紧盯的重点。"
+ ],
+ "tags": [
+  "Polymarket",
+  "预测市场",
+  "资金安全",
+  "加密货币",
+  "海外华人"
+ ],
+ "original_title": "Polymarket Pauses Trading After Some Users Report Funds Drained",
+ "lang": "en",
+ "published": "2026-10-29T19:20:00+00:00",
+ "created": "2026-10-29T19:37:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

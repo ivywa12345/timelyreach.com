@@ -1,0 +1,23 @@
+{
+ "key": "314a4798b9",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-rise-in-early-trading-68f5df91?mod=rss_markets_main",
+ "title": "美国天然气期货价格大涨！11月合约到期前迎来最后一波拉升",
+ "summary": "美国天然气期货价格在11月合约到期之际迎来上涨，Nymex 11月合约单日涨幅达到4.4%。",
+ "body": [
+  "根据《华尔街日报》报道，美国天然气期货市场在11月合约到期前夕出现显著上涨，其中纽约商业交易所（Nymex）的11月天然气期货合约在当天录得4.4%的涨幅。"
+ ],
+ "tags": [
+  "美国经济",
+  "天然气期货",
+  "能源市场"
+ ],
+ "original_title": "U.S. Natural Gas Futures Gain As November Contract Expires",
+ "lang": "en",
+ "published": "2026-10-28T21:06:00+00:00",
+ "created": "2026-10-29T19:37:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "5bdeeea857",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-ahead-of-u-s-data-1ac5a50c?mod=rss_markets_main",
+ "title": "欧洲央行刚开完会，欧元兑美元今年还能怎么走？",
+ "summary": "摩根大通私人银行表示，在经历初期的下跌后，欧元兑美元汇率已经回升并略有上涨，预计在今年剩余时间内将在一个狭窄的区间内震荡。",
+ "body": [
+  "如果你最近正准备换汇或者关注外汇市场，可能会注意到欧元的动静。根据摩根大通私人银行（J.P. Morgan Private Bank）的分析，在欧洲央行（ECB）做出最新利率决定后，欧元在盘初曾出现下跌，但随后迅速收复失地，对美元甚至还实现了微幅上涨。",
+  "不过，大家也别指望它接下来会大起大落。摩根大通预测，在今年剩下的时间里，欧元兑美元大概率会继续维持在一个比较紧凑的窄幅区间内波动。"
+ ],
+ "tags": [
+  "欧元",
+  "美元",
+  "欧洲央行",
+  "汇率",
+  "摩根大通"
+ ],
+ "original_title": "Euro Could Trade-Range Bound Vs Dollar After ECB Decision",
+ "lang": "en",
+ "published": "2026-10-29T15:59:00+00:00",
+ "created": "2026-10-29T19:37:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

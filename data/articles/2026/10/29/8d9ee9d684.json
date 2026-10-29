@@ -1,0 +1,27 @@
+{
+ "key": "8d9ee9d684",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-10-29/maybe-wall-street-has-never-been-ai-pilled",
+ "title": "华尔街其实根本没吃透AI？这波行情可能还没真正爆发！",
+ "summary": "彭博社专栏作家指出，华尔街对人工智能（AI）的热情可能远没有想象中那么狂热，相关的资产价格或许还有巨大的上涨空间。",
+ "body": [
+  "最近华尔街对人工智能（AI）的讨论铺天盖地，但根据彭博社（Bloomberg）专栏作家乔·维森塔尔（Joe Weisenthal）和特蕾西·阿洛威（Tracy Alloway）的观点，华尔街可能根本就没有真正“吃透”AI（AI-pilled）。",
+  "这两位作家在最新的分析中暗示，如果市场真的完全理解并消化了AI将带来的颠覆性变革，相关的股价曲线和市场热度应该比现在还要高得多，甚至直言“曲线本该涨得更高”。",
+  "对于关注美股和投资的海外华人来说，这意味着科技股虽然已经历了一轮暴涨，但如果华尔街的认知还在“半梦半醒”之间，未来随着理解的深入，AI板块或许仍有超乎想象的发展空间。不过，投资有风险，入市需谨慎。"
+ ],
+ "tags": [
+  "华尔街",
+  "人工智能",
+  "美股投资",
+  "科技股",
+  "彭博社"
+ ],
+ "original_title": "Maybe Wall Street Has Never Been ‘AI-Pilled’",
+ "lang": "en",
+ "published": "2026-10-29T18:37:43+00:00",
+ "created": "2026-10-29T19:38:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
