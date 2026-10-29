@@ -1,0 +1,27 @@
+{
+ "key": "7cfc606a25",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/earnings/ing-launches-buyback-but-flags-job-cuts-and-unit-restructuring-b19efaf1?mod=rss_markets_main",
+ "title": "荷兰国际集团大手笔回购18亿美元，同时要精简机构裁员？",
+ "summary": "荷兰国际集团（ING）宣布启动一项价值18.4亿美元的股票回购计划，并计划对其批发银行部门进行重组和裁员。",
+ "body": [
+  "荷兰国际集团（ING）近日宣布了一项大动作：一方面，这家荷兰银行业巨头推出了高达18.4亿美元的全新股票回购计划；另一方面，他们也亮出了重组批发银行业务部门的底牌，其中将涉及裁员调整。",
+  "根据华尔街日报（The Wall Street Journal）记者Michael Hennessey的报道，此次战略调整旨在优化公司的业务结构。不过，在慷慨回购股票的同时伴随着裁员和部门重组，也引发了市场对银行内部运营成本和员工饭碗的关注。",
+  "对于海外华人来说，虽然这类欧洲大型银行的战略调整主要发生在海外，但全球金融巨头的动向往往牵动着国际金融市场的神经，也可能对相关行业的就业和经济环境产生间接影响。我们将持续关注后续发展。"
+ ],
+ "tags": [
+  "荷兰国际集团",
+  "股票回购",
+  "银行重组",
+  "裁员",
+  "金融快讯"
+ ],
+ "original_title": "ING Launches Buyback But Flags Job Cuts and Unit Restructuring",
+ "lang": "en",
+ "published": "2026-10-29T14:43:00+00:00",
+ "created": "2026-10-29T15:35:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

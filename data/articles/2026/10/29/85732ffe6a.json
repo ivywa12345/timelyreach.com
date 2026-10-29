@@ -1,0 +1,27 @@
+{
+ "key": "85732ffe6a",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/what-big-oil-tells-us-about-ai-memory-stocks-e32d4d00?mod=rss_markets_main",
+ "title": "传统能源巨头跟AI内存芯片到底有啥关系？华尔街大佬这话亮了！",
+ "summary": "华尔街日报专栏作家Spencer Jakab分析了传统石油巨头与AI内存芯片股票之间的关联，并指出市场近期出现了一些失望情绪。",
+ "body": [
+  "话说最近的股市啊，真是让人看不懂。华尔街日报（The Wall Street Journal）的资深专栏作家Spencer Jakab就发话了，把传统能源巨头（Big Oil）和现在最火的AI内存芯片股票拉到了一块儿做对比。",
+  "不过根据目前的消息，除了市场在谷歌（Google）搜索栏里频繁搜到“失望”（disappointment）这个词之外，具体的行业内幕和关键数据作者在摘要里并没多透露。",
+  "对咱们海外华人来说，管它是买能源股还是炒AI热点，最近这市场情绪阴晴不定的，大家在看紧自己钱包的同时，投资下手可得更加稳妥了。"
+ ],
+ "tags": [
+  "华尔街",
+  "AI芯片",
+  "美股",
+  "投资理财",
+  "海外华人"
+ ],
+ "original_title": "What Big Oil Tells Us About AI Memory Stocks",
+ "lang": "en",
+ "published": "2026-10-29T10:21:00+00:00",
+ "created": "2026-10-29T15:34:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

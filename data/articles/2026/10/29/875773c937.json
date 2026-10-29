@@ -1,0 +1,22 @@
+{
+ "key": "875773c937",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/china-makes-first-inquiry-for-us-wheat-since-trump-xi-summit",
+ "title": "中国自特朗普-习近平峰会以来首次对美国小麦进行调查",
+ "summary": "中国询问了购买美国小麦的问题，暗示北京可能会在9月总统峰会后加紧扩大购买美国大豆以外的作物。",
+ "body": [
+  "中国询问了购买美国小麦的问题，暗示北京可能会在9月总统峰会后加紧扩大购买美国大豆以外的作物。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "China Makes First Inquiry for US Wheat Since Trump-Xi Summit",
+ "lang": "en",
+ "published": "2026-10-29T15:21:59+00:00",
+ "created": "2026-10-29T15:37:50+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
