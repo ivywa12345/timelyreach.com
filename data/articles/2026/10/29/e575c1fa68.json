@@ -1,0 +1,27 @@
+{
+ "key": "e575c1fa68",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/lenders-seek-to-sell-debt-of-rovensa-as-firm-burns-through-cash",
+ "title": "手里的现金快烧光了！金主爸爸们急着甩卖农业巨头 Rovensa 的债务",
+ "summary": "由合伙人集团（Partners Group）支持的伊比利亚农业巨头 Rovensa 正面临现金耗尽的危机，其债权人目前正急于抛售该公司的债务。",
+ "body": [
+  "据彭博社（Bloomberg）记者 Giulia Morpurgo 和 Eleanor Duncan 报道，这家总部位于伊比利亚半岛的农业化学与产品制造商 Rovensa 目前正面临严重的现金流危机，手头的资金正在迅速耗尽。",
+  "面对日益严峻的财务状况，背后有知名私募合伙人集团（Partners Group）撑腰的 Rovensa，其债权人已经坐不住了，正四处寻找买家，试图尽快出手该公司的相关债务，以减少潜在损失。",
+  "对于海外华商和投资者来说，这也再次敲响了警钟：在当前高利率和经济环境承压的大背景下，传统实体和农业巨头如果现金流管理不善，同样会遭遇严重的债务危机与资本市场的抛售压力。"
+ ],
+ "tags": [
+  "债务危机",
+  "Rovensa",
+  "合伙人集团",
+  "现金流",
+  "海外财经"
+ ],
+ "original_title": "Lenders Seek to Sell Debt of Rovensa as Firm Burns Through Cash",
+ "lang": "en",
+ "published": "2026-10-29T17:15:36+00:00",
+ "created": "2026-10-29T17:27:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

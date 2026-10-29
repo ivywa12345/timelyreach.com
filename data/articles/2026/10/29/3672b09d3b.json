@@ -1,0 +1,27 @@
+{
+ "key": "3672b09d3b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/hungary-us-sign-agreement-on-trump-peace-pipeline-framework",
+ "title": "匈牙利和美国签了个“特朗普和平管道”合作协议，到底要搞啥？",
+ "summary": "匈牙利与美国签署了“特朗普和平管道框架”协议，旨在加强双方在开发区域天然气和石油基础设施方面的合作。",
+ "body": [
+  "近日，匈牙利和美国正式签署了一项名为“特朗普和平管道框架”（Trump Peace Pipelines Framework）的协议。根据匈牙利外交部长安妮塔·奥尔班（Anita Orban）透露，这项协议主要是为了加强两国在开发地区天然气和石油基础设施方面的合作。",
+  "近年来，欧洲的能源格局一直在发生剧烈变化，能源安全也成了各国政府的心头大石。匈牙利这次选择与美国在油气基础设施开发上联手，无疑是在能源多元化和地缘政治布局上迈出了重要一步。",
+  "对于远在海外的华人来说，虽然这类国家间的能源协议看似遥远，但全球能源市场的波动往往会直接影响到日常生活的方方面面，特别是油气价格的起伏可能会悄悄体现在大家的日常开销和通胀水平上。"
+ ],
+ "tags": [
+  "匈牙利",
+  "美国",
+  "能源合作",
+  "天然气",
+  "石油"
+ ],
+ "original_title": "Hungary, US Sign Agreement on ‘Trump Peace Pipeline Framework’",
+ "lang": "en",
+ "published": "2026-10-29T16:08:24+00:00",
+ "created": "2026-10-29T17:27:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

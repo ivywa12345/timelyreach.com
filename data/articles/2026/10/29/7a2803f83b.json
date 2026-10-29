@@ -1,0 +1,26 @@
+{
+ "key": "7a2803f83b",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/healey-holds-off-on-welfare-cuts-sparking-uk-spending-questions",
+ "title": "英国财政大臣不砍福利支出？这钱从哪来引发质疑！",
+ "summary": "英国财政大臣约翰·希利（John Healey）表示，在本届议会任期内不会削减英国的福利账单，这引发了外界对政府如何资助国防开支增长等政策的疑问。",
+ "body": [
+  "最近英国政坛有个事儿挺让人琢磨的。财政大臣约翰·希利（John Healey）公开表态了，说在本届议会任期内，他不会去砍福利支出（welfare bill）。",
+  "这话一出，大家脑子里立马打了个大大的问号：不削减福利，那政府接下来承诺的各项政策要怎么买单？特别是之前计划好要往上提的国防开支（defense spending），这笔巨款到底从哪儿来？",
+  "目前来看，钱从哪儿出还是个谜，各方都在盯着财政部的下一步动作。对海外咱华人朋友来说，这种宏观财政政策虽然远在大洋彼岸，但也直接关系到英国的经济走向和税收风吹草动。"
+ ],
+ "tags": [
+  "英国财经",
+  "福利政策",
+  "财政大臣",
+  "国防开支"
+ ],
+ "original_title": "Healey Holds Off on Welfare Cuts Sparking UK Spending Questions",
+ "lang": "en",
+ "published": "2026-10-29T17:14:21+00:00",
+ "created": "2026-10-29T17:28:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "f10dc19e06",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-retreat-after-topping-100-euros-a-megawatt-hour-b9a8807b?mod=rss_markets_main",
+ "title": "美国天然气库存大增超预期，期货价格继续往下走！",
+ "summary": "根据《华尔街日报》报道，由于美国天然气库存增幅超出市场预期，天然气期货价格随后保持下跌趋势。",
+ "body": [
+  "各位海外的朋友注意啦，如果你有关心能源市场或者家里用的是天然气，最近价格又有点动静了。根据《华尔街日报》(The Wall Street Journal)的最新报道，美国天然气库存的最新数据出来了，结果比大家原本预计的还要多。",
+  "简单来说，就是地里的气存得比想象中多，供应看起来挺充足。受这个消息影响，美国天然气期货价格在数据公布后继续维持走低的态势。",
+  "对于咱们海外华人来说，能源价格直接挂钩每个月的Utility（水电燃气费）账单。天然气库存增加、期货价格下跌，通常意味着短时间内大家的冷暖气开销有望保持稳定或者稍微喘口气，不用太担心账单突然飙升。"
+ ],
+ "tags": [
+  "美国天然气",
+  "能源价格",
+  "通胀",
+  "海外生活"
+ ],
+ "original_title": "U.S. Natural Gas Inventories Rise More Than Expected",
+ "lang": "en",
+ "published": "2026-10-29T14:54:00+00:00",
+ "created": "2026-10-29T17:26:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

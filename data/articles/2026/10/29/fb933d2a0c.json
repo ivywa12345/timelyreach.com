@@ -1,0 +1,27 @@
+{
+ "key": "fb933d2a0c",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/u-s-treasury-yields-fall-as-investors-digest-fed-meet-focus-shifts-to-ecb-d29ffbec?mod=rss_markets_main",
+ "title": "美欧央行双双按兵不动，国债收益率应声下跌！",
+ "summary": "美联储与欧洲央行近日均宣布维持利率不变，受此影响，美国和欧洲的政府债券收益率在周四出现下跌。",
+ "body": [
+  "美联储（Federal Reserve）和欧洲央行（European Central Bank）近日相继做出决定，选择将利率保持在当前水平。消息一出，美国和欧洲的政府债券收益率（bond yields）在周四双双走低。",
+  "分析人士指出，央行在利率决议上的“按兵不动”往往会直接影响债券市场的走势，随着投资者对未来货币政策走向的预期调整，国债收益率随之出现下滑。",
+  "对于在美华人来说，基准利率的走向直接关系到房贷、车贷以及各类消费贷款的利率变动。如果整体利率环境开始趋于稳定甚至未来有放松的可能，大家的贷款压力有望得到缓解，投资理财的策略也需要随之调整。"
+ ],
+ "tags": [
+  "美联储",
+  "欧洲央行",
+  "利率",
+  "国债收益率",
+  "海外财经"
+ ],
+ "original_title": "U.S. Treasury, European Bond Yields Fall After Fed, ECB Hold",
+ "lang": "en",
+ "published": "2026-10-29T15:23:00+00:00",
+ "created": "2026-10-29T17:26:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

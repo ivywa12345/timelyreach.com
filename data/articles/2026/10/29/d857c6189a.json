@@ -1,0 +1,26 @@
+{
+ "key": "d857c6189a",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-traders-mull-fed-decision-d2dbef6c?mod=rss_markets_main",
+ "title": "金银价格又崩了？白银创11个月新低，黄金死守4000美元大关",
+ "summary": "贵金属期货市场继续走低，白银价格跌至11个月以来的最低点，而黄金价格也勉强维持在4000美元上方。",
+ "body": [
+  "贵金属期货市场近日延续了下跌走势，引起了不少投资者的关注。根据华尔街日报的消息，本轮贵金属普遍失守阵地，其中白银价格更是创下了11个月以来的新低。",
+  "与此同时，作为避险资产风向标的黄金也没能幸免，目前价格仅仅勉强支撑在4000美元的关键关口上方，市场抛压较为明显。"
+ ],
+ "tags": [
+  "贵金属",
+  "黄金",
+  "白银",
+  "金融市场",
+  "投资理财"
+ ],
+ "original_title": "Precious Metals Futures Extend Losses",
+ "lang": "en",
+ "published": "2026-10-29T14:52:00+00:00",
+ "created": "2026-10-29T17:27:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "882ae16296",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/universal-music-subscription-revenue-growth-shows-improvement",
+ "title": "环球音乐三季度订阅收入回暖，涨价和用户增长立功了？",
+ "summary": "环球音乐集团（Universal Music Group NV）第三季度订阅收入实现增长，摆脱了此前连续两个季度的低迷。这主要得益于价格上涨和健康的订阅用户增长。",
+ "body": [
+  "全球最大的音乐巨头环球音乐集团（Universal Music Group NV）终于缓过气来了。根据最新财报，他们在第三季度的订阅收入出现了回升，成功摆脱了此前连续两个季度的低迷表现。",
+  "这家音乐巨头表示，业绩的回暖主要归功于两点：一是产品价格的上涨，二是“健康”的订阅用户增长。这让环球音乐在经历了一段时间的业绩压力后，重新找回了增长的势头。",
+  "对于海外华人朋友来说，平时听歌用的流媒体音乐服务说不定哪天也会跟着涨价。音乐巨头靠涨价和扩容用户来提振业绩，看来大家手机里的各种会员订阅费，以后可能还得精打细算一番了。"
+ ],
+ "tags": [
+  "环球音乐",
+  "音乐产业",
+  "财报",
+  "海外生活"
+ ],
+ "original_title": "Universal Music Subscription Revenue Growth Shows Improvement",
+ "lang": "en",
+ "published": "2026-10-29T17:20:33+00:00",
+ "created": "2026-10-29T17:27:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
