@@ -1,0 +1,27 @@
+{
+ "key": "53785dd961",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/fed-s-musalem-says-more-rate-hikes-needed-soon-to-tame-inflation",
+ "title": "美联储高官放鹰：通胀还没搞定，还得继续加息！",
+ "summary": "圣路易斯联邦储备银行行长阿尔贝托·穆萨莱姆（Alberto Musalem）近日表示，为了让通胀回到美联储的目标水平，还需要进一步加息。",
+ "body": [
+  "近日，圣路易斯联邦储备银行行长阿尔贝托·穆萨莱姆（Alberto Musalem）公开表态，直言美联储目前还需要继续加息，才能真正把通胀压制下去，达到中央银行设定的目标。",
+  "长期以来，美联储的货币政策走向一直是全球金融市场关注的焦点，通胀数据更是直接牵动着每一个普通人的神经。",
+  "对于远在海外的华人来说，美联储如果再度加息，意味着房贷、车贷等各类贷款利率可能会继续在高位徘徊，甚至进一步推高借贷成本。大家的钱包、日常消费以及投资理财规划，都不得不随着宏观经济的风向做出调整。"
+ ],
+ "tags": [
+  "美联储",
+  "加息",
+  "通胀",
+  "经济趋势",
+  "海外华人"
+ ],
+ "original_title": "Fed’s Musalem Says More Rate Hikes Needed Soon to Tame Inflation",
+ "lang": "en",
+ "published": "2026-10-30T16:30:00+00:00",
+ "created": "2026-10-30T17:06:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

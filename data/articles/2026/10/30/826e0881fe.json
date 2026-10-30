@@ -1,0 +1,27 @@
+{
+ "key": "826e0881fe",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/monte-dei-paschi-investors-reject-defense-plan-against-intesas-bid-0800184a?mod=rss_markets_main",
+ "title": "拒绝对抗收购！意大利传统大行股东91%投票否决防御计划",
+ "summary": "意大利西雅那银行（Monte dei Paschi）的股东以压倒性多数否决了一项价值近400亿美元的防御计划，该计划原本旨在抵御联合圣保罗银行（Intesa）的恶意收购。",
+ "body": [
+  "近来欧洲银行界的好戏不断。根据《华尔街日报》报道，意大利历史最悠久的西雅那银行（Monte dei Paschi）遭遇了股东的集体“倒戈”。在最近的一次投票中，大约91%的投票者拒绝了该行首席执行官在8月份推出的总价值近40亿美元的防御性要约。",
+  "此前，西雅那银行的管理层为了抵御联合圣保罗银行（Intesa）蓄谋已久的吞并计划，紧急推出了这项旨在保卫独立地位的防御方案。然而，股东们似乎并不买账，高达九成的反对票直接让管理层的防线宣告失守。",
+  "对于远在海外的华人投资者和关注国际金融市场的读者来说，欧洲老牌银行之间的股权大战往往会引发资本市场的连锁反应。虽然这起事件发生在欧洲，但也再次提醒我们，在资本面前，管理层的防御计划如果没有股东的支持，往往只是纸上谈兵。"
+ ],
+ "tags": [
+  "华尔街日报",
+  "银行并购",
+  "欧洲金融",
+  "西雅那银行",
+  "联合圣保罗银行"
+ ],
+ "original_title": "Monte dei Paschi Investors Reject Defense Plan Against Intesa’s Bid",
+ "lang": "en",
+ "published": "2026-10-30T07:08:00+00:00",
+ "created": "2026-10-30T17:05:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

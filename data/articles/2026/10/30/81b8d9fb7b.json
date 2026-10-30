@@ -1,0 +1,27 @@
+{
+ "key": "81b8d9fb7b",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/how-do-we-trust-and-verify-college-degrees-734bea66?mod=rss_opinion",
+ "title": "AI连大学文凭的真假都快分不清了？高等教育这回遇到大麻烦！",
+ "summary": "华尔街日报指出，AI在高等教育领域引发的撕裂不仅局限于教学和科研，更让大学文凭的真伪验证面临前所未有的信任危机。",
+ "body": [
+  "话说回来，现在的AI技术是越来越牛了，但在高校里制造的麻烦也着实不少。根据《华尔街日报》的报道，AI在高等教育中造成的鸿沟，早就已经不只是平时上课怎么教、做研究怎么用那么简单了。",
+  "现在最让人头疼的问题是：我们到底该怎么去信任和验证一张大学文凭的含金量？当AI能轻轻松松帮人搞定作业甚至论文时，学校颁发的学位证还能代表真正的实力吗？",
+  "对于咱们在海外特别关注子女教育和职场竞争的华人来说，这可不是小事。以后找工作、招人才，光凭一张文凭可能真不够看了，雇主们究竟会怎么重新评估学历的价值，咱们还得拭目以待。"
+ ],
+ "tags": [
+  "人工智能",
+  "高等教育",
+  "大学文凭",
+  "华尔街日报",
+  "海外教育"
+ ],
+ "original_title": "How Do We Trust and Verify College Degrees?",
+ "lang": "en",
+ "published": "2026-10-29T19:57:00+00:00",
+ "created": "2026-10-30T17:06:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

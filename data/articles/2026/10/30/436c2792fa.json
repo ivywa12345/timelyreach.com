@@ -1,0 +1,26 @@
+{
+ "key": "436c2792fa",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/features/2026-10-30/france-protests-who-is-on-the-streets-and-what-do-they-want",
+ "title": "法国街头又乱了？这群抗议的人到底想干啥",
+ "summary": "法国爆发了引发全欧洲关注的大规模抗议活动，这群走上街头的人究竟是谁，他们的诉求又是什么？",
+ "body": [
+  "最近法国的街头抗议活动闹得沸沸扬扬，甚至在整个欧洲都引起了回响。很多人都在问：这群走上街头的人到底是谁？他们究竟想要什么？",
+  "根据彭博社（Bloomberg）的报道，这些抗议者的声音目前正在持续扩散，但具体的诉求和背后的社会矛盾依然错综复杂。",
+  "对于在海外的我们来说，虽然身处异国，但欧洲经济和社会的动荡往往也会带来连锁反应，特别是对当地的治安、出行以及整体经济环境产生影响，值得我们持续关注。"
+ ],
+ "tags": [
+  "法国抗议",
+  "欧洲新闻",
+  "海外关注",
+  "社会动态"
+ ],
+ "original_title": "France Protests: Who Is on the Streets and What Do They Want?",
+ "lang": "en",
+ "published": "2026-10-30T15:00:51+00:00",
+ "created": "2026-10-30T17:06:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

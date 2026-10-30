@@ -1,0 +1,26 @@
+{
+ "key": "caac854790",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/fondos-de-brasil-sufren-fuertes-perdidas-tras-victoria-de-lula",
+ "title": "卢拉胜选后，巴西基金遭遇重创？",
+ "summary": "根据彭博社报道，在卢拉赢得大选后，巴西的各类基金遭遇了严重的投资亏损。",
+ "body": [
+  "近日，彭博社（Bloomberg）报道称，在卢拉（Lula）赢得巴西大选之后，当地的投资基金遭遇了强烈的市场震荡，面临不小的经济损失。",
+  "目前关于此次市场波动的具体细节和后续影响仍在持续观察中。对于关注拉美市场动向的投资者来说，这无疑是一个值得警惕的信号。"
+ ],
+ "tags": [
+  "巴西大选",
+  "卢拉",
+  "基金亏损",
+  "海外投资",
+  "彭博社"
+ ],
+ "original_title": "Fondos de Brasil sufren fuertes pérdidas tras victoria de Lula",
+ "lang": "en",
+ "published": "2026-10-30T15:50:18+00:00",
+ "created": "2026-10-30T17:06:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

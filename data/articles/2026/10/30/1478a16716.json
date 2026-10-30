@@ -1,0 +1,26 @@
+{
+ "key": "1478a16716",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+ "title": "美国大银行过关！美联储和联邦存款保险公司：15家资产超2500亿巨头“生前遗嘱”全合格",
+ "summary": "美联储与联邦存款保险公司发布了对15家大型银行2025年提交的“生前遗嘱”（破产清算计划）的反馈信，所有银行均顺利过关，未发现任何缺陷。",
+ "body": [
+  "美联储（Federal Reserve Board）和联邦存款保险公司（Federal Deposit Insurance Corporation）联合发布公告，公布了针对15家资产超过2500亿美元的大型银行业机构2025年10月提交的破产清算计划（即“生前遗嘱”）的反馈意见。两大监管机构在这次联合审查中，没有在这些提交的计划中发现任何短板或缺陷。",
+  "所谓“生前遗嘱”，也就是金融机构在遭遇重大财务危机或面临倒闭时，如何进行有序破产清算的应对策略。此次审查的15家机构资产规模均在2500亿美元以上。此外，监管机构还确认，法国巴黎银行（BNP Paribas）在2021年计划中被指出的老问题，这次也已经得到了圆满解决。",
+  "对于在美华人来说，大银行的风险管控直接关系到整体金融市场的稳定和大家的资金安全。看到各大巨头这次的“抗压预案”全部过关，也给存钱和做理财的普通人吃了一颗定心丸。"
+ ],
+ "tags": [
+  "美联储",
+  "银行监管",
+  "美国经济",
+  "金融安全"
+ ],
+ "original_title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+ "lang": "en",
+ "published": "2026-09-29T20:00:00+00:00",
+ "created": "2026-10-30T17:08:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

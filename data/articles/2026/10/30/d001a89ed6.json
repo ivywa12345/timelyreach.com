@@ -1,0 +1,27 @@
+{
+ "key": "d001a89ed6",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-23/barclays-fidera-seek-payout-from-bankrupt-uae-remittances-firm",
+ "title": "迪拜汇款公司倒闭留10亿美元大窟窿，巴克莱等一众债权人急眼了！",
+ "summary": "迪拜知名汇款服务商阿联酋汇兑中心（UAE Exchange Center LLC）倒闭后留下了高达10亿美元的财务黑洞，英国巴克莱银行和对冲基金Fidera等数十家债权人正试图追回欠款。",
+ "body": [
+  "迪拜的阿联酋汇兑中心（UAE Exchange Center LLC）倒闭后，账面上留下了大约10亿美元的巨大窟窿。现在，债权人们坐不住了。",
+  "根据彭博社报道，英国巴克莱银行（Barclays Plc）以及总部位于伦敦的对冲基金Fidera Ltd等数十家债权人，目前正采取行动，试图追回他们被拖欠的资金。",
+  "虽然这起事件发生在阿联酋，但对于经常需要进行跨国汇款的海外华人来说，这也提醒大家在选择汇款渠道时一定要擦亮眼睛，时刻关注金融机构的合规与稳健性，以免自己的血汗钱受到波及。"
+ ],
+ "tags": [
+  "迪拜",
+  "巴克莱银行",
+  "债务追讨",
+  "汇款公司",
+  "海外金融"
+ ],
+ "original_title": "Barclays, Fidera Seek Payout From Failed UAE Payments Firm",
+ "lang": "en",
+ "published": "2026-10-23T11:36:13+00:00",
+ "created": "2026-10-30T17:06:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

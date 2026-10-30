@@ -1,0 +1,27 @@
+{
+ "key": "8a2db18ef7",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/gilead-backed-aspen-neuroscience-shares-decline-2-after-us-ipo",
+ "title": "吉利德背书的生物医药新股Aspen Neuroscience，美股上市首日破发微跌2%",
+ "summary": "由吉利德科学支持的临床阶段细胞疗法研发公司Aspen Neuroscience在美完成首次公开募股（IPO），募资约1.406亿美元，但上市首日股价小幅下跌2%。",
+ "body": [
+  "近日，受到知名药企吉利德科学（Gilead Sciences）支持的临床阶段细胞疗法研发公司Aspen Neuroscience Inc.在美国正式登陆资本市场。本次IPO共募资约1.406亿美元，不过上市首日股价未能高开高走，收盘时小幅下跌了2%。",
+  "作为一家专注于细胞疗法的生物医药企业，Aspen Neuroscience在业内的动向一直备受投资者关注。此次顺利完成美股募资，为其后续的临床试验和研发项目补充了资金弹药，尽管首日股价出现微跌，但市场对其后续表现仍保持观望态度。",
+  "对于关注美股医药板块和生物科技投资的海外华人来说，这类背靠大药企的新股往往波动较大，直接关系到相关板块的投资风向与市场信心。"
+ ],
+ "tags": [
+  "美股IPO",
+  "生物医药",
+  "Aspen Neuroscience",
+  "吉利德",
+  "海外投资"
+ ],
+ "original_title": "Gilead-Backed Aspen Neuroscience Shares Decline 2% After US IPO",
+ "lang": "en",
+ "published": "2026-10-30T15:53:45+00:00",
+ "created": "2026-10-30T17:06:32+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "5a0ccfacc3",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+ "title": "美联储最新批准：俄亥俄州这家银行即将吞并肯塔基同行！",
+ "summary": "美联储正式批准了Peoples Bancorp Inc.的并购申请，允许其与Citizens National Corporation合并，并接管旗下的Citizens Bank of Kentucky, Inc.。",
+ "body": [
+  "各位华人朋友注意啦，如果你平时关注美国银行圈的动态，美联储（Federal Reserve Board）在周五（9月25日）下午4点半发布了一个最新消息：来自俄亥俄州马丽埃塔（Marietta）的Peoples Bancorp Inc.，其收购申请已经正式获批了！",
+  "根据美联储的公告，这次大动作具体包括两步：首先，Peoples Bancorp Inc.将与肯塔基州佩恩斯维尔（Paintsville）的Citizens National Corporation进行合并，从而间接买下对方旗下的肯塔基公民银行（Citizens Bank of Kentucky, Inc.）。紧接着，他们旗下的Peoples Bank也会直接和这家肯塔基的银行合并，并且会在原先肯塔基公民银行的各个网点继续开门营业。",
+  "对于咱们普通老百姓来说，这种区域性银行的强强联手虽然不会直接改变日常生活，但如果你正好在俄亥俄或肯塔基有这两个银行的账户，后续可能需要留意一下账户合并或网点变动的通知，以免跑冤枉路。"
+ ],
+ "tags": [
+  "美联储",
+  "银行并购",
+  "财经快讯",
+  "美国生活"
+ ],
+ "original_title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+ "lang": "en",
+ "published": "2026-09-25T20:30:00+00:00",
+ "created": "2026-10-30T17:08:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "d5a3b2022b",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/private-equity-in-your-401-k-heed-warren-buffetts-warning-6f318cd0?mod=mw_rss_topstories",
+ "title": "养老金能买私募股权了？先听听巴菲特的警告吧！",
+ "summary": "根据MarketWatch报道，约有52%拥有公司退休计划（401(k)）的美国人表示，如果选项里有私募资产，他们愿意尝试投资。",
+ "body": [
+  "最近有个调查挺让人意外的，大约52%有公司退休计划（比如401(k)）的人表示，如果能把私募资产（Private assets）放进自家的退休账户里，他们非常愿意买一点。",
+  "不过，面对这种投资新趋势，股神巴菲特（Warren Buffett）给咱们敲了警钟。大家在考虑把手头的养老钱投进这些高大上的私募项目之前，可得先把风险琢磨清楚了。",
+  "对咱们在美华人来说，401(k)可是安身立命的养老钱。虽然高收益听着诱人，但私募资产流动性差、收费高，盲目跟风可能会给自己的钱包埋下隐患，做决定前千万得三思。"
+ ],
+ "tags": [
+  "401k",
+  "养老金",
+  "巴菲特",
+  "私募股权",
+  "理财投资"
+ ],
+ "original_title": "Private equity in your 401(k)? Heed Warren Buffett’s warning.",
+ "lang": "en",
+ "published": "2026-10-30T15:53:00+00:00",
+ "created": "2026-10-30T17:08:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

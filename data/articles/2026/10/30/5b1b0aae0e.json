@@ -1,0 +1,27 @@
+{
+ "key": "5b1b0aae0e",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/10/30/us-news/why-pope-leo-was-legally-allowed-to-vote-in-us-election-despite-being-leader-of-vatican-city/",
+ "title": "身为一国元首，教皇凭啥还能合法参加美国大选？",
+ "summary": "71岁的教皇利奥十四世（Pope Leo）虽然贵为梵蒂冈城国元首，但他作为美国公民，依然通过缺席选票（mail-in ballot）合法参与了美国大选。专家指出，这完全符合美国海外公民投票的相关法律。",
+ "body": [
+  "虽然贵为外国元首，但教皇利奥十四世（Pope Leo）最近却实实在在投了美国大选的票。71岁的教皇1955年9月14日出生于芝加哥，原名罗伯特·弗朗西斯·普雷沃斯特（Robert Francis Prevost）。根据《纽约邮报》（The New York Post）查阅的伊利诺伊州公开记录，他目前登记的投票地址位于其哥哥约翰在伊州郊区新伦诺克斯（New Lenox）的住所。",
+  "身为梵蒂冈的最高领导人，为什么还能在美国投票？加州大学洛杉矶分校法学院（UCLA School of Law）投票权专家理查德·哈森（Richard Hasen）解释称：“他是一名居住在海外的美国公民。他搬到梵蒂冈并没有失去他的投票权。”根据1986年通过的《统一海外公民缺席投票法》（Uniformed and Overseas Citizens Absentee Voting Act），美国各州必须允许居住在国外的公民通过缺席投票程序进行投票，而选票归属地则是他们离开美国前的最后居住地。",
+  "梵蒂冈自1929年起成为独立主权国家，实行绝对君主制且没有政治选举，其国籍通过申请获得，且仅终身授予教皇本人。不过，教皇利奥同时拥有美国和秘鲁国籍。据《芝加哥太阳时报》（Chicago Sun-Times）报道，他在10月3日因右肺恶性肿瘤手术前的十天，就向威尔县（Will County）书记官办公室申请了邮寄选票。梵蒂冈新闻办公室随后也证实，教皇坚信公民参与民主进程既是权利也是义务，他在过去居住在秘鲁时也行使过投票权。",
+  "伊利诺伊州选举委员会（Illinois State Board of Elections）的记录显示，自2000年以来，这位前普雷沃斯特神父已经参加了五次初选，其中两次申请了民主党选票，三次申请了共和党选票。除了2020年和2022年之外，他在2000年以来的历次大选中都投了票。不过，记录并未显示他具体支持了哪位候选人。对于身在海外、关心美国政治动态的华人来说，这也再次证明了美国公民无论身居何地、身份如何转换，只要符合规定，其海外投票权都受到联邦法律的严格保护。"
+ ],
+ "tags": [
+  "美国大选",
+  "教皇利奥十四世",
+  "海外公民投票",
+  "法律政策"
+ ],
+ "original_title": "Why Pope Leo is legally allowed to vote in US election — despite being leader of Vatican City",
+ "lang": "en",
+ "published": "2026-10-30T15:47:10+00:00",
+ "created": "2026-10-30T17:07:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

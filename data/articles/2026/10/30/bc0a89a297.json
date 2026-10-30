@@ -1,0 +1,26 @@
+{
+ "key": "bc0a89a297",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-de956702?mod=rss_markets_main",
+ "title": "现代、沃尔沃、雷诺最新动态来了！车市风向标怎么看？",
+ "summary": "华尔街日报最新汽车与交通板块市场动态摘要，汇集了现代汽车、沃尔沃汽车、雷诺等车企的最新行业资讯。",
+ "body": [
+  "各位车友注意啦！华尔街日报（The Wall Street Journal）最近发布了汽车与交通板块的最新市场动态（Market Talks），里面包含了现代汽车（Hyundai Motor）、沃尔沃汽车（Volvo Car）以及雷诺（Renault）等知名车企的最新行业洞察。",
+  "虽然这次的摘要内容比较简短，但对于关注全球汽车市场走向、喜欢研究车企动态的朋友来说，这些大厂的最新风向依然值得好好琢磨一番。"
+ ],
+ "tags": [
+  "汽车资讯",
+  "现代汽车",
+  "沃尔沃",
+  "雷诺",
+  "海外车市"
+ ],
+ "original_title": "Auto & Transport Roundup: Market Talk",
+ "lang": "en",
+ "published": "2026-10-30T16:36:00+00:00",
+ "created": "2026-10-30T17:05:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

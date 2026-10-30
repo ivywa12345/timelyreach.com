@@ -1,0 +1,26 @@
+{
+ "key": "52c54e8f4e",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/personal-tech/apple-knows-some-iphone-duos-have-a-major-issue-990f1dca?mod=rss_Technology",
+ "title": "苹果其实心知肚明？部分 iPhone 双机组合藏着大问题！",
+ "summary": "华尔街日报最新报道指出，苹果公司（Apple）深知某些 iPhone 双机组合存在重大问题。同时，巴西取消了弗拉维奥·博尔索纳罗（Flávio Bolsonaro）的护照，而私募股权支持的企业正面临高达 3,000 亿美元的“债务墙”危机。",
+ "body": [
+  "据《华尔街日报》（The Wall Street Journal）记者 Amira McKee 报道，科技巨头苹果公司（Apple）其实很清楚，某些 iPhone 双机组合存在着一个相当严重的问题。不过，报道并未在摘要中展开具体的故障细节。",
+  "除了科技圈的这条八卦，国际上还有两条重磅财经与时政消息：远在南美的巴西政府直接取消了弗拉维奥·博尔索纳罗（Flávio Bolsonaro）的护照；而在金融市场上，高达 3,000 亿美元的巨额“债务墙”正在向那些有私募股权支撑的企业步步逼近，潜在风险不容小觑。"
+ ],
+ "tags": [
+  "苹果",
+  "iPhone",
+  "华尔街日报",
+  "财经新闻",
+  "海外快讯"
+ ],
+ "original_title": "Apple Knows Some iPhone Duos Have a Major Issue",
+ "lang": "en",
+ "published": "2026-10-27T21:21:00+00:00",
+ "created": "2026-10-30T17:05:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

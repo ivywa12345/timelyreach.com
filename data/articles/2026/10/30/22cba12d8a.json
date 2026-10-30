@@ -1,0 +1,26 @@
+{
+ "key": "22cba12d8a",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/financial-services-roundup-market-talk-2270c51d?mod=rss_markets_main",
+ "title": "币安 Binance 动态汇总：华尔街日报最新金融服务快讯",
+ "summary": "华尔街日报最新发布金融服务市场动态，涵盖币安（Binance）、国民西敏寺集团（NatWest Group）等机构的最新资讯。",
+ "body": [
+  "如果你平时关注加密货币市场或者国际金融动态，可能对最近的一些行业消息很感兴趣。根据《华尔街日报》最新一期的金融服务市场动态（Market Talks），其中包含了关于加密货币交易所币安（Binance）以及国民西敏寺集团（NatWest Group）等知名机构的相关洞察与分析。",
+  "这类市场快讯通常会梳理近期金融圈的热点事件和专业观点，对于需要了解行业风向的投资者来说，是一个快速掌握重要信息的窗口。"
+ ],
+ "tags": [
+  "币安",
+  "Binance",
+  "金融快讯",
+  "加密货币",
+  "华尔街日报"
+ ],
+ "original_title": "Financial Services Roundup: Market Talk",
+ "lang": "en",
+ "published": "2026-10-30T16:28:00+00:00",
+ "created": "2026-10-30T17:05:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
