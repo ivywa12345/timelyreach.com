@@ -1,0 +1,27 @@
+{
+ "key": "224cbd0a16",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-29/mercuria-baltic-case-reveals-claims-tanker-rate-was-manipulated",
+ "title": "战局影响油价？知情人士爆料：全球关键运油费率遭恶意操纵！",
+ "summary": "根据彭博社披露的法律文件，自伊朗战争爆发以来，波罗的海交易所（Baltic Exchange）已收到两起关于企图操纵全球基准油轮运费率的举报。目前相关内幕随着贸易巨头美科瑞能源集团（Mercuria Energy Group）的一场重大法律诉讼而浮出水面。",
+ "body": [
+  "据彭博社报道（作者：Alex Longley 和 Jack Farchy），全球航运和能源市场正面临操纵丑闻。波罗的海交易所（Baltic Exchange）近期收到了两起内部举报，直指全球基准油轮运费率（tanker rate）在伊朗战争爆发后遭到蓄意操纵。",
+  "这一猛料是通过贸易巨头美科瑞能源集团（Mercuria Energy Group）卷入的一场重大法律诉讼文件公之于众的。作为全球大宗商品交易的重要环节，油轮运费的波动直接关系到原油运输成本。",
+  "对于在海外生活和工作的华人来说，能源价格和运费的动荡往往会传导至日常生活，直接影响到大家加油、出行乃至整体物价的钱包厚度。我们将持续关注这起诉讼的后续进展。"
+ ],
+ "tags": [
+  "油轮运费",
+  "操纵丑闻",
+  "波罗的海交易所",
+  "美科瑞能源集团",
+  "海外华人"
+ ],
+ "original_title": "Whistleblowers Claimed Key Oil Tanker Rate Was Manipulated",
+ "lang": "en",
+ "published": "2026-10-29T19:51:45+00:00",
+ "created": "2026-10-30T10:02:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

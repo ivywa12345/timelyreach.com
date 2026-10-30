@@ -1,0 +1,27 @@
+{
+ "key": "8e51924b52",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/oil-prices-rise-after-hormuz-tanker-attack-houthi-claims-stoke-supply-fears-de48df37?mod=rss_worldnews",
+ "title": "霍尔木兹海峡油轮遭袭！油价应声上涨，中东局势又要紧张？",
+ "summary": "英国海事贸易行动办公室周五表示，一艘途径霍尔木兹海峡的油轮遭到小型船只及爆炸物袭击，引发市场对原油供应的担忧，导致国际油价随即上涨。",
+ "body": [
+  "周五，一艘正在霍尔木兹海峡（Strait of Hormuz）航行的油轮遇袭。根据英国海事贸易行动办公室（United Kingdom Maritime Trade Operations）发布的消息，袭击者驾驶一艘小船，向油轮投掷了两个爆炸装置。",
+  "这起袭击事件发生后，市场对中东地区原油供应链的安全担忧迅速升温，直接推动国际油价出现上涨。同时，胡塞武装（Houthi）的相关声称也进一步加剧了外界对能源供应中断的恐慌情绪。",
+  "对于远在海外的华人来说，中东局势动荡和油价上涨往往意味着通胀压力可能再次抬头，直接影响到大家的日常出行油费和生活成本。我们会持续关注事件后续发展。"
+ ],
+ "tags": [
+  "油价",
+  "霍尔木兹海峡",
+  "中东局势",
+  "海外生活",
+  "通货膨胀"
+ ],
+ "original_title": "Oil Prices Rise After Hormuz Tanker Attack, Houthi Claims Stoke Supply Fears",
+ "lang": "en",
+ "published": "2026-10-30T07:55:00+00:00",
+ "created": "2026-10-30T10:00:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

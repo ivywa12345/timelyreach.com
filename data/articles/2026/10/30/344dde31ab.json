@@ -1,0 +1,27 @@
+{
+ "key": "344dde31ab",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-798eb6a1?mod=rss_Technology",
+ "title": "跟英伟达CEO黄仁勋关系密切？华裔女高管被传向中国“递消息”遭调查",
+ "summary": "调查人员怀疑，一名与英伟达CEO黄仁勋关系密切的华裔女高管Alice Huang因这一特殊关系而被招募，并涉嫌向中国提供信息。",
+ "body": [
+  "据《华尔街日报》报道，调查人员目前正在关注一名名为Alice Huang的华裔女高管。据悉，她与英伟达（Nvidia）CEO黄仁勋（Jensen Huang）关系密切。",
+  "调查人员认为，这名女子之所以被招募，正是基于她与英伟达最高负责人之间的这层关系。不过，有关此事的具体细节和最终调查结果仍有待进一步披露。",
+  "近年来，随着中美科技竞争持续加剧，华裔科技从业人员在职场上面临的审视和安全背景调查也越来越多，这值得在美从事高科技行业的华人提高警惕。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "科技安全",
+  "华裔高管",
+  "中美关系"
+ ],
+ "original_title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information",
+ "lang": "en",
+ "published": "2026-10-30T08:39:00+00:00",
+ "created": "2026-10-30T10:01:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "76134b90b4",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/the-market-isnt-buying-skydances-balance-sheet-math-11705c2c?mod=rss_markets_main",
+ "title": "市场根本不买账！Skydance的账面数字到底藏了多少水分？",
+ "summary": "知名媒体巨头Skydance的财务状况引发华尔街质疑，其账面上的商誉金额竟然已经超过了整个公司的股市总市值。",
+ "body": [
+  "华尔街日报专栏作家乔纳森·维尔（Jonathan Weil）近日撰文指出，这家传媒巨头Skydance目前的资产负债表数学题让投资者直摇头。最让人匪夷所思的是，该公司财报中的“商誉”（goodwill）单项数值，竟然已经高过了它在股票市场上的总价值。",
+  "简单来说，商誉通常指企业并购时支付的溢价，属于无形资产。当商誉比整个公司的市值还要高时，意味着资本市场对该公司未来能否通过这些资产赚到钱持极大的怀疑态度，账面价值和真实身价严重脱节。",
+  "对于关注美股和传媒板块的海外华人投资者来说，这类财务指标异常的公司往往伴随着较高的投资风险。在目前市场环境下，看清财报里的“水分”、关注企业的实际造血能力，才能更好地守护自己的钱包。"
+ ],
+ "tags": [
+  "Skydance",
+  "美股",
+  "财报分析",
+  "华尔街日报",
+  "投资风险"
+ ],
+ "original_title": "The Market Isn’t Buying Skydance’s Balance-Sheet Math",
+ "lang": "en",
+ "published": "2026-10-30T09:30:00+00:00",
+ "created": "2026-10-30T10:01:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

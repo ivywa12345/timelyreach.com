@@ -1,0 +1,26 @@
+{
+ "key": "0a52771594",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/tesco-strikes-deal-to-sell-czech-slovakia-unit-for-1-7-billion",
+ "title": "彻底告别全球超市巨头梦！英国零售巨头Tesco 17亿欧元卖掉捷克和斯洛伐克业务",
+ "summary": "英国零售巨头Tesco宣布以17亿欧元（约合15亿英镑）的价格，将捷克和斯洛伐克的超市业务出售给Ahold Delhaize，这也宣告其曾经的全球化野心正式画上句号。",
+ "body": [
+  "据彭博社报道，英国零售巨头Tesco Plc近日达成了一笔大交易，同意将其在捷克共和国和斯洛伐克的超市业务整体打包出售给Ahold Delhaize。这笔交易的企业价值高达17亿欧元（折合约15亿英镑）。",
+  "业内人士指出，这笔交易的达成，实际上也标志着Tesco彻底放弃了过去想要成为全球杂货零售巨头的宏伟计划，转而开始收缩战线、精简业务。",
+  "对于海外华人消费者来说，跨国零售巨头的战略调整往往意味着市场格局的重新洗牌。虽然这起收购发生在欧洲，但也再次印证了当前全球零售业在面临成本和竞争压力下，抱团取暖和剥离非核心资产已成大势所趋。"
+ ],
+ "tags": [
+  "Tesco",
+  "零售业",
+  "商业收购",
+  "欧洲市场"
+ ],
+ "original_title": "Tesco Strikes €1.7 Billion Deal to Sell Czech, Slovakia Unit",
+ "lang": "en",
+ "published": "2026-10-30T07:46:43+00:00",
+ "created": "2026-10-30T10:02:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

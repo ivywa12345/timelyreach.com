@@ -1,0 +1,27 @@
+{
+ "key": "a75b5a3647",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-is-back-above-100-euros-a-megawatt-hour-9e52f763?mod=rss_markets_main",
+ "title": "欧洲天然气价格又双叒飙过100欧元了！会影响我们在海外的钱包吗？",
+ "summary": "受中东紧张局势升级以及气温下降的双重影响，欧洲天然气价格再度突破每兆瓦时100欧元。",
+ "body": [
+  "根据《华尔街日报》（The Wall Street Journal）的最新报道，欧洲天然气价格近日再度出现明显上涨，重新回到了每兆瓦时100欧元（100 euros a megawatt-hour）的高位。",
+  "这次天然气价格反弹的背后，主要有两个推手：一方面是市场对中东地区紧张局势不断升级的担忧，另一方面则是近期气温下降导致取暖需求上升。",
+  "虽然这主要是欧洲本地的能源市场波动，但对于关注全球经济走势和通胀的海外华人来说，能源价格的起伏往往会通过供应链传导，间接影响到日常生活的方方面面，值得大家密切关注。"
+ ],
+ "tags": [
+  "欧洲天然气",
+  "能源价格",
+  "海外生活",
+  "通货膨胀",
+  "财经新闻"
+ ],
+ "original_title": "European TTF Gas Is Back Above 100 Euros a Megawatt-Hour",
+ "lang": "en",
+ "published": "2026-10-30T09:25:00+00:00",
+ "created": "2026-10-30T10:01:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

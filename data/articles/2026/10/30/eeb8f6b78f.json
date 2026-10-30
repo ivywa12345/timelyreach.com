@@ -1,0 +1,25 @@
+{
+ "key": "eeb8f6b78f",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+ "title": "美联储公布9月货币政策会议纪要，说了些啥？",
+ "summary": "美联储正式发布了9月中旬举行的联邦公开市场委员会（FOMC）会议纪要，相关文件已在其官方网站上更新上线。",
+ "body": [
+  "美联储（Federal Reserve）于周三正式公布了9月15日至16日联邦公开市场委员会（FOMC）会议的详细纪要。按照惯例，这类例行会议纪要通常会在政策决定公布三周后向社会公开。",
+  "此次发布的纪要内容主要基于当时委员会掌握的经济和金融状况信息。目前，完整的会议纪要已在美联储官方网站上更新，供公众和媒体查阅。"
+ ],
+ "tags": [
+  "美联储",
+  "FOMC",
+  "货币政策",
+  "财经快讯"
+ ],
+ "original_title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+ "lang": "en",
+ "published": "2026-10-07T18:00:00+00:00",
+ "created": "2026-10-30T10:04:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

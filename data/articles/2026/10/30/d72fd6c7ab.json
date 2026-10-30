@@ -1,0 +1,27 @@
+{
+ "key": "d72fd6c7ab",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/politics/national-security/inside-the-u-s-militarys-open-ended-mission-to-keep-gulf-oil-flowing-0f4cbbc4?mod=rss_worldnews",
+ "title": "中东石油保卫战：美军这任务到底还要烧多少钱？",
+ "summary": "华尔街日报报道，美军在中东执行几乎每天一次的护航任务，试图稳住自2月以来持续升级、威胁全球石油供应的冲突局势。",
+ "body": [
+  "说到中东的石油命脉，美军可谓操碎了心。根据《华尔街日报》记者 Shelby Holliday 的报道，为了确保波斯湾的石油运输船能安全通行，美军目前正在执行一项几乎可以说是“没有尽头”的日常护航任务。",
+  "自从今年2月冲突爆发以来，全球原油供应就一直悬着一把刀。美军通过这些高频次的护航行动，硬生生地在前线把防线给撑住了，防止全球能源命脉被彻底切断。",
+  "对于远在海外的我们来说，中东局势的动荡往往直接牵动着钱包里的油价。如果石油供应链出问题，不仅是去加油站时的心痛，还会进一步推高美国的通胀，从衣食住行到日常生活成本都会受到波及。"
+ ],
+ "tags": [
+  "美军",
+  "中东局势",
+  "石油供应",
+  "华尔街日报",
+  "海外华人"
+ ],
+ "original_title": "Inside the U.S. Military’s Open-Ended Mission to Keep Gulf Oil Flowing",
+ "lang": "en",
+ "published": "2026-10-30T01:00:00+00:00",
+ "created": "2026-10-30T10:00:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

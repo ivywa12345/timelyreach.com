@@ -1,0 +1,27 @@
+{
+ "key": "671d7b8fa0",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/europe/ukraine-hits-russian-oil-refinery-ending-a-pause-and-defying-trump-be68eeff?mod=rss_worldnews",
+ "title": "顶风作案？乌克兰突然恢复空袭俄罗斯炼油厂，直接无视特朗普施压！",
+ "summary": "乌克兰近日对俄罗斯的一家炼油厂发动了空袭，打破了持续两周的袭击暂停期。此前，美国曾向乌方施压，要求其停止此类行动，但乌方此次显然没有理会。",
+ "body": [
+  "据《华尔街日报》资深记者马库斯·沃克（Marcus Walker）报道，乌克兰近日对俄罗斯境内的石油炼油厂发动了新一轮空袭。这次打击直接打破了双方过去两周内在炼油厂攻击上的“平静期”。",
+  "值得注意的是，在此次袭击发生之前，美国曾对乌克兰施加压力，要求其暂停针对俄罗斯能源设施的军事行动。然而，乌克兰此次的最新动作显然没有理会美方的要求，顶风作案。",
+  "这类地缘政治冲突虽然远在欧洲，但国际油价的波动往往会直接影响到全球能源市场，进而牵动着海外华人在日常生活中的油费和通胀压力。"
+ ],
+ "tags": [
+  "乌克兰",
+  "俄罗斯",
+  "特朗普",
+  "炼油厂",
+  "石油"
+ ],
+ "original_title": "Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump",
+ "lang": "en",
+ "published": "2026-10-30T08:14:00+00:00",
+ "created": "2026-10-30T10:00:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

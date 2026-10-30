@@ -1,0 +1,27 @@
+{
+ "key": "99b0a48d9c",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/pro/venture-capital/canada-to-take-equity-stake-in-ai-firm-cohere-e8d7215f?mod=rss_Technology",
+ "title": "加拿大政府也要下场炒AI？大手笔投资本土独角兽Cohere！",
+ "summary": "加拿大政府将出手获得本土AI初创公司Cohere的股权，该公司近期的一轮融资吸引了英伟达、德国Schwarz集团及加拿大贝尔公司（BCE）等巨头加入。",
+ "body": [
+  "根据《华尔街日报》报道，加拿大政府准备入股本土大红大紫的人工智能初创公司Cohere，直接成为其股东。",
+  "在这轮备受瞩目的融资中，Cohere不仅吸引了政府的青睐，还获得了芯片巨头英伟达（Nvidia）、德国商业巨头Schwarz集团以及电信巨头加拿大贝尔公司（BCE）的资金支持和投资承诺。",
+  "对于关注人工智能发展和科技投资的海外华人来说，各国政府正越来越深地介入AI核心技术的布局。科技巨头和国家资本的共同加码，意味着AI赛道的竞争已经从单纯的企业之争，升级为了国家级别的战略站队。"
+ ],
+ "tags": [
+  "加拿大",
+  "人工智能",
+  "Cohere",
+  "英伟达",
+  "科技投资"
+ ],
+ "original_title": "Canada to Take Equity Stake in AI Firm Cohere",
+ "lang": "en",
+ "published": "2026-10-29T19:58:00+00:00",
+ "created": "2026-10-30T10:01:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

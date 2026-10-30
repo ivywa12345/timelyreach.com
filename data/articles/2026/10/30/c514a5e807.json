@@ -1,0 +1,26 @@
+{
+ "key": "c514a5e807",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/britain-budget-defense-welfare-john-healey-andy-burnham-e5cfb645?mod=rss_opinion",
+ "title": "英国国防预算拉响警报！福利开支把军队快逼疯了？",
+ "summary": "《华尔街日报》发表社论指出，英国最新的一项支出计划暴露出福利开支对国家安全的严重挤压。",
+ "body": [
+  "英国最近出台的一项新支出计划引发了外界关注。《华尔街日报》编辑委员会发表社论指出，这份预算方案赤裸裸地凸显出了一个大问题：高昂的福利开支正在疯狂挤压国家的国防安全预算。",
+  "近年来，如何在保障民众福利与维持国防实力之间找到平衡，成了让英国政府焦头烂额的难题。社论认为，当福利支出不断膨胀时，国防安全往往首当其冲成为被牺牲的对象，这也给其他西方国家敲响了警钟。"
+ ],
+ "tags": [
+  "英国",
+  "国防预算",
+  "社会福利",
+  "国家安全",
+  "华尔街日报"
+ ],
+ "original_title": "Britain’s Defense Budget Blues",
+ "lang": "en",
+ "published": "2026-10-29T21:44:00+00:00",
+ "created": "2026-10-30T10:02:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

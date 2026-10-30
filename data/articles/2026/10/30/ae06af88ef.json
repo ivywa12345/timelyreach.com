@@ -1,0 +1,26 @@
+{
+ "key": "ae06af88ef",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/china-s-mega-banks-report-profit-jumps-as-margins-recover",
+ "title": "中国四大行利润创近年最大增幅！利差回暖、坏账压住了",
+ "summary": "根据彭博社报道，中国大型银行近日公布了近年来最大的季度利润增长，主要得益于不良贷款得到控制以及净息差从历史低位回升。",
+ "body": [
+  "据彭博社报道，中国几家大型银行迎来了近年来最亮眼的季度财报。随着不良贷款（bad loans）得到有效控制，加上此前跌至历史最低点的净息差（interest margins）逐渐恢复，这些巨头银行的利润迎来了大幅飙升。",
+  "长期以来，由于经济下行压力和房地产市场波动，银行的盈利能力一直受到净息差收窄和坏账风险的双重挤压。而最新的财报数据表明，随着银行采取措施收紧风控、压降不良资产，息差的回暖直接带动了盈利的大幅反弹。",
+  "对于海外华人来说，国内银行业的稳健和利润回升，不仅反映了宏观经济流动性和金融体系的韧性，也可能对华人在国内的资产配置、汇率走势以及相关投资回报产生潜在影响。"
+ ],
+ "tags": [
+  "中国银行",
+  "财报",
+  "利润增长",
+  "金融经济"
+ ],
+ "original_title": "China’s Mega Banks Report Profit Jumps as Margins Recover",
+ "lang": "en",
+ "published": "2026-10-30T08:49:48+00:00",
+ "created": "2026-10-30T10:02:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "a5bb772e45",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/russia/the-troubled-history-of-russias-anti-plague-institute-9fd4b59c?mod=rss_worldnews",
+ "title": "俄罗斯神秘“抗鼠疫”实验室出事！生物学家离奇死亡，安全违规居然不是第一次？",
+ "summary": "西伯利亚一家曾发生生物学家神秘肺炎死亡事件的实验室，被曝光曾多次违反安全规定。",
+ "body": [
+  "最近，位于西伯利亚的一家俄罗斯抗鼠疫研究所（Anti-Plague Institute）成了焦点。根据《华尔街日报》记者托马斯·格罗夫（Thomas Grove）的报道，该实验室的一名生物学家近期因患上神秘肺炎不幸身亡，引发了外界对该机构安全状况的强烈担忧。",
+  "其实，这家实验室的历史并不让人省心。报道指出，该西伯利亚实验室此前已经多次被点名存在安全违规行为，实验室的安全性一直饱受诟病。",
+  "虽然这起事件远在俄罗斯，但涉及高危病毒和细菌的实验室安全问题总是让人捏一把汗。近年来全球对生物实验室的泄露风险高度敏感，这类新闻也再次提醒大家，病毒研究稍有不慎就可能酿成大祸。"
+ ],
+ "tags": [
+  "俄罗斯",
+  "实验室安全",
+  "生物安全",
+  "西伯利亚",
+  "海外新闻"
+ ],
+ "original_title": "The Troubled History of Russia’s Anti-Plague Institute",
+ "lang": "en",
+ "published": "2026-10-30T00:00:00+00:00",
+ "created": "2026-10-30T10:00:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "7f561396fc",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/china-hawk-philippine-defense-chief-open-to-presidential-bid",
+ "title": "菲律宾“对华强硬派”国防部长松口：2028年可能竞选总统！",
+ "summary": "菲律宾国防部长吉尔伯托·特奥多罗（Gilberto Teodoro）近日表示，他对于在2028年参加总统大选持开放态度，未来或将与现任副总统萨拉·杜特尔特（Sara Duterte）展开正面较量。",
+ "body": [
+  "据彭博社报道，菲律宾国防部长吉尔伯托·特奥多罗（Gilberto Teodoro）近日公开表示，他对于在2028年竞选菲律宾总统持开放态度。",
+  "特奥多罗在政坛一向以对华强硬立场著称。如果他最终决定参选，未来很可能会在2028年的总统大选中，与现任副总统萨拉·杜特尔特（Sara Duterte）展开一场备受瞩目的政治对决。"
+ ],
+ "tags": [
+  "菲律宾大选",
+  "特奥多罗",
+  "萨拉杜特尔特",
+  "南海局势"
+ ],
+ "original_title": "China-Hawk Philippine Defense Chief Open to Presidential Bid",
+ "lang": "en",
+ "published": "2026-10-30T07:16:42+00:00",
+ "created": "2026-10-30T10:02:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

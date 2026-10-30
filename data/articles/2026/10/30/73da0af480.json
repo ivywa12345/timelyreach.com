@@ -1,0 +1,27 @@
+{
+ "key": "73da0af480",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/taiwan-stocks-heads-for-correction-as-global-ai-selloff-deepens",
+ "title": "全球AI板块大跳水！台股惊险躲过“技术性回调”，发生了什么？",
+ "summary": "周五，由于全球人工智能（AI）板块遭遇深度抛售，作为全球AI产业链最核心的市场之一，台湾股市险些跌入技术性回调区间。",
+ "body": [
+  "周五（当地时间），台湾股市基准指数在盘中一度面临巨大压力，险些跌入技术性回调区间。究其原因，主要是全球范围内的人工智能（AI）概念股遭遇了深度抛售，作为全球AI产业链最密集的地区之一，台湾股市自然首当其冲，感受到了这波寒意。",
+  "彭博社分析指出，台湾市场由于深度绑定了全球AI硬件与芯片供应链，近期随着海外科技股的震荡，当地股市也跟着剧烈波动。虽然这次勉强避开了技术性回调的厄运，但投资者对AI板块高估值的担忧正在加剧。",
+  "对于关注全球科技股和美股的海外华人来说，AI概念股近期的大幅波动提醒大家，科技板块的高热度伴随着高风险。如果你的投资组合里有大量AI或半导体相关股票，近期需要格外注意市场情绪的骤变对资产配置的影响。"
+ ],
+ "tags": [
+  "台湾股市",
+  "人工智能",
+  "股市大跌",
+  "科技股",
+  "海外投资"
+ ],
+ "original_title": "Taiwan Stocks Near Correction as Global AI Selloff Deepens",
+ "lang": "en",
+ "published": "2026-10-30T03:34:55+00:00",
+ "created": "2026-10-30T10:02:32+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

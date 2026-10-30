@@ -1,0 +1,26 @@
+{
+ "key": "a284ee3bb7",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+ "title": "美联储官宣：密歇根州这两家银行要合并啦！",
+ "summary": "美联储于2026年10月5日宣布，正式批准伊abella银行公司（Isabella Bank Corporation）收购大河商业公司（Grand River Commerce, Inc.）及其旗下的Grand River Bank的申请，同时批准两家银行进行合并。",
+ "body": [
+  "美联储董事会在本周一（10月5日）下午4点30分发布公告，给密歇根州的银行界送上一条重磅消息：来自该州芒特普莱森特（Mount Pleasant）的伊abella银行公司（Isabella Bank Corporation），已经顺利拿到了收购大河商业公司（Grand River Commerce, Inc.）的官方批文。",
+  "通过这次收购，伊abella银行公司将间接收购总部同样位于密歇根州格兰德维尔（Grandville）的Grand River Bank。不仅如此，美联储还点头同意了旗下的伊abella银行（Isabella Bank）与Grand River Bank直接合并，并且允许伊abella银行在原Grand River Bank的各个网点继续挂牌营业。",
+  "对于在当地生活的华人朋友来说，银行合并通常意味着账户管理、网点服务可能会有一些整合调整。如果你刚好在这两家银行有存款或者房贷业务，近期不妨多留意一下银行发出的官方通知，确保自己的账户和资金往来不受影响。"
+ ],
+ "tags": [
+  "美联储",
+  "银行并购",
+  "密歇根州",
+  "华人生活"
+ ],
+ "original_title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+ "lang": "en",
+ "published": "2026-10-05T20:30:00+00:00",
+ "created": "2026-10-30T10:04:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
