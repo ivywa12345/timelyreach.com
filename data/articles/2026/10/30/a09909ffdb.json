@@ -1,0 +1,27 @@
+{
+ "key": "a09909ffdb",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+ "title": "美联储出手了！稳定币发行迎来新规，手里有币的得看",
+ "summary": "美联储于2026年9月24日就两项关于支付稳定币发行人的监管框架提案公开征求公众意见，涉及资产储备要求、资本标准以及银行业务规范等内容。",
+ "body": [
+  "美联储（Federal Reserve Board）在周四发布消息，正式就两项旨在建立支付稳定币发行人监管框架的提案征求公众意见。这两项提案是基于《GENIUS Act》制定的，将对未来的稳定币市场产生深远影响。",
+  "第一项提案要求受美联储监管的支付稳定币发行人，必须使用短期国库券等高质量、高流动性的合规储备资产来全额支持其稳定币。同时，该提案还规定了标准化的资本要求和风险管理标准，用以应对信用和运营风险，并对资产托管规则及银行开展相关业务的可行性进行了明确。第二项提案则针对希望发行稳定币的受监管银行，设立了定制化的申请流程，要求提交商业计划书和财务信息等文件，并明确了上诉和听证程序的规则。",
+  "这两项提案在联邦公报（Federal Register）发布后，将有为期60天的公众评议期。对于关注加密货币、数字资产以及海外资产配置的华人来说，美联储对稳定币监管的收紧和规范化，意味着行业正朝着更加合规的方向发展，未来相关资产的安全性与合规成本都将发生变化。"
+ ],
+ "tags": [
+  "美联储",
+  "稳定币",
+  "加密货币",
+  "金融监管",
+  "海外理财"
+ ],
+ "original_title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+ "lang": "en",
+ "published": "2026-09-24T18:30:00+00:00",
+ "created": "2026-10-30T23:02:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

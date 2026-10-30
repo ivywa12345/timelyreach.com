@@ -1,0 +1,26 @@
+{
+ "key": "4369d45eef",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+ "title": "手伸太长？美联储出手了！桑迪春季银行前员工因贪污被终身禁业",
+ "summary": "美联储对桑迪春季银行前员工Renee Nicole Brown发布执法行动，因其在任职期间进行银行贪污，目前已被禁止从事任何银行业务。",
+ "body": [
+  "美联储（Federal Reserve Board）在周四发布了一项最新的执法行动，对象是桑迪春季银行（Sandy Spring Bank）的前员工Renee Nicole Brown。",
+  "根据官方公布的信息，这次处罚是一项“同意禁止令”（Consent prohibition），直接原因是该员工涉嫌利用职务之便进行银行贪污（Embezzlement）。随着这项禁令的生效，这位前员工将彻底告别银行业，再也不能在这个行业混饭吃了。",
+  "虽然具体涉案金额和细节官方暂未披露，但这再次给在美从事金融和银行业务的华人敲响了警钟：美国监管机构对财务和合规问题盯得极紧，千万不要因小失大，碰触法律的高压线，否则不仅丢了工作，还会背上洗不掉的污点。"
+ ],
+ "tags": [
+  "美联储",
+  "银行贪污",
+  "金融合规",
+  "美国新闻"
+ ],
+ "original_title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+ "lang": "en",
+ "published": "2026-09-24T15:00:00+00:00",
+ "created": "2026-10-30T23:02:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

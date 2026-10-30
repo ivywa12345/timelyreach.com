@@ -1,0 +1,26 @@
+{
+ "key": "fde558b215",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/un-peace-mission-to-western-sahara-hits-unprecedented-standoff",
+ "title": "35年来首次！联合国西撒哈拉维和任务竟然“卡壳”了",
+ "summary": "联合国35年来首次未能延期西撒哈拉维和任务的授权，这可能加剧摩洛哥与争取独立的萨哈拉维武装组织之间的紧张局势。",
+ "body": [
+  "据彭博社报道（作者：Souhail Karam 和 Magdalena Del Valle），联合国维和部队在西撒哈拉地区的任务遇到了前所未有的僵局。这是35年来，联合国首次未能成功延期该地区的维和任务授权。",
+  "西撒哈拉的归属争议由来已久。摩洛哥一直主张对该地区拥有主权，而当地争取独立的萨哈拉维武装组织则希望建立一个独立国家。此次维和任务授权的失败，外界担心可能会进一步升级双方本就紧张的对立局势。"
+ ],
+ "tags": [
+  "联合国",
+  "西撒哈拉",
+  "摩洛哥",
+  "国际局势",
+  "维和任务"
+ ],
+ "original_title": "UN Peace Mission to Western Sahara Hits Unprecedented Standoff",
+ "lang": "en",
+ "published": "2026-10-30T22:19:31+00:00",
+ "created": "2026-10-30T23:00:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

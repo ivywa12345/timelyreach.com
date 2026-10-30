@@ -1,0 +1,26 @@
+{
+ "key": "3b978a947a",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/trump-energy-council-s-latest-hire-to-focus-on-oil-gas-projects",
+ "title": "特朗普能源委员会又招新！这次盯上了油气项目",
+ "summary": "负责推进美国总统特朗普能源议程的白宫委员会迎来了新成员，其工作重心将放在美国的石油和天然气基础设施项目上。",
+ "body": [
+  "据彭博社报道，负责推进特朗普（Donald Trump）政府能源议程的白宫能源委员会（White House Energy Council）最近新招了一名成员，主要任务是紧盯全美的石油和天然气基础设施项目。",
+  "这次人事变动正值特朗普政府大力推动传统能源独立和项目审批加速之际。新成员的加入预计将为该委员会在化石燃料基础设施的规划和建设上提供更多推力。",
+  "对于关注美国能源政策的在美华人来说，化石能源项目的推进可能会对长期的能源价格以及相关行业的就业和投资环境产生一定影响。"
+ ],
+ "tags": [
+  "特朗普",
+  "能源委员会",
+  "石油与天然气",
+  "美国经济"
+ ],
+ "original_title": "Trump Energy Council’s Latest Hire to Focus on Oil, Gas Projects",
+ "lang": "en",
+ "published": "2026-10-30T22:52:02+00:00",
+ "created": "2026-10-30T23:00:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

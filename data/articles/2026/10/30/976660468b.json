@@ -1,0 +1,27 @@
+{
+ "key": "976660468b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/brazil-summons-argentine-envoy-over-role-in-bolsonaro-s-escape",
+ "title": "巴西急召阿根廷外交官！气质总统米莱被指卷入博索纳罗儿子“跑路”事件？",
+ "summary": "巴西政府周五紧急召见了阿根廷驻巴西的高级外交官，要求其就阿根廷总统米莱涉嫌协助巴西前总统博索纳罗之子小弗拉维奥在选举失利后逃离巴西一事作出解释。",
+ "body": [
+  "周五这天，巴西官方可以说是动作频频，直接把阿根廷在当地的最高外交官给“请”到了外交部门，要求对方给个说法。这场外交风波的起因，直指阿根廷现任总统哈维尔·米莱（Javier Milei）。",
+  "据了解，事情的核心与巴西前总统博索纳罗（Bolsonaro）的儿子小弗拉维奥（Flávio Bolsonaro）有关。外媒指出，小弗拉维奥在选举失利后试图逃离巴西，而阿根廷总统米莱被指在其中扮演了协助的角色，这直接踩到了巴西官方的痛脚。",
+  "目前，这起事件引发了两国之间的新一轮外交摩擦。具体阿根廷方面会给出怎样的解释，还有待进一步观察。"
+ ],
+ "tags": [
+  "巴西",
+  "阿根廷",
+  "米莱",
+  "博索纳罗",
+  "外交风波"
+ ],
+ "original_title": "Brazil Summons Argentine Envoy Over Role in Bolsonaro’s Escape",
+ "lang": "en",
+ "published": "2026-10-30T20:59:39+00:00",
+ "created": "2026-10-30T23:00:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

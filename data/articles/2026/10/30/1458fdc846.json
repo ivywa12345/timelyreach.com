@@ -1,0 +1,27 @@
+{
+ "key": "1458fdc846",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/wall-street-boom-to-cut-new-york-state-budget-deficit-in-half",
+ "title": "华尔街今年赚翻了！纽约州财政赤字有望直接腰斩",
+ "summary": "根据彭博社报道，由于预计华尔街将迎来创纪录的利润和更高的年终奖，纽约州明年的预算赤字有望大幅缩减35亿美元。",
+ "body": [
+  "华尔街今年这波交易和借贷热潮，直接把纽约州的财政大危机给缓解了一大半！据彭博社报道（作者：Martin Z. Braun），纽约州最新预测显示，由于金融市场的火爆将给华尔街带来创纪录的利润，随之而来的丰厚年终奖将大大增加州政府的税收收入。",
+  "有了这笔预期的税收进账，纽约州预计明年的预算赤字将大幅缩减35亿美元。这对于一直为财政窟窿发愁的州政府来说，无疑是一场及时雨。",
+  "对咱们住在纽约的华人来说，州财政赤字大幅减少，意味着政府在公共服务、基础设施建设甚至教育方面的资金压力可能会缓解，短期内因为财政危机而加税的风险也许能降低一些。"
+ ],
+ "tags": [
+  "纽约州",
+  "华尔街",
+  "财政预算",
+  "华尔街年终奖",
+  "海外生活"
+ ],
+ "original_title": "Wall Street Boom to Cut New York State Budget Deficit in Half",
+ "lang": "en",
+ "published": "2026-10-30T20:55:32+00:00",
+ "created": "2026-10-30T23:00:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

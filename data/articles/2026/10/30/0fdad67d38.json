@@ -1,0 +1,25 @@
+{
+ "key": "0fdad67d38",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/market-scare-ai-binance-nasdaq-google-alphabet-94e31518?mod=rss_opinion",
+ "title": "万圣节前的惊天大劫案？币安直接被偷了63亿美元！",
+ "summary": "加密货币市场再迎惊天风波，黑客盗走币安（Binance）高达63亿美元，再次暴露了加密资产并非高枕无忧的残酷现实。",
+ "body": [
+  "话说加密货币这东西一直号称去中心化又安全，但这回连全球最大的加密货币交易所币安（Binance）也翻车了！根据《华尔街日报》编辑委员会（The Editorial Board）的报道，黑客居然从币安一口气卷走了高达63亿美元的惊人资产，让不少投资者的万圣节还没过就先感受到了惊悚。",
+  "这起事件再次给所有迷信币圈发财梦的人敲响了警钟：加密货币世界根本不是避险天堂，反而充满各种意想不到的技术和安全风险。"
+ ],
+ "tags": [
+  "币安",
+  "加密货币",
+  "黑客攻击",
+  "海外华人理财"
+ ],
+ "original_title": "An AI Halloween Market Scare",
+ "lang": "en",
+ "published": "2026-10-30T21:36:00+00:00",
+ "created": "2026-10-30T23:00:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

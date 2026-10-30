@@ -1,0 +1,27 @@
+{
+ "key": "fa6ae4c769",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+ "title": "重磅！又一家网络安全巨头要被纳斯达克/标普500收编了？",
+ "summary": "网络安全公司Okta将于周三正式加入标普500指数，取代Kenvue。",
+ "body": [
+  "标普500指数又要换新面孔啦！根据MarketWatch的报道，网络安全公司Okta（Okta）即将被纳入标普500指数，接替Kenvue（Kenvue）原本的席位，变动将于周三正式生效。",
+  "对于这次调整，懂美股的朋友都知道，进入标普500往往意味着被各大被动基金、ETF“强制”买入，对公司的股价和知名度通常都是个利好消息。不过具体能带来多大的资金流入，还要看市场当天的反应。",
+  "对咱们关注美股和科技圈的华人来说，标普500的成分股变动不仅影响大盘基金的持仓配置，也反映了当下网络安全板块在美股市场的份量越来越重。手里有相关股票或者基金的朋友，这几天可以关注一下指数调整带来的波澜。"
+ ],
+ "tags": [
+  "美股",
+  "标普500",
+  "Okta",
+  "网络安全",
+  "财经快讯"
+ ],
+ "original_title": "This cybersecurity stock will be the next to join the S&P 500",
+ "lang": "en",
+ "published": "2026-10-30T22:20:00+00:00",
+ "created": "2026-10-30T23:02:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

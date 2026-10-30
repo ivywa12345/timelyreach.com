@@ -1,0 +1,27 @@
+{
+ "key": "e33d583e44",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/arts-culture/food-cooking/chocolate-startups-cocoa-supply-2fde1d4f?mod=rss_Technology",
+ "title": "爱吃巧克力的人注意！糖果价格暴涨44%，科学家和创业公司急了：怎么“人造”出不缺货的巧克力？",
+ "summary": "自2021年以来，糖果价格已经飙升了44%。面对严重的咖啡豆（注：原文实为可可豆，此处根据常识或原文意思调整，由于原文是cocoa-bean shortage，我直接写可可豆短缺）短缺危机，两拨创新者正在试图彻底重塑巧克力，以拯救全球的巧克力供应链。",
+ "body": [
+  "爱吃甜食的朋友们最近可能钱包在流血。根据统计，自2021年以来，糖果价格已经大幅上涨了44%！这背后的罪魁祸首，就是全球可可豆（Cocoa bean）供应的严重短缺。",
+  "面对这个让吃货们心碎的局面，两群创新者坐不住了。他们正在开动脑筋，试图通过颠覆传统工艺来“拯救”全世界的巧克力供应，寻找既能满足大家的胃口、又不受传统农业危机影响的替代方案。",
+  "对咱们海外华人来说，逢年过节送礼、哄娃或者自己解馋都离不开巧克力。如果“人造巧克力”或新型替代品真的大规模上市，不仅能帮你捂紧钱包，可能还会彻底改变我们未来的零食选择。"
+ ],
+ "tags": [
+  "巧克力涨价",
+  "可可豆短缺",
+  "海外生活",
+  "通货膨胀",
+  "食品创新"
+ ],
+ "original_title": "How Do You Save the World’s Chocolate Supply? You Reinvent Chocolate",
+ "lang": "en",
+ "published": "2026-10-30T14:12:00+00:00",
+ "created": "2026-10-30T22:59:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

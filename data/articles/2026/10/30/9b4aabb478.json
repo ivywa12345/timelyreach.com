@@ -1,0 +1,26 @@
+{
+ "key": "9b4aabb478",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/hedge-funds-in-brazil-reel-as-losses-reach-24-after-lula-shock",
+ "title": "短短三周从暴赚到巨亏24%！巴西对冲基金被卢拉搞懵了",
+ "summary": "巴西总统卢拉的一系列政策引发市场震动，当地对冲基金在短短三 weeks 内从近年来的最高收益跌入谷底，巨亏达24%，经理人们纷纷向客户道歉。",
+ "body": [
+  "最近这三周，巴西的对冲基金经理们可以说是坐了一次超级大过山车。据彭博社报道，他们刚庆祝完近年来最大的收益，转眼就遭遇了惨痛亏损，亏损幅度甚至高达24%，不得不赶紧向客户发信道歉、作深刻检讨。",
+  "这场金融风暴的导火索是巴西总统卢拉（Lula）上台后的一系列政策冲击。市场对相关经济走向产生担忧，导致资产价格剧烈波动，让原本赚得盆满钵满的基金经理们措手不及，短短不到一个月的时间里资产大幅缩水。"
+ ],
+ "tags": [
+  "巴西经济",
+  "对冲基金",
+  "卢拉",
+  "金融市场",
+  "海外投资"
+ ],
+ "original_title": "Brazil Hedge Funds Reel as Losses Reach 24% After Lula Shock",
+ "lang": "en",
+ "published": "2026-10-30T14:29:42+00:00",
+ "created": "2026-10-30T23:00:32+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

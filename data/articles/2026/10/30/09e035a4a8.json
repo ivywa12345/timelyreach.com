@@ -1,0 +1,26 @@
+{
+ "key": "09e035a4a8",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/hedge-fund-arini-offloads-800-million-in-debt-as-losses-deepen-2d24626c?mod=rss_markets_main",
+ "title": "亏大了！知名对冲基金Arini遭追加保证金，急抛8亿美元债务资产",
+ "summary": "由Hamza Lemssouguer创立的对冲基金Arini因多笔投资惨遭滑铁卢，面临追加保证金的巨大压力，被迫大举抛售价值8亿美元的债务资产。",
+ "body": [
+  "据《华尔街日报》报道，知名对冲基金Arini最近日子不好过。由于该基金押注的一些投资项目接连下跌，导致亏损不断加深，基金遭遇了严重的追加保证金（margin calls）压力。",
+  "为了应对流动性危机，这家一向以大胆押注著称的基金负责人Hamza Lemssouguer（哈姆za·莱姆苏格）不得不“割肉”，迅速清仓并卸下了高达8亿美元的债务资产。",
+  "近年来全球金融市场波动剧烈，高风险的债务投资屡屡触雷。对于海外华人投资者来说，这也再次敲响了警钟：在利率高企、市场不确定性增加的大环境下，无论是机构还是个人，高杠杆和激进投资都伴随着极大的爆仓风险，捂紧钱包、做好风险管理才是上策。"
+ ],
+ "tags": [
+  "华尔街",
+  "对冲基金",
+  "金融市场",
+  "投资风险"
+ ],
+ "original_title": "Hedge Fund Arini Offloads $800 Million in Debt as Losses Deepen",
+ "lang": "en",
+ "published": "2026-10-30T22:43:00+00:00",
+ "created": "2026-10-30T22:59:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

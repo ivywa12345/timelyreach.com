@@ -1,0 +1,27 @@
+{
+ "key": "1172ee50b6",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/10/30/us-news/mom-allegedly-drowned-newborn-in-long-island-movie-theater-toilet-and-dna-helped-capture-her-30-years-later/",
+ "title": "藏了30年！长岛电影院婴儿溺亡惨案，靠DNA技术把亲妈抓了",
+ "summary": "一名弗吉尼亚州女子因涉嫌于1996年在纽约长岛一家电影院的厕所里淹死刚出生的婴儿，在30年后被DNA技术锁定并逮捕，目前她面临二级谋杀指控。",
+ "body": [
+  "这桩尘封了近三十年的陈年旧案终于有了突破。萨福克县（Suffolk County）地方检察官办公室于周四宣布，59岁的弗吉尼亚州母亲米歇尔·克罗尼克·泰森（Michelle Chronick Tyson）因涉嫌于1996年杀害新生儿，已被起诉两项二级谋杀罪。",
+  "事情要回到1996年11月18日凌晨，当时在现已停业的科马克多功能影院（Commack Multiplex）女厕所的马桶里，人们发现了一个刚出生不久的婴儿。经法医鉴定，婴儿死于“窒息及溺水”，死因被裁定为凶杀。虽然当年保留了婴儿的血样作为证据，但由于线索断绝，案件一度陷入僵局。直到最近，冷案工作组将血样送往私营实验室进行DNA谱分析，并通过搜查令采集了泰森的口腔拭子，最终确认她就是孩子的亲生母亲。她于周三在弗吉尼亚州汉普顿被捕，随后被引渡回长岛。",
+  "萨福克县地方检察官雷蒙德·A·蒂尔尼（Raymond A. Tierney）在声明中表示：“这名被告在1996年做出了剥夺新生儿生命的抉择。虽然近三十年过去了，但这并未减轻这起犯罪的严重性。”泰森于周四出庭受审，目前被下令不得保释。如果最高罪名成立，她将面临25年至终身监禁的刑罚。"
+ ],
+ "tags": [
+  "长岛新闻",
+  "陈年旧案",
+  "DNA破案",
+  "刑事案件",
+  "美国社会"
+ ],
+ "original_title": "Mom allegedly drowned newborn in Long Island movie theater toilet — and DNA helped capture her 30 years later",
+ "lang": "en",
+ "published": "2026-10-30T22:15:39+00:00",
+ "created": "2026-10-30T23:01:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

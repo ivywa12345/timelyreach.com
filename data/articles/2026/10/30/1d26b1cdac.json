@@ -1,0 +1,27 @@
+{
+ "key": "1d26b1cdac",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/stocks-slide-intel-plunges-binance-hacked-83302b14?mod=rss_markets_main",
+ "title": "股市大跌、英特尔狂泻、币安遭黑客攻击！今天到底发生了啥？",
+ "summary": "美股遭遇科技股抛售潮全面下滑，芯片巨头英特尔股价暴跌，加密货币交易所币安也遭到黑客攻击。与此同时，美联储官员暗示支持继续加息，国债则在科技股抛售的背景下上涨。",
+ "body": [
+  "各位海外同胞注意啦，今天的金融市场可谓是“惊心动魄”。根据《华尔街日报》（The Wall Street Journal）的报道，美股市场遭遇了一波猛烈的科技股抛售潮，导致整体股市下滑。其中，芯片巨头英特尔（Intel）的股价更是出现了狂泻，让不少投资者捏了一把冷汗。",
+  "祸不单行，除了传统股市和科技股的表现让人揪心，币圈也没能幸免。知名字加密货币交易所币安（Binance）在今天被曝出遭到黑客攻击，网络安全问题再次引发热议。而在宏观面，美联储（Fed）官员近期释放了信号，暗示他们依然支持进一步加息。受科技股抛售引发的避险情绪影响，美国国债（Treasurys）逆势上涨。",
+  "对于咱们在海外的华人来说，股市动荡、加息预期高悬，直接关系到咱们的投资理财、401(k)养老金账户以及未来的贷款利率。在这样的市场波动期，大家还是得捂紧钱包，看紧自己的资产配置，谨慎操作为妙。"
+ ],
+ "tags": [
+  "美股",
+  "英特尔",
+  "币安",
+  "美联储加息",
+  "海外理财"
+ ],
+ "original_title": "Stocks Slide, Intel Plunges, Binance Hacked",
+ "lang": "en",
+ "published": "2026-10-30T20:37:00+00:00",
+ "created": "2026-10-30T22:59:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
