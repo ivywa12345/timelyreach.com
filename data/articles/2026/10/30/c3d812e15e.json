@@ -1,0 +1,27 @@
+{
+ "key": "c3d812e15e",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/cio-journal/enterprise-ai-is-on-the-ballot-too-36cdf06d?mod=rss_Technology",
+ "title": "企业AI也要“投票”？科技圈这周又有什么新瓜",
+ "summary": "华尔街日报最新科技观察显示，企业级人工智能（AI）正成为焦点，同时法国AI初创公司Mistral发布了名为“Le Chonk”的新模型，云计算业务再次交出亮眼成绩单。",
+ "body": [
+  "说到AI，大家平时可能只关注ChatGPT或者各种好玩的消费级应用，但实际上，企业级AI现在也正面临关键的“投票”时刻——企业到底愿不愿意为这些新技术掏真金白银，直接决定了这股AI浪潮能走多远。",
+  "根据《华尔街日报》科技记者Isabelle Bousquette的报道，这周科技圈还有不少新动向：比如法国知名AI公司Mistral刚刚发布了一款名字挺逗的新模型“Le Chonk”，再次在开源圈刷了一波存在感；与此同时，各大科技巨头的云计算业务也再次交出了强劲的财务表现，说明企业上云和砸钱搞AI的势头根本停不下来。",
+  "对于咱们海外华人来说，无论是从事IT、金融还是传统行业，这股企业AI普及的风潮都直接关系到职场饭碗和技能升级。公司如果加大AI投入，不仅会催生大量相关岗位，也意味着大家得赶紧学会怎么用AI提高工作效率，免得被时代抛弃。"
+ ],
+ "tags": [
+  "人工智能",
+  "企业AI",
+  "Mistral",
+  "云计算",
+  "科技新闻"
+ ],
+ "original_title": "Enterprise AI Is on the Ballot Too",
+ "lang": "en",
+ "published": "2026-10-30T13:09:00+00:00",
+ "created": "2026-10-30T16:58:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

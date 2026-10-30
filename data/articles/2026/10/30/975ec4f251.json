@@ -1,0 +1,26 @@
+{
+ "key": "975ec4f251",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+ "title": "美联储大动作！银行压力测试规则敲定，资本金要求将更平稳",
+ "summary": "美联储理事会最终敲定了一系列针对大型银行压力测试的修改规则，旨在提高透明度、增强公众问责制，并减少相关资本要求的波动性。",
+ "body": [
+  "美联储（Federal Reserve）在周三正式公布了一系列最终修改规则，主要是为了让银行的压力测试变得更加透明、公众更能监督，同时减少测试带来的资本金要求大幅波动。这套最终规则与2025年提出的拟议规则大体相似，美联储同时还就一项旨在更好地反映各银行业务模式差异的非利息收入提案征求公众意见。",
+  "监管副主席米歇尔·鲍曼（Michelle W. Bowman）表示：“压力测试是我们监管资本框架的重要组成部分。今天的变动通过确保其透明度、细颗粒度和风险敏感性，保持了其韧性。”据了解，第一项最终规则要求美联储每年就压力测试场景和重大模型变更征求公众意见，并更新了全球市场冲击组件等框架。第二项规则则要求在计算压力资本缓冲要求时，对最近两次年度监督压力测试的结果进行平均，这项平均计算将于2028年开始实施。",
+  "对我们普通人或在美华人有什么影响呢？这些新规预计将使资本要求的年度波动性减少大约50%，同时不会对整体资本要求产生实质性影响。这意味着银行的资金状况将更加稳健且可预测，有助于确保它们在经济衰退时依然能够持续向家庭和企业发放贷款，间接保障了大家的金融和信贷环境稳定。"
+ ],
+ "tags": [
+  "美联储",
+  "银行压力测试",
+  "金融监管",
+  "经济动态"
+ ],
+ "original_title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+ "lang": "en",
+ "published": "2026-09-30T13:00:00+00:00",
+ "created": "2026-10-30T17:03:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

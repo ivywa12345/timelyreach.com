@@ -1,0 +1,26 @@
+{
+ "key": "c7577a7005",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/miami-firms-buy-intercontinental-hotel-for-about-300-million",
+ "title": "迈阿密洲际酒店卖了！两家本地公司豪掷约3亿美元接盘",
+ "summary": "Gencom与White Bridge Capital联手，以约3亿美元的价格买下了迈阿密市中心的洲际酒店，这也是两家公司过去一年里合作的第三笔酒店买卖。",
+ "body": [
+  "迈阿密市中心的地标性建筑——洲际酒店（InterContinental Hotel）近日迎来新主人。总部位于迈阿密的投资公司Gencom和White Bridge Capital联手，以大约3亿美元的价格将其收入囊中。",
+  "据彭博社记者Daniel Cancel报道，这也是这两家公司在过去一年里达成的第三笔酒店合作交易，显示出他们在当地酒店业的大动作不断。",
+  "对于在美华人特别是关注南佛罗里达州地产和旅游业投资的朋友来说，本地老牌酒店接连易主且交易额动辄数亿，折射出迈阿密商业地产在经历疫情后的持续热度。后续是否会带来运营或服务上的升级，值得继续关注。"
+ ],
+ "tags": [
+  "迈阿密",
+  "酒店收购",
+  "商业地产",
+  "投资"
+ ],
+ "original_title": "Miami Firms Buy InterContinental Hotel for About $300 Million",
+ "lang": "en",
+ "published": "2026-10-30T16:22:09+00:00",
+ "created": "2026-10-30T16:59:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "59322cafa4",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+ "title": "美联储出手了！威斯康星州这家银行被发监管警告",
+ "summary": "美联储于2026年10月2日宣布，对位于威斯康星州安大略镇的安大略金融公司（Ontario Bancorporation, Inc.）采取了执法行动，双方已于9月24日签署了一项书面协议。",
+ "body": [
+  "各位留心金融圈的小伙伴注意啦，美联储（Federal Reserve Board）又对地方银行出手了！这次被盯上的是总部位于威斯康星州安大略镇的安大略金融公司（Ontario Bancorporation, Inc.）。",
+  "根据美联储在2026年10月2日发布的公告，美联储董事会已经对这家公司执行了监管执法行动。双方在9月24日就已经正式签署了一份书面协议（Written Agreement）。不过，公告里暂时还没有披露这份协议的具体违规细节或整改要求。",
+  "这类监管执法行动通常意味着银行在合规、风控或财务稳健性上踩了雷，需要按照美联储的要求限期整改。虽然目前看这只是一起针对特定地方银行的监管动作，但对于关注美国金融市场和银行存款安全的朋友来说，时刻留意地方银行的动向总归没坏处。"
+ ],
+ "tags": [
+  "美联储",
+  "银行监管",
+  "金融快讯",
+  "威斯康星州"
+ ],
+ "original_title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+ "lang": "en",
+ "published": "2026-10-02T15:00:00+00:00",
+ "created": "2026-10-30T17:03:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

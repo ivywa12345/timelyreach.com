@@ -1,0 +1,27 @@
+{
+ "key": "866c344ffc",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/housing-food-costs-make-up-half-of-americans-spending-most-in-15-years",
+ "title": "太扎心了！住和吃花掉美国人一半钱包，创15年新高",
+ "summary": "根据彭博社报道，由于房租、住房成本和牛肉等食品价格飙升，2025年住房和食品开销占去了美国家庭总支出的近一半，创下了15年来的最高纪录。",
+ "body": [
+  "根据彭博社（Bloomberg）记者Julia Fanzeres和Jeffrey Sparshott的报道，美国人的钱包正在被“衣食住行”里的头两样无情掏空。2025年最新数据显示，住房和食品两项开销加起来，竟然占到了美国普通家庭总支出的近一半，这一比例达到了15年来的最高峰。",
+  "这背后的主要推手大家平时在生活中肯定都深有体会：不管是租房一族面对的节节高升的房租，还是买房一族要扛的各项住房维护成本，再加上牛肉等日常食品价格居高不下，让日常开支的账单变得越来越沉重。",
+  "对于咱们在美华人来说，房租、房贷和买菜这些都是刚需，占比创新高意味着日常生活的通胀压力依然实实在在压在肩上。在这样的经济环境下，大家在规划家庭预算、攒钱和日常消费时，可能得更加精打细算了。"
+ ],
+ "tags": [
+  "通货膨胀",
+  "生活成本",
+  "美国经济",
+  "房租",
+  "食品价格"
+ ],
+ "original_title": "Housing, Food Costs Make Up Half of Americans’ Spending, Most in 15 Years",
+ "lang": "en",
+ "published": "2026-10-30T16:14:40+00:00",
+ "created": "2026-10-30T16:59:51+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "b04225b653",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/science-and-technology/2026/10/30/is-brown-rice-really-healthier-than-white-rice",
+ "title": "天天吃糙米真的比白米饭更健康吗？科学研究可能要打破你的认知了！",
+ "summary": "一项针对糙米与白米健康效益的科学研究表明，人们普遍认为更健康的糙米，其科学证据其实并不像想象中那么绝对。",
+ "body": [
+  "大家平时为了追求健康，是不是经常把家里的白米饭换成糙米？总觉得粗粮更有营养、对身体更好。不过，根据《经济学人》（The Economist）报道，最新的科学证据其实“与这种传统认知背道而驰”。",
+  "长期以来，糙米因为保留了米糠和胚芽，被视为健康饮食的代表。但相关的科学研究并没有传说中的那么绝对，白米和糙米在实际健康效果上的差距，可能并没有大家想象的那么大。",
+  "对于咱们海外华人来说，平时饮食本来就多变，不管你是爱吃软糯的白米饭，还是为了养生咬牙坚持吃糙米，其实不用太纠结。保持饮食均衡、适量摄入才是对健康最负责的做法，没必要盲目跟风神化某一种主食。"
+ ],
+ "tags": [
+  "健康饮食",
+  "糙米",
+  "白米饭",
+  "生活方式",
+  "海外华人"
+ ],
+ "original_title": "Is brown rice really healthier than white rice?",
+ "lang": "en",
+ "published": "2026-10-30T16:20:49+00:00",
+ "created": "2026-10-30T16:59:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

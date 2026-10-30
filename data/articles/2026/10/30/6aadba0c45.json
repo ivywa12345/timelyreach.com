@@ -1,0 +1,27 @@
+{
+ "key": "6aadba0c45",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/asia/these-trucks-haul-90-tons-of-coal-on-battery-powerand-drive-themselves-39b80cc3?mod=rss_worldnews",
+ "title": "矿山里的“巨无霸”！90吨纯电动无人驾驶卡车，中国走在前头",
+ "summary": "自动驾驶车辆近年来在全球矿山中的作用越来越大，而现在，许多矿车正在转向纯电动，尤其是在中国。",
+ "body": [
+  "说到自动驾驶和电动车，大家平时想到的可能都是马路上跑的轿车，但在矿山里，更震撼的“钢铁巨兽”已经开始用上这套高科技了。",
+  "根据《华尔街日报》的报道，自动驾驶技术在全球各大矿山的应用已经越来越普遍。而最新的趋势是，这些原本靠柴油驱动的庞然大物正在全面转向纯电动，尤其是在中国市场，这一变革推进得尤为迅速。",
+  "据悉，这些巨型矿车能够承载高达90吨的煤炭，不仅实现了纯电动化，还具备了完全的无人驾驶能力。这意味着矿山作业不仅更加绿色环保，也将变得更加高效和安全。"
+ ],
+ "tags": [
+  "自动驾驶",
+  "电动卡车",
+  "中国科技",
+  "矿山机械",
+  "新能源"
+ ],
+ "original_title": "These Trucks Haul 90 Tons of Coal on Battery Power—and Drive Themselves",
+ "lang": "en",
+ "published": "2026-10-30T15:07:00+00:00",
+ "created": "2026-10-30T16:51:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

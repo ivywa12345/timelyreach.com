@@ -1,0 +1,27 @@
+{
+ "key": "ddbdfcc1ec",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/10/30/business/meta-settles-with-teen-during-trial-over-social-media-addiction-claims/",
+ "title": "Meta又掏钱了！青少年指控社交软件害惨心理健康，庭审前夕急忙和解",
+ "summary": "社交巨头Meta与一名指控其Instagram和Facebook导致其抑郁和饮食失调的青少年原告达成和解，这也是该系列青少年诉讼中又一起在庭审前夕私了的案件。",
+ "body": [
+  "话说，大厂又在官司上花钱消灾了。社交巨头Meta Platforms（Meta）的律师在上周五透露，他们已经和一名青少年原告达成和解。这位原告指控Meta把旗下的Instagram和Facebook设计得太容易让人上瘾，结果害得她出现了严重的心理健康问题和饮食失调（disordered eating）。",
+  "这事儿发生在洛杉矶州法院，本来当时正准备挑陪审团开庭审理两名青少年原告（分别被称为S.J.和K.D.B.）对Meta以及Snapchat母公司Snap的指控。结果倒好，Meta在开庭前几天先跟S.J.达成了和解，上周五又把K.D.B.这边的案子给平了。这么一来，这场官司接下来基本上就只针对Snap一家了。原告代理律师Emily Jeffcott表示：“我们依然致力于提高青少年在社交媒体上的安全性，并追究科技公司的责任，我们很高兴能为客户达成公正的解决方案。”",
+  "这几场诉讼其实是全美成千上万起类似案件的“风向标”。这两位原告分别来自伊利诺伊州和密西西比州，她们抱怨自己从小就沉迷网络，指责自动播放（autoplay）和无限滚动（infinite scroll）等功能把她们给坑了。不过，各大科技公司一直否认故意让年轻人上瘾，并坚称一直在努力保障青少年的安全。对于身在海外的华人父母来说，这类案件也敲响了警钟：大厂的算法套路深，家里娃的屏幕时间（Screen Time）和心理健康，大家还是得盯紧点儿。"
+ ],
+ "tags": [
+  "Meta",
+  "青少年心理健康",
+  "社交媒体成瘾",
+  "海外华人",
+  "科技巨头官司"
+ ],
+ "original_title": "Meta settles with teen over claims social media caused depression, eating disorders",
+ "lang": "en",
+ "published": "2026-10-30T16:34:21+00:00",
+ "created": "2026-10-30T17:01:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
