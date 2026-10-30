@@ -1,0 +1,28 @@
+{
+ "key": "dfae72aa43",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-binance-and-polymarket-suspend-trading-after-hacks-9261a44c?mod=rss_markets_main",
+ "title": "币安与Polymarket遭黑客攻击紧急暂停交易！川普政府最新动作频频",
+ "summary": "加密货币巨头币安与预测市场Polymarket因遭遇黑客攻击宣布暂停部分交易；与此同时，川普政府在关税和贸易谈判中频频出手，力保本土工厂与就业。",
+ "body": [
+  "各位海外同胞注意啦！加密货币圈最近又不太平。根据《华尔街日报》报道，知名加密货币交易所币安（Binance）和去中心化预测市场平台Polymarket近日双双遭遇黑客攻击，目前已经紧急暂停了相关交易。具体损失和后续恢复时间还在统计中，手里有资产的朋友们近期得多盯着点钱包安全了。",
+  "除了币圈的动荡，美国政坛最近在产业和关税问题上也大动作不断。在激烈的贸易博谈中，川普（Donald Trump）政府向外界承诺将提供关税减免，以此作为争取美国奥迪（Audi）工厂落地的重要筹码。同时，针对与加拿大政府的就业争端，美国钢铁巨头克利夫兰-克利夫斯公司（Cleveland-Cliffs）正努力保留对加拿大钢铁公司 Stelco 的收购。",
+  "对于咱们在海外的华人来说，这些宏观经济和地缘政治的博弈其实离咱们并不远。加密货币平台的安全问题直接关系到咱们的投资钱包，而关税政策的调整和汽车、钢铁等传统制造业的变动，也可能在无形中影响到供应链价格、通胀以及咱们的工作机会。最近局势复杂，大家投资和求职都要多留个心眼。"
+ ],
+ "tags": [
+  "币安",
+  "Polymarket",
+  "黑客攻击",
+  "川普政府",
+  "关税政策",
+  "海外华人"
+ ],
+ "original_title": "The Morning Risk Report: Binance and Polymarket Suspend Trading After Hacks",
+ "lang": "en",
+ "published": "2026-10-30T11:23:00+00:00",
+ "created": "2026-10-30T12:34:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

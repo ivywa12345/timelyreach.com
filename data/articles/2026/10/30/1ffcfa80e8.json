@@ -1,0 +1,27 @@
+{
+ "key": "1ffcfa80e8",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/10/30/us-news/report-on-alleged-second-dan-sullivan-effort-emerges-after-nearly-1-in-10-alaskans-voted/",
+ "title": "阿拉斯加选战玩阴的？民主党被曝拉拢“同名候选人”搅局，近6万选民已经投了！",
+ "summary": "《纽约时报》的一项调查显示，民主党参议员候选人玛丽·佩尔托拉（Mary Peltola）和民主党参议员竞选委员会（DSCC）被指幕后操盘，试图拉拢另一个名叫丹·沙利文（Dan J. Sullivan）的人参选以混淆视听。此时阿拉斯加州近十分之一的选民已经投了票，司法部也已提起诉讼。",
+ "body": [
+  "最近阿拉斯加的参议员选战可以说是戏剧性拉满！根据《纽约时报》的爆料，有内部文件和短信显示，民主党参议员候选人玛丽·佩尔托拉（Mary Peltola）的团队以及民主党参议员竞选委员会（DSCC），被指联手拉拢了另一个名叫丹·沙利文（Dan J. Sullivan）的人上选票，目的就是为了让选民傻傻分不清楚。不过，佩尔托拉的竞选团队和DSCC对此均予以否认。",
+  "这个猛料爆出来的时间相当尴尬——当时阿拉斯加州已经有近十分之一（大约5.8万名）的注册选民投了票。这意味着，很多人在完全不知道有这个“搅局计划”的情况下，就已经把票投出去了。而这位同名的丹·沙利文在初选中拿到了2.5%的选票闯入大选，他的竞选网站上既没有党派归属，也没有写任何政治立场，甚至还发文呼吁阿拉斯加人“选出一个为阿拉斯加挺身而出的沙利文”。",
+  "更头疼的是阿拉斯加的排序选择投票制（ranked-choice voting）。共和党籍州参议员詹姆斯·考夫曼（James Kaufman）直言不讳地批评说，这种复杂的投票制度本身就容易让人糊涂，再加上同名候选人的搅局，很多保守派选民可能因为反感这种投票方式而直接放弃排序。目前，美国司法部（DOJ）已经在上周提起诉讼，表示如果现任参议员丹·沙利文（Sen. Dan Sullivan）因此落败，他们将寻求推迟选举结果的认证，不过能不能成功还是个未知数。距离11月3日的大选日只剩不到一周，这场选战可以说是悬念重重。"
+ ],
+ "tags": [
+  "阿拉斯加选战",
+  "美国大选",
+  "民主党",
+  "政治丑闻",
+  "排序选择投票"
+ ],
+ "original_title": "Report on alleged ‘second Dan Sullivan’ effort emerges after nearly 1 in 10 Alaskans voted",
+ "lang": "en",
+ "published": "2026-10-30T10:58:00+00:00",
+ "created": "2026-10-30T12:36:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

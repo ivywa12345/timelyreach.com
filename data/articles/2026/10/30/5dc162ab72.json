@@ -1,0 +1,27 @@
+{
+ "key": "5dc162ab72",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+ "title": "马斯克、扎克伯格紧跟懂王？科技大佬们在改口叫“超智”这事上分化了",
+ "summary": "在特朗普下令将政府部门的“人工智能”改名为“超级智能”（Super Intelligence）后，马斯克和扎克伯格在财报电话会上迅速跟进，但其他科技巨头CEO目前仍在使用“AI”这一传统称呼。",
+ "body": [
+  "自从美国总统特朗普（Donald Trump）在上个月白宫的一次行业午宴上，下令用“超级智能”（Super Intelligence）取代政府部门里的“人工智能（AI）”一词后，科技圈的大佬们坐不住了。特斯拉（Tesla）和SpaceX的CEO埃隆·马斯克（Elon Musk）以及Meta的CEO马克·扎克伯格（Mark Zuckerberg）率先在财报电话会上响应号召，不过其他科技公司的掌门人似乎并不急着改口。",
+  "马斯克不仅在10月初把SpaceX的AI部门改名为SpaceXSI，还在特斯拉的财报会上谈到了相关技术；扎克伯格也在Meta的财报会上强调了公司“向所有人提供个人超级智能”的目标。相比之下，亚马逊（Amazon）CEO安迪·杰西（Andy Jassy）、微软（Microsoft）CEO萨提亚·纳德拉（Satya Nadella）以及谷歌母公司Alphabet的CEO桑达尔·皮查伊（Sundar Pichai）在近期的财报会议上依然频繁使用“AI”这个词。不过，微软的年度报告中也已经开始出现“超级智能”的说法，纳德拉还在股东信中写到了“超级智能时代”。",
+  "特朗普力推这一新词的背景正值中期选举前夕，共和党面临国会控制权的压力，且其经济支持率降至新低。虽然有些大佬如英伟达（Nvidia）CEO黄仁勋（Jensen Huang）在社交媒体上对白宫的“超级智能协议”赞不绝口，并直言该技术能带来巨大的机遇，但整体科技界对是否全面废除“AI”这一称呼仍旧态度不一。"
+ ],
+ "tags": [
+  "人工智能",
+  "马斯克",
+  "扎克伯格",
+  "特朗普",
+  "科技圈"
+ ],
+ "original_title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others did not",
+ "lang": "en",
+ "published": "2026-10-30T11:30:01+00:00",
+ "created": "2026-10-30T12:37:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

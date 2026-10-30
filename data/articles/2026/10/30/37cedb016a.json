@@ -1,0 +1,25 @@
+{
+ "key": "37cedb016a",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/uk/boe-survey-points-to-faster-price-rises-but-slowing-wage-growth-665e450b?mod=rss_worldnews",
+ "title": "英国物价还要涨？最新调查：企业预计明年涨价3.8%，工资增速却慢下来了",
+ "summary": "根据英国央行（BOE）最新调查，英国企业预计未来12个月将把售价提高3.8%，高于9月份预计的3.7%，同时工资增长预期有所放缓。",
+ "body": [
+  "如果你最近觉得手头紧，未来的日子可能还得精打细算。根据《华尔街日报》援引英国央行（BOE）的最新调查显示，英国企业目前的通胀预期不仅没降，反而还在往上走。",
+  "具体来看，受访企业预计在接下来的12个月里，他们所出售的商品和服务价格将平均上涨3.8%。而在今年9月份的调查中，这个数字还是3.7%。物价眼看着又要往上窜，但与此同时，打工人最关心的工资增长速度却在放缓，这意味着大家的钱包压力可能会更大。"
+ ],
+ "tags": [
+  "英国央行",
+  "通货膨胀",
+  "物价上涨",
+  "海外财经"
+ ],
+ "original_title": "BOE Survey Points to Faster Price Rises, But Slowing Wage Growth",
+ "lang": "en",
+ "published": "2026-10-30T10:10:00+00:00",
+ "created": "2026-10-30T12:33:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

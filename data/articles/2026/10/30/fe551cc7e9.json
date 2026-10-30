@@ -1,0 +1,25 @@
+{
+ "key": "fe551cc7e9",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+ "title": "事关银行高管贷款！美联储突然宣布：意见征集期延长到11月4日",
+ "summary": "美联储宣布将修改“O条例”（Regulation O）的公众意见征集期延长至11月4日，给各方更多时间准备反馈。",
+ "body": [
+  "美联储（Federal Reserve Board）于周五（2026年10月2日）宣布，将针对现代化“O条例”（Regulation O）提案的公众意见征集期延长，截止日期推迟至11月4日。此前，公众提交意见的截止日期原本定在10月5日。",
+  "所谓的“O条例”，主要是用来规范银行向其“内部人士”（insiders）发放信贷的规则，涵盖了那些可能对银行贷款决策产生影响的高管、董事会成员以及大股东。美联储表示，延长意见征集期是为了让感兴趣的各方有充裕的时间来分析相关问题并准备反馈意见。"
+ ],
+ "tags": [
+  "美联储",
+  "银行贷款",
+  "金融监管",
+  "O条例"
+ ],
+ "original_title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+ "lang": "en",
+ "published": "2026-10-02T20:00:00+00:00",
+ "created": "2026-10-30T12:38:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

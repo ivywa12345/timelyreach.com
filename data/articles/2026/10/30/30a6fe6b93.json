@@ -1,0 +1,26 @@
+{
+ "key": "30a6fe6b93",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-increases-stake-in-mozambique-gas-project-via-eni-swap",
+ "title": "埃克森美孚出手！加码莫桑比克液化天然气项目",
+ "summary": "埃克森美孚通过与意大利埃尼集团的资产置换，进一步增持了莫桑比克Rovuma液化天然气项目的股份。",
+ "body": [
+  "据彭博社报道，能源巨头埃克森美孚（ExxonMobil Holdings Corp.）最近有了新动作，他们通过与意大利埃尼集团（Eni SpA）进行资产置换，进一步增加了自己在莫桑比克备受瞩目的Rovuma液化天然气（LNG）项目中的持股比例。",
+  "这个Rovuma LNG项目在当地可以说是能源开发的重头戏。通过这次跟埃尼集团的置换交易，埃克森美孚进一步巩固了其在该项目中的地位，显示出这家能源巨头对未来全球液化天然气市场依然充满信心。",
+  "对于海外华人特别是关注能源板块和全球经济走势的朋友来说，国际能源巨头加码天然气项目，往往预示着未来能源供应链和相关市场的布局正在发生变化，值得持续关注。"
+ ],
+ "tags": [
+  "埃克森美孚",
+  "天然气",
+  "莫桑比克",
+  "能源投资"
+ ],
+ "original_title": "Exxon Increases Stake in Mozambique Gas Project",
+ "lang": "en",
+ "published": "2026-10-30T10:31:02+00:00",
+ "created": "2026-10-30T12:35:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "664744d9ab",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/features/2026-10-30/oregon-governor-race-is-shaped-by-economic-strains-in-downtown-portland",
+ "title": "俄勒冈州要变天？曾经的民主党铁盘，今年州长选情居然胶着了！",
+ "summary": "由于波特兰市中心的经济困境和治安等问题，这个已经40年没选出过共和党州长的“蓝州”，今年迎来了异常激烈的选战。",
+ "body": [
+  "据彭博社（Bloomberg）报道，美国俄勒冈州（Oregon）今年的州长竞选异常激烈。作为一个已经连续四十年没有让共和党人当选过州长的传统“蓝州”，今年两党候选人的差距却异常微弱。",
+  "报道指出，波特兰市（Portland）近年来的经济疲软和城市衰退，直接成为了影响本次选战的核心议题。选民对现状的不满，给民主党选情带来了巨大的压力。"
+ ],
+ "tags": [
+  "俄勒冈州",
+  "波特兰",
+  "美国大选",
+  "州长竞选",
+  "经济"
+ ],
+ "original_title": "Oregon Governor Race Is Shaped by Economic Strains in Downtown Portland",
+ "lang": "en",
+ "published": "2026-10-30T12:30:10+00:00",
+ "created": "2026-10-30T12:35:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

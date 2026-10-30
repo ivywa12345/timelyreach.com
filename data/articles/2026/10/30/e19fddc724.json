@@ -1,0 +1,25 @@
+{
+ "key": "e19fddc724",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/exxon-reaps-record-oil-refining-profits-on-war-driven-gasoline-diesel-spikes",
+ "title": "打仗发大财！国际油巨头靠炼油暴赚560亿美元",
+ "summary": "受中东和俄罗斯冲突刺激，能源市场剧烈动荡，国际石油巨头凭借创纪录的炼油利润，狂揽超过50亿美元的意外横财。",
+ "body": [
+  "根据彭博社（Bloomberg）记者Kevin Crowley和Mitchell Ferman的报道，由于波斯湾和俄罗斯的冲突搅动了全球能源市场，把炼油利润推到了历史最高点，全球石油巨头（Big Oil）意外收获了超过560亿美元的丰厚利润。",
+  "对海外华人来说，能源价格的大幅波动直接关系到咱们日常加油的钱包厚度。虽然大石油公司赚得盆满钵满，但这也意味着普通消费者的生活成本和出行开支依然承受着不小的压力。"
+ ],
+ "tags": [
+  "国际油价",
+  "石油巨头",
+  "通货膨胀",
+  "海外财经"
+ ],
+ "original_title": "Big Oil Scores $56 Billion Windfall on War-Driven Refining Spike",
+ "lang": "en",
+ "published": "2026-10-30T10:30:22+00:00",
+ "created": "2026-10-30T12:35:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

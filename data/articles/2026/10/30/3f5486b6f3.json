@@ -1,0 +1,26 @@
+{
+ "key": "3f5486b6f3",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/codelco-dismisses-eight-staff-as-copper-output-scandal-widens",
+ "title": "智利铜业巨头Codelco地震！虚报产量丑闻再升级，8名管理层和员工被开除",
+ "summary": "智利国家铜业公司（Codelco）因生产数据虚报丑闻持续发酵，在最新调查发现违规新证据后，果断开除了8名管理人员和员工。",
+ "body": [
+  "如果你关注国际大宗商品市场，最近智利国家铜业公司（Codelco）的“虚报产量”风波绝对值得吃瓜。根据彭博社的报道，这家全球最大的铜生产商再次挥起反腐大棒，直接把8名管理人员和员工给开除了。",
+  "事情的起因是该公司内部针对生产数字展开的调查。随着调查的深入，他们发现了关于数据违规的新证据，这也让这场持续发酵的会计丑闻变得更加严重。此前，Codelco已经因为产量统计问题引发了不小的震动，这次大规模撤职显然是公司高层整顿内部、试图挽回信誉的又一动作。",
+  "作为全球铜供应的巨头，Codelco的风吹草动往往会牵动国际铜价的神经。对于海外华人投资者来说，大宗商品市场的波动可能会间接影响到通胀走势以及相关矿业股的表现，大家的钱包和资产配置需要密切关注这类原材料巨头的供应链与合规风险。"
+ ],
+ "tags": [
+  "Codelco",
+  "智利铜业",
+  "财务丑闻",
+  "国际财经"
+ ],
+ "original_title": "Copper-Overcounting Case Spurs More Codelco Staff Dismissals",
+ "lang": "en",
+ "published": "2026-10-30T02:00:11+00:00",
+ "created": "2026-10-30T12:35:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

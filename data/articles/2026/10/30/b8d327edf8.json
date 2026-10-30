@@ -1,0 +1,27 @@
+{
+ "key": "b8d327edf8",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/can-mitch-mcconnell-shift-trumps-russia-policy-0792911d?mod=rss_worldnews",
+ "title": "麦康奈尔能改变特朗普的对俄政策吗？美媒抛出灵魂拷问",
+ "summary": "《华尔街日报》发表评论文章，探讨了参议院共和党领袖麦康奈尔是否有能力扭转特朗普对俄罗斯的政策，并质疑为什么特朗普对局势的看法与西方世界主流大相径庭。",
+ "body": [
+  "近日，《华尔街日报》刊登了一篇备受关注的评论文章，聚焦于美国政坛的一个核心疑问：为什么现任总统对俄罗斯的看法，和绝大多数西方国家的认知有这么大的差距？",
+  "文章进一步抛出讨论焦点，将目光投向了资深共和党人、参议院领袖米奇·麦康奈尔（Mitch McConnell），探讨他是否有可能在这个关键议题上影响并转变特朗普（Trump）政府的对俄路线。",
+  "对于远在海外的华人来说，美国政府在国际地缘政治上的摇摆，往往会直接影响到全球经济走势、通胀水平甚至是美元汇率。我们将持续关注这场外交博弈对美国未来政策走向的实际影响。"
+ ],
+ "tags": [
+  "美国政治",
+  "特朗普",
+  "麦康奈尔",
+  "俄罗斯政策",
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | Can Mitch McConnell Shift Trump’s Russia Policy?",
+ "lang": "en",
+ "published": "2026-10-29T20:00:00+00:00",
+ "created": "2026-10-30T12:33:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

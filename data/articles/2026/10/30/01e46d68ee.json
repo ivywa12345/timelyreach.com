@@ -1,0 +1,27 @@
+{
+ "key": "01e46d68ee",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/military/nearly-50-reconintel-marines-headed-guard-undersea-cables-europe",
+ "title": "波罗的海网线不稳？美军派出近50名精锐海军陆战队员紧急驰援",
+ "summary": "近50名美国海军陆战队侦察与情报精锐将被派往欧洲，加入北约在波罗的海的行动，利用无人机等先进装备负责巡视和保护海底互联网电缆与天然气管道。",
+ "body": [
+  "话说欧洲底下的海底光缆和天然气管道最近可真让人操心。据外媒报道，大约50名美国海军陆战队员（U.S. Marine Corps）正被紧急调往波罗的海（Baltic Sea），加入北约主导的保卫海底电缆与管道的任务。",
+  "这群精锐士兵主要来自北卡罗来纳州勒琼营（Marine Corps Base Camp Lejeune）的第2侦察营、第2陆战师，以及第2海军远征军情报大队。他们本来正在欧洲进行轮训，结果半路被派去执行代号为“增强警戒活动·波罗的海哨兵”（Enhanced Vigilance Activity Baltic Sentry）的新任务。芬兰海军作战长官约翰·蒂兰德（Johan Tillander）表示，美军在情报、监视、侦察（ISR）以及小型无人机和海岸传感器方面的专业技能，非常适合用来补充当地的态势感知，协助监控海底复杂的网线和管道。",
+  "之所以现在对波罗的海的海底设施这么紧张，背景还得从俄乌冲突说起。自从2022年冲突爆发后，波罗的海的水下就成了暗流涌动的交锋前线。2022年9月，连接俄罗斯与德国的“北溪1号”和“北溪2号”（Nord Stream 1 and 2）天然气管道遭遇水下爆炸炸毁，本月还有一名乌克兰情报军官在德国因此事出庭受审。自从北溪事件发生以来，波罗的海海底的管道和数据网络已经遭遇了半打（6起）以上的破坏或切断企图。"
+ ],
+ "tags": [
+  "美国海军陆战队",
+  "波罗的海",
+  "北约",
+  "海底电缆",
+  "欧洲安全"
+ ],
+ "original_title": "Nearly 50 Recon/Intel Marines Headed To Guard Undersea Cables In Europe",
+ "lang": "en",
+ "published": "2026-10-30T10:30:00+00:00",
+ "created": "2026-10-30T12:36:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

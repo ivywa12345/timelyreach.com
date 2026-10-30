@@ -1,0 +1,27 @@
+{
+ "key": "d00bcf1d4e",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/if-history-repeats-small-caps-will-win-in-a-landslide-e301e37e?mod=rss_markets_main",
+ "title": "历史会重演吗？华尔街专家预测：小盘股这次要“大翻身”了！",
+ "summary": "根据《华尔街日报》专栏作家的分析，如果历史规律再次应验，美股小盘股接下来有望迎来压倒性的爆发，而科技巨头则提前迎来了“万圣节惊魂”。",
+ "body": [
+  "如果你最近盯着美股，可能会发现大盘和科技股走势让人心惊肉跳。华尔街知名专栏作家 Spencer Jakab 近期撰文指出，如果历史会重演，小盘股接下来可能会迎来一场大翻身，把大盘远远甩在身后。",
+  "不过与此同时，科技巨头们似乎提前过上了万圣节，市场波动让这些大厂的投资者们捏了一把冷汗。",
+  "对于咱们海外华人来说，无论是买美股当理财，还是关心401(k)退休账户的配置，大盘风向的转换都直接关系到咱们的钱包。科技股风光不再时，小盘股的崛起或许能给多元化投资带来新的机会。"
+ ],
+ "tags": [
+  "美股",
+  "小盘股",
+  "科技巨头",
+  "华尔街日报",
+  "海外理财"
+ ],
+ "original_title": "If History Repeats, Small Caps Will Win in a Landslide",
+ "lang": "en",
+ "published": "2026-10-30T10:21:00+00:00",
+ "created": "2026-10-30T12:34:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,24 @@
+{
+ "key": "cadde35138",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+ "title": "美联储最新批准：Fleur资本将收购Simmesport州立银行",
+ "summary": "美联储于2026年10月2日宣布，正式批准Fleur资本公司（Fleur Capital Corporation）收购总部同在路易斯安那州的Simmesport州立银行（Simmesport State Bank）的申请。",
+ "body": [
+  "美联储理事会（Federal Reserve Board）于周五下午4点45分发布公告称，Fleur资本公司（Fleur Capital Corporation）收购Simmesport州立银行（Simmesport State Bank）的申请已经获得批准。",
+  "这两家机构均位于路易斯安那州锡姆斯波特（Simmesport）。此次收购为地方中小银行的常规资本运作，美联储按惯例对其进行了审批并对外公示。"
+ ],
+ "tags": [
+  "美联储",
+  "银行收购",
+  "财经快讯"
+ ],
+ "original_title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+ "lang": "en",
+ "published": "2026-10-02T20:45:00+00:00",
+ "created": "2026-10-30T12:38:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

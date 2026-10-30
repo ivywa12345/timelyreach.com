@@ -1,0 +1,27 @@
+{
+ "key": "3ded8e280b",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/microsoft-msft-q1-earnings-report-2027-stock-5809ce40?mod=rss_Technology",
+ "title": "微软财报大爆发！云业务狂飙，AI投资总算没打水漂？",
+ "summary": "微软最新季度利润强劲增长，云业务增速持续加快，打消了市场对AI巨额投资回报率的疑虑。",
+ "body": [
+  "微软（Microsoft）最新公布的季度财报交出了一份亮眼答卷：公司利润大幅飙升，核心的云业务增长持续加速，给一直担心AI烧钱却不见回报的市场吃了一颗定心丸。",
+  "此前，华尔街一直盯着科技巨头们在人工智能（AI）基础设施上的巨大投入，担心这些巨资打水漂。不过，这次微软用亮眼的财报数据证明，其云业务的强劲表现正在转化为实实在在的利润，有效缓解了投资者的焦虑情绪。",
+  "对于关注科技股的海外华人来说，微软作为美股中流砥柱，其云端和AI业务的强劲不仅关系到投资者的钱包和401(k)养老金回报，也预示着科技行业在AI领域的砸钱大战正在进入正向循环，相关产业链的工作机会和行业热度短期内依然稳固。"
+ ],
+ "tags": [
+  "微软",
+  "美股财报",
+  "人工智能",
+  "云计算",
+  "海外投资"
+ ],
+ "original_title": "Microsoft Quarterly Profit Soars as Cloud Growth Accelerates",
+ "lang": "en",
+ "published": "2026-10-28T23:12:00+00:00",
+ "created": "2026-10-30T12:34:51+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
