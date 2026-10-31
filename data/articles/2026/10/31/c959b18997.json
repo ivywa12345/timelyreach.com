@@ -1,0 +1,27 @@
+{
+ "key": "c959b18997",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/u-s-treasury-yields-fall-to-multiweek-lows-in-asian-trade-d355dffd?mod=rss_markets_main",
+ "title": "10月全球债市大变天！避险情绪爆表，国债收益率刷下陡峭跌幅",
+ "summary": "10月份全球债券收益率遭遇陡峭下跌，尽管市场严阵以待美国财政部即将增加的短期借款，但强烈的避险需求依然大幅推高了政府债券的价格。",
+ "body": [
+  "据《华尔街日报》报道（作者：Paulo Trevisani），刚刚过去的10月份，全球债券收益率（Yields）出现了大幅下跌。面对市场的种种变数，投资者纷纷涌向相对安全的政府债券，直接带动了国债需求的大幅回暖。",
+  "有趣的是，这次债市的狂欢并没有受到美国财政部（U.S. Treasury）即将扩大短期借款规模的影响。尽管市场一直在为更高的短期借贷成本做心理准备，但“避险为王”的资金流向依然成为了主导10月债市走向的关键力量。",
+  "对于咱们海外华人来说，全球债券市场的剧烈波动往往牵动着整体借贷成本和经济走向。不管是房贷利率、车贷还是日常投资，这些宏观风向标都可能在潜移默化中影响到大家的钱包和资产配置，值得近期多留个心眼。"
+ ],
+ "tags": [
+  "全球债市",
+  "避险情绪",
+  "美国财政部",
+  "经济风向",
+  "海外理财"
+ ],
+ "original_title": "Global Bond Yields Fall Sharply in October Amid Flight to Safety",
+ "lang": "en",
+ "published": "2026-10-30T19:35:00+00:00",
+ "created": "2026-10-31T02:23:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

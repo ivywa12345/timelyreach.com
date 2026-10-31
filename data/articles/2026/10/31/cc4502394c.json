@@ -1,0 +1,26 @@
+{
+ "key": "cc4502394c",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815?mod=rss_Technology",
+ "title": "AI开始自己造更好的AI了？华尔街日报：这可能是全球最重要的一张图表！",
+ "summary": "人工智能（AI）正在展现自我升级的能力，这种现象让AI领域的顶级专家们大受震撼，同时也引发了广泛的焦虑。",
+ "body": [
+  "最近，《华尔街日报》刊文指出，AI行业里最聪明的大脑们最近都在紧盯一张图表。简单来说，现在的情况是：AI开始自己构建更好的AI了。",
+  "这种自我迭代的能力正在极大地加速人工智能领域的研发进程。原本需要人类科学家耗费大量时间和精力去推进的技术突破，现在正以惊人的速度通过AI自身演进而成真。",
+  "不过，这种前所未有的“AI自我进化”速度也把大家都吓坏了。对于身处海外、关注前沿科技发展的朋友来说，技术的超高速迭代不仅意味着未来职场和产业格局将面临巨变，也让AI发展的不可预测性达到了新的高度。"
+ ],
+ "tags": [
+  "人工智能",
+  "科技前沿",
+  "华尔街日报",
+  "AI自我进化"
+ ],
+ "original_title": "The Smartest People in AI Believe This Is the World’s Most Important Chart",
+ "lang": "en",
+ "published": "2026-10-31T01:00:00+00:00",
+ "created": "2026-10-31T02:23:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

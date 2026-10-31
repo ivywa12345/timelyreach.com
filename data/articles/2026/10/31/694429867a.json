@@ -1,0 +1,25 @@
+{
+ "key": "694429867a",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/hedge-funds-boost-natural-gas-short-positions-to-most-on-record",
+ "title": "暖冬要来？对冲基金疯狂押注美国天然气暴跌，空头仓位创历史新高！",
+ "summary": "由于预计今年冬天异常温暖将导致取暖和发电需求大幅下滑，对冲基金本周疯狂加仓美国天然气空头，创下历史最高纪录。",
+ "body": [
+  "根据彭博社（Bloomberg）记者朱利安·哈斯特（Julian Hast）的报道，对冲基金在本周大规模做空美国天然气，持有的空头仓位达到了有记录以来的最高水平。大家之所以这么干，主要是因为天气预报显示今年冬天可能异常温暖，这会直接导致供暖和发电厂对天然气的需求大跌。"
+ ],
+ "tags": [
+  "天然气",
+  "对冲基金",
+  "美股",
+  "能源市场",
+  "暖冬"
+ ],
+ "original_title": "Hedge Funds Boost Natural Gas Short Positions to Most on Record",
+ "lang": "en",
+ "published": "2026-10-30T20:40:59+00:00",
+ "created": "2026-10-31T02:24:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

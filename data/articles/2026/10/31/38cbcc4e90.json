@@ -1,0 +1,26 @@
+{
+ "key": "38cbcc4e90",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/asia/china-economic-activity-loses-steam-sharply-in-october-5990ffe0?mod=rss_worldnews",
+ "title": "10月中国经济活动明显降温？最新数据透露了什么信号",
+ "summary": "根据《华尔街日报》报道，今年10月份中国的经济活动出现明显的放缓势头。",
+ "body": [
+  "各位在海外关注国内经济的朋友注意了，最新出炉的数据显示，10月份中国的经济活动出现了明显的降温趋势。",
+  "根据《华尔街日报》（The Wall Street Journal）的报道，这一变化表明相关经济增长势头在经历前期的刺激后有所减弱。虽然具体的各行业细节仍在评估中，但整体增速的放缓已经引起了市场的广泛关注。",
+  "对于咱们海外华人来说，国内经济的走势不仅关乎国内亲友的生计，也常常影响到全球供应链、人民币汇率以及相关的投资理财产品。我们将持续为您关注后续的政策动向和市场反应。"
+ ],
+ "tags": [
+  "中国经济",
+  "华尔街日报",
+  "经济降温",
+  "海外华人"
+ ],
+ "original_title": "China Economic Activity Loses Steam Sharply in October",
+ "lang": "en",
+ "published": "2026-10-31T01:50:00+00:00",
+ "created": "2026-10-31T02:22:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

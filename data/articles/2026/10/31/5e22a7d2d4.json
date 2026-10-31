@@ -1,0 +1,27 @@
+{
+ "key": "5e22a7d2d4",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/modi-s-mass-detentions-stoke-anger-among-young-india-protesters",
+ "title": "莫迪政府大抓捕点燃怒火！印度年轻人：被抓也要手拉手一起走",
+ "summary": "本月在新德里的一场抗议活动中，印度警方对年轻示威者进行大规模拘留，引发了年轻群体强烈的愤怒与反抗。",
+ "body": [
+  "本月在新德里发生了一幕令人揪心的场景：当印度警方逼近一群年轻的抗议者时，名叫西姆兰（Simran）的年轻人和朋友紧紧握住了彼此的手。他们迅速达成了一个默契：如果有人被拖走，那就一起走。",
+  "根据彭博社（Bloomberg）记者阿斯米·巴蒂亚（Asmi Bhatia）的报道，印度警方近期针对年轻抗议者采取了大规模拘留（Mass Detentions）行动，这一强硬手段彻底激怒了当地的年轻人，让本就紧张的社会局势进一步升温。",
+  "对于远在海外的华人来说，虽然身处异国，但这类涉及公民权益与政府治理的社会动向也提醒我们，关注不同国家的政治与社会环境变化，始终是了解全球局势的重要窗口。"
+ ],
+ "tags": [
+  "印度",
+  "莫迪",
+  "抗议活动",
+  "国际新闻",
+  "彭博社"
+ ],
+ "original_title": "Modi’s Mass Detentions Stoke Anger Among Young Protesters",
+ "lang": "en",
+ "published": "2026-10-30T06:58:26+00:00",
+ "created": "2026-10-31T02:24:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

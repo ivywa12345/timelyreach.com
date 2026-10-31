@@ -1,0 +1,27 @@
+{
+ "key": "59503ec59c",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?mod=rss_markets_main",
+ "title": "搞AI没钱了？美国人工智能迎来“金主爸爸”急刹车！",
+ "summary": "据《华尔街日报》报道，随着美国AI基建进入新阶段，债权人和投资者开始变得更加挑剔，对贷款条件要求也更加严格，廉价资金短缺成了AI发展的新瓶颈。",
+ "body": [
+  "话说现在全美都在狂热搞人工智能（AI），但最近却遇到了一个极其现实的新麻烦——没那么好借到便宜钱了！",
+  "据《华尔街日报》记者Robbie Whelan报道，随着AI基建项目进入全新的发展阶段，无论是放贷的机构还是各路投资者，现在投钱时都变得越来越挑剔。大家不仅开始精打细算，还纷纷要求更加入门严格的贷款条件。",
+  "对咱们海外华人来说，科技圈的资金风向直接关系到整个行业的就业和经济景气度。如果AI烧钱的速度放缓，相关的职位空缺、股市表现以及整体科技股的走势都可能受到影响，大家的钱包和职业规划也得跟着灵活调整啦。"
+ ],
+ "tags": [
+  "人工智能",
+  "华尔街",
+  "海外华人",
+  "科技投资",
+  "美国经济"
+ ],
+ "original_title": "The New Bottleneck in America’s AI Build-Out: A Shortage of Cheap Money",
+ "lang": "en",
+ "published": "2026-10-31T01:00:00+00:00",
+ "created": "2026-10-31T02:23:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "bb3326ddb2",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+ "title": "俄克拉荷马州金融圈大动作！美联储正式批准BancFirst吞并SpiritBank",
+ "summary": "美联储于2026年9月22日宣布，正式批准BancFirst Corporation收购并合并Spirit BankCorp, Inc.及其旗下的SpiritBank。",
+ "body": [
+  "美联储董事会周二（9月22日）发布公告称，总部位于俄克拉荷马州俄克拉荷马城的BancFirst Corporation（BancFirst Corporation），收购并合并同州布里斯托（Bristow）的Spirit BankCorp, Inc.一案已经获得正式批准。通过这笔交易，BancFirst将间接拥有位于塔尔萨（Tulsa）的SpiritBank。",
+  "除了母公司的合并外，美联储还批准了BancFirst与SpiritBank的直接合并计划，并允许BancFirst在原SpiritBank的各个营业网点设立并运营分行。"
+ ],
+ "tags": [
+  "美联储",
+  "银行并购",
+  "财经新闻",
+  "俄克拉荷马州"
+ ],
+ "original_title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+ "lang": "en",
+ "published": "2026-09-22T20:30:00+00:00",
+ "created": "2026-10-31T02:26:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

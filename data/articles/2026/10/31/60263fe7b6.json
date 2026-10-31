@@ -1,0 +1,26 @@
+{
+ "key": "60263fe7b6",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/behind-the-scenes-of-cryptos-biggest-nightmare-a-record-breaking-cyber-heist-ffe1d9a3?mod=rss_markets_main",
+ "title": "币圈最大噩梦！黑客20分钟卷走63亿美元，CZ此前刚警告过...",
+ "summary": "币安（Binance）创始人赵长鹏（Changpeng Zhao）在一周前才刚发出警告，称“没有哪个加密钱包是100%安全的”。然而话音刚落，黑客就在短短20分钟内盗走了至少63亿美元，堪称加密货币历史上创纪录的超级大劫案。",
+ "body": [
+  "币圈最近迎来了史上最惊心动魄的时刻。根据《华尔街日报》报道，币安（Binance）创始人赵长鹏（Changpeng Zhao）在一周前才公开警告过大家，世界上根本不存在绝对安全的加密钱包。结果一语成谶，黑客在短短20分钟内疯狂作案，直接卷走了至少63亿美元的资产，创造了有史以来最大规模的网络盗窃纪录。",
+  "目前关于这场惊天黑客劫案的更多幕后细节仍在披露中。对于将资产配置在加密货币领域的海外华人来说，这类事件再次敲响了警钟：数字资产的安全性远比想象中脆弱，把钱放在交易所或个人钱包里随时可能面临极大的资金归零风险。"
+ ],
+ "tags": [
+  "加密货币",
+  "币安",
+  "网络安全",
+  "黑客攻击",
+  "赵长鹏"
+ ],
+ "original_title": "Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist",
+ "lang": "en",
+ "published": "2026-10-30T23:29:00+00:00",
+ "created": "2026-10-31T02:23:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

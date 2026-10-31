@@ -1,0 +1,26 @@
+{
+ "key": "0588a3a134",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5?mod=rss_Technology",
+ "title": "OpenAI最新融资扑街？300亿目标只筹到不到一半！",
+ "summary": "ChatGPT背后的开发商OpenAI在最新一轮融资中遭遇滑铁卢，300亿美元的融资目标最终只筹集到不到一半的资金，公司估值也从原计划的1.4万亿美元缩水至1.25万亿美元。",
+ "body": [
+  "最近大火的ChatGPT开发商OpenAI（OpenAI）遇到了点资金上的小挫折。根据《华尔街日报》的报道，他们在最新一轮融资中，原本雄心勃勃地定下了300亿美元的目标，结果最后连一半都没筹到。",
+  "资金没到位，估值自然也受到了影响。在这轮融资中，OpenAI的估值最终定格在了1.25万亿美元，比之前设定的1.4万亿美元的目标低了不少。"
+ ],
+ "tags": [
+  "OpenAI",
+  "人工智能",
+  "融资",
+  "华尔街日报",
+  "科技财经"
+ ],
+ "original_title": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
+ "lang": "en",
+ "published": "2026-10-31T01:56:00+00:00",
+ "created": "2026-10-31T02:23:51+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

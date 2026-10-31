@@ -1,0 +1,27 @@
+{
+ "key": "fed0146ec5",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/u-s-navy-brad-cooper-iran-gulf-oil-middle-east-2c8a934a?mod=rss_opinion",
+ "title": "15亿桶石油安全出海！美军在霍尔木兹海峡到底护航了多少？",
+ "summary": "华尔街日报社论指出，在美军的军事指导下，已有高达15亿桶石油成功通过霍尔木兹海峡。",
+ "body": [
+  "华尔街日报编辑委员会（The Editorial Board）近日发表社论，公布了一组关于中东能源运输的数据：在美军的军事指导和护航下，已有累计多达15亿桶的石油成功通过了咽喉要道——霍尔木兹海峡（Hormuz Strait），避免了供应链的彻底中断。",
+  "长期以来，霍尔木兹海峡作为全球最重要的石油运输要道之一，其安全性直接牵动着全球经济和能源市场的神经。随着与伊朗的紧张局势持续，该海峡的航行安全面临严峻考验。",
+  "对于远在大洋彼岸的海外华人来说，中东局势和石油供应链的稳定直接关系到大家的日常生活成本。油价的波动不仅会影响每个人的加油钱包，还会进一步传导至物价和通胀，进而影响整体经济形势和就业市场。"
+ ],
+ "tags": [
+  "美伊冲突",
+  "霍尔木兹海峡",
+  "石油运输",
+  "美军护航",
+  "海外生活"
+ ],
+ "original_title": "1.5 Billion Successes in the War With Iran",
+ "lang": "en",
+ "published": "2026-10-30T21:35:00+00:00",
+ "created": "2026-10-31T02:24:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

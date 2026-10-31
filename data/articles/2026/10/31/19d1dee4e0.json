@@ -1,0 +1,25 @@
+{
+ "key": "19d1dee4e0",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/us-approves-2-1-billion-in-patriot-missiles-for-ukraine",
+ "title": "特朗普政府批准21亿美元对乌军售，将提供“爱国者”导弹拦截器",
+ "summary": "特朗普政府已批准向乌克兰出售价值21亿美元的“爱国者”防空导弹拦截器。此前，乌克兰总统泽连斯基曾指责美国延迟交付这些关键的防空武器。",
+ "body": [
+  "据彭博社报道，特朗普（Trump）政府刚刚批准了一笔价值21亿美元的“爱国者”（Patriot）防空导弹拦截器对乌军售订单。",
+  "此前不久，乌克兰总统泽连斯基（Volodymyr Zelenskyy）公开指责美国拖延了这些关键防空拦截器的交付进度，这笔新订单可以说是对乌方关切的一个回应。"
+ ],
+ "tags": [
+  "美国",
+  "乌克兰",
+  "军事援助",
+  "国际新闻"
+ ],
+ "original_title": "US Approves $2.1 Billion in Patriot Interceptors for Ukraine",
+ "lang": "en",
+ "published": "2026-10-30T19:18:44+00:00",
+ "created": "2026-10-31T02:24:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

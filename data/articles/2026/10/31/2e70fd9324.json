@@ -1,0 +1,27 @@
+{
+ "key": "2e70fd9324",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/health/healthcare/affordable-care-act-rates-to-rise-steeplyagain-986da40c?mod=rss_markets_main",
+ "title": "保费又要大涨了！2027年奥巴马医保费将飙升13%",
+ "summary": "根据《华尔街日报》报道，2027年奥巴马医保（ACA）计划的保费将大幅上涨13%，这将是该市场连续第二年出现两位数的涨幅，同时该市场还面临着参保人数不断减少的困境。",
+ "body": [
+  "如果你正在通过《平价医疗法案》（Affordable Care Act，简称ACA，即奥巴马医保）买保险，那可能得提前捂好钱包了。根据《华尔街日报》的最新报道，2027年ACA计划的平均保费将大幅上涨13%。",
+  "值得注意的是，这已经是该医保市场连续第二年出现两位数的涨幅。与此同时，这个本来就压力山大的市场，目前还面临着参保人数不断缩减的现实挑战。",
+  "对于咱们在海外、需要自费购买医疗保险的华人朋友来说，保费连年上涨无疑会直接加重家庭的经济负担。在挑选2027年的医疗保险计划时，大家可能需要更仔细地比对不同档位的保费和保障范围，提前做好预算规划。"
+ ],
+ "tags": [
+  "奥巴马医保",
+  "保费上涨",
+  "美国医疗",
+  "海外生活",
+  "华人钱包"
+ ],
+ "original_title": "Affordable Care Act Rates to Rise Steeply—Again",
+ "lang": "en",
+ "published": "2026-10-30T19:45:00+00:00",
+ "created": "2026-10-31T02:23:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

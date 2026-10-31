@@ -1,0 +1,27 @@
+{
+ "key": "4e4154d4fb",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
+ "title": "微软成华尔街“新金童”？云端大战这回真的赢麻了！",
+ "summary": "分析师指出，多项迹象表明微软在财务健康度上已经超越了云服务领域的竞争对手，正成为华尔街眼中的香饽饽。",
+ "body": [
+  "据MarketWatch报道，分析师近日表示，从各种迹象来看，微软（Microsoft）目前的财务状况比其在云计算领域的竞争对手们更加稳健，这也让它成功晋升为华尔街的“新金童”。",
+  "作为科技巨头，微软近年来在云服务市场动作频频，凭借强劲的业务增长和战略布局，在激烈的市场竞争中逐渐确立了优势地位。华尔街的分析人士普遍认为，其财务表现和抗风险能力是吸引投资者的关键所在。",
+  "对于关注美股和科技板块的海外华人来说，微软股价的强势表现不仅意味着科技股依然是资产配置的重要方向，也反映出头部企业在经济波动期更强的吸金能力。"
+ ],
+ "tags": [
+  "微软",
+  "华尔街",
+  "云计算",
+  "美股投资",
+  "科技巨头"
+ ],
+ "original_title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
+ "lang": "en",
+ "published": "2026-10-30T20:29:00+00:00",
+ "created": "2026-10-31T02:26:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

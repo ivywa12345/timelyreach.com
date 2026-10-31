@@ -1,0 +1,27 @@
+{
+ "key": "fc4018b40f",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/how-the-journal-investigated-iran-damage-bases-18cbd9ee?mod=rss_worldnews",
+ "title": "美军基地遇袭黑幕怎么被挖出来的？华尔街日报揭秘：靠的全是这几招！",
+ "summary": "华尔街日报发表文章，揭秘了他们是如何通过几万张卫星图、伊朗官方声明和自研程序，成功突破美军信息封锁，查清美国海外基地受损情况的。",
+ "body": [
+  "平时老听新闻说某某美军基地遇袭，但美军总是捂着盖子搞信息黑洞，外界很难知道具体情况。最近，《华尔街日报》（The Wall Street Journal）的记者John West撰文，公开了他们是怎么硬生生把这些内幕给挖出来的。",
+  "原来，为了突破美军的信息封锁，编辑记者们祭出了几大杀手锏：他们分析了数以万计的卫星图像，比对并研究了伊朗媒体发布的各种官方声明，甚至还专门定制了一套电脑程序来辅助调查。多管齐下，最终拼凑出了真相。",
+  "虽然这只是一篇关于新闻调查方法论的复盘，但也让我们看到，在强大的技术手段和不懈的追踪面前，任何官方的“信息黑洞”其实都很难真正藏住秘密。"
+ ],
+ "tags": [
+  "华尔街日报",
+  "美军基地",
+  "卫星图像",
+  "新闻调查",
+  "信息封锁"
+ ],
+ "original_title": "The Methodology Behind the Journal’s Investigation of Damage to U.S. Bases",
+ "lang": "en",
+ "published": "2026-10-31T00:30:00+00:00",
+ "created": "2026-10-31T02:23:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "2d9f2c4328",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+ "title": "手伸太长？美联储出手禁业三家银行及运通前员工！",
+ "summary": "美联储于2026年9月18日宣布对三名前金融机构员工采取执法行动，涉事人员分别来自北星银行、美国运通和Regions银行，均被下达禁止从事银行业务的命令。",
+ "body": [
+  "如果你以为只有大银行才会上头条，那就错了。美联储（Federal Reserve Board）在周五一口气发布了针对三名前金融机构员工的执法行动，直接下了“禁业令”，以后这些人想在银行业混可难了。",
+  "根据美联储公布的信息，这三位被点名并遭禁业的前员工分别是：来自密歇根州北星银行（Northstar Bank）的Charles Alan Wright，因挪用客户资金被罚；纽约美国运通旅行相关服务公司（American Express Travel Related Services Company, Inc.）的前员工Stephanie K. Hudders，涉及资金滥用和利益冲突；以及阿拉巴马州Regions银行的前员工Elvisha White，犯了支票欺诈。",
+  "对咱们普通老百姓和海外华人来说，这类新闻提醒大家：金融机构内部风控和合规永远在抓。无论是日常转账还是处理银行账户，合规永远是第一位的，也说明监管部门对金融从业人员的违规行为是零容忍的。"
+ ],
+ "tags": [
+  "美联储",
+  "银行监管",
+  "美国运通",
+  "金融犯罪",
+  "海外生活"
+ ],
+ "original_title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+ "lang": "en",
+ "published": "2026-09-18T15:00:00+00:00",
+ "created": "2026-10-31T02:26:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
