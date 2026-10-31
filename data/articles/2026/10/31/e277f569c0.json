@@ -1,0 +1,26 @@
+{
+ "key": "e277f569c0",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/ai-policy-fears-grip-stock-bond-traders-with-midterms-days-away",
+ "title": "美国中期选举周二开打！华尔街紧盯AI监管、军费和加密货币",
+ "summary": "华尔街预计民主党将在周二的美国中期选举中至少赢得国会两院中的一院，AI监管、国防开支和加密货币立法等议题将给股市和债市带来潜在的波动。",
+ "body": [
+  "华尔街正严阵以待周二的美国中期选举。市场普遍预计，民主党将至少拿下国会众议院或参议院中的一院。随着中期选举的推进，人工智能（AI）监管政策、国防开支以及加密货币立法等关键议题将被提上日程，这可能给股票和债券市场带来一波不小的动荡。",
+  "对于在美华人来说，国会政治格局的变化直接关系到科技行业的监管风向、投资回报以及相关产业政策。无论是AI的发展限制还是加密货币的合规走向，都可能在选举后引发市场震荡，建议投资者在近期密切关注政策动向，提前做好资产配置的风险管理。"
+ ],
+ "tags": [
+  "美国中期选举",
+  "华尔街",
+  "人工智能监管",
+  "美股美债",
+  "在美华人"
+ ],
+ "original_title": "AI Policy Risks Loom Over Stock, Bond Traders Ahead of Midterms",
+ "lang": "en",
+ "published": "2026-10-30T11:00:00+00:00",
+ "created": "2026-10-31T22:31:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

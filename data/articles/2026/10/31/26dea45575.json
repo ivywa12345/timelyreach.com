@@ -1,0 +1,27 @@
+{
+ "key": "26dea45575",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-31/wsj-wins-dismissal-of-trump-s-10-billion-defamation-suit",
+ "title": "川普又吃官司败诉！100亿美元对《华尔街日报》的诽谤指控被法官彻底驳回",
+ "summary": "美国联邦法官驳回了川普对《华尔街日报》提起的100亿美元诽谤诉讼，且裁定不得再次起诉，这是川普与媒体法律战中的又一次挫折。",
+ "body": [
+  "近日，美国联邦法官一巴掌拍散了唐纳德·川普（Donald Trump）对《华尔街日报》（Wall Street Journal）提起的100亿美元（约合100亿美元）巨额诽谤诉讼。不仅案子被撤了，法官还直接下令：这个案子以后不能再审了！这也标志着川普和各大媒体长期以来的法律交锋中，又双叒叕吃了一个瘪。",
+  "回顾这场官司，川普因为对《华尔街日报》（Wall Street Journal）的某些报道不满，狮子大开口索赔100亿美元。不过，主审法官经过审理，最终还是做出了对媒体有利的裁决，把这起备受关注的官司彻底画上了句号。",
+  "对于咱们海外华人来说，美国政客与主流媒体之间的这类官司不仅是茶余饭后的谈资，也常常折射出美国社会关于言论自由和媒体监督的长期博弈。虽然这场诉讼以川普败诉告终，但政坛与媒体的口水战显然还远没有停歇。"
+ ],
+ "tags": [
+  "川普",
+  "华尔街日报",
+  "诽谤诉讼",
+  "美国法律",
+  "言论自由"
+ ],
+ "original_title": "WSJ Wins Dismissal of Trump’s $10 Billion Defamation Suit",
+ "lang": "en",
+ "published": "2026-10-31T20:23:45+00:00",
+ "created": "2026-10-31T22:31:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

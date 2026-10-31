@@ -1,0 +1,27 @@
+{
+ "key": "35db9c715a",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/oil-ticks-back-up-as-uncertainty-clouds-peace-hopes-bcefd8d8?mod=rss_markets_main",
+ "title": "美伊和谈希望刚燃起，油价怎么又默默涨回去了？",
+ "summary": "亚洲早盘油价小幅回升，此前因为美国与伊朗可能进行会谈的乐观情绪，油价曾收盘下跌。",
+ "body": [
+  "在亚洲早盘交易中，国际油价又悄悄往上涨了。在此之前，市场一度对美国和伊朗（U.S.-Iran）展开对话抱有希望，导致油价刚刚收盘下跌。",
+  "不过，由于局势充满不确定性，和平希望带来的油价回落并未持续太久，市场情绪依然紧绷。",
+  "对海外华人来说，国际油价的波动直接关系到日常加油钱包的厚度，如果油价再度反弹，可能会对通货膨胀和生活成本产生连锁反应。"
+ ],
+ "tags": [
+  "油价",
+  "美国",
+  "伊朗",
+  "国际新闻",
+  "海外生活"
+ ],
+ "original_title": "Oil Ticks Back Up as Uncertainty Clouds Peace Hopes",
+ "lang": "en",
+ "published": "2026-10-30T01:18:00+00:00",
+ "created": "2026-10-31T22:29:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

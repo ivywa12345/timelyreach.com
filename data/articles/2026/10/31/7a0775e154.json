@@ -1,0 +1,27 @@
+{
+ "key": "7a0775e154",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-31/russia-extends-ban-on-most-diesel-exports-through-january",
+ "title": "俄罗斯柴油出口禁令延长至1月底！全球能源市场又要震动？",
+ "summary": "俄罗斯政府已决定将大部分柴油出口的全面禁令延长至1月底，不过仍允许部分货量流向国际市场。",
+ "body": [
+  "俄罗斯政府日前宣布，将对国内生产商实施的大部分柴油出口禁令延长至2024年1月底。不过，此举并非完全“一刀切”，当局仍允许一部分柴油继续流向全球市场。",
+  "作为全球重要的能源出口国，俄罗斯此举旨在确保国内市场的供应和价格稳定。此前，该国就曾通过限制燃料出口来应对国内能源价格上涨的压力。",
+  "对于远在海外的华人朋友来说，虽然直接去加油站加柴油的几率不高，但国际柴油价格的波动往往会传导至整个能源板块，进而影响到物流运输成本、日常消费品物价以及整体通胀走势，大家的钱包可能又要受到连锁影响了。"
+ ],
+ "tags": [
+  "俄罗斯",
+  "柴油出口",
+  "能源市场",
+  "通货膨胀",
+  "海外华人"
+ ],
+ "original_title": "Russia Extends Ban on Most Diesel Exports Through January",
+ "lang": "en",
+ "published": "2026-10-31T12:13:37+00:00",
+ "created": "2026-10-31T22:30:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

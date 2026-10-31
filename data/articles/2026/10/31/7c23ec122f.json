@@ -1,0 +1,27 @@
+{
+ "key": "7c23ec122f",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/cryptocurrencies-slide-as-news-of-major-hack-spooks-markets-14543f8e?mod=rss_markets_main",
+ "title": "币圈又双叒叕出大事！63亿美元大黑客事件吓崩市场，现在行情怎么样了？",
+ "summary": "全球最大加密货币交易所遭遇重大安全漏洞，黑客卷走高达63亿美元资产，导致比特币和以太坊一度暴跌超3%。不过随后市场逐渐收复失地，目前正密切关注事态发展。",
+ "body": [
+  "各位币圈的朋友注意了，最近加密货币市场又经历了一场虚惊。全球最大的加密货币交易所（world's biggest crypto exchange）爆出惊天大案，遭遇了高达63亿美元（美元）的巨额黑客攻击！",
+  "受此恐慌情绪影响，比特币（Bitcoin）和以太坊（Ethereum）盘中双双跳水，跌幅一度超过3%。好在随后行情有所回暖，两位老大哥慢慢收复了一些失地，把跌幅给缩窄了。",
+  "对于在海外关注投资理财的小伙伴来说，这类事件再次敲响了资产安全的警钟。交易所的安全漏洞防不胜防，把大额资产长期放在交易所里风险确实不小，大家在做资产配置时还是要多留个心眼，注意防范风险。"
+ ],
+ "tags": [
+  "加密货币",
+  "比特币",
+  "以太坊",
+  "黑客攻击",
+  "海外投资"
+ ],
+ "original_title": "Cryptocurrencies Pare Losses After $6.3 Billion Hack Spooks Markets",
+ "lang": "en",
+ "published": "2026-10-30T14:08:00+00:00",
+ "created": "2026-10-31T22:29:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

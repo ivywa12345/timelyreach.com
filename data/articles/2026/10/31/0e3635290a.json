@@ -1,0 +1,27 @@
+{
+ "key": "0e3635290a",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/trump-faces-a-perilous-choice-in-iran-0bf6b70c?mod=rss_opinion",
+ "title": "特朗普重返白宫面临终极考验：伊朗会成为他的“政治滑铁卢”吗？",
+ "summary": "华尔街日报专栏作家分析指出，德黑兰领导层试图左右2028年美国大选，这让特朗普同时面临当年卡特和尼克松式的双重执政危机。",
+ "body": [
+  "据《华尔街日报》专栏作家霍尔曼·W·詹金斯（Holman W. Jenkins, Jr.）分析，再次入主白宫的特朗普在应对伊朗问题时，正面临着一条充满危险的抉择之路。",
+  "文章指出，德黑兰的领导层企图插手并决定2028年的美国大选，这种局面让特朗普同时陷入了当年吉米·卡特（Jimmy Carter）因人质危机黯然失色，以及理查德·尼克松（Richard Nixon）遭遇执政困境的双重历史阴影之中。",
+  "对于关注地缘政治的海外华人来说，中东局势的持续动荡不仅牵动着国际油价和全球经济的神经，也直接关乎美国未来的外交走向与国内政治稳定，值得持续密切关注。"
+ ],
+ "tags": [
+  "特朗普",
+  "伊朗",
+  "美国大选",
+  "华尔街日报",
+  "地缘政治"
+ ],
+ "original_title": "Trump Faces a Perilous Choice in Iran",
+ "lang": "en",
+ "published": "2026-10-30T20:54:00+00:00",
+ "created": "2026-10-31T22:30:30+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

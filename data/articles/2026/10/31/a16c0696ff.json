@@ -1,0 +1,26 @@
+{
+ "key": "a16c0696ff",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-31/un-ends-its-political-mission-in-somalia-after-three-decades",
+ "title": "持续30多年！联合国正式结束在索马里的政治使命",
+ "summary": "联合国宣布正式结束在索马里长达三十多年的政治使命，相关和平建设与治理工作已全面移交给索马里当地机构。",
+ "body": [
+  "据彭博社报道（作者：Mohammed Omar Ahmed），联合国近日在官网上宣布，经过两年的过渡期，联合国索马里政治特派团已正式完成使命。这意味着，联合国长达30多年对索马里的直接政治介入画上了句号。",
+  "联合国表示，随着索马里自身机构逐渐成熟，和平建设、国家治理以及政治和解的责任已逐步转移给索马里本地政府承担。",
+  "虽然这属于联合国在特定地区的常规任务调整和撤出，但对于长期关注国际局势和非洲发展的海外华人来说，这也标志着该国自主治理进入了一个新阶段。"
+ ],
+ "tags": [
+  "联合国",
+  "索马里",
+  "国际新闻",
+  "政治使命"
+ ],
+ "original_title": "UN Ends Its Political Mission in Somalia After Three Decades",
+ "lang": "en",
+ "published": "2026-10-31T21:31:34+00:00",
+ "created": "2026-10-31T22:31:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
