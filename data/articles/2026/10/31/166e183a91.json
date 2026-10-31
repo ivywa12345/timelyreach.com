@@ -1,0 +1,26 @@
+{
+ "key": "166e183a91",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/us-news/ice-officer-indicted-after-allegedly-striking-fleeing-man-with-vehicle-80d6dba9?mod=rss_worldnews",
+ "title": "德州一ICE执法人员摊上大事了！涉嫌开车撞伤逃跑嫌疑人被起诉",
+ "summary": "德州检察官表示，一名美国移民和海关执法局（ICE）的官员因涉嫌驾车撞击一名逃跑男子双腿并造成多处骨折，已被正式起诉。",
+ "body": [
+  "据《华尔街日报》报道，德州检察官最近起诉了一名美国移民和海关执法局（ICE，U.S. Immigration and Customs Enforcement）的官员马里奥·阿尔韦托·莫拉莱斯（Mario Alberto Morales）。",
+  "根据检方指控，这名官员在执法过程中，涉嫌驾驶车辆直接撞向了一名正在逃跑的男子，导致该男子双腿被压，并造成了多处骨折的严重伤情。",
+  "近年来执法人员的过度执法问题一直备受美国社会关注。对于在美华人来说，无论是面对警方还是各类执法机构，了解自身的合法权益、保持冷静配合，遇到争议时通过法律途径维权至关重要。"
+ ],
+ "tags": [
+  "德州新闻",
+  "ICE",
+  "美国执法",
+  "法律起诉"
+ ],
+ "original_title": "ICE Officer Indicted After Allegedly Striking Fleeing Man With Vehicle",
+ "lang": "en",
+ "published": "2026-10-30T22:57:00+00:00",
+ "created": "2026-10-31T09:38:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

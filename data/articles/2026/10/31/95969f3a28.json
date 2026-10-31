@@ -1,0 +1,27 @@
+{
+ "key": "95969f3a28",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/news-releases/federal-grand-jury-indicts-ten-aliens-for-voter-fraud-in-minnesota-elections",
+ "title": "明州10名外国公民因非法投票被联邦大陪审团起诉！涉案人员来自多个国家",
+ "summary": "美国明尼苏达州联邦大陪审团于9月24日分别起诉了10名涉嫌非法投票的外国公民。这些被告被指控在2022年、2024年的大选及2026年的初选中进行非法投票或虚假宣称美国国籍。",
+ "body": [
+  "据美国移民局（USCIS）及明尼苏达州联邦检察官办公室消息，联邦大陪审团于9月24日正式起诉了10名涉嫌在选举中违法的外国公民（Alien），目前所有被告均已在联邦法院完成首次出庭。此次调查由美国移民和海关执法局国土安全调查局（ICE Homeland Security Investigations）主导，并得到了美国移民局的协助。",
+  "被起诉的10名嫌疑人来自利比里亚、立陶宛、加纳、德国、波斯尼亚、巴西、加拿大和南非等国，年龄从43岁到78岁不等。他们分别面临虚假宣称美国公民身份以进行投票，以及非美国公民非法投票等指控。根据联邦法律，虚假宣称公民身份投票最高可判处5年监禁并处最高25万美元罚款；非公民投票则属于A级轻罪，最高可判处1年监禁并处最高10万美元罚款。",
+  "国土安全部（DHS）部长马克韦恩·马林（Markwayne Mullin）对此表态称：“我们对在美利坚选举中投票的外国人的信息是明确的：我们会找到你、逮捕你，你将承担包括刑事指控和驱逐出境在内的后果。在特朗普总统的领导下，本届政府绝不允许美国公民的选票被非公民非法投票所抵消。只有美国公民才能选举美国领导人。”司法部门同时提醒，起诉书仅仅是一项指控，所有被告在法庭上被证明有罪之前均被推定为无罪。"
+ ],
+ "tags": [
+  "美国选举",
+  "非法投票",
+  "明尼苏达州",
+  "移民局",
+  "刑事起诉"
+ ],
+ "original_title": "Federal Grand Jury Indicts Ten Aliens for Voter Fraud in Minnesota Elections",
+ "lang": "en",
+ "published": "2026-10-02T15:19:35+00:00",
+ "created": "2026-10-31T09:41:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

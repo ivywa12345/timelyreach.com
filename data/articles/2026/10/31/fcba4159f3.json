@@ -1,0 +1,25 @@
+{
+ "key": "fcba4159f3",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/another-train-wreck-in-socialist-spain-6dbe3208?mod=rss_worldnews",
+ "title": "西班牙今年火车事故已致百人丧生，首相桑切斯11月迎大选硬仗！",
+ "summary": "西班牙今年已发生两起严重列车相撞事故，造成超过100人死亡。面对不断升级的安全危机，首相佩德罗·桑切斯（Pedro Sánchez）将于11月29日面临选民的严峻考验。",
+ "body": [
+  "说到欧洲的交通，大家总觉得安全省心，但西班牙最近的日子可真不太平。今年以来，当地已经连续发生了两起惨烈的列车相撞事故，遇难人数加起来超过了100人。",
+  "这接连不断的事故不仅暴露出铁路系统的安全漏洞，也成了政坛的焦点。现任首相佩德罗·桑切斯（Pedro Sánchez）这下坐蜡了，他将在11月29日直面选民的怒火，这场大选对他的执政地位来说绝对是一场硬仗。"
+ ],
+ "tags": [
+  "西班牙",
+  "火车事故",
+  "佩德罗·桑切斯",
+  "海外时政"
+ ],
+ "original_title": "Opinion | Another Train Wreck in Socialist Spain",
+ "lang": "en",
+ "published": "2026-10-30T21:13:00+00:00",
+ "created": "2026-10-31T09:38:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

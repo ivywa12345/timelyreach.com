@@ -1,0 +1,27 @@
+{
+ "key": "3d3e51cece",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/biotech/astrazeneca-partners-with-oracle-to-refine-clinical-research-with-ai-55cab932?mod=rss_Technology",
+ "title": "制药巨头也玩AI了！阿斯利康牵手甲骨文，准备怎么改变医学研究？",
+ "summary": "阿斯利康与甲骨文达成合作，利用人工智能技术优化临床研究，这是医药行业拥抱AI技术的又一最新案例。",
+ "body": [
+  "制药巨头阿斯利康（AstraZeneca）最近有了新动作，他们正与科技巨头甲骨文（Oracle）联手，希望借助人工智能（AI）技术来改进临床研究。",
+  "这也是近年来医药行业加速拥抱AI技术的最新合作案例。随着AI在各行各业的普及，药企也希望能通过新技术来提升研发效率。",
+  "对于在海外关注医疗健康或从事相关行业的华人来说，医药巨头和科技巨头的强强联手，未来可能会加速新药的研发进程，让更多创新疗法更快地走入市场。"
+ ],
+ "tags": [
+  "阿斯利康",
+  "甲骨文",
+  "人工智能",
+  "医药研发",
+  "科技资讯"
+ ],
+ "original_title": "AstraZeneca Partners With Oracle to Refine Clinical Research With AI",
+ "lang": "en",
+ "published": "2026-10-20T06:10:00+00:00",
+ "created": "2026-10-31T09:39:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

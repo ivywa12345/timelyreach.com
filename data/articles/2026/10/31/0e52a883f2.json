@@ -1,0 +1,27 @@
+{
+ "key": "0e52a883f2",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-amazon-intel-earnings-spark-more-ai-selling-5670f50d?mod=rss_markets_main",
+ "title": "美股又跌了！亚马逊、英特尔财报踩雷，AI热潮这是要凉？",
+ "summary": "受亚马逊与英特尔最新财报表现不佳影响，美股科技股遭遇新一轮抛售，市场开始担忧AI板块是否会从回调演变成泡沫破裂。",
+ "body": [
+  "美股近日再次集体下跌，这回主要是因为亚马逊（Amazon）和英特尔（Intel）交出的财报让人大失所望。随着关于AI的抛售潮开始自我蔓延，投资者们现在不得不捏一把汗：这波科技股的回调，到底会不会变成一场投机泡沫的破裂？",
+  "根据《华尔街日报》报道，此前市场对人工智能（AI）寄予厚望，相关股票一路狂飙。但随着各大科技巨头接连发布财报，现实似乎并没有预期的那么美好，投资者开始冷静下来并选择抛售股票。",
+  "对于在美华人投资者来说，这波科技股的震荡直接关系到个人的投资组合和养老金账户。如果AI板块持续回调，大家在配置资产时可能需要更加谨慎，避免过度集中在高风险的科技股上。"
+ ],
+ "tags": [
+  "美股",
+  "人工智能",
+  "亚马逊",
+  "英特尔",
+  "财经热点"
+ ],
+ "original_title": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
+ "lang": "en",
+ "published": "2026-10-30T22:04:00+00:00",
+ "created": "2026-10-31T09:38:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

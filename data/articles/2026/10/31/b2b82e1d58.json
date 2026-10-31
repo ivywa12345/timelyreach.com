@@ -1,0 +1,26 @@
+{
+ "key": "b2b82e1d58",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/politics/do-you-remember-the-standout-quotes-of-the-midterms-take-our-quiz-44fa6de5?mod=rss_markets_main",
+ "title": "还记得中期选举的那些金句吗？《华尔街日报》出了个测试题，你能拿几分？",
+ "summary": "《华尔街日报》推出了一项关于中期选举金句的趣味测试，邀请读者将经典名言与对应的政治人物进行匹配，检验大家对今年选举新闻的关注度。",
+ "body": [
+  "如果你一直有关注今年中期选举（midterms）的新闻，对各种候选人的发言应该不陌生。《华尔街日报》（The Wall Street Journal）最近就整了个活，推出了一份趣味测试，看看大家能不能把那些流传甚广的“金句”和真正的主人公对上号。",
+  "这个由记者尼尔·梅塔（Neil Mehta）整理的测试，主要是为了考考读者在过去这一轮热闹的选举新闻周期里，到底记住了多少核心内容。不管你是政治迷还是随便扫一眼新闻的路人，都能在里面找点乐子。",
+  "对身在海外的华人来说，美国的各类选举结果和政客表态往往直接关系到税收、治安和经济走向。虽然这只是个小测试，但也提醒大家，平时多关注主流政治动向，才能更好地了解我们所处的社区和国家政策的变化。"
+ ],
+ "tags": [
+  "美国中期选举",
+  "华尔街日报",
+  "政治趣闻",
+  "海外生活"
+ ],
+ "original_title": "Do You Remember the Standout Quotes of the Midterms? Take Our Quiz",
+ "lang": "en",
+ "published": "2026-10-30T19:30:00+00:00",
+ "created": "2026-10-31T09:38:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

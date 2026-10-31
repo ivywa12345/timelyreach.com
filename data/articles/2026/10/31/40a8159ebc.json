@@ -1,0 +1,27 @@
+{
+ "key": "40a8159ebc",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/dermatology-biotech-bambusa-slides-7-after-168-9-million-ipo",
+ "title": "皮肤病生物医药新秀Bambusa上市首日破发，跌超6%！",
+ "summary": "专注皮肤病和自身免疫疾病的早期生物医药公司Bambusa Therapeutics在美成功IPO募资1.689亿美元，但上市首日股价下跌6.3%。",
+ "body": [
+  "近日，专注皮肤病与自身免疫性疾病的早期生物医药企业Bambusa Therapeutics Inc.在美国迎来了自己的IPO（首次公开募股），成功募资1.689亿美元。不过，资本市场的表现并没有那么给力，其股价在上市首日盘中下跌了6.3%。",
+  "作为一家主打皮肤病和自体免疫领域的早期生物医药公司，Bambusa这次IPO吸引了不少目光，总共揽获了近1.7亿美元的资金。然而，在当前的宏观经济环境下，投资者对早期生物医药股的态度依然较为谨慎，上市首日“破发”也反映出市场对于这类高风险、长周期研发企业的观望情绪。",
+  "对于关注美股医药板块的华人投资者来说，这类生物医药股向来波动较大，虽然募资额可观，但早期研发的不确定性高，入场时需要格外留意风险和资金回报周期。"
+ ],
+ "tags": [
+  "美股IPO",
+  "生物医药",
+  "Bambusa",
+  "华人投资",
+  "破发"
+ ],
+ "original_title": "Dermatology Biotech Bambusa Dips 6.3% After $168.9 Million IPO",
+ "lang": "en",
+ "published": "2026-10-30T15:37:00+00:00",
+ "created": "2026-10-31T09:39:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

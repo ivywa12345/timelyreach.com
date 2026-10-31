@@ -1,0 +1,26 @@
+{
+ "key": "0726b09988",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+ "title": "英特尔业绩暴露两大危机，连累AMD股价也跟着大跌？",
+ "summary": "英特尔因AI服务器芯片产能不足及PC市场疲软陷入困境，引发投资者对竞争对手AMD是否也面临相同问题的担忧，导致AMD股价下滑。",
+ "body": [
+  "芯片巨头英特尔（Intel）最近的日子不太好过，不仅人工智慧（AI）服务器芯片产能跟不上，个人电脑（PC）市场也相当疲软。受此影响，同行的日子也悬了。",
+  "市场很快就会揭晓，英特尔遇到的这些麻烦，老对手AMD（Advanced Micro Devices）是不是也同样躲不过。投资者们正密切关注AMD是否也会受到这些行业痛点的波及。"
+ ],
+ "tags": [
+  "AMD",
+  "英特尔",
+  "芯片",
+  "美股",
+  "人工智能"
+ ],
+ "original_title": "AMD’s stock slides after Intel earnings reveal two big issues",
+ "lang": "en",
+ "published": "2026-10-30T20:28:00+00:00",
+ "created": "2026-10-31T09:41:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

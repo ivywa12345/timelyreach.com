@@ -1,0 +1,26 @@
+{
+ "key": "52f1eb9328",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/washington-post-questions-accuracy-of-washington-post-poll-45cf8f3f?mod=rss_opinion",
+ "title": "华盛顿邮报自己质疑自己的民调？主编们到底是怎么想的",
+ "summary": "《华盛顿邮报》近期发表了一篇质疑自家民调准确性的文章，引发外界关注。这也让读者不禁纳闷：为什么编辑们会选择发表他们自己都不相信的民调结果呢？",
+ "body": [
+  "近日，《华盛顿邮报》（The Washington Post）刊发了一篇由詹姆斯·弗里曼（James Freeman）撰写的文章，标题直指该报的痛点——《华盛顿邮报》质疑《华盛顿邮报》民调的准确性（Washington Post Questions Accuracy of Washington Post Poll）。",
+  "这篇报道的核心疑问非常直接：为什么各大媒体的编辑们，有时会把他们自己心里都没底、甚至不相信的民调数据拿出来公开发布？",
+  "对于关注美国政治动向和主流媒体公信力的海外华人来说，这也提醒我们在看各类民调数据时，不妨多留一个心眼，不必把媒体的统计结果奉为圭臬。"
+ ],
+ "tags": [
+  "华盛顿邮报",
+  "民调",
+  "美国媒体",
+  "新闻公信力"
+ ],
+ "original_title": "Washington Post Questions Accuracy of Washington Post Poll",
+ "lang": "en",
+ "published": "2026-10-30T21:29:00+00:00",
+ "created": "2026-10-31T09:39:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,24 @@
+{
+ "key": "205b5c1927",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+ "title": "美联储解除对俄克拉荷马州这家银行的监管处罚，警报终于解除了？",
+ "summary": "美联储于2026年9月宣布，正式终止对俄克拉荷马州SNB Bancshares及其旗下的尤福拉银行（Bank of Eufaula）的执法行动。",
+ "body": [
+  "美联储（Federal Reserve Board）在周五发布公告称，已经正式解除了对俄克拉荷马州尤福拉（Eufaula）的 SNB Bancshares, Inc. 以及 Bank of Eufaula 的执法行动。",
+  "这起原本在2024年8月7日签署的监管协议，在经过两年多的整改后，终于在2026年9月3日正式画上句号。这意味着该银行已经达到了美联储的合规要求，摘掉了违规的帽子。"
+ ],
+ "tags": [
+  "美联储",
+  "银行监管",
+  "财经快讯"
+ ],
+ "original_title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+ "lang": "en",
+ "published": "2026-09-18T15:00:00+00:00",
+ "created": "2026-10-31T09:41:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

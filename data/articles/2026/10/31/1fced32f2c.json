@@ -1,0 +1,25 @@
+{
+ "key": "1fced32f2c",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/france-germany-and-italy-brace-for-protests-as-dissent-spreads",
+ "title": "欧洲又要乱！生活成本飙升，法德意周末爆发大规模抗议",
+ "summary": "由于对高昂生活成本和政府政策强烈不满，法国、德国和意大利的多个城市在周六迎来大规模抗议示威活动，数千名民众走上街头。",
+ "body": [
+  "据彭博社报道，法国、德国和意大利的城市正严阵以待，准备迎接周六爆发的大规模游行示威。预计将有数千名民众走上街头，抗议不断上涨的生活成本以及对欧洲各国政府的各种不满。",
+  "近期，欧洲通胀高企，日常生活开支让普通老百姓感到压力山大，民怨持续累积，最终导致了此次集中爆发的抗议浪潮。"
+ ],
+ "tags": [
+  "欧洲新闻",
+  "生活成本",
+  "通货膨胀",
+  "抗议示威"
+ ],
+ "original_title": "Europe Braces for More Protests as Cost-of-Living Anger Grows",
+ "lang": "en",
+ "published": "2026-10-30T10:02:26+00:00",
+ "created": "2026-10-31T09:40:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

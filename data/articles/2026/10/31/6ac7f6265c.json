@@ -1,0 +1,28 @@
+{
+ "key": "6ac7f6265c",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/political/operation-ghostbusters-exposes-kenyan-student-loan-scam",
+ "title": "美国爆出惊天留学生贷款骗局！2亿美元纳税钱被“幽灵学生”转走",
+ "summary": "美国司法部近日宣布破获一起针对联邦大学助学金的跨国欺诈案，代号为“捉鬼行动”（Operation Ghostbusters）。骗子利用美国公民的被盗身份注册“幽灵学生”并申请助学贷款，已卷走至少2亿美元纳税人资金，目前已有5名嫌疑人落网。",
+ "body": [
+  "美国司法部（Department of Justice）近日召开新闻发布会，助理总检察长科林·M·麦克唐纳（Colin M. McDonald）详细通报了一起代号为“捉鬼行动”（Operation Ghostbusters）的重大欺诈案。这场由联邦调查局（FBI）里士满野外办事处和教育部监察长办公室联手展开的调查，揭露了一条长期利用美国高校贷款项目的黑产链条。",
+  "据司法部透露，这起自2021年起就开始运作的骗局手法十分隐蔽：犯罪分子盗用或使用从未上过大学的美国公民的个人信息，伪造联邦学生援助（FAFSA）账户。随后，他们在各大高校（尤其是网课项目）注册虚构的“幽灵学生”，以此骗取联邦补助金和贷款，并转入他们控制的银行账户。目前，执法部门已标记了大约830,840个潜在的虚假FSA账户，FBI在2026年正推进40多起未结案件，估计至少有2亿美元的美国纳税人资金被这些虚假学生贷款分流。",
+  "在被查获的嫌疑人中，包括两名自2024年起居住在美国的肯尼亚公民弗朗西斯·莫甘比（Francis Mogambi）以及弗吉尼亚州的一名未具名嫌疑人。官员认为他们只是肯尼亚庞大跨国诈骗网络的一部分。被盗资金通过美国的“现金信使”（money mules）和加密货币账户源源不断地输送回肯尼亚。目前落网的三名“现金信使”名字分别为马贝德·帕特里夏·乌塔特-阿尔贝托（Mabed Patricia Utate-Alberto）、帕特里夏·阿里斯雷迪·佩雷斯（Patricia Arisleydi Perez）和乔治·阿图罗·阿尔法乌·门德斯（George Arturo Alfau Mendez）。",
+  "这起案件让许多在美华人感到震惊，纳税人的血汗钱竟然被如此轻易地通过漏洞百出的助学系统洗劫。这也再次引发了公众对美国移民甄别、资金监管以及漏洞防范的强烈担忧，暴露出公共福利体系在面对有组织的跨国欺诈时显得极度脆弱。"
+ ],
+ "tags": [
+  "美国新闻",
+  "助学贷款骗局",
+  "司法部",
+  "捉鬼行动",
+  "身份盗窃"
+ ],
+ "original_title": "\"Operation Ghostbusters\" Exposes Kenyan Student Loan Scam",
+ "lang": "en",
+ "published": "2026-10-31T03:00:00+00:00",
+ "created": "2026-10-31T09:40:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

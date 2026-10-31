@@ -1,0 +1,27 @@
+{
+ "key": "d96a2cb6d7",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/ai-selloff-deepens-oil-jumps-and-crypto-falls-4703d21b?mod=rss_markets_main",
+ "title": "科技股跌惨了！亚马逊英特尔财报引爆抛售潮，纳斯达克迎一年来最惨淡月份",
+ "summary": "由于亚马逊和英特尔的最新财报加剧了市场对人工智能（AI）板块投资回报的担忧，科技股抛售潮进一步升级，纳斯达克指数正走向一年多来表现最差的一个月。",
+ "body": [
+  "各位留学生和北美打工人注意了，最近科技股的日子是真不好过。根据《华尔街日报》报道，随着亚马逊（Amazon）和英特尔（Intel）交出的成绩单让市场大失所望，大家对AI概念股能不能赚到钱的焦虑情绪彻底爆发，引发了一场更猛烈的科技股抛售狂潮。",
+  "受此拖累，纳斯达克综合指数目前正在经历一年多以来最糟糕的一个月。此前，整个科技板块靠着AI的热潮一路狂飙，但现在投资者开始冷静下来，重新审视巨头们在AI领域的巨额投入到底什么时候能转化为真金白银。",
+  "对于咱们海外华人来说，科技股大跌不仅直接影响到很多人的股票账户和401(k)退休金，也让不少在科技大厂上班的朋友开始担心起公司的股价和未来的职业发展。接下来的市场走向如何，还得看各大巨头能不能用实打实的利润来给投资者吃定心丸。"
+ ],
+ "tags": [
+  "科技股",
+  "纳斯达克",
+  "亚马逊",
+  "英特尔",
+  "人工智能"
+ ],
+ "original_title": "Deepening Tech Selloff Pushes Nasdaq Toward Its Worst Month in Over a Year",
+ "lang": "en",
+ "published": "2026-10-30T19:25:00+00:00",
+ "created": "2026-10-31T09:38:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

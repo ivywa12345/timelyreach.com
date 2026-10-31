@@ -1,0 +1,25 @@
+{
+ "key": "3a2750f892",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/poland-moves-against-top-court-in-a-showdown-with-the-opposition",
+ "title": "波兰最高法院斗争急剧升级！总统急召各党派：再这么搞要出大乱子",
+ "summary": "波兰总统卡罗尔·纳夫罗茨基（Karol Nawrocki）呼吁与议会各党派进行紧急磋商，试图“恢复宪法秩序”，因为该国最高法院不断升级的对峙局面恐引发政治危机。",
+ "body": [
+  "波兰政坛最近不太平，最高法院的对峙已经到了剑拔弩张的地步。据彭博社报道，波兰总统卡罗尔·纳夫罗茨基（Karol Nawrocki）坐不住了，紧急呼吁议会各党派坐下来谈谈，想赶紧把“宪法秩序”恢复过来，以免引发一场更大的政治危机。",
+  "这场风波的起因是波兰最高法院内部日益激化的对峙。纳夫罗茨基认为，当前的局势已经威胁到了国家的政治稳定，必须通过跨党派的协商来化解矛盾。"
+ ],
+ "tags": [
+  "波兰",
+  "政治危机",
+  "最高法院",
+  "国际新闻"
+ ],
+ "original_title": "Polish President Seeks Urgent Talks as Court Stand-Off Escalates",
+ "lang": "en",
+ "published": "2026-10-30T20:33:34+00:00",
+ "created": "2026-10-31T09:40:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
