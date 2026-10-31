@@ -1,0 +1,26 @@
+{
+ "key": "0443f755b2",
+ "board": "hot",
+ "source_id": "wsj-lifestyle",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/personal-tech/home-security-cameras-paranormal-activity-0eb3862f?mod=rss_lifestyle",
+ "title": "家门口装监控，到底是求心安还是自己吓自己？",
+ "summary": "家用安全摄像头本是为了防范犯罪、求得安心，但华尔街日报的一篇报道指出，它们也常常拍到一些莫名其妙甚至让人吓出一身冷汗的画面。",
+ "body": [
+  "家里装了摄像头本来是为了防小偷、保平安，但根据《华尔街日报》专栏作家朱莉·贾根（Julie Jargon）的报道，这些设备有时反而成了“惊悚片”制造机。",
+  "一方面，这些摄像头确实能提供心理安慰，甚至在关键时刻阻止犯罪；但另一方面，它们也经常拍下许多无法解释、甚至让人毛骨悚然的画面，带来不必要的惊吓。",
+  "对于在海外注重居家安全的华人来说，安防设备虽然必不可少，但如何面对误报和那些深夜弹出的诡异通知，也成了一种新的心理考验。"
+ ],
+ "tags": [
+  "家居安全",
+  "智能摄像头",
+  "生活方式",
+  "海外生活"
+ ],
+ "original_title": "Do Security Cameras Make Us Feel Safer or Give Us Unnecessary Frights?",
+ "lang": "en",
+ "published": "2026-10-31T13:00:00+00:00",
+ "created": "2026-10-31T16:07:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

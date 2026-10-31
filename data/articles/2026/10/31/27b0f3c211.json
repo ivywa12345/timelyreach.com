@@ -1,0 +1,27 @@
+{
+ "key": "27b0f3c211",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/marylands-cautionary-preview-of-medicare-for-all-78c45ad4?mod=rss_opinion",
+ "title": "“全民医保”长啥样？马里兰州这回给全美当了回小白鼠",
+ "summary": "马里兰州尝试对医院收入实行总额预算包干，结果却引发了医院少收病人的反向激励问题，这为全美推行全民医保敲响了警钟。",
+ "body": [
+  "最近华尔街日报刊登了一篇评论文章，作者克里斯·波普（Chris Pope）拿马里兰州的医疗改革做例子，揭示了“全民医保”（Medicare for All）潜在的风险。简单来说，就是如果给医院的收入设上限、实行总额预算包干，医院反而更有动力少接待病人，从而省下成本。",
+  "长期以来，医疗改革一直是美国社会的焦点议题。支持者希望通过政府统筹来降低看病贵的问题，但反对声音认为，这种一刀切的财政干预会扭曲医疗机构的正常运营。马里兰州的这次实践表明，当医院的财政收入不再直接挂钩看病数量时，服务质量和效率可能会大打折扣。",
+  "对于咱们海外华人来说，看病一直是生活中的大事，无论是买商业保险还是未来指望联邦医保，医疗政策的风吹草动直接关系到咱的钱包和就医体验。这种政策实验后续会如何发展，咱们还得持续关注。"
+ ],
+ "tags": [
+  "美国医疗",
+  "全民医保",
+  "马里兰州",
+  "海外生活",
+  "华人关注"
+ ],
+ "original_title": "Maryland’s Cautionary Preview of ‘Medicare for All’",
+ "lang": "en",
+ "published": "2026-10-30T21:14:00+00:00",
+ "created": "2026-10-31T16:07:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

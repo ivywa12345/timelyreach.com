@@ -1,0 +1,27 @@
+{
+ "key": "0cdfdd92ce",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/politics/elections/prediction-markets-keep-whiffing-on-elections-will-they-miss-on-the-midterms-9809c8c9?mod=rss_markets_main",
+ "title": "预测市场又双叒叕翻车了？2026年中期选举还能信吗！",
+ "summary": "近期巴西、塞尔维亚和威斯康星州的选举结果接连爆冷，让号称用真金白银预测未来的“预测市场”再次大跌眼镜，引发外界对其准确性的强烈质疑。",
+ "body": [
+  "最近这几场选举，可以说是狠狠打了“预测市场（Prediction Markets）”的脸。从巴西、塞尔维亚一直到威斯康星州（Wisconsin），原本被市场普遍看好的热门人选接连翻车，反而是那些不被看好的“黑马”冷门胜出。",
+  "长期以来，支持者们吹捧预测市场比传统民调更靠谱，因为大家是拿真金白银下注的。但现实却一次次证明，这些平台和民调一样，同样存在严重的盲区和失误，关键时刻经常“掉链子”。",
+  "对于咱们海外华人来说，无论是看美国大选还是地方中期选举，各种民调和预测数据满天飞。下次再看到某些预测平台信誓旦旦的结果时，真得保持个心眼，千万别盲目跟风当真了。"
+ ],
+ "tags": [
+  "预测市场",
+  "选举民调",
+  "海外华人",
+  "美国大选",
+  "新闻热点"
+ ],
+ "original_title": "Prediction Markets Keep Whiffing on Elections. Will They Miss on the Midterms?",
+ "lang": "en",
+ "published": "2026-10-31T14:00:00+00:00",
+ "created": "2026-10-31T16:06:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

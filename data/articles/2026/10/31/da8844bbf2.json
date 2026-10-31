@@ -1,0 +1,29 @@
+{
+ "key": "da8844bbf2",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+ "title": "造车新老势力拼了！福特、Rivian全面引入3D打印，省钱还提速？",
+ "summary": "福特、Rivian和通用汽车等车企正在大规模应用3D打印技术，用来制造汽车原型、工厂工具和少量零部件，以达到降低成本和加快生产速度的目的。",
+ "body": [
+  "底特律的车企巨头们正在悄悄改变造车方式！包括福特汽车（Ford Motor）和造车新势力Rivian Automotive在内，越来越多的车企开始大举推行3D打印技术（又称增材制造）。这项技术虽然存在了几十年，但现在正变得越来越实用，从车身零部件、内饰配件，到组装厂的工具甚至是研发实验室的测试单元，都可以用3D打印机搞定。",
+  "Rivian的增材制造负责人杰瑞德·贝克（Jared Beck）在底特律郊外接受采访时表示，Rivian已经在这方面砸了超过500万美元买设备，每年的材料费也达到了约170万美元。虽然前期投入不小，但这些机器通常能在一年内通过省下的供应商模具费、物流费和生产时间把本钱赚回来。Rivian甚至在伊利诺伊州的工厂设立了专门区域，让员工可以按需打印零件，把原本需要几周的零件制作缩短到几天甚至几小时。",
+  "与此同时，底特律的传统车企福特和通用汽车（General Motors）也在快马加鞭。福特在许多工厂设立了增材制造部门，甚至在密歇根州总部附近为F-150皮卡生产线搞了一个3D打印零件“自动售货机”，员工可以通过APP申请打印特定的工具和零件。福特机械工程师格雷戈里·福雷西（Gregory Foresi）表示，这不仅降低了成本，还能在供应商零部件短缺时代替上阵，保持工厂不间断运转。福特预计今年底前将在23个以上的工厂部署3D打印实验室。",
+  "通用汽车则将3D打印用在高端和限量车型上，比如为凯迪拉克Celestiq（Cadillac Celestiq）定制了135个3D打印组件，还为凯迪拉克Blackwing（Cadillac Blackwing）轿车制作了手动挡把上的独特徽章。随着3D打印材料性能的大幅提升，车企们正让这项技术变得更快、更平民化，从而在激烈的汽车市场中进一步压缩成本和提高效率。"
+ ],
+ "tags": [
+  "汽车工业",
+  "3D打印",
+  "福特",
+  "Rivian",
+  "通用汽车",
+  "黑科技"
+ ],
+ "original_title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
+ "lang": "en",
+ "published": "2026-10-31T12:00:01+00:00",
+ "created": "2026-10-31T16:09:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

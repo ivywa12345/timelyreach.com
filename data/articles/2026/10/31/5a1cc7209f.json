@@ -1,0 +1,26 @@
+{
+ "key": "5a1cc7209f",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-31/us-midterm-candidates-tap-rare-bipartisan-issue-credit-card-rates",
+ "title": "信用卡利息太高？美国两党候选人这回终于意见一致了",
+ "summary": "美国国会控制权争夺激烈，民主、共和两党候选人罕见地在信用卡高利率问题上达成一致，借此吸引受通胀困扰的选民。",
+ "body": [
+  "眼看着国会控制权的争夺战进入白热化，民主党和共和党这两个平时吵个不停的冤家，最近居然在一个问题上出奇地一致——那就是老百姓手里越来越沉重的信用卡债务。",
+  "根据彭博社（Bloomberg）的报道，随着通胀压力让美国人喘不过气来，两党候选人纷纷抓住选民对信用卡利率高企的不满情绪，将其作为拉拢选票的重要抓手。",
+  "对咱们在美华人来说，平时日常消费、维持现金流少不了用信用卡。如果两党真的为了选票在信用卡利率上做文章，说不定能推动一些有利于减轻债务负担的政策出台。不过具体会有什么实际动作，还得看接下来两党候选人的博弈。"
+ ],
+ "tags": [
+  "美国大选",
+  "信用卡利率",
+  "通胀",
+  "海外华人生活"
+ ],
+ "original_title": "US Midterm Candidates Tap Rare Bipartisan Issue: Credit Card Rates",
+ "lang": "en",
+ "published": "2026-10-31T15:00:00+00:00",
+ "created": "2026-10-31T16:07:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

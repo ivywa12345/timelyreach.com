@@ -1,0 +1,25 @@
+{
+ "key": "3902977cae",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-31/senegal-lawmakers-reject-budget-again-putting-imf-deal-at-risk",
+ "title": "塞内加尔议会又双叒否决预算案！IMF救命钱要黄？",
+ "summary": "塞内加尔议会再次否决了政府修改后的2026年财政预算案，导致政府与议会的僵局持续，并可能危及国际货币基金组织（IMF）关键项目的审批。",
+ "body": [
+  "塞内加尔政坛最近可以说是焦头烂额。据彭博社报道，塞内加尔议会近日再次投票，直接否决了政府提交的修改版2026年财政法案（Finance Law）。这已经不是两边第一次闹僵了，这场持续的政治对峙不仅让政府头大，更直接威胁到了该国与国际货币基金组织（IMF）一项至关重要的经济援助项目的审批进度。",
+  "对于正指望这笔IMF资金来稳定经济的塞内加尔来说，预算案接连被否无疑是个雪上加霜的坏消息。如果IMF的项目因为财政僵局迟迟无法通过，不仅对当地经济发展产生负面影响，也可能给在当地投资或开展业务的国际资本带来更多不确定性。"
+ ],
+ "tags": [
+  "塞内加尔",
+  "IMF",
+  "财政预算",
+  "国际财经"
+ ],
+ "original_title": "Senegal Lawmakers Reject Budget Again, Putting IMF Deal at Risk",
+ "lang": "en",
+ "published": "2026-10-31T12:27:56+00:00",
+ "created": "2026-10-31T16:08:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

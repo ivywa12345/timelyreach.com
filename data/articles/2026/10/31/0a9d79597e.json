@@ -1,0 +1,27 @@
+{
+ "key": "0a9d79597e",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-31/why-kalshi-polymarket-odds-don-t-mimic-midterm-elections-2026-polls",
+ "title": "预测市场和民调怎么老打架？2026年中期选举的数字到底听谁的！",
+ "summary": "预测市场Kalshi和Polymarket的数据经常和传统民调对不上，但这其实只是看待同一局面的两种不同方式。",
+ "body": [
+  "最近大家看新闻可能会发现一个怪现象：像Kalshi和Polymarket这样的预测市场，开出的赔率和传统的民调结果老是对不上，让人一头雾水，不知道到底该信哪个。",
+  "不过，彭博社（Bloomberg）的分析指出，这看似矛盾的数字背后，其实并不奇怪。预测市场和民调本质上只是捕捉选情全貌的两种不同方法，侧重点各不相同，因此产生差异也很正常。",
+  "对于咱们在美华人来说，不管是看民调还是看预测市场的赔率，都只能当成了解政治风向的参考，千万别全盘押注。毕竟不管是哪个数据，最后影响的还是咱们的钱包、税收和实际生活。"
+ ],
+ "tags": [
+  "美国政治",
+  "中期选举",
+  "预测市场",
+  "民调",
+  "海外华人"
+ ],
+ "original_title": "Why Kalshi, Polymarket Odds Don't Mimic Midterm Elections 2026 Polls",
+ "lang": "en",
+ "published": "2026-10-31T15:00:12+00:00",
+ "created": "2026-10-31T16:08:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "d210b851b9",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse",
+ "title": "AI热潮正在降温？科技巨头财报让华尔街更慌了",
+ "summary": "过去两周本该为动荡的股市带来一些清晰方向，尤其是缓解市场对人工智能巨额开支的担忧，但科技巨头们的最新财报却适得其反，让AI热潮的降温趋势雪上加霜。",
+ "body": [
+  "过去两周本该是股市的“定心丸”，面对各种市场风险和对人工智能（AI）巨额烧钱的重重疑虑，投资者本指望通过科技巨头的财报来寻找方向。然而据彭博社报道，各大科技巨头的最新财报出炉后，非但没能打消疑虑，反而让市场对AI的狂热情绪进一步崩塌。",
+  "这段时间以来，华尔街一直在盘算科技公司在AI领域的庞大支出到底能不能回本。随着财报季的推进，这种担忧非但没有减少，反而因为巨头们持续砸钱而变得更加严重，直接加剧了股市的动荡表现。",
+  "对于关注美股和科技股的海外华人来说，AI板块一直是近几年投资的热点。这次财报反映出的悲观情绪和市场对巨额投入的质疑，可能会直接影响科技股的走势，大家的投资钱包和资产配置或许又要迎来一波心跳考验了。"
+ ],
+ "tags": [
+  "人工智能",
+  "美股",
+  "科技巨头",
+  "财报",
+  "投资理财"
+ ],
+ "original_title": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse",
+ "lang": "en",
+ "published": "2026-10-31T13:00:00+00:00",
+ "created": "2026-10-31T16:07:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "541b1083c3",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?mod=rss_Technology",
+ "title": "华尔街开始对AI基建“卡脖子”了？金主爸爸们要开始精打细算！",
+ "summary": "随着美国人工智能（AI）基础设施建设进入新阶段，华尔街的贷款机构和投资者开始变得更加挑剔，并对相关投资提出了更严格的条款要求。",
+ "body": [
+  "据《华尔街日报》报道（作者 Robbie Whelan），美国正迎来轰轰烈烈的AI大开发，但华尔街的态度却悄悄发生了变化。过去那种拿着钱闭着眼睛往AI项目上砸的日子可能要变了，现在贷款机构和投资者们开始“挑食”，对投出去的每一笔钱有了更多的要求和限制。",
+  "作为这一浪潮的幕后推手，华尔街开始收紧钱袋子，意味着AI基建项目正进入一个更加看重回报和风险控制的新阶段。金主们不再只听概念，而是要求更严格的合同条款，确保资金能用到刀刃上，这也给狂热的AI投资泼了一盆理性的冷水。",
+  "对于关注科技股和美国经济的海外华人来说，华尔街对AI融资收紧，可能会让科技巨头和初创企业在烧钱时更加谨慎，间接影响到相关的股市表现和科技行业的就业风向，值得咱们持续关注。"
+ ],
+ "tags": [
+  "华尔街",
+  "人工智能",
+  "科技投资",
+  "海外财经"
+ ],
+ "original_title": "Wall Street Is Starting to Call the Shots in America’s AI Build-Out",
+ "lang": "en",
+ "published": "2026-10-31T03:00:00+00:00",
+ "created": "2026-10-31T16:07:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
