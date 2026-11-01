@@ -1,0 +1,26 @@
+{
+ "key": "e8353828e6",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/westpac-profit-misses-estimates-ceo-says-economy-uncertain",
+ "title": "利润没达到预期，澳洲西太平洋银行CEO的薪水却暴涨到这个数？",
+ "summary": "西太平洋银行首席执行官安东尼·米勒的薪酬飙升至750万澳元（约合530万美元），尽管该银行的利润不及分析师预期，并对澳大利亚经济前景发出警告。",
+ "body": [
+  "根据彭博社报道，澳大利亚西太平洋银行（Westpac Banking Corp.）首席执行官安东尼·米勒（Anthony Miller）的薪酬大幅上涨，总额达到了750万澳元（约合530万美元）。",
+  "然而，这一薪酬上涨的背景却有些尴尬：该银行的最新利润表现未达分析师预期，同时管理层也对澳大利亚未来的经济走向表达了不确定性，发出了谨慎的信号。",
+  "对于关注海外经济和金融市场的华人朋友来说，大企业高管在业绩不及预期时薪酬依旧大涨，再次引发了人们对企业薪酬合理性以及经济大环境的讨论。"
+ ],
+ "tags": [
+  "西太平洋银行",
+  "高管薪酬",
+  "澳大利亚经济",
+  "金融新闻"
+ ],
+ "original_title": "Westpac CEO’s Pay Surges, Profit Misses Analyst Estimates",
+ "lang": "en",
+ "published": "2026-11-01T20:41:10+00:00",
+ "created": "2026-11-01T22:51:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

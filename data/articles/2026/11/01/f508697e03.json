@@ -1,0 +1,27 @@
+{
+ "key": "f508697e03",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
+ "title": "大厂和银行急了！集体封杀AI代购和理财助手，在美华人还能愉快省钱吗？",
+ "summary": "亚马逊、摩根大通等巨头正联手封杀Meta Muse等AI个人代理，引发行业对“AI代购”未来的激烈辩论。专家指出，虽然AI存在安全风险，但从长远来看，阻挡减少摩擦的科技很难获胜。",
+ "body": [
+  "最近，亚马逊（Amazon）、摩根大通（JPMorgan Chase）等美国零售和金融巨头坐不住了，纷纷出手封杀像Meta Muse这样的AI个人代理。原因是消费者正开始让这些AI帮自己找更高利率的储蓄、比价抢折扣甚至取消订阅。",
+  "面对AI代理的崛起，各大企业态度分裂。摩根大通CEO杰米·戴蒙（Jamie Dimon）表示，出于安全风险，该行目前禁止外部AI代理代表零售客户进行操作。亚马逊、尼曼（Neiman Marcus）和科尔士（Kohl's）等零售商也明确限制AI代理。不过，沃尔玛（Walmart）则持开放态度，宣布欢迎客户使用AI代理在官网购物，价格和人类看到的一样。咨询公司埃森哲（Accenture）的专家迈克尔·阿博特（Michael Abbott）指出，从长远来看，阻止能减少摩擦、帮客户省时省力的科技，企业是很难赢的，历史已经证明了这一点——从网银到手机银行，最后胜出的都是拥抱便利的机构。",
+  "对于在美华人来说，这类AI工具本来是薅羊毛、找折扣和管理账户的好帮手，但目前各路大厂和银行正以“防范欺诈、保护数据安全”为由筑起高墙。例如，摩根大通对聚合平台收费，亚马逊也要求Meta将亚马逊从其AI体验中移除。Visa支付网络风险控制负责人迈克尔·贾巴拉（Michael Jabbara）也警告称，AI代理确实存在真实的安全和欺诈风险，比如被骗子利用或行为不可预测。不过业内人士指出，巨头们防范的不仅是安全，更是谁来掌握客户数据和流量的控制权。"
+ ],
+ "tags": [
+  "AI代理",
+  "亚马逊",
+  "摩根大通",
+  "在美生活",
+  "消费理财"
+ ],
+ "original_title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
+ "lang": "en",
+ "published": "2026-11-01T16:34:43+00:00",
+ "created": "2026-11-01T22:53:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "d1c8f85787",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/united-states/2026/11/01/an-unfolding-disaster-in-alaska-could-cost-democrats-the-senate",
+ "title": "阿拉斯加正在上演的一场“选举闹剧”，可能让民主党丢掉参议院？",
+ "summary": "经济学人报道称，阿拉斯加州正在成为选举诡计的中心，这场不断发酵的政治危机可能会对民主党在参议院的席位控制产生重大影响。",
+ "body": [
+  "最近，阿拉斯加州（Alaska）的一场选举风波引起了《经济学人》（The Economist）的关注。该州已经成了各种选举诡计的爆发中心，局势的发展正朝着对民主党不利的方向演变。",
+  "从目前的情况来看，这场政治风暴不仅关乎当地的选举结果，更直接牵动着国会山的安全。如果民主党在这一关键阵地失守，很可能会直接导致他们在参议院失去多数党地位，进而影响未来法案的通过和政府的施政。",
+  "对于远在海外的华人来说，美国国会力量的洗牌往往会直接影响到税收、经济政策以及各项民生法案的走向。这场阿拉斯加的选战究竟会走向何方，值得我们持续关注。"
+ ],
+ "tags": [
+  "美国政治",
+  "民主党",
+  "参议院",
+  "阿拉斯加",
+  "大选局势"
+ ],
+ "original_title": "An unfolding disaster in Alaska could cost Democrats the Senate",
+ "lang": "en",
+ "published": "2026-11-01T17:01:47+00:00",
+ "created": "2026-11-01T22:51:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

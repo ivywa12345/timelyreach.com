@@ -1,0 +1,27 @@
+{
+ "key": "2ab5549756",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
+ "title": "AI黑客疯狂搞破坏，大模型公司却想趁机大赚一笔？",
+ "summary": "黑客正利用人工智能疯狂发起攻击，而OpenAI和Anthropic等AI巨头却从中看到了巨大的网络安全商机。",
+ "body": [
+  "黑客现在正借助人工智能（AI）疯狂搞破坏，而讽刺的是，AI的创造者们却打算从这个混乱中狠狠捞上一笔。近期，OpenAI和Anthropic这两家大模型巨头，都敏锐地嗅到了网络安全领域的巨大商机。",
+  "一方面，网络犯罪分子利用AI技术让攻击手段变得更加隐蔽和高效；另一方面，AI公司则试图将自家的技术标榜为防御利器，向企业和机构兜售安全解决方案，从而开辟新的变现渠道。",
+  "对于身处海外的我们来说，网络安全不仅是科技公司的博弈，也直接关系到每个人的个人信息和财产安全。随着AI对抗升级，未来的网络环境可能会变得更加复杂，如何保护好自己的数字资产将是一个长期课题。"
+ ],
+ "tags": [
+  "人工智能",
+  "网络安全",
+  "OpenAI",
+  "Anthropic",
+  "黑客攻击"
+ ],
+ "original_title": "Hackers are running riot with AI. Its makers want to cash in",
+ "lang": "en",
+ "published": "2026-11-01T21:41:42+00:00",
+ "created": "2026-11-01T22:51:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

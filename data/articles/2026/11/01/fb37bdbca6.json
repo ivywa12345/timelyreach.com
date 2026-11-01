@@ -1,0 +1,27 @@
+{
+ "key": "fb37bdbca6",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
+ "title": "美股科技股大跌带崩亚洲股市？AI泡沫要破了还是技术性调整？",
+ "summary": "受上周五华尔街科技股重挫拖累，亚洲股市周一开盘面临下跌压力，市场对人工智能（AI）热潮是否过热的担忧进一步加剧。",
+ "body": [
+  "上周五华尔街遭遇了一场猛烈的抛售潮，科技股领跌。受此影响，亚洲股市开盘走低，投资者开始重新审视这波来势汹汹的人工智能（AI）热潮，担心股价是不是涨得太快、太离谱了。",
+  "近期，全球市场对AI概念的追捧让相关科技股屡创新高，但随着抛售潮的出现，市场情绪明显转向谨慎。分析指出，投资者开始冷静下来，评估高额的AI投入究竟什么时候能真正转化为真金白银的回报。",
+  "对于海外华人投资者来说，科技股和AI板块的剧烈波动直接关乎大家的投资账户和退休金。近期盯紧美股和全球市场的动向，控制好仓位，避免被情绪化的暴涨暴跌割了韭菜。"
+ ],
+ "tags": [
+  "亚洲股市",
+  "美股",
+  "人工智能",
+  "科技股",
+  "海外投资"
+ ],
+ "original_title": "Asian Stocks to Fall as Tech Rout Fuels AI Fears: Markets Wrap",
+ "lang": "en",
+ "published": "2026-11-01T21:28:04+00:00",
+ "created": "2026-11-01T22:51:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

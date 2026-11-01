@@ -1,0 +1,26 @@
+{
+ "key": "a87029312d",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
+ "title": "AI正在彻底改变选举！候选人不仅用来分析选民，还玩起了“阴招”？",
+ "summary": "根据《经济学人》报道，人工智能（AI）正在颠覆传统的政治竞选方式，候选人们不仅用它来处理海量数据，还用它来进行各种“脏套路”。",
+ "body": [
+  "说到今年大大小小的选举，AI绝对成了最强（也最让人头疼）的助选工具。根据《经济学人》的报道，现在的候选人不仅靠AI来分析海量选民数据，甚至还用它来搞各种“脏套路”。",
+  "从好的方面来看，AI能帮团队高效处理数据、精准定位选民。但从负面来看，这也让虚假信息和各种政治“黑客手段”变得比以往任何时候都更容易操作。",
+  "对于咱们海外华人来说，大选年的各种信息真假难辨，社交媒体上搞不好到处都是AI生成的内容。大家以后看新闻、刷视频可得擦亮眼睛，多留个心眼了。"
+ ],
+ "tags": [
+  "AI",
+  "政治竞选",
+  "海外生活",
+  "大选"
+ ],
+ "original_title": "AI is disrupting the art of campaigning",
+ "lang": "en",
+ "published": "2026-11-01T14:10:44+00:00",
+ "created": "2026-11-01T22:51:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "dcd0214706",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/ukraine-enlists-a-drone-for-a-pioneering-rescue-45749478?mod=rss_Technology",
+ "title": "电影都不敢这么拍！乌克兰受伤士兵用无人机吊运，跨越39英里成功逃生",
+ "summary": "乌克兰一名受伤士兵在危机四伏的交火区，利用六轴无人机的绞盘将自己固定，飞行了39英里安全撤离。",
+ "body": [
+  "最近战场上发生了一件堪称科幻电影的真实救援事件。根据《华尔街日报》专栏作家安娜·胡萨尔斯卡（Anna Husarska）的报道，一名身处“死亡地带”（kill zone）的乌克兰受伤士兵，竟然靠着一台六轴无人机（hexacopter）的绞盘设备，成功完成了长达39英里的惊险大撤离。",
+  "当时这名士兵负伤被困在危险区域，常规的地面救援极其困难。为了绝境求生，他将自己连接到一个六轴无人机的绞盘上，让这台无人机硬生生将他运送了39英里，最终脱离险境，创造了战场救援的新纪录。",
+  "这类前沿无人机技术的应用不仅改变了现代战争的形态，也展示了科技在极端环境下的救命潜力。"
+ ],
+ "tags": [
+  "乌克兰局势",
+  "无人机救援",
+  "军事科技",
+  "战场纪实"
+ ],
+ "original_title": "Opinion | Ukraine Enlists a Drone for a Pioneering Rescue",
+ "lang": "en",
+ "published": "2026-10-28T21:15:00+00:00",
+ "created": "2026-11-01T22:50:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

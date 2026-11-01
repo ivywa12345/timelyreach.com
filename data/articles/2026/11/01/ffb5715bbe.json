@@ -1,0 +1,26 @@
+{
+ "key": "ffb5715bbe",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/a-sports-bet-by-any-other-name-is-still-a-bet-c75ad5ff?mod=rss_markets_main",
+ "title": "不管叫什么名字，体育博弈就是赌博！美国商品期货交易委员会（CFTC）管得了吗？",
+ "summary": "《华尔街日报》发表评论指出，美国商品期货交易委员会（CFTC）既没有能力、也没有法定权力去监管博彩活动。",
+ "body": [
+  "最近围绕体育博弈和金融衍生品的界限引发了讨论。有观点认为，无论给它套上什么金融外衣，体育博弈本质上依然是博彩。",
+  "《华尔街日报》（The Wall Street Journal）刊文指出，美国商品期货交易委员会（CFTC）既不具备相应的监管专业能力，也没有法律赋予的权限来插手赌博行业的管理。",
+  "对于关注美国金融监管动向的海外华人来说，分清金融投资与纯粹博彩的界限十分重要，这不仅关系到相关新兴平台的合规性，也关乎投资者的资金安全。"
+ ],
+ "tags": [
+  "体育博弈",
+  "美国商品期货交易委员会",
+  "金融监管",
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | A Sports Bet by Any Other Name Is Still a Bet",
+ "lang": "en",
+ "published": "2026-11-01T16:32:00+00:00",
+ "created": "2026-11-01T22:50:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

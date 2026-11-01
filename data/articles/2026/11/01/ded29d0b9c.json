@@ -1,0 +1,27 @@
+{
+ "key": "ded29d0b9c",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/canada-and-us-to-outline-trade-plan-in-coming-weeks-carney-says",
+ "title": "美加贸易协议快成了？特朗普：谈判非常接近达成",
+ "summary": "美国总统特朗普在与加拿大总理马克·卡尼（Mark Carney）会谈后表示，美加贸易协议“非常接近”达成，双方将在未来几周继续推进互利共赢的结果。",
+ "body": [
+  "据彭博社报道，美国总统特朗普（Donald Trump）透露，美国与加拿大的贸易协议已经“非常接近”达成。此前，他与加拿大总理马克·卡尼（Mark Carney）进行了会谈。",
+  "加拿大总理马克·卡尼在会谈后表示，双方在接下来的几周里将继续努力，以争取达成一个“互利共赢”的结果。",
+  "对于在美华人来说，美加两国贸易关系的走向直接关系到北美的经济稳定、物价水平以及跨境供应链。如果两国能顺利达成贸易协议，将有助于减少关税摩擦，稳定日常生活成本和就业市场。"
+ ],
+ "tags": [
+  "美国经济",
+  "加拿大",
+  "贸易协议",
+  "特朗普",
+  "海外华人"
+ ],
+ "original_title": "Trump Says US-Canada Trade Deal Is Close After Talks With Carney",
+ "lang": "en",
+ "published": "2026-11-01T18:16:09+00:00",
+ "created": "2026-11-01T22:51:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

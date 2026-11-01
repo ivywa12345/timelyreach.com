@@ -1,0 +1,27 @@
+{
+ "key": "0d2f1a9f8a",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-biggest-treasury-sales-overhaul-in-years",
+ "title": "华尔街迎多年来最大变动！美国国债发行要改规矩了？",
+ "summary": "美国财政部长贝森特近期暗示愿意干预债券市场以压低收益率，华尔街正严阵以待，准备迎接自2024年初以来美债发行指引的最大一次改版。",
+ "body": [
+  "如果你最近关注金融市场，一定听过美国国债的消息。据彭博社报道，华尔街目前正在严阵以待，准备迎接自2024年初以来美国国债（US Treasuries）发行指引的最大一次改版。",
+  "这次变动之所以备受瞩目，是因为美国财政部长斯科特·贝森特（Scott Bessent）最近的一系列动作打破了常规。在此之前，他出人意料地表现出愿意干预债券市场以压低收益率的态度，让华尔街的交易商们大跌眼镜。",
+  "对远在海外的华人来说，美国国债收益率的波动直接牵动着宏观经济的神经，进而影响到大家的房贷利率、投资回报以及美元走势。这次财政部的重大调整会带来什么新变化，我们将持续为您关注。"
+ ],
+ "tags": [
+  "华尔街",
+  "美国国债",
+  "斯科特·贝森特",
+  "金融市场",
+  "海外华人"
+ ],
+ "original_title": "Wall Street Braces for Biggest Treasury Sales Overhaul in Years",
+ "lang": "en",
+ "published": "2026-11-01T20:00:01+00:00",
+ "created": "2026-11-01T22:51:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

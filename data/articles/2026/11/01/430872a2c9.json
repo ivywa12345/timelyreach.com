@@ -1,0 +1,25 @@
+{
+ "key": "430872a2c9",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/trumps-failed-lawsuit-lesson-09da7e43?mod=rss_opinion",
+ "title": "华尔街日报社论：从特朗普诉讼案看媒体背后的硬气支撑",
+ "summary": "《华尔街日报》编辑委员会发表社论指出，该报记者在面对特朗普相关诉讼时，能够顶住压力，离不开报社所有者的关键支持。",
+ "body": [
+  "近日，《华尔街日报》（The Wall Street Journal）的编辑委员会（The Editorial Board）发表了一篇题为《特朗普诉讼案的教训》的社论。文章回顾了该报记者在应对与特朗普相关的法律诉讼时，之所以能够坚守岗位、还原真相，最关键的因素在于得到了报社所有者（owners）的坚定支持。",
+  "在新闻行业中，面对强大政治人物或资本的法律压力，记者的独立调查往往步履维艰。这篇社论强调，媒体老板在关键时刻为采编团队提供坚实的后盾和资源支持，是保障新闻自由和客观报道的决定性条件。"
+ ],
+ "tags": [
+  "华尔街日报",
+  "特朗普",
+  "新闻自由",
+  "媒体背后"
+ ],
+ "original_title": "Trump’s Failed Lawsuit Lesson",
+ "lang": "en",
+ "published": "2026-11-01T22:02:00+00:00",
+ "created": "2026-11-01T22:51:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

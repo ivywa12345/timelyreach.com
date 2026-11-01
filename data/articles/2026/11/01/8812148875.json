@@ -1,0 +1,27 @@
+{
+ "key": "8812148875",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/features/2026-11-01/indonesia-s-msci-crisis-driven-by-wash-trades-and-5-000-rallies",
+ "title": "印尼股市要栽？5000%的暴涨和“对倒交易”惊动国际巨头！",
+ "summary": "印尼股市因涉嫌内幕操纵和洗售交易，面临被国际指数公司MSCI降级的风险，这可能导致数十亿美元的外资流出。",
+ "body": [
+  "根据彭博社报道，印尼股市近期面临被MSCI（明晟公司）降级的尴尬境地。罪魁祸首是一系列让当地富豪赚得盆满钵满的股票交易手段，其中涉及疯狂的“洗售交易”（Wash Trades）以及高达5000%的惊人暴涨。",
+  "所谓洗售交易，是指通过虚假交易制造虚假繁荣的行为。这种操作不仅扭曲了市场价格，也引起了国际金融机构的高度警惕。如果MSCI最终决定对印尼市场采取降级惩罚，不仅会让印尼资本市场的国际声誉受损，更可能引发连锁反应，导致大量海外投资资金被迫撤离该国。",
+  "对海外投资者和关注新兴市场的人来说，这类监管风暴往往伴随着剧烈的市场波动。如果资产组合中涉及印尼相关股票或基金，近期需要格外注意合规风险和潜在的流动性冲击，避免被突如其来的市场震荡割了韭菜。"
+ ],
+ "tags": [
+  "印尼股市",
+  "MSCI降级",
+  "洗售交易",
+  "海外投资",
+  "金融监管"
+ ],
+ "original_title": "Indonesia’s MSCI Crisis Driven By Wash Trades and 5,000% Rallies",
+ "lang": "en",
+ "published": "2026-11-01T22:00:00+00:00",
+ "created": "2026-11-01T22:51:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
