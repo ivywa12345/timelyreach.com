@@ -1,0 +1,28 @@
+{
+ "key": "215c253127",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/news-releases/nigerian-alien-indicted-for-illegally-voting",
+ "title": "离谱！67岁外籍男子假冒美国公民投票，联邦大陪审团直接起诉",
+ "summary": "一名67岁的尼日利亚籍男子因涉嫌假冒美国公民身份并在联邦选举中非法投票，在堪萨斯州被联邦大陪审团起诉，面临多项欺诈指控。",
+ "body": [
+  "堪萨斯州的一项联邦大陪审团近日裁定，正式起诉一名尼日利亚籍男子。此人被控虚假声称自己是美国公民，并在选举中进行非法投票。",
+  "根据法院文件，这名67岁的男子名叫George Olawunmi Johnson（此前居住在堪萨斯州奥拉瑟），他被指控犯有四项罪名，包括虚假宣称美国公民身份、为投票而虚假宣称公民身份、欺诈性选举行为，以及外籍人士在联邦选举中投票。",
+  "调查显示，Johnson早在2010年2月就在堪萨斯州约翰逊县登记选民时，假冒了美国公民身份。而在2024年11月，他不仅虚假证明自己具备公民投票资格（实际上他只是永久居民），还在堪萨斯州的选票上投了票，涉及美国总统、副总统、参议员和众议员等候选人。",
+  "目前，此案正由国土安全调查局（Homeland Security Investigations）负责调查，美国公民及移民服务局（USCIS）也为案件提供了关键协助。这起案件再次引发了外界对选举诚信和身份核查的关注。"
+ ],
+ "tags": [
+  "美国移民局",
+  "非法投票",
+  "联邦起诉",
+  "选举欺诈",
+  "海外华人"
+ ],
+ "original_title": "Nigerian Alien Indicted for Illegally Voting",
+ "lang": "en",
+ "published": "2026-09-25T18:28:13+00:00",
+ "created": "2026-11-01T02:16:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

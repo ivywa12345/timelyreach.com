@@ -1,0 +1,25 @@
+{
+ "key": "c110f42c37",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-31/turkey-appoints-new-top-market-regulator-in-fund-crisis-response",
+ "title": "土耳其基金危机爆发！埃尔多安紧急换帅，税务大佬空降救火",
+ "summary": "土耳其总统埃尔多安任命税务监察局局长穆赫辛·阿奇（Muhsin Atci）担任国家市场监管机构负责人，以应对震动金融市场的投资基金危机。",
+ "body": [
+  "最近土耳其金融市场可不太平，一场突如其来的投资基金危机把市场搅得天翻地覆。为了稳住阵脚，土耳其总统雷杰普·塔伊普·埃尔多安（Recep Tayyip Erdogan）直接出手了。",
+  "根据彭博社的报道，埃尔多安已经任命该国税务监察局局长穆赫辛·阿奇（Muhsin Atci）接任国家市场监管机构的最高负责人，希望借此来收拾残局，平息这场金融动荡。"
+ ],
+ "tags": [
+  "土耳其",
+  "金融危机",
+  "埃尔多安",
+  "市场监管"
+ ],
+ "original_title": "Turkey Appoints New Top Market Regulator in Fund Crisis Response",
+ "lang": "en",
+ "published": "2026-10-31T21:50:23+00:00",
+ "created": "2026-11-01T02:15:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

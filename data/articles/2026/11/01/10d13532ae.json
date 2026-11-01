@@ -1,0 +1,26 @@
+{
+ "key": "10d13532ae",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/voters-unappealing-vs-unpalatable-choice-89a84fdf?mod=rss_opinion",
+ "title": "选总统就像挑晚餐？选民：根本没得选，只能捏着鼻子认了！",
+ "summary": "华尔街日报发表评论，直指如今的政治选举让选民陷入两难，大家根本没有奢侈到能按个人喜好去选候选人。",
+ "body": [
+  "最近《华尔街日报》的一篇评论文章说出了不少美国选民的心声：现在的政治选择实在是让人左右为难，选民们根本没有“奢侈”到可以根据候选人合不合胃口来投票。",
+  "文章指出，选民在投票时往往不是在选一个“想请来家里吃晚饭的好人”，而是在两个都不怎么理想的选项里做妥协。这种现象让很多海外华人在内的普通选民感到无奈，大家常常只是在“两害相权取其轻”。",
+  "对我们海外华人来说，无论是关心钱包里的税收、工作机会，还是治安和子女教育，每到大选时面对这些“难以下咽”的政治选项，也只能理性分析、权衡利弊，投下自己的一票。"
+ ],
+ "tags": [
+  "美国大选",
+  "华尔街日报",
+  "政治评论",
+  "海外华人"
+ ],
+ "original_title": "Voter’s Unappealing vs. Unpalatable Choice",
+ "lang": "en",
+ "published": "2026-10-30T20:23:00+00:00",
+ "created": "2026-11-01T02:14:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

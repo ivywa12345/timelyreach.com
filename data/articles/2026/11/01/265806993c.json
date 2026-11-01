@@ -1,0 +1,26 @@
+{
+ "key": "265806993c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-10-31/angola-plans-to-cut-fuel-subsidies-without-price-increases",
+ "title": "非洲产油大户安哥拉要对油价补贴下手了！2027年起取消补贴，但保证油价不暴涨？",
+ "summary": "作为撒哈拉以南非洲的第二大产油国，安哥拉计划在2027年削减燃油补贴，同时承诺不会大幅提高加油站的油价，而是通过其他措施来降低成本。",
+ "body": [
+  "说到安哥拉（Angola），这可是撒哈拉以南非洲地区的第二大产油国。最近彭博社（Bloomberg）报道了一个大动作：安哥拉政府正计划在2027年削减燃油补贴支出。",
+  "不过大家最关心的油价会不会因此飞涨呢？官方给出了定心丸：虽然要砍补贴，但他们打算通过其他各种措施来压低成本，所以不会让加油站的零售油价出现明显的暴涨。",
+  "对于咱们海外华人来说，能源政策的调整往往牵一发而动全身。安哥拉这次能否在不引发油价震荡的前提下成功甩掉财政包袱，后续动作值得关注。"
+ ],
+ "tags": [
+  "安哥拉",
+  "燃油补贴",
+  "海外财经",
+  "能源政策"
+ ],
+ "original_title": "Angola Plans to Cut Fuel Subsidies Without Price Increases",
+ "lang": "en",
+ "published": "2026-10-31T09:39:45+00:00",
+ "created": "2026-11-01T02:15:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

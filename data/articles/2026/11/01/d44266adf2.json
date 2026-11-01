@@ -1,0 +1,27 @@
+{
+ "key": "d44266adf2",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/how-do-we-trust-and-verify-college-degrees-734bea66?mod=rss_Technology",
+ "title": "AI把大学折腾得够呛，学位这东西以后还靠谱吗？",
+ "summary": "华尔街日报发表评论称，人工智能在高等教育中引发的信任危机，已经远超教学和研究本身，学位验证正面临前所未有的挑战。",
+ "body": [
+  "最近几年，人工智能（AI）在高等教育里掀起了一场风暴。华尔街日报的一篇最新评论指出，AI带来的鸿沟不仅体现在日常教学和学术研究上，更直接威胁到了我们该如何信任和验证一个大学学位。",
+  "简单来说，当AI可以轻轻松松帮你写论文、过考试时，传统的文凭含金量到底还剩多少？雇主们又该怎么去核实求职者的真实水平，而不是看他们是不是“AI代写”的高手？这就好比防伪标识失效了，大家开始怀疑这张纸到底值多少钱。",
+  "对咱们海外华人来说，无论是送孩子上大学，还是自己在职场上卷，文凭含金量和技能含金量的脱节都是个大问题。以后找工作可能光看学校牌子和学位证书不管用了，真刀真枪的实操能力和面试考验怕是会越来越多。"
+ ],
+ "tags": [
+  "人工智能",
+  "高等教育",
+  "学位危机",
+  "海外求职",
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | How Do We Trust and Verify College Degrees?",
+ "lang": "en",
+ "published": "2026-10-29T19:57:00+00:00",
+ "created": "2026-11-01T02:14:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

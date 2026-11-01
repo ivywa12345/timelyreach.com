@@ -1,0 +1,26 @@
+{
+ "key": "83e08bd257",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
+ "title": "老美医保也用上AI了？结果一上线医疗服务就暴跌...",
+ "summary": "美国联邦医疗保险（Medicare）最近开始测试用人工智能（AI）来审批医疗服务的前期授权（prior authorization），希望能借此打击医疗浪费，不过这一新技术的应用立竿见影地导致了医疗服务的大幅下降。",
+ "body": [
+  "如果你最近在美国看病觉得审批变慢了，可能还真跟新技术脱不了干系。据MarketWatch报道，联邦医疗保险（Medicare）目前正在测试使用人工智能（AI）来进行前期授权（prior authorization）审批，初衷是为了打击医疗资源浪费。",
+  "不过，这项AI技术才刚开始试水，就立刻带来了明显的连锁反应——医疗服务的数量出现了大幅下降。虽然官方的目的是为了卡住不必要的医疗开支，但这也引发了人们对于患者是否能及时获得必要治疗的担忧。"
+ ],
+ "tags": [
+  "美国医保",
+  "人工智能",
+  "Medicare",
+  "医疗资讯",
+  "海外生活"
+ ],
+ "original_title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+ "lang": "en",
+ "published": "2026-10-31T17:26:00+00:00",
+ "created": "2026-11-01T02:16:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
