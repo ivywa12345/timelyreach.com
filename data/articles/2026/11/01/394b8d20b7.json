@@ -1,0 +1,27 @@
+{
+ "key": "394b8d20b7",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/macau-gaming-revenue-decline-extends-despite-golden-week-boost",
+ "title": "黄金周也救不了？澳门博彩收入惨遭“五连跌”，豪客捂紧钱包成关键",
+ "summary": "澳门10月博彩收入连续第五个月下滑。尽管迎来了黄金周游客的激增，但由于高端玩家的疲软消费，整体收入依然受到拖累。",
+ "body": [
+  "根据彭博社（Bloomberg）记者Shirley Zhao的报道，澳门的博彩收入在10月份遭遇了连续第五个月的下降。虽然黄金周期间游客人数迎来了一波激增，但这依然没能挡住整体收入下滑的趋势。",
+  "究其原因，主要是因为高消费的大玩家们（high-end players）最近出手变保守了，他们的疲软消费直接抵消了黄金周游客带来的增量。一边是热闹的游客人头，一边是赌场里大客的冷清，两者形成了鲜明的反差。",
+  "对于关注海外旅游和娱乐产业的华人朋友来说，澳门博彩业的冷暖往往是宏观经济和消费意愿的风向标。高端消费的持续疲软，或许也折射出目前大环境下，无论是游客还是高净值人群，在花钱时都变得更加谨慎了。"
+ ],
+ "tags": [
+  "澳门",
+  "博彩收入",
+  "黄金周",
+  "旅游业",
+  "消费趋势"
+ ],
+ "original_title": "Macau Gaming Revenue Decline Extends Despite Golden Week Boost",
+ "lang": "en",
+ "published": "2026-11-01T05:14:49+00:00",
+ "created": "2026-11-01T10:28:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

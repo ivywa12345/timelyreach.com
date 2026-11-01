@@ -1,0 +1,27 @@
+{
+ "key": "96dbdff06d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/opec-set-to-stick-with-plan-for-steady-quotas-delegates-say",
+ "title": "中东局势这么乱，油价要飞？OPEC+：12月产量先按兵不动",
+ "summary": "据彭博社报道，由于中东冲突持续限制部分成员国的石油产量，OPEC+核心成员国计划在12月维持现有的石油产量配额不变。",
+ "body": [
+  "石油输出国组织及盟友（OPEC+）的代表透露，该组织的大国们已经准备好在12月继续按原计划行事，保持石油生产配额不变。",
+  "在此之前，中东地区的紧张局势一直在持续，这也直接导致了该组织大片地区的石油产量受到抑制。不过，面对复杂的地缘政治和市场波动，OPEC+目前选择稳字当头，暂不调整现有的产量政策。",
+  "对于在美华人来说，国际油价的走势直接关系到日常生活的方方面面。如果油价因为中东局势维持高位甚至上涨，大家的开车出行成本（汽油费）以及超市里商品的物流运费都可能受到影响，进而对家庭钱包造成一定压力。"
+ ],
+ "tags": [
+  "OPEC+",
+  "油价",
+  "中东局势",
+  "通胀",
+  "海外华人"
+ ],
+ "original_title": "OPEC+ Set to Stick With Plan for Steady Quotas, Delegates Say",
+ "lang": "en",
+ "published": "2026-11-01T09:19:37+00:00",
+ "created": "2026-11-01T10:28:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

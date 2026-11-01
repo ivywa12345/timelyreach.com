@@ -1,0 +1,27 @@
+{
+ "key": "3731cb74ae",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/pakistan-lng-cargo-attacked-near-hormuz-had-iranian-approval",
+ "title": "运液化天然气船在霍尔木兹海峡遭袭！此前曾跟伊朗谈好“一路绿灯”",
+ "summary": "一艘载有液化天然气的货轮在霍尔木兹海峡附近遭袭，知情人士透露，这艘船在出发前曾专门与伊朗协商并获得了安全通行的承诺。",
+ "body": [
+  "据彭博社报道（作者：Stephen Stapczynski），周五在霍尔木兹海峡（Strait of Hormuz）附近遭到袭击的一艘巴基斯坦液化天然气（LNG）运载船“Al Mayeda”号，在启程前其实并非“裸奔”，而是做足了功课。",
+  "知情人士透露，巴基斯坦方面此前专门与伊朗进行了协商，为的就是给这艘运气船争取到安全通行的保障，确保其能顺利过境，没想到最终还是遭遇了袭击。",
+  "在中东局势持续紧张的背景下，霍尔木兹海峡作为全球能源运输的大动脉，其安全风吹草动都备受关注。这次连事先打过招呼、拿到伊朗许可的船只都未能幸免，无疑给本就敏感的国际能源运输敲响了警钟。"
+ ],
+ "tags": [
+  "霍尔木兹海峡",
+  "液化天然气",
+  "巴基斯坦",
+  "伊朗",
+  "中东局势"
+ ],
+ "original_title": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
+ "lang": "en",
+ "published": "2026-11-01T09:23:14+00:00",
+ "created": "2026-11-01T10:28:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

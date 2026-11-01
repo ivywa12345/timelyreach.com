@@ -1,0 +1,25 @@
+{
+ "key": "2a6fb78ad0",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/dont-go-to-the-er-for-speed-4ec6cce7?mod=rss_opinion",
+ "title": "急诊室看病怎么越来越慢？华尔街日报直指老旧医疗系统该改改了！",
+ "summary": "华尔街日报指出，目前的医疗服务交付模式依然停留在把X光当高科技的年代，导致急诊室效率低下，难以应付现代医疗需求。",
+ "body": [
+  "去过美国急诊室（ER）的朋友大概都有同感：进去看个病动不动就要等上好几个小时。最近《华尔街日报》就发文吐槽了这事，直言现在的医疗服务模式太落伍了。",
+  "文章指出，目前医院的急诊运作模式，居然还是基于把拍X光片当作“高科技”的那个年代建立的。时代早就变了，但医院的看病流程却没跟上节奏，难怪大家总觉得现在的急诊又慢又低效。"
+ ],
+ "tags": [
+  "美国医疗",
+  "急诊室",
+  "华尔街日报",
+  "海外生活"
+ ],
+ "original_title": "Don’t Go to the ER for Speed",
+ "lang": "en",
+ "published": "2026-10-30T20:22:00+00:00",
+ "created": "2026-11-01T10:28:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

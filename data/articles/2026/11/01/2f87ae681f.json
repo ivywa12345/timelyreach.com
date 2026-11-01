@@ -1,0 +1,27 @@
+{
+ "key": "2f87ae681f",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/01/us-news/fire-rips-through-mississippi-police-department-that-fatally-shot-1-year-old-kohen-wiley/",
+ "title": "太巧了吧？密州涉事警察局大楼突发火灾，此前曾因击毙1岁幼儿引发众怒",
+ "summary": "密西西比州塞纳托维亚警察局总部在大清早突发火灾。此前，该局曾因一名警察在沃尔玛停车场开枪击毙一名1岁幼儿而陷入舆论风暴。",
+ "body": [
+  "周六清晨4点半左右，位于孟菲斯以南40英里的密西西比州塞纳托维亚警察局总部（Senatobia Police Department）突然发生火灾。火势虽被迅速扑灭，但大楼已被烧毁，目前当地警方表示日常警务工作暂未受到影响。",
+  "这家警察局今年可以说是风波不断。今年6月，该局警察在处理一起沃尔玛（Walmart）商店盗窃案时，竟然开枪打死了1岁的小男孩科恩·威利（Kohen Wiley）。当时警方声称男孩的母亲和朋友涉嫌偷尿布和童装，并在驱车时冲撞警察，导致涉事警察开枪。事件造成1岁幼儿不幸身亡，母亲未受伤，其朋友重伤。但家属对此提出质疑，且两人并未遭到起诉。本月早些时候，涉事警察虽然辞职，但已被密州总检察长办公室认定使用武力合理，免于刑事指控。而在9月，该局前警察长哈罗德·范德福德（Harold Vanderford）也因被爆出在私人短信中使用了种族歧视词汇而被解职。",
+  "目前，火灾的具体起因尚不清楚，美国烟酒枪炮及爆炸物管理局（ATF）正与当地机构联合展开调查。代理警察局长拉莫里斯·汉普顿（LaMorris Hampton）在周六晚间发表声明称：“我们想向公众保证，这起事件正在被极其严肃地对待……我们理解这起事件可能引发社区的担忧，并向市民保证我们将继续致力于以专业、诚实和透明的态度履行职责。”"
+ ],
+ "tags": [
+  "美国新闻",
+  "突发大火",
+  "警察局",
+  "争议事件",
+  "美国治安"
+ ],
+ "original_title": "Fire guts HQ of Miss. police dept. that fatally shot Kohen Wiley, 1, in Walmart parking lot",
+ "lang": "en",
+ "published": "2026-11-01T04:21:41+00:00",
+ "created": "2026-11-01T10:29:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

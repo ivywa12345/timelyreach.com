@@ -1,0 +1,26 @@
+{
+ "key": "f6874e3f23",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/german-protests-turn-violent-as-activists-clash-with-police",
+ "title": "德国周末示威大变天！夜幕降临后多地爆发激烈警民冲突",
+ "summary": "德国周六的大规模抗议活动在夜间演变成暴力冲突，法兰克福、科隆、汉堡和柏林均出现示威者与警察对抗的情况。",
+ "body": [
+  "周六（当地时间），德国多地爆发了大规模示威游行。虽然白天的大部分抗议活动还算和平，但随着夜幕降临，局势急转直下，演变成了暴力冲突。",
+  "根据彭博社（Bloomberg）的报道，骚乱主要发生在法兰克福（Frankfurt）、科隆（Cologne）、汉堡（Hamburg）和柏林（Berlin）这几个德国核心城市。激进的示威者与当地警方在街头直接对峙，场面一度十分混乱。",
+  "目前暂未看到关于人员伤亡和财产损失的具体数字公布，相关局势仍在持续发展中。对于在德华人、留学生以及近期有欧洲旅行计划的朋友来说，近期请尽量远离人群聚集和示威游行的区域，注意自身安全。"
+ ],
+ "tags": [
+  "德国新闻",
+  "抗议示威",
+  "海外安全",
+  "欧洲快讯"
+ ],
+ "original_title": "German Protests Turn Violent as Activists Clash With Police",
+ "lang": "en",
+ "published": "2026-11-01T09:31:22+00:00",
+ "created": "2026-11-01T10:28:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
