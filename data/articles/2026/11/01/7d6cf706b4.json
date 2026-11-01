@@ -1,0 +1,27 @@
+{
+ "key": "7d6cf706b4",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/health/healthcare/investors-are-betting-a-blue-wave-will-help-hospitals-dont-count-on-it-411ab127?mod=rss_markets_main",
+ "title": "华尔街又在押注“蓝色浪潮”能救医院？先别高兴太早！",
+ "summary": "华尔街投资者正期待民主党获胜能逆转特朗普时期的医疗补助（Medicaid）削减政策并利好医院股，但分析认为这并没有想象的那么容易。",
+ "body": [
+  "华尔街最近正盘算着一件事：如果出现“蓝色浪潮”（民主党全面胜选），是不是能把当年特朗普（Trump）砍掉的医疗补助（Medicaid）资金给补回来？资本市场闻风而动，已经开始提前押注医院板块了。",
+  "不过，根据《华尔街日报》专栏作家大卫·瓦纳（David Wainer）的分析，事情可能没那么简单。市场虽然满怀期待，觉得政策反转板上钉钉，但政治现实往往很骨感，政策要真正落地并转化为真金白银，难度相当大。",
+  "对于咱们海外华人来说，美国的医疗政策和资本市场的每一次风吹草动，最终都可能直接或间接影响到大家的医疗保险费用和看病成本。看股票热点时，还得留个心眼，别盲目跟风华尔街的乐岁预测。"
+ ],
+ "tags": [
+  "华尔街",
+  "美国医疗",
+  "美股",
+  "民主党",
+  "医疗补助"
+ ],
+ "original_title": "Investors Are Betting a Blue Wave Will Help Hospitals. Don’t Count on It.",
+ "lang": "en",
+ "published": "2026-11-01T10:30:00+00:00",
+ "created": "2026-11-01T17:11:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

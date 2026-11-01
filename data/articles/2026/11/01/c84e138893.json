@@ -1,0 +1,27 @@
+{
+ "key": "c84e138893",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-11d1900f?mod=rss_markets_main",
+ "title": "币安遭遇史上最大黑客袭击！现在提现恢复得怎么样了？",
+ "summary": "币安（Binance）在遭遇其有史以来最大规模的加密货币黑客袭击后，目前已经恢复了提现功能，并表示已补回了大约95%的被盗资产。",
+ "body": [
+  "加密货币交易所币安（Binance）近日遭遇了其历史上最大的一次黑客袭击。好消息是，在经过紧急处理后，该平台目前已经重新恢复了用户的提现服务。",
+  "根据币安（Binance）官方透露的信息，在事发之后，他们迅速采取了行动，目前已经成功补回了大约95%被盗走的资产，将用户的损失降到了较低水平。",
+  "对于在海外关注加密货币市场的华人朋友来说，虚拟资产的安全性再次敲响了警钟。虽然各大交易所都在不断升级安全防护，但资产存放在平台依然存在一定风险，大家在进行数字资产投资时还是需要多加小心，注意资金安全。"
+ ],
+ "tags": [
+  "币安",
+  "加密货币",
+  "黑客袭击",
+  "海外华人",
+  "财经快讯"
+ ],
+ "original_title": "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
+ "lang": "en",
+ "published": "2026-11-01T12:03:00+00:00",
+ "created": "2026-11-01T17:11:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

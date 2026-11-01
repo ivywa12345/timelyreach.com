@@ -1,0 +1,27 @@
+{
+ "key": "b29a1bf113",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/the-tangled-web-of-ai-bets-is-reason-to-fear-tech-stocks-905bde86?mod=rss_markets_main",
+ "title": "AI泡沫要破？华尔街大佬警告：这种“老套路”正在卷土重来！",
+ "summary": "华尔街日报分析指出，科技股近期火热的AI投资网背后隐藏着类似“卖方融资”的新套路，这可能会把AI行情的涨跌幅度都无限放大。",
+ "body": [
+  "最近科技股的AI热潮让人眼花缭乱，但华尔街日报（The Wall Street Journal）专栏作家詹姆斯·麦金托什（James Mackintosh）发文警告：这里面水很深，当年老掉牙的“卖方融资（Vendor financing）”换了个马甲又回来了！",
+  "简单来说，这种新形式的资金操作把各大科技巨头和AI初创公司紧紧绑在了一起。它能在股市上涨时把热度推向极高，但一旦风向不对，下跌时的杀伤力也会成倍放大，让整个AI板块的波动变得异常危险。",
+  "对于咱们海外华人来说，如果你手里也攥着不少科技股或者AI相关的基金，可得绷紧这根弦了。这种复杂的资本游戏虽然能带来短期的账面财富，但风险也在急剧累积，随时可能引发市场的过山车行情，投资时还是得留个心眼，注意防范风险。"
+ ],
+ "tags": [
+  "AI泡沫",
+  "科技股",
+  "华尔街",
+  "海外投资",
+  "美股"
+ ],
+ "original_title": "The Tangled Web of AI Bets Is Reason to Fear Tech Stocks",
+ "lang": "en",
+ "published": "2026-11-01T10:30:00+00:00",
+ "created": "2026-11-01T17:13:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

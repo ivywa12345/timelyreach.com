@@ -1,0 +1,26 @@
+{
+ "key": "1491aa92fc",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/articles/investors-are-hedging-against-the-risks-of-the-ai-boom-603203d5?mod=rss_markets_main",
+ "title": "AI泡沫风险逼近？华尔街投资者坐不住了，开始疯狂买保险！",
+ "summary": "华尔街日报报道称，随着人工智能热潮持续高涨，投资者们开始采取对冲策略来防范潜在风险。同时，新闻还关注了一场艰难的参议院竞选收官，以及两名车主声称拥有同一辆传奇保时捷的奇闻。",
+ "body": [
+  "这几天金融圈最热闹的事，莫过于大家对人工智能（AI）板块的态度开始变得微妙了。根据《华尔街日报》主编 Emma Tucker 的梳理，虽然 AI 概念火得一塌糊涂，但聪明钱已经开始悄悄行动，通过各种对冲手段来为可能到来的风险“买保险”了。",
+  "除了资本市场紧盯着 AI 泡沫，这期简报还提到了另外两个挺有意思的社会新闻：一是 Darline Graham 参议员竞选（Senate run）进入最后几天，这位候选人参选的过程其实挺勉强的；二是居然有两个车主同时跳出来，宣称自己才是某辆传奇保时捷（Porsche）的正牌主人，这撞车的不仅是车，还有产权官司。",
+  "对于咱们海外华人来说，华尔街资本对 AI 的风险防范其实是个风向标。不管是做投资、搞科技研发还是身处大厂的打工人，看着股市高歌猛进的同时，多留个心眼、做好资产配置和职业规划，总归是稳妥的。"
+ ],
+ "tags": [
+  "华尔街",
+  "人工智能",
+  "投资理财",
+  "海外热点"
+ ],
+ "original_title": "Investors Are Hedging Against the Risks of the AI Boom",
+ "lang": "en",
+ "published": "2026-11-01T12:00:00+00:00",
+ "created": "2026-11-01T17:12:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
