@@ -1,0 +1,27 @@
+{
+ "key": "20fde8595d",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-binance-resumes-withdrawals-after-suffering-biggest-ever-crypto-hack-435c0f7e?mod=rss_Technology",
+ "title": "币安遭遇史上最大黑客攻击后恢复提现！还有哪些职场大瓜？",
+ "summary": "加密货币交易所币安在经历有史以来最大规模的黑客攻击后，已恢复用户提现；此外，前BizJet销售承认行贿拉丁美洲官员，律所Weil Gotshal的剧变也引发法律行业震动。",
+ "body": [
+  "加密货币巨头币安（Binance）最近不太平，刚刚遭遇了其历史上最大的一次加密货币黑客攻击。不过好消息是，目前平台已经迅速恢复了用户的提现服务。",
+  "除了币安的惊魂事件，商业合规领域近期也爆出不少猛料。根据华尔街日报报道，前BizJet销售人员已经承认，自己曾向拉丁美洲的官员行贿。同时，知名律所Weil Gotshal的内部剧变也引发了整个法律行业对未来走向的深度探讨。",
+  "对于关注海外资产和商业动态的朋友来说，这类交易所的安全事件再次提醒大家，数字资产的存放风险不容忽视，合规与安全永远是第一位的。"
+ ],
+ "tags": [
+  "币安",
+  "加密货币",
+  "黑客攻击",
+  "商业丑闻",
+  "海外快讯"
+ ],
+ "original_title": "The Morning Risk Report: Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
+ "lang": "en",
+ "published": "2026-11-02T12:35:00+00:00",
+ "created": "2026-11-02T20:32:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

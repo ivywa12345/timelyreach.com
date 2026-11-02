@@ -1,0 +1,27 @@
+{
+ "key": "54b161e4f0",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/us-stock-futures-rise-as-oil-prices-drop-easing-ai-led-selloff",
+ "title": "中东局势一紧张，美国科技股又要跌回调整区了？",
+ "summary": "受中东局势再度紧张及市场对人工智能板块的担忧影响，美国科技股正领跌美股，投资者纷纷选择抛售离场。",
+ "body": [
+  "最近美股的日子可不太平，根据彭博社（Bloomberg）记者 Natalia Kniazhevich 的报道，由于中东地区冲突再起，加上市场开始担心前期火热的人工智能（AI）概念还能撑多久，大批资金正在从科技股撤离，这也直接导致美国科技股在调整边缘疯狂试探。",
+  "回顾近期的市场表现，科技板块一直是美股的风向标。但这次中东局势的升级成了导火索，让本就对AI板块估值高企感到焦虑的投资者更加坐立不安。大家纷纷选择落袋为安，导致科技股带头向下调整。",
+  "对于身在海外的华人来说，美股的大幅波动直接关系到咱们的401(k)退休账户和个人的投资钱包。如果科技股这波调整持续下去，不仅会让高高在上的AI热潮降温，还可能波及到大家的日常理财收益，最近操作股票基金的朋友得多留个心眼了。"
+ ],
+ "tags": [
+  "美股",
+  "科技股",
+  "中东局势",
+  "人工智能",
+  "海外理财"
+ ],
+ "original_title": "US Tech Stocks Hover Near Correction on Middle East Tensions",
+ "lang": "en",
+ "published": "2026-11-02T13:08:30+00:00",
+ "created": "2026-11-02T20:33:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "0f400a800b",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/cyberattacks-hit-ukraines-and-russias-emergency-alert-apps-e2d01065?mod=rss_worldnews",
+ "title": "俄乌紧急预警App遭黑客毒手：警报被篡改，竟出现化武、辐射和巷战警告！",
+ "summary": "根据《华尔街日报》报道，乌克兰和俄罗斯的紧急预警应用程序遭到网络攻击，乌克兰的“空中警报”App被篡改，发出了关于辐射、化学威胁以及街头战斗的虚假警告。",
+ "body": [
+  "近日，俄乌双方的紧急预警App双双遭到黑客袭击。据《华尔街日报》记者 Anastasiia Malenko 报道，乌克兰的官方预警软件“空中警报”（Air Alert）在攻击中失控，向民众发送了诸如辐射威胁、化学武器袭击以及激烈巷战等极其恐慌的虚假警报。",
+  "这类预警App在冲突期间是民众躲避空袭、保命的核心工具，黑客选择攻击此类民生防御系统，直接加剧了平民的焦虑和混乱。目前相关技术团队正在紧急排查和修复漏洞，以防类似虚假信息再度引发社会恐慌。"
+ ],
+ "tags": [
+  "俄乌冲突",
+  "网络攻击",
+  "预警App",
+  "海外快讯"
+ ],
+ "original_title": "Cyberattacks Hit Ukraine’s and Russia’s Emergency-Alert Apps",
+ "lang": "en",
+ "published": "2026-11-02T12:49:00+00:00",
+ "created": "2026-11-02T20:31:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

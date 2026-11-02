@@ -1,0 +1,27 @@
+{
+ "key": "546c19d9e0",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/midterm-rally-may-be-tricky-as-ai-trade-becomes-show-me-story",
+ "title": "大选之后美股就能起飞？华尔街机构泼冷水：AI才是真正的“拦路虎”！",
+ "summary": "根据华尔街研究机构Wolfe Research的分析，许多交易员原本指望美国期中选举能清除股市的不确定性，但他们接下来可能得先撞上一堵由人工智能（AI）风险构成的“焦虑之墙”，这或许会阻碍美股继续冲高。",
+ "body": [
+  "每次美国大选或者期中选举前后，大家总爱盯着政治局势对股市的影响。不过，知名研究机构Wolfe Research最近给市场泼了一盆冷水：别光顾着看选举了，交易员们就算盼着期中选举过去能让股票迎来一波反弹，恐怕也得先过AI这一关。",
+  "根据彭博社（Bloomberg）的报道，Wolfe Research指出，当前市场上空悬着关于人工智能（AI）的种种担忧，形成了一道难以轻易跨越的“焦虑之墙”。只要这些AI相关的风险没有彻底理清、不确定性没有消除，美股想要往上涨可能没那么容易。",
+  "对于咱们海外华人来说，无论是投资美股大盘、买401(k)退休金账户，还是关心自己的工作和钱包，科技股和AI概念股一直都是重仓所在。如果华尔街的这波“AI焦虑”真的压制了市场行情，咱们的投资组合短期内可能就要做好迎接震荡的准备了。"
+ ],
+ "tags": [
+  "美股",
+  "人工智能",
+  "华尔街",
+  "期中选举",
+  "投资理财"
+ ],
+ "original_title": "AI Risk Needs to Clear Before Any Post-Midterm S&P Rally Begins",
+ "lang": "en",
+ "published": "2026-11-02T18:48:33+00:00",
+ "created": "2026-11-02T20:33:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

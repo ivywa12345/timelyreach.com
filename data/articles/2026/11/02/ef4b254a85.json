@@ -1,0 +1,27 @@
+{
+ "key": "ef4b254a85",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/oracle-is-offering-10-billion-of-high-grade-dollar-bonds",
+ "title": "憋了三个月大招！科技巨头突然疯狂借钱，这次是为了搞它...",
+ "summary": "根据彭博社报道，美国科技巨头在连续三个月没有在债券市场借钱后，现在又开始大规模涌入借钱，其中甲骨文（Oracle）正寻求筹集200亿美元用于人工智能（AI）发展，而Meta也在考虑发行新债务。",
+ "body": [
+  "科技巨头们在安静了差不多三个月之后，又开始杀回美国债券市场疯狂借钱了。根据彭博社（Bloomberg）的报道，这波借钱大军来势汹汹，其中最引人注目的是甲骨文（Oracle），他们正计划筹集高达200亿美元的资金，主要用来推动人工智能（AI）业务的增长。与此同时，社交巨头Meta也正在权衡发行新的债务。",
+  "虽然目前关于这些借款的具体细节和各方说法还很有限，但从“科技巨头集体重返债券市场”这个动向可以看出，AI军备竞赛的烧钱速度远超想象。无论是买服务器还是建数据中心，都需要天文数字的资金支持。",
+  "对于在美华人来说，科技巨头在AI领域的巨额投入往往直接关系到科技股的走势，以及湾区和全美高科技行业的就业岗位和薪酬水平。大厂继续加码AI，意味着相关领域的职业机会依然存在，但同时也伴随着整个行业资本运作的风吹草动。"
+ ],
+ "tags": [
+  "甲骨文",
+  "Meta",
+  "人工智能",
+  "美股",
+  "债券市场"
+ ],
+ "original_title": "Oracle Seeks $20 Billion for AI Growth as Meta Weighs New Debt",
+ "lang": "en",
+ "published": "2026-11-02T12:45:05+00:00",
+ "created": "2026-11-02T20:33:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

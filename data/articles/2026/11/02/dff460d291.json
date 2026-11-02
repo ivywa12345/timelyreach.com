@@ -1,0 +1,26 @@
+{
+ "key": "dff460d291",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/morgan-stanley-raises-bullish-european-gas-price-scenario-on-winter-supply-risks-77062b22?mod=rss_markets_main",
+ "title": "连跌三周后，美国天然气期货终于反弹了！",
+ "summary": "在美国天然气期货经历连续三周的下跌后，本周价格迎来了小幅回升。",
+ "body": [
+  "如果你最近收到燃气账单或者在关注能源市场，可能会注意到天然气价格的波动。根据《华尔街日报》（The Wall Street Journal）的报道，美国天然气期货价格在经历了连续三周的下跌之后，终于在近日出现了一波小幅回升（Modest Pick-Up）。",
+  "虽然这次反弹的幅度不算太大，但对于近期一直处于下行通道的天然气市场来说，也算是一个暂时的喘息机会。市场分析人士通常会密切关注供需关系、天气变化以及库存数据来判断后续走势。",
+  "对于咱们海外华人来说，能源价格的波动直接关系到每个月的家庭开支和生活成本。虽然这次只是期货市场的温和反弹，但进入用气高峰季后，大家还是可以多留意一下相关的账单变化，提前做好预算。"
+ ],
+ "tags": [
+  "美国经济",
+  "天然气期货",
+  "生活成本",
+  "华尔街日报"
+ ],
+ "original_title": "U.S. Natural Gas Futures See Modest Pick-Up",
+ "lang": "en",
+ "published": "2026-11-02T14:42:00+00:00",
+ "created": "2026-11-02T20:31:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

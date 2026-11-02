@@ -1,0 +1,27 @@
+{
+ "key": "92309869c8",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
+ "title": "中期选举结果可能要数周才能出炉？华尔街为什么一点都不慌",
+ "summary": "中期选举结果统计可能需要数周时间，但华尔街对此表现得异常平静。专家指出，必须区分经济不确定性和政治不确定性，因为只有前者才会真正对股市产生实质性影响。",
+ "body": [
+  "每次大选或者中期选举一到，大家最关心的就是什么时候能出结果。据MarketWatch专栏作家马克·赫ulbert（Mark Hulbert）分析，这次中期选举的最终统计结果可能需要数周时间才能全部出炉。",
+  "不过，与选民的焦虑不同，华尔街这次表现得相当淡定。核心原因在于，我们必须把“经济不确定性”和“政治不确定性”严格区分开来。历史数据表明，真正能搅动股市神经的其实只有经济层面的变数，单纯的政治悬念往往掀不起太大风浪。",
+  "对于咱们海外华人来说，大选结果虽然牵动人心，但股市和宏观经济并不会因为选举结果难产而直接崩盘。大家在关注政治大戏的同时，盯紧自己的钱包和整体经济走向才是最实在的。"
+ ],
+ "tags": [
+  "中期选举",
+  "华尔街",
+  "美股",
+  "经济不确定性",
+  "海外华人"
+ ],
+ "original_title": "It may take weeks to tally the midterm election results. Here’s why Wall Street isn’t worried.",
+ "lang": "en",
+ "published": "2026-11-02T18:16:00+00:00",
+ "created": "2026-11-02T20:35:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

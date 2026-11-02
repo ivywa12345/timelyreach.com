@@ -1,0 +1,27 @@
+{
+ "key": "2be840c015",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/cio-journal/cios-say-companies-tighten-focus-on-ai-outcomes-6d85fe46?mod=rss_Technology",
+ "title": "花钱不能听个响！公司开始死盯AI到底有没有用回本了",
+ "summary": "根据《华尔街日报》报道，企业首席信息官（CIO）们现在对人工智能（AI）的投入更加务实，开始把重点放在AI带来的实际成效上，同时不同行业在AI的应用和普及上也存在明显差异。",
+ "body": [
+  "各位在职场打拼的朋友注意了，各公司的老板和高管们现在对AI的热情虽然还在，但钱包捂得更紧了。根据《华尔街日报》记者汤姆·洛夫图斯（Tom Loftus）的报道，如今企业首席信息官（CIOs）的关注焦点已经从“赶时髦用AI”转变为“AI到底能不能产出真金白银的成果”。",
+  "简单来说，前几年大家盲目跟风砸钱买AI技术的日子快过去了。现在企业更加看重投资回报率（ROI），要求AI项目必须实实在在地提高效率、降低成本或者带来收入增长，不能只是花钱听个响。",
+  "此外，报道还指出，不同行业在AI的普及和渗透程度上也表现出不小的差异。有的行业已经把AI深度嵌入业务流程，而有的行业则还在观望摸索。",
+  "对咱们在海外打拼的华人来说，这意味着什么？不管是找工作、跳槽还是保住饭碗，光会喊懂“AI概念”可能不够用了。老板现在要看实际产出，能用AI帮公司解决具体痛点、提高业绩的人才，接下来才会更抢手。"
+ ],
+ "tags": [
+  "人工智能",
+  "职场动态",
+  "企业管理",
+  "海外华人"
+ ],
+ "original_title": "CIOs Say Companies Tighten Focus on AI Outcomes",
+ "lang": "en",
+ "published": "2026-11-02T14:04:00+00:00",
+ "created": "2026-11-02T20:32:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "8abb825d82",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/trump-chooses-dc-reflecting-pool-for-midterm-closing-argument",
+ "title": "特朗普选在华盛顿倒影池做期中选举最后陈述，到底在打什么算盘？",
+ "summary": "美国总统唐纳德·特朗普（Donald Trump）在决定其最后两年任期的期中选举前夕，选择在华盛顿林肯纪念堂倒影池（Lincoln Memorial Reflecting Pool）发表讲话，大肆宣传他耗时数月推动的倒影池翻新工程。",
+ "body": [
+  "美国总统唐纳德·特朗普（Donald Trump）在期中选举的前一天晚上发表了关键讲话。这场选举将直接影响他剩余两年的执政走向。出人意料的是，他在讲话中重点夸耀了自己过去几个月来对林肯纪念堂倒影池（Lincoln Memorial Reflecting Pool）进行的翻新工程。",
+  "这次期中选举对白宫目前的政治格局至关重要，关乎国会控制权的易手以及未来政策的推行。然而，特朗普在冲刺阶段的造势活动中，并没有把全部火力集中在传统的政策辩论上，而是拿出了这项标志性的基建修缮成果作为政绩向民众展示。"
+ ],
+ "tags": [
+  "特朗普",
+  "期中选举",
+  "林肯纪念堂",
+  "美国政治"
+ ],
+ "original_title": "Trump Chooses DC Reflecting Pool For Midterm Elections Closing Argument",
+ "lang": "en",
+ "published": "2026-11-02T20:11:37+00:00",
+ "created": "2026-11-02T20:33:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

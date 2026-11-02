@@ -1,0 +1,27 @@
+{
+ "key": "c2431ef57e",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/this-bond-measure-says-stocks-are-cheap-dont-believe-it-1db3069a?mod=rss_markets_main",
+ "title": "这届美股到底便不便宜？华尔街专家劝你：千万别被表象骗了！",
+ "summary": "华尔街日报分析指出，虽然有债券指标显示美股目前很划算，但投资者千万不要盲目相信；同时，苹果公司（Apple）又重新回到了市值巅峰。",
+ "body": [
+  "最近市场上出现了一个有意思的现象：某个债券相关的衡量指标似乎在暗示，现在的股票价格其实挺便宜的。不过，华尔街日报（Wall Street Journal）的专栏作家斯潘塞·雅各布（Spencer Jakab）提醒大家，这里面可能有套路，千万别轻易相信这个结论。",
+  "与此同时，在科技巨头们的激烈厮杀中，苹果公司（Apple）凭借自身实力再次夺回了王座，重新回到了市值榜首的位置。",
+  "对于咱们海外华人来说，无论是操心退休账户里的美股基金，还是盯着大厂股票的涨跌，面对这些看似矛盾的市场信号，保持理智、看清底层逻辑才是守住钱包的关键。"
+ ],
+ "tags": [
+  "美股",
+  "苹果",
+  "华尔街日报",
+  "投资理财",
+  "海外华人"
+ ],
+ "original_title": "This Bond Measure Says Stocks Are Cheap. Don’t Believe It.",
+ "lang": "en",
+ "published": "2026-11-02T11:47:00+00:00",
+ "created": "2026-11-02T20:31:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

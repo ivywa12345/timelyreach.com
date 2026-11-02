@@ -1,0 +1,26 @@
+{
+ "key": "baa0abb1a2",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/treasury-yields-little-changed-in-asian-trade-ahead-of-midterms-key-data-this-week-c5a1fdb3?mod=rss_markets_main",
+ "title": "油价大跌引发连锁反应！美债欧债收益率双双回落",
+ "summary": "受美国与伊朗冲突有望通过外交途径解决的利好消息影响，国际油价大幅下跌，进而带动美国国债和欧洲政府债券收益率走低。",
+ "body": [
+  "各位海外朋友注意啦，最近国际油价突然迎来一波大跌，直接带动了美债和欧债的收益率往下走。",
+  "根据《华尔街日报》（The Wall Street Journal）记者 Emese Bartha 的报道，油价这次之所以大跌，主要是因为有关方面重启了外交努力，希望能彻底平息美国与伊朗之间的冲突。地缘政治紧张局势的缓和，让市场紧绷的神经放松了不少。",
+  "随着油价的回落，通胀预警暂时解除了一部分，这也直接促使美国国债以及欧洲政府债券的收益率出现下滑。"
+ ],
+ "tags": [
+  "美债",
+  "油价",
+  "欧洲债市",
+  "财经新闻"
+ ],
+ "original_title": "U.S. Treasury, European Bond Yields Fall as Oil Prices Drop",
+ "lang": "en",
+ "published": "2026-11-02T19:10:00+00:00",
+ "created": "2026-11-02T20:32:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

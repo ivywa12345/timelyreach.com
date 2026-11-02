@@ -1,0 +1,26 @@
+{
+ "key": "23d2f354e0",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2?mod=mw_rss_topstories",
+ "title": "油价跌破100美元！全美汽油费终于要降了？",
+ "summary": "周一美国油价跌破每桶100美元大关，零售汽油价格也随之降至每加仑4.12美元，对车主的钱包来说是个好消息。",
+ "body": [
+  "各位开车通勤的朋友们，好消息可能要来了！根据MarketWatch的报道，随着美国原油价格跌破每桶100美元，全美的零售汽油价格也在本周一（当地时间）回落到了每加仑4.12美元。",
+  "过去一段时间高居不下的油价让大家的出行成本水涨船高，这次油价下跌无疑给频繁加油的司机们松了一口气。",
+  "对在美华人来说，油价下跌直接关系到日常生活的开销。不管是每天开车上班、接送孩子上下学，还是周末采购，交通成本的减少能直接减轻大家的钱包压力。"
+ ],
+ "tags": [
+  "油价",
+  "通货膨胀",
+  "美国生活",
+  "出行成本"
+ ],
+ "original_title": "How soon gas prices could go down now that oil is tumbling",
+ "lang": "en",
+ "published": "2026-11-02T19:27:00+00:00",
+ "created": "2026-11-02T20:35:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

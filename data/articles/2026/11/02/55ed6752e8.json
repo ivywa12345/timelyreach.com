@@ -1,0 +1,26 @@
+{
+ "key": "55ed6752e8",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/alerts/court-order-on-diversity-immigrant-visa-program-hold-policy",
+ "title": "急转！多元化移民签证暂扣政策被法院叫停，移民局表态了",
+ "summary": "美国加州北区联邦地区法院于2026年8月28日下达命令，在诉讼期间暂时废除移民局针对多元化移民签证（Diversity Visa）的暂扣政策（PM-602-0193），并要求移民局在财年剩余时间内恢复原告身份调整申请的常规审理。移民局对此表示强烈反对，但将暂时遵守法院命令。",
+ "body": [
+  "2026年8月28日，美国加州北区联邦地区法院在Medani诉Trump案（案号：26-cv-6332）中作出裁决，宣布暂时废除政策备忘录PM-602-0193，等待进一步诉讼。法院同时部分批准了原告的集体诉讼认证请求，将受该暂扣政策影响的2026财年多元化签证所有中签者及随行受益人纳入审理子类。",
+  "此前，美国移民局（USCIS）颁布该政策备忘录的初衷，是为了确保所有在美国境内申请调整身份的多元化签证申请人不会对国家安全或公共安全构成威胁。",
+  "面对法院的裁决，美国移民局表示强烈不同意，但在潜在的进一步司法审查进行期间，仍将遵循该裁决的条款，在切实可行且出于善意的前提下，采取一切合理步骤恢复原告待审身份调整申请的正常审理。"
+ ],
+ "tags": [
+  "美国移民",
+  "绿卡申请",
+  "多元化签证",
+  "移民局"
+ ],
+ "original_title": "Court Order on Diversity Immigrant Visa Program Hold Policy",
+ "lang": "en",
+ "published": "2026-09-04T17:40:27+00:00",
+ "created": "2026-11-02T20:35:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
