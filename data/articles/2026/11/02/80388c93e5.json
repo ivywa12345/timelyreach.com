@@ -1,0 +1,27 @@
+{
+ "key": "80388c93e5",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
+ "title": "油价突然跳水！特朗普被曝想给伊朗外交留点机会",
+ "summary": "据彭博社报道，由于有消息称美国总统特朗普倾向于在期中选举后给外交手段更多时间，再决定是否恢复对伊朗的打击，国际油价随之下跌。",
+ "body": [
+  "各位海外同胞注意啦，国际油价最近又有新动向。根据彭博社的报道，油价在经历了一波行情后突然下跌，背后的主要原因跟中东局势和美国政坛的最新动向密切相关。",
+  "事情是这样的：彭博社记者 Kanoko Matsuyama 报道称，有消息显示美国总统特朗普（Donald Trump）希望在周二的中期选举（midterm elections）结束后，先给外交谈判更多的时间，然后再来决定是不是要重新对伊朗发动打击。这个消息一出，市场上的紧张情绪稍微缓和，直接反映在了油价的走低上。",
+  "对于咱们海外华人来说，油价变动直接关系到日常生活成本，不管是开车出行还是日常购物的物流费用都会受到影响。我们会持续关注中东局势的下一步发展，看看这会不会给咱们的钱包带来更多实质性的变化。"
+ ],
+ "tags": [
+  "油价",
+  "特朗普",
+  "伊朗",
+  "彭博社",
+  "海外生活"
+ ],
+ "original_title": "Latest Oil Market News and Analysis for Nov. 2",
+ "lang": "en",
+ "published": "2026-11-01T23:11:50+00:00",
+ "created": "2026-11-02T02:32:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

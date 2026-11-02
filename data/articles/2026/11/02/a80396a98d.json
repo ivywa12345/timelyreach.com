@@ -1,0 +1,27 @@
+{
+ "key": "a80396a98d",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/health/wellness/blood-pressure-monitoring-rings-watches-98949dde?mod=rss_Technology",
+ "title": "不用缠袖带的血压手表靠谱吗？记者亲测：当个参考还行，别太当真！",
+ "summary": "智能穿戴设备现在宣称能随时监测血压变化，不用再像以前那样用充气袖带了。不过医生提醒，这些数据搞不好会让你白白焦虑，或者产生虚假的安全感。",
+ "body": [
+  "现在市面上的健康手环和手表花样越来越多了，最近连“无袖带测血压”功能都安排上了。华尔街日报(Wall Street Journal)的记者尼科尔·阮(Nicole Nguyen)就亲自上手测试了这类能随时提醒你血压波动的智能设备。",
+  "虽然科技感十足，但医生们却泼了冷水。专业医生警告称，这些新型设备测出来的数据，不仅可能会给用户带来不必要的焦虑，还可能让人产生一种“我很健康”的虚假安全感。",
+  "对于咱们海外华人来说，平时工作压力大、生活节奏快，如果入手了这类健康追踪器，数据看看当个参考就行，真要是身体不舒服，还得去医院找医生做标准测量，千万别本末倒置了。"
+ ],
+ "tags": [
+  "智能手表",
+  "血压监测",
+  "健康追踪",
+  "海外生活",
+  "医疗健康"
+ ],
+ "original_title": "Can Wearables Really Track Blood Pressure Without the Cuff? I Tested Them.",
+ "lang": "en",
+ "published": "2026-10-11T11:00:00+00:00",
+ "created": "2026-11-02T02:31:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

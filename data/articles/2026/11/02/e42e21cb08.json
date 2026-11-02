@@ -1,0 +1,26 @@
+{
+ "key": "e42e21cb08",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-bank-tech-stocks-a63f180d?mod=rss_markets_main",
+ "title": "美股AI股带崩日本！日经指数周五收跌0.9%",
+ "summary": "受美国人工智能相关科技股周五遭遇抛售的影响，日本股市未能幸免，日经指数收盘下跌0.9%，银行股和科技股成为重灾区。",
+ "body": [
+  "受上周五美国人工智能（AI）相关科技股遭遇抛售行情的拖累，日本股市表现疲软，日经指数最终收跌0.9%。",
+  "从盘面来看，此次下跌主要受到银行股和科技股的拖累，显示出美股科技板块的波动正迅速传导至亚洲市场。"
+ ],
+ "tags": [
+  "日本股市",
+  "日经指数",
+  "美股外溢效应",
+  "科技股",
+  "AI概念股"
+ ],
+ "original_title": "Nikkei Falls 0.9%, Dragged by Bank, Tech Stocks",
+ "lang": "en",
+ "published": "2026-11-02T00:30:00+00:00",
+ "created": "2026-11-02T02:31:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "cbfcc6c9af",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/pboc-conducts-overnight-reverse-repo-as-policy-anchor-shifts",
+ "title": "央行重磅出手！每天都搞逆回购，货币政策要变天？",
+ "summary": "中国央行周一启动了每日隔夜逆回购操作，正式启用全新的流动性框架，将这一短期工具确立为主要的政策锚。",
+ "body": [
+  "据彭博社报道（作者：Iris Ouyang），中国央行在周一（当地时间）正式推出了每日隔夜逆回购操作。这意味着官方正在启用一套全新的流动性管理框架，把这个短期工具扶正，当成以后调控市场的“主力锚”。",
+  "简单来说，这次调整改变了以往的操作节奏，让短期逆回购成为常态化运作，从而能更精准、更灵活地调节银行体系的资金面松紧。这也显示出货币政策调控正在向更加精细化的方向演进。",
+  "对于关注国内经济走向的海外华人来说，央行货币政策工具的更新意味着国内资金面和利率走势将更加灵活多变，这也可能通过汇率等渠道间接影响到大家的资产配置和回国投资规划。"
+ ],
+ "tags": [
+  "中国央行",
+  "货币政策",
+  "逆回购",
+  "财经新闻"
+ ],
+ "original_title": "PBOC Conducts Overnight Reverse Repo as Policy Anchor Shifts",
+ "lang": "en",
+ "published": "2026-11-02T01:39:19+00:00",
+ "created": "2026-11-02T02:32:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

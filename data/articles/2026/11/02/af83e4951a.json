@@ -1,0 +1,27 @@
+{
+ "key": "af83e4951a",
+ "board": "hot",
+ "source_id": "wsj-lifestyle",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/lifestyle/cars/to-tame-the-fastest-drivers-states-deploy-speed-limiting-devices-on-cars-4eafe66d?mod=rss_lifestyle",
+ "title": "车速太快？美国这些州直接用GPS“锁死”你的油门！",
+ "summary": "弗吉尼亚州等美国多地正尝试利用GPS技术来整治“超级飙车族”，通过车载设备直接限制车辆超速。",
+ "body": [
+  "据《华尔街日报》报道，为了狠狠打击那些超速狂飙的“超级飙车族”（super speeders），弗吉尼亚州和其他一些美国州属正准备出大招——在汽车上安装基于GPS技术的限速设备，直接从物理层面防止车辆超速。",
+  "这项新举措旨在利用现代定位科技，对危险驾驶行为进行源头治理。随着道路上超速现象日益严重，传统罚单似乎已经无法彻底管住那些开快车的司机，地方政府和相关部门因此把目光投向了车内限速科技。",
+  "对于经常开车出行的在美华人来说，日常通勤的安全问题一直备受关注。如果这类GPS限速装置未来被大范围推广，不仅会改变道路上的交通状况，也提醒大家开车出行务必遵守交通法规，避免因超速面临更严格的科技监管。"
+ ],
+ "tags": [
+  "美国交通",
+  "超速罚单",
+  "科技执法",
+  "海外生活",
+  "开车安全"
+ ],
+ "original_title": "To Tame the Fastest Drivers, States Deploy Speed-Limiting Devices on Cars",
+ "lang": "en",
+ "published": "2026-11-02T01:00:00+00:00",
+ "created": "2026-11-02T02:31:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

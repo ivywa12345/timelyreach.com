@@ -1,0 +1,28 @@
+{
+ "key": "acabdbc3ee",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/markets/radiant-wins-first-ever-doe-ok-full-power-microreactor-nuclear-stocks-crash-multi-year-lows",
+ "title": "核电迎来历史性突破！美国首个商业微堆获全功率批准，但华尔街为何却在疯狂抛售？",
+ "summary": "美国能源部首次批准了一款商业核微堆的全功率安全分析，洛杉矶Radiant公司的“Kaleidos”微堆即将在爱达荷国家实验室开展全功率测试。与此同时，军方和科技巨头订单不断，但由于利率走高和估值压力，Oklo、NuScale等核电概念股近期却遭遇重挫，跌至多年来的低点。",
+ "body": [
+  "华盛顿迎来了核电领域的历史性时刻：美国能源部（DOE）正式批准了总部位于洛杉矶的Radiant公司旗下微型核反应堆“Kaleidos”的文件化安全分析（DSA）。这是美国历史上首次批准商业核微堆进行全功率运行。此前，其他参与能源部试点项目的企业进行的都是零功率临界测试，而Kaleidos不仅能发电，而且是一个功率达1兆瓦、可以用卡车运输的“移动充电宝”。",
+  "除了能源部的绿灯放行，Kaleidos的商业化和军方订单也相当亮眼。它不仅拿下了美国陆军“Janus”计划中价值高达7.5亿美元、共15台设备的具有约束力的协议，还获得了空军和海军的青睐，使其成为唯一一家与美国陆军、空军和海军全线合作的核电公司。此外，它还拿下了数据中心巨头Equinix的20台商业订单，计划在田纳西州建厂生产，客户现场无需处理乏燃料，设计寿命长达20年。",
+  "然而，与利好消息形成鲜明对比的是，资本市场却在冷眼旁观。受9月CPI数据偏热推动10年期美债收益率飙升的影响，再加上高盛等机构的降级潮以及增发稀释压力的影响，小型模块化反应堆（SMR）概念股在10月份遭遇重创。Oklo（OKLO）较去年10月的高点暴跌86%，NuScale（SMR）也跌去了89%，双双创下多年来的最低股价纪录。",
+  "对于关注科技与能源板块的海外华人来说，这场“核电复兴”与“股市崩盘”的冰火两重天折射出了高利率环境下的投资现实。虽然AI爆发对电力的庞大需求让微型核反应堆的前景极其诱人，但对于那些距离真正产生大额营收还有好几年的远期概念股来说，高企的借贷成本和严苛的现金流消耗意味着投资核电概念不仅要看长远的故事，更得经受住残酷的财务和宏观经济考验。"
+ ],
+ "tags": [
+  "核电",
+  "微型反应堆",
+  "美股",
+  "AI电力",
+  "投资理财"
+ ],
+ "original_title": "Radiant Wins First-Ever DOE OK For Full-Power Microreactor As Nuclear Stocks Crash To Multi-Year Lows",
+ "lang": "en",
+ "published": "2026-11-02T00:10:00+00:00",
+ "created": "2026-11-02T02:33:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

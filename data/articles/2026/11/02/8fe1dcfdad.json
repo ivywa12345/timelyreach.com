@@ -1,0 +1,26 @@
+{
+ "key": "8fe1dcfdad",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+ "title": "美国联邦参议员墨菲看儿子冰球赛时突发中风，目前正在医院接受治疗",
+ "summary": "康涅狄格州民主党联邦参议员克里斯·墨菲（Chris Murphy）在观看儿子冰球比赛时突发中风入院，目前清醒且对治疗反应良好。医生对其完全康复持乐观态度。",
+ "body": [
+  "周日，康涅狄格州民主党联邦参议员克里斯·墨菲（Chris Murphy）的办公室对外宣布，墨菲在周六不幸中风，目前已被送往医院治疗。其幕僚长艾莉森·赫维特（Allison Herwitt）在一份声明中表示，现年53岁的墨菲目前“清醒且保持警觉”。",
+  "据办公室透露，周六下午墨菲在儿子的一场冰球比赛中突然感到手臂麻木，随即被送往当地医院检查，确诊为中风。随后他被转院至约翰·霍普金斯医院（Johns Hopkins Hospital）进行进一步观察，目前对治疗反应良好，医生对他的恢复进展感到振奋，预计他能完全康复。",
+  "墨菲于2013年进入参议院，近年来因积极推动更严厉的枪支管制法而受到全国关注，也被视为2028年美国总统大选的潜在候选人之一。就在突发中风前，他一直在全国各地奔波，为多地的民主党候选人助选。近年来，国会山已有过多位现任参议员突发中风的先例。康涅狄格州另一位民主党参议员理查德·布卢门塔尔（Richard Blumenthal）在社交媒体X上发文表达了对好友的慰问，并期盼他早日重返参议院。"
+ ],
+ "tags": [
+  "美国政坛",
+  "参议员",
+  "突发中风",
+  "健康状况"
+ ],
+ "original_title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
+ "lang": "en",
+ "published": "2026-11-01T19:10:12+00:00",
+ "created": "2026-11-02T02:34:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

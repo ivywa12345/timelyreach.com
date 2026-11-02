@@ -1,0 +1,26 @@
+{
+ "key": "11254015cd",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
+ "title": "稳市放大招？传金融监管部门周一将与银行券商开会共商救市",
+ "summary": "中国金融监管部门将于周一与银行和证券公司召开会议，讨论支持资本市场的措施，显示出当局为遏制中国股市下跌而做出的又一努力。",
+ "body": [
+  "据彭博社（Bloomberg News）报道，中国的金融监管部门计划于本周一与各大银行及证券公司的代表举行重要会议，主要议题是探讨如何采取切实措施来支持资本市场。",
+  "这次会议的召开，释放出了一个十分明确的信号：面对近期低迷的股市，相关监管部门正试图通过新的政策工具和协调机制，全力遏制股市的持续下跌态势。",
+  "对于关注国内资产配置和亲友投资的海外华人来说，大盘的走势直接关系到国内的经济基本面和市场信心，后续是否会有更多实质性的金融支持政策出台，值得持续关注。"
+ ],
+ "tags": [
+  "中国股市",
+  "金融监管",
+  "资本市场",
+  "财经快讯"
+ ],
+ "original_title": "China Reportedly Discusses Ways to Support Stocks With Banks",
+ "lang": "en",
+ "published": "2026-11-01T10:08:49+00:00",
+ "created": "2026-11-02T02:32:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

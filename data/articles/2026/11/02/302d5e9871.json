@@ -1,0 +1,25 @@
+{
+ "key": "302d5e9871",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-01/trump-banks-on-rallies-to-turn-out-maga-faithful-one-more-time",
+ "title": "川普大选冲刺回初心：靠疯狂集会再赌一把MAGA铁粉？",
+ "summary": "唐纳德·特朗普（Donald Trump）正在以他十多年前开始的方式为最后一次竞选画上句号：希望通过全国范围的密集旋风集会，激发最狂热的支持者，以此挡住民主党限制他政治生涯最后阶段权力的图谋。",
+ "body": [
+  "据彭博社报道，唐纳德·特朗普（Donald Trump）目前正以他十多年前踏入政坛时的方式，为自己最后一次大选冲刺做最后的努力。他希望通过在全国各地进行旋风式的密集拉票，再次把最死忠的MAGA（让美国再次伟大）支持者们给调动起来。",
+  "在政治生涯的这个关键节点，民主党人正虎视眈眈地试图限制他的政治影响力。面对这种局面，特朗普把宝押在了自己最拿手的竞选集会上，试图复制当年的成功，发起绝地反击。"
+ ],
+ "tags": [
+  "美国大选",
+  "特朗普",
+  "MAGA",
+  "政治新闻"
+ ],
+ "original_title": "Trump Banks on Rallies to Turn Out MAGA Faithful Again",
+ "lang": "en",
+ "published": "2026-11-01T14:05:07+00:00",
+ "created": "2026-11-02T02:32:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

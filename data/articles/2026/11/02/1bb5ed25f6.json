@@ -1,0 +1,27 @@
+{
+ "key": "1bb5ed25f6",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/medicaid-work-requirements-on-the-ballot-d1f59f64?mod=rss_opinion",
+ "title": "免费医疗还要不要查工作？美国两党为这事儿又杠上了！",
+ "summary": "民主党人正致力于取消白卡（Medicaid）的工作要求，引发了关于福利政策的新一轮政治交锋。",
+ "body": [
+  "最近美国政坛又在医疗福利上吵翻了。根据《华尔街日报》编辑委员会的报道，民主党人目前正发誓要取消享受免费医疗（白卡，即 Medicaid）所需的工作要求。",
+  "白卡是美国为低收入人群提供的一项重要医疗保障计划。一直以来，关于是否应该将“工作要求”作为领取该项福利的门槛，两党争执不下。支持者认为这能激励就业、减轻政府财政负担；而民主党人则坚决反对，认为这会剥夺底层民众获得基本医疗的权利。",
+  "对于在美华人来说，美国的医疗福利政策和政府财政状况直接关系到税收和社会资源的分配。后续这一政策走向如何，值得我们持续关注。"
+ ],
+ "tags": [
+  "美国医疗",
+  "白卡",
+  "Medicaid",
+  "美国政治",
+  "福利政策"
+ ],
+ "original_title": "Medicaid Work Requirements on the Ballot",
+ "lang": "en",
+ "published": "2026-11-01T21:51:00+00:00",
+ "created": "2026-11-02T02:32:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

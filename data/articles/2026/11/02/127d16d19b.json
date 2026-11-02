@@ -1,0 +1,26 @@
+{
+ "key": "127d16d19b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/japanese-stocks-fall-on-tech-selloff-kioxia-s-profit-outlook",
+ "title": "美股科技股带崩日股！铠侠业绩展望让人大跌眼镜",
+ "summary": "受美股科技股大跌拖累，日本股市遭遇重挫，芯片制造商铠侠控股因令人失望的利润展望导致股价大跌。",
+ "body": [
+  "受美股科技股暴跌的连带影响，日本股市今天集体走低，科技板块成为重灾区。其中，芯片制造商铠侠控股（Kioxia Holdings Corp.）由于给出的利润前景表现不佳，股价更是出现了大幅下挫。",
+  "彭博社分析指出，日股此次下跌主要由于外部科技股抛售潮的传导，反映出全球半导体及科技产业链的高度联动性。随着美国同行表现疲软，日本本土科技与芯片股也难以独善其身。"
+ ],
+ "tags": [
+  "日本股市",
+  "科技股",
+  "芯片",
+  "美股外溢效应",
+  "铠侠"
+ ],
+ "original_title": "Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook",
+ "lang": "en",
+ "published": "2026-11-02T00:15:20+00:00",
+ "created": "2026-11-02T02:32:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "f0fb82ee99",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/energy-oil/oil-drops-amid-diplomatic-efforts-to-revive-mideast-peace-talks-964fc4d6?mod=rss_markets_main",
+ "title": "油价突然跌了！美伊有望重开和平谈判？",
+ "summary": "由于华盛顿与德黑兰之间恢复和平谈判的外交努力取得进展，国际油价随之下跌。",
+ "body": [
+  "各位老铁注意啦，最近油价迎来了一波下跌。根据华尔街日报的报道，这主要是因为美国华盛顿（Washington）和伊朗德黑兰（Tehran）之间最近有了新动作，双方正在积极努力，试图重新开启和平谈判。",
+  "虽然具体谈判细节还在推进中，但外交破冰的信号一出，国际原油市场立刻有了反应，价格应声回落。这对于咱们平时开车要加油、日常出行要产生交通成本的海外华人来说，短期内算是个能稍微喘口气的小利好，能省下几个油钱。",
+  "不过，中东局势向来变化莫测，谈判能不能成、最后能对全球能源市场产生多大持续影响，还得看后续进展。咱们老百姓就踏踏实实看油价，能省一点是一点。"
+ ],
+ "tags": [
+  "油价",
+  "国际新闻",
+  "美国",
+  "伊朗",
+  "中东局势"
+ ],
+ "original_title": "Oil Drops Amid Diplomatic Efforts to Revive Mideast Peace Talks",
+ "lang": "en",
+ "published": "2026-11-02T01:15:00+00:00",
+ "created": "2026-11-02T02:31:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
