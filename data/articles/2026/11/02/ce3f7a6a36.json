@@ -1,0 +1,26 @@
+{
+ "key": "ce3f7a6a36",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/economy/china-private-manufacturing-gauge-shows-steady-expansion-in-october-9e3be2ca?mod=rss_worldnews",
+ "title": "亚洲工厂靠AI又行了？新订单虽然火爆，但隐忧已经浮现",
+ "summary": "得益于AI需求爆发和新产品发布，亚洲多地的工厂出口近期迎来增长，但业内也开始担忧潜在的风险。",
+ "body": [
+  "根据《华尔街日报》(The Wall Street Journal)报道，最近亚洲的工厂活动因为人工智能(AI)的需求而受到提振。记者Kimberley Kao指出，这波增长主要靠的是新产品上市以及生产能力的提升，许多出口商都报告说销售额出现了上涨。",
+  "不过，虽然目前账面上的订单挺好看，但细看之下，裂痕和隐忧也开始逐渐显现。对于在海外特别是关注全球供应链和宏观经济走势的华人来说，制造业的这种冷热不均，往往也暗示着未来科技产品价格或相关投资可能出现波动。"
+ ],
+ "tags": [
+  "AI需求",
+  "亚洲工厂",
+  "出口",
+  "制造业",
+  "华尔街日报"
+ ],
+ "original_title": "Asia’s Factory Activity Buoyed by AI Demand, but Cracks Emerge",
+ "lang": "en",
+ "published": "2026-11-02T05:58:00+00:00",
+ "created": "2026-11-02T11:04:30+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

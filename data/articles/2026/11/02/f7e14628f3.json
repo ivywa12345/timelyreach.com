@@ -1,0 +1,26 @@
+{
+ "key": "f7e14628f3",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/americas-zero-trust-reality-bf5fd971?mod=rss_opinion",
+ "title": "防不胜防！现在连眼睛和耳朵都不能信了？",
+ "summary": "华尔街日报专栏作家安迪·凯斯勒（Andy Kessler）指出，如今我们正生活在一个“零信任”的现实中，到处都是真假难辨的造假信息，大家必须提高警惕，学会更好地识别假货和虚假内容。",
+ "body": [
+  "如果你觉得最近生活里到处都是各种假消息、假视频和仿冒品，那你的直觉完全没错。华尔街日报（Wall Street Journal）专栏作家安迪·凯斯勒（Andy Kessler）近日发文直言，我们现在已经进入了一个“零信任”的时代。",
+  "在这个真假难辨的现实背景下，安迪·凯斯勒（Andy Kessler）警告大家，无论是网上看到的各种信息，还是日常生活中的见闻，我们都需要“提高游戏水平”（raise our game），擦亮双眼，学会更好地识别无处不在的造假手段。",
+  "对于咱们海外华人来说，平时上网、看新闻、处理各种数字账单时，也得格外留个心眼。面对铺天盖地的网络信息，保持多一分怀疑、多一分核实，才能避免掉进各种以假乱真的陷阱里。"
+ ],
+ "tags": [
+  "零信任",
+  "网络安全",
+  "假新闻",
+  "华尔街日报"
+ ],
+ "original_title": "America’s Zero-Trust Reality",
+ "lang": "en",
+ "published": "2026-11-01T20:34:00+00:00",
+ "created": "2026-11-02T11:05:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

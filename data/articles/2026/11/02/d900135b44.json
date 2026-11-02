@@ -1,0 +1,26 @@
+{
+ "key": "d900135b44",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/blackstone-leads-3-1-billion-investment-in-mitsubishis-stake-in-lng-canada-96379858?mod=rss_markets_main",
+ "title": "大手笔！黑石集团领投31亿美元，入局加拿大LNG天然气项目",
+ "summary": "黑石集团（Blackstone）牵头的财团斥资31亿美元，收购了三菱公司（Mitsubishi Corp.）在加拿大一个大型液化天然气项目中的权益。",
+ "body": [
+  "华尔街日报消息，由私募巨头黑石集团（Blackstone）牵头的一家投资财团，刚刚敲定了一笔高达31亿美元的大单，将投资三菱公司（Mitsubishi Corp.）在加拿大的一处大型液化天然气（LNG）液化项目权益。",
+  "近年来，全球能源供应格局持续变化，北美地区的天然气项目吸引了大量国际资本的目光。三菱公司此次通过出售部分权益引入了黑石等强援，也反映出资本市场对大型能源基础设施的持续看好。"
+ ],
+ "tags": [
+  "黑石集团",
+  "天然气",
+  "加拿大",
+  "海外投资",
+  "能源市场"
+ ],
+ "original_title": "Blackstone Leads $3.1 Billion Investment in Mitsubishi’s Stake in LNG Canada",
+ "lang": "en",
+ "published": "2026-11-02T10:54:00+00:00",
+ "created": "2026-11-02T11:04:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

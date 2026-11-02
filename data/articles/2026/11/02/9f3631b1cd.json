@@ -1,0 +1,26 @@
+{
+ "key": "9f3631b1cd",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/buyside/personal-finance/financial-advisors/how-to-choose-the-best-robo-advisors?mod=rss_Technology",
+ "title": "2026年想让机器人帮理财？华尔街日报最新测评出炉",
+ "summary": "华尔街日报发布了2026年最佳智能投顾（Robo Advisor）盘点，对比了各大自动化投资平台的特色、收费标准和提供的服务，帮助投资者根据自身财务目标挑选最合适的工具。",
+ "body": [
+  "如果你平时工作忙、没时间研究股市，又想让闲钱跑赢通胀，智能投顾（Robo Advisor）这几年可以说是海外华人的热门选择。最近，《华尔街日报》的理财专栏作家Miranda Marquit就对2026年市面上的主流智能投顾平台进行了一波大盘点。",
+  "在这篇测评中，作者重点对比了各个自动化投资平台的实际功能、管理费用以及增值服务。通过这些维度的横向测评，旨在帮大家理清头绪，找到真正适合自己财务目标的理财平台，不用再盲目跟风。",
+  "对于在海外打拼、注重资产配置的华人来说，选择一家靠谱的智能投顾不仅能省下大笔传统财务顾问的佣金，还能通过自动套利和税务规划（Tax-loss harvesting）来优化自己的钱包。建议大家在开户前，仔细看清各平台的收费标准和最低投资门槛。"
+ ],
+ "tags": [
+  "智能投顾",
+  "理财投资",
+  "海外理财",
+  "华尔街日报"
+ ],
+ "original_title": "Best Robo Advisors of 2026",
+ "lang": "en",
+ "published": "2026-03-02T18:43:00+00:00",
+ "created": "2026-11-02T11:05:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

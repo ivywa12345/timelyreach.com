@@ -1,0 +1,25 @@
+{
+ "key": "9f24cb66a6",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/economy/central-banking/boe-expected-to-join-peers-in-raising-key-rate-62a61c5b?mod=rss_worldnews",
+ "title": "英国央行也要加息了？面对通胀和涨薪潮，这回难办了",
+ "summary": "英国央行预计将在周四宣布加息，加入全球加息大军，试图在即将到来的密集薪资谈判前控制住不断抬头的高通胀。",
+ "body": [
+  "周四，英国央行（Bank of England）预计将效仿其他主要央行，宣布提高借贷成本。此举的核心目的是为了遏制近期的通胀抬头，而当下正值当地面临一波激烈的劳资薪资谈判（wage negotiations）前夕，时机十分敏感。",
+  "随着物价上涨压力持续，央行希望通过收紧货币政策来给过热的经济降温。然而，如何在控制通胀的同时应对各行业的涨薪呼声，将是对英国央行的一大考验。"
+ ],
+ "tags": [
+  "英国央行",
+  "加息",
+  "通胀",
+  "海外财经"
+ ],
+ "original_title": "BOE Expected to Join Peers in Raising Key Rate",
+ "lang": "en",
+ "published": "2026-11-02T07:28:00+00:00",
+ "created": "2026-11-02T11:04:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

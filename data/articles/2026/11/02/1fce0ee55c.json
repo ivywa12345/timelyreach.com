@@ -1,0 +1,27 @@
+{
+ "key": "1fce0ee55c",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-02/a-hard-winter-war-is-coming-in-russia-too-not-just-ukraine",
+ "title": "俄军这回真扛不住了？外媒爆料：前线损失惨重，普京今年冬天难过！",
+ "summary": "彭博社分析指出，俄军在乌克兰战场上面临的巨大人员伤亡和消耗已经达到了不可持续的程度，这个冬天对俄罗斯来说将异常艰难。",
+ "body": [
+  "根据彭博社（Bloomberg）资深记者阿尔贝托·纳德利（Alberto Nardelli）的分析，普京（Vladimir Putin）军队在战场上面临的惨烈伤亡不仅仅是数字惊人，更关键的是这种消耗速度已经完全无法持续下去了。",
+  "随着严冬即将来临，俄军不仅要在战场上抵御乌克兰的进攻，还要面对物资、兵力等多重压力。这种状况如果持续下去，将对俄罗斯的整体战略产生深远影响。",
+  "对于关注国际局势的海外华人来说，俄乌冲突的持续升级不仅牵动着全球能源和经济神经，也将继续对国际供应链和通货膨胀产生潜在影响，值得持续关注。"
+ ],
+ "tags": [
+  "俄乌冲突",
+  "普京",
+  "俄罗斯",
+  "彭博社",
+  "国际局势"
+ ],
+ "original_title": "A Hard Winter War is Coming in Russia Too, Not Just Ukraine",
+ "lang": "en",
+ "published": "2026-11-02T10:59:14+00:00",
+ "created": "2026-11-02T11:06:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

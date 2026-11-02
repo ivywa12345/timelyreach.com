@@ -1,0 +1,27 @@
+{
+ "key": "5a54f96247",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/media/netflix-needs-you-to-watch-not-just-pay-f3d90b73?mod=rss_markets_main",
+ "title": "Netflix急了：光让你交月费还不够，现在非得逼你看广告？",
+ "summary": "Netflix的广告业务遇到了瓶颈，用户的观看时长停滞不前，这直接威胁到他们未来靠广告赚钱的野心。",
+ "body": [
+  "据《华尔街日报》专栏作家David Wainer报道，流媒体巨头Netflix现在不仅想要你的订阅费，更需要你花时间盯着屏幕看。目前，Netflix雄心勃勃的广告业务严重依赖用户的观看时长，但这个关键指标最近却陷入了停滞。",
+  "长期以来，Netflix靠着会员费赚得盆满钵满，但随着市场饱和，推出含广告的低价套餐成了新的增长引擎。然而，广告主看重的是曝光量和观看时长。如果用户只交钱却不怎么看，或者对广告套餐不买账，Netflix靠广告发财的算盘就很难打响。",
+  "对于海外华人消费者来说，流媒体平台的花样越来越多，订阅费也是涨个没完。如果Netflix为了推行广告业务而调整套餐内容或观看体验，大家可能得在“多掏钱免广告”和“省点钱看广告”之间重新做选择了。"
+ ],
+ "tags": [
+  "Netflix",
+  "流媒体",
+  "广告业务",
+  "海外生活",
+  "华尔街日报"
+ ],
+ "original_title": "Netflix Needs You to Watch, Not Just Pay",
+ "lang": "en",
+ "published": "2026-11-02T10:30:00+00:00",
+ "created": "2026-11-02T11:04:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

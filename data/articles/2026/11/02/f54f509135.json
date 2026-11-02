@@ -1,0 +1,26 @@
+{
+ "key": "f54f509135",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/niger-gets-first-algerian-fuel-shipment-escorted-by-troops",
+ "title": "被制裁后，尼日尔迎来了第一批阿尔及利亚的油罐车！",
+ "summary": "尼日尔收到了来自阿尔及利亚的第一批燃油运输队，共53辆卡车在两国军队的武装护送下抵达北部城市阿加德兹，标志着这两个非洲邻国正在加深能源和安全合作。",
+ "body": [
+  "尼日尔最近迎来了大动作！根据彭博社的报道，尼日尔收到了来自阿尔及利亚的第一批燃油。这支由53辆卡车组成的运输队在两国军队的一路护送下，顺利抵达了尼日尔北部的阿加德兹市（Agadez）。",
+  "这次行动背后，是这两个非洲邻国在能源和安全领域的进一步靠拢。通过打通这条能源通道，双方的合作正在不断加深。",
+  "对于关注国际局势的海外华人来说，北非和萨赫勒地区的能源供应链变化，往往会直接牵动国际油价和地缘政治的神经，后续进展值得持续关注。"
+ ],
+ "tags": [
+  "尼日尔",
+  "阿尔及利亚",
+  "能源合作",
+  "国际新闻"
+ ],
+ "original_title": "Niger Gets First Algerian Fuel Shipment, Escorted by Troops",
+ "lang": "en",
+ "published": "2026-11-02T10:28:31+00:00",
+ "created": "2026-11-02T11:06:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

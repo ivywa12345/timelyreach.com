@@ -1,0 +1,27 @@
+{
+ "key": "cb9c7fb105",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-02-2026?mod=rss_markets_main",
+ "title": "股市缓过来了？上周五大跌后，股指期货开始反弹！",
+ "summary": "上周五经历大跌后，股市期货迎来反弹，同时由于迹象表明中东局势升级可能暂时得以避免，油价出现下跌。",
+ "body": [
+  "各位股友注意啦！在上周五（Friday）经历了一波大跌之后，今天股市期货（Stock Futures）总算有点回血的意思了，开始逐渐恢复。",
+  "除了股市回暖，国际油价（Oil）也有了新动向——由于目前有迹象表明，中东地区的局势升级可能暂时可以避免，油市应声下跌。",
+  "对于咱们海外华人来说，股市和油价的波动直接关系到大家的投资账户和日常加油钱包。虽然局势暂缓是个好消息，但市场瞬息万变，大家投资时还是要多留个心眼，注意风险控制。"
+ ],
+ "tags": [
+  "股市",
+  "油价",
+  "美股期货",
+  "财经快讯",
+  "海外华人"
+ ],
+ "original_title": "Stock Market Today: Stock Futures Recover After Friday's Selloff",
+ "lang": "en",
+ "published": "2026-11-02T09:46:46+00:00",
+ "created": "2026-11-02T11:04:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

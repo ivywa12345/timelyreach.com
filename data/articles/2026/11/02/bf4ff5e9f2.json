@@ -1,0 +1,26 @@
+{
+ "key": "bf4ff5e9f2",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/saudi-arabias-economy-shrinks-3-8-as-oil-output-falls-d7efda3b?mod=rss_worldnews",
+ "title": "石油减产重创中东金主！沙特经济萎缩3.8%",
+ "summary": "受石油产量下降影响，沙特阿拉伯经济萎缩3.8%，在面对地缘政治冲突时暴露出抗压软肋。",
+ "body": [
+  "根据《华尔街日报》报道，受石油产量下降影响，阿拉伯地区最大经济体沙特阿拉伯（Saudi Arabia）的经济大幅萎缩了3.8%。",
+  "报道指出，在与也门胡塞武装（Houthi）最新冲突升级之前，该国经济就已经在努力应对伊朗战争带来的余波。",
+  "对于海外华人来说，中东局势的动荡和主要产油国经济的波动，往往会直接牵动全球能源市场的神经，进而影响到日常生活的油价和通胀水平。"
+ ],
+ "tags": [
+  "沙特经济",
+  "石油减产",
+  "中东局势",
+  "全球通胀"
+ ],
+ "original_title": "Saudi Arabia’s Economy Shrinks 3.8% as Oil Output Falls",
+ "lang": "en",
+ "published": "2026-11-02T07:43:00+00:00",
+ "created": "2026-11-02T11:04:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "04fd05d166",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/alerts/uscis-reaches-h-2b-cap-for-first-half-of-fy-2027",
+ "title": "下手要快！2027财年上半年H-2B非移民签证名额已经抢光了",
+ "summary": "美国移民局（USCIS）宣布，2027财年上半年的H-2B签证名额已经全部报满，9月4日是接收此类申请的最后期限。",
+ "body": [
+  "美国移民局（USCIS）近日宣布，他们收到的申请数量已经达到了国会规定的2027财年上半年H-2B签证的上限。这就意味着，对于那些工作开始时间在2027年4月1日之前的H-2B非移民劳工申请，9月4日已经是最后的接收日期。",
+  "移民局表示，对于在9月4日之后收到、且要求在2027年4月1日之前开始工作的新的受名额限制的H-2B申请，他们将会直接予以拒绝。",
+  "此外，移民局还提醒公众，包括美国本地工人和H-2B工人在内，任何人如果发现潜在的欺诈或违规行为，都可以通过他们的在线举报表格提供相关线索和信息。"
+ ],
+ "tags": [
+  "美国移民局",
+  "H-2B签证",
+  "签证名额",
+  "海外生活"
+ ],
+ "original_title": "USCIS Reaches H-2B Cap for First Half of FY 2027",
+ "lang": "en",
+ "published": "2026-09-11T13:40:20+00:00",
+ "created": "2026-11-02T11:08:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

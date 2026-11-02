@@ -1,0 +1,27 @@
+{
+ "key": "2ddb043327",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/chile-bond-investors-turn-to-inflation-linked-notes-as-oil-soars",
+ "title": "油价飙到四月以来最高！智利投资者坐不住了，疯狂涌入这款抗通胀神器",
+ "summary": "受伊朗战事持续影响，国际油价飙升至今年4月以来的新高，智利固定收益投资者纷纷转向与通胀挂钩的债券以避险。",
+ "body": [
+  "随着伊朗战事持续长达九个月，国际油价一路飙升，创下了自4月以来的最高水平，这直接点燃了市场对通胀的担忧。",
+  "面对高企的通胀预期，智利（Chile）的固定收益投资者坐不住了，开始大举涌入与通胀指数挂钩的债券（index-linked notes），试图以此来保护自己的钱袋子免受贬值冲击。",
+  "对于海外华人来说，全球地缘政治冲突往往会通过油价传导至日常生活，导致生活成本上升。这波智利投资者的避险操作也提醒大家，在高通胀时期，如何通过资产配置跑赢物价上涨是一个值得深思的问题。"
+ ],
+ "tags": [
+  "智利",
+  "通胀",
+  "油价",
+  "投资避险",
+  "金融市场"
+ ],
+ "original_title": "Chile Bond Investors Turn to Inflation-Linked Notes as Oil Soars",
+ "lang": "en",
+ "published": "2026-11-02T11:00:00+00:00",
+ "created": "2026-11-02T11:06:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

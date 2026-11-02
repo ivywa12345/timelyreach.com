@@ -1,0 +1,26 @@
+{
+ "key": "8f8081dfa4",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/belgian-premier-offers-resignation-will-continue-budget-talks",
+ "title": "谈崩了？比利时首相突然要辞职，国王还没接招！",
+ "summary": "比利时首相巴特·德韦弗（Bart De Wever）因五党联合政府未能就新预算达成一致而递交辞呈，但国王并未立即接受。",
+ "body": [
+  "话说欧洲政坛最近也是状况不断。根据彭博社（Bloomberg）的报道，比利时首相巴特·德韦弗（Bart De Wever）因为手下的五党联合政府没能就新预算方案谈拢，一气之下直接递交了辞呈。",
+  "不过事情还没完，比利时国王并没有马上接受他的辞职，目前各方还在继续就预算问题进行拉扯和谈判。",
+  "对于在海外生活和关注欧洲政局的朋友来说，这类欧洲国家的联合政府因为预算谈不拢而闹危机可以说是“老面孔”了，往往会引发政坛动荡并对当地经济政策产生影响。"
+ ],
+ "tags": [
+  "比利时",
+  "欧洲政坛",
+  "预算危机",
+  "海外新闻"
+ ],
+ "original_title": "Belgian Premier Offers Resignation, Will Continue Budget Talks",
+ "lang": "en",
+ "published": "2026-11-02T10:49:10+00:00",
+ "created": "2026-11-02T11:06:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "14444890f2",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/cio-journal/the-two-great-tasks-apollos-ceo-is-tackling-28d0c097?mod=rss_markets_main",
+ "title": "阿波罗CEO正面临的两大任务：华尔街巨头在忙啥？",
+ "summary": "华尔街知名私募巨头阿波罗全球管理公司（Apollo Global Management）的首席执行官目前正专注于处理两大核心任务，引发市场关注。",
+ "body": [
+  "根据《华尔街日报》专栏作家Alan Murray的报道，知名私募巨头阿波罗全球管理公司（Apollo Global Management）的首席执行官目前正在全力应对两项重大任务。",
+  "虽然具体的战略细节在新闻摘要中未完全展开，但作为掌管数千亿美元资产的金融巨头，其每一个决策都会对全球金融市场、企业并购以及宏观经济走势产生深远影响。这也直接关系到广大投资者的“钱袋子”以及市场的整体流动性。"
+ ],
+ "tags": [
+  "阿波罗全球管理",
+  "华尔街",
+  "金融巨头",
+  "CEO"
+ ],
+ "original_title": "The Two Great Tasks Apollo’s CEO Is Tackling",
+ "lang": "en",
+ "published": "2026-11-02T10:51:00+00:00",
+ "created": "2026-11-02T11:05:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
