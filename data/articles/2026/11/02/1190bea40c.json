@@ -1,0 +1,27 @@
+{
+ "key": "1190bea40c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/millennium-pulls-over-1-5-billion-from-two-external-hedge-funds",
+ "title": "大手笔！华尔街巨头千禧年管理公司一口气从两家对冲基金撤资超15亿美元",
+ "summary": "知名多元化投资机构千禧年管理公司（Millennium Management）从去年支持的两家外部对冲基金中，撤回了超过15亿美元的杠杆现金。",
+ "body": [
+  "据彭博社报道，华尔街知名多元化投资机构千禧年管理公司（Millennium Management）正在从去年曾出资支持的两家外部对冲基金中，撤出总计超过15亿美元的杠杆现金。",
+  "这笔撤资涉及两家去年获得该机构资金支持的外部对冲基金，体现了大型投资机构在当前市场环境下对外部资金配置的动态调整。目前，千禧年管理公司（Millennium Management）尚未对此次大动作做进一步的公开置评。",
+  "对于关注华尔街风向和金融市场波动的海外华人来说，这类顶尖对冲基金的大规模资金调动往往折射出机构投资者对当前宏观经济和市场风险的谨慎态度，值得资产配置者保持关注。"
+ ],
+ "tags": [
+  "华尔街",
+  "对冲基金",
+  "千禧年管理",
+  "投资理财",
+  "财经新闻"
+ ],
+ "original_title": "Millennium Pulls Over $1.5 Billion From Two External Hedge Funds",
+ "lang": "en",
+ "published": "2026-11-02T19:00:02+00:00",
+ "created": "2026-11-02T20:47:32+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

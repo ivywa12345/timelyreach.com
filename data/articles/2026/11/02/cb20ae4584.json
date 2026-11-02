@@ -1,0 +1,27 @@
+{
+ "key": "cb20ae4584",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/alphabet-kicks-off-sale-of-its-second-euro-bond-this-year",
+ "title": "AI烧钱太猛？科技巨头谷歌母公司发债，也得“给高息”才有人买",
+ "summary": "谷歌母公司Alphabet今年第二次发行欧元债券，成功筹集了60亿欧元（约合67亿美元）。由于市场对人工智能（AI）支出节奏的担忧引发了信贷市场抛售，这次发债不得不提供比5月份明显更高的收益率。",
+ "body": [
+  "谷歌母公司Alphabet Inc.最近完成了今年的第二笔欧元债券发行，一口气筹集了60亿欧元（折合约67亿美元）。",
+  "不过，这次金主爸爸们可没那么好说话了。因为市场最近对AI领域的烧钱速度有点焦虑，导致信贷市场遭遇抛售，Alphabet这次不得不提供比今年5月份那次发债高得多的收益率，才能把债券卖出去。",
+  "对于咱们海外华人来说，科技巨头在资本市场上的风吹草动，往往也反映了整个AI赛道的资金压力。巨头们花钱如流水，如果资本市场开始要求更高回报，未来科技股的走势和行业的研发节奏可能都会受到影响，大家的投资组合和科技行业的就业风向也需要多留个心眼。"
+ ],
+ "tags": [
+  "Alphabet",
+  "美股",
+  "人工智能",
+  "债券发行",
+  "海外财经"
+ ],
+ "original_title": "Alphabet Pays Up to Entice Buyers to €6 Billion Bond Sale",
+ "lang": "en",
+ "published": "2026-11-02T07:17:51+00:00",
+ "created": "2026-11-02T20:47:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

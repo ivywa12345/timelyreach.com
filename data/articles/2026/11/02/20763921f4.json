@@ -1,0 +1,27 @@
+{
+ "key": "20763921f4",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/stock-futures-higher-oil-lower-as-investors-return-to-risk-17e79294?mod=rss_markets_main",
+ "title": "黑色星期五刚过，道指就反弹了！油价下跌是幕后功臣？",
+ "summary": "在上周五的大跌之后，道指在周一迎来反弹，油价下跌在其中发挥了作用，不过科技股早盘的涨幅正逐渐回吐。",
+ "body": [
+  "上周五美股刚经历了一波抛售，不过根据《华尔街日报》记者Joe Wallace的报道，道琼斯工业平均指数在周一迅速反弹，油价的下跌成为了市场回暖的重要支撑。",
+  "不过好景不长，虽然科技股在周一早盘一度迎来上涨，但随着交易进行，这些早期的涨幅开始逐渐消失，市场多空博弈依然激烈。",
+  "对于海外华人投资者来说，近期金融市场波动频繁，能源价格和科技股走势依然是牵动大家钱包的关键信号，投资时还需密切关注大盘风向，谨慎操作。"
+ ],
+ "tags": [
+  "美股",
+  "道指反弹",
+  "油价下跌",
+  "科技股",
+  "华尔街日报"
+ ],
+ "original_title": "Dow Rebounds After Friday’s Selloff as Oil Slides",
+ "lang": "en",
+ "published": "2026-11-02T19:23:00+00:00",
+ "created": "2026-11-02T20:46:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

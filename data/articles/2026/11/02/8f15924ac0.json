@@ -1,0 +1,27 @@
+{
+ "key": "8f15924ac0",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/us-natural-gas-rises-on-lower-appalachian-output-cooler-weather",
+ "title": "美伊谈妥有望？国际油价大跌，连带着美国天然气也撑不住了！",
+ "summary": "美国天然气期货价格从早盘的涨势中回落，最终收跌。这主要是受到美伊恢复谈判的乐观预期影响，导致国际油价和欧洲天然气价格双双暴跌，进而引发了包含美国天然气在内的大宗商品遭到抛售。",
+ "body": [
+  "据彭博社（Bloomberg）记者Julian Hast报道，美国天然气期货在经历早盘上涨后突然掉头向下，最终收盘下跌。这场突如其来的行情反转，导火索是美国与伊朗（Iran）之间重新燃起了对话的希望，直接导致国际原油和欧洲天然气价格出现深跌。",
+  "虽然从短期来看，由于美国天然气出口能力受限，本土市场在很大程度上与海外供应冲击隔离开来，但受大宗商品整体大跌的拖动，市场还是出现了针对美国天然气的抛售潮。",
+  "对于海外华人朋友来说，能源价格的波动往往是全球经济风向的晴雨表。虽然美国本土天然气短期内受出口限制影响有限，但大宗商品的整体连动也会对宏观经济和通胀产生微妙影响，大家在关注油价和燃气账单时不妨多留个心眼。"
+ ],
+ "tags": [
+  "美国天然气",
+  "国际油价",
+  "美伊关系",
+  "大宗商品",
+  "海外华人"
+ ],
+ "original_title": "US Natural Gas Falls With Oil as Hope for Iran Talks Reemerges",
+ "lang": "en",
+ "published": "2026-11-02T15:08:00+00:00",
+ "created": "2026-11-02T20:47:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

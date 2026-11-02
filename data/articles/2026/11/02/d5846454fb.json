@@ -1,0 +1,25 @@
+{
+ "key": "d5846454fb",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/ukraine-says-russian-strike-on-humanitarian-aid-center-kills-24",
+ "title": "惨剧！乌克兰一处人道主义救援中心遭空袭，已致至少24人死亡",
+ "summary": "乌克兰当局表示，南部一处人道主义救援中心遭到俄军空袭，造成至少24人死亡，平民伤亡人数再度增加。",
+ "body": [
+  "据彭博社（Bloomberg News）报道，乌克兰官方称，南部地区的一处人道主义救援中心近日遭到俄罗斯空袭，导致至少24人不幸丧生。",
+  "当局表示，近期针对平民和民用设施的袭击呈上升趋势，平民伤亡代价正在不断攀升。"
+ ],
+ "tags": [
+  "乌克兰局势",
+  "俄乌冲突",
+  "人道主义灾难",
+  "国际新闻"
+ ],
+ "original_title": "Ukraine Says Russian Strike on Humanitarian Aid Center Kills 24",
+ "lang": "en",
+ "published": "2026-11-02T19:57:27+00:00",
+ "created": "2026-11-02T20:47:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

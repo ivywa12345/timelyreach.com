@@ -1,0 +1,27 @@
+{
+ "key": "c857c586ce",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/alerts/uscis-opens-new-international-field-office-in-ethiopia-to-support-fraud-prevention",
+ "title": "美国移民局要在埃塞俄比亚设新办公室了！主要干啥？",
+ "summary": "美国移民局（USCIS）宣布将于2026年9月9日在埃塞俄比亚首都亚的斯亚贝巴开设新的海外办事处，重点负责打击移民欺诈、核实文件真伪及采集DNA以确认亲属关系。",
+ "body": [
+  "美国公民及移民服务局（USCIS）近日宣布，将于2026年9月9日在埃塞俄比亚亚的斯亚贝巴（Addis Ababa）正式开设一个新的国际办事处，专门处理当地的移民相关事务。",
+  "据移民局介绍，这个新办公室的工作人员将承担几项关键职责，包括核实外国文件的真实性、调查涉嫌移民欺诈的行为，以及采集DNA来确认家庭亲属关系。在此之前，这些工作通常需要通过美国国务院（Department of State）来协调完成。新办公室的设立将为移民局提供一个常驻现场，直接处理这些关键业务，这也是该机构加强海外业务运营能力的一部分。",
+  "需要注意的是，亚的斯亚贝巴办公室的所有服务将严格采取预约制。移民局后续会在其国际移民办公室网页上更新有关该办事处、具体服务内容以及预约方式的详细信息。对于关注海外移民审理动态的人士来说，此举意味着移民局正在进一步收紧和规范海外移民材料的审核力度。"
+ ],
+ "tags": [
+  "美国移民局",
+  "海外办公室",
+  "移民欺诈",
+  "埃塞俄比亚",
+  "签证审理"
+ ],
+ "original_title": "USCIS Opens New International Field Office in Ethiopia to Support Fraud Prevention",
+ "lang": "en",
+ "published": "2026-09-03T18:15:27+00:00",
+ "created": "2026-11-02T20:49:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

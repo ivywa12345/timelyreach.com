@@ -1,0 +1,26 @@
+{
+ "key": "c5637e0e67",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/georgia-makes-obamacare-less-irrational-150f4d08?mod=rss_opinion",
+ "title": "奥巴马医保竟然能这么玩？佐治亚州这波操作治好了“价格畸形”！",
+ "summary": "联邦医保补贴催生了奇葩的保费扭曲现象，而佐治亚州最近找到了一种巧妙的解决方法。",
+ "body": [
+  "联邦医保的保费税收抵免政策（federal premium tax credit）一直以来催生了不少让人看不懂的价格扭曲现象。不过，最近佐治亚州（Georgia）的大招可以说是对症下药，给这个系统打了个结实的小补丁。",
+  "根据《华尔街日报》专栏作家托尼·洛萨索（Tony Lo Sasso）的分析，原本的联邦补贴机制在某些情况下让保险定价变得极不合理。好在佐治亚州这次主动出击，找到了一套切实可行的修复方案，让整个医保市场的价格回归了一点理性。",
+  "对于在美华人来说，日常买保险、看病吃药都是开销大头。各州在医疗政策上的调整，往往直接关系到大家的钱包厚度。虽然这是一次地方上的制度微调，但也让我们看到政策漏洞被堵上后，普通人或许能享受到更合理的保费定价。"
+ ],
+ "tags": [
+  "佐治亚州",
+  "奥巴马医保",
+  "医疗保险",
+  "海外华人生活"
+ ],
+ "original_title": "Georgia Makes ObamaCare Less Irrational",
+ "lang": "en",
+ "published": "2026-11-01T19:41:00+00:00",
+ "created": "2026-11-02T20:46:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

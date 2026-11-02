@@ -1,0 +1,27 @@
+{
+ "key": "538e04937f",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories",
+ "title": "美国经济火热，债市却反常规大涨？这剧本不对啊！",
+ "summary": "根据美国商务部的初步数据，第三季度美国经济创下五年多来的最快增速。然而，尽管经济数据强劲，10月份美国国债却迎来了意料之外的反弹，这让华尔街的传统投资法则失效了。",
+ "body": [
+  "根据美国商务部（Commerce Department）对国内生产总值（GDP）的初步统计，美国经济在第三季度迎来了五年多来最快的增长速度。按理说，经济这么火热，利率和债券收益率应该往上走，债券价格应该跌才对。",
+  "不过，现实却跟投资老手们的常规剧本开了个玩笑。面对一波又一波强劲的经济数据，美国国债（Treasury bonds）在10月份居然上演了一场让人大跌眼镜的意外反弹行情。",
+  "对于咱们海外华人来说，金融市场的这种“反常操作”往往会直接影响到房贷利率、储蓄收益以及整体的投资环境。虽然经济看着一片大好，但债券市场的走势说明资金流向和机构预期正在发生微妙变化，大家在做资产配置时还得盯紧这些宏观风向标。"
+ ],
+ "tags": [
+  "美国经济",
+  "美国国债",
+  "华尔街",
+  "投资理财",
+  "宏观经济"
+ ],
+ "original_title": "The bond-market rally is defying the typical investing playbook. Here’s why.",
+ "lang": "en",
+ "published": "2026-11-02T18:13:00+00:00",
+ "created": "2026-11-02T20:49:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

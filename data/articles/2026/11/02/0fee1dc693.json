@@ -1,0 +1,27 @@
+{
+ "key": "0fee1dc693",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6?mod=rss_Technology",
+ "title": "800亿美元！AI芯片大厂Marvell大手笔吞并Lumentum",
+ "summary": "芯片制造商Marvell同意以800亿美元收购Lumentum，强强联合打造AI基础设施巨头。",
+ "body": [
+  "芯片制造商迈威尔科技（Marvell）近日达成一项重大协议，同意以800亿美元的价格收购光器件大厂朗美通（Lumentum）。",
+  "这笔交易将两家在人工智能（AI）领域发展最快的技术推手强强联合，进一步整合了AI硬件和光通信市场，备受行业关注。",
+  "对于关注科技股和AI行业发展的海外华人来说，这桩百亿级别的大并购再次印证了AI浪潮下硬件基础设施的疯狂扩张，相关产业链的投资格局或将迎来新变化。"
+ ],
+ "tags": [
+  "Marvell",
+  "Lumentum",
+  "AI芯片",
+  "收购",
+  "科技新闻"
+ ],
+ "original_title": "Chip Maker Marvell Agrees to Buy Lumentum in $80 Billion Deal",
+ "lang": "en",
+ "published": "2026-11-02T13:21:00+00:00",
+ "created": "2026-11-02T20:46:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

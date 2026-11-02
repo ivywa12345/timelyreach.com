@@ -1,0 +1,27 @@
+{
+ "key": "7abc53aeee",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
+ "title": "疯狂砸钱搞AI！甲骨文借债借成“垃圾债”？股价也跟着遭殃",
+ "summary": "甲骨文（Oracle）为了发力AI云业务疯狂举债和发股票，筹资目标高达200亿美元，导致其债务交易表现得像“垃圾债券”，股价也因此承压。",
+ "body": [
+  "最近科技圈搞AI真的是太烧钱了！根据MarketWatch报道，老牌科技巨头甲骨文（Oracle）为了给自家的AI云业务扩张筹集资金，盯上了高达200亿美元的巨额资金。为此，公司不仅大量借债，还发行了股票。",
+  "不过，这一激进的财务动作让市场捏了一把汗。由于借贷规模巨大，甲骨文的债务交易表现得就像是“垃圾债券”一样，公司的股价也为此付出了代价，承受了不小的下行压力。",
+  "对咱们海外华人来说，科技巨头们在AI领域的军备竞赛正进行得如火如荼。虽然这关系到未来云计算和AI技术的走向，但像甲骨文这样背负重债猛冲AI，是否会引发自身的财务风险，甚至波及科技股大盘和大家的投资账户，确实值得密切关注。"
+ ],
+ "tags": [
+  "甲骨文",
+  "Oracle",
+  "人工智能",
+  "美股",
+  "财经新闻"
+ ],
+ "original_title": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
+ "lang": "en",
+ "published": "2026-11-02T17:31:00+00:00",
+ "created": "2026-11-02T20:49:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
