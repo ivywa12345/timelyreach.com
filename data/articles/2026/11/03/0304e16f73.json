@@ -1,0 +1,22 @@
+{
+ "key": "0304e16f73",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
+ "title": "11月3日最新石油市场新闻和分析",
+ "summary": "由于交易员分析了美国和伊朗之间和平谈判轨迹上的相互矛盾的迹象，油价在波动中波动。",
+ "body": [
+  "由于交易员分析了美国和伊朗之间和平谈判轨迹上的相互矛盾的迹象，油价在波动中波动。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Latest Oil Market News and Analysis for Nov. 3",
+ "lang": "en",
+ "published": "2026-11-02T23:01:19+00:00",
+ "created": "2026-11-03T18:06:45+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

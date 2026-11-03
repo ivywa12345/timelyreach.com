@@ -1,0 +1,22 @@
+{
+ "key": "da8fab989a",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/hydro-quebec-forced-to-import-more-power-after-deals-with-us-utilities",
+ "title": "与美国公用事业公司达成协议后， Hydro-Quebec被迫进口更多电力",
+ "summary": "Hydro-Quebec是一家加拿大可再生能源发电厂，拥有美国主要出口合同，其投资计划价值2000亿加元（ 1430亿美元） ，到2041年将延长六年。在此之前，它预计可能成为电力净进口国。",
+ "body": [
+  "Hydro-Quebec是一家加拿大可再生能源发电厂，拥有美国主要出口合同，其投资计划价值2000亿加元（ 1430亿美元） ，到2041年将延长六年。在此之前，它预计可能成为电力净进口国。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Hydro-Quebec Forced to Import More Power After Deals With US Utilities",
+ "lang": "en",
+ "published": "2026-11-03T17:18:12+00:00",
+ "created": "2026-11-03T18:06:51+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
