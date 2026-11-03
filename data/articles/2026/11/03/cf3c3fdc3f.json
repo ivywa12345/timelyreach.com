@@ -1,0 +1,27 @@
+{
+ "key": "cf3c3fdc3f",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/us-stocks-waver-as-election-ai-bubble-risks-weigh-on-outlook",
+ "title": "美股大选日震荡微涨！华尔街正紧盯着国会归属和AI泡沫",
+ "summary": "美国大选日当天，美股在开盘后呈现微涨态势。尽管投资者面临着国会两院控制权悬念以及人工智能（AI）板块风险升温的双重压力，但市场情绪依然保持坚挺。",
+ "body": [
+  "美国大选投票正在火热进行中，华尔街的神经也紧绷到了极点。据彭博社（Bloomberg）报道，美股在开盘后迎来了小幅上涨，不过大盘整体仍然笼罩在不确定性当中。",
+  "目前，不仅白宫宝座争夺激烈，国会参众两院的最终归属也充满悬念。与此同时，投资者们还在反复掂量人工智能（AI）概念股近期不断上升的风险，盘面可以说是多空交织。",
+  "对于咱们海外华人来说，大选结果和科技股的走向直接关乎401(k)退休账户、投资理财的钱包厚度。大选尘埃落定之前，市场波动在所难免，大家近期做资产配置时还得系好安全带。"
+ ],
+ "tags": [
+  "美股",
+  "美国大选",
+  "华尔街",
+  "人工智能",
+  "海外华人理财"
+ ],
+ "original_title": "US Stocks Inch Up Even as Election, AI Risks Weigh on Outlook",
+ "lang": "en",
+ "published": "2026-11-03T13:15:16+00:00",
+ "created": "2026-11-03T15:13:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

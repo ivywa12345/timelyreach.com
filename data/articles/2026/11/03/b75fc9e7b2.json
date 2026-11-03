@@ -1,0 +1,27 @@
+{
+ "key": "b75fc9e7b2",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/beijing-reins-in-ipo-rush-after-ai-concerns-hit-stock-market-d6abe32b?mod=rss_markets_main",
+ "title": "A股暂缓受理新股IPO？监管层最新动作来了",
+ "summary": "中国证监会近期向银行等机构表示，虽然正在进行的IPO流程会继续，但目前暂时不会受理新的上市申请。",
+ "body": [
+  "据《华尔街日报》报道，中国证监会近期对银行和相关金融机构透露了最新的IPO（首次公开募股）政策风向。简单来说就是：已经在走流程的IPO项目可以继续推进，但监管部门暂时不接新面孔的上市申请了。",
+  "在此之前，市场曾因对人工智能（AI）板块等相关担忧，导致股市出现波动。监管层此次放缓IPO节奏，被外界视为平衡市场供需、稳定股市信心的一个信号。",
+  "对于关注国内资本市场的海外华人投资者来说，这一举措意味着A股近期的新股供给将有所收紧，监管层正着手控制上市节奏以维护市场平稳运行。"
+ ],
+ "tags": [
+  "A股",
+  "IPO",
+  "中国证监会",
+  "华尔街日报",
+  "财经热点"
+ ],
+ "original_title": "Beijing Reins In IPO Rush After AI Concerns Hit Stock Market",
+ "lang": "en",
+ "published": "2026-11-03T13:02:00+00:00",
+ "created": "2026-11-03T15:08:51+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

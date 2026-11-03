@@ -1,0 +1,27 @@
+{
+ "key": "773264d6f3",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/health-insurance-is-the-sleeper-inflation-issue-fea899df?mod=rss_markets_main",
+ "title": "医疗保险：藏在通胀数据底下的“隐形刺客”？",
+ "summary": "《华尔街日报》专栏作家Greg Ip指出，医疗保险是当前容易被忽视的通胀问题。此外，文章还探讨了AI在经济学中的应用、诺贝尔奖得主William Nordhaus的气候经济学见解，以及美国在“全球办公室”竞争中超越中国的现象。",
+ "body": [
+  "说到通胀，大家平时最关注的可能都是去超市买菜、加油或者买房的开销，不过《华尔街日报》专栏作家Greg Ip提醒大家，还有一个“隐形推手”常常被忽视，那就是医疗保险。",
+  "除了医保通胀这个“冷门”话题，这篇文章还涉猎颇广，盘点了不少当前经济领域的热点。其中包括人工智能（AI）如何在经济学大显身手，著名经济学家William Nordhaus对气候变化的独到见解，以及美国目前在“Global Office（全球办公室）”竞争中如何压过中国一头。",
+  "对于咱们海外华人来说，医疗保险费用向来是家庭开销里的一块大头。虽然目前这还只是宏观经济讨论中的一个“睡眠议题”（Sleeper Issue），但保费的任何风吹草动，未来都有可能实实在在地影响到大家的钱包和日常生活。"
+ ],
+ "tags": [
+  "通货膨胀",
+  "医疗保险",
+  "海外生活",
+  "美国经济",
+  "华尔街日报"
+ ],
+ "original_title": "Health Insurance Is the Sleeper Inflation Issue",
+ "lang": "en",
+ "published": "2026-11-03T11:00:00+00:00",
+ "created": "2026-11-03T15:09:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

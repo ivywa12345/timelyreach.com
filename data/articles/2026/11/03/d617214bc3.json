@@ -1,0 +1,27 @@
+{
+ "key": "d617214bc3",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
+ "title": "2026美国中期选举要来了？经济学人已经开通实时结果追踪页面啦！",
+ "summary": "经济学人网站目前已上线2026年美国中期选举的实时结果追踪页面，将持续关注参议院和众议院的各大选区战况。",
+ "body": [
+  "如果你跟小编一样，对美国政治走向格外上心，那可得把各大媒体的动态盯紧了。著名媒体《经济学人》（The Economist）最近已经提前上线了2026年美国中期选举的专题页面（US midterms 2026: live results）。",
+  "虽然距离投票还有一段时间，但这个实时追踪页面已经蓄势待发。接下来，它将全面覆盖全美各地参议院（Senate）和众议院（House of Representatives）的所有关键选区战况，随时更新选情变化。",
+  "对于咱们海外华人来说，国会两院的权力版图变动直接关乎税收、经济政策、移民乃至子女教育等切身利益。接下来的日子里，两党又要开始神仙打架了，大家不妨多留心这些选情动态，看看谁能最终拿下国会山。"
+ ],
+ "tags": [
+  "美国中期选举",
+  "经济学人",
+  "参议院",
+  "众议院",
+  "海外华人"
+ ],
+ "original_title": "US midterms 2026: live results",
+ "lang": "en",
+ "published": "2026-11-03T12:47:03+00:00",
+ "created": "2026-11-03T15:11:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

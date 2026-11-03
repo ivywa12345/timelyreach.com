@@ -1,0 +1,27 @@
+{
+ "key": "5354141a37",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/cio-journal/ais-most-wanted-hire-gets-a-big-raise-4f084fc8?mod=rss_Technology",
+ "title": "AI界最抢手的打工人，薪水又双叒涨了？",
+ "summary": "华尔街日报报道指出，人工智能领域最抢手的人才迎来了薪酬大幅上涨，同时AI议题也成为了美国各地选票上的热门话题。",
+ "body": [
+  "话说现在各行各业都在卷人工智能（AI），但最吃香的到底是什么人？根据《华尔街日报》的最新报道，AI行业里最抢手的顶尖人才（AI's Most Wanted Hire）最近又迎来了一波大涨薪。",
+  "虽然报道没有透露具体的六位数甚至七位数天价薪酬细节，但这也从侧面反映出各大科技公司为了争夺懂大模型、搞算法的核心技术大牛，真的是下了血本。与此同时，AI技术不仅在科技圈翻江倒海，现在连美国各地的选举（AI on the ballot）都把它当成了重要议题，从东海岸到西海岸，选民和政客们都在琢磨怎么给AI这匹野马套上缰绳。",
+  "对于咱们在海外的华人来说，这绝对是个风向标。不管是想转行搞技术、拿高薪，还是关心未来AI会对工作岗位和社区安全产生什么影响，这股科技热潮都跟咱们的钱包和职业发展息息相关。看来，这波AI的红利还得持续好一阵子。"
+ ],
+ "tags": [
+  "人工智能",
+  "AI人才",
+  "薪酬涨幅",
+  "科技新闻",
+  "海外华人"
+ ],
+ "original_title": "AI’s Most Wanted Hire Gets a Big Raise",
+ "lang": "en",
+ "published": "2026-11-03T13:45:00+00:00",
+ "created": "2026-11-03T15:10:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

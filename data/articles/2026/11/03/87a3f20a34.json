@@ -1,0 +1,27 @@
+{
+ "key": "87a3f20a34",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/nj-governor-warns-ports-against-russian-diesel-allowed-by-trump",
+ "title": "新泽西州长急了：敢收川普放行的俄罗斯柴油，当心违法！",
+ "summary": "新泽西州长米基·谢里尔（Mikie Sherrill）公开警告本州港口和码头运营商，不得接收由川普政府授权的俄罗斯柴油货轮，并指出至少有一艘载有该燃料的油轮可能正驶向该州。",
+ "body": [
+  "近日，新泽西州长米基·谢里尔（Mikie Sherrill）向当地的港口和码头运营商发出严厉警告，要求他们千万不要接收川普（Trump）政府授权进口的俄罗斯柴油。她指出，这类进口行为已经违反了联邦法律，并透露目前至少有一艘装载着这种燃料的油轮可能正在开往新泽西州。",
+  "这起事件的背景涉及复杂的联邦政策与地方执法之间的博弈。川普政府此前曾对部分俄罗斯柴油的进口给予授权，但谢里尔州长强调整体联邦法律依然禁止此类贸易，地方港口若擅自接收将面临法律风险。",
+  "对于身处海外的华人来说，这类能源政策的变动往往会直接影响到本地的燃油价格和供应链稳定。我们会持续关注这艘油轮的去向以及后续的执法进展。"
+ ],
+ "tags": [
+  "新泽西州",
+  "俄罗斯柴油",
+  "川普政府",
+  "港口贸易",
+  "海外华人"
+ ],
+ "original_title": "NJ Governor Warns Ports Against Russian Diesel Allowed by Trump",
+ "lang": "en",
+ "published": "2026-11-03T14:56:40+00:00",
+ "created": "2026-11-03T15:13:08+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

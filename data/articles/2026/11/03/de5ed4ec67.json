@@ -1,0 +1,27 @@
+{
+ "key": "de5ed4ec67",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/judge-rejects-bid-to-limit-whom-doj-can-send-as-poll-monitors",
+ "title": "大选前夜急了！法官驳回叫停司法部派执法人员监督投票的请求",
+ "summary": "美国联邦法官在周二中期选举前的最后关头，驳回了全国有色人种协进会（NAACP）要求限制司法部派遣联邦执法人员担任投票监督员的请求。",
+ "body": [
+  "美国全国有色人种协进会（NAACP）在周二中期选举（midterm election）投票前的最后关头，试图通过法律手段阻止美国司法部（US Justice Department）派遣联邦执法人员前往投票站担任监督员，但这一请求遭到了联邦法官的拒绝。",
+  "根据彭博社（Bloomberg）报道，这场诉讼聚焦于司法部是否有权在选举日部署联邦执法人员参与投票监督工作。NAACP此前紧急要求法院对这种做法进行限制，不过法官最终未予支持，让司法部的原定部署得以推进。",
+  "对于关注选举公正性和投票安全的在美华人来说，投票站现场出现联邦执法人员或各类监督员并不罕见。这类法律层面的最后交锋，也凸显了历次美国大选中各方对投票秩序和监督力度的敏感与博弈。"
+ ],
+ "tags": [
+  "美国大选",
+  "司法部",
+  "投票监督",
+  "NAACP",
+  "法律诉讼"
+ ],
+ "original_title": "Judge Denies Bid to Limit Whom DOJ Can Send as Poll Monitors",
+ "lang": "en",
+ "published": "2026-11-03T05:19:31+00:00",
+ "created": "2026-11-03T15:14:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

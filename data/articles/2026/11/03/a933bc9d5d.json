@@ -1,0 +1,25 @@
+{
+ "key": "a933bc9d5d",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/trump-says-u-s-plans-to-cut-off-aid-to-israel-by-end-of-the-year-0046c0ed?mod=rss_worldnews",
+ "title": "特朗普突然放话：年底前砍断对以色列援助？",
+ "summary": "根据《华尔街日报》报道，美国和以色列此前曾讨论过逐步减少援助，但美国总统特朗普的最新表态暗示，这一过程可能会比预期快得多，计划在今年年底前切断对以援助。",
+ "body": [
+  "美国总统特朗普近日表示，美国计划在今年年底前切断对以色列的援助。虽然此前美国和以色列官方曾探讨过逐步减少援助的方案，但特朗普的最新言论表明，这一进程可能会比外界想象的要快得多。",
+  "目前，美以双方正就相关计划进行沟通，但具体的砍断时间表和后续影响仍有待进一步观察。"
+ ],
+ "tags": [
+  "特朗普",
+  "以色列",
+  "美国援助",
+  "国际新闻"
+ ],
+ "original_title": "Trump Says U.S. Plans to Cut Off Aid to Israel by End of Year",
+ "lang": "en",
+ "published": "2026-11-03T14:31:00+00:00",
+ "created": "2026-11-03T15:07:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

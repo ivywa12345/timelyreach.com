@@ -1,0 +1,26 @@
+{
+ "key": "827db5a0ef",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026?mod=rss_markets_main",
+ "title": "苹果财报拖累！美股开盘涨跌互现，科技股抛售暂时歇口气",
+ "summary": "苹果公司财报表现让人失望，导致美股周五开盘呈现涨跌互现的局面。不过，近期的科技股抛售潮暂时按下了暂停键，同时油价继续下跌，投资者们的目光也开始转向即将到来的中期选举。",
+ "body": [
+  "各位老铁，美股今天开盘又是个混合局面！因为科技巨头苹果公司（Apple）交出的财报让人有点小失望，大盘开盘后走势分化，不过好在吓人的科技股抛售潮总算暂时歇了一口气。",
+  "从市场全局来看，除了科技股喘了口气之外，油价还在继续往下跌。现在华尔街各路投资者的心眼儿可不止盯着财报，大家的目光已经开始转向即将到来的中期选举了，毕竟政治局势对后面的钱包走向影响可不小。"
+ ],
+ "tags": [
+  "美股",
+  "苹果",
+  "财报",
+  "科技股",
+  "中期选举"
+ ],
+ "original_title": "Stock Market Today: Stocks Open Mixed After Apple Earnings Disappoint",
+ "lang": "en",
+ "published": "2026-11-03T08:43:11+00:00",
+ "created": "2026-11-03T15:08:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

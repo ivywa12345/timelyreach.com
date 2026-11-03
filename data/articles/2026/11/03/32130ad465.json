@@ -1,0 +1,26 @@
+{
+ "key": "32130ad465",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/series-of-bomb-threats-force-flight-diversions-across-europe",
+ "title": "太吓人了！欧洲多趟航班连环遭炸弹威胁，被迫紧急备降大搜查",
+ "summary": "过去两天内，欧洲多趟航班遭遇连环炸弹威胁，机上数百名乘客受到惊吓，飞机被迫紧急备降并接受全面搜查。",
+ "body": [
+  "据彭博社（Bloomberg）报道，在过去的两天里，欧洲多架航班接连收到炸弹威胁。这些威胁导致机上载有数百名乘客的飞机被迫改变航线、紧急备降，并在抵达目的地后接受了严格的安全搜查。",
+  "目前相关部门正在对这些威胁的来源和真实性进行紧急调查，尚无详细的航班号或具体航空公司信息公布。这类突发事件不仅打乱了旅客的出行计划，也再次敲响了欧洲航空安全的警钟。",
+  "对于近期有计划前往欧洲旅游或出差的海外华人来说，出行前务必密切关注航班动态，预留充足的机场安检时间，确保旅途平安。"
+ ],
+ "tags": [
+  "欧洲旅游",
+  "航空安全",
+  "突发新闻",
+  "海外出行"
+ ],
+ "original_title": "Bomb Threats Against Airlines Force Diversions Across Europe",
+ "lang": "en",
+ "published": "2026-11-03T14:14:05+00:00",
+ "created": "2026-11-03T15:14:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

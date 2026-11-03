@@ -1,0 +1,26 @@
+{
+ "key": "ec6cb11fa2",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/europe-russian-gas-lng-trump-administration-angela-merkel-nord-stream-79ddd89e?mod=rss_opinion",
+ "title": "美媒爆料：美国竟然在劝欧洲买俄罗斯天然气？这操作似曾相识！",
+ "summary": "据《华尔街日报》报道，美国目前正敦促欧洲国家购买俄罗斯的天然气，这一策略让人不禁联想到当年的默克尔和奥巴马路线。",
+ "body": [
+  "近日有媒体爆料称，美国正在私下敦促欧洲国家购买俄罗斯的天然气。这消息一出，让人直呼看不懂——美国以前不是一直在极力阻止欧洲对俄罗斯能源的依赖吗？",
+  "回顾历史，这种做法其实并不新鲜。德国前总理安格拉·默克尔（Angela Merkel）和美国前总统巴拉克·奥巴马（Barack Obama）当年在处理对俄关系时，就曾对类似务实的能源路线表示过认可。",
+  "对于身处海外的我们来说，国际地缘政治的每一次变动，最终都可能传导到能源价格和通货膨胀上，进而影响到大家的日常生活成本和钱包厚度。"
+ ],
+ "tags": [
+  "美国政治",
+  "俄罗斯天然气",
+  "欧洲能源",
+  "华尔街日报"
+ ],
+ "original_title": "Trump’s Merkel Strategy on Russia",
+ "lang": "en",
+ "published": "2026-11-02T22:43:00+00:00",
+ "created": "2026-11-03T15:11:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

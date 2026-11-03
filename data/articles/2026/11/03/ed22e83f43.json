@@ -1,0 +1,25 @@
+{
+ "key": "ed22e83f43",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/russian-airstrike-kills-31-at-ukraine-aid-center-888562b1?mod=rss_worldnews",
+ "title": "惨剧！乌克兰一援助中心遭俄军空袭，已致31人死亡",
+ "summary": "乌克兰南部一处学校人道主义援助发放点遭俄罗斯空袭，造成31人死亡，另有数十人失踪。",
+ "body": [
+  "据《华尔街日报》报道，乌克兰南部一处作为人道主义援助发放点的学校近日遭到俄罗斯空袭，目前已造成31人死亡，数十人失踪。",
+  "事发时，该学校正聚集了大量民众领取人道主义物资，空袭导致现场遭到严重破坏，搜救和统计工作仍在进行中。"
+ ],
+ "tags": [
+  "俄乌冲突",
+  "空袭",
+  "人道主义危机",
+  "国际新闻"
+ ],
+ "original_title": "Russian Airstrike Kills 31 at Ukraine Aid Center",
+ "lang": "en",
+ "published": "2026-11-03T13:17:00+00:00",
+ "created": "2026-11-03T15:07:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

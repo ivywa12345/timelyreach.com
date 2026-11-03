@@ -1,0 +1,26 @@
+{
+ "key": "fc18ef8c3b",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/apple-is-an-ai-safe-havenbut-safety-isnt-cheap-68fa76f6?mod=rss_Technology",
+ "title": "苹果成AI避风港，但想买这份“安全感”可真不便宜！",
+ "summary": "苹果（Apple）是少数几家没有把赌注全部压在人工智能（AI）狂潮上的科技巨头，但这种独特性也意味着更高的成本。",
+ "body": [
+  "说到最近的科技股，大家都一门心思扑在人工智能（AI）上，但苹果（Apple）却是个例外——它是为数不多没有把身家性命全押在AI狂潮上的科技巨头。",
+  "根据《华尔街日报》专栏作家Asa Fitch的分析，虽然华尔街都在疯狂追逐AI概念，苹果走了一条相对稳健的路。不过，这种独特的“避风港”定位并不是白来的，投资者想要买这份安全感，付出的代价可一点也不便宜。"
+ ],
+ "tags": [
+  "苹果",
+  "人工智能",
+  "科技股",
+  "华尔街日报",
+  "美股投资"
+ ],
+ "original_title": "Apple Is an AI Safe Haven—but Safety Isn’t Cheap",
+ "lang": "en",
+ "published": "2026-11-03T10:30:00+00:00",
+ "created": "2026-11-03T15:10:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

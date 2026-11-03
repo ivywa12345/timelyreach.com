@@ -1,0 +1,27 @@
+{
+ "key": "8596ae9dd3",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/03/bill-ackman-casino-stock-market.html",
+ "title": "华尔街大佬也看不懂了？亿万富翁阿克曼警告：现在的股市简直就是赌场！",
+ "summary": "潘兴广场资本管理公司创始人比尔·阿克曼近日警告称，由于投机交易激增和高杠杆率，美股市场正变得像“赌场”一样混乱，虽然这给长线投资者创造了捡漏的机会，但对整个国家和经济来说并非好事。",
+ "body": [
+  "美股最近的魔幻走势，连华尔街顶级大佬都直呼“看不懂”了。对冲基金潘兴广场资本管理公司（Pershing Square Capital Management）创始人比尔·阿克曼（Bill Ackman）近日在接受CNBC采访时直言，现在的市场让他感觉像是回到了当年杠杆率高达95%的“赌场时代”。",
+  "阿克曼指出，由于投机交易和各种杠杆工具的泛滥，许多股票的价格已经完全脱离基本面，每天都在经历剧烈的狂飙暴跌。虽然这种“降智”的价格对他这样的长线投资者来说是捡便宜的好机会——比如他们在微软（Microsoft）大跌、亚马逊（Amazon）受关税打击、以及谷歌母公司Alphabet因ChatGPT冲击大跌时成功抄底——但他认为这种投机风气对整个社会和经济极其危险。",
+  "这位亿万富翁警告称，随着单日杠杆产品、永续期货和各类赌博式投资的兴起，很多人把股市当成了快速暴富的工具，这种心态可能带来灾难性后果。不过，看准美股暴跌疯狂“扫货”的他，目前依然十分看好Visa、万事达卡（Mastercard）以及Netflix等巨头的业务表现。"
+ ],
+ "tags": [
+  "美股",
+  "比尔阿克曼",
+  "股市杠杆",
+  "投机",
+  "华尔街"
+ ],
+ "original_title": "Bill Ackman warns of 'casino' stock market as speculative trading grows",
+ "lang": "en",
+ "published": "2026-11-03T15:16:08+00:00",
+ "created": "2026-11-03T15:18:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
