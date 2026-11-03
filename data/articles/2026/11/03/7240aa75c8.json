@@ -1,0 +1,27 @@
+{
+ "key": "7240aa75c8",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/alerts/uscis-to-publish-new-edition-of-form-i-485-older-editions-will-be-rejected-starting-sept-18",
+ "title": "绿卡申请注意啦！美国移民局将推出新版I-485表格，旧版直接退件",
+ "summary": "美国移民局（USCIS）宣布将于2026年9月18日发布新版I-485表（身份调整申请），以配合最新公布的公共负担不准入境最终规则。新版表格没有宽限期，旧版表格在9月18日起将被拒绝接收。",
+ "body": [
+  "美国移民局（USCIS）近日发布提醒，计划于2026年9月18日正式推出新版本的I-485表格（Application to Register Permanent Residence or Adjust Status，即绿卡调整身份申请表），新版表格的落款日期为“09/18/26”。",
+  "据移民局介绍，此次改版主要是为了配合近期公布的“公共负担不准入境最终规则”（Public Charge Ground of Inadmissibility Final Rule）。新版表格将取代目前的01/20/25旧版本。",
+  "需要特别注意的是，这次改版“没有宽限期”。也就是说，在2026年9月18日之前，移民局只接受旧版表格；而在9月18日（含当天）及之后寄出或电子提交的申请，如果继续使用旧版（01/20/25版本），将会被移民局直接拒绝。同时，移民局也提醒大家千万不要在9月18日之前提交新版表格，只有在当天及之后邮寄或网申的09/18/26新版表格才会获受理。目前移民局官网已经提供了新版表格及填表说明的预览版，准备办身份的小伙伴们近期填表时一定要看清版本号，避免因为表格交错而被退件、耽误宝贵的时间。"
+ ],
+ "tags": [
+  "美国移民局",
+  "绿卡申请",
+  "I-485",
+  "海外生活",
+  "身份调整"
+ ],
+ "original_title": "USCIS to Publish New Edition of Form I-485; Older Editions Will Be Rejected Starting Sept. 18",
+ "lang": "en",
+ "published": "2026-08-19T13:21:45+00:00",
+ "created": "2026-11-03T21:03:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

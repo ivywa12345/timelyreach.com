@@ -1,0 +1,25 @@
+{
+ "key": "0dea11ba9a",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-as-markets-await-midterm-election-results-ddbae162?mod=rss_markets_main",
+ "title": "美国中期选举正在投票，美债和欧洲国债收益率双双走高！",
+ "summary": "美国中期选举投票日当天，由于市场静待选举结果，美国国债及欧洲政府债券收益率均出现上升。",
+ "body": [
+  "美国中期选举（midterm elections）正在进行中，选民们纷纷前往投票所。受此影响，债券市场率先有了动作，美国国债和欧洲政府债券的收益率在选举日当天双双走高（Paulo Trevisani 报道）。",
+  "目前，全球金融市场都在屏息以待这次中期选举的最终结果，投资者们正密切关注选举走向将对未来的财政和经济政策产生何种影响。"
+ ],
+ "tags": [
+  "美国中期选举",
+  "美债收益率",
+  "欧洲国债",
+  "金融市场"
+ ],
+ "original_title": "Treasury, European Government Bond Yields Rise as Markets Await U.S. Midterm Election Results",
+ "lang": "en",
+ "published": "2026-11-03T19:53:00+00:00",
+ "created": "2026-11-03T20:59:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

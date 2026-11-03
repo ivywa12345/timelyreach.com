@@ -1,0 +1,26 @@
+{
+ "key": "43f0d2a0ec",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/03/us-news/important-pieces-of-doomed-learjet-separated-before-crash-that-killed-9-officials/",
+ "title": "佛州坠机9人全遇难！调查曝惊人细节：机尾重要部件在空中就散架了？",
+ "summary": "佛罗里达州周日发生一起惨烈的里尔喷气机（Learjet）坠毁事故，造成机上9人全部遇难。美国国家运输安全委员会（NTSB）官员周二表示，初步调查发现，飞机尾部的关键部件在撞击地面之前就已经脱落。",
+ "body": [
+  "这起悲剧发生在周日的佛罗里达州，一架里尔喷气机（Learjet）不幸坠毁，导致机上9人无一幸免。事故原因目前正在加紧调查中。",
+  "美国国家运输安全委员会（NTSB）发言人托马斯·B·查普曼（Thomas B. Chapman）在周二的新闻发布会上透露，飞机控制机身上下俯仰的左侧升降舵，在距离事故现场约1.3到3.8英里的范围内被找到了，并且碎成了三截。",
+  "查普曼表示：“这告诉我们，至少有一部分飞机组件，即飞机的重要部件，在撞击前就已经分离了。”不过他也指出，这究竟是导致飞机失控的原因，还是飞机在空中承受巨大过载后部件才脱落的结果，目前尚不清楚，还需要进一步的深入分析。"
+ ],
+ "tags": [
+  "佛州坠机",
+  "航空安全",
+  "里尔喷气机",
+  "美国交通安全委员会"
+ ],
+ "original_title": "‘Important pieces’ of doomed Learjet separated before crash that killed 9: officials",
+ "lang": "en",
+ "published": "2026-11-03T20:28:33+00:00",
+ "created": "2026-11-03T21:02:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

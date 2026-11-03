@@ -1,0 +1,26 @@
+{
+ "key": "61b3662f05",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/cio-journal/demand-for-forward-deployed-engineers-is-leading-to-1-5-million-paychecks-c1cd713a?mod=rss_Technology",
+ "title": "AI淘金热里杀出个新岗位：这种工程师年薪居然高达150万美元？",
+ "summary": "企业疯狂追逐AI投资回报，催生了对“前沿部署工程师（FDE）”的激烈争夺。企业、AI实验室和咨询公司都在抢夺这批稀缺人才，最高薪酬甚至飙升至150万美元。",
+ "body": [
+  "最近科技圈和华尔街都在疯狂找一种叫“前沿部署工程师（Forward-Deployed Engineers，简称FDE）”的人。简单来说，就是企业、AI实验室和咨询公司为了让AI真正落地赚到钱，现在都在抢同一批懂技术又能直接去一线解决问题的人才。",
+  "根据《华尔街日报》报道（记者Belle Lin），因为各家企业急于看到AI业务的投资回报率，导致这类人才极其抢手，甚至开出了高达150万美元的惊人年薪。",
+  "对于在海外科技行业打拼的华人朋友来说，这无疑释放了一个强烈的信号：技术硬核且能直接帮公司变现的复合型人才，目前在就业市场上可以说是“金饭碗”，身价水涨船高。"
+ ],
+ "tags": [
+  "人工智能",
+  "职场薪酬",
+  "海外就业",
+  "科技前沿"
+ ],
+ "original_title": "Demand for Forward-Deployed Engineers Is Leading to $1.5 Million Paychecks",
+ "lang": "en",
+ "published": "2026-11-03T13:30:00+00:00",
+ "created": "2026-11-03T21:00:08+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

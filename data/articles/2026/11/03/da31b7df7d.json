@@ -1,0 +1,27 @@
+{
+ "key": "da31b7df7d",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/the-internet-is-dying-ai-is-eating-it-and-obliterating-these-business-models-435ae2b0?mod=mw_rss_topstories",
+ "title": "互联网真的要“死”了？AI正在疯狂吞噬我们熟悉的网络世界",
+ "summary": "根据MarketWatch报道，有科技公司CEO直言，过去20多年来我们所熟知的互联网正在消亡，人工智能（AI）正在彻底改变并摧毁现有的商业模式。",
+ "body": [
+  "如果你觉得最近上网的感觉变了，那可能真不是错觉。根据财经媒体MarketWatch的报道，随着人工智能（AI）的爆发，过去20多年来我们所熟悉的互联网正在走向终结，这不仅会彻底改变网络的面貌，还在疯狂摧毁现有的各种商业模式。",
+  "正如一位科技公司CEO在采访中所说：“我们过去20多年所了解的互联网正在消失，一切都将发生彻底的改变。”目前，AI正在以前所未有的速度抓取、重组和吞噬网络上的内容，导致传统的网站流量、广告变现等底层逻辑面临崩塌危机。",
+  "对于海外华人来说，互联网生态的巨变可能很快就会波及到我们的日常生活、信息获取习惯，甚至是相关行业从业者的工作和商业投资。未来我们在网上找信息、做生意的方式，或许都要重新洗牌了。"
+ ],
+ "tags": [
+  "互联网",
+  "人工智能",
+  "科技趋势",
+  "商业模式",
+  "海外华人"
+ ],
+ "original_title": "The internet is ‘dying’: AI is eating it and obliterating these business models",
+ "lang": "en",
+ "published": "2026-11-03T20:46:00+00:00",
+ "created": "2026-11-03T21:02:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

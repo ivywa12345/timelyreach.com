@@ -1,0 +1,26 @@
+{
+ "key": "4568996083",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-03/the-big-ai-stock-selloff-is-happening-at-a-bad-time",
+ "title": "AI股票突然大跌！时机简直太糟了……",
+ "summary": "彭博社指出，在AI股票股价大跌之际，正赶上市场依赖股票融资的敏感时刻，时机非常糟糕。",
+ "body": [
+  "最近科技圈和金融圈都在盯紧一件事：AI概念股正在经历一波大抛售。彭博社（Bloomberg）的专栏作家Joe Weisenthal和Tracy Alloway撰文指出，这轮大跌发生的时间点极其尴尬，正值市场依靠股票来支撑的时候。",
+  "简单来说，当股价哗哗往下掉的时候，大家想要靠发行股票来融资就变得越来越难了。对于正在疯狂烧钱的AI行业来说，这可不是什么好兆头。",
+  "对咱们关注美股和科技圈的海外华人来说，这也提醒大家：市场波动大，投资AI相关股票时得系好安全带，看紧自己的钱包了。"
+ ],
+ "tags": [
+  "AI股票",
+  "美股大跌",
+  "科技股",
+  "彭博社"
+ ],
+ "original_title": "The Big AI Stock Selloff Is Happening at a Bad Time",
+ "lang": "en",
+ "published": "2026-11-03T20:57:24+00:00",
+ "created": "2026-11-03T21:00:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

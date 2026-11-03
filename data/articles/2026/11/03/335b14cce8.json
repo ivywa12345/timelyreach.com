@@ -1,0 +1,25 @@
+{
+ "key": "335b14cce8",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/canadian-oil-at-widest-discount-to-us-prices-since-2018",
+ "title": "急眼了！加拿大重油价格创2018年以来对美最大折价",
+ "summary": "加拿大重质原油价格与美国原油期货的差距拉大到2018年以来的最大水平，当时曾因管道瓶颈导致阿尔伯塔省政府对各大生产商实施了产量限制。",
+ "body": [
+  "根据彭博社（Bloomberg）记者罗伯特·塔特尔（Robert Tuttle）的报道，加拿大重质原油价格相对于美国原油期货的弱势程度，已经达到了2018年以来的最高纪录。回顾2018年，当时由于严重的输油管道瓶颈，加拿大阿尔伯塔省（Alberta）政府不得不对各大石油生产商实行了产量限制措施。",
+  "对于关注能源市场和通货膨胀的海外华人来说，原油价格的波动往往直接牵动着加油站的油价和整体经济成本。虽然目前加拿大官方尚未宣布新一轮的限产政策，但如此巨大的价格折价无疑反映出当地的运输和产能消化再次面临严峻考验。"
+ ],
+ "tags": [
+  "加拿大石油",
+  "油价波动",
+  "能源市场",
+  "海外经济"
+ ],
+ "original_title": "Canadian Oil at Widest Discount to US Prices Since 2018",
+ "lang": "en",
+ "published": "2026-11-03T20:12:11+00:00",
+ "created": "2026-11-03T21:00:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

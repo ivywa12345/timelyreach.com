@@ -1,0 +1,25 @@
+{
+ "key": "b2e3a4bbca",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/australian-banks-outperforming-on-rotation-away-from-ai-04a0c978?mod=rss_markets_main",
+ "title": "亚洲AI股刚崩完，欧洲芯片股也跟着遭殃了？",
+ "summary": "受亚洲人工智能相关股票遭到抛售的影响，欧洲半导体公司股价也出现下跌。",
+ "body": [
+  "继亚洲市场出现人工智能（AI）相关股票抛售潮之后，欧洲的半导体芯片股也集体遭遇了下跌行情。",
+  "这类科技股的联动下跌，往往反映出市场对高估值的AI板块情绪变得敏感，投资者的风控意识正在增强。"
+ ],
+ "tags": [
+  "芯片股",
+  "人工智能",
+  "股市动态",
+  "海外财经"
+ ],
+ "original_title": "European Chip Stocks Fall After Asia Selloff",
+ "lang": "en",
+ "published": "2026-11-03T09:30:00+00:00",
+ "created": "2026-11-03T20:59:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

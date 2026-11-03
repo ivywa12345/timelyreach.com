@@ -1,0 +1,27 @@
+{
+ "key": "f31b4bf4cf",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/appeals-court-lifts-election-limits-on-trump-administration",
+ "title": "大反转！联邦法院裁定：司法部有权警告统计争议选票的官员",
+ "summary": "美国联邦上诉法院近日在一场激烈的选举法律战中支持了特朗普政府，推翻了一项禁止司法部威胁州和地方选举官员（如果他们统计争议选票就面临起诉）的裁决。",
+ "body": [
+  "据彭博社报道（作者：Zoe Tillman 和 Greg Stohr），美国联邦上诉法院近日在一场快速推进的选举法律战中做出了有利于特朗普（Trump）政府的裁决。法院推翻了此前的一项地方法院裁决，该裁决原本禁止司法部（DOJ）威胁州和地方选举官员，如果他们统计争议选票（disputed ballots）将面临刑事起诉。",
+  "在这项裁决出炉之前，选举官员在处理有争议的选票时面临着来自联邦司法部的巨大法律压力。随着上诉法院支持司法部的立场，这一限制被解除，意味着司法部重新获得了对统计争议选票的官员采取法律行动的威慑权力。",
+  "对于关注美国大选走向的海外华人来说，选举规则的每一次变动都直接关系到大选结果的公正性与政治走向。选票统计的透明度和执法部门的角色一直是两党激烈争夺的焦点，这也将对未来的选举秩序产生深远影响。"
+ ],
+ "tags": [
+  "美国大选",
+  "联邦法院",
+  "司法部",
+  "选票争议",
+  "特朗普政府"
+ ],
+ "original_title": "Court Sides with DOJ in Fight Over Pressuring Election Officials",
+ "lang": "en",
+ "published": "2026-11-03T19:48:47+00:00",
+ "created": "2026-11-03T21:01:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

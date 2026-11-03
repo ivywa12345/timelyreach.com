@@ -1,0 +1,26 @@
+{
+ "key": "18d4bd8db2",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/elon-musk-will-turn-kids-into-capitalists-396c4fcf?mod=rss_opinion",
+ "title": "马斯克要帮孩子们早早理财？以色列最大银行这招绝了！",
+ "summary": "以色列Hapoalim银行通过向客户赠送股票，成功让许多从未投资过的人开启了投资之路。",
+ "body": [
+  "话说回来，最近华尔街日报（The Wall Street Journal）有一篇评论文章挺有意思，作者Sharona Mazalian Levi提到，像埃隆·马斯克（Elon Musk）这样的人物，未来可能会把孩子们培养成小小资本家。",
+  "事情的起因是以色列海波利姆银行（Bank Hapoalim）搞了一个大动作：他们直接给客户送股票，而这里面有很多客户以前根本就没碰过股票投资，对理财可以说是两眼一抹黑。",
+  "对咱们海外华人来说，国外的财商教育和理财环境一直都是大家关心的热门话题。从小接触股票投资不仅能培养财商，说不定还能在通货膨胀的压力下为下一代的钱包提前做好打算。"
+ ],
+ "tags": [
+  "理财",
+  "投资",
+  "财商教育",
+  "海外华人"
+ ],
+ "original_title": "Elon Musk Will Turn Kids Into Capitalists",
+ "lang": "en",
+ "published": "2026-11-03T19:22:00+00:00",
+ "created": "2026-11-03T21:00:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

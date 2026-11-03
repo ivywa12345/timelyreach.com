@@ -1,0 +1,28 @@
+{
+ "key": "15d8c1fc8d",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/news-releases/alien-from-canada-charged-with-falsely-claiming-to-be-a-us-citizen-to-register-to-vote",
+ "title": "拿绿卡也不能瞎填！加拿大籍男子假冒美国公民投票，面临联邦起诉",
+ "summary": "一名拥有美国绿卡的加拿大籍男子因在选民登记时谎称自己是美国公民并参与投票，被密苏里州联邦大陪审团起诉。若罪名成立，他将面临最高5年的监禁和高达25万美元的罚款。",
+ "body": [
+  "密苏里州西区联邦检察官办公室近日宣布，一名68岁的加拿大籍男子克里斯托弗·杜塞特（Christopher Doucet）因涉嫌假冒美国公民进行选民登记并参与投票，已被正式逮捕并起诉。",
+  "据联邦起诉书显示，杜塞特从小随家人移民美国并获得了合法永久居留权（即绿卡），但他并非美国公民。密苏里州法律明确规定，绿卡持有者不得参与联邦、州或地方各级选举。然而，杜塞特明知自己不是公民，仍于2024年1月30日在密苏里州杰克逊县（Jackson County）登记投票。他在选民登记表的公民身份栏勾选了“是”，并签署了虚假承诺。随后，他还在2024年4月2日的独立市（Independence）市政总选举中投了票。",
+  "本案由美国移民和海关执法局（ICE）下属的国土安全调查局（HSI）负责调查，美国公民及移民服务局（USCIS）也提供了协助。目前案件正交由联邦检察官办公室处理。起诉书仅为指控，被告在法庭定罪前被推定无罪。如果最终罪名成立，杜塞特将面临最高5年的联邦监禁以及最高25万美元的罚款。",
+  "对于在美华人来说，这起案件敲响了警钟。虽然绿卡持有者享有许多居民福利，但投票权是美国公民的专属权利。非公民切勿在任何选举中登记或投票，以免触犯联邦法律，对自身的身份和合法居留造成毁灭性影响。"
+ ],
+ "tags": [
+  "美国移民",
+  "绿卡",
+  "选民登记",
+  "投票",
+  "法律风险"
+ ],
+ "original_title": "Alien from Canada Charged with Falsely Claiming to be a US Citizen to Register to Vote",
+ "lang": "en",
+ "published": "2026-11-03T19:13:26+00:00",
+ "created": "2026-11-03T21:02:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

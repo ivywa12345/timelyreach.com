@@ -1,0 +1,27 @@
+{
+ "key": "fa378e69c8",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/copper-tin-fall-with-base-metals-on-renewed-ai-stocks-selloff",
+ "title": "铜价跌到七周最低了！到底发生了啥？",
+ "summary": "由于交易员们重新评估人工智能（AI）板块的走势，加之对中东冲突出现外交缓和的期待，国际铜价跌至七周以来的最低点。",
+ "body": [
+  "如果你最近关注大宗商品市场，可能会发现铜价有点撑不住了。据彭博社（Bloomberg News）报道，铜价近日一路走低，跌到了七周以来的最低水平。",
+  "市场分析认为，这主要是因为交易员们正在重新审视火热的人工智能（AI）交易，并且对中东地区可能通过外交手段化解冲突抱有了一定希望。这两种情绪交织在一起，直接把铜价给“带崩”了。",
+  "对于在美华人来说，像铜这样的大宗商品价格波动，往往会通过供应链传导到日常生活的方方面面，比如房屋装修、电子产品成本等。虽然目前看还只是市场层面的调整，但后续对通胀和经济的影响仍值得我们多留个心眼。"
+ ],
+ "tags": [
+  "铜价下跌",
+  "财经新闻",
+  "海外华人",
+  "AI概念",
+  "市场动态"
+ ],
+ "original_title": "Copper Falls as Traders Assess AI Trade, US-Iran Diplomacy Hopes",
+ "lang": "en",
+ "published": "2026-11-03T02:55:16+00:00",
+ "created": "2026-11-03T21:00:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "8081ac82ac",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/majority-of-london-s-thames-bridges-are-in-poor-condition",
+ "title": "泰晤士河上的桥快不行了？伦敦过半跨河大桥被评为“差”或“极差”",
+ "summary": "根据彭博社报道，伦敦泰晤士河上一半以上的桥梁状况堪忧，被评为最差的“差”或“极差”等级，其中切尔西的一座桥梁因附近桥梁分流重型车辆而加速恶化。",
+ "body": [
+  "如果你最近在伦敦过桥，可能得留个心眼了。根据彭博社（Bloomberg）记者哈里·布莱克（Harry Black）的报道，伦敦泰晤士河（River Thames）上超过一半的桥梁目前状况堪忧，被给出了“差”或“极差”的最差评级。",
+  "据了解，由于附近的另一座桥梁近期分流了大量重型车辆，导致切尔西（Chelsea）的一处过河通道磨损老化情况尤为严重，加速了桥梁的恶化。",
+  "对于在英国生活或经常出行的华人朋友来说，基础设施的老化不仅可能带来交通拥堵和绕行麻烦，更直接关系到日常通勤的安全。后续相关部门是否会采取大规模维修或限行措施，值得大家密切关注。"
+ ],
+ "tags": [
+  "伦敦",
+  "泰晤士河",
+  "桥梁安全",
+  "海外交通",
+  "英国新闻"
+ ],
+ "original_title": "Most of London’s Thames Bridges Are in Poor Condition",
+ "lang": "en",
+ "published": "2026-11-03T17:15:19+00:00",
+ "created": "2026-11-03T21:00:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

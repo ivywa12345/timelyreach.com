@@ -1,0 +1,27 @@
+{
+ "key": "be8c4979fd",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
+ "title": "美国租房族这回真悬了？各项财务指标全线红灯！",
+ "summary": "根据《经济学人》报道，美国的租房群体目前陷入了严重的财务困境，多项关键健康指标都在发出红色警报。",
+ "body": [
+  "各位在美漂泊的同胞注意了，根据权威媒体《经济学人》（The Economist）的最新报道，美国的租房族目前正面临相当严峻的财务危机，多项用来衡量租客钱包厚度和财务健康的指标全都亮起了红灯。",
+  "虽然通胀数据时有起伏，但对于广大只租房不买房的普通民众来说，每个月雷打不动的高额房租已经成了压在头顶的大山。各项经济数据显示，租客们的储蓄正在缩水，应对突发开支的能力也越来越弱。",
+  "对于在美华人来说，租房成本居高不下直接关系到每月的开销大头和储蓄计划。如果你正在租房，近期在做财务规划和预算时，可能需要更加精打细算，留出足够的应急资金来应对潜在的经济波动。"
+ ],
+ "tags": [
+  "美国经济",
+  "租房族",
+  "通胀压力",
+  "海外生活",
+  "财务危机"
+ ],
+ "original_title": "America’s renters are in serious trouble",
+ "lang": "en",
+ "published": "2026-11-03T19:06:57+00:00",
+ "created": "2026-11-03T21:00:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

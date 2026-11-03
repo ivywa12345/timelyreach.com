@@ -1,0 +1,25 @@
+{
+ "key": "8096d35965",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/trump-to-mideast-youre-on-your-own-88c935b4?mod=rss_opinion",
+ "title": "特朗普对中东撂挑子？美国要撤下盟友的安全保护伞了",
+ "summary": "根据《华尔街日报》专栏文章分析，特朗普政府正在撤除一直以来保护阿拉伯盟友的美国安全伞，这意味着中东国家未来可能得靠自己了。",
+ "body": [
+  "近日，《华尔街日报》刊登了由威廉·加尔斯顿（William A. Galston）撰写的评论文章，指出特朗普（Trump）政府正在采取一项重大调整：撤除长期以来庇护中东阿拉伯盟友的美国安全伞。",
+  "长期以来，美国在中东地区扮演着安全守护者的角色，为多国提供军事保护与威慑。然而，随着这一战略保护伞的移除，中东地区的政治与安全格局将面临巨大变动，盟友们不得不开始考虑“自力更生”应对地区威胁。"
+ ],
+ "tags": [
+  "特朗普",
+  "中东局势",
+  "美国外交",
+  "华尔街日报"
+ ],
+ "original_title": "Trump to Mideast: You’re on Your Own",
+ "lang": "en",
+ "published": "2026-11-03T19:22:00+00:00",
+ "created": "2026-11-03T21:00:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

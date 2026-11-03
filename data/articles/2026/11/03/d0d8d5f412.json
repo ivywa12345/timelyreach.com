@@ -1,0 +1,27 @@
+{
+ "key": "d0d8d5f412",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/pro/private-equity/permira-scores-another-exit-to-corporate-buyer-with-octus-sale-67e6133c?mod=rss_markets_main",
+ "title": "出手阔绰！私募巨头Permira 35.4亿美元卖掉信贷业务",
+ "summary": "私募股权公司Permira以35.4亿美元的价格，将其旗下的信贷业务专家Octus出售给伦敦证券交易所集团（London Stock Exchange Group），这是该公司今年第六次成功向企业买家出售资产。",
+ "body": [
+  "私募股权公司Permira最近又完成了一笔大买卖！他们把旗下的信贷专家Octus（Octus）以35.4亿美元的高价，打包卖给了伦敦证券交易所集团（London Stock Exchange Group）。",
+  "这也是Permira今年以来，第六次成功将资产出售给战略买家，展现了他们在资本市场上强劲的变现能力。",
+  "对于海外华人投资者来说，这类大型私募机构和交易所之间的资本运作，往往反映了当前金融巨头们对信贷和数据资产的看好，也牵动着全球金融市场的资金走向。"
+ ],
+ "tags": [
+  "Permira",
+  "伦敦证券交易所",
+  "信贷业务",
+  "资本运作",
+  "收购"
+ ],
+ "original_title": "Permira Scores Another Exit to a Corporate Buyer With Octus Sale",
+ "lang": "en",
+ "published": "2026-11-03T12:11:00+00:00",
+ "created": "2026-11-03T20:59:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

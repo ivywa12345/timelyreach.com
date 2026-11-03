@@ -1,0 +1,26 @@
+{
+ "key": "c1fc9c9bb3",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/spanish-transport-minister-quits-in-political-blow-for-sanchez",
+ "title": "西班牙高铁惨剧死伤惨重！交通大臣顶不住压力宣布辞职",
+ "summary": "西班牙交通大臣奥斯卡·普恩特（Oscar Puente）在周二深夜宣布辞职，此前发生了一起造成69人死亡的高铁惨剧，政治压力不断增大。",
+ "body": [
+  "周二深夜，西班牙政坛迎来大地震。西班牙交通大臣奥斯卡·普恩特（Oscar Puente）正式宣布辞职。在此之前，一起惨烈的高铁发生脱轨或相撞事故造成了高达69人死亡，这让他面临着排山倒海般的政治压力，最终只能黯然下台，这也给首相桑切斯（Sanchez）的政府带来了沉重打击。",
+  "这起悲剧发生后，社会各界对交通安全和管理疏漏的声讨不断。随着遇难人数达到69人，公众对政府问责的呼声越来越高，普恩特最终选择辞职以承担政治责任。"
+ ],
+ "tags": [
+  "西班牙",
+  "高铁事故",
+  "交通大臣",
+  "政坛地震",
+  "辞职"
+ ],
+ "original_title": "Spanish Transport Minister Quits in Political Blow for Sánchez",
+ "lang": "en",
+ "published": "2026-11-03T20:36:50+00:00",
+ "created": "2026-11-03T21:01:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

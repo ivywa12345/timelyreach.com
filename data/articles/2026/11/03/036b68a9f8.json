@@ -1,0 +1,27 @@
+{
+ "key": "036b68a9f8",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/google-curbs-ai-in-school-accounts-after-pushback-6b8021fc?mod=rss_Technology",
+ "title": "谷歌急了！《华尔街日报》曝光后，学校账号的AI功能被默认关闭",
+ "summary": "经过《华尔街日报》的调查曝光和各方家长的强烈反对，谷歌（Google）近日决定，在中小学学生的账号中默认关闭Gemini聊天机器人和谷歌搜索的AI功能。",
+ "body": [
+  "各位家长注意啦！如果你家娃平时用学校发的账号上网课或者写作业，你可能会发现他们的AI功能被悄悄关掉了。搜索巨头谷歌最近做出重大调整，在学校账号中默认关闭了Gemini聊天机器人和谷歌搜索的AI功能。",
+  "这次调整的背后，源于《华尔街日报》（The Wall Street Journal）之前的一项深入调查，揭露了谷歌在校园里全面推进AI技术落地的情况，随即引来了各界的强烈反对和质疑。",
+  "对于家有学龄儿童的在美华人来说，孩子在学校接触AI工具一直是大家关心的话题。这次谷歌踩刹车，默认关闭中小学生的AI权限，能在一定程度上减少孩子在学校过度依赖AI或接触到不成熟内容的安全隐患，让家长们暂时松了一口气。"
+ ],
+ "tags": [
+  "谷歌",
+  "人工智能",
+  "教育",
+  "在美华人",
+  "科技新闻"
+ ],
+ "original_title": "Google Curbs AI in School Accounts After Pushback",
+ "lang": "en",
+ "published": "2026-11-03T18:39:00+00:00",
+ "created": "2026-11-03T21:00:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
