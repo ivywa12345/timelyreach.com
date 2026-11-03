@@ -1,0 +1,26 @@
+{
+ "key": "29cba2d002",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/ukrainians-are-waging-an-invisible-fight-to-hold-their-shattered-lives-together-54183521?mod=rss_worldnews",
+ "title": "扎心！最新研究：近三分之一乌克兰平民患上创伤后应激障碍",
+ "summary": "根据一项最新研究，近三分之一的乌克兰平民符合创伤后应激障碍（PTSD）的标准，他们在战火中默默承受着巨大的心理压力。",
+ "body": [
+  "战火无情，除了满目疮痍的家园，乌克兰平民还要面对看不见的心理创伤。根据最近的一项研究，将近三分之一的乌克兰平民符合创伤后应激障碍（PTSD）的诊断标准。",
+  "在这场持久的冲突中，无数普通人的生活被彻底打碎。除了要躲避战火、维持生计，他们还在进行着一场艰难的隐形战斗，努力把破碎的生活拼凑起来。",
+  "对于远在海外的我们来说，和平与稳定来之不易。这类心理健康的危机不仅折磨着战区人民，也引发了国际社会对难民和受战争影响群体心理援助的关注。"
+ ],
+ "tags": [
+  "乌克兰",
+  "PTSD",
+  "心理健康",
+  "海外视角"
+ ],
+ "original_title": "Ukrainians Are Waging an Invisible Fight to Hold Their Shattered Lives Together",
+ "lang": "en",
+ "published": "2026-11-03T03:00:00+00:00",
+ "created": "2026-11-03T03:56:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

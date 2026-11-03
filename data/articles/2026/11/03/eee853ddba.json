@@ -1,0 +1,27 @@
+{
+ "key": "eee853ddba",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/stock-market-today-dow-s-p-live-updates",
+ "title": "美股芯片股大跌连累亚洲股市！油价倒是大跌，人民币走弱",
+ "summary": "受美国芯片股抛售潮影响，亚洲股市集体下跌，不过中东局势外交进展带来的乐观情绪让油价大幅跳水，同时人民币出现走弱。",
+ "body": [
+  "周三亚洲股市普遍下跌，主要是因为美国芯片制造商遭遇了深度的抛售潮，这股寒气直接传导到了亚洲市场，让投资者捏了一把汗。",
+  "不过，市场并非全是坏消息。随着外界对通过外交手段结束伊朗战争（war in Iran）产生乐观预期，国际油价出现了大幅跳水。与此同时，人民币汇率也有所走弱。",
+  "对于海外华人来说，全球金融市场的这种波动通常会直接牵动投资神经。美股科技股的震荡提醒大家，资产配置还是得注意风险，而油价下跌在一定程度上能缓解大家的日常出行和生活成本压力。"
+ ],
+ "tags": [
+  "亚洲股市",
+  "美股芯片股",
+  "油价下跌",
+  "人民币汇率",
+  "海外投资"
+ ],
+ "original_title": "Asian Stocks Fall on US Tech Jitters, Yuan Weakens: Markets Wrap",
+ "lang": "en",
+ "published": "2026-11-02T22:25:14+00:00",
+ "created": "2026-11-03T03:57:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

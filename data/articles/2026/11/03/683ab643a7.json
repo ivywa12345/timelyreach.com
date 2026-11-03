@@ -1,0 +1,27 @@
+{
+ "key": "683ab643a7",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/us-news/law/people-are-using-ai-for-divorce-advice-and-its-driving-their-lawyers-crazy-9b03b123?mod=rss_Technology",
+ "title": "找AI帮忙打离婚官司？美国律师快被这群人逼疯了！",
+ "summary": "根据《华尔街日报》报道，越来越多人在离婚官司中向AI聊天机器人寻求法律建议，但这不仅常常误导当事人，也让法庭和专业律师感到头疼。",
+ "body": [
+  "最近，不少面临离婚大战的人开始把家务事一股脑儿喂给AI聊天机器人（Chatbot），想让它帮自己出谋划策。这种做法虽然能快速拿到你想听的“法律答案”，但到了真正上法庭的时候，这些建议往往根本行不通。",
+  "这类AI工具虽然能生成看似专业的法律意见，但它们缺乏对真实法律条文的准确理解，也无法应对复杂的家庭纠纷。结果就是，当事人带着AI给的“锦囊妙计”去找律师或上法庭时，专业人士往往需要花大量时间去纠正这些错误的观念。",
+  "对于海外华人来说，面对复杂的海外法律体系时，寻求便捷的科技工具可以理解，但在涉及身份、财产分割和子女抚养权等重大问题时，盲目相信AI不仅可能让自己的钱包受损，还会直接影响诉讼结果。专业的事情，最终还是得靠专业的律师来把关。"
+ ],
+ "tags": [
+  "人工智能",
+  "离婚官司",
+  "海外生活",
+  "法律常识",
+  "华尔街日报"
+ ],
+ "original_title": "People Are Using AI for Divorce Advice and It’s Driving Their Lawyers Crazy",
+ "lang": "en",
+ "published": "2026-11-03T01:00:00+00:00",
+ "created": "2026-11-03T03:57:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

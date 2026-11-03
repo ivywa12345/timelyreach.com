@@ -1,0 +1,27 @@
+{
+ "key": "d4e8e6b5c3",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/hedge-fund-elliott-warns-of-fogo-fear-of-getting-obliterated-in-the-market-a2cc7027?mod=rss_markets_main",
+ "title": "华尔街巨鳄发出警告：市场上现在流行“FOGO”心态？",
+ "summary": "管理着800亿美元资产的知名对冲基金埃利奥特（Elliott）警告称，市场正笼罩在“FOGO”情绪中，即“害怕在市场里被彻底消灭”。这家基金今年前三季度的回报率不到2%。",
+ "body": [
+  "最近华尔街的大佬们又整出了一个新词。据《华尔街日报》报道，管理着高达800亿美元资产的大型对冲基金埃利奥特（Elliott）近日向投资者发出警告，称当前市场上弥漫着一种“FOGO”情绪，全称是“Fear of Getting Obliterated in the Market”，意思就是“害怕在市场里被彻底消灭”。",
+  "作为资本市场的风向标之一，埃利奥特近期的业绩表现也相当平淡。报告显示，该基金在第三季度回报率持平，而在今年截至9月的头九个月里，累计收益率甚至不到2%。",
+  "对于咱们海外华人投资者来说，华尔街大佬表现得这么谨慎和焦虑，说明现在的市场波动确实让人摸不透。在经济形势不明朗、资产价格高位震荡的时候，捂紧钱包、控制好风险，或许比盲目跟风冲进市场要稳妥得多。"
+ ],
+ "tags": [
+  "华尔街",
+  "对冲基金",
+  "投资理财",
+  "市场风险",
+  "经济大势"
+ ],
+ "original_title": "Hedge Fund Elliott Warns of FOGO: Fear of Getting Obliterated in the Market",
+ "lang": "en",
+ "published": "2026-11-02T23:54:00+00:00",
+ "created": "2026-11-03T03:56:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "e17dec46ae",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
+ "title": "想长生不老？这回资本是来真的了！",
+ "summary": "追求长寿已经从科幻小说变成了大生意的赛道。各路创业者在兜售健康扫描和保健品的同时，生物技术公司也在深入研究人类衰老的奥秘。",
+ "body": [
+  "现在想活得久一点，不仅靠养生，还得靠钞能力。根据《经济学人》（The Economist）的报道，追求长生不老已经彻底变成了一门严肃的大生意。",
+  "目前，市面上的创业者们正忙着向消费者兜售各种先进的身体扫描服务和昂贵的保健品。与此同时，许多生物技术公司也没有闲着，正在全力以赴地探索人类为什么会衰老以及背后的生物学奥秘。",
+  "对于海外华人来说，随着抗衰老产业越来越火，市面上五花八门的健康产品和检测手段也会越来越多。大家在关注自身健康、尝试各种新疗法时，还是得擦亮眼睛，理性看待这些高科技背后的商业营销，捂紧自己的钱包。"
+ ],
+ "tags": [
+  "长寿",
+  "生物科技",
+  "健康产业",
+  "抗衰老"
+ ],
+ "original_title": "The quest for immortality has become serious business",
+ "lang": "en",
+ "published": "2026-11-02T21:39:36+00:00",
+ "created": "2026-11-03T03:57:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

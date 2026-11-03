@@ -1,0 +1,27 @@
+{
+ "key": "2c47dcaaa1",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?mod=rss_markets_main",
+ "title": "AI独角兽估值要冷静？华尔街金主：1.5万亿有点虚！",
+ "summary": "受近期科技股大跌影响，准备投资人工智能初创公司Anthropic即将到来的IPO的机构投资者们，开始对其估值提出质疑，希望推动更谨慎的估值，接近1.5万亿美元。",
+ "body": [
+  "最近科技股板块经历了一波抛售潮，这让不少准备在人工智能初创公司Anthropic上市时买入股票的机构投资者们捏了一把汗。根据《华尔街日报》记者Kate Clark的报道，这些金主爸爸们现在开始敦促Anthropic在进行首次公开募股（IPO）时，采用更谨慎的估值，目标更接近1.5万亿美元。",
+  "虽然人工智能概念近年来火得一塌糊涂，各大独角兽公司估值一路狂飙，但股市的震荡还是让华尔街的投资者们恢复了几分清醒。面对即将到来的IPO，机构们不再盲目乐观，而是开始重新评估泡沫的风险，要求给出一个更接地气的估值定价。",
+  "对于关注科技股走势和海外投资的华人朋友来说，这释放了一个明显的信号：即便是最火热的AI赛道，资本市场也开始回归理性。在当前的市场环境下，无论是参与美股打新还是布局科技板块，风险控制都成了机构和散户共同关注的焦点。"
+ ],
+ "tags": [
+  "Anthropic",
+  "美股IPO",
+  "人工智能",
+  "科技股",
+  "华尔街"
+ ],
+ "original_title": "Anthropic Investors Push for Cautious Valuation Closer to $1.5 Trillion",
+ "lang": "en",
+ "published": "2026-11-02T22:18:00+00:00",
+ "created": "2026-11-03T03:56:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

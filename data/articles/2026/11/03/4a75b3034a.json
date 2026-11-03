@@ -1,0 +1,27 @@
+{
+ "key": "4a75b3034a",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/huafa-s-62-billion-debt-strain-shakes-china-s-credit-market",
+ "title": "国企“金身”破了？620亿美元巨债压顶，中国信汇市遭遇两年来最惨抛售！",
+ "summary": "华发集团高达620亿美元的债务危机引发中国信用市场两年来最严重抛售，打破了国企有政府撑腰就不会倒的传统迷思。",
+ "body": [
+  "据彭博社报道，中国信贷市场刚刚经历了两年多来最惨烈的一次抛售潮。这一切的导火索，是一家大型综合企业集团陷入严重的债务困境，巨额债务压力直接让市场炸了锅。",
+  "根据彭博社的报道，这家陷入困境的企业面临着高达620亿美元的债务压力。这场危机正在狠狠拷问市场长期以来的一个假设——过去大家都觉得，只要跟政府有千丝万缕的联系，国企在面临财务危机时就一定能得到保护、绝不会倒闭，但现在这个金身正在受到严峻考验。",
+  "对于远在海外的华人来说，国内金融市场的这种波动虽然远在千里之外，但也提醒着大家，全球经济环境复杂多变，无论是企业还是个人投资，防范风险永远是第一位的。"
+ ],
+ "tags": [
+  "中国信贷市场",
+  "华发集团",
+  "债务危机",
+  "国企",
+  "金融市场"
+ ],
+ "original_title": "Huafa’s $62 Billion Debt Strain Shakes China’s Credit Market",
+ "lang": "en",
+ "published": "2026-11-03T03:22:09+00:00",
+ "created": "2026-11-03T03:58:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

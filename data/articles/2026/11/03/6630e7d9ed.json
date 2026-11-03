@@ -1,0 +1,27 @@
+{
+ "key": "6630e7d9ed",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+ "title": "财报明明好得飞起，为什么Palantir股价反而跌了？",
+ "summary": "大数据分析公司Palantir发布了表现惊艳的季度财报，但由于美国本土商业合同增速放缓，华尔街分析师们开始踩刹车，导致股价出现回落。",
+ "body": [
+  "大数据巨头 Palantir 刚刚交出了一份被形容为“极其轰动（bombastic）”的季度财报，业绩全线超预期，但让人跌眼镜的是，公司股价不仅没涨，反而往下掉了。",
+  "根据 MarketWatch 专栏作家 Emily Bary 的报道，虽然 Palantir（Palantir Technologies）整体赚钱能力让外界惊艳，但华尔街分析师在细看财报后发现了一个隐患：该公司在美国本土的商业合同增速放缓了。正是这个细节，让不少原本看好它的分析师开始心存疑虑，选择暂时观望。",
+  "对咱们海外华人来说，这类科技股的波动往往牵动着大盘神经。如果你手里握着这家公司的股票，或者正关注人工智能（AI）板块的投资风向，这种“好财报却遇股价回调”的现象提醒我们，华尔街现在对高增长企业的挑剔程度已经越来越高了，任何一点增速放缓的苗头都可能成为抛售的理由。"
+ ],
+ "tags": [
+  "Palantir",
+  "美股",
+  "财报",
+  "人工智能",
+  "华尔街"
+ ],
+ "original_title": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
+ "lang": "en",
+ "published": "2026-11-03T00:59:00+00:00",
+ "created": "2026-11-03T04:00:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "f4b253c9f3",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/oil-tumbles-but-stocks-fail-to-launch-90972f94?mod=rss_markets_main",
+ "title": "油价大跌美股却带不动？还有这只股票直接被砸懵了！",
+ "summary": "国际油价遭遇重挫，但美股大盘却没能借此迎来反弹。与此同时，美满电子科技（Marvell Technology）抛出了一项大手笔收购计划，却遭到市场的冷酷惩罚。",
+ "body": [
+  "各位海外朋友，今天的金融市场有点魔幻：按理说油价大跌应该是个利好，但美股大盘就是带不动，没能借机冲高。这背后到底发生了什么，让投资者这么纠结？",
+  "除了大盘不温不火，市场上还有个焦点新闻——美满电子科技（Marvell Technology）宣布了一项重大收购动作。本来大举扩张往往是为了讲好故事，但资本市场这次却完全不买账，反而对这家公司狠狠地“惩罚”了一番，股价遭遇重挫。",
+  "对于咱们海外华人来说，这种市场大风浪往往直接牵动着401(k)退休账户和个人的投资钱包。看来在经济数据和企业财报不明朗的时候，大家投资还是得捂紧钱包，看清风向再出手。"
+ ],
+ "tags": [
+  "美股",
+  "油价",
+  "Marvell",
+  "财经热点",
+  "海外投资"
+ ],
+ "original_title": "Oil Tumbles, but Stocks Fail To Launch",
+ "lang": "en",
+ "published": "2026-11-02T21:16:00+00:00",
+ "created": "2026-11-03T03:56:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

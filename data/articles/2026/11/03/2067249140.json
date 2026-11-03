@@ -1,0 +1,25 @@
+{
+ "key": "2067249140",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/united-states/2026/11/02/as-voters-head-to-the-polls-democrats-bet-that-discontent-will-power-their-victory",
+ "title": "美国中期选举将至，民主党人靠“不满情绪”能赢吗？",
+ "summary": "《经济学人》最新中期选举预测显示，随着选民走向投票箱，民主党人正寄希望于民众的不满情绪来助其赢得胜利。",
+ "body": [
+  "《经济学人》（The Economist）发布了他们对美国中期选举结果的最新预测。随着选民们陆续前往投票站，民主党人正把胜选的赌注押在选民对现状的不满情绪上。",
+  "虽然具体的预测数据和各方详细说法尚未在摘要中展开，但这场选举的结果将直接影响国会力量对比，进而对经济政策、社会议题以及在美华人的切身利益（如税收、治安和子女教育等）产生深远影响。"
+ ],
+ "tags": [
+  "美国政治",
+  "中期选举",
+  "民主党",
+  "经济学人"
+ ],
+ "original_title": "As voters head to the polls, Democrats bet that discontent will power their victory",
+ "lang": "en",
+ "published": "2026-11-02T21:53:54+00:00",
+ "created": "2026-11-03T03:57:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "25d39ed8dc",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/europe-russian-gas-lng-trump-administration-angela-merkel-nord-stream-79ddd89e?mod=rss_worldnews",
+ "title": "特朗普对俄战略来了？美媒爆料华盛顿竟在劝欧洲买俄罗斯天然气！",
+ "summary": "据《华尔街日报》社论爆料，美国据称正在敦促欧洲购买俄罗斯天然气，这种策略让人直呼“活久见”。",
+ "body": [
+  "近日有消息传出，美国政府据称正在敦促欧洲国家购买俄罗斯的天然气。对于这一转向，连《华尔街日报》都调侃说，这简直是让当年的德国总理默克尔（Angela Merkel）和美国总统奥巴马（Barack Obama）看了都要点头认可。",
+  "长期以来，美国在对俄能源问题上态度强硬，极力阻挠欧洲对俄罗斯能源的依赖。然而此次传出华盛顿反向劝说欧洲买气，背后的战略考量和地缘政治博弈引发外界关注和热议。",
+  "对于身处海外的华人来说，欧洲能源政策的变动不仅关乎当地的经济和通胀水平，也折射出大国之间错综复杂的博弈。能源市场的任何风吹草动，最终都可能通过全球供应链影响到大家的日常生活和钱包。"
+ ],
+ "tags": [
+  "特朗普",
+  "俄罗斯",
+  "天然气",
+  "欧洲",
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | Trump’s Merkel Strategy on Russia",
+ "lang": "en",
+ "published": "2026-11-02T22:43:00+00:00",
+ "created": "2026-11-03T03:56:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

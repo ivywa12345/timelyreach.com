@@ -1,0 +1,27 @@
+{
+ "key": "65b84058ba",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/offshore-yuan-weakens-after-pboc-moves-to-cool-currency-rally",
+ "title": "人民币这波连涨被按下了暂停键！央行到底出了什么招？",
+ "summary": "在经历了三十年来罕见的长连涨后，在岸人民币兑美元汇率终于踩了刹车。中国人民银行（PBOC）通过上调外汇存款准备金率来为过热的涨势降温。",
+ "body": [
+  "如果你最近一直在关注人民币汇率，可能已经注意到它这波猛烈的上涨势头终于停下来了。根据彭博社（Bloomberg News）的报道，在岸人民币结束了近三十年来最长的一波连涨纪录。",
+  "这次汇率踩刹车的主因，是中国人民银行（PBOC）出手了。为了给近期过热的人民币涨势“降温”，央行要求金融机构提高外汇存款准备金率。简单来说，就是通过调整银行手里持有的外汇比例，来调节市场的供求关系，避免人民币升值速度过快。",
+  "对于咱们海外华人来说，汇率的波动直接关乎钱包。不管是给国内家里汇款、换汇回国，还是关注中美经济走势的小伙伴，汇率政策的风吹草动都值得多留个心眼，随时根据市场变化调整财务安排。"
+ ],
+ "tags": [
+  "人民币汇率",
+  "中国央行",
+  "外汇存款准备金率",
+  "海外华人",
+  "财经快讯"
+ ],
+ "original_title": "Onshore Yuan Snaps Winning Streak as PBOC Lifts FX Reserve Ratio",
+ "lang": "en",
+ "published": "2026-11-03T01:06:15+00:00",
+ "created": "2026-11-03T03:58:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

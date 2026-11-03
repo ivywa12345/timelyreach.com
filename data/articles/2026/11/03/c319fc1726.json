@@ -1,0 +1,27 @@
+{
+ "key": "c319fc1726",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
+ "title": "iPhone卖得太火，苹果股价却为啥跌了？",
+ "summary": "虽然苹果的iPhone需求依然强劲，但由于面临严重的内存短缺以及服务业务增长放缓的压力，苹果公司的股价反而出现了下跌。",
+ "body": [
+  "最近苹果公司（Apple）的iPhone业务可以说是红红火火，手机卖得非常不错。不过，让人有点纳闷的是，既然手机这么畅销，苹果的股价为啥反而往下掉了呢？",
+  "原来，虽然大家买iPhone的热情不减，但苹果现在正头疼两件事：一是面临着越来越严峻的内存短缺问题，供应压力不小；二是曾经很赚钱的服务业务增速也慢了下来。这两大隐患让市场对苹果接下来的业绩捏了一把汗。",
+  "对咱们海外华人来说，科技巨头的股价波动不仅关乎投资理财的钱包厚度，也常常影响到相关产业链的工作机会。苹果能不能顺利度过硬件成本和供应链的难关，咱们还得继续观望。"
+ ],
+ "tags": [
+  "苹果",
+  "iPhone",
+  "美股",
+  "科技股",
+  "财经"
+ ],
+ "original_title": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
+ "lang": "en",
+ "published": "2026-11-03T00:52:00+00:00",
+ "created": "2026-11-03T04:00:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

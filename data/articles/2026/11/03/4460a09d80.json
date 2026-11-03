@@ -1,0 +1,26 @@
+{
+ "key": "4460a09d80",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/pakistan-s-rebound-masks-deeper-problems-weighing-on-economy",
+ "title": "股市大涨、外汇见底回升，巴基斯坦经济真复苏了吗？专家说没那么简单",
+ "summary": "巴基斯坦股市近期节节攀升、外汇储备创新高、信用评级也在改善，表面上一片大好，但彭博社指出，深层经济问题依然严峻。",
+ "body": [
+  "最近大家可能关注到，巴基斯坦的经济数据看起来挺喜人：股市一路飙升，外汇储备创下历史新高，连信用评级都开始往上走了，一副马上要全面复苏的架势。",
+  "不过，根据彭博社的分析，这波表面的繁荣背后，其实水分不小，真正的经济复苏远没有数据表现得那么让人放心，深层次的结构性问题依然在拖累整个国家。",
+  "对于海外华人朋友来说，这种宏观经济的起伏往往直接牵动着当地的投资环境和商业机会。虽然纸面上的数字好看了，但基础不稳的话，随时可能面临变数。"
+ ],
+ "tags": [
+  "巴基斯坦经济",
+  "彭博社",
+  "股市行情",
+  "海外观察"
+ ],
+ "original_title": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy",
+ "lang": "en",
+ "published": "2026-11-03T01:00:00+00:00",
+ "created": "2026-11-03T03:57:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

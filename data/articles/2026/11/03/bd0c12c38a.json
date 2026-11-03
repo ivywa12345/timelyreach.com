@@ -1,0 +1,27 @@
+{
+ "key": "bd0c12c38a",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/the-risks-state-and-local-elections-pose-for-wall-street-and-the-ai-trade-3bc5219d?mod=rss_markets_main",
+ "title": "几万亿美元的AI基建，居然也成了美国大选的“选票战场”？华尔街正死盯这几个关键州！",
+ "summary": "华尔街正密切关注美国几个关键州的选情，因为当地民众和候选人开始对疯狂扩张的AI基础设施建设进行强烈的民意反弹。",
+ "body": [
+  "最近华尔街的投资圈都在盯着美国大选，原因有点让人意外：这场价值数万亿美元的AI基建狂潮，竟然成了选票上的一个热门议题！",
+  "根据《华尔街日报》报道，随着各大科技公司疯狂砸钱建设AI数据中心和相关电力设施，对当地社区的资源消耗也越来越大。目前，一些关键州的选民和地方政客开始对这种大规模的AI基建进行强烈反对，这也让资本市场捏了一把汗。",
+  "对于咱们海外华人来说，AI技术虽然好，但它带来的电费上涨、电网负荷以及社区规划变动，其实就发生在咱们身边。这场大选中的“AI阻击战”最终结果如何，不仅关乎科技巨头的钱包，可能也会影响到大家的日常生活成本。"
+ ],
+ "tags": [
+  "美国大选",
+  "人工智能",
+  "华尔街",
+  "海外华人",
+  "科技新闻"
+ ],
+ "original_title": "America’s Multi-Trillion-Dollar AI Buildout Is on the Ballot—and Wall Street Is Watching",
+ "lang": "en",
+ "published": "2026-11-02T22:24:00+00:00",
+ "created": "2026-11-03T03:56:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

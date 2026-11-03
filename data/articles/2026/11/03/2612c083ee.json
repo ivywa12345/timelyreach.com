@@ -1,0 +1,25 @@
+{
+ "key": "2612c083ee",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-02/trump-s-doj-rejected-by-supreme-court-on-california-ballots",
+ "title": "最高法院驳回特朗普政府！加州选票这回保住了",
+ "summary": "美国最高法院驳回了特朗普政府要求将加州数千张选票搁置的请求，这对声称存在非公民广泛非法投票但又拿不出证据的特朗普来说，是一个备受关注的挫折。",
+ "body": [
+  "据彭博社（Bloomberg）报道（作者：Greg Stohr），美国最高法院日前驳回了特朗普（Trump）政府的一项诉求。此前，特朗普方面试图强行将加州在期中选举中的数千张选票搁置处理。",
+  "长期以来，特朗普一直坚称非公民在选举中存在广泛的非法投票现象，但始终未能拿出确凿证据。此次最高法院的裁决，无疑给他的这一诉求泼了冷水，也让他在试图干预加州选票的行动中遭遇了一次高调的挫折。"
+ ],
+ "tags": [
+  "美国最高法院",
+  "特朗普",
+  "加州选票",
+  "期中选举"
+ ],
+ "original_title": "Trump’s DOJ Rejected by Supreme Court on California Ballots",
+ "lang": "en",
+ "published": "2026-11-02T22:48:57+00:00",
+ "created": "2026-11-03T03:58:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
