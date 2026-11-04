@@ -1,0 +1,22 @@
+{
+ "key": "b5676d2319",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/politics/elections/the-winners-and-losers-on-wall-street-from-the-election-earthquake-55ff9cd4?mod=rss_markets_main",
+ "title": "大选地震中华尔街的赢家和输家",
+ "summary": "美国股指开盘走高，因为人们希望立法僵局将保持对企业业绩的关注。但是，人工智能建设的关键数据中心计划受到了打击。",
+ "body": [
+  "美国股指开盘走高，因为人们希望立法僵局将保持对企业业绩的关注。但是，人工智能建设的关键数据中心计划受到了打击。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "The Winners and Losers on Wall Street From the Election Earthquake",
+ "lang": "en",
+ "published": "2026-11-04T15:16:00+00:00",
+ "created": "2026-11-04T18:39:29+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "2561cfc9f5",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/cybersecurity/hackers-crank-the-heat-on-europes-supermarket-freezers-to-above-120-degrees-73597a8a?mod=rss_worldnews",
+ "title": "黑客盯上欧洲超市冰箱？物联网时代，连冷柜都能被远程“加热”！",
+ "summary": "随着日常物品越来越多地接入互联网，黑客的攻击目标正在大幅增加。最近，欧洲有超市的冷冻柜遭到黑客恶意篡改，温度竟然被飙升到了120华氏度以上。",
+ "body": [
+  "话说现在啥都讲究个“联网”，结果连超市的冷柜也成了黑客的新玩具。根据《华尔街日报》（The Wall Street Journal）记者罗伯特·麦克米兰（Robert McMillan）的报道，最近欧洲发生了一件挺吓人的事：黑客竟然把欧洲一些超市的冷冻柜温度远程调高到了120华氏度（约49摄氏度）以上！",
+  "这事儿听起来像是个恶作剧，但仔细一想背后冷汗直流。随着越来越多的日常物品接入互联网，黑客手里的攻击目标就像开了菜单一样丰富。从家里的智能家居到商业用的巨型设备，只要连了网，似乎就很难做到绝对安全。",
+  "对咱们海外华人来说，物联网设备越来越普及，家里装智能锁、智能温控器的也不少。虽然这篇报道主要说的是欧洲超市，但也给我们敲响了警钟：万物互联固然方便，但网络安全这根弦可千万不能松，不然哪天家里的电器被远程遥控了都不知道！"
+ ],
+ "tags": [
+  "黑客攻击",
+  "物联网安全",
+  "欧洲超市",
+  "网络安全",
+  "海外生活"
+ ],
+ "original_title": "Hackers Crank the Heat on Europe’s Supermarket Freezers to Above 120 Degrees",
+ "lang": "en",
+ "published": "2026-11-04T02:00:00+00:00",
+ "created": "2026-11-04T18:38:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "a64f09f90b",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-amid-midterm-iran-war-nerves-e1e285d4?mod=rss_markets_main",
+ "title": "中期选举结果未定加上中东局势紧绷，美股今天走势纠结！",
+ "summary": "华尔街日报报道，由于美国中期选举结果悬而未决，加上市场对伊朗冲突短期内能否平息持怀疑态度，美股周三收盘涨跌不一，投资者情绪十分谨慎。",
+ "body": [
+  "美股近期的日子不太平。根据《华尔街日报》记者Vicky Ge Huang的报道，周三美国股市最终收盘涨跌互现，市场上一片焦虑情绪。",
+  "造成这种纠结局面的主要原因有两个：一是大家都在紧盯着美国中期选举的最终结果，心里没底；二是对于伊朗冲突能不能在短期内解决，投资者普遍抱着怀疑态度，生怕地缘政治危机再度升级冲击市场。",
+  "对于咱们海外华人来说，金融市场这种上蹿下跳的态势，往往直接关系到401(k)养老金账户和个人的投资钱包。在大选和国际局势明朗之前，投资理财还是得系好安全带，多看少动为妙。"
+ ],
+ "tags": [
+  "美股",
+  "中期选举",
+  "伊朗冲突",
+  "华尔街",
+  "海外理财"
+ ],
+ "original_title": "U.S. Stocks Mixed Amid Midterm, Iran War Nerves",
+ "lang": "en",
+ "published": "2026-11-03T22:08:00+00:00",
+ "created": "2026-11-04T18:40:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

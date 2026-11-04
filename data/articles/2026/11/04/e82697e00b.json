@@ -1,0 +1,27 @@
+{
+ "key": "e82697e00b",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/04/us-news/tampa-citibank-shooting-leaves-victim-wounded-shooter-down-in-cafeteria/",
+ "title": "突发！佛州花旗大楼枪击1死/伤？警方证实嫌疑人已倒地",
+ "summary": "佛罗里达州坦帕市的花旗集团园区周三中午发生枪击事件，目前造成至少一人受伤，嫌疑人已被控制。初步调查显示这可能是一起有针对性的袭击，涉案人员疑似为园区供应商而非内部员工。",
+ "body": [
+  "周三中午刚过，佛罗里达州坦帕（Tampa）郊外布兰登（Brandon）的花旗中心（Citibank Center）园区内突然传出枪声。根据执法部门消息，这起枪击事件已造成至少一人受伤。",
+  "希尔斯堡县警长办公室（Hillsborough County Sheriff's Office，简称HCSO）的无线电通报显示，受伤流血的受害者被发现在办公园区的食堂里。执法消息人士向《纽约邮报》（New York Post）透露，枪手目前已经倒地（down），现场仅发现一名受害者。知情人士还表示，这很可能是一场有目标的袭击，涉事人员据信是园区的供应商（vendor），并非花旗集团的正式员工。",
+  "从当地媒体WFLA播出的航拍画面来看，大批警力周三下午正在这个庞大的企业园区内进行搜查和处置。警方已发出呼吁，请民众暂时避开皇后棕榈大道（Queens Palm Drive）与法尔肯堡路（Falkenburg Road）交界的事发区域。目前该事件仍在进一步调查中。"
+ ],
+ "tags": [
+  "佛州新闻",
+  "花旗银行",
+  "枪击事件",
+  "突发快讯",
+  "治安动态"
+ ],
+ "original_title": "Tampa Citibank shooting leaves 1 wounded, shooter down in cafeteria",
+ "lang": "en",
+ "published": "2026-11-04T18:25:54+00:00",
+ "created": "2026-11-04T18:43:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

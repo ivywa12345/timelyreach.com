@@ -1,0 +1,27 @@
+{
+ "key": "c8129c02cb",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/citadel-securities-rubner-says-stocks-are-set-up-for-year-end-gains-after-vote",
+ "title": "大选落地+财报给力！华尔街大佬：美股年底要迎来一波大反弹？",
+ "summary": "Citadel Securities的Scott Rubner表示，随着中期选举的不确定性消除、企业财报表现韧性十足，以及投资者仓位偏低，美股有望在年底迎来一波反弹。",
+ "body": [
+  "每次大选一过，股市通常都能松口气。城堡证券（Citadel Securities）的斯科特·鲁布纳（Scott Rubner）近日预测，美国股市已经做好了在今年年底前绝地反击的准备。",
+  "鲁布纳指出，这次美股准备反弹主要有三大底气：首先是作为“绊脚石”的中期选举终于结束，市场少了一个最大的不确定性来源；其次是上市公司的盈利表现比想象中要抗揍，韧性十足；最后是现在大家的持仓普遍比较低，这就腾出了足够的空间，随时可以重新杀回市场买买买。",
+  "对于咱们在海外打拼、关心投资理财的华人来说，如果年底美股真如大佬所言迎来反弹，无论是自己的401(k)养老金账户，还是平时的股票投资，或许都能迎来一波小丰收，年底钱包可以期待一下了。"
+ ],
+ "tags": [
+  "美股",
+  "Citadel Securities",
+  "投资理财",
+  "华尔街",
+  "大选"
+ ],
+ "original_title": "Citadel Securities’ Rubner Says Stocks Are Set Up for Year-End Gains After Vote",
+ "lang": "en",
+ "published": "2026-11-04T15:45:38+00:00",
+ "created": "2026-11-04T18:41:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

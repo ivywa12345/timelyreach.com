@@ -1,0 +1,25 @@
+{
+ "key": "c419a1da18",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/apple-can-be-an-expensive-ai-safe-haven-15014fb9?mod=rss_markets_main",
+ "title": "苹果成AI避风港？买单可不便宜啊！",
+ "summary": "华尔街日报最新分析指出，苹果公司虽然在人工智能领域被视为投资避风港，但其估值和代价也相当高昂。",
+ "body": [
+  "最近华尔街日报（Wall Street Journal）的一篇投资分析文章指出，苹果公司（Apple）在人工智能（AI）浪潮中正逐渐成为一个备受投资者青睐的“避风港”。不过，专家也提醒，想要在这个避风港里安稳待着，付出的代价可一点也不便宜。",
+  "对于关注美股和财富管理的海外华人投资者来说，科技巨头的动向直接关系到大家的荷包。苹果在AI领域的布局虽然稳健，但高昂的估值意味着投资者需要承担更高的风险。在当前的市场环境下，是该继续追捧科技巨头，还是寻找其他机会，值得大家仔细斟酌。"
+ ],
+ "tags": [
+  "苹果",
+  "人工智能",
+  "美股投资",
+  "华尔街日报"
+ ],
+ "original_title": "Apple Can be an Expensive AI Safe Haven",
+ "lang": "en",
+ "published": "2026-11-04T11:26:00+00:00",
+ "created": "2026-11-04T18:39:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "bbb1f3374e",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/north-sea-oil-plunge-deepens-as-traders-weigh-iran-de-escalation",
+ "title": "北海原油价格大跌！交易员为啥突然看空？",
+ "summary": "受美国中期选举结果及中东局势可能缓和的影响，北海原油实货价格在周三跌至新低。",
+ "body": [
+  "周三，北海原油价格再度大幅下挫，创下近期新低。彭博社（Bloomberg）记者Sherry Su报道称，这是因为市场交易员们正在重新评估中东局势，尤其是伊朗局势出现缓和的可能性。",
+  "此前，美国总统唐纳德·特朗普（Donald Trump）在中期选举中遭遇惨败。这一政治变局让市场对未来的地缘政治走向产生了新的预期，直接影响到了国际原油市场的供需情绪。",
+  "对于海外华人来说，国际油价的走势直接关系到日常生活的方方面面。油价下跌虽然能在一定程度上缓解加油时的钱包压力，但也反映出全球经济和地缘政治的不确定性正在增加。"
+ ],
+ "tags": [
+  "原油价格",
+  "北海原油",
+  "中东局势",
+  "美国政治",
+  "海外生活"
+ ],
+ "original_title": "North Sea Oil Plunge Deepens as Traders Weigh Iran De-Escalation",
+ "lang": "en",
+ "published": "2026-11-04T17:43:39+00:00",
+ "created": "2026-11-04T18:41:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "3160ccbbb3",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/openai-to-bring-pierre-computers-code-storage-to-codex-through-acquisition-05f53582?mod=rss_Technology",
+ "title": "买买买！OpenAI刚官宣收购代码存储初创公司Pierre",
+ "summary": "OpenAI宣布收购代码存储初创公司Pierre，未来将把Pierre的代码存储功能整合到自家的Codex中，并承诺其开源项目将继续免费提供。",
+ "body": [
+  "AI巨头OpenAI又有新动作了！根据《华尔街日报》报道，OpenAI近日宣布收购代码存储初创公司Pierre，准备把人家的技术直接吸收到自己的AI编程工具里。",
+  "根据官方说法，这次收购后，Pierre原本的开源项目将会继续保持免费，供大家自由使用。同时，现有的Code Storage客户在整合完成前，也可以继续正常使用该工具，直到它被完全并入OpenAI的Codex中。",
+  "对于在海外从事IT、软件开发或对AI编程工具感兴趣的华人朋友来说，OpenAI不断扩充工具箱意味着以后的AI写代码能力可能会更强，开发效率也会进一步提升，咱们可以拭目以待。"
+ ],
+ "tags": [
+  "OpenAI",
+  "人工智能",
+  "科技收购",
+  "编程工具",
+  "海外华人"
+ ],
+ "original_title": "OpenAI to Bring Pierre Computer’s Code Storage to Codex Through Acquisition",
+ "lang": "en",
+ "published": "2026-11-04T17:24:00+00:00",
+ "created": "2026-11-04T18:40:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

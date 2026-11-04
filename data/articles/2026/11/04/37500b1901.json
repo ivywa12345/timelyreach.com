@@ -1,0 +1,27 @@
+{
+ "key": "37500b1901",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/pro/central-banking/swedens-central-bank-latest-to-lift-rates-in-response-to-war-17ac133b?mod=rss_worldnews",
+ "title": "战火引发通胀！瑞典央行也扛不住了，宣布加息并暗示还要接着涨",
+ "summary": "受美国与伊朗战争影响，瑞典央行自战事爆发以来首次上调关键利率，并暗示未来可能进一步加息以应对借贷成本上升压力。",
+ "body": [
+  "瑞典中央银行（Sveriges Riksbank）最近宣布上调关键利率，这也是自美国与伊朗爆发战争以来，该行首次采取加息行动。不仅如此，瑞典央行还明确表示，接下来的借贷成本大概率还会继续往上涨。",
+  "在全球地缘政治冲突不断升级的背景下，能源和商品价格的波动正在向各个经济体传导。瑞典央行此举显然是为了应对战争带来的经济震荡和通胀压力，通过收紧货币政策来稳定国内市场。",
+  "对于海外华人来说，全球各大央行跟随局势频繁加息，意味着房贷、车贷等各类贷款的利息将继续承压，大家的钱包和日常消费支出都得精打细算起来了。"
+ ],
+ "tags": [
+  "瑞典央行",
+  "加息",
+  "美伊战争",
+  "通货膨胀",
+  "海外财经"
+ ],
+ "original_title": "Sweden’s Central Bank Latest to Lift Rates in Response to War",
+ "lang": "en",
+ "published": "2026-11-04T09:46:00+00:00",
+ "created": "2026-11-04T18:38:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

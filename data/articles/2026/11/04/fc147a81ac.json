@@ -1,0 +1,27 @@
+{
+ "key": "fc147a81ac",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
+ "title": "民主党“大胜”特朗普？标普500这几只股票今天杀疯了！",
+ "summary": "根据MarketWatch报道，在民主党击败特朗普（Trump）后，股市出现剧烈波动，其中史丹利百代（Stanley Black & Decker）成为标普500中表现最强劲的股票，而多只科技股及相关电力供应商则遭遇大幅下跌。",
+ "body": [
+  "今天美股市场可以说是几家欢乐几家愁！根据MarketWatch的报道，在民主党击败特朗普（Trump）的消息传出后，标普500指数成分股里的一些公司股价迎来了暴涨暴跌。",
+  "在这波行情中，老牌工业巨头史丹利百代（Stanley Black & Decker）表现最为抢眼，成为了标普500指数里涨幅最猛的“大赢家”。",
+  "不过，几家欢喜几家愁，几只科技股和配套的电力供应商就没有那么幸运了，股价出现了相当明显的下滑。市场的这种板块轮动，也反映出投资者正在根据最新的政治局势迅速调整手里的持仓。"
+ ],
+ "tags": [
+  "美股",
+  "标普500",
+  "股票市场",
+  "史丹利百代",
+  "科技股"
+ ],
+ "original_title": "These stocks have soared the most today after the Democrats trounced Trump",
+ "lang": "en",
+ "published": "2026-11-04T18:29:00+00:00",
+ "created": "2026-11-04T18:45:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "9f80786a5e",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend",
+ "title": "大科技股周三集体飙升！华尔街为啥觉得“民主党国会”能帮巨头管管手？",
+ "summary": "周三，美国科技巨头股价引领市场走高，投资者押注若由民主党掌控国会，可能会放缓人工智能（AI）领域的巨额烧钱潮，从而保住公司的自由现金流。",
+ "body": [
+  "周三（彭博社讯），美股科技巨头集体走高，领跑整个市场。背后的原因有点耐人寻味：华尔街的投资者们正押注，如果未来是民主党掌控国会，可能会踩下AI疯狂烧钱的刹车。",
+  "这段时间以来，各大科技公司为了搞人工智能（AI），大把大把地砸钱，简直是在“吞噬”公司的自由现金流。而投资者希望通过政治格局的变化，来约束一下科技巨头们这种“刹不住车”的疯狂投资行为。",
+  "对于关注美股和科技板块的海外华人来说，大厂的资本开支直接关系到股价走势和科技股的长期红利。如果AI烧钱潮真能有所收敛，或许能让手里握着现金流的科技巨头们在财务上变得更加稳健。"
+ ],
+ "tags": [
+  "美股",
+  "科技巨头",
+  "人工智能",
+  "华尔街",
+  "投资理财"
+ ],
+ "original_title": "Big Tech Soars on Bet Dems Will Save AI Spenders From Themselves",
+ "lang": "en",
+ "published": "2026-11-04T17:07:54+00:00",
+ "created": "2026-11-04T18:41:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

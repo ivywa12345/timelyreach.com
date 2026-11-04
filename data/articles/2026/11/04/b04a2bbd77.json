@@ -1,0 +1,28 @@
+{
+ "key": "b04a2bbd77",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
+ "title": "美国10月私营企业新增86,000个岗位，比预期稍微好一丢丢！",
+ "summary": "根据ADP周三发布的报告，美国10月份私营部门就业保持稳定，新增86,000个工作岗位，略高于市场预期，显示劳动力市场正呈现新的稳定迹象。",
+ "body": [
+  "人力资源服务公司ADP（Automatic Data Processing）周三公布的数据显示，美国10月份私营部门新增了86,000个工作岗位。这个数字不仅和9月修正后的数据持平，还稍微高出了道琼斯（Dow Jones）此前预测的75,000人。",
+  "从具体行业来看，就业增长主要集中在服务业。其中贸易、运输和公用事业表现最强劲，新增了39,000个岗位；教育和医疗服务增加了28,000个，休闲和酒店业贡献了19,000个。金融、建筑等行业也有所增长。不过，专业和商业服务、自然资源与采矿业则出现了裁员，分别减少了27,000人和8,000人，受AI浪潮影响的信息服务业也减少了2,000个岗位。",
+  "薪资方面继续保持上涨势头。跳槽的打工人最吃香，年薪涨幅达到了4.8%；留守原岗位的人基础薪资也上涨了3%。ADP首席经济学家内拉·理查森（Nela Richardson）表示：“上个月各种规模的雇主都在招人，数据显示，跳槽者不仅拿到了更高的基础工资，还受到了奖金、加班费和增加工时的吸引。”",
+  "这次的ADP报告被视为本周五即将发布的美国劳工统计局（BLS）非农就业报告的风向标。对华人朋友来说，劳动力市场的稳健意味着找工作和跳槽的底气还在，但也需要关注不同行业的分化，特别是在AI冲击下相关岗位的波动。"
+ ],
+ "tags": [
+  "美国经济",
+  "就业市场",
+  "ADP报告",
+  "跳槽加薪",
+  "海外求职"
+ ],
+ "original_title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
+ "lang": "en",
+ "published": "2026-11-04T13:49:48+00:00",
+ "created": "2026-11-04T18:44:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
