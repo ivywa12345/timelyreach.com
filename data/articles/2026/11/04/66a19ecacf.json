@@ -1,0 +1,26 @@
+{
+ "key": "66a19ecacf",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/gold-steadies-as-traders-track-iran-talk-prospects-us-midterms",
+ "title": "金价直接冲破4000美元！美国中期选举民主党大胜，美元国债双双跳水",
+ "summary": "由于民主党在美国中期选举中大获全胜，可能对总统特朗普的财政计划形成牵制，美元和美债收益率随之回落，推动金价强势突破每盎司4000美元大关。",
+ "body": [
+  "根据彭博社（Bloomberg）报道，黄金价格近日迎来暴涨，一举冲破每盎司4000美元大关。这次金价飙升的直接诱因，是民主党在美国中期选举中取得了全面胜利（swept the US midterm election）。",
+  "选举结果出炉后，市场普遍认为民主党的大胜将对总统唐纳德·特朗普（Donald Trump）未来的财政议程产生制约作用。受此政治格局变化影响，美元和美国国债收益率双双出现下跌，进而将避险属性拉满的黄金直接推上了新高。"
+ ],
+ "tags": [
+  "黄金",
+  "金价",
+  "美国中期选举",
+  "美元",
+  "财经新闻"
+ ],
+ "original_title": "Gold Surges Above $4,000 as Dollar, Yields Fall on Democrat Win",
+ "lang": "en",
+ "published": "2026-11-04T00:24:37+00:00",
+ "created": "2026-11-04T10:56:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

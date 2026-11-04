@@ -1,0 +1,26 @@
+{
+ "key": "2e327f093b",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/politics/elections/live-q-a-ask-us-your-questions-about-the-midterm-elections-results-e35cf0ff?mod=rss_Technology",
+ "title": "中期选举结果看不懂？华尔街日报华盛顿主编来在线答疑啦！",
+ "summary": "华尔街日报（WSJ）华盛顿报道主管达米安·帕利塔（Damian Paletta）将于美东时间11月4日下午2点至3点，举行关于中期选举结果的实时文字问答活动，订阅用户可随时留言提问。",
+ "body": [
+  "美国大选和中期选举的各种结果看得人眼花缭乱？《华尔街日报》（Wall Street Journal）安排了一场在线答疑活动，帮大家理清头绪。",
+  "华盛顿报道主管达米安·帕利塔（Damian Paletta）将于美东时间11月4日（周三）下午2点到3点，主持一场实时的文字互动聊天（Live Q&A）。",
+  "如果你是《华尔街日报》（Wall Street Journal）的订阅用户，现在就可以在文章下方的评论区随时提交你想问的问题，看看专业记者怎么解读这次选举对华盛顿政治格局的影响。"
+ ],
+ "tags": [
+  "美国中期选举",
+  "华尔街日报",
+  "在线答疑",
+  "政治新闻"
+ ],
+ "original_title": "Live Q&A: Ask Us Your Questions About the Midterm-Elections Results",
+ "lang": "en",
+ "published": "2026-11-03T21:30:00+00:00",
+ "created": "2026-11-04T10:55:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

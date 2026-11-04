@@ -1,0 +1,27 @@
+{
+ "key": "3928dbb42b",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/asia/north-korea-on-busiest-missile-testing-spree-in-years-rebuffs-trump-diplomacy-3f4e99f4?mod=rss_worldnews",
+ "title": "朝鲜导弹试射创近年纪录，直接把特朗普的橄榄枝晾在一边？",
+ "summary": "朝鲜近期频繁进行导弹试射，创下近年来的最高纪录，并对美国的缓和外交姿态态度冷淡、提出更多条件。",
+ "body": [
+  "据《华尔街日报》报道，朝鲜最近开启了近年来最密集的一轮导弹试射，频频发射导弹，完全不理会美国抛出的外交接触信号。",
+  "报道指出，面对美国的示好，朝鲜政权不仅将其冷落，还开出了一长串不断增加的要求，让双方的外交接触陷入僵局。",
+  "对于关注地缘政治的海外华人来说，半岛局势持续紧张可能会给地区安全带来不确定性，我们将持续关注后续发展。"
+ ],
+ "tags": [
+  "朝鲜",
+  "导弹试射",
+  "特朗普",
+  "地缘政治",
+  "美朝关系"
+ ],
+ "original_title": "North Korea, on Busiest Missile-Testing Spree in Years, Rebuffs Trump Diplomacy",
+ "lang": "en",
+ "published": "2026-11-04T08:16:00+00:00",
+ "created": "2026-11-04T10:54:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

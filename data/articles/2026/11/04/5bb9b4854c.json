@@ -1,0 +1,26 @@
+{
+ "key": "5bb9b4854c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/india-s-middle-class-spending-boom-comes-with-growing-debt-bill",
+ "title": "月薪不到三千想买苹果手机？印度年轻人也开始靠借贷“超前消费”了！",
+ "summary": "印度消费热潮背后藏着不断飙升的债务账单，年轻人为了买手机、游戏机等开始频繁借小额贷款。",
+ "body": [
+  "最近几年，印度的消费市场火热，但随之而来的是年轻人不断增加的债务负担。以25岁的餐厅员工纳夫乔特·辛格（Navjot Singh）为例，他每月的工资大约是5万印度卢比（约合521美元），根本买不起心仪的iPhone。",
+  "为了满足消费欲望，他通过小额贷款买下了iPhone。随后，他又用贷款买下了一台PlayStation游戏机和电视机，甚至连品酒课程和回家的旅行费用也全靠借贷解决。",
+  "对于在海外关注全球经济动向的华人来说，这种年轻人靠借贷支撑消费的现象似曾相识。当信贷门槛降低、消费主义盛行时，个人的债务风险也在悄然累积，这也反映出部分新兴市场经济体在消费繁荣背后的隐忧。"
+ ],
+ "tags": [
+  "印度经济",
+  "消费主义",
+  "小额贷款",
+  "海外热点"
+ ],
+ "original_title": "India’s Consumer Spending Boom Comes With Growing Debt Bill",
+ "lang": "en",
+ "published": "2026-11-04T01:00:00+00:00",
+ "created": "2026-11-04T10:56:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

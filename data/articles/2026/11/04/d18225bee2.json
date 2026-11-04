@@ -1,0 +1,27 @@
+{
+ "key": "d18225bee2",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/european-stocks-set-to-dip-as-democrat-sweep-stokes-ai-worries",
+ "title": "美国中期选举刚落幕，欧洲股市就嗨了？这几个板块领涨！",
+ "summary": "美国民主党在中期选举中拿下国会两院控制权后，欧洲股市延续涨势，其中可再生能源和银行股表现尤为抢眼。",
+ "body": [
+  "据彭博社（Bloomberg）报道，随着美国中期选举结果出炉，民主党成功拿下国会参众两院的控制权，这一消息直接给欧洲股市添了一把火，大盘延续了之前的上涨势头。",
+  "在众多的板块中，可再生能源和银行股成为了全场的“靓仔”，涨幅居前。分析认为，美国政坛格局的变化往往会对全球资本市场产生连锁反应，尤其是在新能源政策预期和金融监管方面。",
+  "对于海外华人投资者来说，欧美市场的联动效应十分明显。美国国会权力的重新洗牌，直接波及到了大洋彼岸的欧洲绿色能源和金融板块，这也提醒我们在做资产配置时，要密切关注国际政治局势对不同行业板块带来的资金流向变化。"
+ ],
+ "tags": [
+  "欧洲股市",
+  "美国中期选举",
+  "可再生能源",
+  "银行股",
+  "海外投资"
+ ],
+ "original_title": "European Stocks Rise After Midterms as Renewables and Banks Jump",
+ "lang": "en",
+ "published": "2026-11-04T05:51:38+00:00",
+ "created": "2026-11-04T10:55:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "6e621b0b37",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/americas/once-a-haven-for-guerrillas-venezuela-now-helps-u-s-attack-them-0552b1b7?mod=rss_worldnews",
+ "title": "太阳从西边出来了？委内瑞拉竟然帮着美国搞武装分子了！",
+ "summary": "曾经庇护反政府武装几十年的委内瑞拉政府，最近竟然与美国开展了军事合作，联手实施了一次致命的无人机空袭，两国关系正悄然发生变化。",
+ "body": [
+  "话说最近国际上发生了一件挺让人跌眼镜的事。根据《华尔街日报》的报道，曾经长期庇护反政府武装的委内瑞拉政府，最近居然配合美国完成了一次致命的无人机空袭（deadly drone strike）。",
+  "要知道，过去几十年里，委内瑞拉和美国的关系一直剑拔弩张，加拉加斯（Caracas）当局更是没少给那些反美武装提供避风港。但现在风向变了，华盛顿和加拉加斯正在悄悄建立更紧密的军事合作关系，这次联手打击武装分子就是一个大信号。"
+ ],
+ "tags": [
+  "委内瑞拉",
+  "美国",
+  "军事合作",
+  "国际新闻"
+ ],
+ "original_title": "Once a Haven for Guerrillas, Venezuela Now Helps U.S. Attack Them",
+ "lang": "en",
+ "published": "2026-11-04T03:02:00+00:00",
+ "created": "2026-11-04T10:54:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

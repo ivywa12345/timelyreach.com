@@ -1,0 +1,27 @@
+{
+ "key": "7c1d26995c",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026?mod=rss_markets_main",
+ "title": "美股期指大反弹！投资者连夜评估“民主党全胜”对钱包的影响",
+ "summary": "在经历最初的应激反应后，美股期指迅速回弹，道指期货出现上涨，市场正密切权衡“民主党全胜”的可能性及后续影响。",
+ "body": [
+  "各位股友注意啦！经历了一轮大起大落后，美股期指在盘前来了个大反转。道指期货（Dow futures）带头猛拉，把刚开盘时的应激下跌给全盘收回去了。",
+  "根据《华尔街日报》的报道，这波行情反弹的背后，主要是投资者们正在重新评估华盛顿政坛可能出现“民主党全胜”（Democratic Sweep）的局面，大家的心情可以说是既紧张又兴奋。",
+  "对咱们海外华人来说，大选走向直接牵动着钱包、税收和接下来的市场走势。虽然盘面风向变得快，但接下来的日子里，板块轮动和波动估计少不了，大家盯紧自己的股票账户，投资操作还是稳健为主。"
+ ],
+ "tags": [
+  "美股",
+  "华尔街",
+  "大选",
+  "投资理财",
+  "海外华人"
+ ],
+ "original_title": "Stock Market Today: Stock Futures Rebound as Investors Weigh Democratic Sweep",
+ "lang": "en",
+ "published": "2026-11-04T03:22:53+00:00",
+ "created": "2026-11-04T10:54:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

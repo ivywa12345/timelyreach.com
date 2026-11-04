@@ -1,0 +1,27 @@
+{
+ "key": "ef33167299",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/news-releases/denaturalization-case-filed-against-man-who-procured-us-citizenship-under-false-identity",
+ "title": "隐瞒遣返令、换个名字在美国混成公民？这位印度男子被美国司法部盯上了！",
+ "summary": "美国堪萨斯州联邦检察官办公室宣布，对一名印度出生的男子哈林德·辛格（Harinder Singh）提起诉讼，寻求剥夺其美国公民身份，因其被发现在多年前使用虚假身份和隐瞒真实移民历史入籍。",
+ "body": [
+  "近日，美国移民局（USCIS）协助开展了一项重要调查，堪萨斯州联邦检察官办公室正式对一名印度出生的男子哈林德·辛格（Harinder Singh，也被称为Harinder Singh Sanghera或Rushpal Singh）提起撤销公民身份（Denaturalization）的诉讼。根据相关法律，如果归化入籍是通过非法手段、隐瞒重大事实或蓄意虚假陈述获得的，其美国公民身份将被撤销，入籍证书也会被作废。",
+  "回顾这名男子的“操作”，时间线拉得相当长。早在1991年，当时的移民归化局（INS）在纽约肯尼迪国际机场（JFK International Airport）首次遇到了他，当时他自称是拉什帕尔·辛格（Rushpal Singh）。1995年8月，移民法官曾下令将他驱逐出境，但政府记录显示他根本没离开美国。随后在1996年，他换成“Harinder Singh”的名字重新申请移民福利，不仅改了出生日期和入境时间，还隐瞒了过去的真实身份。他在2000年拿到绿卡，并在8年后成功入籍。",
+  "目前，美国政府正坚决要求撤销被告的公民身份并注销其入籍证书。对于所有合法移民来说，这项案件再次敲响了警钟：在美国千万不要试图通过隐瞒过往或使用假身份来“蒙混过关”，因为移民局和执法部门秋后算账的力度从来没有放松过。"
+ ],
+ "tags": [
+  "美国移民",
+  "公民身份",
+  "移民局",
+  "身份造假",
+  "法律新闻"
+ ],
+ "original_title": "Denaturalization Case Filed Against Man Who Procured U.S. Citizenship Under False Identity",
+ "lang": "en",
+ "published": "2026-08-12T19:44:31+00:00",
+ "created": "2026-11-04T10:58:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

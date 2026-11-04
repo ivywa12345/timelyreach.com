@@ -1,0 +1,27 @@
+{
+ "key": "a39fdff9bb",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/two-year-treasury-yield-falls-to-two-month-low-as-democrats-sweep-midterm-elections-79fb1f8e?mod=rss_markets_main",
+ "title": "中期选举民主党拿下国会，美债收益率应声下跌！",
+ "summary": "根据《华尔街日报》报道，在选民对时任总统特朗普及其政党在中期选举中表达不满后，美国国债收益率随之下降。",
+ "body": [
+  "美国国会中期选举结果出炉，选民用手中的选票对特朗普（Trump）及其所在的政党表达了不满与警告。受此政治格局变化的影响，美国国债收益率在选举后出现下滑。",
+  "与此同时，大西洋彼岸的欧洲债市则呈现出不同的景象，欧元区国债收益率在当天交易中略有回升。",
+  "对于身处海外的华人来说，债券收益率的波动往往会直接传导至房贷利率、车贷利率以及整体经济走势。虽然政治风向变幻莫测，但资本市场的每一次投票都在实实在在地影响着大家的钱包和借贷成本。"
+ ],
+ "tags": [
+  "美国国会",
+  "中期选举",
+  "美债收益率",
+  "华尔街日报",
+  "海外财经"
+ ],
+ "original_title": "Treasury Yields Decline After Democrats Take Congress; Eurozone Yields Edge Up",
+ "lang": "en",
+ "published": "2026-11-04T09:50:00+00:00",
+ "created": "2026-11-04T10:55:08+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

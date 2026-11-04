@@ -1,0 +1,26 @@
+{
+ "key": "fcfb59f049",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/tesla-spacex-shares-take-early-hit-as-midterm-blue-wave-unfolds",
+ "title": "马斯克的特斯拉和SpaceX股价大跌？民主党控制国会吓坏投资者！",
+ "summary": "周三美股开盘前，埃隆·马斯克旗下的特斯拉和SpaceX股价双双下跌。此前，民主党在国会选举中大获全胜，这让投资者开始担心这位共和党大金主核心产业的未来。",
+ "body": [
+  "周三美股开盘前，特斯拉（Tesla Inc.）和太空探索技术公司（SpaceX，即 Space Exploration Technologies Corp.）的股价迎来了下跌。彭博社报道称，这背后的直接导火索是民主党成功控制了国会。",
+  "作为共和党阵营的超级金主（megadonor），埃隆·马斯克（Elon Musk）旗下的两大核心资产一直备受市场关注。此次民主党全面掌控国会，让不少投资者开始担忧政策风向可能会对马斯克的商业版图产生不利影响，因此提前抛售股票避险。"
+ ],
+ "tags": [
+  "特斯拉",
+  "SpaceX",
+  "埃隆马斯克",
+  "美国国会",
+  "美股"
+ ],
+ "original_title": "Musk’s Tesla, SpaceX Slide as Democrats Sweep Congress",
+ "lang": "en",
+ "published": "2026-11-04T04:28:06+00:00",
+ "created": "2026-11-04T10:55:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

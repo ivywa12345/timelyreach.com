@@ -1,0 +1,27 @@
+{
+ "key": "1f949f49d3",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/earnings/advancedmicrodevices-amd-thirdquarter-earnings-report-2026-stock-e186e911?mod=rss_Technology",
+ "title": "押注数据中心赌对了！AMD最新财报超预期，股价直接起飞",
+ "summary": "芯片巨头AMD发布最新财报，各项数据均超出华尔街预期，公司战略重心转向数据中心效果显著，推动股价大幅飙升。",
+ "body": [
+  "芯片制造商 AMD（Advanced Micro Devices）近日交出了一份亮眼的成绩单，其最新财报不仅全面超越了华尔街的预期，也向市场证明了其战略转型的成功。",
+  "根据《华尔街日报》报道，AMD 目前正在全力向“数据中心优先”的战略地位转型，这一押注目前看来收效显著。受此利好消息刺激，该公司的股价在消息公布后大幅飙升。",
+  "对于关注美股和科技股的海外华人来说，半导体巨头的业绩往往是科技行业风向标。AMD 此次业绩大涨，不仅反映出AI和云计算对高性能芯片的强劲需求，也为科技板块投资者注入了一剂强心针。"
+ ],
+ "tags": [
+  "AMD",
+  "美股",
+  "财报",
+  "数据中心",
+  "芯片"
+ ],
+ "original_title": "AMD Beats Wall Street Expectations as it Pivots to Data-Center First Status",
+ "lang": "en",
+ "published": "2026-11-03T21:37:00+00:00",
+ "created": "2026-11-04T10:55:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

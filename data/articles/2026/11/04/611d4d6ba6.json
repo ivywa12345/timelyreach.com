@@ -1,0 +1,26 @@
+{
+ "key": "611d4d6ba6",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/south-africa-s-ramaphosa-sees-new-era-after-us-election-results",
+ "title": "美国大选后，南非总统：跟美国的僵局有救了！",
+ "summary": "南非总统拉马福萨表示，美国中期选举的结果标志着地缘政治格局的转变，这可能为修复南非与华盛顿紧张的双边关系打开大门。",
+ "body": [
+  "南非总统西里尔·拉马福萨（Cyril Ramaphosa）最近表态啦！他认为美国中期选举的结果释放了一个强烈的信号，说明地缘政治格局正在发生变化。",
+  "拉马福萨指出，这一变化可能为南非和美国提供一个机会，重新调整双方目前略显紧张的关系。",
+  "对于咱们海外华人来说，大国之间关系的好坏往往也会间接影响到国际贸易和投资环境，后续进展还是值得持续关注的。"
+ ],
+ "tags": [
+  "南非",
+  "美国大选",
+  "国际关系",
+  "拉马福萨"
+ ],
+ "original_title": "South Africa’s Ramaphosa Sees New Era After US Election Results",
+ "lang": "en",
+ "published": "2026-11-04T09:38:03+00:00",
+ "created": "2026-11-04T10:56:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
