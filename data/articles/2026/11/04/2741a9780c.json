@@ -1,0 +1,27 @@
+{
+ "key": "2741a9780c",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/cio-journal/democratic-wave-changes-ai-policy-calculus-bec0ffe5?mod=rss_Technology",
+ "title": "大选变天，硅谷大佬的AI好日子到头了？",
+ "summary": "民主党浪潮正在改变美国的AI政策走向，科技高管们即将迎来清算，数据中心的建设热潮也面临新的审视。",
+ "body": [
+  "最近政坛的风向变了，这直接影响到了美国人工智能（AI）政策的计算方式。据《华尔街日报》报道，随着政治环境的变化，科技公司的高管们可能要迎来一波清算了，而大家都在盯着的数据中心建设热潮也充满了变数。",
+  "长期以来，硅谷在AI发展上享受了相对宽松的氛围，但政策风向的转变意味着未来监管可能会收紧。特别是疯狂扩建、耗电巨大的数据中心项目，接下来很可能会面临更多的环保和政策审查。",
+  "对于咱们海外华人来说，科技政策的调整不仅关乎硅谷大厂的股价和打工人的饭碗，也可能影响到AI技术未来的普及速度以及相关的电力成本。我们会持续关注这股政策浪潮对科技行业和日常生活带来的实际影响。"
+ ],
+ "tags": [
+  "AI政策",
+  "科技监管",
+  "硅谷",
+  "华尔街日报",
+  "数据中心"
+ ],
+ "original_title": "Democratic Wave Changes AI Policy Calculus",
+ "lang": "en",
+ "published": "2026-11-04T14:23:00+00:00",
+ "created": "2026-11-04T18:18:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

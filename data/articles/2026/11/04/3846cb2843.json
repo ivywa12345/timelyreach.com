@@ -1,0 +1,26 @@
+{
+ "key": "3846cb2843",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/speaker-johnson-won-t-stay-on-as-gop-leader-after-midterm-rout",
+ "title": "中期选举惨败后，众议院议长约翰逊据传不再寻求连任GOP领袖！",
+ "summary": "据知情人士透露，由于共和党在选举中失利，众议院议长迈克·约翰逊（Mike Johnson）不打算在明年继续担任众议院共和党领袖，这也引发了党内关于未来立法少数派领袖人选的争夺战。",
+ "body": [
+  "知情人士爆料称，在经历了惨淡的中期选举后，现任众议院议长迈克·约翰逊（Mike Johnson）已经无意在明年继续领导国会众议院的共和党人。",
+  "随着共和党在选举中失利，他们在国会中的影响力将大大减弱，沦为立法少数派。约翰逊的这一决定，直接在党内点燃了一场激烈的权力争夺战，大家都在观望未来到底由谁来掌舵这支处于劣势的队伍。"
+ ],
+ "tags": [
+  "美国政坛",
+  "众议院议长",
+  "迈克·约翰逊",
+  "共和党",
+  "选举失利"
+ ],
+ "original_title": "Speaker Johnson Won’t Stay On as GOP Leader After Midterm Rout",
+ "lang": "en",
+ "published": "2026-11-04T15:08:48+00:00",
+ "created": "2026-11-04T18:22:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

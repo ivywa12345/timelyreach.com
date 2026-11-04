@@ -1,0 +1,27 @@
+{
+ "key": "ba754b79cb",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/us-revamps-debt-sales-guidance-opening-path-to-auction-changes",
+ "title": "美国财政部悄悄改了规矩！华尔街大行连夜重新算账",
+ "summary": "美国财政部微调了自2024年初以来一直使用的国债发行指导方针，这一举动引发了各大一级交易商对明年国债拍卖预期的新一轮调整。",
+ "body": [
+  "如果你最近关注金融市场，可能得留意这个消息了。根据彭博社（Bloomberg）报道，美国财政部（US Treasury Department）最近悄悄调整了关于中长期国债发售的指导方针。要知道，这套指引自2024年初以来可是一直没变过。",
+  "虽然只是微调，但市场反应相当迅速。这直接促使各大国债交易商（dealers）开始重新评估和预测明年的国债拍卖情况。大家都在琢磨，这会给接下来的债券市场带来什么连锁反应。",
+  "对于咱们海外华人来说，美国国债发行规模和市场的变动，往往会直接牵动美联储的利率神经，进而影响到大家的房贷利率、车贷成本甚至是整体的投资回报。后续走向如何，我们还得持续观察。"
+ ],
+ "tags": [
+  "美国财政部",
+  "国债拍卖",
+  "华尔街",
+  "金融市场",
+  "海外华人"
+ ],
+ "original_title": "US Tweaks Debt-Sale Guidance, Spurring Auction-Forecast Changes",
+ "lang": "en",
+ "published": "2026-11-04T13:34:13+00:00",
+ "created": "2026-11-04T18:21:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

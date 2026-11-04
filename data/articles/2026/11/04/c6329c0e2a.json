@@ -1,0 +1,26 @@
+{
+ "key": "c6329c0e2a",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-investors-weigh-u-s-midterm-results-iran-risks-1d97da8a?mod=rss_worldnews",
+ "title": "油价又跌了！美国大选结果出炉，华尔街开始盘算伊朗问题",
+ "summary": "周三原油价格继续下跌，投资者正在密切评估美国国会选举结果对特朗普政府伊朗政策的潜在影响。",
+ "body": [
+  "周三，国际原油价格延续了下跌趋势。市场资金正在消化刚刚过去的美国国会中期选举结果，特别是民主党掌控国会后，会对特朗普政府接下来的伊朗战略带来哪些变数。",
+  "分析人士指出，选举带来的政治格局变化直接影响了市场对未来能源政策和中东局势的预期。投资者目前正紧盯白宫下一步的动作，以判断原油供需是否会受到实质性冲击。",
+  "对于海外华人车主和关注能源板块的投资者来说，油价的回落能在一定程度上减轻日常出行的油费负担。不过，地缘政治局势瞬息万变，后续油价是继续走低还是反弹，还得看中东局势的进一步发展。"
+ ],
+ "tags": [
+  "油价",
+  "美国中期选举",
+  "伊朗",
+  "财经新闻"
+ ],
+ "original_title": "Oil Prices Fall as Investors Weigh U.S. Midterm Results, Iran Risks",
+ "lang": "en",
+ "published": "2026-11-04T13:46:00+00:00",
+ "created": "2026-11-04T18:14:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "cc14dd2522",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/04/us-news/florida-helicopter-crashes-into-water-leaving-1-dead-2-injured-days-after-horror-learjet-plunge/",
+ "title": "迈阿密富人区附近发生直升机坠海！致1死2伤，几天前刚发生里尔喷气机坠机",
+ "summary": "周三上午，一架直升机在迈阿密Key Biscayne附近海域坠毁，造成1人遇难、2人受伤。目前事故原因仍在调查中。",
+ "body": [
+  "根据《纽约邮报》等媒体报道，当地时间周三（11月4日）上午11点50分刚过，一架直升机在迈阿密富人岛屿聚集区Key Biscayne西南侧的海域坠入大西洋。救援船只随后迅速赶往现场开展搜救。",
+  "当地媒体的航拍画面显示，现场有一名遇难者遗体被黄色防水布盖住。另有两名幸存者被急救人员送往医院治疗，目前伤情尚不明确。值得注意的是，这起事故距离当地另一起惨烈的里尔喷气机（Learjet）坠机事故仅仅过去几天。",
+  "这起突发空难再次引发了当地居民对飞行安全的关注。由于事发海域靠近迈阿密热门休闲区，后续调查进展和事故原因仍有待官方进一步披露。"
+ ],
+ "tags": [
+  "迈阿密",
+  "直升机坠毁",
+  "突发新闻",
+  "美国安全"
+ ],
+ "original_title": "Florida helicopter crashes into water, leaving 1 dead, 2 injured — days after horror Learjet plunge",
+ "lang": "en",
+ "published": "2026-11-04T17:39:42+00:00",
+ "created": "2026-11-04T18:25:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

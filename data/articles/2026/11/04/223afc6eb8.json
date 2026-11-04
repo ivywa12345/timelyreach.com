@@ -1,0 +1,27 @@
+{
+ "key": "223afc6eb8",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-2357fb44?mod=rss_markets_main",
+ "title": "AI拉动能源需求？华尔街最新市场风向标来了",
+ "summary": "华尔街日报最新能源与公用事业市场讨论摘要显示，AI基础设施、原油期货和天然气等领域的动态备受市场关注。",
+ "body": [
+  "各位老铁注意啦！最近华尔街日报（The Wall Street Journal）发布了最新的能源与公用事业市场风向标，里面信息量可不小。",
+  "根据这份摘要，目前市场讨论的焦点主要集中在几个大方向：首先是现在火得不行的AI基础设施建设对能源带来的巨大需求，其次是大家天天关心的原油期货走势，还有天然气等传统能源的最新动向。",
+  "对咱们普通人来说，能源价格直接关系到电费账单和油价，而AI带动的电力需求也可能在未来影响到整个宏观经济。我们会持续关注后续的详细分析。"
+ ],
+ "tags": [
+  "能源市场",
+  "AI基础设施",
+  "原油期货",
+  "天然气",
+  "华尔街"
+ ],
+ "original_title": "Energy & Utilities Roundup: Market Talk",
+ "lang": "en",
+ "published": "2026-11-04T17:28:00+00:00",
+ "created": "2026-11-04T18:16:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "19deb3a6ec",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/democrats-take-congress-as-trump-says-iran-war-is-partly-to-blame-for-gop-losses-b03d4784?mod=rss_worldnews",
+ "title": "民主党拿下国会！特朗普直言：都是伊拉克战争害得共和党中期失利？",
+ "summary": "华尔街日报最新消息，民主党在国会选举中取得胜利。与此同时，特朗普将共和党的失利部分归咎于伊朗战争，而伊朗则开始利用游击战术试图切断霍尔木兹海峡的石油运输，此外CVS健康公司也做出了分拆为两家公司的重大决定。",
+ "body": [
+  "据《华尔街日报》（Wall Street Journal）记者Emma Tucker报道，美国政坛近日迎来变动，民主党成功拿下国会（Congress）。对于共和党（GOP）在中期选举中的失利，美国总统特朗普（Donald Trump）公开表示，部分原因要怪罪于伊朗战争（Iran War）。",
+  "与此同时，地缘政治局势再度紧张。为了阻止石油流出霍尔木兹海峡（Strait of Hormuz），伊朗方面已经转向使用游击战术，这给全球能源供应链带来了新的不确定性。另一方面，商业巨头CVS健康公司（CVS Health）也宣布了重大调整，决定将公司分拆为两部分独立运营。",
+  "对于海外华人来说，国会党派更迭往往会直接影响到税收、医疗以及签证政策的走向，而中东局势的动荡也可能通过油价波动间接影响到大家的钱包。我们将持续关注后续发展。"
+ ],
+ "tags": [
+  "美国政治",
+  "民主党",
+  "特朗普",
+  "霍尔木兹海峡",
+  "CVS健康"
+ ],
+ "original_title": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses",
+ "lang": "en",
+ "published": "2026-11-04T11:03:00+00:00",
+ "created": "2026-11-04T18:15:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

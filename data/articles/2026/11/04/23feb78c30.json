@@ -1,0 +1,22 @@
+{
+ "key": "23feb78c30",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/alcohol-stocks-jump-as-blue-wave-lifts-tariff-immigration-hopes",
+ "title": "随着蓝色浪潮提升贸易，酒精飙升，移民希望",
+ "summary": "投资者押注，酒类公司是昨晚中期选举压倒性优势的赢家之一，因为新一届国会将推翻特朗普政府削弱酒类业务的移民和贸易政策。",
+ "body": [
+  "投资者押注，酒类公司是昨晚中期选举压倒性优势的赢家之一，因为新一届国会将推翻特朗普政府削弱酒类业务的移民和贸易政策。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Alcohol Jumps as Blue Wave Lifts Trade, Immigration Hope",
+ "lang": "en",
+ "published": "2026-11-04T17:19:47+00:00",
+ "created": "2026-11-04T18:21:18+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

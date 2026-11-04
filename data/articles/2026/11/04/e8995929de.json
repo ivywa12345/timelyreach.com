@@ -1,0 +1,27 @@
+{
+ "key": "e8995929de",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/latest-oil-market-news-and-analysis-for-nov-4",
+ "title": "油价突然崩了！布伦特原油暴跌10%跌破100美元",
+ "summary": "由于投资者押注美国中期选举可能出现民主党大获全胜的局面，从而更快结束持续数月并扰乱全球能源市场的冲突，布伦特原油期货暴跌10%，跌破每桶100美元大关。",
+ "body": [
+  "据彭博社（Bloomberg）报道，国际油市在11月4日迎来了大地震，布伦特原油期货价格单日暴跌10%，直接跌回了每桶100美元以下。",
+  "这次油价大跳水背后的主要推手，是华尔街投资者的最新押注。市场普遍认为，如果美国中期选举出现民主党全胜（Democratic sweep）的局面，可能会让这场持续好几个月、把全球能源市场搅得天翻地覆的冲突更快迎来终结。",
+  "对于在美华人来说，国际油价大跌绝对是个好消息。这意味着接下来的加油站油费和日常出行成本有望显著下降，能实实在在地为大家的钱包减减负，也能稍微缓解一下高通胀带来的压力。"
+ ],
+ "tags": [
+  "油价",
+  "美国中期选举",
+  "财经新闻",
+  "通货膨胀",
+  "海外华人"
+ ],
+ "original_title": "Latest Oil Market News and Analysis for Nov. 4",
+ "lang": "en",
+ "published": "2026-11-03T23:08:04+00:00",
+ "created": "2026-11-04T18:22:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

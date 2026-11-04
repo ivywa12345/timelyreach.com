@@ -1,0 +1,27 @@
+{
+ "key": "7364cfb9bd",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/04/us-news/california-approves-prop-37-historic-25b-loan-fund-to-rescue-cash-strapped-homebuyers/",
+ "title": "加州通过250亿美元买房救市计划！首付只要3%？但大家心里都没底",
+ "summary": "加州选民投票通过了第37号提案（Proposition 37），允许加州住房金融局（California Housing Finance Agency）向私人投资者借款高达250亿美元，用来资助买不起20%首付的中产阶级买新房，首付最低只需3%。",
+ "body": [
+  "美联社周二晚间宣布，加州第37号提案获得了约60%选民的支持，顺利通过。这项计划旨在帮那些月供没问题、但拿不出20%高额首付的中产阶级圆买房梦。",
+  "根据该提案，加州住房金融局将通过向私人投资者出售债券筹集高达250亿美元资金，再转贷给购房者。该项目提供固定利率抵押贷款，最高可覆盖房屋购买价的17%，买家自己只需出至少3%的首付，且房屋必须是新建或新改建的住房。不过，这也附带了明确的门槛：内陆地区的房价上限约为100万美元，而在洛杉矶、橙县和湾区等高房价地区，房价上限可达150万美元；同时，申请者的收入不得超过当地家庭收入中位数的两倍。",
+  "虽然计划听起来很美，但反对者（包括加州女选民联盟 League of Women Voters of California 和“改革加州” Reform California 等机构）指出，目前各方对于这项庞大计划具体如何运作和管理还存在诸多疑问。反对者认为，州政府不应该介入抵押贷款业务，而且这根本无法解决加州房价高昂的根本原因。"
+ ],
+ "tags": [
+  "加州买房",
+  "首付补贴",
+  "美国房产",
+  "第37号提案",
+  "中产阶级"
+ ],
+ "original_title": "Historic $25B loan fund to rescue cash-strapped California homebuyers is approved —but nobody knows how it works",
+ "lang": "en",
+ "published": "2026-11-04T17:40:05+00:00",
+ "created": "2026-11-04T18:25:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

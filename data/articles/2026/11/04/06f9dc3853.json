@@ -1,0 +1,27 @@
+{
+ "key": "06f9dc3853",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/trump-s-power-to-shape-supreme-court-doused-by-democratic-rout",
+ "title": "特朗普还想再换最高法院大法官？这回民主党不答应了！",
+ "summary": "根据彭博社的报道，由于近期政治格局的变化，美国总统唐纳德·特朗普（Donald Trump）未来大概率无法再任命新的联邦最高法院大法官了。",
+ "body": [
+  "彭博社资深记者格雷格·斯托尔（Greg Stohr）撰文指出，随着民主党在相关政治博弈中取得进展（Democratic Rout），总统唐纳德·特朗普（Donald Trump）可能已经完成了他任内最后一次美国最高法院大法官的任命。",
+  "在此之前，特朗普在第一任期内曾成功任命了三位保守派大法官，彻底改变了最高法院的意识形态走向。但从目前的政治形势和未来的人事更迭时间表来看，他想要进一步巩固最高法院保守派优势的计划已经基本被堵死。",
+  "对于关注美国政治走向的海外华人来说，最高法院大法官的构成直接关系到堕胎权、平权法案、移民政策等一系列核心议题的最终裁决。虽然短期内最高法院的判决基调不会发生剧烈晃动，但这一权力格局的锁定，意味着未来几年内大法官席位将不再是总统大选中的核心变量。"
+ ],
+ "tags": [
+  "特朗普",
+  "美国最高法院",
+  "民主党",
+  "美国政治",
+  "大法官"
+ ],
+ "original_title": "Trump Power to Shape Supreme Court Doused by Democratic Rout",
+ "lang": "en",
+ "published": "2026-11-04T16:29:08+00:00",
+ "created": "2026-11-04T18:22:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

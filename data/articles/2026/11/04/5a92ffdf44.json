@@ -1,0 +1,26 @@
+{
+ "key": "5a92ffdf44",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
+ "title": "中期选举民主党大胜，医院股狂欢而药企瑟瑟发抖？",
+ "summary": "美国中期选举后，民主党的胜利让各大医院股票迎来大涨，而制药行业则面临更严格的审查压力，这对美国医疗格局将产生深远影响。",
+ "body": [
+  "根据 MarketWatch 报道，随着民主党在中期选举中获胜，美国最大的几家医院迎来了重大利好，相关医疗股集体大涨，而制药企业则开始为即将到来的严格审查做准备。",
+  "分析认为，民主党的胜选政策方向可能会给医疗服务提供者带来更多发展机遇，但对于靠药品盈利的大药企来说，未来在价格管控和政策监管上可能会面临更多挑战。"
+ ],
+ "tags": [
+  "医疗股",
+  "中期选举",
+  "民主党",
+  "医院",
+  "药企"
+ ],
+ "original_title": "Hospital stocks rally while drugmakers brace for scrutiny. Here’s what the Democratic wave means for healthcare.",
+ "lang": "en",
+ "published": "2026-11-04T17:19:00+00:00",
+ "created": "2026-11-04T18:28:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
