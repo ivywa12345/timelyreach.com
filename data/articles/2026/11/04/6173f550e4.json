@@ -1,0 +1,27 @@
+{
+ "key": "6173f550e4",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-financial-airline-stocks-87443383?mod=rss_markets_main",
+ "title": "“蓝潮”要来？华尔街预测美股和美元可能要走弱！",
+ "summary": "根据华尔街日报报道，美国中期选举中若出现“蓝潮”，可能会带来更多监管，尤其是针对人工智能（AI）领域，这对于美股和美元来说可能都是个利空消息。",
+ "body": [
+  "资产管理公司 AMP 指出，从目前的情况来看，美国中期选举似乎正在酝酿一场“蓝潮”。这意味着未来可能会有更多的政府监管出台，特别是针对当下大火的人工智能（AI）领域。",
+  "分析认为，政策监管的收紧和变化，对美国股市和美元汇率来说可能是一个潜在的负面影响，会导致它们接下来面临走弱的压力。",
+  "对于咱们在美华人来说，股市和美元的波动直接关系到大家的投资理财和资产配置。如果美元和美股走势疲软，大家的投资组合可能需要适当调整，以应对接下来可能出现的市场波动。"
+ ],
+ "tags": [
+  "美股",
+  "美元",
+  "美国中期选举",
+  "人工智能",
+  "华尔街"
+ ],
+ "original_title": "U.S. Stocks, Dollar Set to Weaken as Blue Wave Forms",
+ "lang": "en",
+ "published": "2026-11-04T02:51:00+00:00",
+ "created": "2026-11-04T03:01:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

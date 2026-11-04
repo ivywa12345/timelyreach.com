@@ -1,0 +1,26 @@
+{
+ "key": "762ed2d7c0",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+ "title": "AI服务器需求太火爆！超微电脑股价大涨，CFO这样说",
+ "summary": "超微电脑（Super Micro）因财报显示AI服务器需求强劲，股价迎来大涨。公司高管透露，其正在建立高质量的客户群以推动业务增长。",
+ "body": [
+  "最近科技圈和股市又热闹了，主打AI服务器的超微电脑（Super Micro）股价迎来了明显上涨，背后的动力正是市场上挡不住的AI服务器需求。",
+  "超微电脑首席财务官（CFO）马克·朗（Mark Long）在接受MarketWatch采访时表示，公司目前正在不断拓展并建立一个“高质量的客户群”，正是这群优质客户在持续推动公司营收的强劲增长。",
+  "对于关注美股和AI板块的海外华人来说，这类硬件巨头的业绩往往是观察整个AI浪潮风向的重要风向标。AI产业链的持续火热，也让不少投资者和相关从业者看到了更多市场机会。"
+ ],
+ "tags": [
+  "超微电脑",
+  "AI服务器",
+  "美股",
+  "人工智能"
+ ],
+ "original_title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
+ "lang": "en",
+ "published": "2026-11-04T01:12:00+00:00",
+ "created": "2026-11-04T03:04:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

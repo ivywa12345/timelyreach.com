@@ -1,0 +1,27 @@
+{
+ "key": "8191aaa37d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
+ "title": "大选结果还没完全出炉，美股和美元怎么就先跌了？",
+ "summary": "根据彭博社报道，随着民主党可能全面掌控国会的预期升温，美国股指期货与美元双双下跌，美债则受到追捧，市场正担忧特朗普的政策议程可能受阻。",
+ "body": [
+  "据彭博社（Bloomberg）报道（作者：Toby Alder 和 Winnie Hsu），随着早期选举结果显示民主党有可能“横扫”国会（即总统及参众两院均由民主党掌控），这场政治风暴迅速波及了全球金融市场。",
+  "受此预期影响，美国股指期货和美元纷纷走低，而美国国债则迎来上涨。市场分析认为，这种局面的出现可能会对现任总统唐纳德·特朗普（Donald Trump）接下来的政策议程踩下急刹车，引发了投资者对未来政策走向的观望与调整。",
+  "对身在海外的我们来说，美元和股市的波动往往直接关系到大家的钱包、投资回报甚至是汇率走势。如果政坛格局发生重大变化，随之而来的税收政策和经济走向调整，也可能对华人的工作和生活产生深远影响，近期需要密切关注市场动向。"
+ ],
+ "tags": [
+  "美股",
+  "美元",
+  "美国大选",
+  "海外财经",
+  "华尔街"
+ ],
+ "original_title": "Stocks Slide With Dollar on Rising Blue-Wave Bets: Markets Wrap",
+ "lang": "en",
+ "published": "2026-11-03T22:20:22+00:00",
+ "created": "2026-11-04T03:02:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

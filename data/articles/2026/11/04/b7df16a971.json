@@ -1,0 +1,27 @@
+{
+ "key": "b7df16a971",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results",
+ "title": "纳斯达克期货夜盘急跌！“蓝色浪潮”要来，AI板块悬了？",
+ "summary": "周二晚间，美国股指期货突然下跌，有预测显示民主党可能赢得众议院控制权，这让以埃隆·马斯克为代表的共和党超级金主和AI相关股票面临更大的监管风险。",
+ "body": [
+  "周二晚间，美股指数期货出现下滑。市场最新预测显示，民主党（Democrats）有望赢得美国众议院（US House）的控制权，华盛顿的政治风向可能发生变化。",
+  "这一政治变动对共和党的超级金主、特斯拉掌门人埃隆·马斯克（Elon Musk）及其旗下的公司来说，可能是一个潜在的打击。与此同时，随着监管风险的不断增加，与人工智能（AI）紧密相连的科技股也感受到了压力。",
+  "对于海外华人投资者来说，政坛格局的变化往往会直接波及科技股和AI板块的走势。如果国会势力发生变化，相关的监管政策和税收风向很可能会调整，大家的投资组合和钱包也得跟着多留个心眼了。"
+ ],
+ "tags": [
+  "美股",
+  "纳斯达克",
+  "人工智能",
+  "美国大选",
+  "埃隆·马斯克"
+ ],
+ "original_title": "Nasdaq Futures Slide as Signs of Blue Wave Weigh on AI Complex",
+ "lang": "en",
+ "published": "2026-11-04T00:01:14+00:00",
+ "created": "2026-11-04T03:02:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

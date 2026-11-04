@@ -1,0 +1,26 @@
+{
+ "key": "b6ca9b9cf5",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/03/besieged-by-war-saudi-aramco-continues-to-gush-profits",
+ "title": "天天挨炸也没用？沙特阿美这印钞机属性绝了！",
+ "summary": "尽管面临战火威胁和设施遭袭，沙特国家石油公司（Saudi Aramco）依然凭借高油价赚得盆满钵满，利润持续井喷。",
+ "body": [
+  "最近中东局势不太平，大家都在担心能源供应。不过，根据《经济学人》（The Economist）的报道，战火和设施遭袭并没有削弱沙特国家石油公司（Saudi Aramco）的赚钱能力。高企的国际油价轻轻松松就弥补了设施被炸带来的损失，这家石油巨头依然在源源不断地创造巨额利润。",
+  "对海外华人来说，能源价格直接牵动着咱们的钱包。油价坚挺意味着通胀压力短期内很难彻底根除，不管是开车加油还是日常生活的物价、电费，可能都要继续承受高位运行的压力。"
+ ],
+ "tags": [
+  "沙特阿美",
+  "油价",
+  "国际新闻",
+  "通胀",
+  "能源"
+ ],
+ "original_title": "Besieged by war, Saudi Aramco continues to gush profits",
+ "lang": "en",
+ "published": "2026-11-03T20:36:19+00:00",
+ "created": "2026-11-04T03:01:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

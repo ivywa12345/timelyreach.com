@@ -1,0 +1,27 @@
+{
+ "key": "6d5ae584bd",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
+ "title": "中国AI概念股跌跌不休，这其实是给全世界的一个大警告？",
+ "summary": "经济学人发文分析，随着科技供给赶上甚至超过需求，中国AI股市遭遇了不小的挫折，这也给市场敲响了警钟。",
+ "body": [
+  "最近大家有没有发现，中美两边的科技股都有点魔幻。根据《经济学人》的最新分析，中国的人工智能（AI）相关股票在资本市场上正经历不小的挣扎，这其实折射出了一个深层问题：当新技术、新硬件的供给终于追上甚至超过了市场需求，会发生什么？",
+  "简单来说，过去一段时间大家对AI的狂热，很大程度上是因为觉得“GPU芯片、算力、大模型”永远供不应求，闭着眼睛买科技股都能赚。但现实往往没这么简单。当产能上去了，大家的狂热劲儿冷却下来，供需关系发生变化，泡沫和真实价值的碰撞就来了。",
+  "对于咱们海外华人特别是关注美股、A股科技板块的投资者来说，这无疑是一个很有价值的信号。炒概念的时代可能正在过去，接下来不管是看好大厂还是中小科技股，拼的还是实打实的盈利能力和落地场景。钱包要捂紧，投资得更理性啦。"
+ ],
+ "tags": [
+  "人工智能",
+  "AI股票",
+  "经济学人",
+  "科技股",
+  "海外投资"
+ ],
+ "original_title": "China’s AI stock-market struggles are a warning",
+ "lang": "en",
+ "published": "2026-11-03T20:48:59+00:00",
+ "created": "2026-11-04T03:01:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

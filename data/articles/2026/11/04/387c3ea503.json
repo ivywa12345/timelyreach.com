@@ -1,0 +1,27 @@
+{
+ "key": "387c3ea503",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/3m-announces-7-4-billion-settlement-in-forever-chemicals-injuries-case-17dd1e41?mod=rss_Technology",
+ "title": "“永久化学品”闯大祸！3M豪掷74亿美元求和解，背后发生了啥？",
+ "summary": "化工巨头3M公司同意支付74亿美元，就高达12万起关于“永久化学品”PFAS的人身伤害诉讼达成和解。",
+ "body": [
+  "近日，跨国化工巨头3M公司（3M Co.）宣布了一项轰动业界的天价和解协议：同意支付高达74亿美元的巨额资金，用来平息多达12万起指控其产品含有害化学物质并造成人身伤害的诉讼。",
+  "据了解，这起风波的核心是被称为“永久化学品”的PFAS（全氟和多氟烷基物质）。大批原告认为，这些难以降解的化学物质对他们的健康造成了损害，因此将3M告上法庭。经过激烈的法律博弈，双方终于达成了这一揽子和解方案。",
+  "对于身处海外的华人朋友来说，这类环境与健康诉讼不仅关乎大型企业的社会责任，也常常与我们日常生活中的饮用水安全、消费品质量息息相关。虽然3M通过巨额赔偿暂时堵住了法律漏洞，但“永久化学品”对环境和健康的长期影响依然值得大家持续关注。"
+ ],
+ "tags": [
+  "3M",
+  "PFAS",
+  "美国新闻",
+  "法律诉讼",
+  "华人生活"
+ ],
+ "original_title": "3M Announces $7.4 Billion Settlement in ‘Forever Chemicals’ Injuries Case",
+ "lang": "en",
+ "published": "2026-11-04T00:39:00+00:00",
+ "created": "2026-11-04T03:01:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "816a3f64bb",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c?mod=rss_Technology",
+ "title": "硅谷吹嘘AI能治百病，药企巨头：醒醒吧，根本行不通！",
+ "summary": "硅谷高调宣称人工智能将彻底革新药物研发，但各大制药公司的高管却并不买账。他们指出，迄今为止还没有一款完全由AI设计的药物获得美国食品药品监督管理局（FDA）的批准，复杂的生物学现实才是最大的绊脚石。",
+ "body": [
+  "最近硅谷和科技圈天天吹捧人工智能（AI）有多神，甚至放话能靠它包治百病、研发新药。不过，传统制药行业的大佬们可没那么容易被忽悠。据《华尔街日报》报道，各大药企的首席执行官们纷纷表示：这牛皮吹得有点大，现实中的生物学没那么简单。",
+  "数据显示，虽然AI概念被炒得火热，但到目前为止，还没有任何一款由AI独立设计出来的药物真正通过了美国食品药品监督管理局（FDA）的批准。药企大佬们直言，人体生物学的复杂性远超算法想象，药物研发不是靠写代码就能轻松搞定的。",
+  "对于关注健康和前沿科技的海外华人来说，虽然AI在辅助医疗、加速某些环节上确实有潜力，但指望它立刻变出救命神药，目前来看还是科技公司的营销噱头居多。钱包和期望值，还得稍微悠着点，别被硅谷的PPT给全盘带跑了。"
+ ],
+ "tags": [
+  "人工智能",
+  "医药研发",
+  "硅谷",
+  "FDA",
+  "华尔街日报"
+ ],
+ "original_title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren’t Buying It.",
+ "lang": "en",
+ "published": "2026-11-04T02:00:00+00:00",
+ "created": "2026-11-04T03:01:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

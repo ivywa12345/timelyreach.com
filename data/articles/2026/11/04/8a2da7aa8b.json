@@ -1,0 +1,27 @@
+{
+ "key": "8a2da7aa8b",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/alternative-investments-start-b21fc8ef?mod=rss_markets_main",
+ "title": "想投资点不一样的？华尔街日报教你轻松玩转“另类投资”！",
+ "summary": "华尔街日报报道指出，公开交易的另类投资能为投资组合提供多元化配置，但在入场前务必摸清其中的风险与回报。",
+ "body": [
+  "如果你觉得股票和债券已经不能满足你的投资需求，不妨了解一下“另类投资（Alternative Investments）”。根据《华尔街日报》的报道，现在有一种比较简单的方式可以让你涉足这一领域。",
+  "这类公开交易的投资产品可以帮助大家更好地分散投资风险。不过，专栏作家黛比·卡尔森（Debbie Carlson）提醒大家，在盲目跟风、把钱投进去之前，一定要花点时间把它们的风险和收益搞明白，切忌盲目冲动。",
+  "对于海外华人来说，资产配置多元化关乎全家的钱包和长远规划。面对不熟悉的投资工具，建议大家多做功课，量力而行，稳妥起见。"
+ ],
+ "tags": [
+  "投资理财",
+  "另类投资",
+  "资产配置",
+  "华尔街日报",
+  "海外华人"
+ ],
+ "original_title": "Want to Try Alternative Investments? Here’s an Easy Way to Start",
+ "lang": "en",
+ "published": "2026-11-03T21:00:00+00:00",
+ "created": "2026-11-04T03:00:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "6a415c886b",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+ "title": "苹果财报后股价跌了近2%！华尔街分析师到底怎么看？",
+ "summary": "苹果公司（Apple）发布财报后，由于投资者对毛利率预期和服务业务增速放缓感到失望，周二股价下跌了近2%。",
+ "body": [
+  "苹果公司（Apple）最近交出的成绩单没能完全讨好华尔街。就在发布财报后，由于投资者对公司未来的毛利率展望以及服务业务的增长速度不够满意，苹果股价在周二（当地时间）应声下跌了近2%。",
+  "MarketWatch专栏作家Nora Redmond报道指出，虽然苹果作为科技巨头依旧吸金，但这次的财报细节让市场紧绷的神经有些松懈。分析师们纷纷向客户解读这次业绩背后的隐忧，特别是利润率的走势和服务板块这个近年来备受期待的增长引擎，增速似乎正在放缓。",
+  "对于咱们海外华人来说，苹果股价的波动不仅关乎华尔街的风吹草动，也直接牵动着不少人的401(k)退休账户、科技股投资组合甚至是苹果产业链相关的工作机会。科技股向来风浪大，后续表现还得看苹果能不能在接下来的新品和业务上给市场打气。"
+ ],
+ "tags": [
+  "苹果",
+  "美股",
+  "科技股",
+  "财报"
+ ],
+ "original_title": "What analysts are telling us while Apple’s stock falls after earnings report",
+ "lang": "en",
+ "published": "2026-11-03T22:48:00+00:00",
+ "created": "2026-11-04T03:04:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

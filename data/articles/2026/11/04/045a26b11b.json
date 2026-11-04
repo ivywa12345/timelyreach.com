@@ -1,0 +1,25 @@
+{
+ "key": "045a26b11b",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/democrat-andrews-wins-south-carolina-senate-race-ddhq-projects",
+ "title": "南卡州参议员选举爆冷？民主党候选人安德鲁斯被预测获胜！",
+ "summary": "根据Decision Desk HQ在X平台上的预测，民主党候选人安妮·安德鲁斯（Annie Andrews）赢得了南卡罗来纳州的参议院选举。",
+ "body": [
+  "据彭博社报道，根据数据预测机构Decision Desk HQ在社交平台X上的最新消息，民主党候选人安妮·安德鲁斯（Annie Andrews）在南卡罗来纳州的参议院选举中胜出。",
+  "目前该选举结果由Decision Desk HQ做出预测，各方正密切关注后续的官方票数统计与确认。"
+ ],
+ "tags": [
+  "南卡罗来纳州",
+  "美国选举",
+  "民主党",
+  "政治新闻"
+ ],
+ "original_title": "Democrat Andrews Wins South Carolina Senate Race, DDHQ Projects",
+ "lang": "en",
+ "published": "2026-11-04T02:56:06+00:00",
+ "created": "2026-11-04T03:02:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

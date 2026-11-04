@@ -1,0 +1,25 @@
+{
+ "key": "718e60b055",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/democrat-luria-wins-virginia-house-race-ddhq-projects",
+ "title": "弗吉尼亚州国会众议院选举：民主党候选人露西亚胜出！",
+ "summary": "根据数据预测机构 Decision Desk HQ 在 X 平台发布的消息，民主党候选人伊莱恩·露西亚（Elaine Luria）预计将赢得弗吉尼亚州第二国会选区的选举。",
+ "body": [
+  "根据彭博社援引数据预测机构 Decision Desk HQ 在 X（原推特）平台发布的消息，民主党候选人伊莱恩·露西亚（Elaine Luria）预计将在弗吉尼亚州第二国会选区的选举中胜出。",
+  "此次选举结果备受关注，作为关键选区的争夺，露西亚的胜出为民主党在该地区的选情带来了重要进展。"
+ ],
+ "tags": [
+  "美国政治",
+  "弗吉尼亚州",
+  "国会选举",
+  "民主党"
+ ],
+ "original_title": "Democrat Luria Wins Virginia House Race, DDHQ Projects",
+ "lang": "en",
+ "published": "2026-11-04T02:53:01+00:00",
+ "created": "2026-11-04T03:02:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

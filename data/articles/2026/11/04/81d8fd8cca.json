@@ -1,0 +1,27 @@
+{
+ "key": "81d8fd8cca",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/apple-shares-slip-meta-debt-costs-rise-a8eb0510?mod=rss_markets_main",
+ "title": "苹果股价微微回落，Meta借钱成本蹭蹭涨？看看华尔街在急什么",
+ "summary": "最新市场动态显示，苹果公司股价出现下滑，与此同时，社交巨头Meta的债务成本正在上升。投资者们正密切关注这些变动，同时也在盯着即将到来的中期选举。",
+ "body": [
+  "各位海外的朋友们注意啦，华尔街最近又有了新动向。根据《华尔街日报》的报道，科技圈两大巨头苹果公司（Apple）和Meta最近都遇到了一些小波折，苹果的股价（Shares）稍微往下走了一些，而Meta的借贷成本则在悄悄往上涨。",
+  "除了这两家科技巨头，金融圈也有大新闻。私募巨头阿波罗全球管理公司（Apollo）最近财务状况来了个大反转，从盈利直接跌入亏损。不仅如此，华尔街的投资者们现在也分出一部分精力，正死死盯着中期选举（Midterm election races）的走势，毕竟政治风向对钱包的影响可大着呢。",
+  "对咱们在海外过日子、搞投资的朋友来说，大盘的这些波动往往直接跟咱们的退休金、股票账户挂钩。科技股和信贷成本的变动，也反映出当前的经济环境确实不太省心，大家做资产配置的时候得多留个心眼了。"
+ ],
+ "tags": [
+  "苹果",
+  "Meta",
+  "华尔街",
+  "美股",
+  "财经热点"
+ ],
+ "original_title": "Apple Shares Slip, Meta Debt Costs Rise",
+ "lang": "en",
+ "published": "2026-11-03T21:21:00+00:00",
+ "created": "2026-11-04T03:00:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

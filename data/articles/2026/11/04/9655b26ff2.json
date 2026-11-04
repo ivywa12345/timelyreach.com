@@ -1,0 +1,27 @@
+{
+ "key": "9655b26ff2",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/bitcoin-miners-pivoted-to-aionly-to-find-its-just-as-turbulent-as-crypto-17485887?mod=rss_markets_main",
+ "title": "比特币矿工转行搞AI，结果发现根本没比挖矿轻松多少？",
+ "summary": "曾经靠挖比特币发家的矿商们纷纷转型去搞人工智能（AI）数据中心，本以为能找到一片更赚钱的蓝海，却发现AI行业的动荡和压力一点也不比加密货币逊色。",
+ "body": [
+  "话说这几年，不少比特币矿商眼看挖矿越来越难，干脆把矿机一拔，场地一腾，转型去给人工智能（AI）搞数据中心了。大家本来盘算着，AI这么火，这转型妥妥是奔着赚大钱去的。",
+  "不过根据《华尔街日报》记者 Vicky Ge Huang 的报道，现实并没有想象中那么美好。这些矿商转行后发现，运营AI数据中心不仅麻烦事一大堆，而且市场一样风云变幻，动荡程度完全不输他们当年经历过的加密货币市场。",
+  "对咱们在海外谋发展的朋友来说，不管是搞加密货币还是赶AI大潮，高科技行业的饭碗和投资从来都伴随着巨大的起伏。风口变换太快，跟风入场还得量力而行、看清风险。"
+ ],
+ "tags": [
+  "比特币",
+  "人工智能",
+  "海外科技",
+  "投资理财",
+  "华尔街日报"
+ ],
+ "original_title": "Bitcoin Miners Pivoted to AI—Only to Find It’s Just as Turbulent as Crypto",
+ "lang": "en",
+ "published": "2026-11-03T21:23:00+00:00",
+ "created": "2026-11-04T03:00:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "2da7903e53",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/iran-turns-to-guerrilla-tactics-in-bid-to-reassert-grip-on-strait-of-hormuz-f10da428?mod=rss_worldnews",
+ "title": "霍尔木兹海峡又要乱？伊朗被曝用“游击战”对付过往油轮",
+ "summary": "据《华尔街日报》报道，德黑兰正通过火箭筒和水雷等游击战术，试图干扰波斯湾恢复正常的石油运输。",
+ "body": [
+  "最近波斯湾又不太平了。根据《华尔街日报》报道，为了重新掌控霍尔木兹海峡（Strait of Hormuz）并干扰好不容易恢复的石油运输，伊朗（Tehran）现在连游击战术都用上了。",
+  "报道指出，德黑兰方面这次可以说是“十八般武艺齐上阵”，从火箭推进榴弹（rocket-propelled grenades）到磁性水雷（limpet mines），各种小型和非对称作战装备全被部署到了海峡附近，给过往的运油船造成了不小的威胁和干扰。",
+  "对于在海外关心国际油价和能源市场的华人朋友来说，霍尔木兹海峡作为全球最重要的石油运输要道之一，一旦局势紧张升级，直接影响的就是国际油价的波动，进而可能波及大家的日常出行成本和通胀钱包。"
+ ],
+ "tags": [
+  "伊朗",
+  "霍尔木兹海峡",
+  "石油运输",
+  "国际油价",
+  "海外快讯"
+ ],
+ "original_title": "Iran Turns to Guerrilla Tactics in Bid to Reassert Grip on Strait of Hormuz",
+ "lang": "en",
+ "published": "2026-11-04T01:00:00+00:00",
+ "created": "2026-11-04T03:00:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

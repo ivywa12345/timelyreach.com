@@ -1,0 +1,27 @@
+{
+ "key": "f78cfc915b",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/france-is-burning-is-america-next-3c87bc11?mod=rss_opinion",
+ "title": "法国天天在“烧”，美国大学生产生危机感：下一个会轮到我们吗？",
+ "summary": "法国近期爆发严重骚乱，引发大洋彼岸美国大学生的关注与思考，大家开始讨论类似的社会动荡是否会在美国上演。",
+ "body": [
+  "最近法国（France）因为各种社会矛盾闹得沸沸扬扬，到处都是抗议和骚乱，甚至给人一种“国家在燃烧”的感觉。这种隔岸观火的场景，也引起了美国年轻人的警觉。",
+  "根据《华尔街日报》（The Wall Street Journal）的报道，美国的大学生们最近正热议欧洲发生的这些暴动，并且开始琢磨：这种大规模的社会动荡，有没有可能在美国重演？",
+  "对于咱们在海外生活的华人来说，不管是身处法国还是美国，社会治安和公共秩序都直接关系到我们的日常生活、出行安全甚至是资产安全。欧洲的乱局会否传导至美国，非常值得大家保持关注。"
+ ],
+ "tags": [
+  "法国骚乱",
+  "美国大学",
+  "社会治安",
+  "海外安全",
+  "华尔街日报"
+ ],
+ "original_title": "France Is Burning. Is America Next?",
+ "lang": "en",
+ "published": "2026-11-03T22:51:00+00:00",
+ "created": "2026-11-04T03:01:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
