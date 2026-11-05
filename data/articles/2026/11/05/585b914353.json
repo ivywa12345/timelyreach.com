@@ -1,0 +1,22 @@
+{
+ "key": "585b914353",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/cio-journal/mercedes-gives-its-cars-an-ai-upgrade-607daae2?mod=rss_Technology",
+ "title": "梅赛德斯为其汽车提供人工智能升级",
+ "summary": "这家汽车制造商正在与Liquid AI （一家从麻省理工学院剥离出来的初创公司）合作，直接在汽车而不是云中运行人工智能模型。",
+ "body": [
+  "这家汽车制造商正在与Liquid AI （一家从麻省理工学院剥离出来的初创公司）合作，直接在汽车而不是云中运行人工智能模型。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Mercedes Gives Its Cars an AI Upgrade",
+ "lang": "en",
+ "published": "2026-11-05T12:00:00+00:00",
+ "created": "2026-11-05T18:47:49+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

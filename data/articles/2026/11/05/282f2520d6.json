@@ -1,0 +1,26 @@
+{
+ "key": "282f2520d6",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/earnings/arcelormittal-says-europes-higher-steel-tariffs-are-boosting-profits-e1be8987?mod=rss_worldnews",
+ "title": "欧洲钢铁关税发威？钢铁巨头安赛乐米塔尔利润飙升34%！",
+ "summary": "欧洲最大钢铁制造商安赛乐米塔尔第三季度息税折旧摊销前利润大增34%，公司表示这主要得益于欧洲实行的钢铁关税。",
+ "body": [
+  "欧洲最大的钢铁制造商安赛乐米塔尔（ArcelorMittal）近日公布了最新财报，在今年第三季度，其息税折旧摊销前利润（EBITDA）迎来了34%的强劲增长。",
+  "根据《华尔街日报》报道，该公司将这一亮眼业绩归功于欧洲地区实施的钢铁关税。这些关税政策在客观上为本土钢企挡住了部分外部竞争，从而提振了盈利能力。",
+  "对海外华人来说，全球各地的贸易政策和关税变化往往会直接波及制造业、建筑业以及相关供应链的成本。无论是做生意还是关注宏观经济走向，这类实体经济的变动都值得多留个心眼。"
+ ],
+ "tags": [
+  "安赛乐米塔尔",
+  "欧洲经济",
+  "钢铁关税",
+  "企业财报"
+ ],
+ "original_title": "ArcelorMittal Says Europe’s Steel Tariffs Are Boosting Profits",
+ "lang": "en",
+ "published": "2026-11-05T08:58:00+00:00",
+ "created": "2026-11-05T18:45:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

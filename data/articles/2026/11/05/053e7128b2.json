@@ -1,0 +1,26 @@
+{
+ "key": "053e7128b2",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/gold-flat-after-midterm-linked-rebound-2d7cca6a?mod=rss_markets_main",
+ "title": "金价又涨了！COMEX黄金收盘突破4100美元大关",
+ "summary": "贵金属市场近期持续回暖，COMEX黄金收盘上涨1.02%，报4102.50美元，白银也录得0.2%的涨幅，这是黄金和白银连续第二个交易日实现上涨。",
+ "body": [
+  "贵金属市场这几天又开始活跃了。根据《华尔街日报》（Wall Street Journal）的最新报道，COMEX黄金期货在周二收盘时上涨了1.02%，价格定格在4102.50美元。",
+  "除了黄金表现抢眼外，白银（Silver）也跟着沾光，小幅上涨了0.2%。值得注意的是，这已经是这两种贵金属连续第二个交易日联手走高了。",
+  "对于关注投资理财的海外华人来说，黄金作为传统的避险资产，近期的连续上涨或许值得多留个心眼，可以根据自身的资产配置需求来评估市场波动带来的影响。"
+ ],
+ "tags": [
+  "黄金",
+  "贵金属",
+  "投资理财",
+  "COMEX"
+ ],
+ "original_title": "Comex Gold Settles 1.02% Higher at $4102.50",
+ "lang": "en",
+ "published": "2026-11-05T18:41:00+00:00",
+ "created": "2026-11-05T18:45:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

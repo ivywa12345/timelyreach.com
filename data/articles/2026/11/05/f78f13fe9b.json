@@ -1,0 +1,26 @@
+{
+ "key": "f78f13fe9b",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/airlines/flights-across-europe-diverted-after-bomb-threats-2e860a9c?mod=rss_worldnews",
+ "title": "欧洲航班连遭炸弹威胁！十多架飞机被迫改道、紧急降落",
+ "summary": "欧洲多国近日遭遇连环炸弹威胁，十多架航班受到影响被迫紧急降落或改道，其中罗马主要机场收到一封自称来自俄罗斯极端民族主义团伙的威胁邮件。",
+ "body": [
+  "最近几天，欧洲航空界可以说是惊魂未定。据《华尔街日报》报道，有十多架航班接连受到炸弹威胁，被迫紧急降落或者中途改道，搞得乘客和机组人员人心惶惶。",
+  "据了解，罗马的主要机场收到了一封令人紧张的威胁邮件，发件人声称自己来自一个边缘的俄罗斯极端民族主义团伙。虽然具体细节还在排查中，但相关安全部门已经高度戒备，全力应对这一突发状况。",
+  "对于近期有计划搭乘跨大西洋航班或在欧洲境内转机的海外华人来说，出行前一定要密切关注航班动态，预留充足的安检时间，随时留意机场和航司的最新通知，确保旅途平安。"
+ ],
+ "tags": [
+  "欧洲新闻",
+  "航班安全",
+  "炸弹威胁",
+  "海外出行"
+ ],
+ "original_title": "Bomb Threats Cause Diverted Flights, Emergency Landings Across Europe",
+ "lang": "en",
+ "published": "2026-11-05T15:53:00+00:00",
+ "created": "2026-11-05T18:45:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

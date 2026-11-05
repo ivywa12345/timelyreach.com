@@ -1,0 +1,27 @@
+{
+ "key": "19bb3e4cd4",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-slides-mirroring-oil-in-aftermath-of-democratic-sweep-70661a9a?mod=rss_markets_main",
+ "title": "天然气库存大增！美国气价继续往下掉",
+ "summary": "根据《华尔街日报》最新数据，上周美国天然气库存超常规增长了770亿立方分米（应为立方英尺，按原文Bcf理解），消息一出，天然气期货价格继续保持下跌走势。",
+ "body": [
+  "家里用天然气或者关注能源市场的朋友注意啦，美国天然气价格最近又承压了。根据权威财经媒体《华尔街日报》（The Wall Street Journal）的报道，最新的官方数据显示，上周美国的天然气库存增加了足足770亿立方英尺（Bcf）。",
+  "值得注意的是，这个库存增幅比平时正常水平还要高。受此供大于求的消息影响，天然气期货在数据公布后依然维持着下跌的走势，没有看到太大的反弹迹象。",
+  "对于在美华人来说，能源价格的回落是个好消息，这意味着接下来的电费、暖气费账单可能会稍微松一口气，家庭生活开支能减轻一点负担。"
+ ],
+ "tags": [
+  "美国天然气",
+  "能源价格",
+  "华尔街日报",
+  "通胀压力",
+  "华人生活"
+ ],
+ "original_title": "U.S. Natural Gas Inventories Rise By 77 Billion Cubic Feet",
+ "lang": "en",
+ "published": "2026-11-05T16:33:00+00:00",
+ "created": "2026-11-05T18:45:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

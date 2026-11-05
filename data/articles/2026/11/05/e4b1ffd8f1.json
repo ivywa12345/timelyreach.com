@@ -1,0 +1,22 @@
+{
+ "key": "e4b1ffd8f1",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/white-house-reviewing-sec-s-proposed-crypto-broker-rule-changes",
+ "title": "白宫审查SEC拟议的加密经纪商规则变更",
+ "summary": "白宫正在审查美国证券交易委员会的一项提案，该提案旨在改变经纪人处理数字资产的方式。",
+ "body": [
+  "白宫正在审查美国证券交易委员会的一项提案，该提案旨在改变经纪人处理数字资产的方式。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "White House Reviewing SEC’s Proposed Crypto Broker Rule Changes",
+ "lang": "en",
+ "published": "2026-11-05T18:35:08+00:00",
+ "created": "2026-11-05T18:48:11+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

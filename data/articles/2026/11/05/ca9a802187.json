@@ -1,0 +1,22 @@
+{
+ "key": "ca9a802187",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/oil-continues-to-fall-amid-rising-hopes-to-end-iran-war-7e9ba2fb?mod=rss_markets_main",
+ "title": "石油期货收回部分失地",
+ "summary": "石油期货在美国中期后出现了一些重大损失，但市场仍对中东外交的前景持乐观态度。",
+ "body": [
+  "石油期货在美国中期后出现了一些重大损失，但市场仍对中东外交的前景持乐观态度。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Oil Futures Recover Some Lost Ground",
+ "lang": "en",
+ "published": "2026-11-05T15:03:00+00:00",
+ "created": "2026-11-05T18:47:46+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
