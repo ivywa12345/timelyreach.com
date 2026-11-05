@@ -1,0 +1,26 @@
+{
+ "key": "3d986f1e18",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/why-investors-are-searching-for-hope-in-home-builders-07a525bd?mod=rss_markets_main",
+ "title": "美国中期选举刚过，这几家盖房子的股票怎么就突然火了？",
+ "summary": "美国中期选举后，D.R. Horton、PulteGroup和Lennar等房屋建筑商的股票表现亮眼，跑赢了大盘，引发投资者关注。",
+ "body": [
+  "话说美国刚过完中期选举，股市里就有点热闹了。根据《华尔街日报》报道，像 D.R. Horton、PulteGroup 和 Lennar 这样的大型房屋建筑商股票，从周二选举后开始就一路走高，表现把大盘都给比下去了。",
+  "虽然作者 Veronica Dagher 在摘要里没细说这背后的具体政策原因，但投资者显然在这类建筑股里看到了新的希望，纷纷进场押注。",
+  "对咱们海外华人来说，买房置业一直是头等大事。如果这些建筑商股价走强，或许能反映出房地产市场的一些新风向，对大家以后不管是买房投资还是关注美国经济，都是个挺有意思的信号。"
+ ],
+ "tags": [
+  "美国房产",
+  "美股投资",
+  "房屋建筑商",
+  "中期选举"
+ ],
+ "original_title": "Why Investors Are Searching for Hope in Home Builders",
+ "lang": "en",
+ "published": "2026-11-05T22:45:00+00:00",
+ "created": "2026-11-05T22:58:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
