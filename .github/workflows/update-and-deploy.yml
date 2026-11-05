@@ -111,8 +111,9 @@ jobs:
       - name: 生成网站
         working-directory: pipeline
         env:
-          SUPABASE_URL: ${{ vars.SUPABASE_URL }}
-          SUPABASE_ANON_KEY: ${{ vars.SUPABASE_ANON_KEY }}
+          # 填在 Variables 或 Secrets 里都认（anon key 本来就是公开的）
+          SUPABASE_URL: ${{ vars.SUPABASE_URL || secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ vars.SUPABASE_ANON_KEY || secrets.SUPABASE_ANON_KEY }}
         run: python -m timelyreach build
 
       - name: 检查 Cloudflare 设置
