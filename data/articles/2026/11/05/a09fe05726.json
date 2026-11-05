@@ -1,0 +1,26 @@
+{
+ "key": "a09fe05726",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/claude-lowers-chatgpt-s-lead-in-1-billion-uk-consumer-ai-market",
+ "title": "英国人一年砸14亿美元买AI！ChatGPT这回遇到强敌了？",
+ "summary": "根据周四发布的最新研究，英国消费者每年在人工智能订阅上的花费超过10亿英镑（约合14亿美元），其中Anthropic正在逐步蚕食OpenAI的市场领先地位。",
+ "body": [
+  "英国消费者在AI订阅上的消费能力惊人，每年花销超过10亿英镑（折合约14亿美元）。",
+  "与此同时，AI领域的竞争格局也在悄然发生变化。根据彭博社报道，研究显示由亚马逊（Amazon）和谷歌（Google）支持的Anthropic公司正在不断缩小与领头羊OpenAI的差距，其旗下的Claude正在分走越来越多的市场份额。"
+ ],
+ "tags": [
+  "AI订阅",
+  "ChatGPT",
+  "Claude",
+  "Anthropic",
+  "人工智能市场"
+ ],
+ "original_title": "Claude Lowers ChatGPT’s Lead in $1.4 Billion UK Consumer AI Market",
+ "lang": "en",
+ "published": "2026-11-05T00:01:00+00:00",
+ "created": "2026-11-05T00:25:32+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

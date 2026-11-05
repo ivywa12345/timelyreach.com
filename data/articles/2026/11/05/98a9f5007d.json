@@ -1,0 +1,27 @@
+{
+ "key": "98a9f5007d",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
+ "title": "今年标普500里表现最惨的股票，终于迎来大反弹了？",
+ "summary": "根据MarketWatch报道，今年表现垫底的标普500成分股AppLovin因发布了“明显向好”的财报，股价迎来了大幅上涨。",
+ "body": [
+  "今年在标普500指数（S&P 500）里面表现最惨淡的一只股票，最近终于喘了口气，迎来了难得的强劲反弹。",
+  "财经媒体MarketWatch作者威廉·加文（William Gavin）指出，科技企业AppLovin（AppLovin）的股价最近出现大涨，主要原因就是该公司刚刚交出了一份被市场形容为“明显向好”的最新财报业绩。",
+  "对于关注美股投资和资产配置的海外华人来说，这类经历过暴跌又迎来业绩拐点的股票往往波动剧烈，虽然短期内可能带来可观的反弹收益，但入市前仍需评估好自身的风险承受能力，密切关注公司的后续盈利持续性。"
+ ],
+ "tags": [
+  "美股",
+  "AppLovin",
+  "标普500",
+  "财报",
+  "海外投资"
+ ],
+ "original_title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
+ "lang": "en",
+ "published": "2026-11-04T22:46:00+00:00",
+ "created": "2026-11-05T00:27:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

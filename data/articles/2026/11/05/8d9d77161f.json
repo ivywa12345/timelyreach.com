@@ -1,0 +1,27 @@
+{
+ "key": "8d9d77161f",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
+ "title": "美国大选一结束，油价暴跌、亚洲股市全线反弹！到底发生了啥？",
+ "summary": "据彭博社报道，美国中期选举结果出炉后，国际油价大跌，直接带动美股和亚洲股市集体走高。",
+ "body": [
+  "美国中期选举尘埃落定，民主党取得全面胜利。受此政治格局变动影响，国际油价遭遇暴跌，市场普遍猜测美伊之间的紧张冲突可能会因此更快走向结束。",
+  "在油价下跌的刺激下，美股率先迎来上涨行情，随后这股乐观情绪迅速传导至亚太市场，亚洲股市全线跟涨。",
+  "对身在海外的华人来说，油价下跌短期内能直接减轻大家的加油钱包负担，而股市的回暖也让投资者的资产暂时松了一口气。后续政局变化对能源市场和整体经济的影响，仍值得继续观察。"
+ ],
+ "tags": [
+  "美股",
+  "亚洲股市",
+  "油价暴跌",
+  "美国中期选举",
+  "财经热点"
+ ],
+ "original_title": "Asian Stocks Rise as Oil Slides After US Election: Markets Wrap",
+ "lang": "en",
+ "published": "2026-11-04T22:15:04+00:00",
+ "created": "2026-11-05T00:25:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

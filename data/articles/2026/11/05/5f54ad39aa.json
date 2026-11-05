@@ -1,0 +1,27 @@
+{
+ "key": "5f54ad39aa",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/stocks-surge-oil-plummets-on-democrat-victory-d4f606b5?mod=rss_markets_main",
+ "title": "大选结果出炉：股市狂飙、油价大跌！CVS还要把自己拆分？",
+ "summary": "民主党赢得大选后，美股应声大涨，油价则大幅跳水。与此同时，零售药妆巨头CVS也传出了要分拆业务的重磅消息。",
+ "body": [
+  "各位海外同胞，今天金融圈最大的新闻莫过于大选后的市场反应了。随着民主党（Democrat）赢得胜利，美国股市（Stocks）迎来了一波强劲的飙升，而油价（Oil）则直接遭遇大跳水，跌得让人跌眼镜。",
+  "除了宏观市场的剧烈震荡，商业巨头CVS（CVS Health）也坐不住了，最近正酝酿着要把自己给拆分（break itself up）开来。具体怎么个拆法、对旗下的药房和保险业务有什么影响，目前还在持续发酵中。",
+  "对于咱们海外华人来说，股市和油价的波动直接关系到咱们的投资账户和日常加油钱包。接下来无论是通胀走向还是巨头拆分带来的行业变动，大家都得密切关注，看紧自己的钱袋子。"
+ ],
+ "tags": [
+  "美股",
+  "油价",
+  "大选",
+  "CVS",
+  "财经新闻"
+ ],
+ "original_title": "Stocks Surge, Oil Plummets on Democrat Victory",
+ "lang": "en",
+ "published": "2026-11-04T21:32:00+00:00",
+ "created": "2026-11-05T00:22:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

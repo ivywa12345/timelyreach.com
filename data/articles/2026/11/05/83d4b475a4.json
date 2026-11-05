@@ -1,0 +1,24 @@
+{
+ "key": "83d4b475a4",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
+ "title": "美国人对中期选举结果满意吗？看看他们的收入就知道了",
+ "summary": "MarketWatch报道称，大多数美国人对今年大选的结果感到“欣喜”或“高兴”，而具体态度如何，很大程度上取决于他们赚多少钱。",
+ "body": [
+  "根据媒体MarketWatch专栏作家Venessa Wong的报道，今年美国中期选举的结果出炉后，大部分美国人都觉得“挺高兴”甚至“太棒了”。不过有意思的是，大家的开心程度和自己的钱包厚度直接挂钩——赚得越多或越少，反应可能大不相同。具体情况还得看不同收入群体的切身感受。"
+ ],
+ "tags": [
+  "美国大选",
+  "中期选举",
+  "经济",
+  "海外生活"
+ ],
+ "original_title": "How do Americans feel about the midterm results? It depends on how much money they make.",
+ "lang": "en",
+ "published": "2026-11-04T22:06:00+00:00",
+ "created": "2026-11-05T00:27:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

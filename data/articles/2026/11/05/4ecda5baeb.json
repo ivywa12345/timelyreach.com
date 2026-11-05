@@ -1,0 +1,27 @@
+{
+ "key": "4ecda5baeb",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/philippine-october-inflation-accelerates-7-8-close-to-four-year-high",
+ "title": "通胀快刹不住了？菲律宾10月CPI飙升7.8%，创近四年来新高！",
+ "summary": "受中东局势持续紧张影响，极度依赖中东能源的菲律宾10月通胀率飙升至7.8%，创下近四年来的最快增速，当地的燃料、电费和交通成本全面上涨。",
+ "body": [
+  "据彭博社报道，由于中东冲突迟迟未能平息，菲律宾10月份的通胀率（Inflation）直接飙升到了7.8%，创下了近四年来的最高纪录。对高度依赖中东能源供应的菲律宾来说，这波冲击可谓直接击中了命门。",
+  "官方数据显示，燃料、电力和交通成本在这次物价飞涨中“贡献”最大。分析指出，中东动荡引发的能源危机正在迅速传导至菲律宾国内的各个经济层面，老百姓的日常生活开销明显加重。",
+  "对于在海外特别是关注东南亚经济或有相关投资布局的华人来说，能源价格的剧烈波动不仅推高了当地的生活成本，也让区域经济的不确定性进一步增加。后续是否会引发更广泛的经济连锁反应，值得持续关注。"
+ ],
+ "tags": [
+  "菲律宾经济",
+  "通货膨胀",
+  "中东局势",
+  "能源危机",
+  "海外财经"
+ ],
+ "original_title": "Philippine October Inflation Accelerates 7.8%, Close to Four-Year High",
+ "lang": "en",
+ "published": "2026-11-05T00:05:46+00:00",
+ "created": "2026-11-05T00:25:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

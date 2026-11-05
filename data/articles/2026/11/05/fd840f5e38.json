@@ -1,0 +1,27 @@
+{
+ "key": "fd840f5e38",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/media/eu-court-adviser-warns-ai-chatbots-could-risk-infringing-copyright-law-41793aa3?mod=rss_Technology",
+ "title": "AI聊天机器人用新闻涉嫌侵权？欧盟法院高级顾问敲打科技巨头",
+ "summary": "欧盟最高法院的一位高级顾问发出警告，如果科技公司的AI聊天机器人在生成答案时重复使用新闻文章，可能会违反欧盟的版权法。",
+ "body": [
+  "最近，AI生成内容到底算不算侵权，在欧洲惹上了大麻烦。根据华尔街日报报道，欧盟最高法院的一位高级顾问（Adviser to the EU's highest court）公开警告称，科技公司在利用AI聊天机器人抓取并重复使用新闻文章来回答用户问题时，很有可能会触碰欧盟版权法的红线。",
+  "虽然这目前还只是法律顾问的意见，并非最终判决，但它直接戳中了当前大模型训练和内容引用的核心痛点。长久以来，AI公司喜欢把各大媒体的新闻作为训练或实时检索的素材，但新闻机构却抱怨自己的劳动成果被白白薅了羊毛，连广告费都被AI抢走了。",
+  "对于咱们海外华人特别是关注AI发展、版权或者从事自媒体、内容行业的朋友来说，这事儿值得持续关注。如果欧盟后续出台更严格的法律限制AI对新闻的使用，科技公司很可能会调整相关功能，甚至直接在欧洲地区对部分AI功能进行阉割，这或许也会成为全球其他国家未来制定AI版权规则的风向标。"
+ ],
+ "tags": [
+  "欧盟",
+  "人工智能",
+  "版权法",
+  "科技新闻",
+  "AI聊天机器人"
+ ],
+ "original_title": "EU Court Advisor Warns AI Chatbots Could Risk Infringing Copyright Law",
+ "lang": "en",
+ "published": "2026-11-03T15:39:00+00:00",
+ "created": "2026-11-05T00:23:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

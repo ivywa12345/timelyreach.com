@@ -1,0 +1,27 @@
+{
+ "key": "024a8096c4",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
+ "title": "美国中期选举民主党大获全胜，华尔街竟然毫无波澜？",
+ "summary": "民主党在中期选举中取得了胜利，但金融市场对此反应平淡，投资者表现得异常平静。",
+ "body": [
+  "刚过去的中期选举结果出炉，民主党（Democrats）可以说是大获全胜（triumph）。不过，让人意外的是，平时对政治风吹草动极其敏感的华尔街投资者们，这次却表现得相当淡定，甚至可以说是打了个哈欠（yawn）。",
+  "从市场反应来看，投资者似乎并没有把这次选举结果当作什么惊天动地的大事。通常情况下，国会权力的更迭会引发股市震荡，但这次市场却出奇地平静，各方资金按兵不动。",
+  "对咱们海外华人来说，华尔街对选举结果“无感”说明目前的市场走势主要还是跟着宏观经济和美联储的政策走，政治博弈暂时没有掀起太大的风浪。大家的投资组合和钱包暂时可以不用太担心因为选举结果而大起大落了。"
+ ],
+ "tags": [
+  "美国中期选举",
+  "民主党",
+  "华尔街",
+  "美股市场",
+  "海外华人"
+ ],
+ "original_title": "What markets make of the midterms",
+ "lang": "en",
+ "published": "2026-11-04T21:48:18+00:00",
+ "created": "2026-11-05T00:24:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

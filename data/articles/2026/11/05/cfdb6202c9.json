@@ -1,0 +1,26 @@
+{
+ "key": "cfdb6202c9",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/china-tech-frenzy-turns-into-year-of-dismay-for-retail-traders",
+ "title": "从满怀希望到彻底心碎！今年中国股市让2.5亿散户太难了",
+ "summary": "年初还让人充满希望的中国股市，转眼间变成了让2.5亿散户投资者感到幻灭的一年。",
+ "body": [
+  "今年对中国的2.5亿散户投资者来说，简直经历了一场从天堂到地狱的过山车。本来大家年初的时候还信心满满，觉得科技股能迎来一波大行情，结果却变成令人沮丧和失望的一年。",
+  "根据彭博社（Bloomberg News）报道，这数以亿计的散户原本希望在市场里搏一把，但现实却泼了一盆冷水。股市的剧烈波动不仅让大家的投资缩水，更让许多人的心情从最初的乐观变成了彻底的幻灭。",
+  "对于关注国内经济和资本市场的海外华人来说，国内亲友的投资缩水往往也折射出整体消费和经济信心的变化，这也让大家在做资产配置时更加捏了一把汗。"
+ ],
+ "tags": [
+  "中国股市",
+  "散户",
+  "科技股",
+  "财经观察"
+ ],
+ "original_title": "China Tech Frenzy Turns Into Year of Dismay for Retail Traders",
+ "lang": "en",
+ "published": "2026-11-05T00:00:00+00:00",
+ "created": "2026-11-05T00:25:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
