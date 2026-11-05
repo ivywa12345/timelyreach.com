@@ -1,0 +1,22 @@
+{
+ "key": "431c56084d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/argentina-bonds-drop-as-market-flags-intervention-in-peso-debt",
+ "title": "随着比索回购利率飙升至190% ，阿根廷市场处于边缘",
+ "summary": "阿根廷金融市场周四下跌，美元债券导致新兴市场亏损，隔夜回购利率飙升，原因是对政府财政状况的担忧日益加剧。",
+ "body": [
+  "阿根廷金融市场周四下跌，美元债券导致新兴市场亏损，隔夜回购利率飙升，原因是对政府财政状况的担忧日益加剧。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Argentine Markets on Edge as Peso Repo Rates Soar to 190%",
+ "lang": "en",
+ "published": "2026-11-05T18:17:34+00:00",
+ "created": "2026-11-05T22:29:53+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
