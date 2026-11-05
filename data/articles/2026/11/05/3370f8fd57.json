@@ -1,0 +1,25 @@
+{
+ "key": "3370f8fd57",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/joshua-wong-hong-kong-china-57d515d1?mod=rss_worldnews",
+ "title": "香港异见人士黄之锋被判10年监禁，美媒发表社论关注",
+ "summary": "香港知名异见人士黄之锋被判处10年有期徒刑。《华尔街日报》编辑委员会发表评论文章，关注这一判决并将其称为“勇敢的表率”。",
+ "body": [
+  "香港知名异见人士黄之锋（Joshua Wong）近日被判处10年有期徒刑。这一消息引发了海外媒体的关注，美国主流媒体对此进行了报道和评论。",
+  "《华尔街日报》（The Wall Street Journal）的编辑委员会（The Editorial Board）随后发表了一篇题为《黄之锋勇敢的表率》（Joshua Wong’s Brave Example）的评论文章，对该事件表达了看法。"
+ ],
+ "tags": [
+  "香港",
+  "黄之锋",
+  "华尔街日报",
+  "海外华人"
+ ],
+ "original_title": "Opinion | Joshua Wong’s Brave Example",
+ "lang": "en",
+ "published": "2026-11-05T22:42:00+00:00",
+ "created": "2026-11-05T22:44:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

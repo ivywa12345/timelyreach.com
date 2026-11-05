@@ -1,0 +1,22 @@
+{
+ "key": "7005fdca14",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/qantas-hikes-fares-deepens-cuts-to-flying-as-fuel-costs-bite",
+ "title": "澳航加息，因燃油成本下降而进一步削减飞行费用",
+ "summary": "澳航(Qantas Airways Ltd.)正在加息机票，并于明年年初进一步削减国内航班时刻表，以应对不断上涨的燃油价格。",
+ "body": [
+  "澳航(Qantas Airways Ltd.)正在加息机票，并于明年年初进一步削减国内航班时刻表，以应对不断上涨的燃油价格。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Qantas Hikes Fares, Deepens Cuts to Flying as Fuel Costs Bite",
+ "lang": "en",
+ "published": "2026-11-05T22:31:05+00:00",
+ "created": "2026-11-05T22:45:33+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
