@@ -516,3 +516,24 @@ def test_same_story_from_two_feeds_is_posted_once(tmp_path, monkeypatch):
     monkeypatch.setattr(update, "run_brief", lambda store, providers: None)
     monkeypatch.setattr(update, "credit_reposted_sources", lambda store: 0)
     assert update.run_update(store=Store(tmp_path), max_new=10) == 2
+
+
+def test_hand_posted_articles_stay_on_top_of_board_pages(tmp_path):
+    from datetime import datetime, timedelta, timezone
+
+    now = datetime.now(timezone.utc)
+    store = Store(tmp_path / "data")
+    for i in range(3):  # robot posts, newer than the hand-posted one
+        store.save_article(Article(key=f"r{i}", board="finance", source_id="s", source_name="S", source_url="https://x/r%d" % i,
+                                   title=f"robot {i}", summary="s", body=["b"], rewriter="fake",
+                                   created=(now - timedelta(minutes=i)).isoformat(timespec="seconds")))
+    store.save_article(Article(key="h1", board="finance", source_id="inbox", source_name="S", source_url="https://x/h",
+                               title="hand posted", summary="s", body=["b"], rewriter="inbox",
+                               created=(now - timedelta(hours=5)).isoformat(timespec="seconds")))
+    old = Article(key="h2", board="finance", source_id="inbox", source_name="S", source_url="https://x/o", title="old hand posted",
+                  summary="s", body=["b"], rewriter="inbox", created=(now - timedelta(hours=60)).isoformat(timespec="seconds"))
+    store.save_article(old)
+    out = build.build_site(tmp_path / "out", store=store, user_threads=[])
+    page = (out / "f/finance/index.html").read_text(encoding="utf-8")
+    assert page.index("hand posted") < page.index("robot 0")  # featured first
+    assert page.index("robot 0") < page.index("old hand posted")  # but only for a day and a half

@@ -48,14 +48,30 @@ def _paginate(items: list, per_page: int) -> list[list]:
     return pages or [[]]
 
 
+FEATURE_HOURS = 36
+
+
+def is_featured(a: Article, since: str | None = None) -> bool:
+    """Hand-posted pieces (admin page, picks, outside agent) stay at the top for a day and a half,
+    otherwise the robot's every-few-hours batches bury them."""
+    return (a.source_id == "editor" or a.rewriter == "inbox") and a.created >= (since or _hours_ago(FEATURE_HOURS))
+
+
 def _front_page(articles: list[Article], n: int = 7) -> list[Article]:
     """Owner's picks from the last two days first, then finance and US news alternating."""
     picks = [a for a in articles if a.source_id == "editor" and a.created >= _days_ago(2)]
+    picks += [a for a in articles if a.rewriter == "inbox" and a.source_id != "editor" and a.created >= _hours_ago(FEATURE_HOURS)][:3]
     finance = [a for a in articles if a.board == "finance"]
     news = [a for a in articles if a.board == "news"]
     mixed = [a for pair in zip(finance, news) for a in pair]
     mixed += finance[len(news):] + news[len(finance):]
     return (picks + mixed)[:n]
+
+
+def _hours_ago(hours: int) -> str:
+    from datetime import timedelta
+
+    return (datetime.now(timezone.utc) - timedelta(hours=hours)).isoformat(timespec="seconds")
 
 
 def _days_ago(days: int) -> str:
@@ -96,7 +112,8 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
         _write(out / dest, env.get_template(template).render(**common, **ctx))
 
     by_board: dict[str, list[Article]] = {b.id: [] for b in site.boards}
-    for a in articles:
+    since = _hours_ago(FEATURE_HOURS)
+    for a in sorted(articles, key=lambda a: not is_featured(a, since)):  # stable: newest first within each group
         by_board.setdefault(a.board, []).append(a)
 
     # Home page
