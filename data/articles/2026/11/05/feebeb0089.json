@@ -1,0 +1,26 @@
+{
+ "key": "feebeb0089",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/uk/russell-brand-guilty-verdict-02e0ad15?mod=rss_worldnews",
+ "title": "英国知名喜剧演员Russell Brand性侵罪名成立！下周一宣判",
+ "summary": "经过伦敦为期四周的审判，英国知名喜剧演员Russell Brand被裁定犯有强奸和性侵罪，将于下周一面临宣判。",
+ "body": [
+  "据《华尔街日报》报道，英国知名喜剧演员拉塞尔·布兰德（Russell Brand）在伦敦经过长达四周的法庭审理后，被陪审团裁定犯有强奸和性侵等多项罪名。",
+  "这起备受关注的案件在经过激烈的庭审后终于有了阶段性结果。据了解，法官将于下周一（Monday）正式对他的刑期进行宣判。",
+  "作为公众人物，这起丑闻无疑对他的演艺生涯造成了毁灭性打击，也再次引发了社会各界对名人涉嫌性侵问题的广泛讨论。"
+ ],
+ "tags": [
+  "Russell Brand",
+  "英国新闻",
+  "性侵案",
+  "海外快讯"
+ ],
+ "original_title": "Russell Brand Found Guilty of Rape, Sexual Assault Charges",
+ "lang": "en",
+ "published": "2026-11-05T17:54:00+00:00",
+ "created": "2026-11-05T18:17:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

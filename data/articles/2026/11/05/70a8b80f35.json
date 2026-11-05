@@ -1,0 +1,22 @@
+{
+ "key": "70a8b80f35",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/fbi-arrests-mexican-judge-implicated-in-drug-trafficking-probe",
+ "title": "联邦调查局逮捕与前奥运选手毒品走私案有关的墨西哥法官",
+ "summary": "美国特工逮捕了一名墨西哥法官，指控他接受了200万美元的贿赂，以释放一名被指控为前奥运会滑雪运动员Ryan Wedding领导的网络工作的加拿大贩毒者。",
+ "body": [
+  "美国特工逮捕了一名墨西哥法官，指控他接受了200万美元的贿赂，以释放一名被指控为前奥运会滑雪运动员Ryan Wedding领导的网络工作的加拿大贩毒者。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "FBI Arrests Mexico Judge Tied to Ex-Olympian’s Drug Running Case",
+ "lang": "en",
+ "published": "2026-11-05T17:04:38+00:00",
+ "created": "2026-11-05T18:20:27+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

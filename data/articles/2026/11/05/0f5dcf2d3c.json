@@ -1,0 +1,22 @@
+{
+ "key": "0f5dcf2d3c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/treasuries-extend-advance-as-technology-shares-resume-slide",
+ "title": "随着科技股抛售斯托克斯避风港的需求，美国国债飙升",
+ "summary": "由于民主党在美国中期席卷导致美国大型科技公司股票抛售，美国国债飙升，引发了对避风港的需求。",
+ "body": [
+  "由于民主党在美国中期席卷导致美国大型科技公司股票抛售，美国国债飙升，引发了对避风港的需求。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Treasuries Soar as Tech-Stock Selloff Stokes Haven Demand",
+ "lang": "en",
+ "published": "2026-11-05T15:54:44+00:00",
+ "created": "2026-11-05T18:20:25+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
