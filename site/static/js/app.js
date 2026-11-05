@@ -549,8 +549,22 @@
       loadHotList();
     }).catch(function (e) { if (window.console) console.error(e); });
     if (sb) {
-      sb.auth.onAuthStateChange(function (event) {
-        if (event === "SIGNED_IN" && !me) location.reload();
+      // Signing in from this page (e.g. back from GitHub): update the header in place.
+      // No reload and no supabase calls inside the callback (they can deadlock the auth lock,
+      // and a reload here can loop when the session is not visible to getSession yet).
+      sb.auth.onAuthStateChange(function (event, session) {
+        if (event !== "SIGNED_IN" || !session || me) return;
+        me = session.user;
+        setTimeout(function () {
+          sb.from("profiles").select("*").eq("id", me.id).maybeSingle().then(function (pr) {
+            myProfile = pr.data;
+            renderUserbox();
+            if ($("#auth-box")) {
+              var next = param("next") || "/";
+              location.replace(/^\/[^\/]/.test(next) || next === "/" ? next : "/");
+            }
+          });
+        }, 0);
       });
     }
   }
