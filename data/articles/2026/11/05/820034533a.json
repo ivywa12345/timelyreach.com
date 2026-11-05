@@ -1,0 +1,25 @@
+{
+ "key": "820034533a",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "unusual_whales",
+ "source_url": "https://x.com/unusual_whales/status/2118378995175883098",
+ "title": "存储股连跌两天，美光单日跌13%领跌",
+ "summary": "存储芯片股连续第二天重挫，闪迪跌16.9%、美光跌13%，投资者担心新国会放慢AI数据中心建设。",
+ "body": [
+  "存储板块是今天的重灾区。unusual_whales 统计，这是存储股连续第二个交易日大跌：闪迪（SanDisk，SNDK）跌16.9%，西部数据（Western Digital，WDC）跌15.2%，美光（Micron，MU）跌13.0%，希捷（Seagate，STX）跌13.7%。",
+  "该账号给出的原因是：中期选举后，投资者担心民主党控制的新国会会放慢AI数据中心的建设审批，而存储正是数据中心需求最直接的一环。",
+  "对普通人意味着什么：这类股票涨起来快、跌起来更快。手里有美光、闪迪的人要留意，接下来的财报和数据中心政策消息，都会放大波动。"
+ ],
+ "tags": [
+  "存储芯片",
+  "美光",
+  "半导体"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "",
+ "created": "2026-11-05T16:24:44+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

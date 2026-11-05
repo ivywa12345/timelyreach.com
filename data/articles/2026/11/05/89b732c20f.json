@@ -1,0 +1,25 @@
+{
+ "key": "89b732c20f",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-amid-focus-on-u-s-midterms-143da6ea?mod=rss_markets_main",
+ "title": "美元又跌了！华尔街美元指数近期连续走软",
+ "summary": "华尔街美元指数（WSJ Dollar Index）下跌0.30%至96.94，在过去的六个交易日里遭遇了五次下跌。",
+ "body": [
+  "美元最近的走势可以说是“跌跌不休”。根据华尔街日报的数据，华尔街美元指数（WSJ Dollar Index）最新下跌了0.30%，报收于96.94点。",
+  "从近期的数据表现来看，美元疲态尽显。在过去的六个交易日里，该指数已经录得了五次下跌，整体下行趋势相当明显。"
+ ],
+ "tags": [
+  "美元指数",
+  "汇率波动",
+  "华尔街日报",
+  "财经快讯"
+ ],
+ "original_title": "WSJ Dollar Index Falls 0.30% to 96.94",
+ "lang": "en",
+ "published": "2026-11-04T22:23:00+00:00",
+ "created": "2026-11-05T19:42:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

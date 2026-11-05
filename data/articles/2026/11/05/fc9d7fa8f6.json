@@ -1,0 +1,25 @@
+{
+ "key": "fc9d7fa8f6",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-but-may-be-supported-by-mild-risk-appetite-8643f952?mod=rss_markets_main",
+ "title": "英国央行又加息了！英镑对欧元走高，对美元持平",
+ "summary": "周四，英国央行以8比1的投票结果宣布加息25个基点，将利率提升至4.0%。受此消息影响，英镑对欧元汇率走高，但对美元保持平稳。",
+ "body": [
+  "周四（当地时间），英国央行（Bank of England）迎来了最新的利率决议。经过投票，货币政策委员会以8比1的绝对多数通过了加息决定，将基准利率上调了25个基点，从原本的水平提升到了4.0%。",
+  "这次加息动作落地后，外汇市场迅速做出反应。英镑在对阵欧元时表现强势，汇率有所走高；不过在对阵美元时，则表现得相对平静，整体基本持平。"
+ ],
+ "tags": [
+  "英国央行",
+  "加息",
+  "英镑",
+  "汇率"
+ ],
+ "original_title": "Sterling Turns Higher Vs Euro After BOE Lifts Rates",
+ "lang": "en",
+ "published": "2026-11-05T12:59:00+00:00",
+ "created": "2026-11-05T19:42:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

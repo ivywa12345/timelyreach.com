@@ -1,0 +1,26 @@
+{
+ "key": "ce960a6abf",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-midterm-elections-2352f046?mod=rss_markets_main",
+ "title": "美元终于止跌回升了！WSJ美元指数微涨0.23%",
+ "summary": "华尔街日报美元指数上涨0.23%至97.22，结束了此前连续四个交易日的下跌趋势。",
+ "body": [
+  "手里有美元的小伙伴可以关注一下，根据《华尔街日报》（The Wall Street Journal）的数据，WSJ美元指数近日上涨了0.23%，报收于97.22点。",
+  "在此之前，美元已经经历了连续四个交易日的下跌。这次微涨总算是止住了连跌的颓势。",
+  "对于在海外生活和需要把钱汇回国华人来说，汇率的每一次波动都直接关系到钱包的厚度。虽然这次涨幅不算太大，但也算是一个阶段性的反弹信号，后续走势仍需继续观察。"
+ ],
+ "tags": [
+  "美元汇率",
+  "华尔街日报",
+  "财经快讯",
+  "海外生活"
+ ],
+ "original_title": "WSJ Dollar Index Rises 0.23% to 97.22",
+ "lang": "en",
+ "published": "2026-11-03T22:24:00+00:00",
+ "created": "2026-11-05T19:42:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

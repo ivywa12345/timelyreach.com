@@ -1,0 +1,22 @@
+{
+ "key": "0387da8950",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/mexico-unexpectedly-cuts-interest-rate-to-four-year-low-of-6-25",
+ "title": "墨西哥出人意料地将“延长期”的关键利率降至6.25 ％",
+ "summary": "墨西哥央行出人意料地将其关键利率降至6.25%的四年低点，并表示将“延长一段时间”。",
+ "body": [
+  "墨西哥央行出人意料地将其关键利率降至6.25%的四年低点，并表示将“延长一段时间”。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Mexico Unexpectedly Cuts Key Rate to 6.25% for ‘Extended Period’",
+ "lang": "en",
+ "published": "2026-11-05T19:00:49+00:00",
+ "created": "2026-11-05T19:44:23+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
