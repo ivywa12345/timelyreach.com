@@ -32,6 +32,8 @@ jobs:
   update:
     # 别人开的 issue 不触发运行（仓库是公开的）
     if: github.event_name != 'issues' || github.event.issue.user.login == github.repository_owner
+    # Supabase 的两个值存在名为 SUPABASE_URL 的 Environment 里；也认仓库级 Variables / Secrets
+    environment: SUPABASE_URL
     runs-on: ubuntu-latest
     timeout-minutes: 45
     services:
