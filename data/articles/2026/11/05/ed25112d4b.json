@@ -1,0 +1,25 @@
+{
+ "key": "ed25112d4b",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/china/hong-kong-extends-jailed-activist-joshua-wongs-prison-term-by-10-years-6a9d9370?mod=rss_worldnews",
+ "title": "香港知名活动人士黄之锋狱中刑期再遭延长，引发人权组织强烈关注",
+ "summary": "据《华尔街日报》报道，现年30岁的香港抗议领袖黄之锋（Joshua Wong）因国安法相关指控，刑期再被延长10年。人权组织批评该法律被用作政治武器。",
+ "body": [
+  "近日，据《华尔街日报》报道，现年30岁的香港知名抗议领袖黄之锋（Joshua Wong）面临更严厉的司法判决，其监狱刑期被延长了10年之久。",
+  "报道指出，相关人权组织对此事表达了强烈关注，并公开批评有关安全法律在审理过程中被当作了政治武器，用来针对这位年轻的抗议活动领导者。"
+ ],
+ "tags": [
+  "黄之锋",
+  "香港新闻",
+  "国安法",
+  "人权动态"
+ ],
+ "original_title": "Hong Kong Extends Jailed Activist Joshua Wong’s Prison Term by 10 Years",
+ "lang": "en",
+ "published": "2026-11-05T03:54:00+00:00",
+ "created": "2026-11-05T10:55:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

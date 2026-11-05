@@ -1,0 +1,22 @@
+{
+ "key": "aad71b78f1",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
+ "title": "OpenAI承诺在大选后支付数据中心电费凸显人工智能担忧",
+ "summary": "OpenAI承诺围绕人工智能数据中心征求社区意见，发布建设计划并保护纳税人。",
+ "body": [
+  "OpenAI承诺围绕人工智能数据中心征求社区意见，发布建设计划并保护纳税人。",
+  "（以上为CNBC内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "CNBC"
+ ],
+ "original_title": "OpenAI pledges to pay for data center power after election highlights AI concerns",
+ "lang": "en",
+ "published": "2026-11-05T10:00:01+00:00",
+ "created": "2026-11-05T10:59:45+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

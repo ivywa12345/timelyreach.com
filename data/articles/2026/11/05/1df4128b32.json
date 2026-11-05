@@ -1,0 +1,22 @@
+{
+ "key": "1df4128b32",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/european-stocks-hit-fresh-record-as-ai-unwind-boosts-region",
+ "title": "欧洲股票测试创历史新高；莱茵金属称重",
+ "summary": "欧洲股市短暂超过了此前的收盘纪录，因为该地区在人工智能交易轮换和强劲盈利季节的推动下表现出色。",
+ "body": [
+  "欧洲股市短暂超过了此前的收盘纪录，因为该地区在人工智能交易轮换和强劲盈利季节的推动下表现出色。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "European Stocks Test Fresh Record High; Rheinmetall Weighs",
+ "lang": "en",
+ "published": "2026-11-05T08:09:35+00:00",
+ "created": "2026-11-05T10:59:15+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

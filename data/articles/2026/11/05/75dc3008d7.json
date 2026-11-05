@@ -1,0 +1,22 @@
+{
+ "key": "75dc3008d7",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/indian-bonds-rupee-rally-as-sliding-oil-eases-inflation-risks",
+ "title": "印度股市、债券飙升，因油价暴跌缓解通胀风险",
+ "summary": "由于原油价格暴跌，印度股市和债券上涨，降低了通胀担忧和石油进口国对外财政的压力。",
+ "body": [
+  "由于原油价格暴跌，印度股市和债券上涨，降低了通胀担忧和石油进口国对外财政的压力。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "India Stocks, Bonds Surge as Oil Plunge Eases Inflation Risks",
+ "lang": "en",
+ "published": "2026-11-05T03:34:12+00:00",
+ "created": "2026-11-05T10:59:20+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

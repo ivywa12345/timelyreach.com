@@ -1,0 +1,22 @@
+{
+ "key": "866cb1e8bd",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-to-eight-week-lows-as-markets-digest-midterm-results-7effce3e?mod=rss_markets_main",
+ "title": "美国财政部、欧洲债券收益率大跌，美国民主党获胜提振市场",
+ "summary": "债券市场为美国财政限制的前景欢呼雀跃，因为选举结果可能导致政治僵局，共和党总统和民主党控制的国会。",
+ "body": [
+  "债券市场为美国财政限制的前景欢呼雀跃，因为选举结果可能导致政治僵局，共和党总统和民主党控制的国会。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Treasury, European Bond Yields Tumble as Markets Lifted By U.S. Democrats’ Victory",
+ "lang": "en",
+ "published": "2026-11-05T10:15:00+00:00",
+ "created": "2026-11-05T10:58:51+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

@@ -1,0 +1,22 @@
+{
+ "key": "12235af877",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026?mod=rss_markets_main",
+ "title": "今天的股市：随着投资者重新评估头寸，人工智能股面临压力",
+ "summary": "芯片制造商高通的盈利令人失望",
+ "body": [
+  "芯片制造商高通的盈利令人失望",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Stock Market Today: AI Stocks Under Pressure as Investors Reassess Positions",
+ "lang": "en",
+ "published": "2026-11-05T09:25:53+00:00",
+ "created": "2026-11-05T10:58:47+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
