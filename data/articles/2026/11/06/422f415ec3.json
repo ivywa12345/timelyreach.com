@@ -1,0 +1,24 @@
+{
+ "key": "422f415ec3",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "The Kobeissi Letter",
+ "source_url": "https://x.com/KobeissiLetter/status/2118495095901315560",
+ "title": "韩国KOSPI开盘暴跌9%触发熔断机制",
+ "summary": "受美股暴跌拖累，韩国KOSPI指数开盘暴跌9%并触发熔断，这是该指数自今日美股下跌以来首次开盘，目前较历史高点已跌去47%。",
+ "body": [
+  "突发：韩国KOSPI指数暴跌9%，触发熔断，此前该指数自今日美股下跌以来首次开盘。",
+  "该指数目前较历史高点已下跌47%。"
+ ],
+ "tags": [
+  "韩国股市",
+  "熔断",
+  "美股"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "",
+ "created": "2026-11-06T00:06:05+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

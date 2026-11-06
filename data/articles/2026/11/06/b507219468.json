@@ -1,0 +1,27 @@
+{
+ "key": "b507219468",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/global-food-prices-ease-on-cheaper-grains-dairy-and-meat-un-says-9b76eefd?mod=rss_markets_main",
+ "title": "天天喊物价贵？联合国最新报告：10月全球食品价格终于降了！",
+ "summary": "联合国最新数据显示，由于谷物、乳制品和肉类价格下跌，10月全球食品价格整体有所回落，成功抵消了受恶劣天气影响而暴涨的糖价。",
+ "body": [
+  "如果你最近去超市买菜时觉得钱包松快了一点点，可能真不是错觉。根据联合国最新发布的数据，10月份全球食品价格整体出现了下跌趋势。",
+  "华尔街日报（Wall Street Journal）记者 Giulia Petroni 报道指出，这次拉低整体食品价格的主力军是谷物、乳制品和肉类。它们的降价，成功对冲了由于天气原因导致供应受阻、从而出现大幅飙升的糖价。",
+  "对咱们海外华人来说，日常吃喝在家庭开支里占了不小的比例。虽然全球大宗商品价格下跌传导到本地超市货架上可能还需要一段时间，但至少上游成本松动是个好信号，希望接下来的节假日采购能稍微省点钱包。"
+ ],
+ "tags": [
+  "全球食品价格",
+  "联合国",
+  "通胀",
+  "海外生活",
+  "菜篮子"
+ ],
+ "original_title": "Global Food Prices Ease on Cheaper Grains, Dairy and Meat, UN Says",
+ "lang": "en",
+ "published": "2026-11-06T10:25:00+00:00",
+ "created": "2026-11-06T16:13:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

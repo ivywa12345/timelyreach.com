@@ -1,0 +1,27 @@
+{
+ "key": "9091bb6a20",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/uk-inheritance-tax-changes-spur-higher-pension-withdrawals",
+ "title": "英国遗产税新政逼得大家提前掏养老金？ savers 们急了！",
+ "summary": "英国即将对未使用的确定贡献养老金（defined-contribution pensions）征收遗产税，这导致英国存钱族们纷纷提前把养老金取出来，以防被新政策“割韭菜”。",
+ "body": [
+  "话说英国最近出了个大动作，明年4月起，政府要对那些没花完的确定贡献养老金（defined-contribution pensions）开征遗产税。消息一出，英国的存钱族们坐不住了，大家正争先恐后地赶在政策落地前，把养老金提前取出来。",
+  "根据彭博社（Bloomberg）记者 Harry Black 的报道，这项即将到来的税收政策直接打乱了大家的退休规划。原本留着养老防老、甚至打算传给下一代的钱，现在因为面临被征税的风险，逼得 savers 们不得不提前把资金挪出养老金账户。",
+  "对于咱们海外华人来说，虽然这事儿发生在英国，但也给我们敲响了警钟：不管是哪个国家，政府对退休账户和遗产规划的税收政策说变就变。平时大家的血汗钱和退休金规划，真的得时刻关注政策风向，保护好自己的钱包才最要紧。"
+ ],
+ "tags": [
+  "英国",
+  "养老金",
+  "遗产税",
+  "海外理财",
+  "政策变化"
+ ],
+ "original_title": "UK Inheritance Tax Changes Spur Higher Pension Withdrawals",
+ "lang": "en",
+ "published": "2026-11-06T14:58:28+00:00",
+ "created": "2026-11-06T16:13:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

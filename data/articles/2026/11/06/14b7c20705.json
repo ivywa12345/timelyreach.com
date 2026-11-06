@@ -1,0 +1,27 @@
+{
+ "key": "14b7c20705",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
+ "title": "赛博皮卡Cybertruck不造了？马斯克：明年中停产，给Robotaxi让路！",
+ "summary": "特斯拉CEO马斯克周五宣布，得州超级工厂将在明年年中左右逐步停产赛博皮卡（Cybertruck），以便腾出空间大规模量产其无人驾驶出租车Cybercab。",
+ "body": [
+  "曾经赚足眼球、造型拉风的特斯拉（Tesla）赛博皮卡（Cybertruck）可能要和大家说再见了。特斯拉CEO埃隆·马斯克（Elon Musk）周五在社交平台X上透露，公司计划在明年年中左右，逐步停止在得州超级工厂生产赛博皮卡，腾出地方来全力制造无人驾驶出租车Cybercab。",
+  "这款不走寻常路的电动皮卡自2023年底开始交付以来，虽然收获了一帮忠实粉丝，但并未能实现马斯克当年预测的年销25万辆的大众市场目标，期间还遭遇了多次自愿召回和质量风波。根据美国国家公路交通安全管理局（NHTSA）的数据，2024款赛博皮卡曾面临11次自愿召回，涉及加速踏板卡住、软件缺陷以及逆变器故障等各种问题。此外，由于外观极具争议，加上马斯克近年来的政治立场，部分车主甚至在路上遭遇过路怒和言语攻击。",
+  "虽然马斯克没有明说未来是否会在其他工厂继续生产该车型，但他回应网友称“赛博皮卡车队将会陪伴大家很长时间”。对于在美华人车主和投资者来说，这意味着曾经风靡一时的“火星车”即将成为绝版，而特斯拉的战略重心已经全面转向了自动驾驶出租车（Cybercab）。"
+ ],
+ "tags": [
+  "特斯拉",
+  "赛博皮卡",
+  "马斯克",
+  "海外车讯",
+  "Cybercab"
+ ],
+ "original_title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+ "lang": "en",
+ "published": "2026-11-06T15:06:11+00:00",
+ "created": "2026-11-06T16:15:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

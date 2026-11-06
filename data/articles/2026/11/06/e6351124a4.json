@@ -1,0 +1,26 @@
+{
+ "key": "e6351124a4",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/zambian-budget-gets-copper-boost-with-el-nino-threatening-crops",
+ "title": "今年花超了？赞比亚财长：2027年一定把财政赤字缩回去！",
+ "summary": "赞比亚财政部长穆索科特瓦内（Situmbeko Musokotwane）宣布，在经历今年支出超出预期之后，该国计划在2027年缩小财政赤字。",
+ "body": [
+  "今年赞比亚的政府开支可是没少花，直接超出了原本的预算。面对这种情况，南部非洲国家赞比亚的财政部长穆索科特瓦内（Situmbeko Musokotwane）近日坐不住了，公开了最新的财政规划。",
+  "根据这位财长的说法，赞比亚政府已经意识到今年的财政赤字扩大（fiscal deficit）问题，并计划在2027年采取行动，把这个预算缺口给缩减下来。",
+  "对于远在海外的华人来说，非洲国家的宏观经济政策调整虽然看似遥远，但全球新兴市场的财政稳健与否，往往也会对国际大宗商品价格和全球经济产生一定波澜。"
+ ],
+ "tags": [
+  "赞比亚",
+  "财政赤字",
+  "预算",
+  "国际财经"
+ ],
+ "original_title": "Zambia to Trim 2027 Budget Gap After This Year’s Blowout",
+ "lang": "en",
+ "published": "2026-11-06T06:15:00+00:00",
+ "created": "2026-11-06T16:13:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

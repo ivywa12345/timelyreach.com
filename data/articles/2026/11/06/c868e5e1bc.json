@@ -1,0 +1,28 @@
+{
+ "key": "c868e5e1bc",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/markets/nasdaq-futures-bounce-dip-buyers-pick-through-ai-wreckage-ahead-payrolls",
+ "title": "美股AI板块刚经历血洗，今天华尔街又开始抢反弹了？",
+ "summary": "在经历周四美股史上罕见的AI板块大跌、纳斯达克100指数创下2020年以来最惨单日表现后，周五盘前美股期货迎来反弹。芯片股和内存股带头回血，收复昨日部分失地。与此同时，市场正严阵以待即将出炉的10月非农就业报告，而中东局势降温也让油价从高位回落。",
+ "body": [
+  "美股周四遭遇了一场惊心动魄的“AI血洗”。由于民主党在期中选举中大胜，市场对未来AI基建可能面临更严厉的监管打压产生恐惧，引发恐慌性抛售。标普500指数大跌4.4%，创下2025年4月以来最惨单日表现；纳斯达克100指数暴跌6.4%，费城半导体指数更是崩盘12%，一天之内直接蒸发了2.3万亿美元的科技市值，甚至把科技对冲基金2026年全年的收益全部清零。",
+  "不过，华尔街的“抄底大军”周五一早迅速进场。根据摩根大通（JPMorgan）的数据，在盘前交易中，芯片和内存股票正试图收复昨日30%到40%的失地。美光科技（Micron，MU）大涨7.8%，AMD（AMD）涨7.1%，英特尔（Intel，INTC）涨4.7%，英伟达（Nvidia，NVDA）也反弹了4.3%；泛林集团（Lam Research）更是因为宣布了25亿美元的股票回购计划而暴涨10%。",
+  "除了宏观市场的剧烈震荡，个股业绩几家欢喜几家愁。云服务公司Cloudflare（NET）和民宿巨头Airbnb（ABNB）因为亮眼的业绩指引股价大涨；但体育博彩巨头DraftKings（DKNG）和软件公司Atlassian（TEAM）则因为业绩指引不及预期遭遇重挫。Pepperstone策略师Dilin Wu指出：“抛售中明显带有一种恐慌情绪，拥挤的仓位、去杠杆和可能的被迫平仓让情况变得更糟。”",
+  "对于海外华人投资者来说，这波由AI监管担忧引发的极高波动敲响了警钟。当前不仅科技股高位震荡风险激增，市场还面临10月非农就业数据以及美联储12月降息概率变化（目前掉期交易显示的12月加息/维持利率预期的博弈仍在持续）的双重考验。在市场情绪如坐过山车的当下，无论是配置科技成长股还是管理个人资产负债表，都需要格外警惕流动性收紧与政策面风向带来的潜在冲击。"
+ ],
+ "tags": [
+  "美股",
+  "AI泡沫",
+  "纳斯达克",
+  "半导体",
+  "华尔街"
+ ],
+ "original_title": "Nasdaq Futures Bounce As Dip-Buyers Pick Through AI Wreckage Ahead Of Payrolls",
+ "lang": "en",
+ "published": "2026-11-06T13:07:00+00:00",
+ "created": "2026-11-06T16:14:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

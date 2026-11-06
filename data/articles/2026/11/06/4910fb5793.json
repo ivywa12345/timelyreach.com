@@ -1,0 +1,27 @@
+{
+ "key": "4910fb5793",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/gold-continues-to-rise-amid-better-risk-sentiment-e2d133ff?mod=rss_markets_main",
+ "title": "金价稍微回调，但本周大涨超4%稳了？全场都在等今晚的非农数据！",
+ "summary": "周五早盘黄金价格小幅下跌，但由于投资者正密切等待即将公布的美国非农就业数据，金价本周仍有望录得超过4%的强劲周涨幅。",
+ "body": [
+  "周五（当地时间）早盘交易中，国际金价出现了小幅回落。不过，得益于本周早些时候的出色表现，金价本周依然稳坐钓鱼台，有望实现超过4%的周涨幅。",
+  "目前，全球投资者的目光全都聚焦在即将在周五晚些时候出炉的美国非农就业数据（payrolls data）上。这份重量级报告将直接影响市场对美国经济走势和美联储下一步货币政策的预期。",
+  "对于关注资产配置的海外华人来说，非农数据历来是引发金融市场大波动的“风向标”。黄金作为避险资产，其短期波动直接受制于美元和利率走向，建议大家根据自身的财务规划，密切关注数据发布后的市场反应，合理调整投资组合。"
+ ],
+ "tags": [
+  "黄金",
+  "非农就业数据",
+  "美联储",
+  "华尔街日报",
+  "海外理财"
+ ],
+ "original_title": "Gold Falls But Remains on Track for Weekly Gains Ahead of Payrolls Data",
+ "lang": "en",
+ "published": "2026-11-06T08:51:00+00:00",
+ "created": "2026-11-06T16:13:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

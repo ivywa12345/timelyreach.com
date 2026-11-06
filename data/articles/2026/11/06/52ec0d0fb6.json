@@ -1,0 +1,27 @@
+{
+ "key": "52ec0d0fb6",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/trump-congress-set-to-clash-on-politically-toxic-tariff-blitz",
+ "title": "川普关税计划遭遇两党夹击！国会大佬们坐不住了：东西又要变贵？",
+ "summary": "随着川普即将重返白宫并计划挥舞关税大棒，国会两党议员罕见地表现出担忧，民主党和部分共和党人纷纷表态将出手干预，一场围绕关税经济成本的博弈即将在国会山上演。",
+ "body": [
+  "美国当选总统川普的关税政策还没正式落地，国会两党就已经火药味十足了。据彭博社报道，民主、共和两党议员正准备联手，对川普可能引发物价上涨的关税政策发起挑战。",
+  "众议院民主党领袖哈基姆·杰弗里斯（Hakeem Jeffries）公开表示，绝不答应川普这些“推高美国人生活成本的愚蠢关税”。即将上任的参议院财政委员会主席罗恩·怀登（Ron Wyden）也放话，称要重新确立国会在贸易政策上的主权。就连一向保守的得克萨斯州共和党参议员泰德·克鲁兹（Ted Cruz）也忍不住抱怨，直言“关税已经把所有东西都搞得太贵了”。",
+  "对于远在海外的华人来说，关税直接关系到大家的钱包。如果日用消费品因关税再度涨价，普通家庭的生活开支将面临更大压力。后续国会与白宫的这场博弈会如何发展，值得我们持续关注。"
+ ],
+ "tags": [
+  "关税政策",
+  "川普",
+  "美国国会",
+  "通货膨胀",
+  "海外华人"
+ ],
+ "original_title": "Trump, Congress Set to Clash Over Economic Costs of Tariffs",
+ "lang": "en",
+ "published": "2026-11-06T05:00:00+00:00",
+ "created": "2026-11-06T16:14:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

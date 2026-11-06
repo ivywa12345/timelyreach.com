@@ -1,0 +1,26 @@
+{
+ "key": "be0c90ff3d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-peers-into-abyss-of-ai-trade-as-midterms-expose-risk",
+ "title": "华尔街开始慌了？AI概念股迎大考，这波热潮还能撑多久！",
+ "summary": "彭博社报道，过去几个月里，投资者们一直在担忧人工智能（AI）疯狂砸钱的浪潮背后究竟隐藏着多少风险。",
+ "body": [
+  "最近华尔街的投资者们开始坐不住了。根据彭博社的报道，过去几个月来，大家一直在集体焦虑一件事：这场全靠砸钱撑起来的人工智能（AI）投资盛宴，到底有没有风险？",
+  "虽然AI概念之前一路狂飙，让不少人赚得盆满钵满，但随着中间环节的各种隐患逐渐浮出水面，市场上的担忧情绪也一天比一天浓厚。华尔街的分析人士们开始重新审视这股热潮的长期可持续性。"
+ ],
+ "tags": [
+  "华尔街",
+  "AI投资",
+  "美股",
+  "人工智能",
+  "财经热点"
+ ],
+ "original_title": "Wall Street Peers Into Abyss of AI Trade as Midterms Expose Risk",
+ "lang": "en",
+ "published": "2026-11-06T09:30:02+00:00",
+ "created": "2026-11-06T16:14:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

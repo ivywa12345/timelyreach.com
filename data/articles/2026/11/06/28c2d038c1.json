@@ -1,0 +1,27 @@
+{
+ "key": "28c2d038c1",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+ "title": "大选后市场大跌！AI独角兽Anthropic估值缩水，买家心理价位掉到1.1万亿美元",
+ "summary": "受美国大选后市场抛售潮的影响，人工智能初创公司Anthropic的首次公开募股（IPO）计划遭遇阻力，潜在投资者对该公司的估值预期降低至1.1万亿美元左右。",
+ "body": [
+  "最近科技圈大火的AI独角兽Anthropic PBC碰上了麻烦。根据彭博社（Bloomberg）报道，随着美国大选后市场出现一波猛烈的抛售潮，准备参与该公司首次公开募股（IPO）的买家们开始重新盘算，把这家公司的预期估值直接看低到了1.1万亿美元。",
+  "在此之前，市场对这类头部AI公司的追捧可谓狂热，但大选后金融市场的波动让投资者的头脑冷静了不少。面对大盘回调，这些潜在买家不得不重新评估Anthropic未来的募资前景和实际市场价值。",
+  "对于关注科技股和AI行业海外动向的华人朋友来说，这类超级独角兽的估值波动不仅反映了华尔街风向的转变，也可能牵动整个科技板块的神经，进而影响到相关投资者的钱包和科技行业的就业风向。"
+ ],
+ "tags": [
+  "Anthropic",
+  "IPO",
+  "人工智能",
+  "美股",
+  "科技公司估值"
+ ],
+ "original_title": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion",
+ "lang": "en",
+ "published": "2026-11-06T13:12:57+00:00",
+ "created": "2026-11-06T16:13:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

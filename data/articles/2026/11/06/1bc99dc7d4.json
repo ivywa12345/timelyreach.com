@@ -1,0 +1,26 @@
+{
+ "key": "1bc99dc7d4",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/methane-regulations-and-the-climate-debate-70e14c5a?mod=rss_opinion",
+ "title": "小油井到底该不该严管？美国读者吵翻了！",
+ "summary": "《华尔街日报》读者围绕低产量油气井是否应该接受严格的联邦监管展开了激烈辩论，双方各执一词。",
+ "body": [
+  "最近美国围绕气候政策有个热门话题：产量不高的油气井到底该不该受到联邦政府的严格监管？《华尔街日报》（The Wall Street Journal）最近刊登了读者的来信，大家为此吵得不可开交。",
+  "支持严格监管的一方认为，环保不分大小，小油井累积起来的甲烷排放同样不容忽视，必须用统一的标准来约束。但反对者则认为，过度监管会给这些小企业和低产量油井带来沉重的合规成本，甚至可能直接把它们压垮，得不偿失。",
+  "虽然这只是一场读者讨论，但折射出美国在应对气候变化和保护中小企业利益之间的拉扯。对于咱们海外华人来说，能源政策的博弈往往直接关系到油气价格和日常生活的通胀账单，后续走向值得关注。"
+ ],
+ "tags": [
+  "气候政策",
+  "油气监管",
+  "美国经济",
+  "华尔街日报"
+ ],
+ "original_title": "Methane Regulations and the Climate Debate",
+ "lang": "en",
+ "published": "2026-11-06T16:03:00+00:00",
+ "created": "2026-11-06T16:13:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "0a693dba8d",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/technology/tesla-wind-down-cybertruck-production-gigafactory-texas",
+ "title": "赛博皮卡要停产了？马斯克自曝明年中关停德州工厂生产线",
+ "summary": "特斯拉CEO埃隆·马斯克在社交平台上透露，计划于明年年中左右逐步关停德州超级工厂的赛博皮卡（Cybertruck）生产，以为大规模量产无方向盘无人驾驶出租车（Cybercab）腾出产能。尽管马斯克将其称为特斯拉造过的“最好的车”，但销量远不及预期成为停产的主因。",
+ "body": [
+  "近日，特斯拉（Tesla）CEO埃隆·马斯克（Elon Musk）在社交媒体X上突然宣布，特斯拉计划在明年年中左右，逐步关停德州超级工厂（Gigafactory Texas）的赛博皮卡（Cybertruck）生产线。他坦言，此举是为了给增加无方向盘无人驾驶出租车（Cybercab）的产量腾出空间，并感叹这将标志着“一个时代的结束”。不过，他依然盛赞赛博皮卡是特斯拉有史以来造过“最好的车”，甚至还受到美国特种部队的青睐，称其为有史以来建造的最先进卡车。",
+  "回顾这款车的市场表现，其销量远未达到马斯克此前设定的一年250,000辆的目标。根据凯利蓝皮书（Kelley Blue Book）的估算，2024年美国市场的赛博皮卡销量为38,965辆，2025年降至20,237辆，而在2026年前九个月仅售出11,586辆，总计销量约为70,788辆。前阿斯顿·马丁（Aston Martin）CEO安迪·帕尔默（Andy Palmer）在接受路透社采访时直言：“当它无法达标时，继续生产就没有意义了，每个理性的汽车业内人士都会这么说。”",
+  "事实上，整个美国电动皮卡市场近年来都面临着不小的阻力。除了特斯拉的赛博皮卡表现平平外，福特汽车（Ford Motor）的F-150 Lightning已经停产，道奇（Dodge）取消了Ram 1500 EV的计划，GMC的悍马电动车（Hummer EV）销量也出现了急剧下滑。随着重心全面转向全国范围内的Robotaxi推广以及FSD（完全自动驾驶）软件，特斯拉未来还将推进SpaceX的低轨数据中心、进军移动通信运营商市场以及Optimus人形机器人等新项目。至于赛博皮卡未来是否会以更便宜的第二代车型回归，目前仍是个未知数。"
+ ],
+ "tags": [
+  "特斯拉",
+  "赛博皮卡",
+  "马斯克",
+  "电动车",
+  "美国科技"
+ ],
+ "original_title": "Tesla To \"Wind Down\" Cybertruck Production At Gigafactory Texas",
+ "lang": "en",
+ "published": "2026-11-06T12:40:00+00:00",
+ "created": "2026-11-06T16:14:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

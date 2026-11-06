@@ -1,0 +1,24 @@
+{
+ "key": "648ae96d8a",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Epoch AI",
+ "source_url": "https://x.com/EpochAIResearch/status/2118388127337517276",
+ "title": "博通TPU出货量翻倍，约合200万块H100",
+ "summary": "博通TPU出货量从2026财年第二季度到第三季度翻倍，达到约合近200万块英伟达H100 GPU，远高于此前三个季度每季2%至22%的增速。",
+ "body": [
+  "据我们估计，博通（Broadcom）TPU算力出货量从2026财年第二季度到第三季度（5月至8月初）翻倍，达到约合近200万块英伟达（Nvidia）H100 GPU。",
+  "与此前三个季度相比，这是一个急剧的增长，当时出货量每季度增长2%至22%。"
+ ],
+ "tags": [
+  "博通",
+  "TPU",
+  "英伟达"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "",
+ "created": "2026-11-05T17:01:01+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

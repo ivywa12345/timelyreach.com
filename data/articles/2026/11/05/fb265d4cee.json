@@ -1,0 +1,24 @@
+{
+ "key": "fb265d4cee",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "METR",
+ "source_url": "https://x.com/METR_Evals/status/2118412183860351084",
+ "title": "METR发布AI加速AI研发评估报告",
+ "summary": "METR团队自8月起利用Anthropic内部信息，评估AI本身是否正在加速AI研发，现已发布总结这一风险评估结果的报告。",
+ "body": [
+  "自8月以来，METR的一个团队一直利用Anthropic的内部信息，评估AI本身是否正在加速AI研发。",
+  "我们现在正在发布一份报告，总结这一风险评估的结果。"
+ ],
+ "tags": [
+  "Anthropic",
+  "AI研发",
+  "报告"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "",
+ "created": "2026-11-05T18:36:37+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
