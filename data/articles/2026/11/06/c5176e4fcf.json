@@ -1,0 +1,27 @@
+{
+ "key": "c5176e4fcf",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/stock-market-selloff-what-correction-crash-and-other-trading-terms-mean",
+ "title": "股市大跌、回调、崩盘到底啥意思？华尔街黑话今天给你一次性整明白！",
+ "summary": "美国中期选举后美股大起大落，投资者纷纷琢磨在国会民主党主导下人工智能的增长潜力。华尔街那些专业术语看得人头大？今天带你用大白话看懂股市行情。",
+ "body": [
+  "最近美国中期选举之后，金融市场可谓是坐了一趟过山车，波动那叫一个剧烈。大家都在紧盯着，在民主党掌控国会的情况下，人工智能（AI）到底还能不能继续猛增。",
+  "每次股市一有风吹草动，财经新闻里就会蹦出一堆专业术语，什么“调整”、“崩盘”的，对于咱们普通散户来说，简直像是在看天书。其实，这些华尔街的黑话虽然听着高大上，但掌握了基本逻辑，看懂行情也没那么难。",
+  "对于咱们海外华人来说，了解这些基本的股市概念很有必要。毕竟股市涨跌直接关系到大家的401(k)退休账户和投资钱包。下次再看到市场大跌的新闻，就不会被那些吓人的专业词汇带节奏了。"
+ ],
+ "tags": [
+  "美股",
+  "华尔街",
+  "股市术语",
+  "海外理财",
+  "人工智能"
+ ],
+ "original_title": "Stock Market Selloff: What Correction, Crash and Other Trading Terms Mean",
+ "lang": "en",
+ "published": "2026-11-06T03:15:32+00:00",
+ "created": "2026-11-06T17:42:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "7442a0deb7",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/brookfield-raises-123-billion-amid-ai-build-out-as-profits-rise",
+ "title": "手握250亿美元！这家巨头疯狂押注AI基建，到底在布局啥？",
+ "summary": "彭博社报道，由于信贷和基础设施业务表现强劲，资产管理巨头Brookfield Asset Management在第三季度成功筹集了250亿美元资金，并正把自己定位为资助人工智能（AI）基础设施建设的关键玩家。",
+ "body": [
+  "根据彭博社的报道，资产管理巨头Brookfield Asset Management在今年第三季度一口气筹集了250亿美元资金。这波资金主要由信贷和基础设施业务驱动，显示出市场资本对这类高回报领域的强烈信心。",
+  "目前，这家公司正在积极调整布局，将自己定位为资助人工智能（AI）爆发式增长所需基础设施建设的关键玩家。随着AI技术的迅猛发展，数据中心、电网等底层硬件的资金需求呈天文数字增长，Brookfield显然想借这股东风分一杯羹。"
+ ],
+ "tags": [
+  "AI基建",
+  "金融投资",
+  "Brookfield",
+  "海外财经"
+ ],
+ "original_title": "Brookfield Raises $25 Billion Amid AI Push as Profits Rise",
+ "lang": "en",
+ "published": "2026-11-06T12:09:41+00:00",
+ "created": "2026-11-06T17:42:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "2d0482abc1",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/science-and-technology/2026/11/06/is-grip-strength-a-useful-indicator-of-health",
+ "title": "握力大小竟然能看出健不健康？这事真不是玄学！",
+ "summary": "经济学人关注到一个引人注目的健康说法：握力大小可能是评估人体健康状况的一个有用指标。",
+ "body": [
+  "最近有外媒报道了一个挺吸引眼球的说法：一个人的握力大小，竟然能反映出整体健康状况。这可不是什么江湖传说，在医学和健康领域，握力正受到越来越多的关注。",
+  "虽然这篇报道目前只有简短的摘要，但它提出的这个观点让不少人开始重新审视自己的身体素质。平时去健身房或者日常生活中，大家可能更关注跑步能跑多远、肌肉练得有多大，却很少有人专门去测试自己的握力。",
+  "对于咱们海外华人来说，平时工作忙、压力大，身体健康往往是革命的本钱。这个科学小常识提醒我们，不妨抽空关注一下自己的身体各项基础指标，平时多锻炼、保持好体能，才能更好地在海外打拼。"
+ ],
+ "tags": [
+  "健康指标",
+  "握力",
+  "海外养生",
+  "经济学人"
+ ],
+ "original_title": "Is grip strength a useful indicator of health?",
+ "lang": "en",
+ "published": "2026-11-06T17:30:57+00:00",
+ "created": "2026-11-06T17:41:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

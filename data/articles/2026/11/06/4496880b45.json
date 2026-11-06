@@ -1,0 +1,27 @@
+{
+ "key": "4496880b45",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/texas-comptroller-elect-to-increase-scrutiny-of-school-vendors",
+ "title": "得州新财长上台：盯紧学校供应商，几亿公帑要透明！",
+ "summary": "得州新当选的州主计长承诺，将加大对该州庞大公立学校系统中数亿美元供应商资金的透明度审查。",
+ "body": [
+  "据彭博社报道（Joe Lovinger 和 Rachel Adams-Heard 联合报道），即将上任的得州下一任州主计长（State Comptroller）近日发誓，要对数亿美元流向得州庞大公立学校系统供应商的资金进行更严格的审查，提高账目透明度。",
+  "作为掌管得州财政大权的官员，这位民主党籍的新主计长表示，此举旨在确保纳税人的钱真正花在刀刃上，让学校采购和资金流向更加阳光化，不再藏着掖着。",
+  "对于家有儿女在得州公立学校就读的华人家庭来说，学校系统的财政更透明、资金监管更严格，意味着教育经费能更有效地用在学生和教学质量上，减少不必要的浪费或暗箱操作。"
+ ],
+ "tags": [
+  "得州",
+  "教育经费",
+  "华人生活",
+  "美国新闻",
+  "财政透明"
+ ],
+ "original_title": "Texas’ Next Finance Chief to Ramp Up School-Vendor Scrutiny",
+ "lang": "en",
+ "published": "2026-11-06T16:11:03+00:00",
+ "created": "2026-11-06T17:42:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,28 @@
+{
+ "key": "9c5da62bab",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+ "title": "AI界“信用卡”快刷爆了？数据中心融资利率飙升，华尔街敲响警钟",
+ "summary": "由于投资者担忧AI数据中心建设放缓及政治环境变化，AI债务市场近期压力骤增。新兴云服务商CoreWeave的债券收益率飙升超过16%，连英伟达、亚马逊等巨头的违约保险成本也在上涨，引发市场对AI资本开支可持续性的讨论。",
+ "body": [
+  "华尔街最近传出一个生动的比喻：AI数据中心建设者们的“信用卡”不仅利息越来越高，额度也可能快被收紧了。杰富瑞集团（Jefferies）全球股票策略主管克里斯托弗·伍德（Christopher Wood）在一份报告中指出，AI基建军备竞赛最有可能的结局，就是这张“信用卡”被收走。",
+  "虽然还没到那一步，但信贷市场已经开始对新的政治环境感到担忧。高盛（Goldman Sachs）指出，未来由于部分州可能出现暂缓审批的政策，全美45%的计划装机容量可能会受到影响。以新兴云服务商CoreWeave为例，其2032年到期、票面利率9.625%的债券收益率已经飙升至16%以上。同时，据德意志银行（Deutsche Bank）数据，CoreWeave的五年期信用违约互换（CDS）也出现了大幅跳水和飙升。",
+  "不只是中小企业，连英伟达（Nvidia）、博通（Broadcom）和亚马逊（Amazon.com）这些财务状况最健康的科技巨头，其违约保险成本（CDS）在过去一个月里也录得不同程度的上涨。高盛分析师指出，科技巨头们在第三季度的资本支出超过了运营现金流，整体自由现金流为负。市场开始打鼓：AI砸进去的巨额资金，到底什么时候才能真正赚回真金白银？",
+  "对咱们海外华人来说，AI行业的融资成本上升和资本开支降温，最终可能会传导到科技股表现、相关就业岗位的稳定性上。如果AI泡沫被挤压、基建放缓，科技巨头们未来的招聘和投资节奏也可能踩下刹车，值得在科技圈打拼或投资美股的华人朋友们密切关注。"
+ ],
+ "tags": [
+  "人工智能",
+  "美股",
+  "金融市场",
+  "科技投资",
+  "CoreWeave"
+ ],
+ "original_title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+ "lang": "en",
+ "published": "2026-11-06T17:09:53+00:00",
+ "created": "2026-11-06T17:44:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

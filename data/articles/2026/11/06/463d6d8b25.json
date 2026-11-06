@@ -1,0 +1,27 @@
+{
+ "key": "463d6d8b25",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/the-democratic-party-wont-tolerate-pro-israel-members-38e9a8a4?mod=rss_opinion",
+ "title": "美媒犀利发问：民主党现在怎么容不下亲以色列的党员了？",
+ "summary": "《华尔街日报》发表观点文章指出，当前的民主党对待党内派系的宽容度引发争议，引发外界对该党未来政治走向的讨论。",
+ "body": [
+  "近日，《华尔街日报》刊发了一篇颇受关注的评论文章，直指美国民主党内部的政治生态变化。文章的标题直言不讳：《民主党容不下亲以色列的党员》（The Democratic Party Won’t Tolerate Pro-Israel Members）。",
+  "文章在摘要中指出，民主党虽然对党内的社会主义者敞开双臂、热烈欢迎，但对于任何公开支持犹太国（以色列）的声音却显得难以忍受。",
+  "对于关注美国政治走向的海外华人来说，两党在外交政策和核心价值观上的撕裂，往往也会映射到日常的社区、校园以及选民的切身利益中。随着美国政治极化加剧，政党立场的转变值得持续观察。"
+ ],
+ "tags": [
+  "美国政治",
+  "民主党",
+  "以色列",
+  "华尔街日报",
+  "海外华人"
+ ],
+ "original_title": "The Democratic Party Won’t Tolerate Pro-Israel Members",
+ "lang": "en",
+ "published": "2026-11-06T16:00:00+00:00",
+ "created": "2026-11-06T17:41:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

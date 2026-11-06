@@ -1,0 +1,27 @@
+{
+ "key": "4729f8fa01",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+ "title": "老百姓反对建机房，OpenAI却说：这钱我们投定了！",
+ "summary": "尽管美国中期选举中多地选民投票反对建设AI数据中心，但OpenAI首席财务官萨拉·弗赖尔（Sarah Friar）表示，公司将继续投资AI基础设施以满足客户需求，并正推进融资和上市计划。",
+ "body": [
+  "最近美国中期选举的结果让AI数据中心成了众矢之的。在10个州的41个地方投票中，选民几乎一面倒地支持限制数据中心的发展，大家主要是担心这些大机房会破坏环境、让电费蹭蹭涨，甚至抢走工作机会。不过，OpenAI首席财务官萨拉·弗赖尔（Sarah Friar）在周五明确表态，大选结果不会改变公司的投资计划。",
+  "弗赖尔在加州参加花旗TMT领导力峰会（Citi TMT Leadership Summit）时接受CNBC采访时表示：“当我们考虑中期选举时，我们需要继续思考如何持续投资以满足客户需求。”她指出，AI的需求是真实存在的，反对此事是“必输的论点”。虽然投资者最近因为借贷成本高、债务压力大和公众的抵触情绪，对AI板块产生了疑虑，导致股市一度大跌，但OpenAI训练模型和服务客户离不开数据中心，公司未来会花更多精力去融入社区、建立信任。",
+  "除了砸钱建机房，OpenAI也在筹备未来的大动作。弗赖尔透露，公司正继续推进2027年左右上市的计划，并且正在进行新一轮融资。与此同时，老对手Anthropic也在筹备最早于11月中旬登陆纳斯达克，其招股书显示前九个月营收暴增1200%至332亿美元，砸在计算和基础设施上的承诺支出高达约8954亿美元。对于在美华人来说，AI基础设施的疯狂扩张不仅关乎科技股的钱包和就业机会，未来可能还会实实在在地影响到家门口的电费和社区环境。"
+ ],
+ "tags": [
+  "OpenAI",
+  "人工智能",
+  "数据中心",
+  "美股",
+  "科技新闻"
+ ],
+ "original_title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+ "lang": "en",
+ "published": "2026-11-06T17:24:48+00:00",
+ "created": "2026-11-06T17:44:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

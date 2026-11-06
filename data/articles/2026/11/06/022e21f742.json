@@ -1,0 +1,27 @@
+{
+ "key": "022e21f742",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/u-s-treasurys-little-changed-markets-await-employment-data-88f3f2b6?mod=rss_markets_main",
+ "title": "美国就业数据太火爆！国债收益率蹭蹭往上涨，下周通胀数据成焦点",
+ "summary": "受强劲的美国劳动力市场数据推动，美国国债收益率走高，同时市场正密切关注下周即将公布的通胀报告。而在德国，避险买盘则让借贷成本维持在近期低位附近。",
+ "body": [
+  "据《华尔街日报》报道（作者 Paulo Trevisani），由于美国公布的就业数据表现强劲，加上下周将迎来关键的通胀报告，美国国债收益率近日出现上涨。",
+  "与此同时，大西洋彼岸的德国则呈现出不同景象。由于市场存在避险需求，德国的借贷成本依然保持在近期低位附近。",
+  "对于海外华人来说，国债收益率的波动往往会直接传导至房贷利率、车贷以及各类消费贷款。随着美国就业市场的持续火热和下周通胀数据的临近，美联储后续的降息路径可能会再生变数，大家的房贷利率和理财收益可能又要迎来一波震荡了。"
+ ],
+ "tags": [
+  "美国国债",
+  "就业数据",
+  "通胀报告",
+  "房贷利率",
+  "财经热点"
+ ],
+ "original_title": "Treasury Yields Rise on Strong Jobs Data",
+ "lang": "en",
+ "published": "2026-11-06T17:36:00+00:00",
+ "created": "2026-11-06T17:41:30+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
