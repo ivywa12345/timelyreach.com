@@ -1,0 +1,27 @@
+{
+ "key": "5312c1e8ad",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/05/markets-realise-they-hate-americas-blue-wave",
+ "title": "“蓝潮”横扫华盛顿？华尔街投资者这回急了：AI要凉？",
+ "summary": "经济学人分析指出，投资者开始担心美国政治出现“蓝潮”（民主党全面掌控）可能会拖慢人工智能（AI）的发展浪潮。",
+ "body": [
+  "最近华尔街的投资圈有点坐不住了，大家突然意识到一件事：如果民主党在选举中实现全面掌控，也就是所谓的“蓝潮”（blue wave），对科技股尤其是正火热的AI产业来说，可能并不是什么好消息。",
+  "根据《经济学人》（The Economist）的分析，投资者目前最担忧的是，民主党全面掌权后可能会带来更严厉的监管、更高的税收，或者更多的政策限制，从而直接放慢美国人工智能（AI）产业狂飙突进的节奏。",
+  "对咱们海外华人来说，如果科技板块因为政策波动而踩刹车，直接关乎大家的投资组合、401(k)养老金收益，甚至在科技大厂打工的薪水和股票期权（RSU）。接下来看盘时，这方面的政策风向得格外留心了。"
+ ],
+ "tags": [
+  "美股",
+  "人工智能",
+  "美国大选",
+  "华尔街",
+  "科技股"
+ ],
+ "original_title": "Markets realise they hate America’s blue wave",
+ "lang": "en",
+ "published": "2026-11-05T23:41:07+00:00",
+ "created": "2026-11-06T00:17:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

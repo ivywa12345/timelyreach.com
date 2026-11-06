@@ -1,0 +1,25 @@
+{
+ "key": "6c5c9e96ae",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/japan-bonds-rally-as-global-risk-off-move-boosts-haven-demand",
+ "title": "全球股市大跌避险情绪飙升！日本国债迎风上涨",
+ "summary": "受美股抛售潮蔓延至亚洲市场影响，全球避险情绪持续升温，日本国债在周五迎来一波上涨行情。",
+ "body": [
+  "周五，日本国债（Japanese government bonds）价格出现上涨，这主要是跟随了美国国债（US Treasuries）此前大涨的步伐。",
+  "由于美国股市近期遭遇抛售，这股恐慌情绪迅速蔓延到了亚洲市场，加剧了全球范围内的“避险”风潮（risk-off move），导致资金纷纷涌入债市寻求庇护。"
+ ],
+ "tags": [
+  "日本国债",
+  "全球股市",
+  "避险情绪",
+  "美债"
+ ],
+ "original_title": "Japan Bonds Rally as Global Risk-Off Move Boosts Haven Demand",
+ "lang": "en",
+ "published": "2026-11-05T23:54:47+00:00",
+ "created": "2026-11-06T00:17:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

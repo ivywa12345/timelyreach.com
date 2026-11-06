@@ -1,0 +1,27 @@
+{
+ "key": "cf55d6cba1",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/korean-chip-stocks-sink-10-in-pre-market-as-ai-fears-deepen",
+ "title": "韩国股市也崩了？Kospi指数跌破5000点大关，这回是因为AI要凉？",
+ "summary": "由于担心美国国会民主党全面掌控可能拖累人工智能（AI）基建进程，韩国芯片股遭遇重挫，导致Kospi指数跌破5000点大关。",
+ "body": [
+  "据彭博社记者Youkyung Lee报道，韩国股市近日迎来大地震，代表性的Kospi指数一路下挫，直接跌破了5000点的关键整数大关。这次大跌的罪魁祸首，是市场对人工智能（AI）板块前景的深切担忧。",
+  "据悉，美国国会选举结果显示民主党实现全面掌控（Sweep of Congress），这让投资者开始恐慌，担心新格局可能会出台更多限制或放缓人工智能基础设施建设的政策。受此悲观情绪拖累，韩国当地的芯片股首当其冲，出现了跳水式的暴跌。",
+  "对于海外华人投资者和关注科技股的朋友来说，大洋彼岸的政治变动正在迅速传导至全球供应链。作为全球芯片制造重镇，韩国市场的剧烈波动再次提醒大家，科技股的高估值和政策风向紧密相连，接下来资产配置可得盯紧政策面的风吹草动。"
+ ],
+ "tags": [
+  "韩国股市",
+  "Kospi指数",
+  "人工智能",
+  "芯片股",
+  "海外投资"
+ ],
+ "original_title": "Korea’s Kospi Tumbles Below 5,000 Milestone as AI Fears Spread",
+ "lang": "en",
+ "published": "2026-11-05T23:35:44+00:00",
+ "created": "2026-11-06T00:17:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "d6776b9666",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/latest-oil-market-news-and-analysis-for-nov-6",
+ "title": "油价要崩？创下4月以来最大周跌幅，中东局势成关键",
+ "summary": "由于投资者对中东战事可能走向结束保持乐观，国际油价本周遭遇重挫，正朝着4月以来的最大单周跌幅迈进。",
+ "body": [
+  "如果你最近关注油价，可能会发现它终于开始往下掉了。根据彭博社（Bloomberg）的报道，在经历了一阵剧烈的震荡交易后，油价本周迎来了自今年4月以来最惨烈的一周跌幅。",
+  "这次油价下跌的主要原因，是市场正在密切评估中东地区长达数月的战事出现停火转机的可能性。随着局势可能缓和，投资者对原油供应中断的担忧有所降温。",
+  "对于在海外生活的华人来说，油价下跌无疑是个好消息——这意味着去加油站的费用有望减轻，日常出行和物流成本也可能随之下降，能在一定程度上缓解大家的钱包压力。"
+ ],
+ "tags": [
+  "油价",
+  "中东局势",
+  "财经新闻",
+  "海外生活"
+ ],
+ "original_title": "Latest Oil Market News and Analysis for Nov. 6",
+ "lang": "en",
+ "published": "2026-11-05T23:08:17+00:00",
+ "created": "2026-11-06T00:17:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

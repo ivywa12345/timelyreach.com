@@ -1,0 +1,26 @@
+{
+ "key": "2a29e8b569",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?mod=rss_markets_main",
+ "title": "估值1.5万亿美元？大投资者对AI巨头Anthropic上市泼冷水",
+ "summary": "人工智能巨头Anthropic传出寻求高达1.5万亿美元的估值准备上市，但华尔街的大投资者们似乎并不买账，认为实际估值可能需要大幅调低。",
+ "body": [
+  "据《华尔街日报》报道，近期在资本市场风头正劲的人工智能巨头Anthropic正筹备首次公开募股（IPO），并放出风声想要冲击1.5万亿美元的惊人估值。不过，多位知情的大型投资者对此表示怀疑，认为该公司可能需要设定一个明显低于预期的估值才能顺利上市。",
+  "作为当前AI领域的核心玩家之一，Anthropic的每一步动作都备受资本市场瞩目。但面对狂热的AI投资浪潮，理性投资者开始重新审视这些独角兽的实际变现能力和长期价值，这也给Anthropic的超高估值目标打上了问号。"
+ ],
+ "tags": [
+  "Anthropic",
+  "美股IPO",
+  "人工智能",
+  "华尔街",
+  "投资理财"
+ ],
+ "original_title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
+ "lang": "en",
+ "published": "2026-11-05T23:17:00+00:00",
+ "created": "2026-11-06T00:16:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
