@@ -1,18 +1,19 @@
 {
- "title": "科技股集体跌入熊市，闪迪较高点跌66%",
- "summary": "这轮抛售里一批明星科技股已较高点跌超五成，闪迪、Arm、Coinbase跌幅居前，AI概念股成重灾区。",
+ "title": "25只科技股跌入熊市，标普自10月6日蒸发4万亿",
+ "summary": "科贝西通讯列出25只跌入熊市区间的科技股，闪迪较高点跌66%居首；标普500自10月6日以来市值已蒸发4万亿美元。",
  "body": [
-  "科贝西通讯（The Kobeissi Letter）盘点了跌入熊市区间的科技股：闪迪（SanDisk，SNDK）较高点跌66%，安谋（Arm，ARM）跌64%，Coinbase（COIN）跌63%，甲骨文（Oracle，ORCL）跌56%。",
-  "名单里还有希捷（Seagate，STX）跌60%、迈威尔（Marvell，MRVL）跌59%、ServiceNow（NOW）跌57%。清一色是过去两年的热门名字，AI和存储概念占了大半。",
-  "对普通人意味着什么：所谓跌入熊市，指较高点跌超20%，这批股票已经跌掉一半以上。持有相关个股或行业ETF的人要重新算一遍仓位；只持有大盘指数的人，波动会被分散掉不少。"
+  "跌入熊市区间的科技股：",
+  "1. 闪迪（SanDisk，SNDK）：-66%\n2. 安谋（Arm Holdings，ARM）：-64%\n3. Coinbase（COIN）：-63%\n4. Nebius（NBIS）：-62%\n5. 希捷（Seagate，STX）：-60%\n6. 迈威尔（Marvell，MRVL）：-59%\n7. ServiceNow（NOW）：-57%\n8. 甲骨文（Oracle，ORCL）：-56%\n9. AppLovin（APP）：-54%\n10. Circle（CRCL）：-54%\n11. 超微电脑（Super Micro Computer，SMCI）：-51%\n12. 美光（Micron，MU）：-48%\n13. 戴尔（Dell，DELL）：-47%\n14. SpaceX（SPCX）：-47%\n15. 高通（Qualcomm，QCOM）：-43%\n16. 博通（Broadcom，AVGO）：-41%\n17. AMD（AMD）：-39%\n18. Robinhood（HOOD）：-38%\n19. Alphabet（GOOGL）：-32%\n20. 特斯拉（Tesla，TSLA）：-32%\n21. Palantir（PLTR）：-28%\n22. 台积电（TSMC，TSM）：-28%\n23. Meta（META）：-26%\n24. CrowdStrike（CRWD）：-26%\n25. 英伟达（NVIDIA，NVDA）：-25%",
+  "自10月6日以来，标普500指数的市值已经蒸发了4万亿美元。"
  ],
+ "images": [],
  "source_name": "The Kobeissi Letter",
  "source_url": "https://x.com/KobeissiLetter/status/2118393010543014206",
  "board": "finance",
  "tags": [
   "科技股",
   "熊市",
-  "AI概念"
+  "美股"
  ],
  "created": "2026-11-05T17:20:26Z"
 }

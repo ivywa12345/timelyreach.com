@@ -1,0 +1,22 @@
+{
+ "key": "322a45d274",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/taiwan-imposes-short-selling-limit-after-stock-market-rout",
+ "title": "台湾在挫伤AI溃败后介入平息投资者神经",
+ "summary": "台湾介入试图平息投资者的紧张情绪，此前人工智能股票的深度抛售使台湾的基准指数跌至四分之一世纪以来最糟糕的一周。",
+ "body": [
+  "台湾介入试图平息投资者的紧张情绪，此前人工智能股票的深度抛售使台湾的基准指数跌至四分之一世纪以来最糟糕的一周。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Taiwan Steps In to Calm Investor Nerves After Bruising AI Rout",
+ "lang": "en",
+ "published": "2026-11-06T10:48:28+00:00",
+ "created": "2026-11-06T12:28:48+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
