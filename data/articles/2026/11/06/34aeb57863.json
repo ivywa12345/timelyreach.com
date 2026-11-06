@@ -1,0 +1,27 @@
+{
+ "key": "34aeb57863",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nasdaq-futures-steady-after-asian-ai-rout-as-investors-brace-for-jobs-day-83415c52?mod=rss_markets_main",
+ "title": "亚洲科技股刚挨了一闷棍，纳斯达克期货今晚能挺住吗？",
+ "summary": "在亚洲科技股遭遇重挫、人工智能板块集体抛售后，纳斯达克期货暂时止跌回稳。目前市场正屏息以待周五即将公布的关键美国就业数据。",
+ "body": [
+  "各位留学生和老移民们注意啦，这几天科技股的心情就像过山车一样刺激。受亚洲科技股大跌的拖累，之前火热的人工智能（AI）板块也遭到了抛售。不过好在纳斯达克期货（Nasdaq Futures）在周五稍微缓过了一口气，收复了一些失地。",
+  "之所以现在大家神经这么紧绷，主要是因为周五迎来了重磅的美国“就业日”（Jobs Day）。华尔街日报（The Wall Street Journal）记者Joe Stonor指出，在这一份关乎美联储下一步动作的关键就业数据出炉前，投资者们都在小心翼翼地调整仓位，生怕市场再起波澜。",
+  "对于咱们在海外打拼的人来说，股市大跌加上劳动力市场的数据变动，直接关系到我们的401(k)养老金账户、科技公司的饭碗稳定，甚至是未来的贷款利率。最近几天大盘震荡剧烈，大家在投资和换汇时可得系好安全带，多留个心眼观察美联储的下一步风向。"
+ ],
+ "tags": [
+  "美股",
+  "纳斯达克",
+  "人工智能",
+  "就业数据",
+  "海外华人"
+ ],
+ "original_title": "Nasdaq Futures Rally After Asian AI Rout as Investors Brace for Jobs Day",
+ "lang": "en",
+ "published": "2026-11-06T10:06:00+00:00",
+ "created": "2026-11-06T12:48:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

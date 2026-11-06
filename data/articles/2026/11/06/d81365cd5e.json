@@ -1,0 +1,26 @@
+{
+ "key": "d81365cd5e",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/the-healthcare-systems-bad-payment-models-7801db06?mod=rss_opinion",
+ "title": "美国医疗系统怎么了？死板的付费模式正把医院和患者逼入绝境",
+ "summary": "《华尔街日报》指出，无论是僵化的收入上限，还是按服务项目收费的传统模式，都给美国医疗服务提供者和患者带来了严重伤害。",
+ "body": [
+  "看病贵、看病难一直是美国华人的痛点。《华尔街日报》最近发表了一篇评论，直指美国医疗系统的“病根”之一：现行的付费模式实在是太糟糕了。",
+  "文章指出，目前美国医疗系统主要依赖的两种模式都有重大缺陷。一方面，死板的收入上限（Rigid revenue caps）限制了医疗机构的灵活性；另一方面，按服务项目收费的传统模式（volume-driven fee-for-service frameworks）则过度鼓励增加医疗服务数量。这两种极端的方式，不仅让医院和医生叫苦不迭，最终买单的还是普通的患者。",
+  "对于在美华人来说，医疗费用直接关系到家庭钱包。无论是买商业保险还是使用平价医疗法案，底层付费机制的低效都在不断推高大家的看病成本。看清这些结构性问题，或许能帮我们在面对复杂的美国医疗账单时，多一份理解与无奈。"
+ ],
+ "tags": [
+  "美国医疗",
+  "华尔街日报",
+  "医疗保险",
+  "海外生活"
+ ],
+ "original_title": "The Healthcare System’s Bad Payment Models",
+ "lang": "en",
+ "published": "2026-11-04T19:44:00+00:00",
+ "created": "2026-11-06T12:48:51+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

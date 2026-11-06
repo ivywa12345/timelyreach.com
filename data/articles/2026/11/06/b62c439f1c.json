@@ -1,0 +1,25 @@
+{
+ "key": "b62c439f1c",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/greek-man-accused-of-spying-for-iran-in-uk-pleads-not-guilty",
+ "title": "替伊朗情报部门盯梢英国记者？这名希腊男子当庭拒罪！",
+ "summary": "一名希腊籍男子被指控在英国协助伊朗情报部门监视一名记者，他在伦敦法院出庭时否认了有关国家安全的指控。",
+ "body": [
+  "最近伦敦法院审理了一起涉及国家安全的案件。一名希腊国籍男子被指控涉嫌协助伊朗情报机构，在英国境内对一名记者进行监视。",
+  "在伦敦的法庭上，这名被告面对国家安全相关罪名的指控，当庭表示不认罪。目前该案仍在进一步审理中。"
+ ],
+ "tags": [
+  "英国新闻",
+  "间谍案",
+  "伊朗情报",
+  "伦敦法院"
+ ],
+ "original_title": "Greek Man Accused of Spying for Iran in UK Pleads Not Guilty",
+ "lang": "en",
+ "published": "2026-11-06T12:27:22+00:00",
+ "created": "2026-11-06T12:49:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

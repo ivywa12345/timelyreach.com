@@ -1,0 +1,25 @@
+{
+ "key": "73a4dc8416",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/healthcare-stocks-fall-as-market-rout-spreads-f789b5c8?mod=rss_markets_main",
+ "title": "全球股市大跌蔓延！医疗板块也撑不住了，这波寒气吹到了哪？",
+ "summary": "继本周早些时候美国市场和AI概念股遭到重挫后，全球医疗板块股票周五也全面下跌，这股抛售潮已迅速蔓延至欧洲和亚洲市场。",
+ "body": [
+  "周五，全球医疗板块股票集体下挫。在此之前，本周早些时候的抛售潮已经重创了人工智能（AI）交易和美国本土市场，而现在的恐慌情绪已经进一步扩散到了欧洲和亚洲，波及了更多行业。"
+ ],
+ "tags": [
+  "全球股市",
+  "医疗板块",
+  "美股",
+  "投资理财",
+  "海外华人"
+ ],
+ "original_title": "Healthcare Stocks Fall as Market Rout Spreads",
+ "lang": "en",
+ "published": "2026-11-06T11:54:00+00:00",
+ "created": "2026-11-06T12:48:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

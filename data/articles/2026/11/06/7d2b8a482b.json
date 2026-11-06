@@ -1,0 +1,27 @@
+{
+ "key": "7d2b8a482b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/oil-declines-on-signs-of-moves-toward-gulf-war-de-escalation",
+ "title": "中东局势要缓和？国际油价坐上“过山车”上下震荡",
+ "summary": "由于交易员正在评估伊朗局势降温及恢复中东能源供应的可能性，国际油价近期出现剧烈波动。",
+ "body": [
+  "最近几天国际油价（Oil）可以说是坐上了“过山车”，一直在涨跌之间反复横跳。根据彭博社（Bloomberg）的报道，这主要是因为市场上的一群交易员正在密切关注中东局势的外交斡旋进展。",
+  "目前，各方都在试图为这场伊朗战事（Iran war）寻找降温的办法，希望能达成某种解决方案，从而保障中东地区的能源供应能够顺利运往全球市场。此前由于局势紧张，能源供应链一直紧绷，市场也因此高度敏感。",
+  "对身在海外的我们来说，国际油价的每一次波动都直接关系到钱包。油价如果能因为局势缓和而降下来，大家去加油站加油的支出就能稍微松一口气，通胀压力也能得到一定程度的缓解。我们将持续关注后续的外交进展对油价的实际影响。"
+ ],
+ "tags": [
+  "国际油价",
+  "中东局势",
+  "伊朗",
+  "能源供应",
+  "海外生活"
+ ],
+ "original_title": "Oil Swings as Traders Assess Iran War De-Escalation Prospects",
+ "lang": "en",
+ "published": "2026-11-06T08:38:49+00:00",
+ "created": "2026-11-06T12:49:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,28 @@
+{
+ "key": "1cf6d617be",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/man-group-found-liable-by-judge-for-breathtaking-kuwaiti-bribery",
+ "title": "巨额贪腐案栽了！知名资管巨头Man Group被判赔偿1.55亿美元",
+ "summary": "英国老牌资管巨头Man Group因卷入科威特国企养老基金腐败案，被法官裁定可能需支付约1.55亿美元赔偿，消息一出公司股价应声下跌。",
+ "body": [
+  "据彭博社报道（作者：Lucca de Paoli），英国知名资产管理公司曼氏集团（Man Group Plc）最近摊上大事了。法官裁定，该公司因为卷入了一起“规模惊人”的贪腐案，可能需要吐出大约1.55亿美元的赔偿金。",
+  "这起被称为“令人咋舌的腐败”的案件，核心是科威特一家国有养老基金在数十年里被悄悄转移了高达10亿美元的资金。曼氏集团（Man Group）在其中扮演了不光彩的角色，这也直接导致了该公司股价的下跌。",
+  "对于在海外打拼的华人投资者来说，这起跨国大案再次敲响了警钟：大公司在合规和反腐败方面翻船的代价极其惨重，这也直接关系到投资者的钱袋子安全。我们在选择投资标的时，企业的合规风控绝对是需要重点考察的关键指标。"
+ ],
+ "tags": [
+  "曼氏集团",
+  "Man Group",
+  "科威特",
+  "贪腐案",
+  "海外投资",
+  "财经新闻"
+ ],
+ "original_title": "Man Group Found Liable by Judge for ‘Breathtaking’ Kuwaiti Bribery",
+ "lang": "en",
+ "published": "2026-11-05T18:50:10+00:00",
+ "created": "2026-11-06T12:49:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

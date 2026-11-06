@@ -1,0 +1,27 @@
+{
+ "key": "1c3c164f93",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/crowded-hedge-fund-trades-are-unwinding-fast-after-ugly-october",
+ "title": "10月太惨！华尔街对冲基金“抱团股”遭遇大溃败",
+ "summary": "根据彭博社报道，今年10月华尔街对冲基金的日子非常难过，先是AI概念股遭遇重挫，接着又碰上宏观经济震荡和信用危机，导致大家蜂拥挤在一起的投资交易瞬间崩盘。",
+ "body": [
+  "刚过去的10月对华尔街的基金经理们来说简直是一场地狱级考验。根据彭博社（Bloomberg）的报道，这波崩盘来势汹汹，先是那些靠人工智能（AI）赚得盆满钵满的“神童”们威风扫地，紧接着宏观经济的坏消息接踵而至，最后连信用市场也拉响了警报。",
+  "长期以来，不少对冲基金喜欢扎堆投资相同的热门板块。然而一旦市场风向突变，这种“拥挤交易”（Crowded Trades）就会变成踩踏现场。正如纳沙特·库马尔（Nishant Kumar）、丽莎·特特利（Liza Tetley）和海玛·帕尔马（Hema Parmar）这几位记者所分析的，当恐慌情绪蔓延时，大家争相夺路而逃，导致原本盈利的策略迅速回撤，行情说变就变。",
+  "对于咱们普通人尤其是海外华人来说，华尔街大鳄们遭遇滑铁卢，往往也意味着美股大盘波动的加剧。如果你把辛苦钱投在了各类基金、退休账户（401k）或者高科技股票上，最近的市场震荡可得系好安全带，密切关注自己的投资组合风险了。"
+ ],
+ "tags": [
+  "华尔街",
+  "对冲基金",
+  "美股",
+  "投资理财",
+  "财经新闻"
+ ],
+ "original_title": "Crowded Hedge Fund Trades Unwind Fast After Ugly October",
+ "lang": "en",
+ "published": "2026-11-06T00:41:25+00:00",
+ "created": "2026-11-06T12:49:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

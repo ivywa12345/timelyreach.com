@@ -1,0 +1,27 @@
+{
+ "key": "644d787595",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-06/oil-s-plunge-below-100-doesn-t-mean-markets-are-out-of-jeopardy",
+ "title": "油价跌破100美元，危机真的解除了吗？",
+ "summary": "尽管国际油价近期跌破了100美元大关，但交易员们撤离冲突升级的押注并不意味着市场已经彻底安全，地缘政治局势依然扑朔迷离。",
+ "body": [
+  "近期，国际原油市场迎来了一波明显的回调，油价跌破了100美元的重要关口。根据彭博社（Bloomberg）记者亚历克斯·朗利（Alex Longley）的报道，这主要是因为交易员们纷纷撤回了之前对地缘冲突进一步升级的押注。",
+  "不过，市场分析指出，虽然恐慌情绪有所缓和，但这并不代表真正的和平已经到来。目前的市场局势依然充满了不确定性，潜在的风险随时可能卷土重来。",
+  "对于海外华人来说，国际油价的波动直接关系到日常生活的方方面面。虽然油价下跌能暂时减轻大家去加油站的钱包负担，但动荡的能源市场也意味着通胀压力并未完全消失，大家在日常开支和投资规划上仍需保持谨慎。"
+ ],
+ "tags": [
+  "油价",
+  "能源市场",
+  "通货膨胀",
+  "海外生活",
+  "财经新闻"
+ ],
+ "original_title": "Oil’s Plunge Below $100 Doesn’t Mean Markets Are Out of Jeopardy",
+ "lang": "en",
+ "published": "2026-11-06T12:33:16+00:00",
+ "created": "2026-11-06T12:49:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
