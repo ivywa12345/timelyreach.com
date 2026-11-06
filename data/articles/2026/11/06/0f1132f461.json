@@ -1,0 +1,27 @@
+{
+ "key": "0f1132f461",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/october-jobs-report-stock-market-11-06-2026?mod=rss_markets_main",
+ "title": "纳斯达克刚熬过惨烈一周！AI概念股这回能满血复活吗？",
+ "summary": "经历了一周的暴跌后，美股科技期货在周五盘前出现回暖迹象，AI相关股票有望迎来反弹，不过道指和亚太股市表现仍然低迷。",
+ "body": [
+  "各位老铁，美股刚经历了一个让人心惊肉跳的星期。纳斯达克指数在上周被打得鼻青脸肿，好在周五总算喘了口气——科技股期货开始反弹，大家紧盯的AI概念股也准备在这一波调整后卷土重来。",
+  "不过盘面也是冰火两重天。虽然科技期货在复苏，但道琼斯工业平均指数（Dow）似乎还要继续跌。不仅如此，亚太地区的股市也跟着一起“绿”了一片，可以说是全球股市都在经历动荡。",
+  "对咱们关注海外资产和美股的华人朋友来说，这阵子大盘震荡剧烈，科技股更是上蹿下跳。钱包跟着心跳加速的同时，也提醒大家在配置资产和操作时，千万得注意风险控制，别被一时的涨跌带乱了节奏。"
+ ],
+ "tags": [
+  "美股",
+  "AI概念股",
+  "纳斯达克",
+  "华尔街",
+  "海外投资"
+ ],
+ "original_title": "Stock Market Today: AI Stocks Set to Stage Rebound After Brutal Week for Nasdaq",
+ "lang": "en",
+ "published": "2026-11-06T07:48:13+00:00",
+ "created": "2026-11-06T10:52:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

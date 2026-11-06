@@ -1,0 +1,22 @@
+{
+ "key": "d5dbd0e5d3",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/gold-set-for-biggest-weekly-gain-since-august-after-us-midterms",
+ "title": "金价下跌缓解，因为海湾战争解决方案的希望导致石油下滑",
+ "summary": "由于有关美国参与谈判解决中东冲突的努力的报道，石油价格下跌，黄金的下跌有所缓解。",
+ "body": [
+  "由于有关美国参与谈判解决中东冲突的努力的报道，石油价格下跌，黄金的下跌有所缓解。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Gold Drop Eases as Hopes of Gulf War Resolution Send Oil Sliding",
+ "lang": "en",
+ "published": "2026-11-06T00:09:55+00:00",
+ "created": "2026-11-06T10:54:46+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

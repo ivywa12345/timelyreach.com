@@ -1,0 +1,27 @@
+{
+ "key": "4cb074f43f",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/hedge-funds-dump-positions-and-cut-staff-as-selloff-deepens-7eb14493?mod=rss_markets_main",
+ "title": "美股跌惨了！对冲基金上个月疯狂甩卖股票、大裁员，创十年多来最高纪录",
+ "summary": "上个月美股抛售潮加剧，以精选个股为主的对冲基金以十多年来最快的速度清仓并削减员工。",
+ "body": [
+  "美股这波跌势实在是太猛了，连华尔街的专业操盘手都扛不住了！根据《华尔街日报》报道，上个月股市抛售潮不断加深，专门靠精选个股赚钱的对冲基金（Hedge Funds）以十多年来从未见过的高速率疯狂抛售股票、削减仓位，同时还在大举裁员。",
+  "对于这次大动作，市场分析指出，随着股市波动加剧和行情恶化，这些依靠精准眼光挑选股票的基金经理们也不得不通过降杠杆、砍仓位来控制风险，甚至通过裁员来度过难关。",
+  "对身处海外的我们来说，华尔街资本大佬都在急着降仓位、保现金，这也提醒咱们普通投资者在目前的市场环境下，更得捂紧自己的钱包，投资时千万别盲目冲动，做好风险管理才是王道。"
+ ],
+ "tags": [
+  "华尔街",
+  "对冲基金",
+  "美股暴跌",
+  "海外理财",
+  "裁员"
+ ],
+ "original_title": "Hedge Funds Dump Positions and Cut Staff as Selloff Deepens",
+ "lang": "en",
+ "published": "2026-11-06T02:10:00+00:00",
+ "created": "2026-11-06T10:52:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

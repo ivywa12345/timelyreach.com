@@ -1,0 +1,27 @@
+{
+ "key": "f7afabf8ff",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/the-argument-for-buying-treasury-bonds-is-still-strong-be338920?mod=rss_markets_main",
+ "title": "股市被AI带崩？华尔街大佬：现在买美国国债，其实香得很！",
+ "summary": "由于市场对AI发展的担忧导致股市震荡，分析指出美国国债目前依然提供了非常具有吸引力的收益率，是避险的好选择。",
+ "body": [
+  "最近科技股因为大伙儿对AI（人工智能）的各种担忧而上下震荡，股市不太安稳。不过，华尔街分析师Telis Demos指出，从目前的情况来看，买美国国债（Treasury Bonds）的理由依然非常充分。",
+  "简单来说，就是现在股市风险大、变数多，而国债能提供相当不错的收益率。对于手里有闲钱、想要求稳的投资者来说，国债的吸引力依然很大。",
+  "对咱们海外华人来说，如果担心股市波动太大伤到钱包，或者想给资产做个稳妥的配置，不妨多关注一下目前的国债收益，或许是平衡风险的一个好路子。"
+ ],
+ "tags": [
+  "美国国债",
+  "股市震荡",
+  "投资理财",
+  "AI概念",
+  "海外华人理财"
+ ],
+ "original_title": "The Argument for Buying Treasury Bonds Is Still Strong",
+ "lang": "en",
+ "published": "2026-11-06T10:30:00+00:00",
+ "created": "2026-11-06T10:52:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

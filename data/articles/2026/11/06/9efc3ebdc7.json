@@ -1,0 +1,26 @@
+{
+ "key": "9efc3ebdc7",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/gulf-airports-built-to-connect-the-world-are-now-in-the-crosshairs-9213d66a?mod=rss_worldnews",
+ "title": "中东土豪机场刚想连通全球，怎么就成了导弹的活靶子？",
+ "summary": "根据《华尔街日报》报道，中东地区那些闻名遐迩的超级航空枢纽虽然距离全球大部分人口只有几小时航程，但这也意味着它们距离伊朗的导弹更近，目前正处于风口浪尖。",
+ "body": [
+  "说到中东的航空枢纽，大家脑子里马上就能浮现出那些金碧辉煌、设施顶级的世界级机场。这些地方本来是靠着得天独厚的地理位置，想把全世界的旅客都连接起来的。",
+  "不过，根据《华尔街日报》记者斯蒂芬·卡林（Stephen Kalin）的报道，这些让中东土豪们引以为傲的航空枢纽现在却遇到了大麻烦。它们虽然离全球大部分人口只有几个小时的飞行距离，但尴尬的是，它们距离伊朗的导弹甚至还要更近。",
+  "对于经常需要跨国飞行的海外华人来说，中东转机一直是热门选择。这一局势的发展不仅牵动着当地航空业的神经，也给未来经由中东的国际出行增添了不少安全隐患。"
+ ],
+ "tags": [
+  "中东局势",
+  "航空枢纽",
+  "国际旅行",
+  "安全隐患"
+ ],
+ "original_title": "Gulf Airports Built to Connect the World Are Now in the Crosshairs",
+ "lang": "en",
+ "published": "2026-11-06T03:00:00+00:00",
+ "created": "2026-11-06T10:51:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

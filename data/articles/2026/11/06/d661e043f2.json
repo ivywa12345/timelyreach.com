@@ -1,0 +1,25 @@
+{
+ "key": "d661e043f2",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/israels-most-important-alliance-is-confronting-its-biggest-test-in-decades-a7c019ae?mod=rss_worldnews",
+ "title": "美国大选变天，以色列最硬靠山要迎来几十年最大考验？",
+ "summary": "民主党近期的胜利以及白宫释放的微妙信号，正让以色列与美国这个最关键盟友的关系面临数十年来最大的一次变局。",
+ "body": [
+  "根据《华尔街日报》报道，随着美国民主党近期的选举胜利以及白宫态度信号的不断转变，以色列数十年来最核心的外交和军事同盟关系正遭遇前所未有的重大考验。",
+  "长期以来，美以同盟被视为中东局势的定海神针，但近期的政治版图变化和政策风向调整，让外界开始担忧两国关系的未来走向是否会发生实质性改变。"
+ ],
+ "tags": [
+  "美国大选",
+  "以色列",
+  "国际关系",
+  "白宫"
+ ],
+ "original_title": "Israel’s Most Important Alliance Is Confronting Its Biggest Test in Decades",
+ "lang": "en",
+ "published": "2026-11-06T03:00:00+00:00",
+ "created": "2026-11-06T10:52:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
