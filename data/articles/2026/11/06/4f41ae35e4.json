@@ -1,0 +1,27 @@
+{
+ "key": "4f41ae35e4",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/argentina-bonds-slide-toward-distress-as-vote-fears-come-early",
+ "title": "阿根廷国债创一年多来最惨一周！大选焦虑提前引爆，华尔街慌了？",
+ "summary": "受全球避险情绪升温和对明年大选的担忧夹击，阿根廷主权债券价格正走向一年多来表现最糟糕的一周。",
+ "body": [
+  "如果你有关心拉美市场，最近可能得捏把汗了。根据彭博社（Bloomberg）记者David Feliba的报道，阿根廷的全球债券（global bonds）目前正遭遇一年多来最惨淡的一周，价格一路下滑，直逼“陷入困境（distress）”的区间。",
+  "这次崩盘背后的原因主要有两个：一方面，全球资金正在集体从高风险资产中撤离；另一方面，华尔街和投资者们对阿根廷即将在明年迎来的总统大选焦虑感提前爆发，市场信心明显不足。",
+  "对于远在海外的华人投资者来说，这类新兴市场的剧烈震荡再次敲响了警钟：在全球经济环境不明朗、避险情绪高涨的时候，高风险资产的波动往往极其剧烈，配置时需要格外注意风险控制，捂紧自己的钱包。"
+ ],
+ "tags": [
+  "阿根廷",
+  "国债",
+  "金融市场",
+  "投资理财",
+  "大选"
+ ],
+ "original_title": "Argentina Bonds Slide Toward Distress as Vote Fears Come Early",
+ "lang": "en",
+ "published": "2026-11-06T17:27:02+00:00",
+ "created": "2026-11-06T17:57:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

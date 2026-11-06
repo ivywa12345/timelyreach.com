@@ -1,0 +1,26 @@
+{
+ "key": "804e2a2f68",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/uae-backed-colombian-mercenaries-fighting-in-sudan-un-finds",
+ "title": "联合国重磅报告：阿联酋被指资助哥伦比亚雇佣兵，赴苏丹参战！",
+ "summary": "联合国最新调查发现，阿联酋协助资助和训练了哥伦比亚雇佣兵，这些雇佣兵前往苏丹参与了被指控犯有战争罪和种族灭绝罪的苏丹准军事力量的战斗。",
+ "body": [
+  "根据彭博社（Bloomberg）报道，联合国的一份最新报告指出，阿拉伯联合酋长国（UAE）在背后出力，不仅资助还参与训练了来自哥伦比亚的雇佣兵。",
+  "这些哥伦比亚雇佣兵随后加入了苏丹的一支准军事力量，而该武装目前正面临战争罪和种族灭绝罪的严重指控。这让外界对中东地区冲突背后的国际介入有了更多的关注。"
+ ],
+ "tags": [
+  "联合国",
+  "阿联酋",
+  "哥伦比亚雇佣兵",
+  "苏丹内战",
+  "国际新闻"
+ ],
+ "original_title": "UAE Backed Colombian Mercenaries Fighting in Sudan, UN Finds",
+ "lang": "en",
+ "published": "2026-11-06T17:07:38+00:00",
+ "created": "2026-11-06T17:58:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

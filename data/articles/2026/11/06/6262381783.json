@@ -1,0 +1,26 @@
+{
+ "key": "6262381783",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-06/today-s-a-good-day-to-think-about-the-mechanics-of-markets",
+ "title": "今天是个好日子，来盘一盘市场是怎么运转的？",
+ "summary": "彭博社专栏作家Joe Weisenthal和Tracy Alloway发文，探讨了金融市场中复杂的“反馈循环”机制。",
+ "body": [
+  "如果你最近天天盯着股市和各种资产价格心惊肉跳，不妨停下来思考一个问题：市场这套复杂的机器到底是怎么转起来的？",
+  "知名财经媒体彭博社（Bloomberg）的专栏作家乔·维森塔尔（Joe Weisenthal）和特雷西·阿洛韦（Tracy Alloway）近日撰文，专门探讨了市场中无处不在的“反馈循环（The feedback loop）”现象。简单来说，就是市场情绪、政策和价格之间会互相影响、层层放大，最终塑造出我们看到的行情。",
+  "对于咱们海外华人来说，无论是投资理财、买房贷款，还是关注自身的钱包和工作，理解这种市场传导机制，能帮我们在风云变幻的经济环境中保持冷静，看清背后的门道。"
+ ],
+ "tags": [
+  "财经",
+  "市场机制",
+  "彭博社",
+  "投资理财"
+ ],
+ "original_title": "Today’s a Good Day to Think About the Mechanics of Markets",
+ "lang": "en",
+ "published": "2026-11-06T16:21:48+00:00",
+ "created": "2026-11-06T17:58:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

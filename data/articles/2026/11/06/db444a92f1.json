@@ -1,0 +1,26 @@
+{
+ "key": "db444a92f1",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/classical-education-matters-9aa4c1f5?mod=rss_opinion",
+ "title": "为什么越来越多海外家长，开始把孩子送去读这类“冷门”大学？",
+ "summary": "一位《华尔街日报》读者发文点赞拉尔斯顿学院和希尔斯代尔学院等高校，认为这些学校坚持推广西方文明经典教育的做法十分重要。",
+ "body": [
+  "最近，《华尔街日报》(The Wall Street Journal)刊登了一位读者的来信，引发了不少关注。这位读者公开点赞了像拉尔斯顿学院(Ralston College)和希尔斯代尔学院(Hillsdale College)这样的一批高校，因为它们始终坚持推广西方文明的经典研究。",
+  "在当今高等教育日益偏向实用主义和职业技能培训的背景下，这些坚持传统“博雅教育”和古典人文课程的学校显得有些与众不同。支持者认为，深入研读西方经典对培养学生的独立思考能力至关重要。",
+  "对于咱们海外华人来说，孩子的教育一直是大家最关心的话题。无论是追求热门的STEM（科学、技术、工程、数学）专业，还是重视人文底蕴的古典教育，如何帮下一代在未来的竞争中站稳脚跟，依然是每个家庭需要深思的课题。"
+ ],
+ "tags": [
+  "古典教育",
+  "美国大学",
+  "华人家长",
+  "华尔街日报"
+ ],
+ "original_title": "Classical Education Matters",
+ "lang": "en",
+ "published": "2026-11-04T19:40:00+00:00",
+ "created": "2026-11-06T17:57:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

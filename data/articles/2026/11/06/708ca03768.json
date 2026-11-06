@@ -1,0 +1,25 @@
+{
+ "key": "708ca03768",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/trump-foreign-policy-how-he-can-act-abroad-after-midterm-losses",
+ "title": "在美国国会丢掉控制权后，总统还能怎么搞外交？",
+ "summary": "彭博社分析指出，美国总统在任期后期若在国会失势，往往会把重心转向外交领域，因为他们在战争和外交上拥有广泛权力，国会很难进行限制。",
+ "body": [
+  "美国总统在任期快要结束、或者国会被反对党全面掌控的时候，通常会把更多精力放在外交政策上。这主要是因为他们在战争和外交事务上拥有很大的自主权，国会在这方面的约束手段其实比较有限。",
+  "从历史经验来看，这种权力分配让白宫在面对国内政治阻力时，依然能够在国际舞台上推行自己的议程。对于关注国际局势和中美关系等议题的海外华人来说，这意味着美国总统在未来的对外政策上可能会更加特立独行，绕过国内立法机构的扯皮。"
+ ],
+ "tags": [
+  "美国政治",
+  "外交政策",
+  "白宫",
+  "国会"
+ ],
+ "original_title": "Trump Foreign Policy: How He Can Act Abroad After Midterm Losses",
+ "lang": "en",
+ "published": "2026-11-06T17:27:56+00:00",
+ "created": "2026-11-06T17:58:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

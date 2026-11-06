@@ -1,0 +1,28 @@
+{
+ "key": "40482bf740",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/news-releases/uscis-screening-and-vetting-efforts-lead-to-18-month-sentencing-of-illegal-alien-in-fraud-case",
+ "title": "提交200多份假申请捞钱！菲律宾籍黑户在美被判1年半",
+ "summary": "美国移民局（USCIS）的严格审查揭发了一起移民欺诈案，56岁的菲律宾非法移民马丁（Venerando Aquino Martin）因签证欺诈被判处18个月监禁，并被勒令支付200美元评估费及接受一年监督释放。",
+ "body": [
+  "美国关岛和北马里亚纳群岛联邦地区检察官办公室近日宣布了一起移民欺诈案的判决结果。来自菲律宾的56岁非法移民马丁（Venerando Aquino Martin），因大肆操办虚假移民申请，被法院判处18个月有期徒刑。",
+  "根据官方通报，在2023年9月至2025年4月期间，马丁提交了大约242份欺诈性申请，谎称申请人符合工卡（工作许可）资格。他利用移民法中针对1972年1月1日前入境人员的“登记（Registry）”条款，向渴望合法工作的同胞收取数千美元手续费。事实上，几乎所有申请人都不符合资格，甚至有人在1972年之后才出生。在移民局识破前，已经有66人拿到工卡并在北马里亚纳群岛（CNMI）找到了工作。",
+  "这起案件之所以能被破获，多亏了关岛的一位移民局官员敏锐地发现了案件中的异常模式。美国移民局（USCIS）的欺诈检测和国家安全局随即介入调查，与国土安全调查局塞班分局（Homeland Security Investigations Saipan）合作查清了真相。目前，移民局已经吊销了所有66份非法工卡，并启动了对相关人员的驱逐程序。",
+  "这事儿也给海外华人提了个醒：现在美国移民局对各类申请的背景审查越来越严，千万不要轻信那些打包票能走偏门、办“黑卡”的中介。一旦被查出移民欺诈，不仅钱打了水漂，面临牢狱之灾，最终还得被遣返，得不偿失。"
+ ],
+ "tags": [
+  "美国移民局",
+  "移民欺诈",
+  "非法移民",
+  "签证造假",
+  "海外治安"
+ ],
+ "original_title": "USCIS Screening and Vetting Efforts Lead to 18-month Sentencing of Illegal Alien in Fraud Case",
+ "lang": "en",
+ "published": "2026-06-01T19:30:07+00:00",
+ "created": "2026-11-06T17:59:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

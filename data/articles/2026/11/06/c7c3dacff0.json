@@ -1,0 +1,27 @@
+{
+ "key": "c7c3dacff0",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/anatomy-of-a-selloff-sudden-chain-reaction-rattles-wall-street",
+ "title": "美中期选举后华尔街惊现“闪崩”：短短24小时内发生了什么？",
+ "summary": "根据彭博社报道，华尔街对美国中期选举结果的反应在短短24小时内急剧恶化，并引发了一场速度惊人的抛售连锁反应。",
+ "body": [
+  "华尔街对美国中期选举（US midterm elections）的反应最近经历了一次戏剧性的转变。最初市场还算平静，但在大约24小时内，情绪迅速转向负面。",
+  "一旦悲观情绪蔓延开来，便彻底失控。市场随即触发了一连串的抛售潮，其下跌的速度和连锁反应远超寻常，让不少投资大户措手不及。",
+  "对于我们普通海外华人来说，华尔街的这种剧烈震荡往往会直接传导到退休账户（401k）和整体经济环境中。近期金融市场波动加剧，大家在做资产配置和投资决策时，还是得系好安全带，多留一个心眼。"
+ ],
+ "tags": [
+  "华尔街",
+  "美股",
+  "中期选举",
+  "金融市场",
+  "海外华人"
+ ],
+ "original_title": "Anatomy of a Selloff: Sudden Chain Reaction Rattles Wall Street",
+ "lang": "en",
+ "published": "2026-11-06T16:10:57+00:00",
+ "created": "2026-11-06T17:57:51+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

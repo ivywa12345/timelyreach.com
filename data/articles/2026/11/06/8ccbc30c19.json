@@ -1,0 +1,27 @@
+{
+ "key": "8ccbc30c19",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/us-treasuries-stumble-as-strong-labor-market-lifts-fed-hike-bets",
+ "title": "美国10月就业数据太强劲，美联储下月加息稳了？美债应声下跌",
+ "summary": "受强劲的10月就业数据和科技股反弹提振，美债价格出现下跌，市场对美联储下月加息的预期进一步升温。",
+ "body": [
+  "彭博社（Bloomberg）记者迈克尔·麦肯齐（Michael MacKenzie）报道，由于美国刚刚公布的10月就业数据表现强劲，加上科技股迎来反弹，直接坚定了市场对美联储（Federal Reserve）在下个月继续加息的押注，这也导致美国国债（Treasuries）价格随之下跌。",
+  "这次公布的就业数据超出了不少人的预期，劳动力市场的持续火热让通货膨胀的隐忧再度浮现。与此同时，股市中的科技板块也借势回暖，多重因素叠加，让投资者更加确信美联储会继续扣动加息的扳机。",
+  "对于咱们在海外的华人朋友来说，美联储如果继续加息，直接关系到大家的房贷利率、车贷成本以及手头美元存款的收益。短期内借贷成本恐怕很难降下来，大家在做大笔财务规划和买房置业时，还得把这个因素考虑进去。"
+ ],
+ "tags": [
+  "美联储",
+  "加息",
+  "美债",
+  "就业数据",
+  "海外财经"
+ ],
+ "original_title": "Treasuries Fall as Strong Jobs Data Fortifies Tech Rebound",
+ "lang": "en",
+ "published": "2026-11-06T13:47:33+00:00",
+ "created": "2026-11-06T17:58:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

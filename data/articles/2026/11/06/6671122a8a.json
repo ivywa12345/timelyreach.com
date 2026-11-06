@@ -1,0 +1,27 @@
+{
+ "key": "6671122a8a",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/markets/haircut-no-2-anthropic-ipo-talk-slides-12-trillion-ai-rout-crushes-odds-november-listing",
+ "title": "AI泡沫破裂？Anthropic估值遭「腰斩」传闻跌至1.2万亿美元，11月上市悬了！",
+ "summary": "受美股AI板块大跌及纳斯达克惨烈崩盘影响，即将进行超级IPO的Anthropic公司估值遭遇大幅缩水。潜在投资者讨论的估值已从早前的2万亿美元巅峰一路下滑至1.2万亿美元至1.3万亿美元区间，原定于11月的上市计划面临延期与不确定性。",
+ "body": [
+  "近期准备冲刺美股的AI巨头Anthropic遭遇了估值「连环砍」。据彭博社报道，继上周四纳斯达克100指数暴跌6.4%之后，潜在投资者正在将Anthropic的估值预期压低至1.2万亿美元。而在10月初时，市场给出的公允价值还高达2万亿美元，短短几周内高点回撤幅度已达到40%。",
+  "尽管Anthropic的业务增长依然迅猛，华尔街日报指出其年化营收运行率（ARR）刚刚突破80亿美元，但宏观环境和市场情绪已经彻底改变。除了美股整体遭遇大跌、单日市值蒸发创纪录外，市场还面临着数据中心审批风险、巨额资本支出及回报不确定性等多重压力。汇丰银行（HSBC）分析师Max Kettner甚至认为，1万亿美元左右可能才是更舒适的定价水平，以避免上市后出现暴涨随即暴跌的尴尬局面。",
+  "受估值争议和市场动荡影响，预测市场Polymarket的数据显示，Anthropic在11月底前完成上市的概率已经从之前的86%暴跌至54%左右，甚至2026年能否顺利上市都打上了问号。目前，高盛等机构交易台也在激烈讨论，眼下的科技股大跌究竟是1998年式的流动性危机买入良机，还是2000年互联网泡沫破裂的重演。这场号称史上规模最大的IPO，正成为检验整个AI行业估值泡沫的关键试金石。"
+ ],
+ "tags": [
+  "Anthropic",
+  "美股IPO",
+  "人工智能",
+  "纳斯达克",
+  "华尔街"
+ ],
+ "original_title": "Haircut No. 2: Anthropic IPO Talk Slides To $1.2 Trillion As AI Rout Crushes Odds Of A November Listing",
+ "lang": "en",
+ "published": "2026-11-06T15:57:53+00:00",
+ "created": "2026-11-06T17:58:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
