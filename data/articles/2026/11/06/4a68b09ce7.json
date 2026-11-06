@@ -1,0 +1,27 @@
+{
+ "key": "4a68b09ce7",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+ "title": "AI烧钱无底洞！数据中心靠借债度日，今年债券投资者被坑惨了",
+ "summary": "根据MarketWatch报道，今年人工智能（AI）相关的数据中心建设引发了大规模债务发行，导致投资者投资组合不堪重负，债券表现令人失望。而随着民主党继续控制国会，这种庞大的资金需求恐将进一步加剧。",
+ "body": [
+  "最近炒AI概念不仅股票火热，背后的基建更是个彻头彻尾的“吞金兽”。据财经媒体MarketWatch报道，今年为了维持数据中心（Data centers）的运转和建设，相关的AI债务发行规模直接把投资者的投资组合给撑爆了，而且从实际收益来看，表现相当令人失望。",
+  "别看科技巨头们在AI领域风光无限，但实际上这些数据中心全靠借高额债务在撑着。作者Joy Wiltermuth指出，这种庞大的资金需求在今年给债券市场带来了不小的麻烦，而且从目前的政治格局来看——随着民主党继续控制国会（Democrats in control of Congress），未来这种资金缺口不仅不会缩小，反而只会越来越严重。",
+  "对于海外华人来说，科技行业的狂飙突进往往和我们的钱包、401(k)退休账户以及科技股投资息息相关。当整个AI基建产业高度依赖借贷度日时，债券市场的波动随时可能传导到更广泛的金融市场中，值得投资者们多留一个心眼。"
+ ],
+ "tags": [
+  "人工智能",
+  "数据中心",
+  "债券市场",
+  "美股投资",
+  "科技财经"
+ ],
+ "original_title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+ "lang": "en",
+ "published": "2026-11-06T21:37:00+00:00",
+ "created": "2026-11-06T23:47:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

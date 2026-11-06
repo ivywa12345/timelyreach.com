@@ -1,0 +1,27 @@
+{
+ "key": "480f616e49",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/tech-stocks-recover-some-losses-f494cd13?mod=rss_markets_main",
+ "title": "科技股大反弹？Anthropic要放弃上市，Cybertruck彻底凉凉！",
+ "summary": "华尔街日报最新消息，经历此前下跌的科技股终于收复了一些失地。与此同时，大模型独角兽Anthropic传出可能缩减IPO规模的消息，特斯拉的Cybertruck也迎来了它的终局。",
+ "body": [
+  "各位海外华人朋友，今天的华尔街财经圈可以说是热闹非凡。之前一直跌跌不休的科技股总算扬眉吐气了一把，在最新交易日里收复了一些失地，让大家的投资账户稍微缓了口气。",
+  "不过，市场风向变得太快，几家欢喜几家愁。根据华尔街日报的消息，热门AI独角兽公司Anthropic可能要缩减其首次公开募股（IPO）的规模。与此同时，备受争议的特斯拉（Tesla）Cybertruck电动皮卡也正式迎来了它的终局，宣告走到了历史的尽头。",
+  "对于咱们海外华人来说，科技股的震荡直接关乎咱们的投资理财和401(k)退休账户。AI领域的资本动向和新能源车的最新变局，也折射出当下美国经济和科技巨头们正面临新的调整。接下来的市场行情还得盯紧点，保护好自己的钱包最重要。"
+ ],
+ "tags": [
+  "科技股",
+  "Anthropic",
+  "Cybertruck",
+  "华尔街",
+  "海外理财"
+ ],
+ "original_title": "Tech Stocks Recover Some Losses",
+ "lang": "en",
+ "published": "2026-11-06T21:24:00+00:00",
+ "created": "2026-11-06T23:44:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

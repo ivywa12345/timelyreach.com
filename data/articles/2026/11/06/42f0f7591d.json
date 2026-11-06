@@ -1,0 +1,27 @@
+{
+ "key": "42f0f7591d",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/politics/stephen-miller-is-trumps-new-chief-of-staff-e1984f25?mod=rss_markets_main",
+ "title": "重磅！斯蒂芬·米勒出任特朗普新幕僚长，特斯拉居然要砍掉Cybertruck？",
+ "summary": "华尔街日报最新消息，特朗普已任命斯蒂芬·米勒（Stephen Miller）为新任白宫幕僚长。与此同时，近期大跌的纳斯达克AI概念股迎来反弹，而电动车巨头特斯拉（Tesla）则传出将取消Cybertruck车型的消息。",
+ "body": [
+  "据《华尔街日报》报道，特朗普近日做出重大人事调整，正式任命斯蒂芬·米勒（Stephen Miller）担任新一届白宫幕僚长（Chief of Staff）。这一核心团队的组建，备受各界关注。",
+  "在市场消息方面，刚刚经历了一周惨淡下跌的纳斯达克（Nasdaq）人工智能（AI）板块股票终于迎来了一波反弹，给动荡的科技股市场注入了一剂强心针。",
+  "不过，另一家汽车巨头特斯拉（Tesla）却有了大动作——根据报道，该公司将放弃并取消其备受争议的Cybertruck车型计划。"
+ ],
+ "tags": [
+  "特朗普",
+  "白宫人事",
+  "特斯拉",
+  "AI股票",
+  "华尔街日报"
+ ],
+ "original_title": "Stephen Miller Is Trump’s New Chief of Staff",
+ "lang": "en",
+ "published": "2026-11-06T22:36:00+00:00",
+ "created": "2026-11-06T23:44:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

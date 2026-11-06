@@ -1,0 +1,26 @@
+{
+ "key": "2483c783f7",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2?mod=rss_Technology",
+ "title": "量子计算机还没来破密码，AI怎么就已经冲在前面了？",
+ "summary": "根据《华尔街日报》专栏作家Christopher Mims的报道，虽然新型网络安全技术正在部署以抵御未来的量子计算机破解，但随着人工智能在数学领域的突破，这一安全危机可能会比预期更快到来。",
+ "body": [
+  "最近科技圈一直在防备一件事：未来的量子计算机可能会彻底破解现有的网络加密。为了应对这个威胁，业界正在紧锣密鼓地推出全新的网络安全防护措施。",
+  "不过，根据《华尔街日报》的报道，这个安全大考可能要提前了。因为人工智能在数学运算上取得了重大突破，AI自身的运算能力可能比量子计算机更快对现有的加密系统造成威胁。",
+  "对于我们海外华人来说，网络安全的升级直接关系到大家的网银安全、个人隐私以及日常使用的各种线上服务。虽然防御技术在更新，但AI的发展速度显然超出了许多人的预期，未来的网络安全环境可能会变得更加复杂。"
+ ],
+ "tags": [
+  "量子计算",
+  "人工智能",
+  "网络安全",
+  "科技前沿"
+ ],
+ "original_title": "Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It.",
+ "lang": "en",
+ "published": "2026-11-06T21:16:00+00:00",
+ "created": "2026-11-06T23:44:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

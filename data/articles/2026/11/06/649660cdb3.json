@@ -1,0 +1,26 @@
+{
+ "key": "649660cdb3",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/israels-economy-defied-three-years-of-war-now-the-bill-is-coming-due-49d171e1?mod=rss_worldnews",
+ "title": "扛了3年战争，以色列经济这回真要撑不住了？",
+ "summary": "以色列经济在经历三年战争后正面临严峻考验，巨额军费开支与可能减少的外部援助让下一届政府陷入两难。",
+ "body": [
+  "据《华尔街日报》（Wall Street Journal）作者Georgi Kantchev报道，以色列经济在经历了三年的战乱后，终于开始尝到恶果，沉重的财务账单即将送到。",
+  "报道指出，以色列新一届政府将面临一个极其艰难的平衡：一方面要维持膨胀的军事预算，另一方面又要刺激经济持续增长。雪上加霜的是，美国总统特朗普（Donald Trump）还威胁要撤回部分援助，这让以色列未来的财政状况更加捉襟见肘。"
+ ],
+ "tags": [
+  "以色列经济",
+  "战争代价",
+  "中东局势",
+  "财政预算",
+  "美国援助"
+ ],
+ "original_title": "Israel’s Economy Defied Three Years of War. Now the Bill Is Coming Due.",
+ "lang": "en",
+ "published": "2026-11-06T18:15:00+00:00",
+ "created": "2026-11-06T23:44:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

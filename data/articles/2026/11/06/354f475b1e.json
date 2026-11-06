@@ -1,0 +1,27 @@
+{
+ "key": "354f475b1e",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/hedge-funds-fled-bullish-oil-bets-ahead-of-election-day-drop",
+ "title": "大选前夕对冲基金疯狂抛售原油！这波操作你看懂了吗？",
+ "summary": "在大选日前夕，对冲基金大幅削减看涨原油期货的押注，创下6月以来最大降幅，成功避开了随后的油价下跌。",
+ "body": [
+  "根据彭博社（Bloomberg）记者Lorelei Smillie和Mia Gindis的报道，在大选日到来之前，华尔街的对冲基金（Hedge funds）就已经嗅到了风向不对，开始大规模削减看涨原油的头寸。这是自今年6月以来最大的单周降幅。",
+  "当时，美国和伊朗罕见地释放了缓和紧张局势的信号，加上随后的国会选举结果出炉，直接引发了原油市场的抛售潮。提前跑路的对冲基金们，这回可以说是精准踩点，赚得盆满钵满。",
+  "对在美华人来说，国际油价的波动直接关系到咱们日常加油的钱包厚度。虽然油价短期内因为多空博弈和地缘政治有所回落，但能源市场的风吹草动随时可能影响通胀和生活成本，平时开车通勤的朋友可以多关注一下油价走势。"
+ ],
+ "tags": [
+  "原油",
+  "对冲基金",
+  "美国大选",
+  "财经动态",
+  "通胀"
+ ],
+ "original_title": "Hedge Funds Fled Bullish Oil Bets Ahead of Election Day Drop",
+ "lang": "en",
+ "published": "2026-11-06T21:29:28+00:00",
+ "created": "2026-11-06T23:45:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

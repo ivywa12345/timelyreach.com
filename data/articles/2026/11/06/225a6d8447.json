@@ -1,0 +1,26 @@
+{
+ "key": "225a6d8447",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/braskem-shareholders-pull-funding-offer-as-debt-talks-hit-snags",
+ "title": "谈判崩了？巴西石化巨头Braskem债务重组受阻，股东直接撤回出资承诺！",
+ "summary": "据知情人士透露，由于巴西石化公司Braskem SA与债权人的庭外债务重组谈判陷入僵局，公司股东已撤回一项关键的资金注入提议。",
+ "body": [
+  "据彭博社报道，知情人士透露，巴西石化巨头Braskem SA（Braskem SA）与债权人关于庭外债务重组的谈判最近遇到了不小的麻烦，双方关系已经恶化。",
+  "按照知情人士的说法，如果目前的僵局无法打破，股东们原本提出的、对于达成重组协议至关重要的资本注入计划将直接被取消，不再考虑。",
+  "目前这场债务风波的具体走向还在发展中，相关各方尚未就此给出进一步的公开回应。"
+ ],
+ "tags": [
+  "海外财经",
+  "债务重组",
+  "Braskem",
+  "商业动态"
+ ],
+ "original_title": "Braskem Owners Pull Funding Offer as Debt Talks Hit Snag",
+ "lang": "en",
+ "published": "2026-11-06T19:38:53+00:00",
+ "created": "2026-11-06T23:45:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "8a2ab6729c",
+ "board": "hot",
+ "source_id": "wsj-lifestyle",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/entrepreneurship/reader-stories-small-business-3679b083?mod=rss_lifestyle",
+ "title": "时代变了？大家怀念的小店，到底好在哪儿？",
+ "summary": "《华尔街日报》近期向读者征集了他们最难忘的小商业故事。大家的共识是：现在这样的好店是越来越难找了。",
+ "body": [
+  "《华尔街日报》最近搞了个读者调查，让大家聊聊那些年陪伴过自己、有着特殊意义的小店铺（Small Businesses）。",
+  "结果大家的看法出奇一致：现在这种用心经营、充满人情味的小店是越来越难看到了，大家都在怀念当年的那种老味道和温暖的人际连接。"
+ ],
+ "tags": [
+  "小商业",
+  "华尔街日报",
+  "社区生活",
+  "怀旧"
+ ],
+ "original_title": "Readers Remember Their Favorite Small Businesses",
+ "lang": "en",
+ "published": "2026-11-06T20:00:00+00:00",
+ "created": "2026-11-06T23:44:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "73a022d0b2",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/americas/pope-leo-visits-a-latin-america-thats-losing-its-religion-b1007bbc?mod=rss_worldnews",
+ "title": "天主教大本营变天了？数百万拉丁美洲人正悄悄离开教会！",
+ "summary": "据《华尔街日报》报道，在传统的天主教大本营拉丁美洲，数百万信众正在放弃传统教会，转而寻求个人信仰、古老仪式和超自然信仰。",
+ "body": [
+  "说到拉丁美洲，大家的第一印象往往是虔诚的天主教徒。不过，根据《华尔街日报》专栏作家Samantha Pearson的最新报道，这个世界最大的天主教大本营正在经历一场静悄悄的信仰巨变——数以百万计的人正选择离开传统教会。",
+  "报道指出，这些离开发生传统教堂的民众并没有完全抛弃宗教，而是走向了一个更加多元的精神世界。他们开始转向个人信仰、各种古老的仪式，以及对超自然力量的信仰，这也反映出当地民众精神追求的多样化趋势。"
+ ],
+ "tags": [
+  "天主教",
+  "拉丁美洲",
+  "宗教信仰",
+  "华尔街日报"
+ ],
+ "original_title": "Pope Leo Visits a Latin America That’s Losing Its Religion",
+ "lang": "en",
+ "published": "2026-11-06T22:37:00+00:00",
+ "created": "2026-11-06T23:44:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

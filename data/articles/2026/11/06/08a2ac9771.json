@@ -1,0 +1,25 @@
+{
+ "key": "08a2ac9771",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/the-job-market-message-for-democrats-e29da106?mod=rss_opinion",
+ "title": "赢了白宫却接手一个烂摊子？民主党这次压力山大啊！",
+ "summary": "华尔街日报社论指出，这次美国大选的胜者将接手一个表现稳健的经济体，但如何保持下去将是巨大的考验。",
+ "body": [
+  "美国大选尘埃落定，《华尔街日报》（The Wall Street Journal）编辑委员会发表社论指出，这次选举的胜利者将接手一个目前看来还算稳健的美国经济，但关键在于“能不能稳得住”。",
+  "对普通老百姓和在美华人来说，大选之后最关心的莫过于钱包和就业市场。经济数据虽然表面好看，但通胀和就业压力依然是新政府上台后面临的头号大考。不管是哪个党派掌权，如果不能维持经济增长，选民的好感很快就会消磨殆尽。"
+ ],
+ "tags": [
+  "美国大选",
+  "经济形势",
+  "就业市场",
+  "华尔街日报"
+ ],
+ "original_title": "The Job Market Message for Democrats",
+ "lang": "en",
+ "published": "2026-11-06T23:00:00+00:00",
+ "created": "2026-11-06T23:45:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

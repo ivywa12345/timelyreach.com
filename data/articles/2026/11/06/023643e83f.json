@@ -1,0 +1,25 @@
+{
+ "key": "023643e83f",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/canadian-dollar-set-for-worst-week-since-september-on-weak-jobs",
+ "title": "加元创下9月以来最惨单周表现！就业数据太差，经济压力山大",
+ "summary": "由于加拿大最新公布的就业数据逊于预期，加元遭遇重挫，创下自9月下旬以来表现最糟糕的一周，市场对该国经济前景的担忧进一步加剧。",
+ "body": [
+  "据彭博社（Bloomberg）报道，加元（Canadian Dollar）在本周迎来了自9月下旬以来最大幅度的单周下跌。这次汇率跳水主要是因为加拿大国内公布的就业数据表现疲软，远低于市场预期，让大家对未来的经济形势捏了一把汗。",
+  "分析指出，这份不及格的就业报告直接强化了市场对加拿大经济前景的悲观情绪，也给该国货币带来了巨大的下行压力。"
+ ],
+ "tags": [
+  "加元",
+  "加拿大经济",
+  "汇率",
+  "海外财经"
+ ],
+ "original_title": "Canadian Dollar Notches Worst Week Since September on Weak Jobs",
+ "lang": "en",
+ "published": "2026-11-06T18:48:22+00:00",
+ "created": "2026-11-06T23:45:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

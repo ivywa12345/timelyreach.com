@@ -1,0 +1,25 @@
+{
+ "key": "9f813a7710",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/xi-taps-military-hatchet-man-to-rebuild-china-s-army-command",
+ "title": "清洗军队反腐大将再受重用！习近平出手重组军方高层",
+ "summary": "根据彭博社报道，在经历了一系列大规模的反腐清洗后，中国国家主席习近平正依靠曾负责监督这些清洗行动的关键人物，来重建军队高层领导层并重新填补空缺。",
+ "body": [
+  "据彭博社报道，中国军队高层此前因反腐清洗而出现空缺，目前习近平正在着手重建军方领导层。在这个过程中，他选择信任并重用了那位曾负责监督这些官员落马的关键人物，希望由他来负责重新充实军队各级领导岗位。",
+  "此次人事调整的背景是过去一段时间以来，中国军队高层因贪腐问题经历了严厉的整顿和清洗。外界普遍关注，这位被视为“操盘手”的官员上位后，将如何重塑军方指挥体系以及未来的走向。"
+ ],
+ "tags": [
+  "中国军队",
+  "高层人事",
+  "反腐清洗",
+  "政治动态"
+ ],
+ "original_title": "Xi Taps Military ‘Hatchet Man’ to Rebuild China’s Army Command",
+ "lang": "en",
+ "published": "2026-11-06T23:00:00+00:00",
+ "created": "2026-11-06T23:46:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

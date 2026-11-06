@@ -1,0 +1,28 @@
+{
+ "key": "9819550d7b",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+ "title": "AI泡沫要破？大厂Anthropic估值缩水，1.5万亿美元目标悬了！",
+ "summary": "受华尔街科技股暴跌和市场情绪降温影响，AI巨头Anthropic即将进行的IPO估值遭遇下调，投资者认为此前期待的1.5万亿美元甚至2万亿美元估值难以实现，更现实的目标可能在1万亿到1.25万亿美元之间。",
+ "body": [
+  "本周华尔街科技股遭遇血洗，AI热潮似乎也正在降温。知情人士透露，人工智能公司Anthropic原本冲刺IPO时直奔2万亿美元的估值而去，但现在连1.5万亿美元都画了个问号，有匿名投资者直言这个数字“太勉强了”（a 'stretch'）。对于估值传闻，Anthropic官方拒绝置评。",
+  "市场风向的转变并非毫无征兆。本周四纳斯达克指数暴跌超过5%，创下19个月来最大单日跌幅，主要由于市场担心华盛顿政治格局变化以及全美对AI的质疑会导致数据中心建设放缓。在此之前，纳斯达克在10月份已经历了自2025年3月以来表现最差的一个月。Anthropic计划在纳斯达克上市，股票代码为ANT，预计几周内就会正式登场。而在今年5月份，该公司的私募估值还停留在9650亿美元。",
+  "面对最新的市场动荡，匿名投资者透露，1万亿至1.25万亿美元才是更现实的估值目标，不过具体还得看市场脸色。金融机构D.A. Davidson分析师吉尔·卢里亚（Gil Luria）对CNBC表示：“投资者会期望IPO定价至少落在先前预期范围的低端。市场非常需要这次IPO能够顺利进行，承销商也肯定明白这一点。让Anthropic走向成功的最好方法就是把定价定好。”据悉，该公司预计将于下周启动路演。",
+  "对咱们普通人尤其是关注科技投资和美股的海外华人来说，华尔街对AI巨头估值预期的下调，释放出了市场回归理性的信号。这也提醒大家在追逐AI概念股、科技股时，要多看几眼基本面和市场情绪，注意防范波动风险。"
+ ],
+ "tags": [
+  "Anthropic",
+  "美股",
+  "AI",
+  "IPO",
+  "华尔街"
+ ],
+ "original_title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
+ "lang": "en",
+ "published": "2026-11-06T21:07:07+00:00",
+ "created": "2026-11-06T23:47:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

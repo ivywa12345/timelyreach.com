@@ -1,0 +1,27 @@
+{
+ "key": "25b2bc4ec4",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/alerts/dhs-automatically-extends-temporary-protected-status-for-lebanon",
+ "title": "黎巴嫩籍TPS持有者注意：美国国土安全局自动延长其临时保护身份半年！",
+ "summary": "美国国土安全局（DHS）发布联邦公报通知，宣布将黎巴嫩公民的临时保护身份（TPS）自动延长6个月，至2026年11月27日。现有受益人及相关工作许可将自动延期。",
+ "body": [
+  "美国国土安全局（DHS）近日在联邦公报上发布通知，宣布将黎巴嫩的临时保护身份（TPS）自动延长6个月，延期时间从2026年5月28日至2026年11月27日。根据TPS相关法案，如果国土安全部部长在国家TPS指定过期前至少60天内，未能决定该国是否仍符合TPS资格，其TPS指定将自动延长六个月。",
+  "据官方解释，由于黎巴嫩当地局势瞬息万变，需要对当地情况进行重新评估，相关负责人无法在2026年3月28日的法定截止日期前做出最终决定，因此触发了此次自动延期机制。",
+  "这项为期六个月的延期意味着，现有的黎巴嫩TPS受益人只要继续符合TPS的资格要求，就可以将身份保持至2026年11月27日。此外，根据黎巴嫩TPS指定已经发出的工作许可卡（EAD）也将自动延期，在2026年11月27日之前保持有效。有需要的申请人可以前往美国移民局（USCIS）官网查询更多详细信息。"
+ ],
+ "tags": [
+  "美国移民",
+  "TPS",
+  "黎巴嫩",
+  "工作许可",
+  "USCIS"
+ ],
+ "original_title": "DHS Automatically Extends Temporary Protected Status for Lebanon",
+ "lang": "en",
+ "published": "2026-05-28T15:40:34+00:00",
+ "created": "2026-11-06T23:48:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

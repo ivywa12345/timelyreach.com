@@ -1,0 +1,26 @@
+{
+ "key": "53a098d197",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/paraguay-senators-remove-pena-from-office-after-bank-scandal",
+ "title": "突发！巴拉圭总统 Peña 被参议院罢免并逮捕，涉嫌卷入银行倒闭案",
+ "summary": "巴拉圭参议院于周五投票罢免了总统 Santiago Peña，他随后被捕，面临因涉嫌卷入一家大型银行倒闭案而产生的刑事指控。",
+ "body": [
+  "据彭博社报道（作者：Ken Parks），巴拉圭政坛发生大地震，总统 Santiago Peña 于周五被参议院正式罢免职务，并戏剧性地遭到逮捕。",
+  "这场政治风暴的导火索是当地一家大型银行的倒闭。Peña 总统被指控在其中扮演了不光彩的角色，此次罢免也为他接下来面对潜在的刑事指控扫清了道路。",
+  "对于远在海外的华人朋友来说，这类南美国家的政坛动荡虽然不直接影响日常生活，但也提醒我们在关注海外投资或新兴市场经济时，政治风险永远是不可忽视的一环。"
+ ],
+ "tags": [
+  "巴拉圭",
+  "总统罢免",
+  "国际新闻",
+  "政坛地震"
+ ],
+ "original_title": "Paraguayan President Peña Removed From Office, Arrested",
+ "lang": "en",
+ "published": "2026-11-06T22:05:01+00:00",
+ "created": "2026-11-06T23:45:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

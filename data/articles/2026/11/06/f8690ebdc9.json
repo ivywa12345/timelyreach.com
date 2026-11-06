@@ -1,0 +1,27 @@
+{
+ "key": "f8690ebdc9",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/midterms-markets-week-ai-trade-97b3fc5d?mod=rss_markets_main",
+ "title": "AI投资者这周经历了什么？大选焦虑引发市场巨震",
+ "summary": "民主党人的胜利加剧了AI投资者持续数周的焦虑情绪，而系统性交易则进一步放大了市场损失，让投资者度过了惊心动魄的一周。",
+ "body": [
+  "各位海外同胞，这周盯着股市的AI投资者们可以说是坐了一次“过山车”。根据《华尔街日报》记者Sam Goldfarb的报道，本周堪称AI投资者的“疯狂一周”，直接把大家逼到了崩溃的边缘。",
+  "其实这种焦虑情绪在过去几周就已经在市场上慢慢积聚了。而随着民主党人（Democrats）在选举中获胜的消息传出，直接成了点燃焦虑的导火索。更要命的是，市场上各种自动运行的“系统性交易”（Systematic trades）在下跌时不仅没有踩刹车，反而像滚雪球一样放大了整体的损失。",
+  "对于咱们关注科技股和资产配置的海外华人来说，这类市场剧烈波动往往牵动着钱包。当科技板块遭遇宏观政治情绪和量化交易的双重夹击时，防范风险、保持资产的流动性显得尤为重要，切莫盲目追高杀跌。"
+ ],
+ "tags": [
+  "人工智能",
+  "美股",
+  "华尔街日报",
+  "投资理财",
+  "海外华人"
+ ],
+ "original_title": "The Wild Week That Brought AI Investors to the Brink",
+ "lang": "en",
+ "published": "2026-11-06T23:29:00+00:00",
+ "created": "2026-11-06T23:44:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

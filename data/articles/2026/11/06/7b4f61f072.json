@@ -1,0 +1,27 @@
+{
+ "key": "7b4f61f072",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/energy-oil/a-berkshire-hathaway-electric-utility-wants-a-historic-rate-hike-in-california-b7a0cc70?mod=rss_markets_main",
+ "title": "每个月电费要多交120美元？这家加州电力公司居然申请涨价57%！",
+ "summary": "伯克希尔哈撒韦旗下的电力公司太平洋电力（Pacific Power）正向加州监管机构申请一项历史性的涨价方案，计划将电费大幅提高57%，这将导致普通居民每月的电费账单增加约120美元。",
+ "body": [
+  "如果你住在加州，并且用的是这家公司的电，那你的钱包可能要大出血了。根据《华尔街日报》报道，伯克希尔哈撒韦（Berkshire Hathaway）旗下的电力公司太平洋电力（Pacific Power）近日向州监管机构提交了一项申请，要求将电费大幅上调57%。",
+  "如果这个涨价方案获得批准，加州普通居民每月的电费账单将会直接暴增120美元。对于本就面临高通胀和生活压力的当地家庭来说，这无疑是一个沉重的负担。",
+  "近年来加州居民的日常生活成本居高不下，水电气费更是节节攀升。这次伯克希尔哈撒韦旗下公司的巨额涨价申请，再次戳中了海外华人在生活成本方面的痛点，大家的钱包又得缩水了。"
+ ],
+ "tags": [
+  "加州电费",
+  "伯克希尔哈撒韦",
+  "太平洋电力",
+  "生活成本",
+  "海外华人"
+ ],
+ "original_title": "A Berkshire Hathaway Electric Utility Wants a Historic Rate Hike in California",
+ "lang": "en",
+ "published": "2026-11-06T23:33:00+00:00",
+ "created": "2026-11-06T23:44:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

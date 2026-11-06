@@ -1,0 +1,25 @@
+{
+ "key": "0da75fcfb7",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/science-and-technology/2026/11/06/the-climate-issue-newsletter-the-world-braces-for-an-almighty-el-nino",
+ "title": "超级厄尔尼诺来袭：最糟糕的日子还在后头？",
+ "summary": "根据《经济学人》气候通讯主编Rachel Dobbs的分析，全球正在为一场威力巨大的厄尔尼诺现象做准备，而最严重的影响可能还在后面。",
+ "body": [
+  "如果你觉得最近的天气已经够极端了，那可能还得做好心理准备。《经济学人》(The Economist)新闻编辑Rachel Dobbs近日在气候通讯中指出，全球目前正严阵以待，迎接一场威力惊人的厄尔尼诺(El Niño)现象，这意味着最糟糕的气候影响可能还在后头。",
+  "厄尔尼诺现象通常会带来全球气温上升和极端天气模式的改变。对于生活在海外的我们来说，极端气候不仅可能推高日常生活成本、影响农产品价格，还可能对电力供应和社区安全带来潜在威胁。后续的发展如何，值得大家持续关注。"
+ ],
+ "tags": [
+  "气候变化",
+  "厄尔尼诺",
+  "极端天气",
+  "经济学人"
+ ],
+ "original_title": "The Climate Issue newsletter: The world braces for an almighty El Niño",
+ "lang": "en",
+ "published": "2026-11-06T20:45:31+00:00",
+ "created": "2026-11-06T23:45:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
