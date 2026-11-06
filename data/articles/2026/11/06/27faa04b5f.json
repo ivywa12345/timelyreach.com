@@ -1,0 +1,25 @@
+{
+ "key": "27faa04b5f",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-gain-in-early-trading-9360ec32?mod=rss_markets_main",
+ "title": "美国天然气期货早盘涨了！是因为天气变凉还是出口太猛？",
+ "summary": "受夜间气温预测下降以及强劲的液化天然气（LNG）出口需求支撑，美国天然气期货价格在早盘交易中走高。",
+ "body": [
+  "美国天然气期货在周初的早盘交易中迎来上涨。根据市场消息，这波涨势主要有两个推手：一是最新的夜间天气预报显示气温将变凉，有望带动取暖或空调需求；二是海外对美国液化天然气（LNG）的出口需求依然非常扎实。",
+  "对于在美华人来说，能源价格的波动往往直接传导到每个月的家庭账单上。虽然目前只是期货市场的早盘表现，但随着天气转凉和出口旺盛，入冬前的能源价格走势依然值得大伙儿关注，尤其是冬季取暖费可能面临的变数。"
+ ],
+ "tags": [
+  "美国经济",
+  "天然气期货",
+  "能源价格",
+  "海外华人"
+ ],
+ "original_title": "U.S. Natural Gas Futures Gain in Early Trading",
+ "lang": "en",
+ "published": "2026-11-06T14:04:00+00:00",
+ "created": "2026-11-06T16:00:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

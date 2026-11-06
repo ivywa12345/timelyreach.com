@@ -1,0 +1,26 @@
+{
+ "key": "1ecc8119f2",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/oil-holds-gains-after-selloff-ad231914?mod=rss_markets_main",
+ "title": "油价这周又要大跌？美伊外交斡旋让市场坐不住了",
+ "summary": "美国原油期货价格近期虽有小幅回升，但在美伊恢复谈判的外交努力推动下，本周整体仍将录得显著跌幅。",
+ "body": [
+  "各位老铁注意啦，最近加油可能要便宜点了。根据《华尔街日报》的报道，美国原油期货在经历了一轮波动后，本周依然逃不过大跌的命运，正朝着录得沉重周跌幅的方向前进。",
+  "这次油价下跌的背后，主要是因为外交层面有了新动作。各方正在加紧外交努力，试图把美国和伊朗重新拉回谈判桌前。一旦局势缓和，原油供应预期发生变化，直接影响到了市场的神经。",
+  "对于咱们在海外生活的华人来说，油价下跌绝对是个好消息。平时开车通勤、周末带娃去玩，油费开支能省下不少，变相帮大家捂紧了钱包。"
+ ],
+ "tags": [
+  "油价",
+  "美国经济",
+  "海外生活",
+  "财经新闻"
+ ],
+ "original_title": "Oil Futures Head for Hefty Weekly Losses",
+ "lang": "en",
+ "published": "2026-11-06T14:45:00+00:00",
+ "created": "2026-11-06T16:00:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

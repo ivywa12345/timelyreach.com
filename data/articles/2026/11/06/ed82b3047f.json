@@ -1,0 +1,26 @@
+{
+ "key": "ed82b3047f",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/banking/norway-oil-fund-reaches-224-5-million-settlement-with-kpmg-over-silicon-valley-bank-collapse-e0cc9045?mod=rss_markets_main",
+ "title": "硅谷银行倒闭后续：挪威主权财富基金获赔2.245亿美元",
+ "summary": "挪威银行投资管理公司与瑞典国家养老基金作为共同首席原告，就硅谷银行倒闭事件与毕马威达成2.245亿美元的和解协议。",
+ "body": [
+  "大家还记得轰动一时的硅谷银行（SVB）倒闭事件吗？最近这事儿有了最新进展，受损的投资人终于从审计机构那里讨回了一笔巨款。",
+  "根据《华尔街日报》报道，挪威银行投资管理公司（Norges Bank Investment Management）和瑞典国家养老基金（Sjunde AP-fonden）作为共同首席原告，与毕马威（KPMG）达成了一项初步和解协议，金额高达2.245亿美元。这两家欧洲大型机构此前因为硅谷银行的突然崩盘而蒙受了损失。",
+  "目前双方达成了这份2.245亿美元的初步和解，这也为这起备受关注的金融风波画上了阶段性的句号。"
+ ],
+ "tags": [
+  "硅谷银行",
+  "挪威主权财富基金",
+  "毕马威",
+  "金融快讯"
+ ],
+ "original_title": "Norway’s Oil Fund Reaches $224.5 Million Settlement With KPMG Over SVB Collapse",
+ "lang": "en",
+ "published": "2026-11-06T15:05:00+00:00",
+ "created": "2026-11-06T15:59:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

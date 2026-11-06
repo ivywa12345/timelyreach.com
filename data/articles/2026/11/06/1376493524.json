@@ -1,0 +1,22 @@
+{
+ "key": "1376493524",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+ "title": "美国经济10月新增16.5万个就业岗位，远高于预期；失业率降至4.1%",
+ "summary": "预计10月份非农就业人数将增加59,000人，因为失业率预计将稳定在4.2%。",
+ "body": [
+  "预计10月份非农就业人数将增加59,000人，因为失业率预计将稳定在4.2%。",
+  "（以上为CNBC内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "CNBC"
+ ],
+ "original_title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+ "lang": "en",
+ "published": "2026-11-06T16:06:59+00:00",
+ "created": "2026-11-06T16:11:37+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

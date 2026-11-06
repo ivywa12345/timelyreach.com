@@ -1,0 +1,22 @@
+{
+ "key": "a4c887acfc",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/goldman-s-us-stock-panic-gauge-hits-extreme-signaling-rebound",
+ "title": "高盛股票恐慌指数达到极限，信号反弹",
+ "summary": "高盛集团(Goldman Sachs Group Inc.)的交易员表示，美国股市的剧烈抛售已将市场恐慌推至极端水平，这在历史上标志着中期强劲反弹。",
+ "body": [
+  "高盛集团(Goldman Sachs Group Inc.)的交易员表示，美国股市的剧烈抛售已将市场恐慌推至极端水平，这在历史上标志着中期强劲反弹。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Goldman Stock Panic Gauge Hit Extreme, Signals Rebound",
+ "lang": "en",
+ "published": "2026-11-06T15:28:07+00:00",
+ "created": "2026-11-06T16:05:35+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

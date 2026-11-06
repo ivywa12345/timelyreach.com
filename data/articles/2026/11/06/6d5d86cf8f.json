@@ -1,0 +1,27 @@
+{
+ "key": "6d5d86cf8f",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/earnings/hong-kong-exchange-operators-net-profit-slips-as-trading-activity-cools-3e3ee0b8?mod=rss_markets_main",
+ "title": "港交所三季度利润意外下滑！交易和上市活动降温，亚洲金融中心怎么了？",
+ "summary": "香港交易所（HKEX）公布了第三季度财报，尽管营业收入有所增长，但净利润却意外出现下滑，显示出该亚洲金融中心的股票交易和新股上市活动正在放缓。",
+ "body": [
+  "近日，华尔街日报（The Wall Street Journal）报道称，香港交易所营运商三季度的利润出现了意外下滑。虽然营收数据表现不错，但由于市场交易活动开始降温，最终拖累了整体利润表现。",
+  "作为全球重要的金融枢纽，香港交易所近期的表现一直备受市场关注。此次财报数据反映出，在经历了一段时间的波动后，无论是日常的股票交易量，还是企业上市（IPO）的活跃度，都出现了一定程度的冷却迹象。",
+  "对于远在海外的华人投资者来说，港交所的冷暖往往是观察亚洲乃至全球资本市场风向的一个重要窗口。交易和上市活动的放缓，也直接关系到相关板块的投资回报以及整体市场的信心恢复。"
+ ],
+ "tags": [
+  "港交所",
+  "金融市场",
+  "股票交易",
+  "上市活动",
+  "财报"
+ ],
+ "original_title": "Hong Kong Exchange Operator’s Profit Slips as Trading, Listing Activity Cools",
+ "lang": "en",
+ "published": "2026-11-06T09:47:00+00:00",
+ "created": "2026-11-06T16:00:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
