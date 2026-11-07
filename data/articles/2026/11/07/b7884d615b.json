@@ -1,0 +1,26 @@
+{
+ "key": "b7884d615b",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/australia-s-albanese-urges-iran-de-escalation-after-us-midterms",
+ "title": "美国中期选举刚过，澳大利亚总理就急着喊话伊朗：千万别升级局势！",
+ "summary": "澳大利亚总理阿尔巴尼斯呼吁美伊双方降低紧张局势，他称美国中期选举的结果“非常重要”。",
+ "body": [
+  "据澳大利亚广播公司（ABC）报道，澳大利亚总理安东尼·阿尔巴尼斯（Anthony Albanese）近日公开呼吁，希望美国和伊朗之间的紧张局势能够缓和下来。",
+  "此前，美国刚刚结束了中期选举。阿尔巴尼斯在谈到这次选举时，直言其结果“非常重要”，并在此背景下对中东局势表达了关切，敦促各方保持克制，避免冲突进一步升级。"
+ ],
+ "tags": [
+  "澳大利亚",
+  "美国中期选举",
+  "伊朗",
+  "国际局势",
+  "阿尔巴尼斯"
+ ],
+ "original_title": "Australia’s Albanese Urges Iran De-Escalation After US Midterms",
+ "lang": "en",
+ "published": "2026-11-07T00:32:43+00:00",
+ "created": "2026-11-07T01:40:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

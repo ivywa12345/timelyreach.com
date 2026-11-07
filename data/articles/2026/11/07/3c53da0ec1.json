@@ -1,0 +1,26 @@
+{
+ "key": "3c53da0ec1",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-after-jobs-data-muted-ai-rebound-945344f6?mod=rss_markets_main",
+ "title": "美股大跌之后迎来分化！就业数据太好，大家反而更慌了？",
+ "summary": "美国股市在最新就业数据公布后收盘分化，人工智能相关股票迎来温和反弹，但依然无法完全消除投资者对AI热潮能否持续的焦虑情绪。",
+ "body": [
+  "根据《华尔街日报》报道，美国股市在最新公布强劲的就业数据后，整体走势出现分化。尽管以人工智能（AI）为代表的相关科技公司迎来了温和的反弹，但这并没有彻底抚平华尔街投资者对AI热潮可持续性的担忧和焦虑。",
+  "分析指出，一方面亮眼的就业市场显示出经济的韧性，但另一方面也让市场对未来的利率走势和经济过热产生了复杂情绪，叠加对高估值AI板块的审视，导致大盘表现拉锯。"
+ ],
+ "tags": [
+  "美股",
+  "财经",
+  "人工智能",
+  "华尔街日报",
+  "就业数据"
+ ],
+ "original_title": "U.S. Stocks Mixed After Jobs Data, Muted AI Rebound",
+ "lang": "en",
+ "published": "2026-11-06T22:01:00+00:00",
+ "created": "2026-11-07T01:38:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

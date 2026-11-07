@@ -1,0 +1,27 @@
+{
+ "key": "07759ba460",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/personal-finance/taxes/the-2027-tax-brackets-are-here-see-where-you-land-c20ada58?mod=rss_markets_main",
+ "title": "2027年税阶更新！看看你的钱包能喘口气吗？",
+ "summary": "美国税务部门根据通胀情况调整了2027年的税率阶梯、标准扣除额以及儿童税收抵免等关键指标，旨在为应对生活成本上涨的纳税人提供一定程度的税收减免。",
+ "body": [
+  "华尔街日报（Wall Street Journal）记者理查德·鲁宾（Richard Rubin）报道称，2027年的联邦税阶、标准扣除额（standard deduction）以及儿童税收抵免（child tax credit）等政策已经出炉。",
+  "这些调整主要是为了对冲通货膨胀带来的影响，帮助普通纳税人缓解不断上涨的生活成本压力。具体到每个家庭能省下多少钱，还需要根据个人收入和具体税档来对照确认。",
+  "对于在美华人来说，税阶和标准扣除额的变动直接关系到每年的报税季能拿回多少退税，建议大家密切关注相关细则，提前做好财务规划，看自己究竟落在哪一个税档里。"
+ ],
+ "tags": [
+  "美国税务",
+  "2027税阶",
+  "通胀调整",
+  "海外华人",
+  "报税指南"
+ ],
+ "original_title": "The 2027 Tax Brackets Are Here. See Where You Land.",
+ "lang": "en",
+ "published": "2026-11-05T21:04:00+00:00",
+ "created": "2026-11-07T01:39:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

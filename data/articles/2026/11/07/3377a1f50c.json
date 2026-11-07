@@ -1,0 +1,26 @@
+{
+ "key": "3377a1f50c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/wall-street-sees-us-hitting-41-1-trillion-debt-cap-in-february",
+ "title": "华尔街预警：美国债务上限2月又要撞顶？",
+ "summary": "据彭博社报道，华尔街策略师预计美国财政部最早将于2月触及借贷上限，届时将不得不采取非常规措施来避免资金链断裂。",
+ "body": [
+  "据彭博社报道，华尔街策略师们正严阵以待，预计美国财政部（US Treasury）最快将在今年2月再次撞上债务上限（borrowing limit）。",
+  "这意味着，美国政府在2027年后期面临真正的资金危机之前，将不得不提前启动一系列“非常规措施”来勉强维持运转。",
+  "对于远在海外的华人来说，美国的财政赤字和债务上限问题老生常谈，虽然短期内不一定会直接影响到每个人的日常生活，但它往往伴随着两党政治博弈、政府关门风波以及长期的通胀隐患，值得大家持续关注其对经济大环境的潜在影响。"
+ ],
+ "tags": [
+  "美国经济",
+  "债务上限",
+  "华尔街",
+  "美国财政部"
+ ],
+ "original_title": "Wall Street Sees US Hitting $41.1 Trillion Debt Cap in February",
+ "lang": "en",
+ "published": "2026-11-06T20:33:40+00:00",
+ "created": "2026-11-07T01:40:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "aa07010971",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/retail-traders-cautiously-buy-stocks-after-worst-rout-since-2025",
+ "title": "美股刚经历开年最大暴跌，散户这次还敢抄底吗？",
+ "summary": "在美股遭遇自2025年以来最惨烈的一天后，平时最爱“逢低买入”的散户们周五虽然也进场了，但这次明显谨慎了很多，完全没了往常的热情。",
+ "body": [
+  "根据彭博社报道（Jessica Menton和Felice Maranz），美股近日遭遇了自2025年以来的最糟糕交易日，市场一片哀鸿遍野。",
+  "回顾疫情以来的美股市场，散户投资者一直是最狂热的“抄底主力”。不过，面对这次的大跌，散户虽然在周五出手买入了，但那种标志性的狂热却消失得无影无踪，大家的心情都格外谨慎。",
+  "对于在美华人来说，如果平时有投资美股或401(k)养老金账户，面对这种市场剧烈波动，盲目跟风抄底的风险正在变大，管住手、看紧钱包或许才是上策。"
+ ],
+ "tags": [
+  "美股",
+  "散户",
+  "抄底",
+  "海外理财",
+  "股市暴跌"
+ ],
+ "original_title": "Retail Traders Cautiously Buy Stocks After Worst Rout Since 2025",
+ "lang": "en",
+ "published": "2026-11-06T21:05:54+00:00",
+ "created": "2026-11-07T01:39:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

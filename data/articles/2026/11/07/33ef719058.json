@@ -1,0 +1,27 @@
+{
+ "key": "33ef719058",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/trumps-clashing-advisers-press-him-to-make-iran-war-decision-758c1e55?mod=rss_worldnews",
+ "title": "川普陷入“伊朗抉择”：副总统万斯主张停战，鹰派顾问劝打？",
+ "summary": "据《华尔街日报》报道，美国当选总统川普正面临来自顾问团的激烈争论：一方面是以副总统万斯和海湾盟友为代表的“求和派”，主张尽快结束战争；另一方面则是力主对伊朗重启打击的阵营。川普将如何抉择备受关注。",
+ "body": [
+  "美国当选总统川普（Donald Trump）目前正面临一个极其棘手的决定——是否对伊朗采取进一步的军事行动。据《华尔街日报》报道，他身边的智囊团意见分歧严重，正展开激烈的拉锯战。",
+  "一方面，副总统万斯（JD Vance）以及美国的各海湾盟友正在积极游说川普，劝说他应当设法结束目前的战争状态，避免局势进一步升级。但与此同时，另一些顾问却持完全相反的立场，极力向川普陈述重启对伊打击的必要性。",
+  "对于远在海外的华人来说，中东局势的走向直接牵动着全球能源市场的神经，进而可能对通胀、油价乃至整体经济环境产生连锁反应。川普最终会听取哪一方的意见，我们将持续关注。"
+ ],
+ "tags": [
+  "川普",
+  "伊朗局势",
+  "万斯",
+  "中东战争",
+  "美国政治"
+ ],
+ "original_title": "Trump’s Clashing Advisers Press Him to Make Iran War Decision",
+ "lang": "en",
+ "published": "2026-11-07T00:00:00+00:00",
+ "created": "2026-11-07T01:38:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "0cb60c2f4c",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/escape-from-the-maga-echo-chamber-6d6bc6ec?mod=rss_opinion",
+ "title": "白宫直接警告保守派团体：我们正盯着你们呢！",
+ "summary": "白宫向保守派团体发出警告，称其正受到政府的密切监控。",
+ "body": [
+  "最近美国政治圈里火药味挺浓，白宫方面最近给各大保守派团体（Conservative groups）敲了警钟，明确表示白宫正在密切监控他们的动态。",
+  "虽然目前释放的细节不多，但这一举动凸显了当前政治环境中各方势力的激烈博弈与相互防范。对于身处海外、格外关注美国政治走向的华人来说，白宫与保守派之间的这种明争暗斗，往往也会牵动后续的政策走向、社会氛围甚至是言论环境。",
+  "我们将持续关注事件进展，看看双方接下来还会出什么牌。"
+ ],
+ "tags": [
+  "美国政治",
+  "白宫",
+  "保守派",
+  "时政新闻"
+ ],
+ "original_title": "Escape From the MAGA Echo Chamber",
+ "lang": "en",
+ "published": "2026-11-06T22:56:00+00:00",
+ "created": "2026-11-07T01:39:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

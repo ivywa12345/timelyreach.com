@@ -1,0 +1,27 @@
+{
+ "key": "21ed06b20f",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/copper-moves-lower-as-us-election-undermines-ai-and-tariff-trade",
+ "title": "铜价跌惨了！美国大选变天，AI和关税行情要凉？",
+ "summary": "由于华盛顿政治局势动荡，削弱了支撑铜价的AI基建和进口关税两大动力，国际铜价跌至7月以来的最低水平。",
+ "body": [
+  "各位海外同胞注意啦，最近国际铜价（Copper）可以说是遭遇了一波滑铁卢，直接跌到了今年7月以来的最低谷！根据彭博社的报道，这背后的罪魁祸首，竟然是华盛顿最近的政治大地震。",
+  "一直以来，支撑铜价疯狂上涨的有两大主力：一个是烧钱如流水的AI数据中心基建，另一个则是美国可能对进口金属加征关税的预期。结果随着美国大选带来的政治格局变化，这两大“利好”引擎突然同时熄火，让铜价瞬间失去了上涨的动力。",
+  "对于咱们海外华人来说，大宗商品价格的波动可不是遥不可及的新闻。铜价下跌虽然可能稍微缓解一点通胀压力，但这也往往是经济风向变化的晴雨表，直接关联着咱们的投资组合、工作机会甚至是整体经济走向，大家最近盯紧自己的钱包和资产配置吧！"
+ ],
+ "tags": [
+  "铜价",
+  "美国大选",
+  "AI基建",
+  "关税",
+  "海外财经"
+ ],
+ "original_title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade",
+ "lang": "en",
+ "published": "2026-11-06T01:26:53+00:00",
+ "created": "2026-11-07T01:39:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

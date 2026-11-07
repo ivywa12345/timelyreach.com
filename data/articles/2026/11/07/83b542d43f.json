@@ -1,0 +1,25 @@
+{
+ "key": "83b542d43f",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/trump-taps-stephen-miller-to-replace-wiles-as-chief-of-staff",
+ "title": "特朗普突然换帅！老将斯蒂芬·米勒接任白宫幕僚长",
+ "summary": "美国总统唐纳德·特朗普宣布，任命长期亲信斯蒂芬·米勒为新任白宫幕僚长，原幕僚长苏西·怀尔斯则转去负责政治运作。此次人事地震发生在其中期选举遭遇惨败的几天之后。",
+ "body": [
+  "美国政坛又有人事变动！总统唐纳德·特朗普（Donald Trump）近日宣布，将启用自己的长期亲信斯蒂芬·米勒（Stephen Miller）担任新任白宫幕僚长，接替原幕僚长苏西·怀尔斯（Susie Wiles）。",
+  "据了解，怀尔斯接下来将转战特朗普的政治运作团队。这次高层换血的时机非常微妙，正值白宫经历了一场惨烈的中期选举失利后的几天，外界普遍关注这次人事调整将如何影响接下来的政治走向。"
+ ],
+ "tags": [
+  "特朗普",
+  "白宫",
+  "美国政治",
+  "人事变动"
+ ],
+ "original_title": "Trump Taps Stephen Miller to Replace Wiles as Chief of Staff",
+ "lang": "en",
+ "published": "2026-11-06T18:54:04+00:00",
+ "created": "2026-11-07T01:40:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

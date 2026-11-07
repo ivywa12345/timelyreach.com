@@ -1,0 +1,26 @@
+{
+ "key": "ec04721223",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/trump-the-new-congress-and-the-solyndra-probe-52a1cba2?mod=rss_markets_main",
+ "title": "政府入股美企要被查了？新一届国会紧盯这块“肥肉”！",
+ "summary": "美国政府持有的企业股权即将面临国会的新一轮严格审查，引发各界关注。",
+ "body": [
+  "华尔街日报（Wall Street Journal）专栏作家吉姆·塞克雷托（Jim Secreto）近日撰文指出，随着新一届国会即将上台，美国政府在一些美国本土企业中的股权投资，马上就要迎来国会的立法监督和重点审查了。",
+  "回顾历史，政府直接入股或资助企业的做法并不新鲜，但也往往伴随着巨大的争议和财政风险。此次国会再度将目光投向这一领域，意味着未来政府对企业的投资行为可能会受到更严厉的放大镜检验。",
+  "对于在美华人来说，政府对私营企业的深度介入不仅关乎国家财政和税收的走向，也可能对相关行业的市场竞争、就业形势乃至华人的投资理财产生潜在影响，值得我们持续关注。"
+ ],
+ "tags": [
+  "美国国会",
+  "政府入股",
+  "企业监管",
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | Trump, the New Congress and the Solyndra Probe",
+ "lang": "en",
+ "published": "2026-11-06T21:15:00+00:00",
+ "created": "2026-11-07T01:39:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
