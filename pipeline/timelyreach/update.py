@@ -61,6 +61,8 @@ def run_update(store: Store | None = None, max_new: int | None = None) -> int:
 
     created += run_picks(store, providers)
     for source in load_sources():
+        if created >= max_new:  # nothing more to add this run: skip the network fetches too
+            break
         if not source.is_active():
             log.info("source %s skipped (disabled or missing %s)", source.id, source.requires_env)
             continue

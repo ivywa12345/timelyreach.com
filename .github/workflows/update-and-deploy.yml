@@ -82,7 +82,8 @@ jobs:
           XIAOHONGSHU_COOKIE: ${{ secrets.XIAOHONGSHU_COOKIE }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           RSSHUB_BASE: http://localhost:1200
-          TR_MAX_NEW: ${{ github.event.inputs.max_new || '40' }}
+          # 推送代码或投稿时只处理 inbox 并部署，不重新抓新闻（定时任务和手动运行才抓）
+          TR_MAX_NEW: ${{ github.event_name == 'push' && '0' || github.event.inputs.max_new || '40' }}
         run: |
           [ -n "$CLAUDE_MODEL" ] || unset CLAUDE_MODEL
           python -m timelyreach update
