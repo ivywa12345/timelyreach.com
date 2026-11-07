@@ -542,6 +542,7 @@ def test_hand_posted_articles_stay_on_top_of_board_pages(tmp_path):
 def test_analytics_beacon_only_with_token(tmp_path, monkeypatch):
     store = Store(tmp_path / "data")
     monkeypatch.delenv("CF_ANALYTICS_TOKEN", raising=False)
+    monkeypatch.setattr(build, "load_site", lambda: __import__("dataclasses").replace(load_site(), analytics_token=""))
     out = build.build_site(tmp_path / "a", store=store, user_threads=[])
     assert "cloudflareinsights" not in (out / "index.html").read_text(encoding="utf-8")
     monkeypatch.setenv("CF_ANALYTICS_TOKEN", 'abc123"><script>x')

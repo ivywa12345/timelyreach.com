@@ -34,6 +34,7 @@ class SiteConfig:
     language: str
     admin_github: str
     per_page: int
+    analytics_token: str = ""  # Cloudflare Web Analytics site token (public)
     boards: list[Board] = field(default_factory=list)
 
     @property

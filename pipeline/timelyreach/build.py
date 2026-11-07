@@ -108,7 +108,7 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
         "year": now[:4],
         "supabase_on": bool(sb_url and sb_key),
         # Cloudflare Web Analytics site token (public by design); no token, no beacon
-        "analytics_token": re.sub(r"[^0-9a-zA-Z]", "", os.environ.get("CF_ANALYTICS_TOKEN", "")),
+        "analytics_token": re.sub(r"[^0-9a-zA-Z]", "", os.environ.get("CF_ANALYTICS_TOKEN") or site.analytics_token),
     }
 
     def render(template: str, dest: str, **ctx) -> None:
