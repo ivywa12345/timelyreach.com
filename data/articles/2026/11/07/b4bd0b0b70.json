@@ -1,0 +1,25 @@
+{
+ "key": "b4bd0b0b70",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/europe-insists-putin-end-war-before-discussing-russia-s-concerns",
+ "title": "欧洲态度强硬：想谈安全架构？俄罗斯必须先停火！",
+ "summary": "据知情人士透露，欧洲国家坚持要求俄罗斯必须先停止对乌克兰的战争，然后才能讨论克里姆林宫对欧洲大陆更广泛安全架构的关切。这一立场可能会让欧洲在如何结束冲突的问题上与美国产生分歧。",
+ "body": [
+  "据彭博社（Bloomberg）报道，多位知情人士透露，欧洲各国的态度非常坚决：俄罗斯必须先收手、结束对乌克兰的战争，欧洲才会考虑去谈克里姆林宫关心的那些欧洲安全架构问题。这一强硬立场，很可能会让欧洲在如何彻底平息这场冲突的策略上，与美国产生新的分歧。",
+  "长期以来，俄罗斯一直试图就欧洲的整体安全格局进行谈判，但欧洲国家始终认为，在战火未停、乌克兰主权受威胁的前提下，任何关于安全架构的对话都无从谈起。这也凸显出西方盟友内部在应对俄乌冲突最终走向时的复杂博弈。"
+ ],
+ "tags": [
+  "俄乌冲突",
+  "欧洲政治",
+  "国际关系",
+  "俄罗斯"
+ ],
+ "original_title": "Europe Insists Russia Ends War Before Concerns Are Addressed",
+ "lang": "en",
+ "published": "2026-11-06T19:20:25+00:00",
+ "created": "2026-11-07T01:47:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

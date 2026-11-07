@@ -1,0 +1,26 @@
+{
+ "key": "849a5fcf60",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/trump-touts-plan-for-us-air-show-seeks-to-turn-page-on-midterm",
+ "title": "刚吞下中期选举苦果，特朗普转头在佛州推销起“美国航展”？",
+ "summary": "总统唐纳德·特朗普（Donald Trump）在访问佛罗里达州时，试图摆脱共和党在中期选举中的惨败阴影，转而大力宣传一项全新的美国航展计划，以此证明他的经济议程正在重振美国工业。",
+ "body": [
+  "刚在中期选举里遭遇了惨痛失利，美国总统唐纳德·特朗普（Donald Trump）似乎正急着翻过这一页。他在访问佛罗里达州期间，把焦点转移到了搞经济和提振制造业上。",
+  "为了证明自己的经济政策正在让美国工业重新焕发生机，特朗普在当地高调宣传了一项筹办全新美国航展的计划。他希望借此向外界展示，自己的施政方针正在实实在在地推动美国前进。不过，面对刚刚结束的中期选举带来的政治冲击，这一招能否成功转移公众视线，还有待观察。"
+ ],
+ "tags": [
+  "特朗普",
+  "中期选举",
+  "美国航展",
+  "美国经济",
+  "政治新闻"
+ ],
+ "original_title": "Trump Touts Plan for US Air Show, Seeks to Turn Page on Midterm",
+ "lang": "en",
+ "published": "2026-11-07T00:09:16+00:00",
+ "created": "2026-11-07T01:47:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

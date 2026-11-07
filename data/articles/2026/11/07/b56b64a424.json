@@ -1,0 +1,28 @@
+{
+ "key": "b56b64a424",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/technology/tsmc-may-enter-memory-chip-production-game-amid-global-squeeze",
+ "title": "台积电也要杀入内存芯片战场了？传因英伟达要求正评估生产3D DRAM",
+ "summary": "由于全球芯片短缺导致各大设备制造商利润受压、产品价格上涨，据媒体报道，全球最大芯片代工巨头台积电（TSMC）应英伟达（Nvidia）的要求，正在考虑进军高端内存芯片生产领域，主要聚焦于3D动态随机存取内存（3D DRAM）。",
+ "body": [
+  "科技圈又有大动作！据媒体《The Information》报道，全球芯片代工龙头台积电（TSMC）目前正在考虑进军高端内存芯片生产。消息一出，立刻引发市场高度关注。",
+  "报道指出，台积电这次评估主要是应人工智能巨头英伟达（Nvidia）的要求。如果台积电最终决定自己造内存，不仅能在AI硬件供应链中掌握更大话语权，帮客户把控未来的芯片供应，还能进一步缓解目前全球严重的芯片荒。据悉，这项计划的核心是三维动态随机存取内存，也就是3D DRAM。",
+  "不过，台积电目前还没正式拍板定案，相关报道中也没有给出具体的时间表、投资金额或产能目标。与此同时，由于AI基础设施建设引发了内存短缺，再加上国会选举带来的政策变数，AI泡沫是否会被戳破也成了市场热议的话题。受大盘及权重股台积电走势拖累，台湾股市基准指数周五一度暴跌多达9%，创下2001年以来的最糟单周表现，促使当地监管机构紧急限制了卖空交易。",
+  "对于关注科技股和AI产业链的海外华人来说，芯片供应链的每一次震动都可能直接影响到电子产品价格乃至相关投资的走势。后续台积电是否会真正砸重金杀入内存红海，我们还得拭目以待。"
+ ],
+ "tags": [
+  "台积电",
+  "英伟达",
+  "芯片短缺",
+  "3D DRAM",
+  "股市动态"
+ ],
+ "original_title": "TSMC May Enter The Memory Chip Production Game Amid Global Squeeze",
+ "lang": "en",
+ "published": "2026-11-06T23:00:00+00:00",
+ "created": "2026-11-07T01:47:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
