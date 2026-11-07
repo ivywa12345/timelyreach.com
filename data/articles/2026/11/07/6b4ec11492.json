@@ -1,0 +1,29 @@
+{
+ "key": "6b4ec11492",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/geopolitical/why-were-iranian-linked-ships-lingering-over-worlds-undersea-internet-cables",
+ "title": "海底网缆要悬？多艘伊朗相关船只在阿曼湾“诡异徘徊”，是在踩点还是埋雷？",
+ "summary": "根据《金融时报》报道，今年10月至少有4艘与伊朗有关的船只在阿曼湾的海底互联网电缆上方长时间徘徊，并有关闭追踪系统的异常举动。海事情报公司指出，这一行为高度符合绘制电缆路线或暗中布设炸药的特征，引发外界对全球通信基础设施安全的担忧。",
+ "body": [
+  "最近大家都在盯油价，觉得美伊局势可能缓和，布伦特原油的战争风险溢价都跌下去了。但潜伏在水下的危机却让人捏一把汗。据《金融时报》报道，今年10月，至少有4艘跟伊朗有联系的船只，在阿曼湾的海底通信电缆上方鬼鬼祟祟地晃悠。",
+  "根据海事情报公司温德华（Windward）的调查，这几艘船包括3艘被美国制裁的油轮和一艘伊朗小型渔船。其中一艘名为“Celestial Sea”的油轮10月14日在“2Africa”海底电缆附近盘旋了四个多小时，第二天更是直接在两条电缆路线之间关闭了自动追踪系统（AIS）。另一艘渔船也在当月晚些时候，在“欧洲印度网关”（Europe India Gateway）和“跨世界”（Transworld）电缆上方长时间逗留。",
+  "温德华（Windward）公司向《金融时报》透露，这些船只平时的航行都很正常，但一到达特定的电缆走廊就开始减速、兜圈子、折返甚至直接“人间蒸发”。这种行踪“完全符合绘制电缆路线，或者在黑暗中放置炸药和水雷的特征”。",
+  "值得注意的是，就在上个月，伊朗伊斯兰革命卫队（Islamic Revolutionary Guard Corps）发言人侯赛因·莫赫比（Hossein Mohebbi）曾放话称：“霍尔木兹海峡有7条主要的海底互联网电缆，承载着所有的商业和互联网数据。我们只是想让美国意识到，新的目标和武器将会亮相，最终我们将把美国在海湾地区的残余势力扫地出门。”",
+  "对于咱们海外华人来说，虽然这事儿发生在遥远的中东，但海底光缆可是全球互联网的“大动脉”。一旦这些关键通信和商业数据通道遭到破坏，跨国网络连接、远程办公、金融交易乃至全球供应链都可能受到严重波及。局势后续会怎么走，咱们还得拭目以待。"
+ ],
+ "tags": [
+  "海底光缆",
+  "伊朗",
+  "阿曼湾",
+  "地缘政治",
+  "海外安全"
+ ],
+ "original_title": "Why Were Iranian-Linked Ships Lingering Over The World's Undersea Internet Cables",
+ "lang": "en",
+ "published": "2026-11-06T20:00:00+00:00",
+ "created": "2026-11-07T03:31:30+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

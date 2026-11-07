@@ -1,0 +1,29 @@
+{
+ "key": "15bff114b2",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/news-releases/justice-department-files-case-to-revoke-us-citizenship-of-mastermind-behind-multimillion-dollar-tax",
+ "title": "骗了国税局上千万美元，黑客头目刑满减刑后，现在连美国国籍也要被剥夺了！",
+ "summary": "美国司法部近日对一名涉案数千万美元的大型税务诈骗案主犯提起民事诉讼，试图剥夺其美国公民身份。此人曾因窃取超25万人的个人信息进行欺诈被判入狱，在服刑6年后于2024年获得总统减刑。",
+ "body": [
+  "近日，美国司法部（U.S. Department of Justice）和美国公民及移民服务局（USCIS）出手了，正式对一名尼日利亚籍的税务诈骗主犯伊曼纽尔·奥卢瓦托辛·卡泽姆（Emmanuel Oluwatosin Kazeem）提起民事剥夺公民身份（denaturalization）诉讼。",
+  "事情要从这起惊天大案说起。卡泽姆是这起大规模身份盗窃和税务欺诈案的幕后黑手。他通过各种手段获取了超过25.9万名受害者的敏感个人信息（PII），甚至从一名越南黑客那里一次性购买了9万多条身份数据。他和同伙利用这些信息绕过国税局（IRS）的验证，疯狂提交虚假退税申请。据统计，他们总共伪造了1万多份联邦纳税申报表，企图骗取超过9100万美元的退税，实际非法到手超过1160万美元，其中大量资金被转账到了尼日利亚。",
+  "2017年，卡泽姆因邮件欺诈、电信欺诈、加重身份盗窃等19项罪名被判处15年有期徒刑，并被勒令赔偿超过1200万美元。不过戏剧性的是，在服刑6年后，由于新冠疫情期间居家监禁等相关政策，他在2024年12月得到了拜登总统的减刑。",
+  "虽然逃过了牢狱之灾，但他的好日子显然到头了。司法部此次提起诉讼指出，卡泽姆在入籍前后一直在进行欺诈犯罪并隐瞒罪行，这让他的入籍过程本身就属非法。此外，调查还发现他在入籍前曾通过假结婚（sham marriage）获得永久居民身份。这些严重违规行为，都成了此次“撤销绿卡和国籍”的直接导火索。",
+  "对于在美华人来说，这起案件再次敲响了警钟：近年来针对身份盗窃和税务欺诈的打击力度空前严厉。无论是保护好个人的社安号（SSN）等隐私信息，还是确保移民身份的合法合规，都马虎不得，任何企图钻法律空子的人最终都难逃清算。"
+ ],
+ "tags": [
+  "美国司法部",
+  "税务欺诈",
+  "剥夺公民身份",
+  "身份盗窃",
+  "移民新闻"
+ ],
+ "original_title": "Justice Department Files Case to Revoke U.S. Citizenship of Mastermind Behind Multimillion-Dollar Tax Fraud Scheme",
+ "lang": "en",
+ "published": "2026-04-13T18:08:49+00:00",
+ "created": "2026-11-07T03:31:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "dd9ef3d623",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/the-maga-coalition-disintegrates-4179a2be?mod=rss_opinion",
+ "title": "特朗普的MAGA联盟要散伙？美媒：2028年共和党可能更惨！",
+ "summary": "《华尔街日报》专栏作家马修·康蒂内蒂（Matthew Continetti）撰文指出，对于特朗普及其共和党人来说，周二的局势已经糟得不能再糟，而这种颓势甚至可能延续到2028年的大选。",
+ "body": [
+  "周二对特朗普（Donald Trump）和共和党人来说，可以说是祸不单行，各种不利局面接踵而至，情况糟糕到了极点。",
+  "政治评论人士指出，眼下看似内部矛盾重重的MAGA（让美国再次伟大）联盟正在逐渐瓦解。如果这种分裂继续下去，共和党在2028年的总统大选中恐怕会面临更加艰难的局面。"
+ ],
+ "tags": [
+  "美国政治",
+  "特朗普",
+  "共和党",
+  "MAGA联盟",
+  "2028大选"
+ ],
+ "original_title": "The MAGA Coalition Disintegrates",
+ "lang": "en",
+ "published": "2026-11-06T18:44:00+00:00",
+ "created": "2026-11-07T03:30:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

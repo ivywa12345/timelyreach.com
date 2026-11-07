@@ -1,0 +1,27 @@
+{
+ "key": "05e95347cd",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/trump-outran-his-leash-with-the-iran-war-40c96a15?mod=rss_opinion",
+ "title": "懂王这次在伊朗问题上，怎么有点刹不住车了？",
+ "summary": "华尔街日报专栏作家发文指出，特朗普的选民一直很清楚他的局限性，并希望他自己也能认清这一点，但在对伊朗的问题上，他似乎有点越界了。",
+ "body": [
+  "最近，《华尔街日报》专栏作家霍尔曼·詹金斯（Holman W. Jenkins, Jr.）发表了一篇评论文章，探讨了特朗普在应对伊朗局势时的表现。",
+  "文章指出，一直以来，支持特朗普的选民对他的能力边界有着清醒的认识，他们本期望特朗普在做决策时也能对自己的局限性有同样的清醒认知。然而，从目前的局势来看，他在处理与伊朗的关系时，似乎已经超出了应有的克制范围。",
+  "对于关注海外局势的华人朋友来说，美国在中东的每一个动作都可能牵动全球经济神经，甚至影响到能源价格和海外安全。后续事态会如何发展，我们还得继续观察。"
+ ],
+ "tags": [
+  "特朗普",
+  "伊朗局势",
+  "华尔街日报",
+  "美国政治",
+  "中东局势"
+ ],
+ "original_title": "Trump Outran His Leash With the Iran War",
+ "lang": "en",
+ "published": "2026-11-06T18:42:00+00:00",
+ "created": "2026-11-07T03:30:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
