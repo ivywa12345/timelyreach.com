@@ -55,6 +55,7 @@ FEATURE_HOURS = 36
 HOT_DAYS = 4
 HOT_COUNT = 5
 REPLY_WEIGHT = 5  # a comment says more than a view
+HOT_MIN_SCORE = 30  # a handful of views (mostly the owner's own) is not "hot"; below this the list is plain newest-first
 
 
 def order_for_board(items: list[Article], stats: dict[str, tuple[int, int]]) -> list[Article]:
@@ -65,7 +66,7 @@ def order_for_board(items: list[Article], stats: dict[str, tuple[int, int]]) -> 
         views, replies = stats.get(a.thread_key, (0, 0))
         return views + REPLY_WEIGHT * replies
 
-    hot = sorted((a for a in items if a.created >= since and score(a) > 0), key=lambda a: (score(a), a.created), reverse=True)[:HOT_COUNT]
+    hot = sorted((a for a in items if a.created >= since and score(a) >= HOT_MIN_SCORE), key=lambda a: (score(a), a.created), reverse=True)[:HOT_COUNT]
     hot_keys = {a.key for a in hot}
     return hot + sorted((a for a in items if a.key not in hot_keys), key=lambda a: a.created, reverse=True)
 

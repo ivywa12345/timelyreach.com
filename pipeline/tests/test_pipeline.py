@@ -533,15 +533,15 @@ def test_board_lists_show_top_five_hot_of_four_days_then_newest_first(tmp_path):
 
     fresh = [art(f"n{i}", i) for i in range(10)]            # n0 newest ... n9 oldest
     old_hot = art("old", 24 * 6)                              # six days old: never "hot"
-    stats = {fresh[7].thread_key: (50, 0), fresh[3].thread_key: (10, 2), fresh[9].thread_key: (5, 0),
-             fresh[5].thread_key: (4, 0), fresh[8].thread_key: (3, 0), fresh[1].thread_key: (2, 0),
-             old_hot.thread_key: (999, 0)}
+    stats = {fresh[7].thread_key: (500, 0), fresh[3].thread_key: (100, 20), fresh[9].thread_key: (95, 0),
+             fresh[5].thread_key: (60, 0), fresh[8].thread_key: (35, 0), fresh[1].thread_key: (31, 0),
+             fresh[2].thread_key: (6, 0), old_hot.thread_key: (9999, 0)}
     out = build.build_site(tmp_path / "out", store=store, user_threads=[], stats=stats)
     page = (out / "f/finance/index.html").read_text(encoding="utf-8")
     order = [m for m in re.findall(r"title (n\d|old)", page)]
     seen = []
     [seen.append(x) for x in order if x not in seen]
-    # top five by views + 5*replies (n7=50, n3=20, n9=5, n5=4, n8=3), then newest first; n1 (2 views) is not top five
+    # top five by views + 5*replies, then newest first; n1 is sixth, n2 has too few views to count as hot
     assert seen[:5] == ["n7", "n3", "n9", "n5", "n8"]
     assert seen[5:] == ["n0", "n1", "n2", "n4", "n6", "old"]
 
