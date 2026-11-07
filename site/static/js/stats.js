@@ -21,6 +21,47 @@ function start() {
     return (build ? build(q) : q).then(function (r) { return r.count || 0; });
   }
 
+  // ---- Cloudflare traffic (through our own /api/cf-stats, guarded by the admin password) ----
+  var PW_KEY = "tr_admin_pw";
+  function getPw() { try { return localStorage.getItem(PW_KEY) || ""; } catch (e) { return ""; } }
+  function setPw(v) { try { v ? localStorage.setItem(PW_KEY, v) : localStorage.removeItem(PW_KEY); } catch (e) {} }
+  function bars(rows, label) {
+    if (!rows || !rows.length) return "<p class=\"muted\">暂无数据</p>";
+    var max = Math.max.apply(null, rows.map(function (r) { return r.visits; })) || 1;
+    return rows.map(function (r) {
+      return '<div class="row"><span title="' + esc(r.name) + '">' + esc(r.name) + '</span><div><div class="bar" style="width:' + Math.max(1, Math.round(r.visits / max * 100)) + '%"></div></div><span class="v">' + num(r.visits) + "</span></div>";
+    }).join("");
+  }
+  function loadCf() {
+    var box = $("an-cf");
+    var pw = getPw();
+    if (!pw) {
+      box.innerHTML = '<form id="cf-pw" class="form"><label>后台密码（和后台发文章用的是同一个）<input type="password" name="pw" required autocomplete="current-password"></label><button class="btn" type="submit">查看流量</button></form>';
+      $("cf-pw").onsubmit = function (e) { e.preventDefault(); setPw(e.target.pw.value.trim()); loadCf(); };
+      return;
+    }
+    fetch("/api/cf-stats?days=30", { headers: { "X-Admin-Password": encodeURIComponent(pw) } }).then(function (r) {
+      return r.json().catch(function () { return {}; }).then(function (d) { return { status: r.status, d: d }; });
+    }).then(function (x) {
+      if (x.status === 401) { setPw(""); loadCf(); return; }
+      if (x.status !== 200) {
+        box.innerHTML = '<p class="notice">' + esc(x.d.error || ("出错了（" + x.status + "）")) + (x.d.detail ? "<br><small>" + esc(x.d.detail) + "</small>" : "") + "</p>";
+        return;
+      }
+      var d = x.d, peak = Math.max.apply(null, d.byDay.map(function (r) { return r.visits; })) || 1;
+      box.innerHTML =
+        '<div class="an-cards"><div class="an-card"><b>' + num(d.visits) + "</b><span>访问次数</span></div>" +
+        '<div class="an-card"><b>' + num(d.views) + "</b><span>页面浏览</span></div></div>" +
+        '<div class="an-chart">' + d.byDay.map(function (r) {
+          return '<div class="col' + (r.visits ? "" : " zero") + '" style="height:' + (r.visits ? Math.max(6, Math.round(r.visits / peak * 100)) : 2) + '%" title="' + esc(r.name) + "：" + r.visits + ' 次访问"></div>';
+        }).join("") + "</div>" +
+        "<h3>国家和地区</h3><div class=\"an-bars\">" + bars(d.countries) + "</div>" +
+        "<h3>来源网站</h3><div class=\"an-bars\">" + bars(d.referrers) + "</div>" +
+        "<h3>设备</h3><div class=\"an-bars\">" + bars(d.devices) + "</div>" +
+        "<h3>热门页面</h3><div class=\"an-bars\">" + bars(d.pages) + "</div>";
+    }).catch(function () { box.innerHTML = '<p class="notice">读取 Cloudflare 流量失败（网络问题）。</p>'; });
+  }
+
   sb.auth.getSession().then(function (r) {
     var user = r.data.session && r.data.session.user;
     if (!user) { $("an-login").hidden = false; return null; }
@@ -31,6 +72,7 @@ function start() {
   }).then(function (ok) {
     if (!ok) return;
     $("an-body").hidden = false;
+    loadCf();
     var since = new Date(Date.now() - 30 * 864e5).toISOString();
     return Promise.all([
       sb.from("thread_stats").select("thread_key,view_count,reply_count").order("view_count", { ascending: false }).limit(1000),
