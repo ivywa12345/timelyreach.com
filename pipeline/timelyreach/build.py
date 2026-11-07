@@ -16,7 +16,7 @@ from markupsafe import Markup
 from .config import OUTPUT_DIR, SITE_SRC_DIR, SiteConfig, load_site
 from .models import Article
 from .store import Store
-from .supabase_read import load_user_threads, supabase_settings
+from .supabase_read import load_user_threads, load_view_stats, supabase_settings
 
 log = logging.getLogger(__name__)
 
@@ -52,10 +52,22 @@ def _paginate(items: list, per_page: int) -> list[list]:
 FEATURE_HOURS = 36
 
 
-def is_featured(a: Article, since: str | None = None) -> bool:
-    """Hand-posted pieces (admin page, picks, outside agent) stay at the top for a day and a half,
-    otherwise the robot's every-few-hours batches bury them."""
-    return (a.source_id == "editor" or a.rewriter == "inbox") and a.created >= (since or _hours_ago(FEATURE_HOURS))
+HOT_DAYS = 4
+HOT_COUNT = 5
+REPLY_WEIGHT = 5  # a comment says more than a view
+
+
+def order_for_board(items: list[Article], stats: dict[str, tuple[int, int]]) -> list[Article]:
+    """The most-read pieces of the last four days first (top five), then everything else newest first."""
+    since = _days_ago(HOT_DAYS)
+
+    def score(a: Article) -> int:
+        views, replies = stats.get(a.thread_key, (0, 0))
+        return views + REPLY_WEIGHT * replies
+
+    hot = sorted((a for a in items if a.created >= since and score(a) > 0), key=lambda a: (score(a), a.created), reverse=True)[:HOT_COUNT]
+    hot_keys = {a.key for a in hot}
+    return hot + sorted((a for a in items if a.key not in hot_keys), key=lambda a: a.created, reverse=True)
 
 
 def _front_page(articles: list[Article], n: int = 7) -> list[Article]:
@@ -85,12 +97,15 @@ def board_page_url(board_id: str, page: int) -> str:
     return f"/f/{board_id}/" if page == 1 else f"/f/{board_id}/{page}.html"
 
 
-def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads: list[dict] | None = None) -> Path:
+def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads: list[dict] | None = None,
+               stats: dict[str, tuple[int, int]] | None = None) -> Path:
     site = load_site()
     store = store or Store()
     articles = store.load_articles()
     if user_threads is None:
         user_threads = load_user_threads()
+    if stats is None:
+        stats = load_view_stats()
     sb_url, sb_key = supabase_settings()
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
 
@@ -115,9 +130,9 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
         _write(out / dest, env.get_template(template).render(**common, **ctx))
 
     by_board: dict[str, list[Article]] = {b.id: [] for b in site.boards}
-    since = _hours_ago(FEATURE_HOURS)
-    for a in sorted(articles, key=lambda a: not is_featured(a, since)):  # stable: newest first within each group
+    for a in articles:
         by_board.setdefault(a.board, []).append(a)
+    by_board = {b: order_for_board(items, stats) for b, items in by_board.items()}
 
     # Home page
     render(

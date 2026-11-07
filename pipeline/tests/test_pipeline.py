@@ -518,25 +518,46 @@ def test_same_story_from_two_feeds_is_posted_once(tmp_path, monkeypatch):
     assert update.run_update(store=Store(tmp_path), max_new=10) == 2
 
 
-def test_hand_posted_articles_stay_on_top_of_board_pages(tmp_path):
+def test_board_lists_show_top_five_hot_of_four_days_then_newest_first(tmp_path):
     from datetime import datetime, timedelta, timezone
 
     now = datetime.now(timezone.utc)
     store = Store(tmp_path / "data")
-    for i in range(3):  # robot posts, newer than the hand-posted one
-        store.save_article(Article(key=f"r{i}", board="finance", source_id="s", source_name="S", source_url="https://x/r%d" % i,
-                                   title=f"robot {i}", summary="s", body=["b"], rewriter="fake",
-                                   created=(now - timedelta(minutes=i)).isoformat(timespec="seconds")))
-    store.save_article(Article(key="h1", board="finance", source_id="inbox", source_name="S", source_url="https://x/h",
-                               title="hand posted", summary="s", body=["b"], rewriter="inbox",
-                               created=(now - timedelta(hours=5)).isoformat(timespec="seconds")))
-    old = Article(key="h2", board="finance", source_id="inbox", source_name="S", source_url="https://x/o", title="old hand posted",
-                  summary="s", body=["b"], rewriter="inbox", created=(now - timedelta(hours=60)).isoformat(timespec="seconds"))
-    store.save_article(old)
-    out = build.build_site(tmp_path / "out", store=store, user_threads=[])
+
+    def art(key, hours_old):
+        a = Article(key=key, board="finance", source_id="s", source_name="S", source_url=f"https://x/{key}",
+                    title=f"title {key}", summary="s", body=["b"], rewriter="fake",
+                    created=(now - timedelta(hours=hours_old)).isoformat(timespec="seconds"))
+        store.save_article(a)
+        return a
+
+    fresh = [art(f"n{i}", i) for i in range(10)]            # n0 newest ... n9 oldest
+    old_hot = art("old", 24 * 6)                              # six days old: never "hot"
+    stats = {fresh[7].thread_key: (50, 0), fresh[3].thread_key: (10, 2), fresh[9].thread_key: (5, 0),
+             fresh[5].thread_key: (4, 0), fresh[8].thread_key: (3, 0), fresh[1].thread_key: (2, 0),
+             old_hot.thread_key: (999, 0)}
+    out = build.build_site(tmp_path / "out", store=store, user_threads=[], stats=stats)
     page = (out / "f/finance/index.html").read_text(encoding="utf-8")
-    assert page.index("hand posted") < page.index("robot 0")  # featured first
-    assert page.index("robot 0") < page.index("old hand posted")  # but only for a day and a half
+    order = [m for m in re.findall(r"title (n\d|old)", page)]
+    seen = []
+    [seen.append(x) for x in order if x not in seen]
+    # top five by views + 5*replies (n7=50, n3=20, n9=5, n5=4, n8=3), then newest first; n1 (2 views) is not top five
+    assert seen[:5] == ["n7", "n3", "n9", "n5", "n8"]
+    assert seen[5:] == ["n0", "n1", "n2", "n4", "n6", "old"]
+
+
+def test_board_lists_are_plain_newest_first_without_stats(tmp_path):
+    from datetime import datetime, timedelta, timezone
+
+    now = datetime.now(timezone.utc)
+    store = Store(tmp_path / "data")
+    for i in range(3):
+        store.save_article(Article(key=f"k{i}", board="finance", source_id="s", source_name="S", source_url=f"https://x/{i}",
+                                   title=f"title k{i}", summary="s", body=["b"], rewriter="fake",
+                                   created=(now - timedelta(hours=i)).isoformat(timespec="seconds")))
+    out = build.build_site(tmp_path / "out", store=store, user_threads=[], stats={})
+    page = (out / "f/finance/index.html").read_text(encoding="utf-8")
+    assert page.index("title k0") < page.index("title k1") < page.index("title k2")
 
 
 def test_analytics_beacon_only_with_token(tmp_path, monkeypatch):
