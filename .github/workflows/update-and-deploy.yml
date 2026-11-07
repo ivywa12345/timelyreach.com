@@ -116,6 +116,8 @@ jobs:
           # 填在 Variables 或 Secrets 里都认（anon key 本来就是公开的）
           SUPABASE_URL: ${{ vars.SUPABASE_URL || secrets.SUPABASE_URL }}
           SUPABASE_ANON_KEY: ${{ vars.SUPABASE_ANON_KEY || secrets.SUPABASE_ANON_KEY }}
+          # Cloudflare Web Analytics 的站点 token（公开信息，可不设）
+          CF_ANALYTICS_TOKEN: ${{ vars.CF_ANALYTICS_TOKEN || secrets.CF_ANALYTICS_TOKEN }}
         run: python -m timelyreach build
 
       - name: 检查 Cloudflare 设置

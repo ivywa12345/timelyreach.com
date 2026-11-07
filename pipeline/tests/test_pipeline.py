@@ -537,3 +537,14 @@ def test_hand_posted_articles_stay_on_top_of_board_pages(tmp_path):
     page = (out / "f/finance/index.html").read_text(encoding="utf-8")
     assert page.index("hand posted") < page.index("robot 0")  # featured first
     assert page.index("robot 0") < page.index("old hand posted")  # but only for a day and a half
+
+
+def test_analytics_beacon_only_with_token(tmp_path, monkeypatch):
+    store = Store(tmp_path / "data")
+    monkeypatch.delenv("CF_ANALYTICS_TOKEN", raising=False)
+    out = build.build_site(tmp_path / "a", store=store, user_threads=[])
+    assert "cloudflareinsights" not in (out / "index.html").read_text(encoding="utf-8")
+    monkeypatch.setenv("CF_ANALYTICS_TOKEN", 'abc123"><script>x')
+    out = build.build_site(tmp_path / "b", store=store, user_threads=[])
+    html = (out / "index.html").read_text(encoding="utf-8")
+    assert 'data-cf-beacon=\'{"token": "abc123scriptx"}\'' in html  # sanitized to letters and digits
