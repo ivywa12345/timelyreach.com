@@ -84,6 +84,7 @@ function start() {
     $("an-note").textContent = "浏览数包含站长自己的访问；“最受欢迎”按累计浏览排序。每日浏览趋势需要新增“每日浏览”表，之后补上。";
   }).catch(function (e) { if (window.console) console.error(e); });
 }
-// Deferred scripts run in document order and this one sits above config.js / supabase.js, so wait for them.
-if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", start);
-else start();
+// Deferred scripts run in document order, and this one sits above config.js / supabase.js in the page.
+// While they run readyState is "interactive", so wait for the window load event instead.
+if (document.readyState === "complete") start();
+else window.addEventListener("load", start);
