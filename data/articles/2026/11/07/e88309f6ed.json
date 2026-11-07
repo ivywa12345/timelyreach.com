@@ -1,0 +1,27 @@
+{
+ "key": "e88309f6ed",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/hong-kong-arrests-28-in-building-bid-rigging-probe-rthk-says",
+ "title": "香港突发！28人落网，涉嫌黑帮操纵大厦维修标书",
+ "summary": "香港执法部门近日采取大规模行动，逮捕了28名与涉黑标书操纵集团有关联的人员，该集团主要针对大厦维护和装修合同。",
+ "body": [
+  "香港保安局局长邓炳强（Chris Tang）近日透露，香港执法部门雷霆出击，一举逮捕了28名嫌疑人。这群人被指控与一个涉嫌黑社会背景的“标书操纵”犯罪集团有关，专门盯上大厦的维修和翻新合同。",
+  "长期以来，房屋维修工程中的围标和造假问题一直是业主们的心头大患，不仅花冤枉钱，还可能涉及黑恶势力。这次香港当局重拳出击，可以说是切中要害，给涉案团伙狠狠敲响了警钟。",
+  "对于在海外和港澳的华人业主来说，房屋大修和物业管理向来是“吞金兽”，稍不注意就容易踩坑。这一事件再次提醒大家，物业维护和合同招标的透明度至关重要，平时一定要多留个心眼，防范利益输送和暗箱操作。"
+ ],
+ "tags": [
+  "香港新闻",
+  "扫黑除恶",
+  "大厦维修",
+  "围标",
+  "华人生活"
+ ],
+ "original_title": "Hong Kong Arrests 28 in Building Bid-Rigging Probe, RTHK Says",
+ "lang": "en",
+ "published": "2026-11-07T02:27:47+00:00",
+ "created": "2026-11-07T03:27:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

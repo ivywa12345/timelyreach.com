@@ -1,0 +1,27 @@
+{
+ "key": "7f7a282e15",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/06/us-news/zoo-employee-hospitalized-after-possible-exposure-to-saliva-of-antelope-drugged-with-potent-opioid/",
+ "title": "佛州动物园惊魂！员工接触刚打了强效麻醉的羚羊口水，当场紧急送医",
+ "summary": "迈阿密动物园（Zoo Miami）一名员工在协助给一只大羚羊做转运前的常规麻醉时，疑似因接触到带有强效阿片类药物成分的动物口水而突然身体不适，被紧急送往医院观察。",
+ "body": [
+  "上周五，佛罗里达州最大的迈阿密动物园（Zoo Miami）发生了一起惊险意外。一名工作人员在协助给一只大羚羊（greater kudu antelope）进行常规麻醉时，突然感到身体不适，随即被紧急送往医院。",
+  "当时，这名员工正在帮忙固定羚羊的头部，以便兽医在转运前为其做健康检查。园方表示，虽然目前还没最终确认员工不适的具体原因，但在这次操作中，他们给羚羊注射了包括芬太尼家族的强效阿片类药物——噻芬太尼（thiafentanil）。美国食品药品监督管理局（FDA）明确规定，这种注射液“不供人类使用”，如果不小心接触，可能会导致头晕、恶心、呼吸抑制、血压下降，极端情况下甚至会意识丧失或心搏停止。",
+  "出于谨慎考虑，现场人员立即给这名员工使用了能对抗阿片类药物过量的纳洛酮（Narcan），并将其送往杰克逊南部医疗中心（Jackson South Medical Center）观察。好在目前该员工情况稳定，仍在留院观察中。FDA提醒，在处理这类药物时，必须严格佩戴手套和护目镜并双人作业，以防发生意外暴露。"
+ ],
+ "tags": [
+  "佛罗里达",
+  "动物园",
+  "突发新闻",
+  "安全警示",
+  "阿片类药物"
+ ],
+ "original_title": "Florida zoo worker hospitalized after possible exposure to saliva of antelope drugged with potent opioid",
+ "lang": "en",
+ "published": "2026-11-07T02:22:26+00:00",
+ "created": "2026-11-07T03:28:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

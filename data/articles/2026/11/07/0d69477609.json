@@ -1,0 +1,27 @@
+{
+ "key": "0d69477609",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/china-extends-gold-buying-streak-to-two-years-as-prices-drop",
+ "title": "金价大跌，央行却还在疯狂买！中国央行黄金连增2年，这是要干嘛？",
+ "summary": "中国央行在10月继续增持黄金储备，将购金连胜纪录刷新至两年。与此同时，国际金价在10月下跌了近7%，跌破了每盎司4000美元的支撑位。",
+ "body": [
+  "根据彭博社（Bloomberg）的报道，中国中央银行在刚刚过去的10月份再度出手，将黄金收入囊中。这也意味着，央行的“买金狂潮”已经持续整整两年了。",
+  "有意思的是，就在央行疯狂扫货的同时，国际金价在10月份却迎来了明显回调，跌幅接近7%，最终收在了每盎司4000美元的支撑线以下。",
+  "对于海外华人来说，央行持续囤金的动作往往传递出对宏观经济和货币走势的深层信号，也让不少关注黄金投资和资产配置的海外同胞直呼看不懂。"
+ ],
+ "tags": [
+  "黄金",
+  "中国央行",
+  "金价下跌",
+  "资产配置",
+  "财经热点"
+ ],
+ "original_title": "China Extends Gold-Buying Streak to Two Years as Prices Drop",
+ "lang": "en",
+ "published": "2026-11-07T02:26:22+00:00",
+ "created": "2026-11-07T03:27:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

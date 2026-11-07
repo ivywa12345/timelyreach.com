@@ -1,0 +1,27 @@
+{
+ "key": "de2aa3db77",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/ai/texas-governor-elect-wants-data-center-pause-white-house-says-communities-should-decide",
+ "title": "德州当选女州长喊停数据中心建设：AI板块集体大跌，白宫表态了",
+ "summary": "德州当选州长Gina Hinojosa近日表示，在该州出台新法保护民众之前，应暂停新建数据中心。此举引发科技股和AI板块大跌，白宫经济顾问则回应称希望由社区来决定数据中心的去留。",
+ "body": [
+  "德州当选州长吉娜·希诺霍萨（Gina Hinojosa）周四在接受采访时明确表示，德州需要针对数据中心出台新的保护法律，在此之前应当暂停所有数据中心的新建项目。这一表态直接导致周四纳斯达克指数盘中大跌超过5%，高盛估计，面临限制风险的州约占全美计划产能的45%，而德州本身就占了约25%。",
+  "希诺霍萨指出，数据中心此前大量涌入偏远农村社区，但德州缺乏相应的规则和法律来保护当地居民。她强调：“我们不是讨厌数据中心，而是讨厌它们利用德州的方式。”民调显示，高达75%的德州选民反对在自己的社区修建数据中心。对于马斯克（Elon Musk）旗下的企业，希诺霍萨也已要求德州公园和野生动物委员会，在政权过渡期间暂缓处理拟议中将博卡奇卡州立公园（Boca Chica State Park）出售给SpaceX的交易。",
+  "面对德州政坛的变天，白宫方面在周五迅速做出回应。国家经济委员会主任凯文·哈塞特（Kevin Hassett）在接受CNBC采访时表示，数据中心仍有“充足的增长空间”，并认同“我们希望社区来决定数据中心”的原则。此前，特朗普总统曾建议开发商向社区支付“红利”以换取支持。分析指出，随着得州新领导层的上台，AI和科技巨头们在当地的扩张步伐将不得不踩下刹车。"
+ ],
+ "tags": [
+  "德州",
+  "AI数据中心",
+  "美股",
+  "纳斯达克",
+  "白宫"
+ ],
+ "original_title": "Texas Governor-Elect Wants Data Center Pause; White House Says 'Communities' Should Decide",
+ "lang": "en",
+ "published": "2026-11-07T01:40:00+00:00",
+ "created": "2026-11-07T03:28:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "3517dd7eda",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/beijing-vows-to-hit-back-against-us-sanctions-on-china-companies",
+ "title": "美国又对中企下手了！商务部放狠话：奉陪到底",
+ "summary": "针对美国因第三方交易对两家中国企业实施制裁，中国商务部周六回应称坚决反对，并保留采取“必要措施”维护自身权益的权利。",
+ "body": [
+  "美国最近又挥舞制裁大棒了！因为所谓的“第三方交易”问题，美国竟然对两家中国企业实施了制裁。消息一出，国内立刻做出了强硬回应。",
+  "中国商务部在周六（当地时间）迅速表态，表示坚决反对美方的无理制裁。商务部强调，中方将保留采取“必要措施”的权利，坚决坚定地保护中国企业和自身的合法权益。",
+  "对于在海外的华人朋友来说，中美之间的经贸摩擦和制裁升级，往往牵动着大家的神经。无论是做进出口贸易、科技研发，还是关心汇率和供应链的朋友，都值得多留一个心眼，随时关注后续政策对行业可能带来的波动。"
+ ],
+ "tags": [
+  "中美关系",
+  "美国制裁",
+  "中国商务部",
+  "海外华人",
+  "经贸动态"
+ ],
+ "original_title": "Beijing Vows to Hit Back Against US Sanctions on China Companies",
+ "lang": "en",
+ "published": "2026-11-07T01:54:36+00:00",
+ "created": "2026-11-07T03:27:30+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

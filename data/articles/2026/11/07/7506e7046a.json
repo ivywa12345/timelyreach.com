@@ -1,0 +1,29 @@
+{
+ "key": "7506e7046a",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/news-releases/uscis-efforts-lead-to-two-guilty-pleas-in-h-1b-fraud-conspiracy-case",
+ "title": "利用加州大学名义办假H-1B！两名亚裔男子当庭认罪，最高面临5年监禁",
+ "summary": "美国移民局（USCIS）的欺诈调查有了最新进展，两名涉嫌串谋进行签证欺诈的男子Sampath Rajidi和Sreedhar Mada近日双双认罪。两人被指控通过虚构加州大学的工作岗位，骗取H-1B签证并将外籍员工转手倒卖给其他客户。",
+ "body": [
+  "美国联邦检察官埃里克·格兰特（Eric Grant）上周宣布，在USCIS的反欺诈努力下，51岁的Sampath Rajidi和51岁的Sreedhar Mada已对串谋签证欺诈罪（conspiracy to commit visa fraud）表示认罪。",
+  "根据法院文件，Rajidi经营着两家签证服务公司——S-Team Software Inc.和Uptrend Technologies LLC，负责为企业申请H-1B外籍员工。而Mada则是加州大学戴维斯分校农业与自然资源部（University of California Agriculture and Natural Resources）的首席信息官。虽然Mada拥有监督权，但他无权未经授权就为部门直接招收H-1B员工。",
+  "在2020年6月至2023年1月期间，这两人合谋提交了大量虚假的H-1B签证申请。Rajidi在申请中谎称这些外资员工将在加州大学工作，而Mada则利用自己的职务和名誉，为“这些员工将在加州大学项目工作”的虚假说法背书。",
+  "事实上，两人心里都清楚，这些所谓的岗位根本不存在，外籍员工也没有在加州大学参与任何项目。等签证批下来后，他们把这些外籍员工当作劳动力倒卖给其他客户，不仅占用了竞争对手的H-1B名额，还在市场上获得了不正当竞争优势。目前该案正由美国国务院外交安全局、移民与海关执法局等多部门联合调查。",
+  "这两名被告将于7月30日接受美国地区法官特洛伊·L·农利（Troy L. Nunley）的宣判，两人最高将面临5年的联邦监禁以及25万美元的罚款。对于在美通过H-1B签证求职或办理身份的华人来说，移民局近年来对挂靠、虚假雇佣（shell company）等签证欺诈的打击力度正在持续加码，任何试图走捷径的违法操作最终都将付出沉重的法律代价。"
+ ],
+ "tags": [
+  "H-1B签证",
+  "移民欺诈",
+  "美国移民局",
+  "签证造假",
+  "在美华人"
+ ],
+ "original_title": "USCIS Efforts Lead to Two Guilty Pleas in H-1B Fraud Conspiracy Case",
+ "lang": "en",
+ "published": "2026-04-23T15:58:16+00:00",
+ "created": "2026-11-07T03:28:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

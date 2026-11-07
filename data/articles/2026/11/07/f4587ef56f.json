@@ -1,0 +1,26 @@
+{
+ "key": "f4587ef56f",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/trump-the-new-congress-and-the-solyndra-probe-52a1cba2?mod=rss_opinion",
+ "title": "川普刚上台，国会就盯上白宫入股企业这事了？",
+ "summary": "美国国会即将对政府持有的美国公司股权展开立法审查，这可能引发新一轮的政治和商业博弈。",
+ "body": [
+  "话说回来，美国政府手里握着不少美国公司的股权，这事儿马上就要迎来国会的严格审查了。",
+  "根据《华尔街日报》作者Jim Secreto的报道，随着新一届国会开张以及川普（Trump）即将上台，这种由行政部门直接入股本土企业的做法，正成为议员们眼中的焦点，即将面临立法层面的大检查。",
+  "对于在美华人来说，政府对私营企业的深度介入不仅关乎宏观经济政策，也可能对相关行业的市场走向产生影响，咱们日常投资和商业发展的小心肝可得跟着颤一颤了。"
+ ],
+ "tags": [
+  "美国国会",
+  "川普",
+  "商业政策",
+  "华尔街日报"
+ ],
+ "original_title": "Trump, the New Congress and the Solyndra Probe",
+ "lang": "en",
+ "published": "2026-11-06T21:15:00+00:00",
+ "created": "2026-11-07T03:27:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
