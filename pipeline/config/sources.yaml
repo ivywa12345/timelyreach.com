@@ -174,7 +174,7 @@ sources:
   - id: zaobao
     name: "联合早报"
     lang: zh-news
-    board: news
+    board: china
     limit: 3
     full_text: true
     merge: true

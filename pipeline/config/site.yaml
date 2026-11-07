@@ -31,6 +31,10 @@ boards:
     name: "美国新闻"
     kind: auto
     description: "美国社会、政治与国际要闻，从华尔街日报、纽约邮报、文学城等编译"
+  - id: china
+    name: "中国观察"
+    kind: auto
+    description: "联合早报等中文媒体的中国与亚洲要闻，海外华人关心的家乡动态"
   - id: hot
     name: "网络热帖"
     kind: auto
