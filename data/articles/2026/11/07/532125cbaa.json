@@ -1,0 +1,28 @@
+{
+ "key": "532125cbaa",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/crypto-s-trump-fueled-washington-boom-reaches-its-endgame",
+ "title": "特朗普撑腰的币圈狂欢踩刹车？民主党横扫国会，加密行业这回麻烦大了",
+ "summary": "彭博社报道指出，随着民主党在中期选举中大获全胜并掌控国会，加密货币行业靠特朗普带来的政治红利戛然而止，接下来不仅要面对更严厉的行业监管，其与特朗普的密切关系也将面临严苛审查。",
+ "body": [
+  "加密货币行业在华盛顿的“政治蜜月期”，突然撞上了南墙。据彭博社（Bloomberg）报道，此前借助特朗普（Donald Trump）东风一路顺风顺水的币圈狂欢已经走入终局。随着民主党在中期选举中大获全胜、即将全面掌控国会，加密行业在政界呼风唤雨的好日子骤然画上了休止符。",
+  "风向一变，清算可能就要来了。报道指出，失去政治庇护预期的加密货币行业，接下来将面临华盛顿出台的更严厉监管新规。不仅如此，国会新掌权者还将把放大镜对准该行业，深入审查其与特朗普之间千丝万缕的利益与合作纽带。",
+  "对于在美投资加密资产、或者在相关科技行业谋职的华人朋友来说，政策风向的逆转往往意味着合规风暴和市场震荡。过去借着政治光环一路狂奔的时代告一段落，接下来大家手里的“钱袋子”可能真得系紧安全带了。"
+ ],
+ "tags": [
+  "加密货币",
+  "特朗普",
+  "民主党",
+  "中期选举",
+  "Web3",
+  "美国政治"
+ ],
+ "original_title": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
+ "lang": "en",
+ "published": "2026-11-07T13:00:00+00:00",
+ "created": "2026-11-07T22:51:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

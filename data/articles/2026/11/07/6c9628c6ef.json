@@ -1,0 +1,26 @@
+{
+ "key": "6c9628c6ef",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/europe/six-dead-in-shooting-at-market-square-in-poland-7ba72f7b?mod=rss_worldnews",
+ "title": "波兰市集突发枪击案：枪手行凶致6人死亡，已被警方控制",
+ "summary": "波兰马基特广场（Market Square）发生一起严重枪击事件，造成6人死亡。嫌疑人家中另被发现3名死者，目前嫌疑人已被警方控制，官方初步定性为恐怖袭击。",
+ "body": [
+  "据《华尔街日报》（The Wall Street Journal）记者约瑟夫·皮萨尼（Joseph Pisani）报道，波兰马基特广场（Market Square）近日发生了一起震惊当地的枪击事件，已造成6人死亡。",
+  "除了在广场上遇害的人员外，警方随后在嫌疑人的家中又发现了3名死者。目前，涉案嫌疑人已经被警方抓获并拘留。相关官方官员在谈到这起惨剧时，已将其定性为一起恐怖袭击事件。",
+  "对于远在海外的华人来说，各类突发公共安全事件时刻提醒着我们，无论身处何地，日常出行都要密切关注周边环境，提高安全防范意识，确保自身与家人的平安。"
+ ],
+ "tags": [
+  "波兰枪击案",
+  "恐怖袭击",
+  "海外安全",
+  "突发新闻"
+ ],
+ "original_title": "Six Dead in Shooting at Market Square in Poland",
+ "lang": "en",
+ "published": "2026-11-07T22:27:00+00:00",
+ "created": "2026-11-07T22:45:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
