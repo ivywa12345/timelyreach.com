@@ -1,0 +1,27 @@
+{
+ "key": "9c04e2e7da",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/democracy-works-858600db?mod=rss_opinion",
+ "title": "两党都听好了！华尔街日报：民主正在发挥作用，选民的话得听",
+ "summary": "《华尔街日报》专栏作家James Freeman指出，民主机制正在正常运转，无论是民主党还是共和党，都应该认真倾听选民的声音。",
+ "body": [
+  "近日，《华尔街日报》发表了一篇由专栏作家詹姆斯·弗里曼（James Freeman）撰写的评论文章，题为《民主在起作用》（Democracy Works）。",
+  "文章的核心观点非常直接：美国两党政治的核心，归根结底还是要听取选民的诉求。无论是民主党还是共和党，都不能忽视民众在投票箱前表达的意愿。",
+  "对于海外华人来说，无论是关心税收、治安还是社区发展，积极发声并让两党听到选民的真实诉求，正是参与美国民主的重要方式。"
+ ],
+ "tags": [
+  "美国政治",
+  "民主党",
+  "共和党",
+  "选民心声",
+  "华尔街日报"
+ ],
+ "original_title": "Democracy Works",
+ "lang": "en",
+ "published": "2026-11-04T19:34:00+00:00",
+ "created": "2026-11-07T03:40:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
