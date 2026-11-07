@@ -5,7 +5,15 @@ function start() {
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
   function num(n) { return Number(n || 0).toLocaleString("en-US"); }
 
-  if (!CFG.supabaseUrl || !CFG.supabaseAnonKey || !window.supabase) { $("an-off").hidden = false; return; }
+  if (!CFG.supabaseUrl || !CFG.supabaseAnonKey || !window.supabase) {
+    var why = [];
+    if (!CFG.supabaseUrl) why.push("页面里没有数据库地址");
+    if (!CFG.supabaseAnonKey) why.push("页面里没有数据库 key");
+    if (!window.supabase) why.push("Supabase 脚本没有加载");
+    $("an-off").textContent = "论坛数据库还没有连接，暂时没有数据。（" + why.join("；") + "）";
+    $("an-off").hidden = false;
+    return;
+  }
   var sb = window.supabase.createClient(CFG.supabaseUrl, CFG.supabaseAnonKey);
 
   function count(table, build) {
