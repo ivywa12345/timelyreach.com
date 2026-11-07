@@ -1,0 +1,25 @@
+{
+ "key": "ba869df13f",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/russia/ten-months-of-war-to-gain-46-square-miles-how-russia-is-failing-on-the-battlefield-3184ae10?mod=rss_worldnews",
+ "title": "打了10个月才拿下46平方英里？俄军在顿涅茨克的进攻快撑不下去了",
+ "summary": "乌克兰成功粉碎了莫斯科在顿涅茨克地区的攻势，俄军在付出巨大代价后仅取得了微小进展，目前正在进行最后一搏。",
+ "body": [
+  "打了一圈下来，结果怎么这么寒酸？根据《华尔街日报》的报道，在经历了长达十个月的惨烈战斗后，俄罗斯军队在乌克兰东部顿涅茨克地区（Donetsk region）仅仅推进了46平方英里的地盘，这场进攻的表现可以说是步履维艰。",
+  "不过，俄罗斯军队并没有就此收手，目前正在发起新一轮的进攻，试图做最后的努力。与此同时，乌克兰军队凭借顽强的抵抗，成功挡住了莫斯科这一波又一波的攻势，粉碎了对方迅速取得重大突破的企图。战场上的消耗战依然在持续，双方都在为每一寸土地付出沉重的代价。"
+ ],
+ "tags": [
+  "俄乌战争",
+  "顿涅茨克",
+  "军事动态",
+  "华尔街日报"
+ ],
+ "original_title": "Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield",
+ "lang": "en",
+ "published": "2026-11-07T04:00:00+00:00",
+ "created": "2026-11-07T10:06:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

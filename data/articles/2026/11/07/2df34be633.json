@@ -1,0 +1,24 @@
+{
+ "key": "2df34be633",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/economy/central-banking/china-forex-reserves-edged-up-in-october-89c34113?mod=rss_markets_main",
+ "title": "10月中国外汇储备小幅回升，具体情况是怎样的？",
+ "summary": "《华尔街日报》报道称，中国10月外汇储备出现小幅增长。",
+ "body": [
+  "根据《华尔街日报》的最新报道，中国官方在10月份公布的数据显示，外汇储备规模出现了小幅上升。",
+  "虽然具体的数据细节和波动原因还在进一步观察中，但这一变化反映了近期中国宏观经济及汇率市场的整体表现。"
+ ],
+ "tags": [
+  "中国经济",
+  "外汇储备",
+  "财经速递"
+ ],
+ "original_title": "China Forex Reserves Edged Up in October",
+ "lang": "en",
+ "published": "2026-11-07T04:31:00+00:00",
+ "created": "2026-11-07T10:06:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

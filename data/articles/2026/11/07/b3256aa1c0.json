@@ -1,0 +1,26 @@
+{
+ "key": "b3256aa1c0",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/why-india-s-stock-markets-hold-a-session-on-diwali-explainer",
+ "title": "排灯节放假还要炒股？印度股市这传统绝了！",
+ "summary": "印度股市将在排灯节期间举行一个特殊的缩短交易时段，延续这一延续数代人的传统。",
+ "body": [
+  "说到过节，大家的第一反应肯定是关门放假、阖家团圆。不过，印度股市可不这么想。据彭博社报道，印度股市将在周日迎来一个特殊的缩短交易时段（Shortened session），庆祝该国最重要的节日——排灯节（Diwali）。",
+  "可别小看这个传统，它已经历了时代的巨大变迁。从当年靠手写账本和热闹非凡的交易大厅，到如今人人拿着智能手机、靠算法进行高频交易，这个特殊的交易仪式却一直顽强地保留了下来。",
+  "对于在海外关注全球市场的华人来说，这也是观察印度经济活力和独特文化的一个有趣窗口。虽然我们不用在节日里盯着盘面，但这种把传统文化与现代金融结合的做法，确实让人感叹各个国家的股市都有自己的“硬核”生存之道。"
+ ],
+ "tags": [
+  "印度股市",
+  "排灯节",
+  "金融趣闻",
+  "全球市场"
+ ],
+ "original_title": "Why India’s Stock Markets Hold a Session on Diwali: Explainer",
+ "lang": "en",
+ "published": "2026-11-07T04:30:00+00:00",
+ "created": "2026-11-07T10:07:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

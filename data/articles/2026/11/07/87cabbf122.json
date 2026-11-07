@@ -1,0 +1,26 @@
+{
+ "key": "87cabbf122",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/trafigura-snaps-up-copper-in-asia-as-china-faces-supply-crunch",
+ "title": "亚洲铜矿闹荒荒！大宗商品巨头托克疯狂囤货，到底咋回事？",
+ "summary": "由于亚洲地区铜供应紧缺，大宗商品巨头托克集团（Trafigura Group）近期开始大量买入铜，以增加对亚洲的销售，这进一步加剧了市场争夺战，导致现货溢价飙升至历史新高。",
+ "body": [
+  "近期亚洲地区的铜供应正面临严重短缺。根据彭博社报道，大宗商品巨头托克集团（Trafigura Group）为了缓解这一情况，正在大举扫货买入大量铜，准备运往亚洲销售。",
+  "受中国及整个亚洲本地供应紧张的影响，市场上掀起了一场金属争夺战，这也直接把区域内现货货物的溢价推到了历史最高记录。"
+ ],
+ "tags": [
+  "托克集团",
+  "铜",
+  "亚洲供应链",
+  "大宗商品",
+  "财经快讯"
+ ],
+ "original_title": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch",
+ "lang": "en",
+ "published": "2026-11-07T08:00:21+00:00",
+ "created": "2026-11-07T10:07:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

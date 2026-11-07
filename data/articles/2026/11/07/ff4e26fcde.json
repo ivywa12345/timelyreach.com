@@ -1,0 +1,25 @@
+{
+ "key": "ff4e26fcde",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/kyiv-faces-russian-missile-barrage-hits-saratov-oil-refinery",
+ "title": "基辅又遭导弹狂轰滥炸！能源设施和桥梁被盯上，已致死伤",
+ "summary": "乌克兰首都基辅及周边地区夜间遭遇俄罗斯新一轮导弹袭击，重点攻击能源设施和桥梁，造成至少1人平民死亡、多人受伤。",
+ "body": [
+  "据彭博社（Bloomberg）报道，乌克兰首都基辅（Kyiv）及周边地区在夜间遭遇了俄罗斯的新一轮导弹密集轰炸。这一次，俄军的打击目标主要集中在当地的能源设施和桥梁上，袭击造成至少1名平民丧生，另有多人受伤。",
+  "目前，冲突双方仍在持续对基础设施进行攻防战，基辅的防空压力和能源供应再次面临严峻考验。"
+ ],
+ "tags": [
+  "乌克兰局势",
+  "基辅空袭",
+  "俄乌冲突",
+  "能源设施"
+ ],
+ "original_title": "Kyiv Faces Russian Missile Barrage, Hits Saratov Oil Refinery",
+ "lang": "en",
+ "published": "2026-11-07T09:21:06+00:00",
+ "created": "2026-11-07T10:07:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
