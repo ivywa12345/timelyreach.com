@@ -59,9 +59,9 @@ GitHub Actions（每 4 小时）
 1. 在 <https://supabase.com> 用 GitHub 登录，新建项目（区域选 US East 或 US West）。
 2. **SQL Editor** → 粘贴 `supabase/schema.sql` 全部内容 → **Run**。
    - 用 GitHub 账号 `ivywa12345` 登录本站的人自动成为**站长**（邮箱注册无法冒充）。
-3. **Authentication → URL Configuration**：Site URL 填 `https://timelyreach.com`，Redirect URLs 加 `https://timelyreach.com/**`。
+3. **Authentication → URL Configuration**：Site URL 填 `https://www.timelyreach.com`，Redirect URLs 加 `https://www.timelyreach.com/**`。
 4. **GitHub 登录**：在 GitHub **Settings → Developer settings → OAuth Apps → New OAuth App**，
-   Homepage 填 `https://timelyreach.com`，Callback URL 填 `https://<你的项目ID>.supabase.co/auth/v1/callback`；
+   Homepage 填 `https://www.timelyreach.com`，Callback URL 填 `https://<你的项目ID>.supabase.co/auth/v1/callback`；
    把 Client ID / Secret 填到 Supabase **Authentication → Providers → GitHub** 并启用。
 5. **Project Settings → API** 复制 Project URL 和 `anon` public key，填到本仓库
    **Settings → Secrets and variables → Actions → Variables**：
@@ -93,7 +93,7 @@ Claude 调用开启了服务端 refusal fallback（`fallbacks: "default"`）：�
 
 ### 7. SEO 收录
 
-1. [Google Search Console](https://search.google.com/search-console) 添加域名 `timelyreach.com`（DNS TXT 验证），提交 `https://timelyreach.com/sitemap.xml` 和 `https://timelyreach.com/sitemap-news.xml`。
+1. [Google Search Console](https://search.google.com/search-console) 添加域名 `timelyreach.com`（DNS TXT 验证），提交 `https://www.timelyreach.com/sitemap.xml` 和 `https://www.timelyreach.com/sitemap-news.xml`。
 2. [Bing Webmaster Tools](https://www.bing.com/webmasters) 可以直接从 Google Search Console 导入。
 3. 在 `pipeline/config/site.yaml` 里调整站名、描述和关键词。
 

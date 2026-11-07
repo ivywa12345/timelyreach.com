@@ -154,7 +154,7 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
         render(
             "article.html",
             f"t/{a.slug}.html",
-            canonical=f"{site.base_url}/t/{a.slug}.html",
+            canonical=f"{site.base_url}/t/{a.slug}",
             a=a,
             board=site.board_map.get(a.board),
             related=related,
@@ -165,7 +165,7 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
         render(
             "user_thread.html",
             f"p/{t['id']}.html",
-            canonical=f"{site.base_url}/p/{t['id']}.html",
+            canonical=f"{site.base_url}/p/{t['id']}",
             t=t,
             board=site.board_map.get(t.get("board")),
         )
@@ -190,7 +190,7 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
         + ";\n",
     )
     _write(out / "search.json", json.dumps(
-        [{"t": a.title, "s": a.summary[:80], "u": f"/t/{a.slug}.html", "b": a.board, "d": a.created[:10]} for a in articles[:3000]],
+        [{"t": a.title, "s": a.summary[:80], "u": f"/t/{a.slug}", "b": a.board, "d": a.created[:10]} for a in articles[:3000]],
         ensure_ascii=False, separators=(",", ":"),
     ))
     _write_seo_files(out, site, articles, user_threads, now)
@@ -206,9 +206,9 @@ def _write_seo_files(out: Path, site: SiteConfig, articles: list[Article], user_
     for b in site.boards:
         urls.append((f"{base}/f/{b.id}/", now, "hourly"))
     for a in articles:
-        urls.append((f"{base}/t/{a.slug}.html", a.created, "weekly"))
+        urls.append((f"{base}/t/{a.slug}", a.created, "weekly"))
     for t in user_threads:
-        urls.append((f"{base}/p/{t['id']}.html", t.get("updated_at") or t.get("created_at") or now, "daily"))
+        urls.append((f"{base}/p/{t['id']}", t.get("updated_at") or t.get("created_at") or now, "daily"))
     urls.append((f"{base}/about.html", now, "monthly"))
 
     lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
@@ -226,7 +226,7 @@ def _write_seo_files(out: Path, site: SiteConfig, articles: list[Article], user_
     ]
     for a in news:
         lines.append(
-            f"<url><loc>{xml_escape(f'{base}/t/{a.slug}.html')}</loc><news:news><news:publication>"
+            f"<url><loc>{xml_escape(f'{base}/t/{a.slug}')}</loc><news:news><news:publication>"
             f"<news:name>{xml_escape(site.short_name)}</news:name><news:language>zh-cn</news:language>"
             f"</news:publication><news:publication_date>{a.created}</news:publication_date>"
             f"<news:title>{xml_escape(a.title)}</news:title></news:news></url>"
@@ -242,7 +242,7 @@ def _write_seo_files(out: Path, site: SiteConfig, articles: list[Article], user_
 
     items = []
     for a in articles[:50]:
-        link = f"{base}/t/{a.slug}.html"
+        link = f"{base}/t/{a.slug}"
         pub = datetime.fromisoformat(a.created).strftime("%a, %d %b %Y %H:%M:%S +0000")
         items.append(
             f"<item><title>{xml_escape(a.title)}</title><link>{link}</link><guid>{link}</guid>"

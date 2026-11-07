@@ -81,7 +81,7 @@
     {% if related %}
     <h2 class="side-head">{{ board.name if board else '' }} · 相关</h2>
     <ul class="sidelist">
-      {% for r in related %}<li><a href="/t/{{ r.slug }}.html">{{ r.title }}</a></li>{% endfor %}
+      {% for r in related %}<li><a href="/t/{{ r.slug }}">{{ r.title }}</a></li>{% endfor %}
     </ul>
     {% endif %}
     <h2 class="side-head" style="margin-top:22px">热帖排行</h2>

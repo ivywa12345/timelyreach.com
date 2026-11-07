@@ -20,7 +20,7 @@
     {% set lead = headlines[0] %}
     <article class="lead">
       {% if board_map.get(lead.board) %}<a class="kicker" href="/f/{{ lead.board }}/">{{ board_map[lead.board].name }}</a>{% endif %}
-      <h2><a href="/t/{{ lead.slug }}.html">{{ lead.title }}</a></h2>
+      <h2><a href="/t/{{ lead.slug }}">{{ lead.title }}</a></h2>
       {% if lead.summary|nourl %}<p class="dek">{{ lead.summary|nourl }}</p>{% endif %}
       <div class="meta"><span>{{ lead.source_name }}</span><time datetime="{{ lead.created }}">{{ lead.created|datetime_cn }}</time></div>
     </article>

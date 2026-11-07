@@ -167,15 +167,15 @@ def test_build_site(tmp_path, monkeypatch):
     for block in re.findall(r'<script type="application/ld\+json">(.*?)</script>', page, re.S):
         data = json.loads(block)
         assert data["@type"] in ("NewsArticle", "BreadcrumbList")
-    assert '<link rel="canonical" href="https://timelyreach.com/t/2026/10/17/0000000001.html">' in page
+    assert '<link rel="canonical" href="https://www.timelyreach.com/t/2026/10/17/0000000001">' in page
 
     assert (out / "index.html").exists() and (out / "f/finance/index.html").exists()
     assert (out / "f/finance/2.html").exists()  # 48 finance articles, 40 per page
     assert (out / "p/7.html").read_text(encoding="utf-8").count("<p>第") == 2
     sitemap = (out / "sitemap.xml").read_text(encoding="utf-8")
-    assert "https://timelyreach.com/p/7.html" in sitemap and "/t/2026/10/17/0000000002.html" in sitemap
-    assert (out / "CNAME").read_text().strip() == "timelyreach.com"
-    assert "Sitemap: https://timelyreach.com/sitemap.xml" in (out / "robots.txt").read_text()
+    assert "https://www.timelyreach.com/p/7" in sitemap and "/t/2026/10/17/0000000002" in sitemap
+    assert (out / "CNAME").read_text().strip() == "www.timelyreach.com"
+    assert "Sitemap: https://www.timelyreach.com/sitemap.xml" in (out / "robots.txt").read_text()
     cfg = (out / "static/js/config.js").read_text(encoding="utf-8")
     assert '"supabaseUrl": ""' in cfg
     idx = json.loads((out / "search.json").read_text(encoding="utf-8"))
@@ -267,7 +267,7 @@ def test_run_picks_posts_once_and_closes_issue(tmp_path, monkeypatch):
     assert picks.run_picks(store, [rewrite.FreeTranslateProvider()]) == 1
     art = store.load_articles()[0]
     assert art.source_id == "editor" and art.board == "finance" and art.body[0].startswith("VIX")
-    assert replies[0][0] == 3 and "https://timelyreach.com/t/" in replies[0][1]
+    assert replies[0][0] == 3 and "https://www.timelyreach.com/t/" in replies[0][1]
     assert picks.run_picks(store, [rewrite.FreeTranslateProvider()]) == 0  # not reposted
 
 

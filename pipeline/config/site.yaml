@@ -4,7 +4,7 @@ short_name: "华人时讯"
 tagline: "海外华人每日热点 · 美国新闻中文速递 · 华人论坛闲话"
 description: "TimelyReach 华人时讯：每天精选华尔街日报、彭博、纽约邮报、ZeroHedge、推特和各大华人论坛热帖，用通俗中文讲清楚美国新闻、财经股市与华人生活，欢迎注册参与讨论。"
 keywords: "海外华人,华人论坛,美国新闻,中文新闻,华尔街日报中文,彭博中文,美股,华人闲话,一亩三分地,文学城,北美华人"
-base_url: "https://timelyreach.com"
+base_url: "https://www.timelyreach.com"
 language: "zh-CN"
 # 站长 GitHub 账号：用这个账号通过 GitHub 登录的用户自动成为站长（admin）
 admin_github: "ivywa12345"

@@ -157,7 +157,7 @@ def run_picks(store: Store, providers: list[Provider]) -> int:
         article.key = key
         store.save_article(article)
         created += 1
-        link = f"{site.base_url}/t/{article.slug}.html"
+        link = f"{site.base_url}/t/{article.slug}"
         try:
             gh.reply_and_close(issue["number"], f"已发布：[{article.title}]({link})\n\n（网站几分钟后更新）")
         except Exception as exc:  # noqa: BLE001

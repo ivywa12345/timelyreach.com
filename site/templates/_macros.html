@@ -1,7 +1,7 @@
 {% macro story(a, board_map, dek=True, kicker=True) %}
 <article class="story">
   {% if kicker and board_map and board_map.get(a.board) %}<a class="kicker" href="/f/{{ a.board }}/">{{ board_map[a.board].name }}</a>{% endif %}
-  <h3><a href="/t/{{ a.slug }}.html">{{ a.title }}</a></h3>
+  <h3><a href="/t/{{ a.slug }}">{{ a.title }}</a></h3>
   {% if dek and a.summary|nourl %}<p class="dek">{{ a.summary|nourl }}</p>{% endif %}
   <div class="meta"><span>{{ a.source_name }}</span><time datetime="{{ a.created }}">{{ a.created|datetime_cn }}</time></div>
 </article>
@@ -10,7 +10,7 @@
 {% macro article_row(a, board_map) %}
 <li class="row" data-key="{{ a.thread_key }}">
   <div class="row-main">
-    <a class="row-title" href="/t/{{ a.slug }}.html">{{ a.title }}</a>
+    <a class="row-title" href="/t/{{ a.slug }}">{{ a.title }}</a>
     {% if a.summary|nourl %}<p class="dek">{{ a.summary|nourl }}</p>{% endif %}
     <div class="row-meta">
       {% if a.source_id == 'editor' %}<span class="tag tag-pick">站长荐读</span>{% endif %}
