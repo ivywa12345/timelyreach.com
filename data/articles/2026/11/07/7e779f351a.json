@@ -1,0 +1,25 @@
+{
+ "key": "7e779f351a",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/gunman-opens-fire-in-krakow-poland-killing-five-people",
+ "title": "太惨！波兰旅游名城发生枪击案，已致5死十多人受伤",
+ "summary": "周六，波兰第二大城市克拉科夫的历史老城区发生了一起严重枪击事件，目前已造成5人死亡、十多人受伤，嫌疑人已被送医。",
+ "body": [
+  "据外媒彭博社（Bloomberg）报道，波兰第二大城市克拉科夫（Krakow）的著名历史老城区（Old Town）在周六（当地时间）发生了一起令人震惊的枪击惨案。警方表示，这起事件已造成5人不幸丧生，另有大约十多人受伤。",
+  "目前，警方已经控制了现场，嫌疑人在经历交火或冲突后已被送往医院救治。由于事发地点是游客和当地人密集的历史文化区，具体的作案动机以及嫌疑人的身份背景，当地警方仍在进一步调查当中。"
+ ],
+ "tags": [
+  "波兰",
+  "克拉科夫",
+  "枪击案",
+  "海外新闻"
+ ],
+ "original_title": "Krakow Shooting Leaves Five Dead, Suspect Hospitalized After Gunfire",
+ "lang": "en",
+ "published": "2026-11-07T15:54:25+00:00",
+ "created": "2026-11-07T16:52:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

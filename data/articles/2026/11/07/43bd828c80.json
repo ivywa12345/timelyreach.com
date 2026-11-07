@@ -1,0 +1,27 @@
+{
+ "key": "43bd828c80",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/senate-plan-to-fast-track-energy-projects-headed-for-a-showdown",
+ "title": "美国国会又要对能源审批下手了？10多年来最接近通过的一次！",
+ "summary": "经过十多年的艰难博弈，华盛顿的议员们终于接近通过一项旨在简化能源项目审批的法案，这对推动电网现代化、AI数据中心建设以及清洁能源发展至关重要。",
+ "body": [
+  "在经历无数次的流产之后，华盛顿的立法者们这次真的要对繁琐的能源项目审批系统动真格了。根据彭博社记者Ari Natter的报道，一项旨在加速能源项目审批的重磅法案正蓄势待发，即将迎来一场关键的对决。",
+  "长期以来，美国建设现代化电网、人工智能（AI）数据中心以及发展清洁能源，往往都要被繁琐复杂的审批流程卡得死死的。这次的立法正是为了打破这个僵局，精简审批环节，让各种急需的能源和基建项目不再“难产”。",
+  "对于关心美国基建、科技发展以及能源走向的在美华人来说，这项改革如果能顺利落地，将直接关系到未来AI产业的算力支持、电网的稳定性以及相关清洁能源板块的发展动向。"
+ ],
+ "tags": [
+  "美国国会",
+  "能源审批",
+  "AI数据中心",
+  "电网现代化",
+  "清洁能源"
+ ],
+ "original_title": "Senate Plan to Fast-Track Energy Projects Headed for a Showdown",
+ "lang": "en",
+ "published": "2026-11-07T16:00:00+00:00",
+ "created": "2026-11-07T16:52:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

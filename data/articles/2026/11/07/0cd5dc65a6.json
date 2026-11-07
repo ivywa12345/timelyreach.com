@@ -1,0 +1,27 @@
+{
+ "key": "0cd5dc65a6",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+ "title": "巴菲特大手笔！伯克希尔三季度回购超90亿美元，现金储备逼近3800亿",
+ "summary": "伯克希尔·哈撒韦公司（Berkshire Hathaway）公布了第三季度财报，在营业利润和整体利润双双下滑的情况下，公司大幅加码股票回购，金额较第二季度翻倍还多，总额达到96亿美元。",
+ "body": [
+  "根据CNBC报道，由格雷格·阿贝尔（Greg Abel）领导的伯克希尔·哈撒韦公司（Berkshire Hathaway）在周六宣布，由于三季度经营利润和整体利润出现下滑，公司加速了股票回购步伐。",
+  "数据显示，该公司在第三季度回购了价值96亿美元的伯克希尔股票，这一数字是第二季度4.5亿美元的两倍多，也将今年全年的总回购额推高至约144亿美元。回购激增的背景是伯克希尔的营业利润同比下跌了5.8%至127.05亿美元，主要是受到保险业务利润回调的拖累，其中保险承保业务同比大跌43%。不过，铁路、能源和制造业等板块的盈利均实现了同比增长。此外，包括股票投资组合在内的整体利润也同比下滑28%至221.12亿美元。",
+  "尽管盈利有所回落，但由于资金近期从科技股大举撤出，伯克希尔的股价表现亮眼，过去一个月A类股涨幅超过12%，跑赢了大盘。截至三季度末，其现金储备进一步增至3774.35亿美元，前五大重仓股则依然保持不变，分别为Alphabet、美国运通（American Express）、苹果（Apple）、美国银行（Bank of America）和可口可乐（Coca-Cola）。"
+ ],
+ "tags": [
+  "巴菲特",
+  "伯克希尔哈撒韦",
+  "美股财报",
+  "股票回购",
+  "投资理财"
+ ],
+ "original_title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+ "lang": "en",
+ "published": "2026-11-07T15:23:46+00:00",
+ "created": "2026-11-07T16:53:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

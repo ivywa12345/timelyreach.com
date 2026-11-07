@@ -1,0 +1,25 @@
+{
+ "key": "4e695c07c3",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/karl-marx-just-as-unproductive-and-irresponsible-as-youd-expect-627a395c?mod=rss_opinion",
+ "title": "马克思的真实财务状况曝光：没怎么正经上班，钱从哪来？",
+ "summary": "根据《华尔街日报》专栏文章分析，卡尔·马克思（Karl Marx）的手稿显示他有一笔不错的收入，但几乎都不是靠工作赚来的。",
+ "body": [
+  "近日，《华尔街日报》专栏作家詹姆斯·弗里曼（James Freeman）在一篇评论文章中指出，通过查阅卡尔·马克思（Karl Marx）的个人文件发现，他其实有着一笔还算体面的收入，但几乎全都不是靠自己辛勤工作赚来的。",
+  "根据这些历史资料记录，马克思虽然收入不错，但在资金的创造和管理上却表现得相当不负责任和缺乏生产力，完全符合人们对他的某种刻板印象。"
+ ],
+ "tags": [
+  "马克思",
+  "华尔街日报",
+  "历史人物",
+  "财务状况"
+ ],
+ "original_title": "Karl Marx Just as Unproductive and Irresponsible as You’d Expect",
+ "lang": "en",
+ "published": "2026-11-03T22:35:00+00:00",
+ "created": "2026-11-07T16:51:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "8db4e0c663",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe",
+ "title": "土耳其基金黑幕越滚越大！前监管局副主席也被抓了",
+ "summary": "土耳其当局周六逮捕了该国市场监管机构的前副主席，这是该国不断扩大的基金丑闻中落马的最新高管。",
+ "body": [
+  "据土耳其国营阿纳多卢通讯社（Anadolu Agency）周六报道，土耳其当局已经逮捕了该国市场监管机构的前副主席，这也是卷入这场不断扩大的基金丑闻中的最新一位高管。",
+  "目前官方尚未披露这起基金丑闻的具体细节，但随着调查的深入，越来越多金融监管层和企业高管被牵扯其中，显示出当地金融监管风暴正在升级。"
+ ],
+ "tags": [
+  "土耳其",
+  "基金丑闻",
+  "金融监管",
+  "海外新闻"
+ ],
+ "original_title": "Turkey Arrests Former Regulatory Executive in Growing Fund Probe",
+ "lang": "en",
+ "published": "2026-11-07T13:56:55+00:00",
+ "created": "2026-11-07T16:51:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "40cfba93fc",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/protein-craze-fuels-an-investment-boom-in-livestock-health",
+ "title": "爱吃肉有福了？资本狂砸数十亿，只为让牛羊猪鸡更健康！",
+ "summary": "根据彭博社报道，全球掀起的高蛋白饮食热潮正在引爆畜牧业健康投资，各大动物保健公司纷纷投入数十亿美元，致力于改善牛、猪、家禽的健康，以保障人类的食品安全和肉类质量。",
+ "body": [
+  "爱吃肉的朋友们注意啦！最近几年大家对高蛋白食品的热情居高不下，不仅催生了各种蛋白棒和奶昔，现在连资本市场都直接把钱砸向了畜牧业。据彭博社报道，动物健康领域的企业正在迎来一场投资狂潮，投入高达数十亿美元来提升牛、猪和家禽等家畜的健康水平。",
+  "别小看这笔投资，这背后的逻辑其实很简单：人类吃进去的肉新不新鲜、安不安全，直接取决于动物在生长过程中的健康状况。这些动物保健公司（Animal health companies）把巨额资金用在研发和基础设施上，就是为了确保端上我们餐桌的肉类质量更高、更健康。",
+  "对咱们海外华人来说，平时去超市买肉总是精挑细选，有机、无抗生素的肉类往往价格不菲。随着这波针对牲畜健康的几十亿投资落地，未来市面上可能会出现更多高品质、更让人放心的肉制品，这也意味着咱们的“吃肉成本”和餐桌选择可能会发生一些新的变化。"
+ ],
+ "tags": [
+  "食品安全",
+  "海外生活",
+  "畜牧业投资",
+  "高蛋白饮食",
+  "财经新闻"
+ ],
+ "original_title": "Protein Craze Fuels an Investment Boom in Livestock Health",
+ "lang": "en",
+ "published": "2026-11-07T15:00:00+00:00",
+ "created": "2026-11-07T16:51:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

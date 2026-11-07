@@ -1,0 +1,27 @@
+{
+ "key": "4b05da6194",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/berkshire-hathaway-s-operating-earnings-fall-buybacks-rise",
+ "title": "巴菲特又出手了！伯克希尔三季度狂砸96亿美元回购自家股票",
+ "summary": "巴菲特旗下的伯克希尔哈撒韦公司在第三季度花费约96亿美元回购股票，显示高管认为股价被低估。不过，受保险业务下滑拖累，公司当季营业利润有所下降。",
+ "body": [
+  "巴菲特（Warren Buffett）旗下的伯克希尔哈撒韦公司（Berkshire Hathaway Inc.）在第三季度动作频频，一口气砸下了大约96亿美元回购自家股票。这释放出了一个强烈的信号：公司高管们觉得自家股票目前的价位被低估了。",
+  "不过，这也是一份喜忧参半的成绩单。虽然回购力度不小，但由于保险承保业务的表现出现下滑，直接拖累了伯克希尔当季的整体营业利润。",
+  "对于关注美股和大盘风向的海外华人来说，巴菲特一向被视为投资风向标。他大手笔回购自家股票，往往代表着对公司长期价值的信心，也给当前动荡的市场注入了一剂定心丸。"
+ ],
+ "tags": [
+  "巴菲特",
+  "伯克希尔哈撒韦",
+  "股票回购",
+  "美股动态",
+  "财经新闻"
+ ],
+ "original_title": "Berkshire Hathaway Boosts Buybacks as Operating Income Slips",
+ "lang": "en",
+ "published": "2026-11-07T13:01:21+00:00",
+ "created": "2026-11-07T16:51:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
