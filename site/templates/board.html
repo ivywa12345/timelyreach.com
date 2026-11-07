@@ -1,7 +1,7 @@
 {% set title = board.name ~ ("（第" ~ page ~ "页）" if page > 1 else "") %}
 {% set description = board.description %}
 {% extends "base.html" %}
-{% from "_macros.html" import article_row, user_row %}
+{% from "_macros.html" import article_row, user_row, ad %}
 {% block head %}
 {% if prev_url %}<link rel="prev" href="{{ prev_url }}">{% endif %}
 {% if next_url %}<link rel="next" href="{{ next_url }}">{% endif %}
@@ -27,7 +27,7 @@
     <div class="rows-head"><span>{% if page > 1 %}第 {{ page }} 页{% else %}最新{% endif %}</span><span>回复 / 浏览</span></div>
     {% if board.kind == 'auto' %}
       {% if items %}
-      <ul class="rows">{% for a in items %}{{ article_row(a, None) }}{% endfor %}</ul>
+      <ul class="rows">{% for a in items %}{{ article_row(a, None) }}{% if loop.index == 5 and ads.client and ads.slots.get('list') %}<li class="row ad-row">{{ ad(ads, 'list') }}</li>{% endif %}{% endfor %}</ul>
       {% else %}<p class="empty">暂无内容，机器人稍后会自动发帖。</p>{% endif %}
       {% if pages > 1 %}
       <nav class="pager">

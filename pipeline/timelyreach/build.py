@@ -52,6 +52,16 @@ def _paginate(items: list, per_page: int) -> list[list]:
 FEATURE_HOURS = 36
 
 
+def _ads(site) -> dict:
+    """Ad settings for the templates. Only a well-formed publisher id turns ads on, and only
+    all-digit slot ids are used, so a typo can never inject markup."""
+    client = (os.environ.get("ADSENSE_CLIENT") or site.adsense_client or "").strip()
+    if not re.fullmatch(r"ca-pub-\d{10,20}", client):
+        return {"client": "", "slots": {}}
+    slots = {k: str(v) for k, v in (site.ad_slots or {}).items() if re.fullmatch(r"\d{6,20}", str(v or ""))}
+    return {"client": client, "slots": slots}
+
+
 HOT_DAYS = 4
 HOT_COUNT = 5
 REPLY_WEIGHT = 5  # a comment says more than a view
@@ -124,6 +134,7 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
         "year": now[:4],
         "supabase_on": bool(sb_url and sb_key),
         # Cloudflare Web Analytics site token (public by design); no token, no beacon
+        "ads": _ads(site),
         "analytics_token": re.sub(r"[^0-9a-zA-Z]", "", os.environ.get("CF_ANALYTICS_TOKEN") or site.analytics_token),
     }
 
@@ -188,8 +199,8 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
         )
 
     # App pages (dynamic, rendered in the browser)
-    for name in ("thread", "login", "new", "user", "search", "about", "404", "admin", "analytics"):
-        render(f"{name}.html", f"{name}.html", canonical=f"{site.base_url}/{name}.html", noindex=name not in ("about",))
+    for name in ("thread", "login", "new", "user", "search", "about", "privacy", "404", "admin", "analytics"):
+        render(f"{name}.html", f"{name}.html", canonical=f"{site.base_url}/{name}.html", noindex=name not in ("about", "privacy"))
 
     _write(
         out / "static/js/config.js",
@@ -251,6 +262,9 @@ def _write_seo_files(out: Path, site: SiteConfig, articles: list[Article], user_
     lines.append("</urlset>")
     _write(out / "sitemap-news.xml", "\n".join(lines))
 
+    ads = _ads(site)
+    if ads["client"]:  # AdSense requires this file at the site root
+        _write(out / "ads.txt", f"google.com, {ads['client'].replace('ca-', '')}, DIRECT, f08c47fec0942fa0\n")
     _write(
         out / "robots.txt",
         "User-agent: *\nAllow: /\nDisallow: /login.html\nDisallow: /new.html\nDisallow: /admin.html\nDisallow: /analytics.html\n\n"

@@ -1,0 +1,39 @@
+{% set title = "隐私政策" %}
+{% set description = site.short_name ~ "隐私政策：我们收集哪些信息、如何使用 Cookie、第三方广告和统计服务，以及你的选择。" %}
+{% extends "base.html" %}
+{% block content %}
+<article class="article-wrap post">
+  <header class="post-head"><h1>隐私政策</h1><p class="muted small">最后更新：{{ now[:10] }}</p></header>
+  <div class="post-body">
+    <p>欢迎访问 {{ site.name }}（{{ site.base_url }}）。下面说明我们如何处理你的信息。</p>
+
+    <h2>我们收集的信息</h2>
+    <ul>
+      <li><strong>账号信息</strong>：用邮箱或 GitHub 注册登录时，我们保存你的邮箱（用于登录和找回密码）、昵称和头像。邮箱不会公开显示。</li>
+      <li><strong>你发布的内容</strong>：帖子和跟帖。选择“匿名发布”的内容，其他网友看不到作者，只有站长和版主可见。</li>
+      <li><strong>浏览统计</strong>：我们记录每篇文章的浏览次数，用来显示热度。不记录你的姓名或精确位置。</li>
+    </ul>
+
+    <h2>Cookie 和第三方服务</h2>
+    <ul>
+      <li><strong>Cloudflare</strong>：提供网站托管和访问统计（Web Analytics），统计不使用 Cookie 识别个人。</li>
+      <li><strong>Supabase</strong>：存储账号和论坛数据。</li>
+      <li><strong>Google AdSense（如果本站展示广告）</strong>：第三方供应商（包括谷歌）使用 Cookie，根据你之前访问本站或其他网站的情况投放广告。谷歌使用广告 Cookie，使其及其合作伙伴能够根据你对本站和互联网上其他网站的访问情况向你投放广告。</li>
+    </ul>
+    <p>你可以在 <a href="https://adssettings.google.com" target="_blank" rel="noopener">谷歌广告设置</a> 中关闭个性化广告，也可以访问 <a href="https://www.aboutads.info" target="_blank" rel="noopener">www.aboutads.info</a> 选择退出第三方供应商的个性化广告。</p>
+    <p>居住在欧洲经济区、英国或瑞士的访客，会在首次访问时看到同意选项，你可以选择是否同意个性化广告。加州居民有权选择不出售或不分享个人信息，可通过上述广告设置选择退出。</p>
+
+    <h2>我们如何使用信息</h2>
+    <p>仅用于提供网站功能、防止滥用、改进内容和展示广告。我们不出售你的邮箱。</p>
+
+    <h2>你的选择</h2>
+    <p>你可以随时在浏览器里清除 Cookie；需要删除账号或内容，请通过 <a href="/about.html">关于本站</a> 页面里的方式联系站长。</p>
+
+    <h2>儿童</h2>
+    <p>本站不面向 13 岁以下儿童，也不会有意收集其个人信息。</p>
+
+    <h2>政策更新</h2>
+    <p>我们可能更新本政策，更新后的版本会发布在本页，并更改上方的日期。</p>
+  </div>
+</article>
+{% endblock %}

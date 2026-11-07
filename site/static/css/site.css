@@ -249,3 +249,8 @@ h1, h2, h3 { margin: 0; font-family: var(--serif); font-weight: 700; line-height
 .profile-head { display: flex; gap: 14px; align-items: center; margin-bottom: 10px; }
 .profile-head img, .profile-head .ph { width: 56px; height: 56px; border-radius: 50%; display: block; background: var(--rule); object-fit: cover; text-align: center; line-height: 56px; font-weight: 700; color: var(--muted); }
 .post-head .kicker + h1 { margin-top: 2px; }
+
+/* ads: reserve space so the page does not jump when an ad loads */
+.ad-slot { margin: 18px 0; min-height: 110px; text-align: center; }
+.ad-slot .ad-label { display: block; font-size: .7rem; letter-spacing: .08em; color: var(--muted); text-align: left; margin-bottom: 4px; }
+.ad-row { list-style: none; border-bottom: 1px solid var(--rule); }

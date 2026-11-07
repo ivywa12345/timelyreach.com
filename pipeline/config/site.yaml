@@ -13,6 +13,16 @@ per_page: 40
 # 再手动加一个会变成两个统计站点。想改用手动脚本时，把 token 填在这里。
 analytics_token: ""
 
+# 谷歌广告（AdSense）。拿到发布商 ID 后填在这里即可，留空就不会加载任何广告代码。
+adsense_client: ""        # 例如 "ca-pub-1234567890123456"
+# 手动广告位：在 AdSense 后台创建“展示广告”后，把广告单元 ID（一串数字）填进来；留空的位置不显示。
+# 只填 adsense_client 不填广告位，则只加载广告脚本，由 AdSense 的“自动广告”决定位置。
+ad_slots:
+  article_top: ""         # 文章标题和正文之间
+  article_bottom: ""      # 文章正文下面、跟帖上面
+  sidebar: ""             # 文章页右侧栏
+  list: ""                # 版块列表第 5 条后面
+
 # 论坛版块。kind=auto 由机器人自动抓取发帖；kind=user 由读者发帖
 boards:
   # ---- 内容区：机器人和站长发帖，读者跟帖 ----

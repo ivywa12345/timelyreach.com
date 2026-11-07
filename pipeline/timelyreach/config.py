@@ -35,6 +35,8 @@ class SiteConfig:
     admin_github: str
     per_page: int
     analytics_token: str = ""  # Cloudflare Web Analytics site token (public)
+    adsense_client: str = ""  # Google AdSense publisher id, "ca-pub-1234567890123456"; empty = no ads
+    ad_slots: dict = field(default_factory=dict)  # slot name -> AdSense ad unit id; empty = no manual unit
     boards: list[Board] = field(default_factory=list)
 
     @property

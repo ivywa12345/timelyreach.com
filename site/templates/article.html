@@ -33,6 +33,7 @@
   ]
 }|tojson_safe }}</script>
 {% endblock %}
+{% from "_macros.html" import ad %}
 {% block content %}
 <div class="layout">
   <div class="col-main">
@@ -48,6 +49,7 @@
           <span>回复 <span class="replies">–</span></span>
         </div>
       </header>
+      {{ ad(ads, 'article_top') }}
       <div class="post-body">
         {# the free translator's summary is the start of the first paragraph; don't print it twice #}
         {% for p in a.body if not (a.summary and p.startswith(a.summary[:40])) %}<p>{{ p }}</p>{% endfor %}
@@ -70,6 +72,7 @@
         <div class="share"><button class="btn btn-ghost btn-small" data-share>分享</button></div>
       </footer>
     </article>
+    {{ ad(ads, 'article_bottom') }}
 
     <section class="article-wrap" id="comments" data-thread-key="{{ a.thread_key }}" data-locked="0">
       <div class="section-head"><h2>网友跟帖</h2></div>
@@ -86,6 +89,7 @@
     {% endif %}
     <h2 class="side-head" style="margin-top:22px">热帖排行</h2>
     <ol class="hotlist" id="hotlist"><li class="muted">加载中…</li></ol>
+    {{ ad(ads, 'sidebar') }}
   </aside>
 </div>
 {% endblock %}

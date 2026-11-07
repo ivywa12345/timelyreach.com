@@ -588,3 +588,33 @@ def test_daily_brief_board_stays_strictly_newest_first(tmp_path):
     out = build.build_site(tmp_path / "out", store=store, user_threads=[], stats=stats)
     page = (out / "f/brief/index.html").read_text(encoding="utf-8")
     assert page.index("brief day 0") < page.index("brief day 1") < page.index("brief day 2")
+
+
+def test_ads_are_off_without_a_publisher_id_and_wired_with_one(tmp_path, monkeypatch):
+    from dataclasses import replace
+
+    store = Store(tmp_path / "data")
+    store.save_article(Article(key="a0", board="finance", source_id="s", source_name="S", source_url="https://x/0", title="ad test",
+                               summary="s", body=["b"], rewriter="fake"))
+    base = load_site()
+    monkeypatch.delenv("ADSENSE_CLIENT", raising=False)
+    monkeypatch.setattr(build, "load_site", lambda: replace(base, adsense_client="", ad_slots={}))
+    out = build.build_site(tmp_path / "off", store=store, user_threads=[], stats={})
+    assert "adsbygoogle" not in "".join(p.read_text(encoding="utf-8") for p in (out).rglob("*.html"))
+    assert not (out / "ads.txt").exists()
+    assert "隐私政策" in (out / "privacy.html").read_text(encoding="utf-8")
+
+    on = replace(base, adsense_client="ca-pub-1234567890123456",
+                 ad_slots={"article_top": "1111111111", "sidebar": "22222222\"><script>", "list": "3333333333"})
+    monkeypatch.setattr(build, "load_site", lambda: on)
+    out = build.build_site(tmp_path / "on", store=store, user_threads=[], stats={})
+    assert (out / "ads.txt").read_text() == "google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0\n"
+    article = next((out / "t").rglob("*.html")).read_text(encoding="utf-8")
+    assert "adsbygoogle.js?client=ca-pub-1234567890123456" in article
+    assert 'data-ad-slot="1111111111"' in article          # configured slot rendered
+    assert "22222222" not in article                        # malformed slot id is dropped, never injected
+    assert 'data-ad-slot="3333333333"' not in article       # the list slot only appears on board pages
+    board = (out / "f/finance/index.html").read_text(encoding="utf-8")
+    assert "adsbygoogle.js" in board
+    login = (out / "login.html").read_text(encoding="utf-8")
+    assert "adsbygoogle" not in login                       # no ads on app pages
