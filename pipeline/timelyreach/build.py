@@ -188,7 +188,7 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
         )
 
     # App pages (dynamic, rendered in the browser)
-    for name in ("thread", "login", "new", "user", "search", "about", "404", "admin"):
+    for name in ("thread", "login", "new", "user", "search", "about", "404", "admin", "analytics"):
         render(f"{name}.html", f"{name}.html", canonical=f"{site.base_url}/{name}.html", noindex=name not in ("about",))
 
     _write(
@@ -253,7 +253,7 @@ def _write_seo_files(out: Path, site: SiteConfig, articles: list[Article], user_
 
     _write(
         out / "robots.txt",
-        "User-agent: *\nAllow: /\nDisallow: /login.html\nDisallow: /new.html\nDisallow: /admin.html\n\n"
+        "User-agent: *\nAllow: /\nDisallow: /login.html\nDisallow: /new.html\nDisallow: /admin.html\nDisallow: /analytics.html\n\n"
         f"Sitemap: {base}/sitemap.xml\nSitemap: {base}/sitemap-news.xml\n",
     )
 

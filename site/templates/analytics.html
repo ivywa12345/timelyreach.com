@@ -1,0 +1,42 @@
+{% set title = "数据统计" %}
+{% extends "base.html" %}
+{% block content %}
+<section class="card">
+  <h1>数据统计</h1>
+  <p class="muted small">站长专用。流量、来源、国家和设备请看 Cloudflare 的 Web Analytics；这里是站内内容和社区的数据。</p>
+  <div id="an-off" class="notice" hidden>论坛数据库还没有连接，暂时没有数据。</div>
+  <div id="an-login" class="notice" hidden>请先用站长账号 <a href="/login.html?next=/analytics.html">登录</a>。</div>
+  <div id="an-body" hidden>
+    <div class="an-cards" id="an-cards"></div>
+
+    <h2>最受欢迎的 10 篇文章（累计浏览）</h2>
+    <ol class="an-list" id="an-top"></ol>
+
+    <h2>各版块累计浏览</h2>
+    <div class="an-bars" id="an-boards"></div>
+
+    <h2>每日新增注册（近 30 天）</h2>
+    <div class="an-chart" id="an-signups"></div>
+
+    <h2>最活跃的读者</h2>
+    <ol class="an-list" id="an-users"></ol>
+    <p class="muted small" id="an-note"></p>
+  </div>
+</section>
+<style>
+  .an-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 16px 0 24px; }
+  .an-card { border: 1px solid var(--rule, #ddd); padding: 12px 14px; }
+  .an-card b { display: block; font-size: 1.7rem; line-height: 1.2; }
+  .an-card span { color: var(--muted, #666); font-size: .85rem; }
+  .an-list { padding-left: 1.4em; }
+  .an-list li { margin: 6px 0; }
+  .an-list .n { color: var(--muted, #666); font-size: .85rem; margin-left: 6px; white-space: nowrap; }
+  .an-bars .row { display: grid; grid-template-columns: 7em 1fr 4.5em; align-items: center; gap: 8px; margin: 6px 0; font-size: .9rem; }
+  .an-bars .bar { background: var(--accent, #0a6ebd); height: 14px; min-width: 2px; }
+  .an-bars .v { text-align: right; color: var(--muted, #666); }
+  .an-chart { display: flex; align-items: flex-end; gap: 3px; height: 120px; border-bottom: 1px solid var(--rule, #ddd); margin: 10px 0 4px; }
+  .an-chart .col { flex: 1; background: var(--accent, #0a6ebd); min-height: 2px; }
+  .an-chart .col.zero { background: var(--rule, #ddd); }
+</style>
+<script src="/static/js/analytics.js?v={{ now[:13] }}" defer></script>
+{% endblock %}
