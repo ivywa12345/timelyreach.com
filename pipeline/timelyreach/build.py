@@ -132,7 +132,8 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
     by_board: dict[str, list[Article]] = {b.id: [] for b in site.boards}
     for a in articles:
         by_board.setdefault(a.board, []).append(a)
-    by_board = {b: order_for_board(items, stats) for b, items in by_board.items()}
+    # the daily brief is a dated series: always strictly newest first
+    by_board = {b: (items if b == "brief" else order_for_board(items, stats)) for b, items in by_board.items()}
 
     # Home page
     render(

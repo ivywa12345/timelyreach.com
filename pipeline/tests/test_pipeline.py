@@ -570,3 +570,21 @@ def test_analytics_beacon_only_with_token(tmp_path, monkeypatch):
     out = build.build_site(tmp_path / "b", store=store, user_threads=[])
     html = (out / "index.html").read_text(encoding="utf-8")
     assert 'data-cf-beacon=\'{"token": "abc123scriptx"}\'' in html  # sanitized to letters and digits
+
+
+def test_daily_brief_board_stays_strictly_newest_first(tmp_path):
+    from datetime import datetime, timedelta, timezone
+
+    now = datetime.now(timezone.utc)
+    store = Store(tmp_path / "data")
+    arts = []
+    for i in range(3):
+        a = Article(key=f"b{i}", board="brief", source_id="brief", source_name="S", source_url=f"https://x/b{i}",
+                    title=f"brief day {i}", summary="s", body=["b"], rewriter="fake",
+                    created=(now - timedelta(days=i)).isoformat(timespec="seconds"))
+        store.save_article(a)
+        arts.append(a)
+    stats = {arts[2].thread_key: (500, 3)}  # the oldest brief is the most read
+    out = build.build_site(tmp_path / "out", store=store, user_threads=[], stats=stats)
+    page = (out / "f/brief/index.html").read_text(encoding="utf-8")
+    assert page.index("brief day 0") < page.index("brief day 1") < page.index("brief day 2")
