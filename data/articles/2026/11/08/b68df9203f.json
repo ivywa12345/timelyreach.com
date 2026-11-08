@@ -1,0 +1,25 @@
+{
+ "key": "b68df9203f",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/why-the-lights-go-dark-in-cuba-bee46dce?mod=rss_worldnews",
+ "title": "古巴全岛大面积断电：到底是美制裁惹的祸，还是自己管理太拉胯？",
+ "summary": "古巴近期频频发生大面积断电，古巴政权将责任归咎于美国制裁，但评论指出，实际根源在于社会主义体制下电网管理不善。",
+ "body": [
+  "最近古巴全国多地遭遇大面积黑灯瞎火，老百姓的日子实在不好过。对于断电的原因，古巴官方把锅甩给了美国的制裁（U.S. sanctions），觉得是外部封锁导致他们搞不到物资和能源。不过，据《华尔街日报》专栏作家玛丽·安娜斯塔西亚·奥格雷迪（Mary Anastasia O’Grady）分析，这完全是甩锅行为，真正让古巴陷入一片黑暗的幕后黑手，其实是该国社会主义体制下的电网管理不善（socialist grid mismanagement）。",
+  "对于在海外关注国际局势的我们来说，这种能源危机不仅反映了当地民生艰难，也再次暴露出僵化体制在基础设施维护上的无能。虽然这事儿离咱们的日常生活有点远，但看着一个国家因为管理问题连基本的电力都无法保障，确实让人唏嘘。"
+ ],
+ "tags": [
+  "古巴断电",
+  "美国制裁",
+  "电网危机",
+  "国际新闻"
+ ],
+ "original_title": "Opinion | Why the Lights Go Dark in Cuba",
+ "lang": "en",
+ "published": "2026-11-08T18:35:00+00:00",
+ "created": "2026-11-08T22:53:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

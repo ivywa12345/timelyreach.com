@@ -1,0 +1,27 @@
+{
+ "key": "c51439857f",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/ai-saves-the-dayand-could-bring-doom-tomorrow-b1afdfec?mod=rss_Technology",
+ "title": "AI这次立了大功，但下次还能这么幸运吗？",
+ "summary": "OpenAI近日及时发现并报告了一个网络漏洞，避免了可能发生的危机。但专家警告，如果下一个关键漏洞被使用中国开源模型的恶意分子率先发现，后果不堪设想。",
+ "body": [
+  "人工智能（AI）在给我们带来便利的同时，网络安全的隐患也越来越大。最近，人工智能研究公司 OpenAI 成功发现并报告了一个网络漏洞，可以说是化解了一场危机。",
+  "不过，曾在政府部门负责技术安全的作者布雷特·戈德斯坦（Brett Goldstein）在《华尔街日报》撰文指出，这次虽然有惊无险，但下一次呢？如果下一个重大漏洞被那些不怀好意的坏家伙，利用某些中国开源模型（Chinese open model）先找出来，网络安全防线可能瞬间崩塌。",
+  "对于咱们海外华人来说，AI技术的发展不仅关乎科技潮流，更直接影响到日常的网络安全和个人隐私。随着AI攻防战的升级，如何确保数字生活的安全，已经成为一个不容忽视的问题。"
+ ],
+ "tags": [
+  "人工智能",
+  "OpenAI",
+  "网络安全",
+  "开源模型",
+  "科技资讯"
+ ],
+ "original_title": "Opinion | AI Saves the Day—and Could Bring Doom Tomorrow",
+ "lang": "en",
+ "published": "2026-11-08T18:33:00+00:00",
+ "created": "2026-11-08T22:54:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

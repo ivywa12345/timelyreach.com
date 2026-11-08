@@ -1,0 +1,27 @@
+{
+ "key": "28b921533b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-08/saudi-aramco-tower-targeted-in-rare-strike-on-riyadh-finance-hub",
+ "title": "罕见！沙特核心金融城遭袭，标志性大楼受损",
+ "summary": "沙特阿拉伯首都利雅得的金融中心近日遭到胡塞武装袭击，地标性建筑沙特阿美大楼受损，这打乱了当地刚刚恢复一个月的正常生活秩序。",
+ "body": [
+  "据彭博社（Bloomberg）记者Christine Burke报道，胡塞武装（Houthis）近日发动了一次罕见的袭击，目标直指沙特首都利雅得（Riyadh）的金融核心区，导致当地的地标性建筑——沙特阿美（Saudi Aramco）大楼受损。",
+  "这次袭击发生在一个敏感的时间节点。就在大约一个月前，利雅得机场刚刚遭遇了致命袭击，导致航班大面积中断、多场重磅活动取消。当地原本正计划逐步恢复正常秩序，这次新的打击无疑打乱了这一计划。",
+  "对于远在海外的华人来说，中东地缘政治的持续紧张不仅再次敲响了能源供应链和地区安全的警钟，也可能对全球经济及油价产生连锁反应，值得持续关注。"
+ ],
+ "tags": [
+  "沙特",
+  "胡塞武装",
+  "中东局势",
+  "金融城受损",
+  "海外快讯"
+ ],
+ "original_title": "Saudi Aramco Tower Targeted in Rare Strike on Riyadh Finance Hub",
+ "lang": "en",
+ "published": "2026-11-08T17:15:42+00:00",
+ "created": "2026-11-08T22:55:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

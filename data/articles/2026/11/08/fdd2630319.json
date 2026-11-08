@@ -1,0 +1,25 @@
+{
+ "key": "fdd2630319",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-08/new-zealand-dollar-advances-as-ruling-party-gets-election-edge",
+ "title": "新西兰大选尘埃落定？执政党占优，纽元开盘应声上涨！",
+ "summary": "新西兰现任国家党在周末的大选中占据优势，有望通过与小党派联合组阁继续执政，受此政治局势明朗化影响，纽元在早盘交易中应声微涨。",
+ "body": [
+  "据彭博社报道（作者：Matthew Burgess），新西兰现任国家党（National Party）在周末举行的大选中取得了领先地位，目前正处于主导与小党派组阁谈判的有利位置，这也让该党有了重返执政的清晰路径。",
+  "受大选结果基本明朗、政治不确定性降低的利好消息提振，新西兰元（New Zealand Dollar）在早盘交易中随即小幅走高。"
+ ],
+ "tags": [
+  "新西兰大选",
+  "纽元",
+  "国家党",
+  "海外财经"
+ ],
+ "original_title": "New Zealand Dollar Advances as Ruling Party Gets Election Edge",
+ "lang": "en",
+ "published": "2026-11-08T22:07:45+00:00",
+ "created": "2026-11-08T22:54:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

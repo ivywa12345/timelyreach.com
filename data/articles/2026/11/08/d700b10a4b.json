@@ -1,0 +1,27 @@
+{
+ "key": "d700b10a4b",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/regulation/a-popular-new-bet-hailing-from-cryptoland-sets-off-a-wall-street-turf-war-70e37095?mod=rss_markets_main",
+ "title": "华尔街大乱斗！加密货币搞出个新玩法，巨头直接把监管告了",
+ "summary": "由Citadel Securities和Cboe支持的一个团体对单一股票永续合约的批准提起了诉讼。",
+ "body": [
+  "话说币圈最近又整出了个新花样——“单一股票永续合约”（single-stock perps），这下可把华尔街传统金融巨头给惹毛了。根据《华尔街日报》的报道，一个背后有城堡证券（Citadel Securities）和芝加哥期权交易所（Cboe）撑腰的团体，已经正式就这玩意的获批发起了一场诉讼。",
+  "简单来说，这是一种从加密货币市场火到传统金融圈的新型衍生品，让投资者能够对单只股票进行高杠杆的永续押注。但传统金融大佬们显然坐不住了，认为这东西放开的程序或合规性有问题，直接把相关监管批准告上了法庭，华尔街的抢地盘大战正式拉开帷幕。",
+  "对于咱们海外华人来说，这类金融衍生品往往伴随着极高的杠杆和爆仓风险。虽然看着刺激，但监管层和华尔街巨头们都为之大动干戈，普通散户在参与时更得把紧钱包，千万别当了这场地盘大战里的“炮灰”。"
+ ],
+ "tags": [
+  "华尔街",
+  "加密货币",
+  "Citadel Securities",
+  "Cboe",
+  "金融监管"
+ ],
+ "original_title": "A Popular New Bet Hailing From Cryptoland Sets Off a Wall Street Turf War",
+ "lang": "en",
+ "published": "2026-11-08T20:00:00+00:00",
+ "created": "2026-11-08T22:54:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
