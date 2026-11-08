@@ -1,0 +1,29 @@
+{
+ "key": "4f1fe24148",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/ai/quo-vadis-ai-study-suggests-ai-use-makes-us-lazier-and-less-intelligent",
+ "title": "用AI仅10分钟，大脑就变“懒”？顶级名校联合研究：别让科技废了我们的脑子！",
+ "summary": "来自麻省理工学院、牛津大学等顶尖学府的一项最新研究表明，仅仅依赖AI工具10分钟，就会明显削弱人类的注意力和独立解决难题的持久性。一旦离开AI，人们的正确率和抗压能力便会大幅下降。专家指出，这种由于过度依赖大模型而导致的认知退化，其速度之快远超以往任何科技。",
+ "body": [
+  "2024年的年度热词是“脑残（brain rot）”，反映出社会对数字技术侵蚀思考能力的担忧。而到了2026年的今天，随着人工智能（AI）的普及，这个问题变得更加严峻。只需几秒钟就能生成答案的AI，正在不知不觉中钝化我们的思维敏锐度。",
+  "近期在语言建模会议（Conference on Language Modeling）上发布的一项研究证实了人们的担忧。这份题为《AI协助减少坚持度并损害独立表现（AI Assistance Reduces Persistence and Hurts Independent Performance）》的论文，由来自麻省理工学院（MIT）、牛津大学（Oxford University）、卡耐基梅隆大学（Carnegie Mellon）、加州大学伯克利分校（UC Berkeley）和加州大学洛杉矶分校（UCLA）的研究人员共同撰写。研究发现，仅仅花10分钟依赖AI工具，就会明显损害一个人面对具挑战性任务时的专注力和坚持精神。",
+  "研究人员设计了一系列实验来测试AI对人类认知的影响。在涉及分数计算和SAT阅读理解题的实验中，让一部分参与者使用AI辅助，而对照组完全独立思考。结果显示，虽然一开始用AI的人正确率更高，但一旦拿掉AI这个“拐杖”，他们就会直接放弃或频繁出错，而从未依赖AI的对照组则能坚持到最后并取得更好的成功。",
+  "加州大学伯克利分校在相关新闻稿中指出，研究印证了近年来人们的观察：过度依赖AI获取答案正在侵蚀我们的认知健康。作家兼计算机科学家卡尔·纽波特（Cal Newport）评论称，过去智能手机等技术的普及也带来过认知下降，但其负面影响需要数年才显现；而聊天机器人（Chatbots）带来的负面冲击却是即时且惊人的，让人迅速对深度思考产生抗拒。",
+  "对于在海外注重子女教育和职业发展的华人来说，这项研究敲响了警钟。无论是日常工作还是孩子的学业，AI虽然极大提高了效率、省去了繁重的体力活，但也可能在潜移默化中让我们丧失独立思考和攻坚克难的能力。正如研究和专家所提醒的，硅谷擅长创造工具，但如何使用这些工具而不至于削弱我们身为人的核心能力，依然需要我们保持清醒和警惕。"
+ ],
+ "tags": [
+  "人工智能",
+  "认知能力",
+  "教育科技",
+  "海外生活",
+  "心理研究"
+ ],
+ "original_title": "Quo Vadis, AI? Study Suggests AI Use Makes Us Lazier And Less Intelligent",
+ "lang": "en",
+ "published": "2026-11-07T23:00:00+00:00",
+ "created": "2026-11-08T02:30:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

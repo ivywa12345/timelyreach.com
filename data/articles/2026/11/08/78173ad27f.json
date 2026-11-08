@@ -1,0 +1,27 @@
+{
+ "key": "78173ad27f",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
+ "title": "AI股退潮？亚洲传统板块突然又香了！",
+ "summary": "随着美国大选后AI概念股的热度下降，投资者开始重新审视亚洲市场的投资策略，中国和印度的传统板块以及受益于通胀缓解和贸易局势缓和的公司重新受到青睐。",
+ "body": [
+  "最近这一段时间，随着美国中期选举后AI相关股票的降温，华尔街投资人开始重新琢磨他们在亚洲的投资策略了。那些之前被打入冷宫的中国和印度股票，现在突然又重新受到了市场的关注。",
+  "根据彭博社（Bloomberg）报道，除了中印两国的传统板块回暖外，那些有望从通货膨胀缓解以及贸易紧张局势缓和中受益的公司，也开始重新吸引资金入场。",
+  "对于咱们海外华人来说，投资风向从单一的AI狂热转向更广泛的亚洲市场，意味着资产配置可能需要更加多元化，多留意通胀和贸易政策的变化对不同板块的影响。"
+ ],
+ "tags": [
+  "财经",
+  "投资",
+  "AI",
+  "中国股市",
+  "印度股市"
+ ],
+ "original_title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
+ "lang": "en",
+ "published": "2026-11-08T00:00:00+00:00",
+ "created": "2026-11-08T02:29:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

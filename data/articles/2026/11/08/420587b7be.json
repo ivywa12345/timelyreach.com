@@ -1,0 +1,25 @@
+{
+ "key": "420587b7be",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/trump-threatens-democrats-over-their-plans-to-probe-his-team",
+ "title": "特朗普放狠话：民主党敢查我的人，我就让司法部反查他们！",
+ "summary": "美国总统唐纳德·特朗普（Donald Trump）公开回击民主党人，称对方扬言要调查他的政府和共和党捐款人，他已下令司法部对民主党人展开自己的调查。",
+ "body": [
+  "近日，美国政坛又热闹起来了。针对民主党人威胁要对特朗普政府及共和党金主展开调查的计划，总统唐纳德·特朗普（Donald Trump）坐不住了，直接公开开火猛烈抨击。",
+  "特朗普表示，既然民主党人放出狠话要搞调查，他也毫不示弱，已经下令司法部（Department of Justice）对民主党人展开他们自己的调查。"
+ ],
+ "tags": [
+  "特朗普",
+  "美国政治",
+  "民主党",
+  "司法部"
+ ],
+ "original_title": "Trump Threatens Democrats Over Their Plans to Probe His Team",
+ "lang": "en",
+ "published": "2026-11-07T18:10:31+00:00",
+ "created": "2026-11-08T02:30:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

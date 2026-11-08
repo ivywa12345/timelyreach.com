@@ -1,0 +1,26 @@
+{
+ "key": "86c142bb8b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery",
+ "title": "利率刚涨完，澳洲房市就要回暖了？最新拍卖数据透露新信号",
+ "summary": "根据彭博社报道，澳大利亚的房屋销量和拍卖清盘率近期出现上升，这为今年因利率上涨而陷入低迷的房地产市场带来了复苏的希望。",
+ "body": [
+  "最近澳洲房市好像有点要醒过来的意思了。根据彭博社（Bloomberg）的报道，澳大利亚的房屋销量和拍卖清盘率双双回升，这让经历了一整年加息打击的房地产市场，终于看到了一点复苏的曙光。",
+  "回顾今年，澳洲房市因为利率不断飙升，日子可以说是相当难过，买家和卖家都观望情绪浓厚，市场一度陷入低迷。不过，最新的销售和拍卖数据表明，市场需求可能正在慢慢恢复活力。",
+  "对于关注海外资产配置的海外华人来说，澳洲房产一直是个热门选项。虽然目前只是“初露端倪”的复苏迹象，但随着利率走势的变化，后续是否会引发新一轮的买房热潮，值得继续观望。"
+ ],
+ "tags": [
+  "澳大利亚房产",
+  "房市复苏",
+  "利率影响",
+  "海外置业"
+ ],
+ "original_title": "Australia Home Sales Rise in Fledgling Sign of Property Recovery",
+ "lang": "en",
+ "published": "2026-11-07T23:54:25+00:00",
+ "created": "2026-11-08T02:29:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

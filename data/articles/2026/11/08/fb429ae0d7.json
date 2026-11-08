@@ -1,0 +1,27 @@
+{
+ "key": "fb429ae0d7",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/ban-officials-from-prediction-market-trading-c8a2b47f?mod=rss_opinion",
+ "title": "官员靠内幕消息下注赚钱？华尔街日报呼吁：赶紧禁了预测市场交易！",
+ "summary": "联邦和州政府官员不应利用其掌握的内幕消息，在预测市场中进行押注获利。",
+ "body": [
+  "近日，《华尔街日报》（The Wall Street Journal）发表观点文章指出，政府官员利用自身工作接触到的内幕消息，去参与预测市场的博弈，这种现象极不合理，必须禁止。",
+  "文章认为，无论是联邦还是州的公职人员，在做出可能影响政策走向的决策时，如果本人同时在预测市场上对这些决策结果进行押注，将直接引发严重的利益冲突问题。这种行为不仅损害了公众对政府管理的信任，也涉嫌变相利用特权获取私利。",
+  "对于海外华人来说，政府决策的公正性和透明度直接关乎税收、商业环境以及各项公共政策的走向。官员炒预测市场的漏洞若不堵上，最终损害的还是普通纳税人和民众的切身利益。"
+ ],
+ "tags": [
+  "预测市场",
+  "内幕交易",
+  "政府官员",
+  "利益冲突",
+  "华尔街日报"
+ ],
+ "original_title": "Ban Officials From Prediction Market Trading",
+ "lang": "en",
+ "published": "2026-11-03T16:15:00+00:00",
+ "created": "2026-11-08T02:29:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
