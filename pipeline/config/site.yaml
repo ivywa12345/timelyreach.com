@@ -33,7 +33,7 @@ boards:
   - id: brief
     name: "每日简报"
     kind: auto
-    description: "每个交易日的中文财经早报：一帖看懂隔夜要闻和今天要盯的事"
+    description: "每个交易日的中文财经早报：一帖看懂隔夜要闻和今天要盯的事；周末加一篇本周回顾"
   - id: finance
     name: "财经要闻"
     kind: auto

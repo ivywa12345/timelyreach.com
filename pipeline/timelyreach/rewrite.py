@@ -72,6 +72,16 @@ BRIEF_SYSTEM_PROMPT = """你是海外华人财经社区的编辑，负责每个�
 - 最后一段抛出一个问题，邀请读者在跟帖里聊今天的看法，并提醒"以上不构成投资建议"。
 - 用简体中文。"""
 
+WEEKLY_SYSTEM_PROMPT = """你是海外华人财经社区的编辑，负责周末的"本周回顾"。材料是本周被读者看得最多的几条新闻（标题和导读），以及本周每日早报的标题。
+
+要求：
+- 标题格式："本周回顾（X月X日–X月X日）：<这一周的主线>"，口语化、抓人，但不夸张。
+- 第一段两三句话说这一周市场和新闻的主线是什么。
+- 然后按主题（不要按时间流水账）分成 3-5 段，每段讲清楚发生了什么、为什么重要、对美股/利率/华人钱包可能意味着什么。只用材料里的事实，不要编造数字或行情。
+- 倒数第二段"下周前瞻"：只写材料里明确提到的已安排事件；材料里没有就只提醒读者留意哪些变量，不要编造日期和数据。
+- 最后一段抛出一个问题，邀请读者在跟帖里聊聊，并提醒"以上不构成投资建议"。
+- 用简体中文。"""
+
 ZH_NEWS_SYSTEM_PROMPT = """你是海外华人财经社区的编辑。材料是一篇中文财经报道（来源已注明）。请"稍加改写"成本站的财经快讯：
 
 - 标题：换一种说法，更抓人、更口语化，但意思和事实不变，不夸大。
@@ -87,6 +97,7 @@ def _system_prompt(item: RawItem) -> str:
         "zh-news": ZH_NEWS_SYSTEM_PROMPT,
         "editor": EDITOR_SYSTEM_PROMPT,
         "brief": BRIEF_SYSTEM_PROMPT,
+        "weekly": WEEKLY_SYSTEM_PROMPT,
     }.get(item.lang, SYSTEM_PROMPT)
 
 
@@ -149,7 +160,7 @@ class OpenAICompatibleProvider(Provider):
     name = "openai-compatible"
     DEFAULT_MODELS = ("gemini-flash-lite-latest", "gemini-flash-latest", "gemini-2.5-flash-lite")
     PREMIUM_MODEL = "gemini-flash-latest"
-    PREMIUM_LANGS = ("brief", "editor")
+    PREMIUM_LANGS = ("brief", "weekly", "editor")
 
     def __init__(self) -> None:
         self.base_url = _env("LLM_BASE_URL").rstrip("/")
@@ -268,6 +279,10 @@ class FreeTranslateProvider(Provider):
             body = ["过去 24 小时最值得关注的财经要闻：", *item.text.split("\n"),
                     "今天你最关注哪一条？欢迎跟帖聊聊你的看法。（以上不构成投资建议）"]
             return Rewrite(title=item.title, summary=item.summary, body=body, tags=["每日简报", "美股"])
+        if item.lang == "weekly":  # headlines are already Chinese: list them as the review
+            body = ["这一周最值得回头看的几件事：", *item.text.split("\n"),
+                    "下周你最想盯什么？欢迎跟帖聊聊你的看法。（以上不构成投资建议）"]
+            return Rewrite(title=item.title, summary=item.summary, body=body, tags=["本周回顾", "美股"])
         if item.lang == "zh-news":  # Chinese report: no model to rewrite it, so keep a short excerpt with credit
             paras, total = [], 0
             for p in (item.text or item.summary).split("\n"):

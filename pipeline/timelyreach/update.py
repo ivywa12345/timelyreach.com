@@ -9,6 +9,7 @@ from .config import load_sources
 from .fetchers import fetch_article, fetch_source
 from .inbox import run_inbox
 from .brief import run_brief
+from .weekly import run_weekly
 from .picks import run_picks
 from .models import url_hash
 from .rewrite import available_providers, to_article
@@ -87,6 +88,8 @@ def run_update(store: Store | None = None, max_new: int | None = None) -> int:
             log.info("[%s] %s  <-  %s", article.rewriter, article.title, item.title)
     credit_reposted_sources(store)
     if run_brief(store, providers):  # after this run's news, so the brief includes it
+        created += 1
+    if run_weekly(store, providers):  # weekends only
         created += 1
     store.flush()
     log.info("created %d new articles", created)

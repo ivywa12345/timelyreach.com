@@ -27,6 +27,7 @@ def _source(**kw):
 def _no_real_inbox(monkeypatch):
     """run_update must not pick up files sitting in the repository's real inbox/."""
     monkeypatch.setattr(update, "run_inbox", lambda store: 0)
+    monkeypatch.setattr(update, "run_weekly", lambda store, providers: None)  # weekend-only; tests opt in explicitly
 
 
 def _item(n=1, **kw):
@@ -618,3 +619,47 @@ def test_ads_are_off_without_a_publisher_id_and_wired_with_one(tmp_path, monkeyp
     assert "adsbygoogle.js" in board
     login = (out / "login.html").read_text(encoding="utf-8")
     assert "adsbygoogle" not in login                       # no ads on app pages
+
+
+def _week_store(tmp_path, now, n=8, with_briefs=True):
+    from datetime import timedelta
+
+    store = Store(tmp_path / "data")
+    for i in range(n):
+        store.save_article(Article(key=f"w{i}", board="finance" if i % 2 else "news", source_id="s", source_name="S",
+                                   source_url=f"https://x/w{i}", title=f"story {i}", summary=f"story {i} deck", body=["b"],
+                                   rewriter="fake", created=(now - timedelta(days=i % 6, hours=i)).isoformat(timespec="seconds")))
+    if with_briefs:
+        store.save_article(Article(key="bf1", board="brief", source_id="brief", source_name="B", source_url="https://x/b",
+                                   title="11月6日财经早报：一件事", summary="s", body=["b"], rewriter="fake",
+                                   created=(now - timedelta(days=1)).isoformat(timespec="seconds")))
+    return store
+
+
+def test_weekly_review_is_published_once_on_saturday_only(tmp_path):
+    from datetime import datetime, timezone
+    from timelyreach.weekly import run_weekly
+
+    sat = datetime(2026, 11, 7, 15, 0, tzinfo=timezone.utc)   # Saturday 10:00 ET
+    store = _week_store(tmp_path, sat)
+    stats = {"t:" + a.slug: (v, 0) for a, v in ((x, 100 - i) for i, x in enumerate(store.load_articles()))}
+    art = run_weekly(store, [rewrite.FreeTranslateProvider()], now=sat, stats=stats)
+    assert art and art.board == "brief" and art.title.startswith("本周回顾（11月2日–11月6日）")
+    assert "story" in "\n".join(art.body) and "本周每日早报标题" in "\n".join(art.body)
+    assert run_weekly(store, [rewrite.FreeTranslateProvider()], now=sat, stats=stats) is None            # once per week
+    sun = datetime(2026, 11, 8, 15, 0, tzinfo=timezone.utc)
+    assert run_weekly(store, [rewrite.FreeTranslateProvider()], now=sun, stats=stats) is None            # same week
+
+
+def test_weekly_review_skips_weekdays_early_morning_and_thin_weeks(tmp_path):
+    from datetime import datetime, timezone
+    from timelyreach.weekly import run_weekly
+
+    fri = datetime(2026, 11, 6, 15, 0, tzinfo=timezone.utc)
+    store = _week_store(tmp_path, fri)
+    assert run_weekly(store, [rewrite.FreeTranslateProvider()], now=fri, stats={}) is None                # weekday
+    early = datetime(2026, 11, 7, 10, 0, tzinfo=timezone.utc)                                             # Saturday 5:00 ET
+    assert run_weekly(store, [rewrite.FreeTranslateProvider()], now=early, stats={}) is None
+    sat = datetime(2026, 11, 7, 15, 0, tzinfo=timezone.utc)
+    thin = _week_store(tmp_path / "thin", sat, n=3, with_briefs=False)
+    assert run_weekly(thin, [rewrite.FreeTranslateProvider()], now=sat, stats={}) is None                 # too few articles
