@@ -58,6 +58,11 @@ def _ga_id(site) -> str:
     return gid if re.fullmatch(r"G-[A-Z0-9]{6,12}", gid) else ""
 
 
+def _gtm_id(site) -> str:
+    gid = (os.environ.get("GTM_ID") or site.gtm_id or "").strip()
+    return gid if re.fullmatch(r"GTM-[A-Z0-9]{4,10}", gid) else ""
+
+
 def _ads(site) -> dict:
     """Ad settings for the templates. Only a well-formed publisher id turns ads on, and only
     all-digit slot ids are used, so a typo can never inject markup."""
@@ -142,6 +147,7 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
         # Cloudflare Web Analytics site token (public by design); no token, no beacon
         "ads": _ads(site),
         "ga_id": _ga_id(site),
+        "gtm_id": _gtm_id(site),
         "analytics_token": re.sub(r"[^0-9a-zA-Z]", "", os.environ.get("CF_ANALYTICS_TOKEN") or site.analytics_token),
     }
 

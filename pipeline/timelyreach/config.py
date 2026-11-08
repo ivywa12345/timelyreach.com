@@ -35,6 +35,7 @@ class SiteConfig:
     admin_github: str
     per_page: int
     analytics_token: str = ""  # Cloudflare Web Analytics site token (public)
+    gtm_id: str = ""  # Google Tag Manager container id, "GTM-XXXXXXX"; empty = no container
     ga_measurement_id: str = ""  # Google Analytics 4 measurement id, "G-XXXXXXXXXX"; empty = no tracking
     adsense_client: str = ""  # Google AdSense publisher id, "ca-pub-1234567890123456"; empty = no ads
     ad_slots: dict = field(default_factory=dict)  # slot name -> AdSense ad unit id; empty = no manual unit

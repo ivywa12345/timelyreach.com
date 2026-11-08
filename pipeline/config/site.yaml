@@ -15,6 +15,8 @@ analytics_token: ""
 
 # 谷歌分析（Google Analytics 4）。在 analytics.google.com 创建“数据流”后，把衡量 ID 填在这里，留空就不加载。
 ga_measurement_id: "G-KTLDSECHMJ"
+# 谷歌跳转标签管理器（GTM）。注意：不要在 GTM 容器里再添加同一个 G- 衡量 ID 的 GA4 配置代码，否则每次访问会被统计两次。
+gtm_id: "GTM-K256QZK2"
 
 # 谷歌广告（AdSense）。拿到发布商 ID 后填在这里即可，留空就不会加载任何广告代码。
 adsense_client: ""        # 例如 "ca-pub-1234567890123456"

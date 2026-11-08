@@ -684,3 +684,20 @@ def test_google_analytics_is_off_without_an_id_and_skips_owner_pages(tmp_path, m
     monkeypatch.setattr(build, "load_site", lambda: replace(base, ga_measurement_id='G-1"><script>x'))
     out = build.build_site(tmp_path / "bad", store=store, user_threads=[], stats={})
     assert "googletagmanager" not in (out / "index.html").read_text(encoding="utf-8")    # malformed id is dropped
+
+
+def test_google_tag_manager_container_is_loaded_with_consent_defaults_first(tmp_path, monkeypatch):
+    from dataclasses import replace
+
+    store = Store(tmp_path / "data")
+    base = load_site()
+    monkeypatch.delenv("GTM_ID", raising=False)
+    monkeypatch.setattr(build, "load_site", lambda: replace(base, gtm_id="GTM-K256QZK2", ga_measurement_id=""))
+    out = build.build_site(tmp_path / "gtm", store=store, user_threads=[], stats={})
+    page = (out / "index.html").read_text(encoding="utf-8")
+    assert "gtm.js?id=" in page and '"GTM-K256QZK2"' in page and "gtag/js?id=" not in page
+    assert page.index('gtag("consent", "default"') < page.index("gtm.js?id=")      # consent defaults before the container loads
+    assert "gtm.js" not in (out / "admin.html").read_text(encoding="utf-8")
+    monkeypatch.setattr(build, "load_site", lambda: replace(base, gtm_id='GTM-1"><script>', ga_measurement_id=""))
+    out = build.build_site(tmp_path / "bad", store=store, user_threads=[], stats={})
+    assert "gtm.js" not in (out / "index.html").read_text(encoding="utf-8")
