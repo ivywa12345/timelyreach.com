@@ -1,0 +1,26 @@
+{
+ "key": "929785de7b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-08/aramco-tower-in-riyadh-s-financial-hub-damaged-after-attack",
+ "title": "利雅得沙特阿美遭遇袭击！也门胡塞武装又搞事情？",
+ "summary": "沙特阿美位于利雅得的办公室于周日遭到袭击，造成了有限的损坏。这是沙特与获得伊朗支持的也门胡塞武装之间冲突的又一次升级。",
+ "body": [
+  "周日，沙特国家石油巨头沙特阿美（Saudi Aramco）位于首都利雅得（Riyadh）的办公室遭遇了袭击。根据目前的消息，这次攻击造成的破坏相对有限。",
+  "这次事件是沙特王国与也门胡塞武装（Houthis）之间长期冲突的最新升级。这支也门武装力量一直受到伊朗的支持，双方的交火近期不断引发地区局势紧张。",
+  "对于在海外的华人来说，中东地区的局势动荡往往会直接牵动国际原油市场的神经。油价波动可能会进一步影响全球经济以及大家的日常生活成本，特别是油价和通胀相关的话题值得持续关注。"
+ ],
+ "tags": [
+  "沙特阿美",
+  "中东局势",
+  "胡塞武装",
+  "国际油价"
+ ],
+ "original_title": "Aramco Riyadh Office Targeted in Attack, Causing Limited Damage",
+ "lang": "en",
+ "published": "2026-11-08T08:54:58+00:00",
+ "created": "2026-11-08T10:21:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

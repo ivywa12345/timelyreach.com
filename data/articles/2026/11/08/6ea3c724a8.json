@@ -1,0 +1,28 @@
+{
+ "key": "6ea3c724a8",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/07/us-news/gov-hochul-launches-federal-challenge-over-seneca-nation-land-status-in-buffalo-and-grand-island/",
+ "title": "地盘税收大战！纽约州长状告联邦，誓要拿下印第安部落的免税加油站和药房",
+ "summary": "纽约州长霍楚正式把联邦内政部告上法庭，试图剥夺塞讷卡部落在布法罗和格兰德岛多块土地的联邦主权豁免地位，以阻止当地正在建设的争议加油站和大麻店，并争取征收地方财产税和销售税的权力。",
+ "body": [
+  "最近，纽约州长凯西·霍楚（Kathy Hochul）坐不住了，直接把美国内政部（Department of the Interior）告上了联邦法院。这背后的导火索，是塞讷卡部落（Seneca Nation）在布法罗（Buffalo）一块地盘上大兴土木，正忙着建一个挺招争议的加油站和大麻店（Seneca One Stop项目）。",
+  "按照以前联邦内政部在2023年的批准，这块地享有特殊的“限制性契约”（restricted-fee）地位，这意味着它不用遵守当地的建筑和分区法规，连地方财产税都可以免交。这让布法罗当地政府和市长极为光火，但之前找地方法院叫停没成功。于是，霍楚干脆放大招，直接打起了联邦官司，同时被针对的还有格兰德岛（Grand Island）上一块由商业开发商以1美元转让给印第安部落的207英亩土地。",
+  "纽约州的理由很简单：根据1990年的《塞讷卡民族土地法案》（SNSA），当年给的购地资金早就花得差不多了，按规定剩下的钱只能用来建族人住房，而且必须挨着赌场或原本的部落土地，布法罗和格兰德岛这两处根本不符合条件。内政部当初批准这个地位是违规的。不过，塞讷卡部落则坚称买地完全符合联邦规定，资金也是从法案指定账户里出的。双方各执一词。",
+  "对咱们在当地住的华人来说，这事儿其实挺值得关注的。如果纽约州赢了，就能依法对这片土地收地方税和销售税，也能更好地管辖周边的商业开发；但要是印第安部落赢了，这些地盘就会永远享有主权豁免，免交本地税收。结果如何，还得看法院接下来怎么判。"
+ ],
+ "tags": [
+  "纽约州",
+  "塞讷卡部落",
+  "主权豁免",
+  "税收",
+  "房地产"
+ ],
+ "original_title": "Hochul sues to strip sovereign status from Seneca land, block Buffalo gas station and pot shop",
+ "lang": "en",
+ "published": "2026-11-08T04:56:33+00:00",
+ "created": "2026-11-08T10:22:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

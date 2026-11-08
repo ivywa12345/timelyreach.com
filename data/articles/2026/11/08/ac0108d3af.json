@@ -1,0 +1,25 @@
+{
+ "key": "ac0108d3af",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/iconic-saudi-tower-hit-as-yemens-houthis-target-riyadh-889ae71f?mod=rss_worldnews",
+ "title": "沙特标志性高层建筑遭袭！也门胡塞武装导弹袭击利雅得",
+ "summary": "沙特官方证实，在伊朗支持的也门胡塞武装对首都利雅得发动最新袭击后，当地一座标志性大厦受损。",
+ "body": [
+  "据《华尔街日报》记者Summer Said报道，也门胡塞武装（Houthis）近日再度向沙特首都利雅得（Riyadh）发动袭击，导致当地一座标志性的高层建筑（Iconic Saudi Tower）受损。沙特官员随后证实了这一建筑物受损的消息。",
+  "这次袭击是获得伊朗支持的胡塞武装针对沙特首都的最新一次军事动作，引发了外界对地区局势再度紧张的担忧。"
+ ],
+ "tags": [
+  "沙特",
+  "胡塞武装",
+  "利雅得",
+  "中东局势"
+ ],
+ "original_title": "Iconic Saudi Tower Hit as Yemen’s Houthis Target Riyadh",
+ "lang": "en",
+ "published": "2026-11-08T10:07:00+00:00",
+ "created": "2026-11-08T10:21:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

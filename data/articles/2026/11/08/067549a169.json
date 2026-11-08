@@ -1,0 +1,26 @@
+{
+ "key": "067549a169",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-08/china-raises-delegate-count-to-2-360-for-2027-party-congress",
+ "title": "2027年中共二十大代表名额敲定！比上次多了60名",
+ "summary": "新华社周日受权发布消息，中共二十大将于2027年召开，代表名额已确定为2,360名，比上届增加了60人。",
+ "body": [
+  "根据新华社周日（当地时间）援引中共中央组织部发布的消息，2027年中国共产党第二十一届全国代表大会的代表名额已经正式划定，总数将达到2,360名。",
+  "与上一届党代会相比，这次的代表名额增加了60个。中央组织部表示，这一代表名额的分配是根据党建需要和党员总数等综合因素科学合理确定的。",
+  "作为五年一度的重磅政治议程，二十大的相关筹备工作正按部就班地推进中。"
+ ],
+ "tags": [
+  "中共二十大",
+  "代表名额",
+  "国内政治",
+  "新华社"
+ ],
+ "original_title": "China Raises Delegate Count to 2,360 for 2027 Party Congress",
+ "lang": "en",
+ "published": "2026-11-08T03:29:25+00:00",
+ "created": "2026-11-08T10:21:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

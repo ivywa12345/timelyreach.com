@@ -1,0 +1,26 @@
+{
+ "key": "aabdaf786d",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/train-accidents-can-happen-anywhere-not-just-in-spain-961798b6?mod=rss_opinion",
+ "title": "火车事故哪都有？外媒：这事儿真跟国家富裕没关系！",
+ "summary": "针对西班牙等国发生的火车事故，《华尔街日报》指出，这类灾难通常是由人为失误造成的，而非由一个国家的政治或经济体制决定，这意味着此类悲剧在任何地方都有可能发生。",
+ "body": [
+  "最近西班牙发生的火车事故引发了广泛关注。《华尔街日报》(The Wall Street Journal)近日发表文章探讨了这类交通悲剧背后的原因。",
+  "文章指出，像火车脱轨这样的灾难，其根源往往在于“人为失误”，而不是取决于一个国家的经济水平或者政治制度。换句话说，这类意外并不专属于某一个国家，在世界任何地方都有可能上演。",
+  "对于经常搭乘公共交通出行的海外华人来说，这也提醒我们，安全无小事，交通枢纽的日常运营与人为管理才是防范事故的核心所在。"
+ ],
+ "tags": [
+  "火车事故",
+  "海外新闻",
+  "安全出行",
+  "华尔街日报"
+ ],
+ "original_title": "Train Accidents Can Happen Anywhere, Not Just in Spain",
+ "lang": "en",
+ "published": "2026-11-03T16:14:00+00:00",
+ "created": "2026-11-08T10:21:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

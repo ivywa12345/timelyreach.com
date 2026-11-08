@@ -1,0 +1,26 @@
+{
+ "key": "9f2b3f5e38",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/the-key-to-pedestrian-safety-debdfec6?mod=rss_opinion",
+ "title": "孟菲斯这条街给全美上了一课：想保护行人，这招最管用！",
+ "summary": "孟菲斯的尤宁大道（Union Avenue）通过物理隔离行人与车流，成功减少了交通事故，证明了保障行人安全的有效方法。",
+ "body": [
+  "最近美国媒体《华尔街日报》关注了一个交通安全的好典型——位于田纳西州孟菲斯市的尤宁大道（Union Avenue）。简单来说，这条路之所以能发挥设计意图、不出乱子，关键就在于一招：把人和车彻底隔开！",
+  "长期以来，城市道路上的行人安全一直是大家头疼的问题。这次孟菲斯的经验表明，想防止车撞行人的惨剧发生，光靠路标和口头提醒远远不够，最直接且管用的办法就是通过物理隔离，让行人和机动车各走各的路，互不干扰。",
+  "对于咱们在海外经常开车、过马路的朋友来说，安全永远是第一位的。无论是地方政府规划还是我们在日常出行中，重视交通的物理隔离、严格遵守规则，都是保护自己和家人钱包与平安的最好方式。"
+ ],
+ "tags": [
+  "交通安全",
+  "孟菲斯",
+  "海外生活",
+  "美国新闻"
+ ],
+ "original_title": "The Key to Pedestrian Safety",
+ "lang": "en",
+ "published": "2026-11-03T16:14:00+00:00",
+ "created": "2026-11-08T10:21:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

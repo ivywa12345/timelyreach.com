@@ -1,0 +1,24 @@
+{
+ "key": "39e3fe0a95",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-08/voters-punish-major-parties-in-cliffhanger-new-zealand-election",
+ "title": "新西兰大选杀成平手！两大主流政党遭选民“教训”，小党派直接迎高光时刻",
+ "summary": "新西兰大选结果目前依然难分高下，但选民们已经对两大传统主流政党发出了严厉警告，转而将大量选票投给小党派，彻底重塑了该国的政治版图。",
+ "body": [
+  "据彭博社（Bloomberg）报道，新西兰这场大选的选情异常胶着，目前胜负难料。不过，选民们已经通过选票给两大主流政党狠狠上了一课，直接把各家小党派送上了历史最好成绩的位置，政坛格局迎来大洗牌。",
+  "分析指出，这次选举结果反映出新西兰选民对传统大党的不满，多元化的民意让小党派迎来了前所未有的发展机遇。随着选票统计的继续，最终的组阁形势依然充满悬念。"
+ ],
+ "tags": [
+  "新西兰大选",
+  "政治格局",
+  "海外政治"
+ ],
+ "original_title": "Voters Punish Major Parties in Cliffhanger New Zealand Election",
+ "lang": "en",
+ "published": "2026-11-08T01:34:22+00:00",
+ "created": "2026-11-08T10:22:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
