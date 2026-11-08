@@ -25,6 +25,23 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=Playfair+Display:wght@900&display=swap">
 <link rel="stylesheet" href="/static/css/site.css?v={{ now[:13] }}">
+{% if ga_id and not no_tracking %}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ ga_id }}"></script>
+<script>
+(function () {
+  // The owner's own browser (logged in to the admin page) is not counted.
+  try { if (localStorage.getItem("tr_admin_pw")) return; } catch (e) {}
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  window.gtag = gtag;
+  // No cookies for visitors in the EEA, UK and Switzerland until they consent (we have no consent banner yet).
+  gtag("consent", "default", { analytics_storage: "denied", ad_storage: "denied", ad_user_data: "denied", ad_personalization: "denied",
+    region: ["AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IE","IT","LV","LT","LU","MT","NL","PL","PT","RO","SK","SI","ES","SE","IS","LI","NO","GB","CH"] });
+  gtag("js", new Date());
+  gtag("config", "{{ ga_id }}");
+})();
+</script>
+{% endif %}
 {% if ads.client and not noindex %}<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ ads.client }}" crossorigin="anonymous"></script>{% endif %}
 {% block head %}{% endblock %}
 </head>

@@ -13,6 +13,9 @@ per_page: 40
 # 再手动加一个会变成两个统计站点。想改用手动脚本时，把 token 填在这里。
 analytics_token: ""
 
+# 谷歌分析（Google Analytics 4）。在 analytics.google.com 创建“数据流”后，把衡量 ID 填在这里，留空就不加载。
+ga_measurement_id: ""     # 例如 "G-ABC123DEF4"
+
 # 谷歌广告（AdSense）。拿到发布商 ID 后填在这里即可，留空就不会加载任何广告代码。
 adsense_client: ""        # 例如 "ca-pub-1234567890123456"
 # 手动广告位：在 AdSense 后台创建“展示广告”后，把广告单元 ID（一串数字）填进来；留空的位置不显示。

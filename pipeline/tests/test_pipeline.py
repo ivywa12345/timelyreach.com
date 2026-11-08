@@ -663,3 +663,24 @@ def test_weekly_review_skips_weekdays_early_morning_and_thin_weeks(tmp_path):
     sat = datetime(2026, 11, 7, 15, 0, tzinfo=timezone.utc)
     thin = _week_store(tmp_path / "thin", sat, n=3, with_briefs=False)
     assert run_weekly(thin, [rewrite.FreeTranslateProvider()], now=sat, stats={}) is None                 # too few articles
+
+
+def test_google_analytics_is_off_without_an_id_and_skips_owner_pages(tmp_path, monkeypatch):
+    from dataclasses import replace
+
+    store = Store(tmp_path / "data")
+    base = load_site()
+    monkeypatch.delenv("GA_MEASUREMENT_ID", raising=False)
+    monkeypatch.setattr(build, "load_site", lambda: replace(base, ga_measurement_id=""))
+    out = build.build_site(tmp_path / "off", store=store, user_threads=[], stats={})
+    assert "googletagmanager" not in (out / "index.html").read_text(encoding="utf-8")
+
+    monkeypatch.setattr(build, "load_site", lambda: replace(base, ga_measurement_id="G-ABC123DEF4"))
+    out = build.build_site(tmp_path / "on", store=store, user_threads=[], stats={})
+    assert "gtag/js?id=G-ABC123DEF4" in (out / "index.html").read_text(encoding="utf-8")
+    assert "googletagmanager" not in (out / "admin.html").read_text(encoding="utf-8")
+    assert "googletagmanager" not in (out / "analytics.html").read_text(encoding="utf-8")
+
+    monkeypatch.setattr(build, "load_site", lambda: replace(base, ga_measurement_id='G-1"><script>x'))
+    out = build.build_site(tmp_path / "bad", store=store, user_threads=[], stats={})
+    assert "googletagmanager" not in (out / "index.html").read_text(encoding="utf-8")    # malformed id is dropped

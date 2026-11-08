@@ -52,6 +52,12 @@ def _paginate(items: list, per_page: int) -> list[list]:
 FEATURE_HOURS = 36
 
 
+def _ga_id(site) -> str:
+    """GA4 measurement id for the templates; anything that is not G-XXXXXXXX is ignored."""
+    gid = (os.environ.get("GA_MEASUREMENT_ID") or site.ga_measurement_id or "").strip()
+    return gid if re.fullmatch(r"G-[A-Z0-9]{6,12}", gid) else ""
+
+
 def _ads(site) -> dict:
     """Ad settings for the templates. Only a well-formed publisher id turns ads on, and only
     all-digit slot ids are used, so a typo can never inject markup."""
@@ -135,6 +141,7 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
         "supabase_on": bool(sb_url and sb_key),
         # Cloudflare Web Analytics site token (public by design); no token, no beacon
         "ads": _ads(site),
+        "ga_id": _ga_id(site),
         "analytics_token": re.sub(r"[^0-9a-zA-Z]", "", os.environ.get("CF_ANALYTICS_TOKEN") or site.analytics_token),
     }
 
