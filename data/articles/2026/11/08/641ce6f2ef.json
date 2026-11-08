@@ -1,0 +1,27 @@
+{
+ "key": "641ce6f2ef",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+ "title": "美股公司财报亮红灯？利润虽然还在超预期，但水分越来越小了！",
+ "summary": "根据MarketWatch报道，标普500指数成分股公司的最新盈利表现虽然大多超过了华尔街分析师的预期，但超出的幅度却是大约四年来最小的一次。",
+ "body": [
+  "标普500指数（S&P 500）公司的财报季正在进行中，虽然大部分企业的盈利数据勉强压过了分析师的预期，但这其中的“水分”可以说是近年来最小的。",
+  "根据MarketWatch专栏作家比尔·彼得斯（Bill Peters）的报道，当前企业盈利超出预期的幅度创下了大约四年来的新低。这说明美国企业在通胀和高利率的夹击下，赚钱的难度越来越大，华尔街的乐观预期也开始变得勉强。",
+  "对于咱们海外华人来说，企业盈利放缓可不是小事。它不仅可能直接影响股市走向，还可能波及大家的就业市场、公司年终奖甚至是401(k)养老金账户的收益。接下来投资和找工作可能都得更加谨慎了。"
+ ],
+ "tags": [
+  "美股",
+  "财报",
+  "华尔街",
+  "通胀",
+  "海外华人"
+ ],
+ "original_title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
+ "lang": "en",
+ "published": "2026-11-08T15:00:00+00:00",
+ "created": "2026-11-08T17:08:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

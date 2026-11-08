@@ -1,0 +1,26 @@
+{
+ "key": "c7c745382d",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/uk/do-you-know-englands-founding-father-its-ok-england-doesnt-either-4930772b?mod=rss_worldnews",
+ "title": "英国要庆祝建国1100年，结果尴尬了：连开国国王是谁都没人知道？",
+ "summary": "明年是英格兰首位国王被册封1100周年的纪念日，但筹办庆祝活动却遇到了一个大麻烦——几乎没人知道这位开国君主是谁。",
+ "body": [
+  "明年（2025年）本来该是英格兰迎来第一位国王的1100周年大庆，但据《华尔街日报》报道，这场庆典面临着一个相当尴尬的现实：压根没几个人知道这位历史人物到底是谁。",
+  "这位被历史忽略的开国国王名叫 Æthelstan（埃塞尔斯坦）。据报道，相关纪念活动的筹办工作正面临这一巨大阻碍，因为英国民众对这位奠定国家基础的君主实在太陌生了。",
+  "对于远在海外的我们来说，虽然这只是英国的一桩历史趣闻，但也提醒了大家：历史的记忆有时往往会被时间冲刷得干干净净。连英国人自己都差点忘了老祖宗是谁，看来历史科普在哪个国家都不容易啊。"
+ ],
+ "tags": [
+  "英国历史",
+  "文化趣闻",
+  "海外趣事",
+  "埃塞尔斯坦"
+ ],
+ "original_title": "Do You Know England’s Founding Father? It’s OK, England Doesn’t Either.",
+ "lang": "en",
+ "published": "2026-11-08T10:30:00+00:00",
+ "created": "2026-11-08T17:03:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "ae5a988632",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-08/gabon-seeks-2-billion-to-revive-mabounie-rare-earths-project",
+ "title": "加蓬砸20亿美元！拉上中国和阿联酋资本，想重启这个稀土大项目",
+ "summary": "加蓬正寻求通过一项耗资20亿美元的开发计划，重启长期搁置的马布涅（Mabounié）铌和稀土项目。该项目引入了阿联酋支持的新能源金属公司（New Energy Metals）与中国恩菲工程技术有限公司（ENFI）。",
+ "body": [
+  "加蓬最近有了大动作，打算砸下20亿美元，把一直停滞不前的马布涅（Mabounié）稀土和铌矿项目重新搞起来。据彭博社报道，这个雄心勃勃的项目背后有两股重要力量：背后有阿联酋支持的新能源金属公司（New Energy Metals），以及中国恩菲工程技术有限公司（ENFI）。",
+  "马布涅项目因种种原因搁置了很长时间，这次引入中东资本和中国工程团队，可以说是加蓬为了盘活矿产资源使出的组合拳。目前，各方正在推进这项总投资达20亿美元的开发计划，希望能让这个沉睡的大型矿产项目早日投产。"
+ ],
+ "tags": [
+  "加蓬",
+  "稀土",
+  "中国恩菲",
+  "海外矿产",
+  "国际财经"
+ ],
+ "original_title": "Gabon Seeks $2 Billion to Revive Mabounie Rare Earths Project",
+ "lang": "en",
+ "published": "2026-11-08T11:27:12+00:00",
+ "created": "2026-11-08T17:05:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

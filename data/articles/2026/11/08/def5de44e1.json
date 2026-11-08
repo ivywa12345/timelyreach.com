@@ -1,0 +1,27 @@
+{
+ "key": "def5de44e1",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/from-silicon-valley-to-the-pentagon-heres-the-2026-wsj-tech-california-recap-351cb31d?mod=rss_Technology",
+ "title": "从硅谷到五角大楼：2026华尔街日报科技峰会透露了哪些重磅看点？",
+ "summary": "华尔街日报日前举办了科技峰会，盘点了从硅谷到五角大楼的最新行业动向，涵盖苹果新品、亚马逊平板、数据中心争议以及AI巨头估值等热门话题。",
+ "body": [
+  "如果你最近在关注科技圈，这场由华尔街日报（WSJ）举办的科技峰会绝对信息量拉满。从硅谷的创新风向到五角大楼的国防科技布局，各种行业大瓜和前沿趋势全盘托出。",
+  "在硬件方面，会上提到了苹果（Apple）专为海滩度假设计的 iPad Mini，以及亚马逊（Amazon）主打高端市场的 Alexa 平板。同时，关于数据中心的抗议与争议仍在持续，而资本市场也开始对人工智能新贵安特罗皮克（Anthropic）的天价估值打上问号。",
+  "对于咱们海外华人来说，科技巨头的这些新动作往往直接影响到消费电子的选择、科技股投资的风向，以及AI时代下的行业大趋势。后续这些硬件和AI资本泡沫会走向何方，咱们拭目以待。"
+ ],
+ "tags": [
+  "科技峰会",
+  "苹果",
+  "亚马逊",
+  "人工智能",
+  "硅谷"
+ ],
+ "original_title": "From Silicon Valley to the Pentagon, Here’s the 2026 WSJ Tech: California Recap",
+ "lang": "en",
+ "published": "2026-11-08T15:55:00+00:00",
+ "created": "2026-11-08T17:04:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

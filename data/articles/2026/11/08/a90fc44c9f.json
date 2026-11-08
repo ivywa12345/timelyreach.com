@@ -1,0 +1,27 @@
+{
+ "key": "a90fc44c9f",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-08/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era",
+ "title": "特朗普刚一上台，华尔街巨头们就坐不住了：疯狂“联姻”的倒计时已经敲响！",
+ "summary": "随着唐纳德·特朗普（Donald Trump）重返白宫，美国企业界对兼并收购（M&A）的热情被彻底点燃，曾经难以推进的“巨无霸交易”如今卷土重来，华尔街正争分夺秒抢抓机遇。",
+ "body": [
+  "美国总统唐纳德·特朗普（Donald Trump）的重新上台，彻底改变了商业收购和兼并（M&A）背后的政治算盘。过去几年里很难谈成的那些“梦想级交易”，现在重新获得了企业的青睐。",
+  "业内人士指出，随着政治环境的变化，华尔街的企业巨头们正跟时间赛跑，抓紧时间推进各项大型资本运作。",
+  "对于在美华人来说，华尔街并购潮的兴起往往会引发新一轮的行业洗牌、公司重组甚至是岗位变动。无论你是打工人还是投资者，接下来都需要密切关注自己所在行业的大动作，因为这很可能会直接影响到你的职业发展和钱包厚度。"
+ ],
+ "tags": [
+  "华尔街",
+  "特朗普",
+  "兼并收购",
+  "美国经济",
+  "商业动态"
+ ],
+ "original_title": "Wall Street Races for Megadeals as Countdown Begins on Trump Era",
+ "lang": "en",
+ "published": "2026-11-08T14:00:00+00:00",
+ "created": "2026-11-08T17:05:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

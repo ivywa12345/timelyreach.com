@@ -1,0 +1,25 @@
+{
+ "key": "735d383559",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/africa/party-that-defeated-apartheid-hits-electoral-setback-in-south-africa-709f0483?mod=rss_worldnews",
+ "title": "南非政坛要变天？终结种族隔离的执政党遭遇史上最惨大败！",
+ "summary": "南非地方选举最终结果出炉，曾终结种族隔离制度的非国大（ANC）仅获得31%的选票，创下历史最差纪录。",
+ "body": [
+  "周日公布的南非地方选举最终计票结果显示，曾经领导南非终结种族隔离制度的执政党非洲国民大会（African National Congress，简称ANC）遭遇了史无前例的重大挫折，得票率惨跌至仅有31%，创下了该党有史以来的最差纪录。",
+  "作为南非政坛几十年来绝对的主导力量，非国大近年来一直面临选民对经济不振、失业率高企以及基础设施老化等问题的不满。此次地方选举结果无疑是对该党执政地位的一次巨震，显示出南非选民求变的心情十分迫切。"
+ ],
+ "tags": [
+  "南非政治",
+  "非国大",
+  "地方选举",
+  "海外热点"
+ ],
+ "original_title": "Party That Defeated Apartheid Hits Electoral Setback in South Africa",
+ "lang": "en",
+ "published": "2026-11-08T16:54:00+00:00",
+ "created": "2026-11-08T17:03:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

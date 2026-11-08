@@ -1,0 +1,23 @@
+{
+ "key": "4c09fd5ab4",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/articles/hakeem-jeffries-must-navigate-a-democratic-party-with-competing-priorities-6c679608?mod=rss_markets_main",
+ "title": "民主党大佬哈基姆·杰弗里斯，接下来要怎么端平这碗水？",
+ "summary": "华尔街日报指出，众议院民主党领袖哈基姆·杰弗里斯（Hakeem Jeffries）正面临党内不同派系利益交织的复杂局面，如何平衡各方诉求将是一大考验。",
+ "body": [
+  "据《华尔街日报》报道，美国众议院民主党领袖哈基姆·杰弗里斯（Hakeem Jeffries）目前正处于党内权力交替的核心。摆在他面前的，是一个有着各种不同甚至冲突优先事项的民主党，如何把这些力量凝聚在一起，将决定党派未来的走向。"
+ ],
+ "tags": [
+  "美国政治",
+  "民主党",
+  "哈基姆·杰弗里斯"
+ ],
+ "original_title": "Hakeem Jeffries Must Navigate a Democratic Party With Competing Priorities",
+ "lang": "en",
+ "published": "2026-11-08T11:59:00+00:00",
+ "created": "2026-11-08T17:04:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

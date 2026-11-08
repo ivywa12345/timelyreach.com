@@ -1,0 +1,27 @@
+{
+ "key": "2ffae2e14d",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/democrats-election-victory-isnt-a-mandate-37f5b32a?mod=rss_opinion",
+ "title": "大选赢了就是民心所向？美媒：别高兴太早，这只是对特朗普的厌烦！",
+ "summary": "华尔街日报分析指出，民主党近期的选举胜利并不代表选民全面接受了激进的左翼政策，这其实更多是对总统特朗普（Donald Trump）的严厉训斥。",
+ "body": [
+  "最近民主党在选举中频频告捷，很多人觉得这是民意大反转，大家开始拥抱进步派政策了。不过，《华尔街日报》的资深评论员可不这么看。",
+  "该媒体指出，这场胜利根本不是什么“授权令”（Mandate），也就是说，选民并不是真心实意支持那些激进的主张。说白了，这只是一场对总统特朗普（Donald Trump）的强烈抗议和出气，大家只是借选票表达对他的不满而已。",
+  "对于咱们在美华人来说，看清这一点挺重要的。不管政党怎么拉锯，经济政策、税收和治安才是跟咱们的钱包和生活息息相关的硬道理，政客们的解读往往自带滤镜，咱们还得看实际行动。"
+ ],
+ "tags": [
+  "美国大选",
+  "民主党",
+  "特朗普",
+  "政治评论",
+  "华尔街日报"
+ ],
+ "original_title": "Democrats’ Election Victory Isn’t a Mandate",
+ "lang": "en",
+ "published": "2026-11-08T14:34:00+00:00",
+ "created": "2026-11-08T17:05:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "c75c8e3eb6",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-08/hacked-records-show-400-000-russians-killed-in-war-on-ukraine",
+ "title": "俄乌打了快五年？内部机密数据显示：俄军阵亡人数已超40万！",
+ "summary": "根据俄罗斯国家统计局（Rosstat）的机密数据，自俄乌全面冲突爆发近五年来，已有约4万名俄罗斯人在战场上丧生。",
+ "body": [
+  "据彭博社（Bloomberg）报道，根据俄罗斯联邦国家统计局（Rosstat）掌握的一份机密数据显示，自俄乌全面冲突爆发近五年来，俄方记录的阵亡人数已经达到了约40万人。",
+  "这项由记者阿尔贝托·纳尔德利（Alberto Nardelli）、杰夫·考（Jeff Kao）、普里扬贾娜·本加尼（Priyanjana Bengani）和达里娜·克拉斯拉卢茨卡（Daryna Krasnolutska）联合报道的数据，首次从俄方内部统计的视角，揭示了这场冲突造成的巨大人员伤亡。"
+ ],
+ "tags": [
+  "俄乌冲突",
+  "俄罗斯",
+  "伤亡人数",
+  "彭博社"
+ ],
+ "original_title": "Hacked Records Show 400,000 Russians Killed in War on Ukraine",
+ "lang": "en",
+ "published": "2026-11-08T16:45:39+00:00",
+ "created": "2026-11-08T17:06:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

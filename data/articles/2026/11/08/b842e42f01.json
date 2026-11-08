@@ -1,0 +1,26 @@
+{
+ "key": "b842e42f01",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-08/indian-stocks-rise-in-special-diwali-trading-session-on-sunday",
+ "title": "打破7年连涨纪录！印度股市排灯节“开市大吉”变“开市大跌”",
+ "summary": "印度股市在庆祝印度教排灯节的传统特殊交易日中收跌，结束了自2017年以来连续多年的节日上涨势头。",
+ "body": [
+  "据彭博社（Bloomberg）记者Alex Gabriel Simon报道，印度股市在庆祝印度教排灯节（Diwali）的传统仪式性交易时段中收盘走低，这也是自2017年以来，印度股市首次在这个节日期间出现下跌。",
+  "排灯节是印度最重要的传统节日之一，股市通常会在节日当天开启一小时的特殊交易时段，被投资者视为讨个好彩头的“吉日”。然而今年的这次下跌，打破了长达七年的节日连涨纪录。",
+  "对于关注全球新兴市场或印度经济动态的海外华人投资者来说，亚洲各主要市场的波动近期备受瞩目，印度股市这一历史性连涨纪录的终结，也折射出当前市场情绪的微妙变化。"
+ ],
+ "tags": [
+  "印度股市",
+  "排灯节",
+  "财经快讯",
+  "全球市场"
+ ],
+ "original_title": "Indian Stocks Snap Diwali Win Streak in First Drop Since 2017",
+ "lang": "en",
+ "published": "2026-11-08T09:12:33+00:00",
+ "created": "2026-11-08T17:05:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
