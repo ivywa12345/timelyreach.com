@@ -671,17 +671,17 @@ def test_google_analytics_is_off_without_an_id_and_skips_owner_pages(tmp_path, m
     store = Store(tmp_path / "data")
     base = load_site()
     monkeypatch.delenv("GA_MEASUREMENT_ID", raising=False)
-    monkeypatch.setattr(build, "load_site", lambda: replace(base, ga_measurement_id=""))
+    monkeypatch.setattr(build, "load_site", lambda: replace(base, ga_measurement_id="", gtm_id=""))
     out = build.build_site(tmp_path / "off", store=store, user_threads=[], stats={})
     assert "googletagmanager" not in (out / "index.html").read_text(encoding="utf-8")
 
-    monkeypatch.setattr(build, "load_site", lambda: replace(base, ga_measurement_id="G-ABC123DEF4"))
+    monkeypatch.setattr(build, "load_site", lambda: replace(base, ga_measurement_id="G-ABC123DEF4", gtm_id=""))
     out = build.build_site(tmp_path / "on", store=store, user_threads=[], stats={})
     assert "gtag/js?id=G-ABC123DEF4" in (out / "index.html").read_text(encoding="utf-8")
     assert "googletagmanager" not in (out / "admin.html").read_text(encoding="utf-8")
     assert "googletagmanager" not in (out / "analytics.html").read_text(encoding="utf-8")
 
-    monkeypatch.setattr(build, "load_site", lambda: replace(base, ga_measurement_id='G-1"><script>x'))
+    monkeypatch.setattr(build, "load_site", lambda: replace(base, ga_measurement_id='G-1"><script>x', gtm_id=""))
     out = build.build_site(tmp_path / "bad", store=store, user_threads=[], stats={})
     assert "googletagmanager" not in (out / "index.html").read_text(encoding="utf-8")    # malformed id is dropped
 
