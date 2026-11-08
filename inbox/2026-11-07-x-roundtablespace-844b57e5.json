@@ -1,0 +1,26 @@
+{
+  "title": "苹果把Xcode装进Claude Code",
+  "summary": "苹果在Claude Code的插件目录中推出官方Xcode插件，可构建、运行和测试应用，渲染SwiftUI预览，驱动模拟器和真机，Claude能自己修好代码。",
+  "body": [
+    "苹果刚刚把Xcode装进了Claude Code。",
+    "这是官方的苹果插件，现已上架Claude Code的插件目录：",
+    "· 构建、运行和测试你的应用",
+    "· 渲染SwiftUI预览",
+    "· 驱动模拟器和真机iPhone",
+    "· 读取构建日志和报错",
+    "· 搜索苹果开发者文档",
+    "Claude现在可以构建你的iPhone应用，看到它长什么样，并在你不打开Xcode的情况下把它修好。",
+    "在Claude Code中安装：/plugin install xcode@claude-plugins-official",
+    "需要Mac上安装最新版Xcode。"
+  ],
+  "images": [],
+  "source_name": "Roundtable",
+  "source_url": "https://x.com/RoundtableSpace/status/2119043277173207238",
+  "board": "finance",
+  "tags": [
+    "苹果",
+    "AI",
+    "Claude"
+  ],
+  "created": "2026-11-07T12:24:21Z"
+}
