@@ -1,0 +1,25 @@
+{
+ "key": "725c86b11b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-09/treasuries-fall-before-auction-as-investors-regain-risk-appetite",
+ "title": "股市回暖避险降温？美国国债遭遇普遍下跌",
+ "summary": "由于股市从上周的暴跌中持续复苏，投资者风险偏好回升，导致作为避险资产的美国国债遭遇普遍下跌。",
+ "body": [
+  "随着股市继续从上周的低迷中恢复，市场的风险偏好明显回升，这也直接削弱了美国国债作为避险资产的吸引力。根据彭博社（Bloomberg）记者伊丽莎白·斯坦顿（Elizabeth Stanton）的报道，多数美国国债在这一背景下价格下跌。",
+  "对在美华人来说，国债收益率和债券市场的波动往往会间接影响到房贷利率、储蓄收益以及整体经济走势。虽然股市反弹让投资者的心情放松了不少，但固定收益市场的起伏也提醒大家，经济和资本市场的资金流向依然在快速变化。"
+ ],
+ "tags": [
+  "美国国债",
+  "股市",
+  "避险资产",
+  "投资理财"
+ ],
+ "original_title": "Most Treasuries Fall as Investors Regain Risk Appetite",
+ "lang": "en",
+ "published": "2026-11-09T17:03:34+00:00",
+ "created": "2026-11-09T21:08:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

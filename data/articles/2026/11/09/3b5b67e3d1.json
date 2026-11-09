@@ -1,0 +1,27 @@
+{
+ "key": "3b5b67e3d1",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-09/us-steel-npscy-strike-threat-grows-as-unions-talks-enter-third-month",
+ "title": "全美最大钢厂要大罢工？工会放话：谈判拖了三个月，我们快没耐心了！",
+ "summary": "由于新劳资协议谈判陷入僵局且已进入第三个月，美国钢铁工人工会表示对美国钢铁公司（US Steel）的耐心正在耗尽，罢工威胁日益加剧。",
+ "body": [
+  "话说美国工业界最近可能不太平。据彭博社报道，美国钢铁工人工会（United Steelworkers）近日公开表态，他们对美国钢铁公司（US Steel）的耐心已经快到底了。双方关于新劳资协议的谈判已经拉锯了整整三个月，迟迟没有谈拢，这也让这家美国老牌钢铁巨头面临着越来越大的罢工阴影。",
+  "据了解，作为全美最大的钢铁制造商之一，一旦发生罢工，不仅会直接影响公司的正常生产运营，还可能对当地供应链和就业市场造成不小的冲击。目前劳资双方仍未就新协议达成一致，工会方面的不满情绪正在持续积累。",
+  "对于咱们海外华人来说，这类大型制造业工会罢工往往会引发连锁反应，不仅可能推高建材和相关工业产品的价格，甚至会对整体经济预期和部分地区的就业治安带来微妙影响。咱们可以持续关注后续进展，看看双方能不能在最后关头谈妥。"
+ ],
+ "tags": [
+  "美国钢铁公司",
+  "罢工",
+  "工会谈判",
+  "海外经济",
+  "美国新闻"
+ ],
+ "original_title": "US Steel (NPSCY) Strike Threat Grows as Unions Talks Enter Third Month",
+ "lang": "en",
+ "published": "2026-11-09T16:37:29+00:00",
+ "created": "2026-11-09T21:08:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

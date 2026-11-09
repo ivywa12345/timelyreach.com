@@ -1,0 +1,27 @@
+{
+ "key": "07bc73f1ae",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/jensen-huangs-affair-rings-alarm-bells-for-nvidia-investors-03e79135?mod=rss_markets_main",
+ "title": "黄仁勋卷入绯闻？华尔街大佬：就算不是间谍，这事儿股东也得关心！",
+ "summary": "英伟达CEO黄仁勋被曝与大客户的一名高管有婚外情，华尔街日报专栏作家发文指出，无论其中是否涉及商业机密泄露，这种关系本身就值得股东们警惕。",
+ "body": [
+  "近日，华尔街知名财经媒体人詹姆斯·麦金托ッシュ（James Mackintosh）在《华尔街日报》撰文指出，英伟达（Nvidia）CEO黄仁勋（Jensen Huang）此前被曝光的一段婚外情，给公司投资者敲响了警钟。",
+  "文章分析认为，即便这位女性并非间谍，黄仁勋与自家核心大客户高管之间存在私密关系，也是一件让股东们无法忽视的事情。这种利益纠葛可能会引发外界对公司治理透明度以及决策公正性的担忧。",
+  "对于关注科技股和美股市场的海外华人投资者来说，公司的核心高管尤其是灵魂人物的个人私生活与企业合规风险息息相关。这不仅关乎公司的品牌形象，更可能直接牵动广大股民的钱包。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "华尔街日报",
+  "美股投资",
+  "公司治理"
+ ],
+ "original_title": "Jensen Huang’s Affair Rings Alarm Bells for Nvidia Investors",
+ "lang": "en",
+ "published": "2026-11-09T19:30:00+00:00",
+ "created": "2026-11-09T21:06:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

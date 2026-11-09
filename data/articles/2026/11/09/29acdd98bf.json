@@ -1,0 +1,27 @@
+{
+ "key": "29acdd98bf",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-09-2026?mod=rss_markets_main",
+ "title": "大盘坐过山车！道指暴涨超1100点，英伟达股价却跌了",
+ "summary": "在上周股市遭遇重挫后，美股迎来了强劲反弹，道琼斯工业平均指数猛涨超过1100点，纳斯达克指数也全面回暖。不过，芯片巨头英伟达（Nvidia）却逆势下跌，原因该公司正面临一项内部调查。",
+ "body": [
+  "上周美股刚经历了一波让人心惊肉跳的下跌，本周市场就来了个大反转。根据《华尔街日报》的报道，周一股市强劲反弹，其中道指表现极为抢眼，单日飙升超过1100点，纳斯达克指数也携手大涨，投资者紧绷的神经暂时松了一口气。",
+  "不过，在这片一片欣欣向荣的涨声中，AI宠儿英伟达（Nvidia）却有些落寞。消息显示，该公司股价在盘中出现了下滑，主要是因为这家芯片制造巨头目前正面临一项新调查，给市场情绪带来了一丝阴影。",
+  "对于关注美股和科技股的海外华人来说，大盘的剧烈震荡直接牵动着大家的投资账户。虽然大盘大涨让人振奋，但像英伟达这样备受瞩目的个股一旦传出调查风波，也提醒着大家在追高科技股时仍需注意风险，切莫盲目跟风。"
+ ],
+ "tags": [
+  "美股",
+  "英伟达",
+  "道指",
+  "股市反弹",
+  "海外投资"
+ ],
+ "original_title": "Stock Market Today: Nvidia Stock Slides After Chip Maker Opens Probe",
+ "lang": "en",
+ "published": "2026-11-09T09:04:21+00:00",
+ "created": "2026-11-09T21:06:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

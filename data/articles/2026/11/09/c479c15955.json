@@ -1,0 +1,28 @@
+{
+ "key": "c479c15955",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/09/business/trader-warned-of-nvidia-ceo-jensen-huangs-uncomfortably-close-relationship-with-alleged-chinese-spy-alice-huang-months-ago/",
+ "title": "英伟达CEO老黄被曝“中谍”绯闻？其实早在几个月前做空机构就盯上了！",
+ "summary": "早在英伟达CEO黄仁勋承认与被指控为中国间谍的Alice Huang有染的几个月前，就有做空机构发布报告，指出两人关系“过于亲密”，并质疑新加坡公司Megaspeed与阿里巴巴及芯片出口违规的关系。目前英伟达董事会已宣布对此展开独立调查。",
+ "body": [
+  ":cite[v0]:早在英伟达（Nvidia）CEO黄仁勋（Jensen Huang）的绯闻曝光前几个月，就已经有眼光敏锐的交易员和做空机构嗅到了不对劲。",
+  "2026年5月，做空机构Culper Research发布了一份名为《英伟达（NVDA）：中国问题》（NVIDIA (NVDA): The China Problem）的报告。报告虽然没有直接点破两人的私情，但指出黄仁勋与总部位于新加坡的Megaspeed公司高管Alice Huang关系“过于亲密”，并爆料称Megaspeed通过一系列空壳公司接受了中国电商巨头阿里巴巴的秘密资助。此外，报告还提到Megaspeed此前曾因涉嫌违反美国出口管制、向中国违规转运英伟达芯片而遭到审查，而Megaspeed对此予以否认，称检查未发现违规。",
+  "根据美国国务院的一份机密备忘录显示，Alice Huang被指控为中国国家安全部（MSS）招募的间谍，她通过在中东和东南亚的人工智能数据中心采购价值数十亿美元的英伟达芯片，从而接近了黄仁勋。随着绯闻发酵和股价一度暴跌5%，英伟达董事会于周日宣布，已指派独立法律顾问和董事对黄仁勋是否成为“外国情报工作目标”展开独立调查，不过目前董事会表示对他的领导力仍有信心，并强调没有迹象表明国家安全或英伟达机密受到损害。",
+  "对于关注科技股和美股的海外华人来说，AI龙头英伟达的这场风波不仅牵动着大家的钱包和投资收益，也再次把中美科技战和出口管制的敏感神经拉响，后续进展值得密切关注。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "美股",
+  "间谍传闻",
+  "华尔街"
+ ],
+ "original_title": "Trader warned of Nvidia CEO Jensen Huang’s ‘uncomfortably close’ relationship with alleged Chinese spy Alice Huang months ago",
+ "lang": "en",
+ "published": "2026-11-09T20:39:13+00:00",
+ "created": "2026-11-09T21:10:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

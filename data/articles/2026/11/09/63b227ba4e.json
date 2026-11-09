@@ -1,0 +1,25 @@
+{
+ "key": "63b227ba4e",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/a-timeline-of-nvidia-ceo-jensen-huangs-suspected-spy-drama-05cbebf3?mod=rss_Technology",
+ "title": "AI教父黄仁勋遇上“谍战风波”？一文看懂时间线",
+ "summary": "英伟达CEO黄仁勋近期卷入了一场疑似间谍风波，华尔街日报梳理了事件的发展时间线。",
+ "body": [
+  "最近，科技圈的大红人、英伟达（Nvidia）CEO黄仁勋（Jensen Huang）竟然卷入了一场疑似间谍风波，被推到了风口浪尖。华尔街日报（The Wall Street Journal）作者罗比·惠兰（Robbie Whelan）近日梳理了整起事件的来龙去脉，带大家看看这出风波究竟是怎么回事。",
+  "目前关于这起疑似间谍风波的细节还在进一步发酵中，作为全球AI芯片霸主的掌门人，黄仁勋的一举一动都牵动着整个科技界和资本市场的神经。"
+ ],
+ "tags": [
+  "黄仁勋",
+  "英伟达",
+  "AI",
+  "科技新闻"
+ ],
+ "original_title": "A Timeline of Nvidia CEO Jensen Huang’s Suspected Spy Drama",
+ "lang": "en",
+ "published": "2026-11-09T20:19:00+00:00",
+ "created": "2026-11-09T21:07:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

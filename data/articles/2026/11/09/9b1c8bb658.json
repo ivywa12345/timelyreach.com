@@ -1,0 +1,26 @@
+{
+ "key": "9b1c8bb658",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-09/trump-and-vance-confront-the-iran-war-after-midterm-rout",
+ "title": "中期选举惨败后，特朗普和万斯这回撞上伊朗战争了？",
+ "summary": "根据彭博社报道，在中期选举失利后，特朗普与潜在2028年总统候选人万斯正共同面对伊朗战局，而特朗普的举动也让万斯很难与这些政策保持距离。",
+ "body": [
+  "近日据彭博社记者Josh Wingrove报道，在中期选举遭遇惨败（Midterm Rout）之后，美国政坛的焦点迅速转向了中东局势。前总统特朗普（Donald Trump）和副总统万斯（JD Vance）正联手面对棘手的伊朗战争问题。",
+  "报道指出，特朗普并没有让这位被视为2028年潜在总统热门人选的搭档好过。特朗普的一系列动作和表态，使得万斯很难在政治上与当前的强硬立场保持安全距离，这也为未来的政坛走向埋下了伏笔。"
+ ],
+ "tags": [
+  "特朗普",
+  "万斯",
+  "伊朗局势",
+  "美国政治",
+  "中期选举"
+ ],
+ "original_title": "Trump and Vance Confront the Iran War After Midterm Rout",
+ "lang": "en",
+ "published": "2026-11-09T21:03:40+00:00",
+ "created": "2026-11-09T21:08:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

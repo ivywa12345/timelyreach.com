@@ -1,0 +1,25 @@
+{
+ "key": "6ad5cdfac9",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/jensen-huang-doesnt-believe-in-succession-planning-its-become-a-big-risk-for-nvidia-abd9ea9d?mod=rss_Technology",
+ "title": "黄仁勋不搞接班人计划，英伟达这下遇到大麻烦了？",
+ "summary": "华尔街日报报道称，英伟达（Nvidia）CEO黄仁勋一直没有设立接班人计划，这已成为公司的巨大风险。同时，董事会也对关于他成为中国间谍目标的报道启动了调查。",
+ "body": [
+  "据《华尔街日报》报道，英伟达（Nvidia）的掌门人黄仁勋（Jensen Huang）一直以来都不相信所谓的接班人计划。然而，随着公司的体量和重要性日益膨胀，这种“无接班人”的管理模式如今成了英伟达头上的一颗定时炸弹，引发外界对公司未来走向的深切担忧。",
+  "与此同时，据报道，英伟达董事会也已经正式启动了一项调查，起因是有消息称这位亿万富翁CEO成为了中国间谍的目标。目前相关调查正在进行中，这也让这家全球AI芯片霸主的领导层安全问题再次被推到了风口浪尖。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "科技巨头",
+  "海外华人"
+ ],
+ "original_title": "Jensen Huang Doesn’t Believe in Succession Planning. It’s Become a Big Risk for Nvidia.",
+ "lang": "en",
+ "published": "2026-11-09T19:59:00+00:00",
+ "created": "2026-11-09T21:07:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

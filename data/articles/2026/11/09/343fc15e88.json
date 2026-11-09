@@ -1,0 +1,27 @@
+{
+ "key": "343fc15e88",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/europe/france-u-s-suspect-iran-was-behind-cyberattack-on-european-fridges-6247965c?mod=rss_worldnews",
+ "title": "背后有黑手？法国外长指控伊朗是欧洲超市冰箱遭黑客攻击的幕后主使",
+ "summary": "法国外长公开指控伊朗策划了针对欧洲700家超市的恶意网络攻击，引发美法两国高度关注。",
+ "body": [
+  "话说最近欧洲的超市可不太平，足足有700家超市的冷藏系统遭到了网络攻击，冰箱全瘫痪了。这可不是小事，直接影响了食品安全和日常运营。据《华尔街日报》报道，法国和美国现在怀疑，这起大规模黑客事件的幕后黑手很可能就是伊朗。",
+  "法国外长率先站出来，公开指责伊朗政府是这起网络攻击的策划者。虽然具体的攻击细节和技术手段还在进一步调查中，但美法两国对这一事件表现出高度警惕。",
+  "虽然这起事件发生在欧洲，但这几年跨国网络攻击越来越频繁，不管是管基础设施还是日常商业运营，都可能成为黑客的目标。对于海外华人来说，这也提醒我们在日常生活中，无论是工作还是网购，网络安全和数据隐私真是半点马虎不得。"
+ ],
+ "tags": [
+  "网络安全",
+  "法国",
+  "伊朗",
+  "黑客攻击",
+  "海外快讯"
+ ],
+ "original_title": "France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges",
+ "lang": "en",
+ "published": "2026-11-09T18:50:00+00:00",
+ "created": "2026-11-09T21:06:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

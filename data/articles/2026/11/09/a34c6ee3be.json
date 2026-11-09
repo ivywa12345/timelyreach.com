@@ -1,0 +1,26 @@
+{
+ "key": "a34c6ee3be",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
+ "title": "“人类命运共同体”可不只是说说而已？外媒剖析中国的新全球愿景",
+ "summary": "经济学人发文分析，中国正通过“人类命运共同体”等理念，积极塑造以中国为核心的国际新秩序，且这一愿景背后有着实打实的实力支撑。",
+ "body": [
+  "最近，《经济学人》（The Economist）发表了一篇深度文章，讨论了中国领导人习近平对于建立一个以中国为中心的国际新秩序的宏伟蓝图。",
+  "文章指出，虽然“人类命运共同体”这个词听起来十分柔和，但它绝非空洞的外交辞令，而是有着强大的经济与政治实力（muscle）作后盾。中国正通过各种双边和多边倡议，逐步重塑全球治理格局。",
+  "对于海外华人来说，大国之间的战略布局和博弈，往往会在无形中影响到全球经济走向、地缘政治甚至华人在海外的生存环境。我们将持续关注这一国际动向对各方带来的长远影响。"
+ ],
+ "tags": [
+  "国际秩序",
+  "经济学人",
+  "全球治理",
+  "海外观察"
+ ],
+ "original_title": "Xi Jinping’s plan for a China-centric world order",
+ "lang": "en",
+ "published": "2026-11-09T17:32:54+00:00",
+ "created": "2026-11-09T21:08:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

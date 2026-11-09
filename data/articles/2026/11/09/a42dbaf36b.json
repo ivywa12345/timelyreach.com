@@ -1,0 +1,27 @@
+{
+ "key": "a42dbaf36b",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/finance-and-economics/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
+ "title": "特朗普经济学2.0会咋样？华尔街：妥协还是凉凉",
+ "summary": "经济学人分析了特朗普经济学的未来走向，指出现实中的政治妥协可能会压倒一味地否认与死扛。",
+ "body": [
+  "说到特朗普（Donald Trump）的经济政策，大家最关心的就是“特朗普经济学”（Trumponomics）接下来到底会怎么走。根据《经济学人》（The Economist）的分析，这位懂王标志性的“交易的艺术”（the art of the deal）很可能会在现实的政治与经济压力面前，和“否认的艺术”（the art of denial）展开一场较量。",
+  "回顾以往，特朗普的经济政策常常伴随着极具争议的关税大棒和减税承诺。但在新一届任期里，他将面对复杂的通胀形势、国会博弈和全球市场的压力。单纯靠嘴硬或者否认经济规律显然行不通，如何进行政策上的妥协和调整，将直接决定其经济政策最终是能搞出名堂，还是以失败告终。",
+  "对于咱们海外华人来说，美国的经济政策直接关系到咱们的钱包、工作机会以及日常生活成本。如果未来政策走向妥协，通胀和税收政策可能会有缓冲；但如果死扛到底，引发贸易战升级，大家的投资、生意和生活开销都可能受到波及。我们会持续关注后续的政策落地情况。"
+ ],
+ "tags": [
+  "特朗普经济学",
+  "美国经济",
+  "海外华人",
+  "华尔街",
+  "通货膨胀"
+ ],
+ "original_title": "The future of Trumponomics: compromise or failure",
+ "lang": "en",
+ "published": "2026-11-09T19:13:41+00:00",
+ "created": "2026-11-09T21:07:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

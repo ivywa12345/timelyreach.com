@@ -1,0 +1,26 @@
+{
+ "key": "89d7b7a5a3",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
+ "title": "AI能代替人类写邮件通讯吗？《经济学人》专栏作家泼了盆冷水",
+ "summary": "《经济学人》专栏作家Andrew Palmer对利用AI撰写邮件通讯（Newsletters）泼了冷水，认为部分以此为生的写手可能要面对不太妙的现实。",
+ "body": [
+  "如果你最近也在琢磨能不能让AI帮自己搞定日常的邮件通讯（Newsletters），《经济学人》（The Economist）的专栏作家安德鲁·帕尔默（Andrew Palmer）可能会给你泼一盆冷水。",
+  "在他的“Bartleby”专栏中，帕尔默对AI写作在邮件通讯领域的应用进行了探讨，并得出了一个不太乐观的结论：对于某些靠写邮件为生的写手来说，这恐怕不是什么好消息。",
+  "虽然AI现在生成文本的速度飞快，但它在真正需要洞察力、独特观点和情感共鸣的深度内容上，依然无法完全替代人类。对于海外华人来说，无论是职场沟通还是副业运营，如何利用AI提升效率的同时不失人情味，依然是一个需要琢磨平衡的问题。"
+ ],
+ "tags": [
+  "AI写作",
+  "经济学人",
+  "职场效率",
+  "邮件通讯"
+ ],
+ "original_title": "Bartleby newsletter: Can AI write newsletters",
+ "lang": "en",
+ "published": "2026-11-09T16:39:37+00:00",
+ "created": "2026-11-09T21:07:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "e4be0ce641",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-09/oil-tanker-rates-extend-plunge-still-trade-at-very-high-levels",
+ "title": "油轮运费大降温！长途运油这门生意又香了？",
+ "summary": "根据彭博社报道，国际原油海运费用进一步回落，虽然整体运费水平相比历史均值依然不低，但这波降温已经让一些长途原油贸易重新变得有利可图。",
+ "body": [
+  "如果你一直盯着国际能源市场，最近运油的成本可算降下来了。据彭博社（Bloomberg）报道，原油油轮（Oil Tanker）的运输成本近期进一步走低。",
+  "虽然目前的运费按历史标准来看依然处于高位，但这一下降趋势已经产生了实际影响——它让那些原本因为运费太贵而让人犹豫的长途原油贸易，重新变得吸引力十足。",
+  "对于关注全球能源价格走向的海外华人来说，运费下降通常有助于缓解原油供应链的压力，从而在一定程度上对冲油价的大幅波动，最终也可能反映在大家的日常出行油费上。"
+ ],
+ "tags": [
+  "原油",
+  "油轮运费",
+  "国际贸易",
+  "能源市场"
+ ],
+ "original_title": "Oil Tanker Rates Drop, Making Long-Haul Crude Trades Attractive",
+ "lang": "en",
+ "published": "2026-11-09T17:07:08+00:00",
+ "created": "2026-11-09T21:08:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "0732749240",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-09/supreme-court-allows-trump-border-wall-construction-in-big-bend",
+ "title": "最高法院开绿灯！特朗普边境墙项目在德州大弯国家公园恢复施工",
+ "summary": "美国最高法院推翻了环保方面的反对意见，允许特朗普总统在德州西部的大弯国家公园恢复修建边境墙，这是其标志性项目的一项关键胜利。",
+ "body": [
+  "美国最高法院近日作出裁决，为总统特朗普（Donald Trump）的边境墙建设扫清了一大障碍。法院允许在位于德州西部的大弯国家公园（Big Bend National Park）恢复边境墙施工，直接驳回了此前针对该项目的环保反对意见。",
+  "这项裁决被视为特朗普在推进其标志性边境安全项目上的一个关键胜利。此前，环保人士和相关团体曾以破坏当地生态环境为由，对该地区的施工提出了法律挑战。",
+  "对于关注美国边境政策和移民动态的海外华人来说，这项进展表明政府在推动边境管控基础设施建设方面的决心依然坚定，后续相关的法律与政策博弈仍将持续。"
+ ],
+ "tags": [
+  "美国最高法院",
+  "特朗普",
+  "边境墙",
+  "德州",
+  "移民政策"
+ ],
+ "original_title": "Supreme Court Lets Trump Build Border Wall in Big Bend Park",
+ "lang": "en",
+ "published": "2026-11-09T19:46:40+00:00",
+ "created": "2026-11-09T21:08:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
