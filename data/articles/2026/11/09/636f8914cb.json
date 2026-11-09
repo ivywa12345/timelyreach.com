@@ -1,0 +1,27 @@
+{
+ "key": "636f8914cb",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-08/trump-defends-nvidia-s-huang-after-he-admits-affair-with-spy",
+ "title": "英伟达CEO卷入“中国女谍”风波，特朗普公开发话了！",
+ "summary": "美国前总统特朗普近日公开力挺英伟达CEO黄仁勋，此前有报道称黄仁勋曾与一名被美国情报部门怀疑是中国间谍的女性有过婚外情，特朗普称赞他是个“很好的人”，并表示他应该继续领导英伟达。",
+ "body": [
+  "据彭博社报道，美国前总统唐纳德·特朗普（Donald Trump）近日公开表态，力挺芯片巨头英伟达（Nvidia Corp.）首席执行官黄仁勋（Jensen Huang）。此前，有媒体爆出黄仁勋曾与一名被美国情报官员怀疑是中国间谍的女性有过婚外情。",
+  "特朗普在谈到这起风波时，称赞黄仁勋是一个“很好的人”（fine person），并明确表示他应该继续担任英伟达的领导人。不过，目前关于这名涉事女性以及情报调查的具体细节尚未完全披露。",
+  "作为全球人工智能芯片浪潮的核心人物，黄仁勋的一举一动都备受瞩目，英伟达的走向也直接牵动着科技股投资者的神经。对于身处中美科技竞争焦点的海外华人来说，这家芯片巨头的每一次风吹草动，都可能对科技行业的就业和相关投资产生深远影响。"
+ ],
+ "tags": [
+  "特朗普",
+  "英伟达",
+  "黄仁勋",
+  "科技新闻",
+  "海外华人"
+ ],
+ "original_title": "Trump Backs Nvidia CEO After Affair With Suspected China Spy",
+ "lang": "en",
+ "published": "2026-11-08T23:36:05+00:00",
+ "created": "2026-11-09T02:42:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

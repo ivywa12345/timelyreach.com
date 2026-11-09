@@ -1,0 +1,25 @@
+{
+ "key": "07ba6f6fd3",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-mixed-signals-00565ca1?mod=rss_markets_main",
+ "title": "亚洲早盘金价小幅走高，市场信号杂乱无章",
+ "summary": "在各种信号交织的情况下，亚洲早盘黄金价格出现小幅上涨。",
+ "body": [
+  "周一亚洲早盘，国际黄金价格在多空信号交织的背景下录得小幅上涨。近期市场消息繁杂，投资者的方向感并不十分明确。",
+  "目前市场上的经济数据和宏观信号多空参半，导致金价走势略显纠结。不过，作为传统的避险资产，黄金在面对杂乱的市场信号时依然展现出了一定的韧性。"
+ ],
+ "tags": [
+  "黄金",
+  "金价",
+  "贵金属",
+  "财经速递"
+ ],
+ "original_title": "Gold Edges Higher Amid Mixed Signals",
+ "lang": "en",
+ "published": "2026-11-09T00:25:00+00:00",
+ "created": "2026-11-09T02:41:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

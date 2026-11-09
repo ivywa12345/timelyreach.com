@@ -1,0 +1,26 @@
+{
+ "key": "e9f8f748cc",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-09/philippine-economy-slows-further-adding-to-pressure-on-marcos",
+ "title": "菲律宾经济怎么了？连续五个季度意外放缓，马科斯政府压力山大！",
+ "summary": "受农业产出疲软、高昂能源成本以及厄尔尼诺现象持续影响，菲律宾经济增长连续第五个季度意外放缓，表现堪称亚洲垫底，给总统马科斯带来了巨大的施政压力。",
+ "body": [
+  "据彭博社（Bloomberg）报道，菲律宾经济近期的表现让外界跌破眼镜。作为亚洲表现最差的经济体之一，菲律宾的经济增长连续第五个季度出现意外放缓。",
+  "分析指出，这次放缓的主要幕后推手是疲软的农业产出，再加上居高不下的能源成本以及挥之不去的厄尔尼诺（El Niño）极端天气影响，给该国未来的经济前景蒙上了一层厚厚的阴影，也让总统小费迪南德·马科斯（Ferdinand Marcos Jr.）面临着不小的民生和政治压力。"
+ ],
+ "tags": [
+  "菲律宾经济",
+  "马科斯",
+  "厄尔尼诺",
+  "通货膨胀",
+  "亚洲经济"
+ ],
+ "original_title": "Philippine Economy Unexpectedly Slows, Pressuring Marcos",
+ "lang": "en",
+ "published": "2026-11-09T02:03:44+00:00",
+ "created": "2026-11-09T02:41:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

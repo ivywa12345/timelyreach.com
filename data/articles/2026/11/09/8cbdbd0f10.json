@@ -1,0 +1,26 @@
+{
+ "key": "8cbdbd0f10",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/it-was-the-economy-not-the-war-a4029e99?mod=rss_worldnews",
+ "title": "打伊朗到底合不合民意？民调说大伙儿其实挺支持，关键还得看经济！",
+ "summary": "根据《华尔街日报》专栏文章分析，民调显示大多数美国人认为对伊朗的冲突是正当的，而共和党想要赢得选民支持，最终还得靠搞好经济。",
+ "body": [
+  "最近有民调发现，其实大部分美国人觉得跟伊朗的冲突是有道理的。不过，政客们想要真正帮到共和党（GOP），光靠军事或外交动作可不够，最实在的还是得把经济搞上去，用实打见的战绩说话。",
+  "专栏作者Mark Penn指出，当前选民对各项事务的看法复杂，但经济表现往往是决定支持率的关键。对于在美华人来说，无论是日常开销、通货膨胀还是就业市场，经济走向都直接关系到大家的钱包和生活质量。"
+ ],
+ "tags": [
+  "美国经济",
+  "民调",
+  "共和党",
+  "海外华人",
+  "时政"
+ ],
+ "original_title": "Opinion | It Was the Economy, Not the War",
+ "lang": "en",
+ "published": "2026-11-08T17:23:00+00:00",
+ "created": "2026-11-09T02:40:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

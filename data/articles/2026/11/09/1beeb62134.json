@@ -1,0 +1,27 @@
+{
+ "key": "1beeb62134",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+ "title": "中国10月PPI创四年多新高！批发价格猛涨，但老百姓买东西反而更便宜了？",
+ "summary": "中国10月生产者物价指数（PPI）同比上涨5.7%，创下2022年6月以来的最快增速，远超经济学家预期；与此同时，消费者物价指数（CPI）涨幅则放缓至0.7%。",
+ "body": [
+  "根据CNBC报道，中国10月生产者物价指数（PPI）同比大幅增长5.7%，不仅连续第三个月加速上涨，还直接创下了四年多以来的最高纪录，超过了路透社调查中经济学家普遍预测的5.3%。这次批发价格的飙升，主要受采矿业和原材料行业价格大涨的推动。",
+  "不过有意思的是，批发端热火朝天，消费端却冷热不均。10月中国消费者物价指数（CPI）同比上涨0.7%，涨幅比9月的0.9%有所回落，这也是连续两个月上涨后的首次放缓，略低于经济学家预期的0.8%。剔除食品和能源后的核心CPI也从上个月的1%降至0.8%。",
+  "中国国家统计局城市司首席统计师董莉娟（Dong Lijuan）指出，汽油价格依然是推动消费价格上涨的最大主力，但这一涨幅被食品价格超预期的下跌给对冲掉了。另一方面，中国经济近期展现出了一些向好的扩张迹象，三季度GDP增速超预期，9月零售额也表现亮眼。数据发布后，中国内地沪深300指数（CSI 300 index）小幅上涨了0.56%。"
+ ],
+ "tags": [
+  "中国经济",
+  "PPI",
+  "CPI",
+  "通货膨胀",
+  "海外华人"
+ ],
+ "original_title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+ "lang": "en",
+ "published": "2026-11-09T02:28:50+00:00",
+ "created": "2026-11-09T02:43:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

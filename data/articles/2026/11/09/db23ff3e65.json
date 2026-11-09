@@ -1,0 +1,25 @@
+{
+ "key": "db23ff3e65",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/europe/the-new-political-era-less-party-loyalty-big-election-swings-4cfa0ba1?mod=rss_worldnews",
+ "title": "选民越来越难伺候了？美国和欧洲的选举正变得越来越刺激！",
+ "summary": "最近的中期选举再次表明，从美国到欧洲，选民对政党的忠诚度正在降低，大选结果的摇摆幅度变得越来越大。",
+ "body": [
+  "根据《华尔街日报》资深记者David Luhnow的分析，最近的美国中期选举不过是全球选举政治新时代的一个缩影。从美国到欧洲，如今的选民越来越难被某个政党长期套牢，选举结果的波动性和不确定性正在显著增强。",
+  "这种“党派忠诚度下降、选举大起大落”的现象，意味着政客们再也不能稳坐钓鱼台。选民们越来越倾向于根据当下的实际情况（比如经济、通胀等切身感受）来投票，而不是盲目跟着党派走，这也导致历次大选的结果更加难以预测。"
+ ],
+ "tags": [
+  "美国大选",
+  "政治风向",
+  "中期选举",
+  "海外华人"
+ ],
+ "original_title": "The New Political Era: Less Party Loyalty, Big Election Swings",
+ "lang": "en",
+ "published": "2026-11-09T02:00:00+00:00",
+ "created": "2026-11-09T02:40:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

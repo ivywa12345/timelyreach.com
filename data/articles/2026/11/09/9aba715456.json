@@ -1,0 +1,26 @@
+{
+ "key": "9aba715456",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/protecting-a-supreme-court-landmark-4d2e8618?mod=rss_opinion",
+ "title": "最高法院这回遇到硬骨头了？政府想在官司里开绿灯！",
+ "summary": "美国劳工部在 Department v. Sun Valley Orchards 一案中，寻求对联邦法院公民诉权（right to redress）设置例外规定，引发关注。",
+ "body": [
+  "最近，华尔街日报（The Wall Street Journal）编辑部发文关注了一起可能动摇最高法院重要判例的案件——《劳动部诉太阳谷果园案》（Department of Labor v. Sun Valley Orchards）。",
+  "简单来说，美国政府在这起案件中，希望在联邦法院的公民诉权上打破常规，争取一些“例外”规定。这不仅关系到涉案双方的利益，也可能对未来类似案件产生深远影响。",
+  "对于咱们海外华人来说，这类涉及联邦法院诉讼权利和政府权力的案件，往往关乎法律面前的公平公正。如果政府的权力边界发生变化，难保不会对普通人在面对联邦机构时的维权途径产生影响，我们将持续关注后续发展。"
+ ],
+ "tags": [
+  "最高法院",
+  "美国法律",
+  "劳工部",
+  "联邦法院"
+ ],
+ "original_title": "Protecting a Supreme Court Landmark",
+ "lang": "en",
+ "published": "2026-11-08T21:36:00+00:00",
+ "created": "2026-11-09T02:41:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

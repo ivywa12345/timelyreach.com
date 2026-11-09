@@ -1,0 +1,27 @@
+{
+ "key": "5f4266087f",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-09/china-s-cheap-domestic-gas-curbs-lng-buying-as-winter-nears",
+ "title": "国内气价大跌！中国今年不跟欧洲抢天然气了？",
+ "summary": "随着中国国内天然气价格走低，作为全球最大天然气买家的中国，近期对昂贵的海运液化天然气（LNG）进口需求减弱。这可能在冬季用气高峰期为欧洲和其他亚洲市场释放出更多货源。",
+ "body": [
+  "彭博社报道称，随着冬季用气高峰临近，中国的国内天然气价格却在走软。这一变化直接导致这个全球最大的天然气进口国，对昂贵的海运进口LNG（液化天然气）的胃口大减。",
+  "长期以来，中国在冬季的采购大动作往往会推高国际天然气价格。而这一次国内价格的疲软，不仅降低了买进高价海外货源的动力，还可能在寒冬到来之际，为欧洲以及其他亚洲市场腾出更多可供抢购的船货，缓解国际市场的供应紧张局势。",
+  "对海外华人来说，能源价格的波动往往直接挂钩电费、取暖费等生活成本。虽然国内天然气供应充足、价格走低是个好消息，但由于国际能源市场环环相扣，欧洲和其他亚洲市场的供需变化，可能仍会对全球通胀和海外居民的冬季账单产生间接影响。"
+ ],
+ "tags": [
+  "天然气",
+  "能源价格",
+  "欧洲",
+  "海外生活",
+  "通胀"
+ ],
+ "original_title": "China’s Cheap Domestic Gas Curbs LNG Buying as Winter Nears",
+ "lang": "en",
+ "published": "2026-11-09T02:20:24+00:00",
+ "created": "2026-11-09T02:41:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

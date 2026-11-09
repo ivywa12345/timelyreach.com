@@ -1,0 +1,27 @@
+{
+ "key": "c3c09f810a",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-7-led-by-machinery-financial-stocks-45670eb5?mod=rss_markets_main",
+ "title": "美股就业数据给力！日经指数今天大涨1.7%迎反弹",
+ "summary": "受美国强劲就业数据的提振，日本股市今天迎来反弹，日经指数上涨1.7%，其中机械和金融股领涨，一扫上周五大跌的阴霾。",
+ "body": [
+  "上周五刚经历了一波抛售，日本股市今天（当地时间周一）总算扬眉吐气了一把。在机械股和金融股的强力带动下，日经指数强势反弹，收盘涨幅达到了1.7%。",
+  "市场分析指出，这次日股的上涨主要得益于上美国刚刚公布的非农就业数据表现相当扎实，缓解了投资者对全球经济放缓的担忧，市场情绪明显回暖。",
+  "对于关注全球市场的海外华人投资者来说，美国经济数据的风吹草动依然是联动亚洲股市的关键风向标，跨国资产配置时需要密切留意美日两地市场的联动效应。"
+ ],
+ "tags": [
+  "日本股市",
+  "日经指数",
+  "美股就业数据",
+  "金融股",
+  "海外投资"
+ ],
+ "original_title": "Nikkei Rises 1.7%, Led by Machinery, Financial Stocks",
+ "lang": "en",
+ "published": "2026-11-09T00:29:00+00:00",
+ "created": "2026-11-09T02:41:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

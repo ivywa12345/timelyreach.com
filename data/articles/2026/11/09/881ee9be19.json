@@ -1,0 +1,26 @@
+{
+ "key": "881ee9be19",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-hopes-for-easing-mideast-tensions-28ffdb0c?mod=rss_markets_main",
+ "title": "中东局势有望缓和？亚洲盘油价今天突然跌了！",
+ "summary": "受中东紧张局势可能缓和的乐观情绪影响，亚洲交易时段国际油价出现下跌。",
+ "body": [
+  "各位老铁注意了，今天亚洲盘的油价有点动静。受中东局势可能缓和的乐观情绪影响，油价出现下跌。",
+  "澳新银行（ANZ）指出，随着民主党在中期选举中大获全胜，投资者们现在非常迫切地想要看到关于伊朗局势能有实质性的进展。",
+  "对于咱们海外华人来说，国际油价的波动直接关系到去加油站的开销。油价下跌意味着近期开车出行能省点油钱，大家可以关注一下接下来的油价走势。"
+ ],
+ "tags": [
+  "油价",
+  "中东局势",
+  "财经新闻",
+  "海外华人"
+ ],
+ "original_title": "Oil Falls Amid Hopes for Easing Mideast Tensions",
+ "lang": "en",
+ "published": "2026-11-09T02:33:00+00:00",
+ "created": "2026-11-09T02:41:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

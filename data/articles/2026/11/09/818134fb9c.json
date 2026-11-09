@@ -1,0 +1,25 @@
+{
+ "key": "818134fb9c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9",
+ "title": "油价刚经历2020年来最大周跌幅！中东局势又有什么新变化？",
+ "summary": "由于交易员们在评估美伊冲突的外交斡旋与该地区的新一轮袭击，国际油价延续了自2020年4月以来的最大单周跌幅。",
+ "body": [
+  "据彭博社记者 Kanoko Matsuyama 报道，国际油价近期遭遇重挫，刚刚经历了自2020年4月以来最大的一次周跌幅。市场目前正在密切权衡两股相反的力量：一方面是旨在结束美伊冲突（US-Iran conflict）的外交努力，另一方面则是该地区持续不断的新袭击。",
+  "对于海外华人来说，国际油价的大幅波动往往会直接传导到日常生活成本中。虽然油价下跌可能意味着近期去加油站加油时钱包压力会稍微减轻，但中东地区局势的动荡也时刻牵动着全球经济的神经，后续走势仍需保持关注。"
+ ],
+ "tags": [
+  "油价",
+  "美伊冲突",
+  "国际新闻",
+  "海外生活"
+ ],
+ "original_title": "Latest Oil Market News and Analysis for Nov. 9",
+ "lang": "en",
+ "published": "2026-11-08T23:03:27+00:00",
+ "created": "2026-11-09T02:41:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

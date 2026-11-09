@@ -1,0 +1,26 @@
+{
+ "key": "0183b58be1",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-09/mizuho-pierces-nomura-s-japan-bubble-with-big-ticket-global-ipos",
+ "title": "瑞穗金融集团放大招：联手美国AI热潮，要在日本资本市场分块大蛋糕！",
+ "summary": "根据彭博社报道，瑞穗金融集团（Mizuho Financial Group Inc.）通过将美国对人工智能（AI）的巨大融资需求与日本国内庞大的散户储蓄池连接起来，在日本股票资本市场开辟了一个利润丰厚的新赛道。",
+ "body": [
+  "说到日本金融圈，大家以前可能只想到野村控股（Nomura Holdings Inc.）。不过最近，瑞穗金融集团（Mizuho Financial Group Inc.）靠着一招绝活，在竞争激烈的日本资本市场狠狠刷了一波存在感。",
+  "简单来说，瑞穗的秘诀就是当好“中间人”。他们一方面精准捕捉到美国市场对人工智能（AI）板块快要溢出来的融资热情，另一方面又握紧了日本本土老百姓手里深不见底的储蓄存款。把这两头一凑，他们成功揽下了不少重磅全球首次公开募股（IPO）业务，硬生生在市场上撕开了一个利润相当丰厚的新领地。"
+ ],
+ "tags": [
+  "瑞穗金融集团",
+  "日本股市",
+  "AI融资",
+  "IPO",
+  "华尔街"
+ ],
+ "original_title": "Mizuho Pierces Nomura’s Japan Bubble With Big-Ticket Global IPOs",
+ "lang": "en",
+ "published": "2026-11-09T02:00:00+00:00",
+ "created": "2026-11-09T02:42:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
