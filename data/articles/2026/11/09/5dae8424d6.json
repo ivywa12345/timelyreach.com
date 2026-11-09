@@ -1,0 +1,23 @@
+{
+ "key": "5dae8424d6",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Benzinga",
+ "source_url": "https://x.com/Benzinga/status/2119775511853613554",
+ "title": "Anthropic IPO目标估值降至1.5万亿美元",
+ "summary": "Anthropic据报将IPO目标估值从2万亿美元下调至1.5万亿美元，并寻求融资1000亿美元。",
+ "body": [
+  "据报道，Anthropic在其计划中的IPO中目标估值为1.5万亿美元，低于此前的2万亿美元，同时寻求融资1000亿美元。",
+  "近期IPO如SpaceX（SPCX）、Circle（CRCL）和Cerebras（CBRS）在上市后均大涨，随后又回吐了大部分涨幅。"
+ ],
+ "tags": [
+  "Anthropic",
+  "IPO"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "",
+ "created": "2026-11-09T12:54:00+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
