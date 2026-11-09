@@ -1,0 +1,27 @@
+{
+ "key": "15bcd7b1f7",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "DeepLearning.AI",
+ "source_url": "https://x.com/DeepLearningAI/status/2119852594457669733",
+ "title": "Anthropic招股书数据：半年营收163亿美元",
+ "summary": "DeepLearning.AI梳理了Anthropic招股书关键数字：上半年营收163亿美元，第二季度营业利润9.74亿美元，算力成本占比从251%降至48%。",
+ "body": [
+  "Anthropic（Anthropic）的S-1招股说明书，关键数字如下：",
+  "2026年上半年营收163亿美元，此前为12亿美元。",
+  "第二季度营业利润9.74亿美元。",
+  "算力成本占营收的比例从251%降至48%。",
+  "9月份，克劳德（Claude）完成了90%以上的代码库贡献。",
+  "完整报道见该机构每周发布的人工智能通讯《The Batch》。"
+ ],
+ "tags": [
+  "人工智能",
+  "美股"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "",
+ "created": "2026-11-09T18:00:18+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

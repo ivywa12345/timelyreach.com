@@ -1,0 +1,26 @@
+{
+ "key": "4236d415db",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "TimelyReach",
+ "source_url": "https://36kr.com/p/4059618356089985",
+ "title": "OpenAI突然大规模封号，用户申诉无门",
+ "summary": "OpenAI突启大规模封号潮，从免费账号到每月200美元的Pro账号都被波及，不少用户多年聊天记录被锁，申诉无果。",
+ "body": [
+  "11月8日前后，不少用户发现OpenAI账号被突然删除或停用，登录只剩一句“您的账户已被删除或停用”，事先没有任何提醒。免费API、低价拼车Team、每月200美元的Pro、Plus和学生认证账号都被波及，连用5年的Pro账号、刚续费四五个月的老账号也被封，多年聊天记录被锁在云端，申诉无果。",
+  "重灾区是菲律宾、土耳其账号、低价Team账号和反向代理中转账号。原文把这波封号和刚从Anthropic跳槽到OpenAI的Cat Wu联系起来：社交平台上有说法称，Claude上半年在Anthropic封了114万个账号，Cat Wu到OpenAI两天后，GPT也开始大规模封号。",
+  "原因有两种说法。一是打击“薅羊毛”：11月2日，OpenAI在硬件和银行卡层面封堵“叠号”，官方文件又给Go、Plus和Pro套上硬性额度，一张卡或一台设备订阅太多会触发限额，退出旧账号或买Credits也释放不了设备名额。二是支付问题：OpenAI状态页显示部分美国商业万事达卡错误率偏高，OpenAI称是支付渠道问题，未提封号。",
+  "接下来还有两个时间点：11月20日生效的新政策要求所有第三方API网关和模型中转服务须获OpenAI书面授权；12月起Plus、Pro和商业版ChatGPT与Codex将共用一个基于Token的额度，靠换小号刷额度行不通了。原文建议定期备份云端对话，并总结说“AI算力的野蛮白嫖时代，结束了”。"
+ ],
+ "tags": [
+  "AI",
+  "OpenAI",
+  "封号"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "",
+ "created": "2026-11-08T11:22:00+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
