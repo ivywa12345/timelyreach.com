@@ -1,0 +1,25 @@
+{
+ "key": "6c5b64eb97",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/jensen-huang-apologized-to-nvidia-for-his-infidelity-his-kids-are-on-staff-190f3176?mod=rss_worldnews",
+ "title": "黄仁勋向英伟达“坦白”不忠？子女全在公司任职，董事会正调查间谍指控",
+ "summary": "英伟达CEO黄仁勋近期向公司坦白了一段不忠行为，且其子女均已在公司任职，同时董事会正对其成为间谍目标的传闻进行调查。",
+ "body": [
+  "近日有消息传出，人工智能芯片巨头英伟达（Nvidia）的掌门人黄仁勋（Jensen Huang）曾向公司坦白自己曾有不忠行为（infidelity）。与此同时，他的两个孩子目前也都在英伟达公司内部担任要职。",
+  "除了这段私生活风波，报道还指出，英伟达董事会目前正在对有关黄仁勋成为间谍活动目标的报告进行调查。不过，具体的调查细节和后续影响目前仍在进一步发展中。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "科技圈八卦",
+  "商业内幕"
+ ],
+ "original_title": "Jensen Huang Apologized to Nvidia for His Infidelity. His Kids Are On Staff.",
+ "lang": "en",
+ "published": "2026-11-09T03:38:00+00:00",
+ "created": "2026-11-09T11:29:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

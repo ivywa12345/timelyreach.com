@@ -1,0 +1,27 @@
+{
+ "key": "2db4101ca3",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/boeings-deal-losses-are-coming-into-sharper-view-256c7642?mod=rss_markets_main",
+ "title": "波音的亏损到底有多大？最新财报把遮羞布扯下来了！",
+ "summary": "华尔街日报最新分析指出，波音公司的交易亏损正变得愈发清晰，同时英伟达面临动荡，而DoorDash也开始与亚马逊展开竞争。",
+ "body": [
+  "各位海外同胞，大家平时坐飞机可能总觉得波音（Boeing）大到不能倒，但根据《华尔街日报》专栏作家Jonathan Weil的最新分析，这家航空巨头的财务窟窿现在是彻底遮不住了，各项交易带来的巨额亏损正赤裸裸地摆在眼前。",
+  "除了波音的烂摊子，科技圈最近也是热闹非凡。AI领头羊英伟达（Nvidia）正处在一阵动荡之中，而外卖巨头DoorDash则把战火烧到了电商领域，开始正面硬刚亚马逊（Amazon）。",
+  "对于咱们海外华人来说，这些巨头们神仙打架，多多少少都会影响到大盘走势、咱的401(k)退休账户甚至是科技行业的就业饭碗。接下来这些大厂的动作，咱们可得睁大眼睛好好盯着了。"
+ ],
+ "tags": [
+  "波音",
+  "英伟达",
+  "DoorDash",
+  "美股动态",
+  "海外财经"
+ ],
+ "original_title": "Boeing’s Deal Losses Are Coming Into Sharper View",
+ "lang": "en",
+ "published": "2026-11-09T11:13:00+00:00",
+ "created": "2026-11-09T11:30:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

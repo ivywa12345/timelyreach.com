@@ -1,0 +1,22 @@
+{
+ "key": "2e104f370e",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+ "title": "随着审查转向Jensen Huang与涉嫌中国间谍的关系，英伟达股价下跌5 ％",
+ "summary": "英伟达表示，其董事会已启动独立调查，此前有报道称黄是“外国情报工作”的目标。",
+ "body": [
+  "英伟达表示，其董事会已启动独立调查，此前有报道称黄是“外国情报工作”的目标。",
+  "（以上为CNBC内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "CNBC"
+ ],
+ "original_title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+ "lang": "en",
+ "published": "2026-11-09T11:26:45+00:00",
+ "created": "2026-11-09T11:32:22+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

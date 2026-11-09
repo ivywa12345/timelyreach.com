@@ -1,0 +1,22 @@
+{
+ "key": "0032d93d30",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-09/european-stocks-rise-as-banks-technology-shares-advance",
+ "title": "随着银行业和科技行业的发展，欧洲股市上涨",
+ "summary": "欧洲股市上涨，继意大利UniCredit SpA的盈利好于预期以及Banco BPM SpA的合并建议之后，银行成为涨幅最大的银行之一。",
+ "body": [
+  "欧洲股市上涨，继意大利UniCredit SpA的盈利好于预期以及Banco BPM SpA的合并建议之后，银行成为涨幅最大的银行之一。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "European Stocks Rise as Banking and Technology Sectors Advance",
+ "lang": "en",
+ "published": "2026-11-09T08:26:42+00:00",
+ "created": "2026-11-09T11:31:46+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

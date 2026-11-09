@@ -1,0 +1,22 @@
+{
+ "key": "8859b34b74",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets",
+ "title": "随着石油、美元退出和股市反弹，黄金攀升",
+ "summary": "随着油价和美元下跌，黄金上涨，而股市反弹提振了风险偏好。",
+ "body": [
+  "随着油价和美元下跌，黄金上涨，而股市反弹提振了风险偏好。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Gold Climbs as Oil, Dollar Retreat and Equities Rebound",
+ "lang": "en",
+ "published": "2026-11-08T23:40:10+00:00",
+ "created": "2026-11-09T11:31:48+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

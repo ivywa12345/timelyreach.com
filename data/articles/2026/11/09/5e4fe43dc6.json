@@ -1,0 +1,26 @@
+{
+ "key": "5e4fe43dc6",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/what-to-know-about-nvidias-investigation-after-ceos-affair-98df3bba?mod=rss_worldnews",
+ "title": "英伟达CEO卷入绯闻？董事会正调查其与涉嫌中国情报人员的关系",
+ "summary": "英伟达董事会正在调查CEO黄仁勋的婚外情，以查明这位高管是否与中国情报机构有关联，以及是否有公司机密外泄。",
+ "body": [
+  "话说最近芯片圈又出了个大瓜，主角竟然是科技巨头英伟达（Nvidia）的掌门人。根据《华尔街日报》的报道，英伟达董事会目前正在对CEO的一段婚外情展开内部调查，事情可不小。",
+  "报道指出，董事会主要在核查，这位高管在与CEO交往期间，是否曾泄露过公司的核心机密。而更让人捏一把汗的是，这位女性高管本身正被怀疑曾为中国情报部门工作过。目前这事儿还在调查中，各方都在紧盯后续进展。",
+  "对于咱们海外华人来说，英伟达作为科技界的领头羊，其高层动向往往牵动着整个AI行业的神经，甚至可能间接影响到相关板块的股市波动和科技签证、就业风向。咱们吃瓜归吃瓜，还得持续关注后续对公司的实际影响。"
+ ],
+ "tags": [
+  "英伟达",
+  "科技新闻",
+  "华人资讯",
+  "海外热点"
+ ],
+ "original_title": "What to Know About Nvidia’s Investigation After CEO’s Affair",
+ "lang": "en",
+ "published": "2026-11-09T10:30:00+00:00",
+ "created": "2026-11-09T11:29:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
