@@ -1,0 +1,27 @@
+{
+ "key": "52d453c561",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
+ "title": "美股创七个月来最大涨幅，亚洲股市要迎来大反弹了？",
+ "summary": "受科技股大涨和油价暴跌推动，美股迎来了七个月来表现最好的一天，这也带动亚洲股市有望随之走高。",
+ "body": [
+  "美股刚刚经历了一场狂欢！在科技股强劲反弹以及油价大幅下跌的双重利好刺激下，美国股市各大基准指数迎来了七个月来的最佳单日表现。",
+  "受此乐观情绪鼓舞，亚洲股市预计也将紧随华尔街的步伐，迎来一波上涨行情。",
+  "对于关注全球市场的海外华人来说，美股的强势反弹和油价回落通常意味着宏观经济环境的变化，可能会对个人的投资组合以及整体市场情绪产生积极影响。"
+ ],
+ "tags": [
+  "美股",
+  "亚洲股市",
+  "科技股",
+  "油价",
+  "财经热点"
+ ],
+ "original_title": "Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap",
+ "lang": "en",
+ "published": "2026-11-09T22:16:53+00:00",
+ "created": "2026-11-09T23:48:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

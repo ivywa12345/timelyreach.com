@@ -1,0 +1,27 @@
+{
+ "key": "74e4ac233a",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/alerts/dhs-doj-announce-rule-to-bar-asylum-for-aliens-who-pose-security-threats-and-public-health-risks",
+ "title": "美国移民新动作！把公共卫生危机挂钩国家安全，这几类人将直接被拒庇护",
+ "summary": "美国国土安全部与司法部联合发布新规，明确在发生特定公共卫生紧急事件时，对构成美国国家安全或公共健康威胁的外国人，拒绝给予庇护或暂缓遣返。",
+ "body": [
+  "美国国土安全部（DHS）和司法部（DOJ）近日宣布了一项联邦公报通知，明确了在特定公共卫生紧急事件中，外国人如何因构成安全威胁而被取消申请庇护或暂缓遣返（withholding of removal）的资格。",
+  "据了解，DHS和DOJ早在2020年12月就曾发布过关于安全限制和审理程序的最终规则，但生效日期一再延迟。在这次更新的最终规则中，两部门撤回了2020年规则中一些过时的修正案，同时保留了与公共卫生实际相关的条款。这些调整允许DHS和DOJ在未来发生公共卫生紧急事件时，将公共健康风险作为拒绝庇护和暂缓遣返的国家安全考量因素。该最终规则定于2025年12月31日正式生效。",
+  "在此之前，美国公民及移民服务局（USCIS）已于12月2日暂停了所有庇护申请，以进行全面审查。官方表示，这项最新规则是配合特朗普政府施政重点的又一举措，旨在确保对美国国家安全构成威胁的人无法获得庇护或暂缓遣返。"
+ ],
+ "tags": [
+  "美国移民",
+  "庇护申请",
+  "公共卫生",
+  "国土安全部",
+  "移民政策"
+ ],
+ "original_title": "DHS, DOJ Announce Rule to Bar Asylum for Aliens Who Pose Security Threats and Public Health Risks",
+ "lang": "en",
+ "published": "2025-12-29T15:58:15+00:00",
+ "created": "2026-11-09T23:51:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

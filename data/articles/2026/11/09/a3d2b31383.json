@@ -1,0 +1,26 @@
+{
+ "key": "a3d2b31383",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-09/kiwi-extends-gains-to-most-in-seven-months-after-election-result",
+ "title": "新西兰大选结果出炉！纽币创下7个月来最大单日涨幅",
+ "summary": "在新西兰周末大选中，现任中右翼政府确定了继续执政的路径，受此政治利好影响，纽币周一延续涨势，创下自4月以来最大单日涨幅。",
+ "body": [
+  "据彭博社（Bloomberg）报道，新西兰（New Zealand）在刚刚过去的周末举行了大选，现任中右翼政府成功扫清障碍，找到了重新掌权的路径。受此政坛消息提振，纽币在周一的交易中表现强劲，延续了之前的涨势。",
+  "彭博社记者Tracy Withers指出，截至当日收盘，纽币迎来了自今年4月以来的最大单日涨幅，显示出金融市场对现任政府能够继续执政、维持政策稳定性投下了信任票。"
+ ],
+ "tags": [
+  "新西兰",
+  "纽币",
+  "大选",
+  "外汇市场",
+  "财经新闻"
+ ],
+ "original_title": "Kiwi Extends Gains to Most in Seven Months After Election Result",
+ "lang": "en",
+ "published": "2026-11-09T22:50:15+00:00",
+ "created": "2026-11-09T23:48:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

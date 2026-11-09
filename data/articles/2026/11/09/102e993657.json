@@ -1,0 +1,25 @@
+{
+ "key": "102e993657",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-but-nvidia-slides-premarket-on-huang-probe-31deea55?mod=rss_worldnews",
+ "title": "英伟达CEO黄仁勋遭董事会调查股价大跌，美股居然还猛涨？",
+ "summary": "尽管英伟达（Nvidia）因董事会宣布对CEO黄仁勋（Jensen Huang）展开调查导致股价下挫，但美国股市整体依然强势大涨。",
+ "body": [
+  "据《华尔街日报》报道（作者：Chelsey Dulaney），美股在近期迎来了显著上涨。让人意外的是，这场大涨是在科技巨头英伟达（Nvidia）股价遭遇下跌的背景下发生的。",
+  "消息面上，英伟达（Nvidia）股价下挫的主要原因，是该公司董事会突然宣布对首席执行官黄仁勋（Jensen Huang）展开调查。不过，这一负面消息并未拖累整体大盘，美国股市依然表现强劲，逆势跳涨。"
+ ],
+ "tags": [
+  "美股",
+  "英伟达",
+  "黄仁勋",
+  "华尔街"
+ ],
+ "original_title": "U.S. Stocks Leap Despite Nvidia Slide",
+ "lang": "en",
+ "published": "2026-11-09T19:29:00+00:00",
+ "created": "2026-11-09T23:47:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

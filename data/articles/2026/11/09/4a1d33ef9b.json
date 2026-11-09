@@ -1,0 +1,27 @@
+{
+ "key": "4a1d33ef9b",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-09/trump-says-fbi-investigating-huang-affair-called-embattled-ceo",
+ "title": "特朗普公开力挺黄仁勋！称FBI正介入“间谍绯闻”调查",
+ "summary": "美国总统特朗普透露，联邦调查局（FBI）正在介入调查英伟达CEO黄仁勋与疑似中国间谍的婚外情传闻，并在丑闻曝光一天后表达了对这位芯片大亨的支持。",
+ "body": [
+  "这瓜吃得有点大！就在英伟达（Nvidia）CEO黄仁勋（Jensen Huang）被曝出与一名疑似中国间谍存在婚外情的一天后，美国当选总统特朗普（Donald Trump）公开表态了。特朗普透露，联邦调查局（FBI）目前正在对这起事件进行审查，不过他也同时向深陷舆论漩涡的黄仁勋表达了支持。",
+  "这起事件因黄仁勋的婚外情传闻而起，涉及对象更被指可能与间谍活动有关，因此在美国科技圈和政界引发了不小的震动。作为全球AI芯片霸主的掌门人，黄仁勋的一举一动本来就备受瞩目，这次涉入安全与情报层面的传闻更是让外界跌破眼镜。",
+  "对于关注科技股和在美华人的小伙伴来说，芯片巨头高层的安全风波可能会对公司走向甚至相关科技板块产生微妙影响，我们将持续关注后续进展。"
+ ],
+ "tags": [
+  "黄仁勋",
+  "英伟达",
+  "特朗普",
+  "FBI",
+  "科技新闻"
+ ],
+ "original_title": "Trump Says FBI Is Reviewing Huang Affair, Cites Call With CEO",
+ "lang": "en",
+ "published": "2026-11-09T22:06:21+00:00",
+ "created": "2026-11-09T23:49:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

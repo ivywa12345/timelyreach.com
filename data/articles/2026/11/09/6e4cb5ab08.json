@@ -1,0 +1,26 @@
+{
+ "key": "6e4cb5ab08",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+ "title": "美联储最新出手！芝加哥这家银行获准重组控股架构",
+ "summary": "美联储于周一宣布，正式批准来自伊利诺伊州芝加哥的 Mutual Federal Bancorp, MHC 和 MFB Bancorp, Inc. 的两项申请，允许其设立新的顶层控股公司并收购 Mutual Federal Bank。",
+ "body": [
+  "美联储（Federal Reserve Board）在周一（2026年11月9日）下午发布公告，正式批准了来自伊利诺伊州芝加哥的两家机构——Mutual Federal Bancorp, MHC 和 MFB Bancorp, Inc. 的两项关键申请。",
+  "根据这次批准，该银行机构将拥有一个新的顶层控股公司 MFB Bancorp, Inc.。该公司将通过收购位于芝加哥的 Mutual Federal Bank，正式成为一家储蓄和贷款控股公司（savings and loan holding company）。",
+  "对于在当地生活的华人来说，这类地方银行的架构调整通常属于常规的商业重组，一般不会对普通储户的日常存款、贷款业务以及账户安全产生直接影响。"
+ ],
+ "tags": [
+  "美联储",
+  "银行重组",
+  "金融快讯",
+  "芝加哥"
+ ],
+ "original_title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+ "lang": "en",
+ "published": "2026-11-09T21:00:00+00:00",
+ "created": "2026-11-09T23:51:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

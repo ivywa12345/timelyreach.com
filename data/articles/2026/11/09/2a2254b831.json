@@ -1,0 +1,27 @@
+{
+ "key": "2a2254b831",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/the-chinese-woman-at-the-center-of-a-spy-probe-after-an-affair-with-jensen-huang-7bb406d2?mod=rss_worldnews",
+ "title": "跟黄仁勋谈过恋爱！这个华裔女子怎么就被卷入“间谍风暴”了？",
+ "summary": "前记者、金融从业者 Alice Huang 因与英伟达CEO黄仁勋（Jensen Huang）曾有恋情，且曾担任算力服务商 Megaspeed 高管，目前正处于一项间谍调查的中心。",
+ "body": [
+  "话说最近海外华人圈又有个八卦和硬核新闻结合的大瓜引起了关注。根据《华尔街日报》的报道，一名叫做 Alice Huang 的华裔女子目前被卷入了一场间谍调查的中心，而让她备受瞩目的原因，居然是她曾与AI芯片巨头英伟达（Nvidia）的CEO黄仁勋（Jensen Huang）谈过恋爱！",
+  "根据报道的背景，这位 Alice Huang 的经历也挺丰富，她最早是做新闻记者出身，后来转战金融行业。之后，她出任了算力服务提供商 Megaspeed 的高管，并在此期间与黄仁勋相识并发展成为恋爱关系。目前，外界和相关调查正在聚焦她在这段关系以及特定商业背景下的角色。",
+  "对于在美华人来说，这类涉及科技巨头高管和敏感调查的新闻总是格外吸睛。不仅牵涉到像英伟达这样处于中美科技风暴眼中的顶流企业，还夹杂着复杂的个人背景。后续这件事会不会对科技圈的合规审查、签证或华人高管群体带来更多波澜，咱们吃瓜群众可以持续关注。"
+ ],
+ "tags": [
+  "黄仁勋",
+  "英伟达",
+  "间谍调查",
+  "海外华人",
+  "科技新闻"
+ ],
+ "original_title": "The Chinese Woman at the Center of a Spy Probe After an Affair With Jensen Huang",
+ "lang": "en",
+ "published": "2026-11-09T14:08:00+00:00",
+ "created": "2026-11-09T23:47:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

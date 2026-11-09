@@ -1,0 +1,27 @@
+{
+ "key": "8f1679061c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-09/faltering-philippine-growth-spurs-calls-for-state-action-pause-in-rate-hikes",
+ "title": "菲律宾经济突然“急刹车”，专家急呼：别再加息了！",
+ "summary": "菲律宾经济意外放缓，引发各界强烈呼吁，希望该国央行暂停加息，并敦促总统小马科斯采取更多措施来重振经济增长。",
+ "body": [
+  "据彭博社报道（作者：Andreo Calonzo 和 Ditas B Lopez），菲律宾经济最近出现了意料之外的增长放缓，这让外界坐不住了。现在，各方纷纷施压，要求菲律宾中央银行在加息这件事上“手下留情”，赶紧按下暂停键。",
+  "与此同时，各界也将目光投向了菲律宾总统小马科斯（Ferdinand Marcos Jr.），敦促政府赶紧拿出更有力的实际行动，把疲软的经济重新拉回增长轨道。",
+  "虽然这条新闻主要说的是东南亚的宏观经济，但对于关注海外新兴市场投资或者有相关商业布局的华人朋友来说，当地央行货币政策的转向和政府刺激经济的力度，将直接影响当地的营商环境和投资回报率。"
+ ],
+ "tags": [
+  "菲律宾经济",
+  "央行加息",
+  "小马科斯",
+  "海外投资",
+  "宏观经济"
+ ],
+ "original_title": "Faltering Philippine Growth Spurs Calls for State Action, Pause in Rate Hikes",
+ "lang": "en",
+ "published": "2026-11-09T23:00:00+00:00",
+ "created": "2026-11-09T23:48:51+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

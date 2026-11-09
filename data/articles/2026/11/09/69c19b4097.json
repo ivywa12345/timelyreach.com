@@ -1,0 +1,26 @@
+{
+ "key": "69c19b4097",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nvidia-stock-slides-after-chip-maker-opens-probe-b22a7a13?mod=rss_markets_main",
+ "title": "英伟达股价突然跳水！芯片巨头到底摊上了啥事？",
+ "summary": "英伟达（Nvidia）股价近日出现下跌，原因该公司启动了一项内部调查。与此同时，美股大盘表现强劲，道指暴涨超1000点，纳斯达克指数也迎来强劲反弹。",
+ "body": [
+  "美股这波行情真是冰火两重天！一方面道琼斯指数（Dow Jones Industrial Average）狂飙，大涨超过1000点，纳斯达克指数（Nasdaq）也集体走高，市场一片欢腾。",
+  "但作为科技股风向标的芯片巨头英伟达（Nvidia）却没跟上节奏，公司股价反而出现了下滑。根据华尔街日报的消息，英伟达股价下跌的背后，是因为这家芯片制造巨头刚刚启动了一项调查（Probe）。",
+  "对于咱们海外华人投资者来说，大盘虽然在大涨，但像英伟达这样的大热科技股一旦有风吹草动，直接关乎咱们的投资账户和钱包。接下来还要密切关注这项调查的后续进展，看看会不会对整体科技板块产生更大的影响。"
+ ],
+ "tags": [
+  "英伟达",
+  "美股",
+  "股票市场",
+  "财经新闻"
+ ],
+ "original_title": "Nvidia Stock Slides After Chip Maker Opens Probe",
+ "lang": "en",
+ "published": "2026-11-09T21:21:00+00:00",
+ "created": "2026-11-09T23:47:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

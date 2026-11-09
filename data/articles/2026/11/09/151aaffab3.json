@@ -1,0 +1,26 @@
+{
+ "key": "151aaffab3",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-09/latest-oil-market-news-and-analysis-for-nov-10",
+ "title": "油价终于稳住了！中东局势现曙光，能便宜多久？",
+ "summary": "经历近期大跌后，油价在11月10日暂时企稳。中东外交努力带来的缓和预期，暂时压倒了对当地冲突升级的担忧。",
+ "body": [
+  "据彭博社（Bloomberg）报道，国际油价在跌至8月以来的最低水平后，目前终于稳住了阵脚。",
+  "此前，市场对中东外交斡旋结束冲突抱有乐观态度，这种情绪逐渐占了上风，暂时盖过了外界对该地区持续袭击事件的担忧。",
+  "对于咱们海外华人来说，油价下跌直接关系到日常出行的油费开支。如果中东局势能进一步缓和，接下来的加油钱包说不定能轻松不少。"
+ ],
+ "tags": [
+  "油价",
+  "中东局势",
+  "海外生活",
+  "财经快讯"
+ ],
+ "original_title": "Latest Oil Market News and Analysis for Nov. 10",
+ "lang": "en",
+ "published": "2026-11-09T23:01:44+00:00",
+ "created": "2026-11-09T23:48:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

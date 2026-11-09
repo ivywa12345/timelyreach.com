@@ -1,0 +1,27 @@
+{
+ "key": "e36d2c4a85",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/iran-attacks-europes-refrigerators-e3375b85?mod=rss_opinion",
+ "title": "伊朗黑客竟然把手伸向了欧洲人的冰箱？背后套路深",
+ "summary": "《华尔街日报》社论指出，伊朗政权将欧洲超市的食品供应链作为网络攻击的目标，引发外界对关键基础设施安全的担忧。",
+ "body": [
+  "最近欧洲可能得盯着点自家超市的冷柜了！根据《华尔街日报》社论披露，来自德黑兰（Tehran）政权的黑客势力，已经把矛头对准了欧洲大陆的超市食品供应链。",
+  "虽然具体的技术细节和受影响范围还在评估中，但这起事件暴露出网络攻击的目标正在从传统金融和政府部门，向与老百姓日常生活息息相关的民生基础设施蔓延。",
+  "对于海外华人来说，这类跨国网络安全事件不仅关乎当地供应链的稳定，也再次敲响了现代社会对关键基础设施防范意识的警钟，保不准哪天日常生活就会受到这些地缘政治博弈的波及。"
+ ],
+ "tags": [
+  "网络安全",
+  "伊朗",
+  "欧洲",
+  "供应链",
+  "海外观察"
+ ],
+ "original_title": "Iran Attacks Europe’s Refrigerators",
+ "lang": "en",
+ "published": "2026-11-09T22:48:00+00:00",
+ "created": "2026-11-09T23:48:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

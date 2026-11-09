@@ -1,0 +1,28 @@
+{
+ "key": "fcf162feda",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/political/no-such-thing-scotus-lets-trump-resume-big-bend-border-wall-and-torches-legal-theory",
+ "title": "最高法院绿灯大开！德州大弯地区边境墙可以继续修了",
+ "summary": "美国最高法院周一裁决，允许特朗普政府在德克萨斯州大弯（Big Bend）地区恢复边境墙建设，暂停了一名联邦地区法官此前下达的禁令。最高法院认为，原告指控国土安全部超越法定权限的诉讼逻辑站不住脚，且工程停工每天造成近50万美元的损失，政府的利益大于环保等诉讼主张。",
+ "body": [
+  "联邦最高法院于周一发布了一份无署名命令，允许特朗普政府在德州大弯地区恢复修建边境墙，暂缓了此前联邦地区法官 Kathleen Cardone 的禁令。大法官 Ketanji Brown Jackson 表示她会投反对票。这起名为《Mullin 诉 Ruidosa 教堂之友》（Mullin v. Friends of the Ruidosa Church）的案件核心在于法院是否有管辖权。根据1996年的一项移民法，国土安全部长有权为快速修建边境墙“豁免所有法律要求”，且此类豁免仅在涉及宪法违宪时才可被起诉。最高法院认为，政府在“地方法院对该挑战缺乏管辖权”这一论点上“极有可能胜诉”。",
+  "原告方（包括生物多样性中心、德州 Ruidosa 一处历史教堂的保护团体以及河道向导 Danny Miller）此前以“重大问题原则”（major-questions doctrine）为由提起诉讼，指控国土安全部前任部长 Kristi Noem 和继任者 Markwayne Mullin 发布的豁免令超越了权力。但最高法院直接驳回了这一前提，指出“根本不存在所谓的‘宪法性’重大问题索赔”，因为该原则只是解读法规的规则，原告实际上是在指控部长超越了法定权限。",
+  "除了法律层面的考量，最高法院还指出停工正在给政府造成实实在在的经济损失。美国海关与边境保护局（Customs and Border Protection，简称 CBP）的一位官员表示，工程叫停导致每天产生“近50万美元的成本”，如果政府最终胜诉，这笔钱将“无法收回”。对于原告担心的环保和景观破坏，最高法院认为国会早已做好权衡，“因此政府的利益大于被告所称的美学、娱乐和环境损害”。",
+  "这场法律战源于国土安全部在2月至7月间发布的一系列豁免令，绕过了大弯地区的环保和自然保护法律。政府称该地区是“非法入境高发区”，过去五年边境巡逻队在此抓获了超8.9万人。不过，原告和此前裁决的法官 Cardone 则指出，大弯地区实际上是美墨边境全线非法入境率最低的地区之一。原告警告，停工令被解除将导致大弯国家公园、州立公园及格兰德河（Rio Grande）沿岸等不可替代的景观遭到永久性改变。目前该裁决为临时暂缓令，直至最高法院对案件做出最终处理。"
+ ],
+ "tags": [
+  "最高法院",
+  "边境墙",
+  "德州",
+  "移民政策",
+  "法律诉讼"
+ ],
+ "original_title": "\"No Such Thing\": SCOTUS Lets Trump Resume Big Bend Border Wall... And Torches Legal Theory That Stopped It",
+ "lang": "en",
+ "published": "2026-11-09T23:00:00+00:00",
+ "created": "2026-11-09T23:49:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "3095a261ec",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/nvidia-shares-slump-on-spy-probe-1d59bde7?mod=rss_Technology",
+ "title": "英伟达股价突然大跌！背后居然扯上“间谍调查”？",
+ "summary": "英伟达（Nvidia）股价近期遭遇下挫，市场消息指其卷入了一场间谍调查。同时，众议员托马斯·马西（Thomas Massie）对皮特·海格塞斯（Pete Hegseth）提出弹劾条款，而人工智能公司Anthropic则计划在本月晚些时候推进首次公开募股（IPO）。",
+ "body": [
+  "最近科技股风波不断，芯片巨头英伟达（Nvidia）的股价迎来了明显下跌，引发华尔街高度关注。根据《华尔街日报》报道，这次股价闪崩的背后，竟然与一起涉及间谍活动的调查有关。",
+  "除了科技圈的震动，政坛也是热闹非凡。美国众议员托马斯·马西（Thomas Massie）正式提出了针对皮特·海格塞斯（Pete Hegseth）的弹劾条款，让本就复杂的政治局势再添变数。与此同时，大热的人工智能独角兽公司Anthropic并没有受到这些宏观杂音的影响，依然在紧锣密鼓地推进其本月晚些时候的IPO上市计划。",
+  "对于咱们海外华人投资者和科技从业者来说，英伟达作为科技股的“风向标”，其风吹草动直接关系到大家的股票账户和投资收益。接下来相关调查的进展以及Anthropic的上市表现，值得我们持续关注。"
+ ],
+ "tags": [
+  "英伟达",
+  "美股",
+  "间谍调查",
+  "Anthropic",
+  "IPO"
+ ],
+ "original_title": "Nvidia Shares Slump on Spy Probe",
+ "lang": "en",
+ "published": "2026-11-09T22:35:00+00:00",
+ "created": "2026-11-09T23:48:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

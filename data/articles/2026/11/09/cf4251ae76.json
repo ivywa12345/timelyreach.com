@@ -1,0 +1,27 @@
+{
+ "key": "cf4251ae76",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/nvidia-gets-a-chinese-honeypot-lesson-25b45560?mod=rss_opinion",
+ "title": "英伟达的“中国蜜罐”教训：黄仁勋身陷风波，这事儿到底有多大影响？",
+ "summary": "《华尔街日报》编辑委员会发表评论，指出英伟达CEO黄仁勋（Jensen Huang）与一名被指控的间谍之间的交往，已经上升到了国家安全的高度。",
+ "body": [
+  "近来，科技圈传出一个让人捏一把汗的消息：《华尔街日报》发文讨论了英伟达（Nvidia）CEO黄仁勋（Jensen Huang）与一名被指控为间谍的人之间的交往，并直言这其中涉及严肃的国家安全问题。",
+  "虽然具体细节还在发酵，但作为全球AI芯片霸主的掌门人，黄仁勋的一举一动本就备受华盛顿政坛和科技界的双重审视。这起事件再次把中美科技巨头在大国博弈中的敏感处境推到了风口浪尖。",
+  "对于咱们海外华人来说，这类地缘政治与大厂高管的风波，往往也会间接影响到芯片行业的走向、相关股票的波动，甚至咱们在科技领域的就业和签证政策。后续进展如何，咱们还得搬小凳子继续围观。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "国家安全",
+  "中美科技",
+  "华尔街日报"
+ ],
+ "original_title": "Nvidia Gets a Chinese Honeypot Lesson",
+ "lang": "en",
+ "published": "2026-11-09T22:56:00+00:00",
+ "created": "2026-11-09T23:48:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

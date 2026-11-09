@@ -1,0 +1,26 @@
+{
+ "key": "d69a3a896f",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/cio-journal/enterprises-say-ai-regulation-wont-stop-corporate-innovation-3be10b7c?mod=rss_Technology",
+ "title": "美国大选变天在即？大厂高管：AI监管根本挡不住我们搞创新！",
+ "summary": "尽管民主党未来可能加强对人工智能的监管，但企业科技领袖们表示并不担心，新政策不会影响他们的技术发展规划。",
+ "body": [
+  "话说回来，最近科技圈都在琢磨华盛顿的动向。随着民主党人未来可能把重点放在“套紧AI的缰绳”上，很多人担心这会给火热的人工智能研发泼冷水。不过，据《华尔街日报》报道，企业界的科技领袖们心态相当稳，根本不带怕的。",
+  "根据记者 Belle Lin 的报道，这些大厂的技术负责人认为，即便未来出台新的政策监管，也不会对他们既定的技术路线和创新计划造成实质性影响。换句话说，大厂该怎么搞研发还是会怎么搞。",
+  "对于咱们海外华人来说，无论是从事科技行业打工，还是关注AI时代的职业发展，大厂这种“兵来将挡、水来土掩”的态度算是个定心丸。至少在短期内，AI领域的岗位需求和技术大方向不会因为政策风向的转变而急刹车。"
+ ],
+ "tags": [
+  "人工智能",
+  "科技监管",
+  "职场发展",
+  "海外华人"
+ ],
+ "original_title": "Enterprises Say AI Regulation Won’t Stop Corporate Innovation",
+ "lang": "en",
+ "published": "2026-11-09T16:00:00+00:00",
+ "created": "2026-11-09T23:48:08+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "84990379fe",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/u-s-stocks-climb-as-investors-regain-confidence-56de5af0?mod=rss_markets_main",
+ "title": "美股终于反弹了！投资者重拾信心，大盘迎来大涨",
+ "summary": "在上周经历大跌之后，美国股市强势反弹。投资者重新恢复信心，认为中期选举结果将对经济产生积极影响。",
+ "body": [
+  "经历上周的惨烈抛售后，美股总算迎来了让人松一口气的反弹。投资者重新找回了信心，市场普遍认为即将到来的中期选举结果会对整体经济有利，推动股市强势走高。",
+  "华尔街日报（The Wall Street Journal）作者 Katherine Hamilton 指出，此前市场的恐慌情绪在近期有所缓解，资金正重新回流股市。分析人士认为，政治局面的明朗化通常会给市场注入一针强心剂，投资者也开始把目光重新投向长期的经济基本面。",
+  "对于在美华人来说，大盘的起伏直接关系到大家的401(k)退休账户和投资组合。虽然短期波动在所难免，但市场的积极信号也提醒大家，做好资产配置、保持理性投资依然是应对市场变化的关键。"
+ ],
+ "tags": [
+  "美股",
+  "股市反弹",
+  "华尔街",
+  "投资理财",
+  "中期选举"
+ ],
+ "original_title": "U.S. Stocks Climb as Investors Regain Confidence",
+ "lang": "en",
+ "published": "2026-11-09T21:26:00+00:00",
+ "created": "2026-11-09T23:47:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

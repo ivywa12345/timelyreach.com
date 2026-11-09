@@ -1,0 +1,29 @@
+{
+ "key": "92a54397d1",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/ai/anthropic-drops-new-fable-thats-20-cheaper-ipo-roadshow-reportedly-kicks",
+ "title": "AI巨头冲刺上市！Anthropic边搞IPO路演，边把新模型Claude Fable 5.2降价20%",
+ "summary": "AI独角兽Anthropic在正式开启美股IPO路演之际，突然宣布将其最新发布的Claude Fable 5.2模型降价20%。与此同时，受近期科技股大跌及市场环境影响，其上市估值预期面临下调压力，预计将于11月19日或20日在纳斯达克挂牌上市。",
+ "body": [
+  "人工智能领域的重磅炸弹接连不断！根据知情人士透露，AI巨头Anthropic正式拉开了其美股IPO路演的序幕，计划于本周二上午启动纳斯达克（Nasdaq）上市的公开营销，并目标在11月19日或20日正式挂牌交易。赶在这个关键节点，Anthropic还宣布对其王牌新模型Claude Fable 5.2进行20%的价格大跳水。",
+  "在价格方面，降价后的Claude Fable 5.2每百万输入Token收费8美元，每百万输出Token收费40美元（此前分别为10美元和50美元），同时提供速度快2.5倍、费用翻倍的可选快速模式。尽管价格打折，Anthropic仍建议大多数普通客户在处理日常编程和知识工作时先使用更便宜的Opus 5.5，只有在面对最困难的任务时才升级到Fable。",
+  "在性能表现上，Anthropic宣称Fable 5.2及其无安全护栏的兄弟版本Mythos 5.2在各项评估能力上均超越了Opus 5.5，输出速度比上一代快高达30%，并在编程、知识工作和机器人控制测试中击败了OpenAI的GPT-6 Astra和谷歌（Google）的Gemini 4 Carbon等强敌。不过，由于近期科技股经历重挫（纳斯达克100指数曾创下单日大跌纪录），市场对Anthropic的估值预期已从早先的2万亿美元或1.5万亿美元回落至1.2万亿美元至1.3万亿美元区间，高盛（Goldman Sachs）和摩根士丹利（Morgan Stanley）等投行正忙于敲定最终的发行价格区间。",
+  "对于关注科技股和AI赛道的海外华人来说，Anthropic这次流血上市与模型降价，标志着整个AI行业的商业化和资本化正在经历严峻考验。随着大厂估值回调、中间件和算力成本下探，AI应用的普及速度可能会进一步加快，但也给相关投资者的二级市场收益带来了更多不确定性。"
+ ],
+ "tags": [
+  "Anthropic",
+  "IPO",
+  "Claude Fable 5.2",
+  "人工智能",
+  "美股上市",
+  "科技股"
+ ],
+ "original_title": "Anthropic Drops New Fable At 20% Discount As IPO Roadshow Reportedly Kicks Off",
+ "lang": "en",
+ "published": "2026-11-09T22:40:00+00:00",
+ "created": "2026-11-09T23:49:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

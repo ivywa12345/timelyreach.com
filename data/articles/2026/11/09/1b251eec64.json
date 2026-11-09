@@ -1,0 +1,27 @@
+{
+ "key": "1b251eec64",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c?mod=rss_markets_main",
+ "title": "AI市场震荡、英伟达遭调查，这家大厂却偏要逆势冲刺IPO？",
+ "summary": "尽管近期市场对人工智能投资的热情有所动摇，且英伟达（Nvidia）正面临调查，热门AI对话助手Claude的开发商Anthropic依然在坚定推进首次公开募股（IPO）的计划。",
+ "body": [
+  "据《华尔街日报》报道，凭借大热AI产品Claude名声大噪的Anthropic公司，目前正准备顶着市场的种种不安情绪推进IPO进程。近期，整个资本市场对人工智能板块的投资情绪出现了一定程度的焦虑，加上芯片巨头英伟达（Nvidia）又卷入相关调查，给整个AI行业蒙上了一层阴影。",
+  "不过，Anthropic似乎并未受到这些外部杂音的干扰，依然在按计划推进上市筹备工作。作为 OpenAI 的强劲对手，这家公司的每一步动作都牵动着资本市场的神经。",
+  "对于关注科技股和AI行业发展的海外华人来说，大厂的IPO动向往往风向标意义十足。它不仅反映了资本对人工智能赛道的真实信心，也可能牵动相关科技投资的走势。我们将持续关注其上市进展对科技板块带来的后续影响。"
+ ],
+ "tags": [
+  "Anthropic",
+  "IPO",
+  "人工智能",
+  "华尔街日报",
+  "科技股"
+ ],
+ "original_title": "Anthropic Prepares to Push Ahead With IPO Despite Market Jitters",
+ "lang": "en",
+ "published": "2026-11-09T21:12:00+00:00",
+ "created": "2026-11-09T23:47:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
