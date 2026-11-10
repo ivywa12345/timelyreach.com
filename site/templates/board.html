@@ -20,7 +20,7 @@
     <h1>{{ board.name }}</h1>
     <p>{{ board.description }}</p>
   </div>
-  {% if board.kind == 'user' %}<a class="btn" href="/new.html?board={{ board.id }}">发新帖</a>{% endif %}
+  {% if board.kind == 'user' %}<a class="btn" href="/new?board={{ board.id }}">发新帖</a>{% endif %}
 </div>
 <div class="layout">
   <section class="col-main">
@@ -40,7 +40,7 @@
       <ul class="rows" data-live-board="{{ board.id }}" data-limit="50" data-paged="1">
         {% for t in user_threads %}{{ user_row(t, None) }}{% endfor %}
       </ul>
-      <p class="empty live-empty" {% if user_threads %}hidden{% endif %}>还没有帖子，<a href="/new.html?board={{ board.id }}">来发第一帖</a>！</p>
+      <p class="empty live-empty" {% if user_threads %}hidden{% endif %}>还没有帖子，<a href="/new?board={{ board.id }}">来发第一帖</a>！</p>
       <nav class="pager" id="live-pager" hidden></nav>
     {% endif %}
   </section>

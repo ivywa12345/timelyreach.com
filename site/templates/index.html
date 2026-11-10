@@ -8,7 +8,7 @@
   "url": site.base_url ~ "/",
   "description": site.description,
   "inLanguage": "zh-CN",
-  "potentialAction": {"@type": "SearchAction", "target": site.base_url ~ "/search.html?q={q}", "query-input": "required name=q"}
+  "potentialAction": {"@type": "SearchAction", "target": site.base_url ~ "/search?q={q}", "query-input": "required name=q"}
 }|tojson_safe }}</script>
 {% endblock %}
 {% block content %}
@@ -58,7 +58,7 @@
     <section>
       <h2 class="side-head">参与讨论</h2>
       <p class="small">注册后可以发帖、跟帖，也可以匿名发言。发主题 +5 积分，跟帖 +1，积分越高等级越高。</p>
-      <p><a class="btn" href="/new.html">我要发帖</a></p>
+      <p><a class="btn" href="/new">我要发帖</a></p>
     </section>
   </aside>
 </div>
@@ -79,7 +79,7 @@
 <section class="card">
   <div class="section-head">
     <h2>讨论区</h2>
-    <a class="more" href="/new.html">发新帖 ›</a>
+    <a class="more" href="/new">发新帖 ›</a>
   </div>
   <div class="forums">
     {% for b in boards if b.kind == 'user' %}
@@ -90,7 +90,7 @@
         {% for t in prerendered[:5] %}{{ user_row(t, None) }}{% endfor %}
       </ul>
       <p class="empty live-empty small" {% if prerendered %}hidden{% endif %}>还没有帖子</p>
-      <a class="compose" href="/new.html?board={{ b.id }}">在{{ b.name }}发帖 ›</a>
+      <a class="compose" href="/new?board={{ b.id }}">在{{ b.name }}发帖 ›</a>
     </div>
     {% endfor %}
   </div>

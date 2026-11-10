@@ -123,7 +123,7 @@ def _days_ago(days: int) -> str:
 
 
 def board_page_url(board_id: str, page: int) -> str:
-    return f"/f/{board_id}/" if page == 1 else f"/f/{board_id}/{page}.html"
+    return f"/f/{board_id}/" if page == 1 else f"/f/{board_id}/{page}"  # public URL; the file on disk is {page}.html
 
 
 def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads: list[dict] | None = None,
@@ -187,7 +187,7 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
             url = board_page_url(board.id, n)
             render(
                 "board.html",
-                url.lstrip("/") + ("index.html" if url.endswith("/") else ""),
+                url.lstrip("/") + ("index.html" if url.endswith("/") else ".html"),
                 canonical=site.base_url + url,
                 board=board,
                 items=chunk,
@@ -222,7 +222,7 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
 
     # App pages (dynamic, rendered in the browser)
     for name in ("thread", "login", "new", "user", "search", "about", "privacy", "404", "admin", "analytics"):
-        render(f"{name}.html", f"{name}.html", canonical=f"{site.base_url}/{name}.html", noindex=name not in ("about", "privacy"))
+        render(f"{name}.html", f"{name}.html", canonical=f"{site.base_url}/{name}", noindex=name not in ("about", "privacy"))
 
     _write(
         out / "static/js/config.js",
@@ -259,7 +259,7 @@ def _write_seo_files(out: Path, site: SiteConfig, articles: list[Article], user_
         urls.append((f"{base}/t/{a.slug}", a.created, "weekly"))
     for t in user_threads:
         urls.append((f"{base}/p/{t['id']}", t.get("updated_at") or t.get("created_at") or now, "daily"))
-    urls.append((f"{base}/about.html", now, "monthly"))
+    urls.append((f"{base}/about", now, "monthly"))
 
     lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for loc, lastmod, freq in urls[:50000]:
@@ -289,7 +289,7 @@ def _write_seo_files(out: Path, site: SiteConfig, articles: list[Article], user_
         _write(out / "ads.txt", f"google.com, {ads['client'].replace('ca-', '')}, DIRECT, f08c47fec0942fa0\n")
     _write(
         out / "robots.txt",
-        "User-agent: *\nAllow: /\nDisallow: /login.html\nDisallow: /new.html\nDisallow: /admin.html\nDisallow: /analytics.html\n\n"
+        "User-agent: *\nAllow: /\nDisallow: /login\nDisallow: /new\nDisallow: /admin\nDisallow: /analytics\n\n"
         f"Sitemap: {base}/sitemap.xml\nSitemap: {base}/sitemap-news.xml\n",
     )
 

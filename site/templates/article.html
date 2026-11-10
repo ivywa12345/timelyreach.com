@@ -55,7 +55,7 @@
         {% for p in a.body if not (a.summary and p.startswith(a.summary[:40])) %}<p>{{ p }}</p>{% endfor %}
       </div>
       <footer class="post-foot">
-        {% if a.tags %}<p class="tags">{% for t in a.tags %}<a class="tag" href="/search.html?q={{ t|urlencode }}">#{{ t }}</a>{% endfor %}</p>{% endif %}
+        {% if a.tags %}<p class="tags">{% for t in a.tags %}<a class="tag" href="/search?q={{ t|urlencode }}">#{{ t }}</a>{% endfor %}</p>{% endif %}
         {% if a.source_id == 'brief' %}
         <p class="source muted">汇总自本站<a href="/f/finance/">财经要闻</a>和<a href="/f/news/">美国新闻</a>，点进各版块看详细报道。</p>
         {% elif not a.show_link %}

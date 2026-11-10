@@ -74,7 +74,7 @@
   }
   function userLink(p) {
     if (!p) return "匿名网友";
-    return '<a href="/user.html?u=' + encodeURIComponent(p.username) + '">' + esc(displayName(p)) + "</a>";
+    return '<a href="/user?u=' + encodeURIComponent(p.username) + '">' + esc(displayName(p)) + "</a>";
   }
   function isMod() { return myProfile && (myProfile.role === "admin" || myProfile.role === "moderator"); }
   function msg(el, text, ok) {
@@ -101,13 +101,13 @@
     var box = $("#userbox");
     if (!box) return;
     if (!me) {
-      box.innerHTML = '<a href="/login.html?next=' + encodeURIComponent(location.pathname + location.search) + '">登录 / 注册</a>';
+      box.innerHTML = '<a href="/login?next=' + encodeURIComponent(location.pathname + location.search) + '">登录 / 注册</a>';
       return;
     }
     var p = myProfile || { username: "", display_name: me.email };
     box.innerHTML =
-      '<a href="/new.html">发帖</a>' +
-      '<a href="/user.html?u=' + encodeURIComponent(p.username) + '" title="' + esc(displayName(p)) + '">' +
+      '<a href="/new">发帖</a>' +
+      '<a href="/user?u=' + encodeURIComponent(p.username) + '" title="' + esc(displayName(p)) + '">' +
       (p.avatar_url ? '<img class="avatar" src="' + esc(p.avatar_url) + '" alt="">' : esc(displayName(p).slice(0, 6))) + "</a>" +
       '<button type="button" class="btn btn-ghost btn-small" id="logout">退出</button>';
     $("#logout").onclick = function () { sb.auth.signOut().then(function () { location.reload(); }); };
@@ -158,7 +158,7 @@
   // ---------- reader thread lists ----------
   function userRowHtml(t) {
     return '<li class="row' + (t.pinned ? " pinned" : "") + '" data-key="u:' + t.id + '">' +
-      '<div class="row-main"><a class="row-title" href="/thread.html?id=' + t.id + '">' + esc(t.title) + "</a>" +
+      '<div class="row-main"><a class="row-title" href="/thread?id=' + t.id + '">' + esc(t.title) + "</a>" +
       '<div class="row-meta"><span class="tag tag-user">网友</span>' + authorLabel(t) + " · <time>" + fmtTime(t.created_at) + "</time></div></div>" +
       '<div class="row-stats"><span class="replies">–</span><span class="viewcount" title="浏览量">' + EYE + ' <span class="views">–</span></span></div></li>';
   }
@@ -218,7 +218,7 @@
         Promise.all([loadSearchIndex(), userQ]).then(function (res) {
           var titles = {};
           res[0].forEach(function (a) { titles["t:" + a.u.replace(/^\/t\//, "").replace(/\.html$/, "")] = { t: a.t, u: a.u }; });
-          (res[1].data || []).forEach(function (t) { titles["u:" + t.id] = { t: t.title, u: "/thread.html?id=" + t.id }; });
+          (res[1].data || []).forEach(function (t) { titles["u:" + t.id] = { t: t.title, u: "/thread?id=" + t.id }; });
           ol.innerHTML = stats.filter(function (s) { return titles[s.thread_key]; }).map(function (s) {
             var x = titles[s.thread_key];
             return '<li><span><a href="' + esc(x.u) + '">' + esc(x.t) + '</a> <span class="muted small">' + s.reply_count + " 回复</span></span></li>";
@@ -275,7 +275,7 @@
     var locked = $("#comments").getAttribute("data-locked") === "1";
     if (locked) { slot.innerHTML = '<p class="notice">本帖已被锁定，不能再跟帖。</p>'; return; }
     if (!me) {
-      slot.innerHTML = '<p class="notice"><a href="/login.html?next=' + encodeURIComponent(location.pathname + location.search) + '">登录或注册</a>后参与讨论（跟帖 +1 积分）。</p>';
+      slot.innerHTML = '<p class="notice"><a href="/login?next=' + encodeURIComponent(location.pathname + location.search) + '">登录或注册</a>后参与讨论（跟帖 +1 积分）。</p>';
       return;
     }
     slot.innerHTML = '<form class="form" id="comment-form"><div id="replying" class="muted small" hidden></div>' +
@@ -410,7 +410,7 @@
       ev.preventDefault();
       var email = form.email.value.trim();
       if (!email) { msg(m, "请先填写邮箱"); return; }
-      sb.auth.signInWithOtp({ email: email, options: { shouldCreateUser: false, emailRedirectTo: location.origin + "/user.html" } }).then(function (r) {
+      sb.auth.signInWithOtp({ email: email, options: { shouldCreateUser: false, emailRedirectTo: location.origin + "/user" } }).then(function (r) {
         msg(m, r.error ? errText(r.error) : "登录链接已发到你的邮箱，点链接即可登录。", !r.error);
       });
     };
@@ -434,7 +434,7 @@
         .select("id").single().then(function (r) {
           btn.disabled = false;
           if (r.error) { msg(m, errText(r.error)); return; }
-          location.href = "/thread.html?id=" + r.data.id;
+          location.href = "/thread?id=" + r.data.id;
         });
     });
   }
@@ -445,7 +445,7 @@
     if (!view) return;
     if (!requireSb(view)) return;
     var u = param("u");
-    if (!u && !me) { view.innerHTML = '<p>请先 <a href="/login.html?next=/user.html">登录</a>。</p>'; return; }
+    if (!u && !me) { view.innerHTML = '<p>请先 <a href="/login?next=/user">登录</a>。</p>'; return; }
     var q = sb.from("profiles").select("*");
     q = u ? q.eq("username", u) : q.eq("id", me.id);
     q.maybeSingle().then(function (r) {

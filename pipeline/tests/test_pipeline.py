@@ -735,3 +735,26 @@ def test_front_page_headlines_have_no_duplicates(tmp_path):
                         body=["b"], rewriter="inbox", created=(now - timedelta(hours=1)).isoformat(timespec="seconds")))
     keys = [a.key for a in build._front_page(sorted(arts, key=lambda a: a.created, reverse=True), n=10)]
     assert len(keys) == len(set(keys)) == 7
+
+
+def test_public_urls_have_no_html_extension_so_pages_never_redirect(tmp_path):
+    from datetime import datetime, timedelta, timezone
+
+    now = datetime.now(timezone.utc)
+    store = Store(tmp_path / "data")
+    for i in range(45):  # more than one board page (40 per page)
+        store.save_article(Article(key=f"p{i:02d}", board="finance", source_id="s", source_name="S", source_url=f"https://x/{i}",
+                                   title=f"page story {i:02d}", summary="s", body=["b"], rewriter="fake",
+                                   created=(now - timedelta(minutes=i)).isoformat(timespec="seconds")))
+    out = build.build_site(tmp_path / "out", store=store, user_threads=[], stats={})
+    base = load_site().base_url
+    page2 = (out / "f/finance/2.html").read_text(encoding="utf-8")          # file name stays, public URL does not
+    assert f'<link rel="canonical" href="{base}/f/finance/2">' in page2
+    assert f'href="{base}/about"' not in page2 and 'rel="prev" href="/f/finance/"' in page2
+    assert f'<link rel="canonical" href="{base}/about">' in (out / "about.html").read_text(encoding="utf-8")
+    assert f"{base}/about</loc>" in (out / "sitemap.xml").read_text(encoding="utf-8")
+    for name in ("index.html", "f/finance/index.html", "about.html"):
+        html = (out / name).read_text(encoding="utf-8")
+        assert not re.findall(r'href="/(?:login|new|user|thread|about|privacy|search)\.html', html), name
+        assert 'href="/f/finance/2.html"' not in html, name
+    assert "Disallow: /login\n" in (out / "robots.txt").read_text(encoding="utf-8")

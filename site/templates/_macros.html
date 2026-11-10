@@ -35,7 +35,7 @@
 {% macro user_row(t, board_map) %}
 <li class="row" data-key="u:{{ t.id }}">
   <div class="row-main">
-    <a class="row-title" href="/thread.html?id={{ t.id }}">{{ t.title }}</a>
+    <a class="row-title" href="/thread?id={{ t.id }}">{{ t.title }}</a>
     <div class="row-meta">
       <span class="tag tag-user">网友</span>
       {% if board_map and board_map.get(t.board) %}<a href="/f/{{ t.board }}/">{{ board_map[t.board].name }}</a>{% endif %}

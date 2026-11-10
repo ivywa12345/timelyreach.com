@@ -128,7 +128,7 @@ function start() {
       .filter(function (x) { return x[1] > 0; }).sort(function (a, b) { return b[1] - a[1]; }).slice(0, 10);
     $("an-users").innerHTML = act.length ? act.map(function (x) {
       var u = x[0];
-      return '<li><a href="/user.html?u=' + encodeURIComponent(u.username) + '">' + esc(u.display_name || u.username) + '</a><span class="n">' + num(u.post_count) + " 帖 · " + num(u.comment_count) + " 评论</span></li>";
+      return '<li><a href="/user?u=' + encodeURIComponent(u.username) + '">' + esc(u.display_name || u.username) + '</a><span class="n">' + num(u.post_count) + " 帖 · " + num(u.comment_count) + " 评论</span></li>";
     }).join("") : "<li>还没有人发帖或评论。</li>";
 
     $("an-note").textContent = "浏览数包含站长自己的访问；“最受欢迎”按累计浏览排序。每日浏览趋势需要新增“每日浏览”表，之后补上。";
