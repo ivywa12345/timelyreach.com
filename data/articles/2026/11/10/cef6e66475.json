@@ -1,0 +1,22 @@
+{
+ "key": "cef6e66475",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-loss-near-4-000-on-hot-us-inflation-fed-remarks",
+ "title": "美国热点通胀导致黄金亏损近4,000 $ ，美联储讲话",
+ "summary": "在美国高通胀印记和美联储官员的鹰派言论加强了对12月加息的押注之后，黄金维持亏损。",
+ "body": [
+  "在美国高通胀印记和美联储官员的鹰派言论加强了对12月加息的押注之后，黄金维持亏损。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Gold Holds Loss Near $4,000 on Hot US Inflation, Fed Remarks",
+ "lang": "en",
+ "published": "2026-11-10T23:33:04+00:00",
+ "created": "2026-11-10T23:47:02+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

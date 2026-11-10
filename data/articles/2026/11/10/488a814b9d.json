@@ -1,0 +1,27 @@
+{
+ "key": "488a814b9d",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_worldnews",
+ "title": "惊天大瓜！美国现役军人在英国被抓，竟是因为给俄罗斯当间谍？",
+ "summary": "根据《华尔街日报》报道，英国警方最近逮捕了一名涉嫌为俄罗斯做间谍的美国陆军士兵。这究竟是怎么回事？",
+ "body": [
+  "据《华尔街日报》报道，英国警方近日采取行动，逮捕了一名美国陆军士兵（U.S. Army Soldier），目前的罪名是涉嫌为俄罗斯从事间谍活动。这起案件跨越美英两国，涉及国家安全核心机密，目前相关调查正在紧锣密鼓地进行中。",
+  "这类现役军人涉嫌泄密给敌对国家的案件并不多见，每次曝光都会在美军内部和国际上引发巨大震动。目前有关这名士兵的具体身份、搜集了什么级别的情报以及涉案时间，官方还在进一步披露中。",
+  "对于身在海外的华人来说，这类地缘政治冲突和间谍案虽然看似遥远，但往往会加剧美俄之间的紧张局势，甚至可能对签证审核、国防安全相关行业的就业背景调查产生连锁反应。我们将持续关注事件进展。"
+ ],
+ "tags": [
+  "美国陆军",
+  "间谍案",
+  "英国警察",
+  "俄罗斯",
+  "国家安全"
+ ],
+ "original_title": "U.K. Police Arrested a U.S. Army Soldier on Allegations of Spying for Russia",
+ "lang": "en",
+ "published": "2026-11-10T22:29:00+00:00",
+ "created": "2026-11-10T23:41:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
