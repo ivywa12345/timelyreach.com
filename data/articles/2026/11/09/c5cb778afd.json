@@ -1,0 +1,34 @@
+{
+ "key": "c5cb778afd",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "AGTP",
+ "source_url": "https://x.com/AGTPinsights/status/2119882574088798538",
+ "title": "Anthropic发布Claude Fable 5.2",
+ "summary": "Anthropic发布Fable 5.2与Mythos 5.2，速度比上一代快30%，价格下调20%，多项基准测试领先，即日起上线。",
+ "body": [
+  "Anthropic刚刚于今日发布Claude Fable 5.2与Claude Mythos 5.2，以下是你需要了解的内容。",
+  "这两款模型专为最艰巨的技术挑战而打造，在编码、推理和视觉方面均有提升。Anthropic表示，在其评估的几乎所有能力上，它们都比Opus 5.5更胜一筹。测试者发现，与过去的Fable和Mythos模型相比，它们的表达更加清晰。输出速度比Fable 5.1和Mythos 5.1快30%。",
+  "Fable与Mythos是同一个底层模型。Fable具备强有力的防滥用保障，即日起在所有付费套餐、Claude平台、Claude Code以及所有主要云平台上提供。Mythos 5.2面向经过审核的组织开放。从事有益的网络安全或生物医学工作的团体可通过生命科学和网络验证计划申请。",
+  "价格下调20%。Fable 5.2每百万输入tokens收费8美元，每百万输出tokens收费40美元，低于此前的10美元和50美元。Mythos 5.2定价相同。",
+  "在FrontierCode 2.0基准测试中，Fable 5.2在High强度下得分与Opus 5.5在Max强度下大致相当，而每项任务的成本约为后者的一半。在Xhigh强度下，它取得了所有已发布受测模型中的最高分。Medium为Claude应用和Claude Code中的默认强度。",
+  "在RoboDojo基准测试（一项模拟双臂机器人的测试）中，Fable 5.2击败了其他模型以及大多数用于控制机器人的AI系统，甚至在它从未接受过明确训练的任务上也是如此。",
+  "Anthropic还表示，由1,000个Fable 5.2智能体组成的团队在30小时内完整形式化了费马大定理（Fermat's Last Theorem），将其证明转化为计算机可以逐步验证的形式。Opus 5.5在同样的设置下18小时仅完成26%，30小时后也几乎没有进展。",
+  "在安全性方面，这些模型在大多数一致性指标上的表现与近期模型相当或更好。发布前已有外部评估机构进行测试，包括英国AI安全研究所（UK AI Security Institute）、Frontier Design和METR。",
+  "Anthropic仍建议大多数编码和知识任务从Opus 5.5开始，称其为最强的日常主力模型。Fable与Mythos最适合最宏大、最开放的技术工作。",
+  "早期反响：获得提前使用权限的伊森·莫利克（Ethan Mollick）称其为一种“参差不齐的通用人工智能（Jagged AGI）”。莉迪娅·哈利（Lydia Hallie）发现它在验证结果方面比5.1彻底得多。西奥（Theo）称赞了降价，但批评Claude Code桌面应用的导航不佳。",
+  "上线优惠：Ultra和Team Premium用户可按订阅时长获得Fable重置次数：不足6个月1次，6至12个月2次，超过12个月3次；重置可在3月8日之前随时使用。Pro和Team Standard用户可试用Fable 5.2一周，最多为每周限额的一半，另加一次重置。",
+  "关键数字：比Fable 5.1快30%；每百万tokens输入8美元、输出40美元，低于此前的10美元和50美元；1,000个智能体在30小时内形式化了费马大定理；Opus 5.5在18小时内仅完成26%；在FrontierCode 2.0上，每项任务成本约为Opus 5.5在Max强度下的一半。",
+  "Fable 5.2现已上线，Mythos 5.2仅限经过审核的组织使用。"
+ ],
+ "tags": [
+  "AI",
+  "Anthropic"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "",
+ "created": "2026-11-09T19:59:25+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
