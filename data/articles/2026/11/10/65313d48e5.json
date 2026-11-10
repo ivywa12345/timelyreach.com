@@ -1,0 +1,22 @@
+{
+ "key": "65313d48e5",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/hackers-hunt-for-ais-most-valuable-commodity-computing-power-4c2054d5?mod=rss_Technology",
+ "title": "黑客如何窃取数百万美元的人工智能计算能力",
+ "summary": "对人工智能模型的需求已将人工智能凭证转变为利润丰厚的黑市货币和网络犯罪分子的目标。",
+ "body": [
+  "对人工智能模型的需求已将人工智能凭证转变为利润丰厚的黑市货币和网络犯罪分子的目标。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "How Hackers Steal Millions in AI Computing Power",
+ "lang": "en",
+ "published": "2026-11-10T14:00:00+00:00",
+ "created": "2026-11-10T18:51:52+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

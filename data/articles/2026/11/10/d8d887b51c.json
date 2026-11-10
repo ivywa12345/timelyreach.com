@@ -1,0 +1,22 @@
+{
+ "key": "d8d887b51c",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/economy/central-banking/treasury-yields-edge-up-ahead-of-u-s-inflation-data-7a55db79?mod=rss_markets_main",
+ "title": "由于预期利率上升，美国10年期国债上涨5%",
+ "summary": "美国国债收益率上涨， 10年期基准指数升至5%以上，原因是通胀高于预期，加上美联储官员的鹰派言论，加大了对下月大幅加息的押注。",
+ "body": [
+  "美国国债收益率上涨， 10年期基准指数升至5%以上，原因是通胀高于预期，加上美联储官员的鹰派言论，加大了对下月大幅加息的押注。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "U.S. 10-Year Treasury Tops 5% on Expectations of Higher Interest Rates",
+ "lang": "en",
+ "published": "2026-11-10T18:07:00+00:00",
+ "created": "2026-11-10T18:46:36+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

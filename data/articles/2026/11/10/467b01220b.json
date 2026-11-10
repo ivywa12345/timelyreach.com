@@ -1,0 +1,22 @@
+{
+ "key": "467b01220b",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/global-stocks-strengthen-as-oil-dips-below-90-a-barrel-557620e0?mod=rss_markets_main",
+ "title": "随着通货膨胀率持续上升，股市下跌",
+ "summary": "数据显示10月份通胀率较上月降温，但仍高于预期，此后股市走低。",
+ "body": [
+  "数据显示10月份通胀率较上月降温，但仍高于预期，此后股市走低。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Stocks Fall as Inflation Remains Elevated",
+ "lang": "en",
+ "published": "2026-11-10T17:36:00+00:00",
+ "created": "2026-11-10T18:47:50+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

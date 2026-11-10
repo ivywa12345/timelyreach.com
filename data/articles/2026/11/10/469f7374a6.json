@@ -1,0 +1,22 @@
+{
+ "key": "469f7374a6",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-10/saudi-liquidity-squeeze-adds-to-economic-stress-for-crown-prince",
+ "title": "沙特流动性紧缩给王储带来更多挑战",
+ "summary": "随着伊朗战争刺激阿联酋政府和银行的存款减少，沙特阿拉伯正在努力应对新的流动性压力。",
+ "body": [
+  "随着伊朗战争刺激阿联酋政府和银行的存款减少，沙特阿拉伯正在努力应对新的流动性压力。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Saudi Liquidity Squeeze Adds to Challenges for Crown Prince",
+ "lang": "en",
+ "published": "2026-11-10T13:00:04+00:00",
+ "created": "2026-11-10T18:52:08+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

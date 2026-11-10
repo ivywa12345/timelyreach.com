@@ -1,0 +1,22 @@
+{
+ "key": "8404446d79",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-10/us-raises-forecasts-for-2027-gasoline-and-diesel-prices",
+ "title": "美国提高对2027年汽油和柴油价格的预测",
+ "summary": "美国上调了对明年柴油和汽油价格的预测，表明即使中东石油流量增加，消费者的救济也将受到限制。",
+ "body": [
+  "美国上调了对明年柴油和汽油价格的预测，表明即使中东石油流量增加，消费者的救济也将受到限制。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "US Raises Forecasts for 2027 Gasoline and Diesel Prices",
+ "lang": "en",
+ "published": "2026-11-10T17:07:15+00:00",
+ "created": "2026-11-10T18:52:02+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
