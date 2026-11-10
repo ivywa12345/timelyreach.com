@@ -61,6 +61,7 @@ def run_update(store: Store | None = None, max_new: int | None = None) -> int:
         return created
 
     created += run_picks(store, providers)
+    plan = []
     for source in load_sources():
         if created >= max_new:  # nothing more to add this run: skip the network fetches too
             break
@@ -71,9 +72,18 @@ def run_update(store: Store | None = None, max_new: int | None = None) -> int:
             it for it in fetch_source(source)
             if not store.is_seen(it.key) and not store.is_seen(title_key(it.title)) and not SKIP_URL.search(it.url) and not SKIP_TITLE.search(it.title)
         ][: source.limit]
-        for item in fresh:
+        plan.append((source, fresh))
+    # Take one item from each source in turn. Going source by source let the first sources use up
+    # the whole run budget, and the last one in the list (Wenxuecity) never got a turn.
+    for rnd in range(max((len(f) for _, f in plan), default=0)):
+        for source, fresh in plan:
             if created >= max_new:
                 break
+            if rnd >= len(fresh):
+                continue
+            item = fresh[rnd]
+            if store.is_seen(item.key) or store.is_seen(title_key(item.title)):  # the same story from another source
+                continue
             if source.full_text:
                 item.text, outlet = fetch_article(item.url)
                 if outlet:  # reposting sites: credit the outlet named on the page
@@ -86,6 +96,8 @@ def run_update(store: Store | None = None, max_new: int | None = None) -> int:
             store.mark_seen(title_key(item.title))
             created += 1
             log.info("[%s] %s  <-  %s", article.rewriter, article.title, item.title)
+        if created >= max_new:
+            break
     credit_reposted_sources(store)
     if run_brief(store, providers):  # after this run's news, so the brief includes it
         created += 1

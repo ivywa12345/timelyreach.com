@@ -1,3 +1,4 @@
+import collections
 import json
 import requests
 import re
@@ -758,3 +759,23 @@ def test_public_urls_have_no_html_extension_so_pages_never_redirect(tmp_path):
         assert not re.findall(r'href="/(?:login|new|user|thread|about|privacy|search)\.html', html), name
         assert 'href="/f/finance/2.html"' not in html, name
     assert "Disallow: /login\n" in (out / "robots.txt").read_text(encoding="utf-8")
+
+
+def test_every_source_gets_a_turn_when_the_run_budget_is_small(tmp_path, monkeypatch):
+    from timelyreach.config import Source
+
+    def src(sid):
+        return Source(id=sid, name=sid, lang="en", board="news", fetch=[{"type": "rss", "url": "https://x"}], limit=5)
+
+    sources = [src("first"), src("second"), src("last")]
+    feeds = {s.id: [_item(i, source_id=s.id, url=f"https://{s.id}.example/{i}", title=f"{s.id} headline {i}") for i in range(5)] for s in sources}
+    monkeypatch.setattr(update, "load_sources", lambda: sources)
+    monkeypatch.setattr(update, "fetch_source", lambda s: feeds[s.id])
+    monkeypatch.setattr(update, "available_providers", lambda: [FakeProvider()])
+    monkeypatch.setattr(update, "run_picks", lambda store, providers: 0)
+    monkeypatch.setattr(update, "run_brief", lambda store, providers: None)
+    monkeypatch.setattr(update, "credit_reposted_sources", lambda store: 0)
+    store = Store(tmp_path)
+    assert update.run_update(store=store, max_new=6) == 6
+    by_source = collections.Counter(a.source_id for a in Store(tmp_path).load_articles())
+    assert by_source == {"first": 2, "second": 2, "last": 2}   # the last source is not starved
