@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% from "_macros.html" import story, user_row %}
+{% from "_macros.html" import story, user_row, article_row %}
 {% block head %}
 <script type="application/ld+json">{{ {
   "@context": "https://schema.org",
@@ -29,6 +29,12 @@
     </div>
     {% else %}
     <p class="empty">新闻机器人正在抓取第一批内容，稍后刷新看看。</p>
+    {% endif %}
+    {% if latest %}
+    <div class="front-latest">
+      <h2 class="side-head">最新发布</h2>
+      <ul class="rows">{% for a in latest %}{{ article_row(a, board_map) }}{% endfor %}</ul>
+    </div>
     {% endif %}
   </div>
 

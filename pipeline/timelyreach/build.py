@@ -73,6 +73,12 @@ def _ads(site) -> dict:
     return {"client": client, "slots": slots}
 
 
+def _latest(articles: list[Article], skip: set[str], n: int = 6) -> list[Article]:
+    """Newest posts not already on the front page; fills the left column next to the tall right rail."""
+    fresh = [a for a in articles if a.key not in skip and a.board not in ("brief", "picks")]
+    return sorted(fresh, key=lambda a: a.created, reverse=True)[:n]
+
+
 HOT_DAYS = 4
 HOT_COUNT = 5
 REPLY_WEIGHT = 5  # a comment says more than a view
@@ -96,8 +102,9 @@ def _front_page(articles: list[Article], n: int = 7) -> list[Article]:
     """Owner's picks from the last two days first, then finance and US news alternating."""
     picks = [a for a in articles if a.source_id == "editor" and a.created >= _days_ago(2)]
     picks += [a for a in articles if a.rewriter == "inbox" and a.source_id != "editor" and a.created >= _hours_ago(FEATURE_HOURS)][:3]
-    finance = [a for a in articles if a.board == "finance"]
-    news = [a for a in articles if a.board == "news"]
+    taken = {a.key for a in picks}  # a pick must not come round again in the alternating lists
+    finance = [a for a in articles if a.board == "finance" and a.key not in taken]
+    news = [a for a in articles if a.board == "news" and a.key not in taken]
     mixed = [a for pair in zip(finance, news) for a in pair]
     mixed += finance[len(news):] + news[len(finance):]
     return (picks + mixed)[:n]
@@ -161,11 +168,13 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
     by_board = {b: (items if b == "brief" else order_for_board(items, stats)) for b, items in by_board.items()}
 
     # Home page
+    headlines = _front_page(articles)
     render(
         "index.html",
         "index.html",
         canonical=site.base_url + "/",
-        headlines=_front_page(articles),
+        headlines=headlines,
+        latest=_latest(articles, {a.key for a in headlines}),
         by_board={k: v[:12] for k, v in by_board.items()},
         latest_users=user_threads[:60],
     )

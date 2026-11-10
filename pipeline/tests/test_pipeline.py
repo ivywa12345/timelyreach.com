@@ -701,3 +701,37 @@ def test_google_tag_manager_container_is_loaded_with_consent_defaults_first(tmp_
     monkeypatch.setattr(build, "load_site", lambda: replace(base, gtm_id='GTM-1"><script>', ga_measurement_id=""))
     out = build.build_site(tmp_path / "bad", store=store, user_threads=[], stats={})
     assert "gtm.js" not in (out / "index.html").read_text(encoding="utf-8")
+
+
+def test_home_page_continues_with_latest_posts_not_already_on_the_front(tmp_path):
+    from datetime import datetime, timedelta, timezone
+
+    now = datetime.now(timezone.utc)
+    store = Store(tmp_path / "data")
+    for i in range(20):
+        store.save_article(Article(key=f"h{i:02d}", board="finance" if i % 2 else "news", source_id="s", source_name="S",
+                                   source_url=f"https://x/{i}", title=f"home story {i:02d}", summary="s", body=["b"], rewriter="fake",
+                                   created=(now - timedelta(minutes=i)).isoformat(timespec="seconds")))
+    out = build.build_site(tmp_path / "out", store=store, user_threads=[], stats={})
+    page = (out / "index.html").read_text(encoding="utf-8")
+    block = page[page.index("front-latest"):]
+    block = block[:block.index("</ul>")]
+    titles = re.findall(r"home story (\d\d)", block)
+    assert len(titles) == 6 and len(set(titles)) == 6
+    front = page[:page.index("front-latest")]
+    assert not set(titles) & set(re.findall(r"home story (\d\d)", front.split('class="subs"')[0] + front.split('class="subs"')[1]))  # nothing repeated
+
+
+def test_front_page_headlines_have_no_duplicates(tmp_path):
+    from datetime import datetime, timedelta, timezone
+
+    now = datetime.now(timezone.utc)
+    arts = []
+    for i in range(6):
+        arts.append(Article(key=f"d{i}", board="finance" if i % 2 else "news", source_id="s", source_name="S", source_url=f"https://x/{i}",
+                            title=f"t{i}", summary="s", body=["b"], rewriter="inbox" if i < 3 else "fake",
+                            created=(now - timedelta(hours=i)).isoformat(timespec="seconds")))
+    arts.append(Article(key="e1", board="finance", source_id="editor", source_name="站长", source_url="", title="owner", summary="s",
+                        body=["b"], rewriter="inbox", created=(now - timedelta(hours=1)).isoformat(timespec="seconds")))
+    keys = [a.key for a in build._front_page(sorted(arts, key=lambda a: a.created, reverse=True), n=10)]
+    assert len(keys) == len(set(keys)) == 7
