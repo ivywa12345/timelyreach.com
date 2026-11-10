@@ -1,0 +1,27 @@
+{
+ "key": "05c5fd6248",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/the-nvidia-affair-is-terrible-timing-for-corporate-america-aa3166c2?mod=rss_markets_main",
+ "title": "英伟达这事儿闹的，对美国企业来说简直是场灾难！",
+ "summary": "华尔街日报专栏作家Greg Ip指出，近期围绕英伟达的风波对美国企业来说时机极其糟糕，同时AI行业也面临着Anthropic回报递减、能源通胀传导以及AI如何将工作商品化等一系列挑战。",
+ "body": [
+  "最近科技圈和商界最头疼的事莫过于英伟达（Nvidia）的相关风波了。知名财经评论员Greg Ip在《华尔街日报》撰文指出，在这个时间点爆发这样的事情，对整个美国企业界来说简直是“最糟糕的时机”。",
+  "除了英伟达的麻烦，文章还盘点了当前美国商业和科技领域面临的几大隐忧：包括AI新星Anthropic正遭遇投入产出回报递减的困境，AI带来的能源通胀正在向下游传导，以及未来人工智能可能彻底把“工作”变成一种大宗商品化（commodify）的劳务。",
+  "对于海外华人来说，科技巨头的动荡和AI浪潮的狂飙，不仅关乎股市里的钱包厚度，更直接影响着身处高科技和金融行业的饭碗稳定。接下来的行业变局，咱们还得捂紧钱包、拭目以待。"
+ ],
+ "tags": [
+  "英伟达",
+  "美股",
+  "人工智能",
+  "华尔街日报",
+  "海外华人"
+ ],
+ "original_title": "The Nvidia Affair Is Terrible Timing for Corporate America",
+ "lang": "en",
+ "published": "2026-11-10T11:05:00+00:00",
+ "created": "2026-11-10T11:11:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

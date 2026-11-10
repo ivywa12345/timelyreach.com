@@ -1,0 +1,27 @@
+{
+ "key": "6bb9a863a3",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/wall-street-pay-set-to-climb-after-volatile-markets-and-ipos-fuel-bank-profits-94fd9137?mod=rss_markets_main",
+ "title": "今年华尔街年终奖要大涨？交易员和投行人士稳了！",
+ "summary": "受市场波动和IPO活动回暖推动，华尔街各大银行利润大增，今年金融圈员工（特别是交易员和投资银行家）的年终奖有望迎来显著上涨。",
+ "body": [
+  "华尔街的打工人今年可以过个好年了！根据《华尔街日报》的消息，由于今年金融市场波动不断，加上首次公开募股（IPO）业务的重新活跃，各大银行赚得盆满钵满，这也直接带动了员工奖金的上涨。",
+  "知情人士透露，在各业务板块中，交易员和投资银行家的奖金涨幅预计将是最为明显的几类人。今年市场的起伏虽然给宏观经济带来不确定性，但也给靠吃“波段”和“撮合交易”饭的华尔街机构带来了极佳的盈利机会。",
+  "对于关注金融圈动向的海外华人来说，华尔街奖金池的膨胀往往是美国经济和资本市场景气的一个风向标。金融行业的繁荣不仅直接利好相关从业者的钱包，通常也会对纽约及周边地区的房地产、高端消费产生积极的溢出效应。"
+ ],
+ "tags": [
+  "华尔街",
+  "年终奖",
+  "金融圈",
+  "投资银行",
+  "美股"
+ ],
+ "original_title": "Wall Street Pay Set to Climb After Volatile Markets and IPOs Fuel Bank Profits",
+ "lang": "en",
+ "published": "2026-11-10T11:00:00+00:00",
+ "created": "2026-11-10T11:11:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

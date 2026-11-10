@@ -1,0 +1,26 @@
+{
+ "key": "8eb1f7dce9",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/china/chinas-trade-surplus-surged-past-1-trillion-in-october-967968c9?mod=rss_worldnews",
+ "title": "厉害了！中国10月份贸易顺差突破1万亿美元，顶着全球贸易摩擦压力出口还在狂飙",
+ "summary": "根据《华尔街日报》报道，尽管面临全球经济低迷和贸易摩擦的压力，中国10月份的贸易顺差依然强劲飙升，突破了1万亿美元大关。",
+ "body": [
+  "说到最近的全球经济，大家都觉得日子不太好过，但中国出口的数据却让人大跌眼镜。根据《华尔街日报》记者 Katrina Northrop 的报道，中国近期的出口表现依然十分强劲。",
+  "数据显示，在经济阴霾和全球贸易紧张局势的双重背景下，中国10月份的贸易顺差（Trade Surplus）依然大幅飙升，成功突破了1万亿美元。这说明中国制造在国际市场上依然有着极强的韧性和需求。",
+  "对于远在海外的华人来说，祖国出口强劲意味着全球供应链依然高度依赖中国制造，这在一定程度上也会影响到海外日常商品的供应和价格走势。"
+ ],
+ "tags": [
+  "中国经济",
+  "出口",
+  "贸易顺差",
+  "华尔街日报"
+ ],
+ "original_title": "China’s Trade Surplus Surged Past $1 Trillion in October",
+ "lang": "en",
+ "published": "2026-11-10T04:04:00+00:00",
+ "created": "2026-11-10T11:10:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

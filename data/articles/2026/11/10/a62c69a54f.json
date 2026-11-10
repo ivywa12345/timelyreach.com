@@ -1,0 +1,26 @@
+{
+ "key": "a62c69a54f",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/energy-oil/adnoc-gas-still-evaluating-options-to-bypass-strait-of-hormuz-3f833140?mod=rss_worldnews",
+ "title": "霍尔木兹海峡不太平？阿布扎比国家石油天然气公司正琢磨“绕路”",
+ "summary": "阿布扎比国家石油天然气公司（Adnoc Gas）首席执行官表示，公司正在研究绕过霍尔木兹海峡的各种方案，包括在阿联酋东海岸建设液化天然气（LNG）出口设施，以减少对该海峡的依赖。",
+ "body": [
+  "近期中东局势紧张，能源供应的咽喉要道成了各大巨头的心病。据《华尔街日报》报道，阿布扎比国家石油天然气公司（Adnoc Gas）的首席执行官透露，公司目前正在评估多种方案，希望能够减少对霍尔木兹海峡（Strait of Hormuz）的依赖。",
+  "作为应对措施之一，该公司正在研究在阿联酋东海岸建造一座液化天然气（LNG）出口设施。如果这个项目得以推进，未来的天然气运输就能直接避开这条高度敏感的传统海上通道，降低地缘政治带来的供应中断风险。",
+  "对于远在海外的华人来说，中东能源通道的任何风吹草动，往往都会直接牵动全球能源市场的神经，进而影响到大家的油气账单和通胀走势。我们将持续关注后续进展。"
+ ],
+ "tags": [
+  "能源",
+  "中东局势",
+  "天然气",
+  "海外快讯"
+ ],
+ "original_title": "Adnoc Gas Still Evaluating Options to Bypass Strait of Hormuz",
+ "lang": "en",
+ "published": "2026-11-10T09:12:00+00:00",
+ "created": "2026-11-10T11:11:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

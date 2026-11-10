@@ -1,0 +1,22 @@
+{
+ "key": "456d44c6ca",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
+ "title": "FDA警告与Wegovy、Zepbound等流行GLP-1药物相关的视力丧失风险",
+ "summary": "该机构发现了与使用用于体重管理和糖尿病的GLP-1药物有关的罕见眼部疾病潜在风险增加的证据。",
+ "body": [
+  "该机构发现了与使用用于体重管理和糖尿病的GLP-1药物有关的罕见眼部疾病潜在风险增加的证据。",
+  "（以上为CNBC内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "CNBC"
+ ],
+ "original_title": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+ "lang": "en",
+ "published": "2026-11-10T09:48:09+00:00",
+ "created": "2026-11-10T11:18:58+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

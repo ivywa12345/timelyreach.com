@@ -1,0 +1,26 @@
+{
+ "key": "8ad028b768",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-11-10-2026?mod=rss_markets_main",
+ "title": "油价跌破90美元！特朗普谈伊朗，英伟达也准备回血了？",
+ "summary": "受特朗普关于伊朗的言论影响，油价大跌至每桶90美元。与此同时，投资者正屏息等待即将公布的CPI通胀数据，而英伟达股价有望收复此前的部分失地。",
+ "body": [
+  "今天国际原油市场迎来了一波大跌，油价直接回落到了每桶90美元。这次油价下挫的导火索，主要是因为特朗普（Trump）针对伊朗发表的相关言论引发了市场对供应格局的预期变化。",
+  "除了油市震荡，华尔街目前最紧盯的还是即将出炉的美国消费者物价指数（CPI）报告。这份通胀数据将直接决定美联储接下来的货币政策走向，牵动着无数投资者的神经。而在个股方面，近期经历波动的AI龙头英伟达（Nvidia）股票展现出了反弹迹象，有望收复之前的失地。"
+ ],
+ "tags": [
+  "油价",
+  "特朗普",
+  "英伟达",
+  "美股",
+  "通胀数据"
+ ],
+ "original_title": "Stock Market Today: Oil Prices Fall to $90 a Barrel on Trump Iran Comments; Investors Await CPI Report",
+ "lang": "en",
+ "published": "2026-11-10T10:01:59+00:00",
+ "created": "2026-11-10T11:11:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

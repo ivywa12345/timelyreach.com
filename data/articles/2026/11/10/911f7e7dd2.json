@@ -1,0 +1,26 @@
+{
+ "key": "911f7e7dd2",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-10/french-grocer-casino-agrees-debt-deal-with-opposing-creditors",
+ "title": "差点破产！法国知名超市巨头Casino终于把债务谈妥了",
+ "summary": "法国大型连锁超市集团Casino Guichard-Perrachon SA在经历债权人反对后，终于就债务重组方案达成一致。",
+ "body": [
+  "平时去法国超市买买买的朋友可能不知道，老牌零售巨头Casino Guichard-Perrachon SA最近在财务上可是经历了一场惊心动魄的拉锯战。",
+  "根据彭博社（Bloomberg）记者Libby Cherry的报道，这家法国超市此前抛出的债务重组计划遭到了部分债权人的强烈反对。不过好在经过几轮博弈，各方总算各退一步，就债务重组达成了一项最新协议，暂时化解了燃眉之急。",
+  "对于海外华人来说，虽然这类欧洲企业的资本运作离我们的日常生活有点远，但它也提醒我们在海外通胀和高利率的背景下，即便是老牌实体零售巨头，日子也并不轻松。后续我们也会持续关注海外商业巨头的最新动向。"
+ ],
+ "tags": [
+  "法国超市",
+  "债务重组",
+  "海外财经",
+  "Casino"
+ ],
+ "original_title": "French Grocer Casino Agrees Debt Deal With Opposing Creditors",
+ "lang": "en",
+ "published": "2026-11-10T10:46:25+00:00",
+ "created": "2026-11-10T11:12:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

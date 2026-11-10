@@ -1,0 +1,27 @@
+{
+ "key": "9e74e9c1e1",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-waller-backs-december-rate-hike-says-open-to-larger-move",
+ "title": "美联储大鹰派又放狠话：12月必须加息！必要时直接加息50个基点",
+ "summary": "美联储理事沃勒周二表示，他支持在12月再次加息，并警告若通胀继续加剧，不排除大幅加息50个基点的可能，以捍卫央行的信誉。",
+ "body": [
+  "美联储（Fed）理事克里斯托弗·沃勒（Christopher Waller）在周二表态称，他完全支持在12月份的会议上继续加息。不仅如此，他还发出严厉警告：如果通胀形势继续恶化、居高不下，为了捍卫美联储作为中央行的信誉，他甚至愿意支持一次性大幅加息半个百分点（即50个基点）。",
+  "作为美联储内部的重要官员，沃勒这次的表态无疑给期待货币政策转向宽松的市场泼了一盆冷水。他强调，持续的通胀压力是目前最大的威胁，央行必须采取果断行动来控制物价。",
+  "对于远在海外的我们来说，美联储持续加息意味着美元继续走强，房贷利率、车贷利率以及各类信用卡利息恐怕还要在高位盘整一段时间。大家的借贷成本和日常消费压力短期内很难彻底松绑，在理财和资产配置上还得继续勒紧裤腰带过日子。"
+ ],
+ "tags": [
+  "美联储",
+  "加息",
+  "通胀",
+  "美元",
+  "海外华人"
+ ],
+ "original_title": "Fed’s Waller Backs December Rate Hike, Open to Larger Move",
+ "lang": "en",
+ "published": "2026-11-10T09:00:00+00:00",
+ "created": "2026-11-10T11:12:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

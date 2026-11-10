@@ -1,0 +1,27 @@
+{
+ "key": "6b56f7f474",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/cio-journal/ready-to-start-your-next-car-lease-with-an-ai-chatbot-bmw-wants-to-help-528cfef9?mod=rss_Technology",
+ "title": "买车要跟人工智能聊天了？宝马这回整了个新花样！",
+ "summary": "宝马正准备让AI聊天机器人来接管汽车租赁业务，而与此同时，英伟达董事会也正对有关黄仁勋成为间谍目标的报道展开调查。",
+ "body": [
+  "平时买车租车，最烦的就是跟销售斗智斗勇、讨价还价。最近汽车大厂宝马（BMW）坐不住了，琢磨着要用AI聊天机器人来帮大家搞定下一个汽车租赁（Lease）合同，听起来以后砍价或者问配置可以直接找“机器人客服”了。",
+  "不过科技圈最近的消息可不止这一个。根据《华尔街日报》报道，芯片巨头英伟达（Nvidia）的董事会最近也开始忙活起来了，正在对“公司CEO黄仁勋（Jensen Huang）成为间谍目标”的相关报告进行深入调查。",
+  "对于咱们海外华人来说，无论是买车、租车体验的改变，还是科技巨头高管的安全风波，其实都离我们的日常生活和投资息息相关。以后去4S店租车可能真不用看销售的脸色了，而科技股的动向也得继续多留个心眼。"
+ ],
+ "tags": [
+  "宝马",
+  "人工智能",
+  "英伟达",
+  "黄仁勋",
+  "汽车租赁"
+ ],
+ "original_title": "Ready to Start Your Next Car Lease With an AI Chatbot? BMW Wants to Help.",
+ "lang": "en",
+ "published": "2026-11-09T14:11:00+00:00",
+ "created": "2026-11-10T11:11:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

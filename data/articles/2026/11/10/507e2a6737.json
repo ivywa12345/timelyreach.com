@@ -1,0 +1,27 @@
+{
+ "key": "507e2a6737",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/a-reined-in-jensen-huang-is-nvidias-best-option-e79cb305?mod=rss_markets_main",
+ "title": "英伟达现在最需要的，竟然是“收敛一点”的黄仁勋？",
+ "summary": "华尔街日报分析指出，随着人工智能（AI）热潮进入新阶段，英伟达（Nvidia）若能由一个更加克制的CEO来掌舵，或许会是这家芯片巨头当前最好的选择。",
+ "body": [
+  "最近有外媒分析认为，在AI浪潮的下一阶段，英伟达（Nvidia）的掌门人黄仁勋（Jensen Huang）如果能稍微收敛、克制一些，反而会对这家芯片巨头的发展更有利。",
+  "作为引领全球AI芯片风潮的核心人物，黄仁勋一向以激进、大胆的风格著称。不过分析指出，随着市场环境的变化和AI热潮步入深水区，公司面临的挑战也在升级，需要更加稳健的策略来应对未来的竞争和监管压力。",
+  "对于关注科技股和AI发展的海外华人来说，英伟达的战略调整不仅关乎科技板块的走势，也可能影响到相关产业链的工作机会和投资回报。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "人工智能",
+  "华尔街日报",
+  "科技股"
+ ],
+ "original_title": "A Reined In Jensen Huang Is Nvidia’s Best Option",
+ "lang": "en",
+ "published": "2026-11-10T10:30:00+00:00",
+ "created": "2026-11-10T11:11:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

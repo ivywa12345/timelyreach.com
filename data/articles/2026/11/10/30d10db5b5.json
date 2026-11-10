@@ -1,0 +1,27 @@
+{
+ "key": "30d10db5b5",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/how-jensen-huangs-affair-spiraled-into-a-national-security-nightmare-d9b43304?mod=rss_Technology",
+ "title": "黄仁勋卷入中国间谍风波？这回连国家安全都惊动了！",
+ "summary": "英伟达CEO黄仁勋承认曾与一名被控为中国间谍的女性有过婚外情，而这位芯片大佬此前曾游说特朗普放松芯片出口管制。",
+ "body": [
+  "近日有媒体爆出大瓜，芯片巨头英伟达（Nvidia）的CEO黄仁勋（Jensen Huang）承认，自己曾与一名被指控为中国间谍的女性有过一段婚外情。更引人关注的是，这位科技界大佬此前曾积极游说美国总统特朗普（Trump），希望放宽对华芯片出口管制。",
+  "据《华尔街日报》报道，这一事件迅速发酵，不仅涉及科技巨头的私生活，更因英伟达在全球芯片供应链中的核心地位以及对华出口政策的敏感性，而演变成了一场引发关注的国家安全风波。",
+  "对于在美华人来说，这类涉及中美科技战和高层政商关系的新闻往往会牵动敏感神经，特别是可能会对高科技行业的就业环境、中美贸易政策以及相关从业人员的审查产生潜在影响。"
+ ],
+ "tags": [
+  "黄仁勋",
+  "英伟达",
+  "国家安全",
+  "中美科技战",
+  "海外华人"
+ ],
+ "original_title": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare",
+ "lang": "en",
+ "published": "2026-11-10T04:15:00+00:00",
+ "created": "2026-11-10T11:11:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
