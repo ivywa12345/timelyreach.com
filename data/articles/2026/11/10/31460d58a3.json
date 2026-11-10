@@ -1,0 +1,27 @@
+{
+ "key": "31460d58a3",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/china/beijing-sees-a-weakened-trump-it-risks-getting-a-tougher-negotiator-632f0132?mod=rss_worldnews",
+ "title": "北京以为特朗普好对付？华尔街日报：小心弄巧成拙，碰上更难缠的硬茬！",
+ "summary": "华尔街日报分析指出，北京方面可能认为目前的特朗普（Donald Trump）实力减弱，但这种判断存在风险，未来可能迎来更强硬的谈判对手。此外，英伟达CEO黄仁勋向员工及家属道歉，香港活动人士黄之锋因涉嫌勾结外国势力被加刑。",
+ "body": [
+  "最近国际政坛风云变幻，根据《华尔街日报》资深记者Lingling Wei的分析，北京方面目前似乎觉得，卷入各种风波的特朗普（Donald Trump）已经没有当年那么强势了。不过，专家提醒，这种看法可能存在误判，搞不好反而会激发出一个更难对付的谈判高手。",
+  "除了中美博弈的宏观大戏，科技圈和港台时事也有新动向。芯片巨头英伟达（Nvidia）的CEO黄仁勋（Jensen Huang）近日就近期的一些风波向公司员工及家属公开道歉。与此同时，香港知名活动人士黄之锋（Joshua Wong）也因涉嫌勾结外国势力一案，被判处了更多的刑期。",
+  "对于远在海外的华人来说，中美关系风吹草动，往往最直接地牵动着大家的钱包、工作机会甚至是身份规划。无论是大国博弈还是跨国巨头的发展，都值得我们持续关注。"
+ ],
+ "tags": [
+  "特朗普",
+  "中美关系",
+  "英伟达",
+  "黄之锋",
+  "海外华人"
+ ],
+ "original_title": "Beijing Sees a Weakened Trump. It Risks Getting a Tougher Negotiator.",
+ "lang": "en",
+ "published": "2026-11-10T11:55:00+00:00",
+ "created": "2026-11-10T18:17:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

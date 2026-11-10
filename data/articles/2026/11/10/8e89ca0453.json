@@ -1,0 +1,22 @@
+{
+ "key": "8e89ca0453",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=rss_markets_main",
+ "title": "Anthropic寻求1.3万亿美元的IPO估值",
+ "summary": "这家克劳德制造商的股市首次亮相被视为投资者在人工智能交易中处于优势的试金石。",
+ "body": [
+  "这家克劳德制造商的股市首次亮相被视为投资者在人工智能交易中处于优势的试金石。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
+ "lang": "en",
+ "published": "2026-11-10T15:40:00+00:00",
+ "created": "2026-11-10T18:20:41+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

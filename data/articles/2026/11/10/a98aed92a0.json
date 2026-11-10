@@ -1,0 +1,27 @@
+{
+ "key": "a98aed92a0",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/anthropic-founders-stakes-are-worth-18-billion-apiece-at-ipo-price-2c746365?mod=rss_markets_main",
+ "title": "AI圈又要造富了？Anthropic创始人身家暴涨，每人持股价值高达180亿美元！",
+ "summary": "人工智能初创公司 Anthropic 的内部人士即将迎来财富暴涨，公司IPO估值推高创始人们的持股价值至每人约18亿美元（注：原文18 billion应为180亿美元），且他们将保留全部投票权。",
+ "body": [
+  "人工智能（AI）领域的造富神话还在继续。根据《华尔街日报》报道，随着 Anthropic 公司迈向 IPO（首次公开募股），该公司七位内部核心创始人的持股价值迎来了暴涨，每人名下的股份价值均高达180亿美元。",
+  "虽然身家水涨船高，但创始团队对公司的掌控力丝毫没有放松。据透露，这七位内部人士每人计划出售大约2.5亿美元的股票，同时依然牢牢掌握着公司的全部投票权。",
+  "对于关注科技圈和海外创投的华人朋友来说，这类大厂的资本动作往往预示着AI赛道的热度持续不减，不仅牵动着行业风向，也可能带来新的投资和职业机会。"
+ ],
+ "tags": [
+  "Anthropic",
+  "人工智能",
+  "IPO",
+  "硅谷动态",
+  "商业财经"
+ ],
+ "original_title": "Anthropic Founders’ Stakes Are Worth $18 Billion Apiece at IPO Price",
+ "lang": "en",
+ "published": "2026-11-10T17:54:00+00:00",
+ "created": "2026-11-10T18:17:51+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

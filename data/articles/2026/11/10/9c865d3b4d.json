@@ -1,0 +1,27 @@
+{
+ "key": "9c865d3b4d",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/u-s-iran-exchange-strikes-on-islands-as-they-fight-for-control-of-strait-895801e5?mod=rss_worldnews",
+ "title": "霍尔木兹海峡火药味太浓！美军与伊朗在海岛激烈交手",
+ "summary": "美国与伊朗近日在霍尔木兹海峡爆发激烈交锋，双方围绕该水域的海岛展开了互相空袭与打击，争夺这条全球石油咽喉的控制权。",
+ "body": [
+  "据《华尔街日报》（The Wall Street Journal）记者Summer Said报道，美国与伊朗最近在霍尔木兹海峡（Strait of Hormuz）展开了一场激烈的控制权争夺战。双方在过去几天里，接连对该水域内的海岛发动了打击。",
+  "作为全球最重要的石油运输要道之一，霍尔木兹海峡的局势一直牵动着国际市场的神经。此次美军与伊朗直接在海岛上互扔炸弹、激烈交手，让该地区的紧张局势陡然升级。",
+  "对于远在海外的华人来说，中东局势的持续动荡往往会直接引发国际原油价格波动，进而影响到大家的油费和生活成本。我们将持续关注事态发展，看看这会给能源市场和地缘政治带来什么新变化。"
+ ],
+ "tags": [
+  "美国",
+  "伊朗",
+  "霍尔木兹海峡",
+  "中东局势",
+  "国际油价"
+ ],
+ "original_title": "U.S., Iran Exchange Strikes on Islands as They Fight for Control of Strait",
+ "lang": "en",
+ "published": "2026-11-10T13:07:00+00:00",
+ "created": "2026-11-10T18:17:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
