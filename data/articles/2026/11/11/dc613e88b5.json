@@ -1,0 +1,25 @@
+{
+ "key": "dc613e88b5",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "OpenAI Newsroom",
+ "source_url": "https://x.com/OpenAINewsroom/status/2120277245713654201",
+ "title": "OpenAI将于12月11日停用旧版语音功能",
+ "summary": "OpenAI将于2026年12月11日停用ChatGPT语音中的高级语音和标准语音，转而专注于今年7月推出的GPT-Live语音模型。",
+ "body": [
+  "我们将于2026年12月11日停用ChatGPT语音中的高级语音（Advanced）和标准语音（Standard）。",
+  "今年7月，我们推出了GPT-Live，这是我们最新的语音模型，将自然对话与前沿智能结合在一起。自那以来，语音使用量几乎翻了一番，如今几乎所有使用语音功能的人都在使用GPT-Live。这一变化将使我们能够简化语音体验，并专注于改进GPT-Live。",
+  "我们从人们使用高级语音和标准语音的方式中学到了很多，并将把这些经验带入GPT-Live，同时继续在回应深度和细节、跨对话的连贯性以及更好的个性化等方面加以改进。我们的最终目标是让语音成为ChatGPT体验中无缝的一部分。",
+  "在GPT-Live具备这一能力之前，实时视频和屏幕共享将继续由高级语音提供支持。"
+ ],
+ "tags": [
+  "OpenAI",
+  "人工智能"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-10T22:07:42+00:00",
+ "created": "2026-11-11T01:11:47+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
