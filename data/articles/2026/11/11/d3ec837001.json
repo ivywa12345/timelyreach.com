@@ -1,0 +1,27 @@
+{
+ "key": "d3ec837001",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-how-hackers-steal-millions-in-ai-computing-power-1359493b?mod=rss_worldnews",
+ "title": "黑客疯抢AI算力狂捞几百万！黄仁勋惹争议，美国司法部对Lyft下手了",
+ "summary": "最新风险报告揭示黑客如何盗取数百万美元的AI算力；同时，英伟达CEO黄仁勋的相关事件再次引发外界对芯片出口限制的讨论，而美国政府则正式起诉了网约车平台Lyft。",
+ "body": [
+  "根据《华尔街日报》专栏“早间风险报告（The Morning Risk Report）”（作者：Richard Vanderford）的最新消息，黑客们现在盯上了香饽饽——AI算力，并且通过盗取算力非法牟取了数百万美元。",
+  "除了黑客盗取算力的新动向外，报道还提到，英伟达（Nvidia）CEO黄仁勋（Jensen Huang）卷入的一些争议，再次推高了政界对芯片出口限制的呼声。与此同时，美国监管部门也没闲着，正式对知名网约车公司Lyft提起诉讼。",
+  "这类科技安全风险和巨头监管动向，未来可能会进一步影响到高科技行业的供应链以及相关企业的合规成本，值得在美从事科技或相关行业的人士持续关注。"
+ ],
+ "tags": [
+  "AI算力",
+  "黑客攻击",
+  "英伟达",
+  "黄仁勋",
+  "Lyft"
+ ],
+ "original_title": "The Morning Risk Report: How Hackers Steal Millions in AI Computing Power",
+ "lang": "en",
+ "published": "2026-11-11T12:28:00+00:00",
+ "created": "2026-11-11T18:04:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

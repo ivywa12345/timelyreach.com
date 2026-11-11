@@ -1,0 +1,28 @@
+{
+ "key": "0141c4e798",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/hospital-stocks-are-feeling-blue-in-a-good-way-f4d73ed2?mod=rss_markets_main",
+ "title": "医院股为何突然“变蓝”？美股市场这几大风向标值得一看",
+ "summary": "华尔街日报最新分析显示，医院类股票表现亮眼，同时云计算黑马CoreWeave及AI巨头OpenAI的动向也引发了市场关注。",
+ "body": [
+  "最近美股市场有点意思，医院类股票（Hospital Stocks）突然走红，成了不少投资者眼中的香饽饽。据《华尔街日报》（The Wall Street Journal）分析，这波行情背后透露出医疗行业正在经历一轮新的价值重估。",
+  "除了医院股，科技圈的消息也挺复杂。一边是云计算独角兽CoreWeave释放出的信号有些“让人摸不着头脑”，另一边则是人工智能顶流OpenAI，这家公司的财务报表显示其亏损正在进一步扩大，烧钱速度之快让华尔街不得不重新审视其长期盈利能力。",
+  "对于在美华人来说，医疗板块的走强可能意味着保险费率或相关行业成本的波动。如果你近期有相关的投资计划，或者关注医疗行业就业，不妨多留意这些行业巨头的财报动向，毕竟这些大厂的财务状况，直接关系到未来AI技术的落地节奏和相关岗位的稳定性。"
+ ],
+ "tags": [
+  "美股",
+  "医院股",
+  "投资理财",
+  "OpenAI",
+  "CoreWeave",
+  "华尔街日报"
+ ],
+ "original_title": "Hospital Stocks Are Feeling Blue, in a Good Way",
+ "lang": "en",
+ "published": "2026-11-11T11:18:00+00:00",
+ "created": "2026-11-11T18:05:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

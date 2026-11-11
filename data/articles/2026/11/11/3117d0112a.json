@@ -1,0 +1,27 @@
+{
+ "key": "3117d0112a",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-11/over-11-000-foreign-military-deaths-recorded-by-russia-in-war-on-ukraine",
+ "title": "不止是俄乌人？俄官方绝密数据显示：超1.1万名外籍士兵战死在乌克兰",
+ "summary": "根据俄罗斯统计局（Rosstat）的一份内部机密文件，俄乌战争中阵亡的外籍士兵人数已超过1.1万人，涉及近100个国家。",
+ "body": [
+  "这事儿闹得挺大，据彭博社拿到的俄罗斯统计局（Rosstat）内部机密数据显示，俄方目前记录的外籍士兵阵亡人数已经突破了1.1万人。更有意思的是，这些战死者来自全球近100个不同的国家。",
+  "以往外界往往只关注俄乌双方的伤亡情况，但这次披露的数据显示，这场战争的参与者远比我们想象的要复杂。这1.1万余人的死亡数字，直接揭示了俄军战线背后，其实隐藏着一股庞大的国际雇佣军或志愿兵力量。",
+  "对我们海外华人来说，这类地缘冲突的持续升级往往意味着全球供应链不稳和地区安全局势的进一步恶化。随着战争深度的不断加剧，国际关系中的“不确定性”正在增加，这对于全球金融市场的波动，以及海外人员的跨境出行安全，无疑都是一个不小的信号灯。"
+ ],
+ "tags": [
+  "俄乌战争",
+  "俄罗斯",
+  "外籍士兵",
+  "国际新闻",
+  "军事冲突"
+ ],
+ "original_title": "Over 11,000 Foreign Military Deaths Recorded by Russia in War on Ukraine",
+ "lang": "en",
+ "published": "2026-11-11T15:29:11+00:00",
+ "created": "2026-11-11T18:05:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

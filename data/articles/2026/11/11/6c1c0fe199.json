@@ -1,0 +1,27 @@
+{
+ "key": "6c1c0fe199",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-11/jetblue-lenders-form-groups-as-airline-downplays-financial-peril",
+ "title": "捷蓝航空麻烦大了？债权人悄悄抱团，生怕公司“暗度陈仓”！",
+ "summary": "知情人士透露，捷蓝航空（JetBlue Airways）的大多数债权人已签署合作协议，以防止公司与部分借款人单独达成秘密交易。",
+ "body": [
+  "据知情人士透露，捷蓝航空（JetBlue Airways）的一大批债权人最近坐不住了，他们已经正式签署了一份合作协议。根据这份协议，这些债权人将“抱团取暖”，联手防止捷蓝航空绕过他们，和个别签字的借款人私下达成什么秘密交易。",
+  "不过，对于外界的财务担忧，捷蓝航空方面目前一直在淡化公司的财务危机。具体债务细节和后续发展还有待进一步观察。",
+  "对于咱们在海外的小伙伴来说，特别是经常坐飞机或者关注美股、航空业动态的朋友，航空公司财务状况不稳定可能会直接影响到机票价格、航班航线调整，甚至是积分价值。我们会持续关注后续进展。"
+ ],
+ "tags": [
+  "捷蓝航空",
+  "美股",
+  "债权人",
+  "海外快讯",
+  "航空业"
+ ],
+ "original_title": "JetBlue Lenders Form Groups as Airline Downplays Financial Peril",
+ "lang": "en",
+ "published": "2026-11-11T17:52:09+00:00",
+ "created": "2026-11-11T18:07:32+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,28 @@
+{
+ "key": "8ebecf97e9",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/cio-journal/ai-is-testing-the-limits-of-corporate-governance-f69dda7d?mod=rss_Technology",
+ "title": "AI狂潮下的隐忧：公司治理跟不上步伐了？",
+ "summary": "随着AI基础设施需求爆发，企业在应对AI技术升级的同时，也在面临传统公司治理模式的考验，而算力巨头CoreWeave的业绩表现正成为行业风向标。",
+ "body": [
+  "最近科技圈里AI火得一塌糊涂，但这背后其实藏着一个容易被忽视的难题：企业在疯狂追赶AI红利时，原本那一套“严谨”的公司治理框架，似乎快要兜不住这一波技术狂潮了。",
+  "根据《华尔街日报》（The Wall Street Journal）的最新报道，随着AI业务占比越来越重，公司高层在决策速度、资源配置以及风险把控上，正面临着前所未有的压力。这种转型不仅考验着CEO们的领导力，也给董事会的监督职能提出了全新挑战。",
+  "不过，市场对于AI相关企业的信心依然强劲。作为AI基建领域的“当红炸子鸡”，算力服务商CoreWeave（CoreWeave）刚刚交出了一份亮眼的成绩单，其表现不仅打脸了看衰者的预言，还大幅超过了华尔街的预期。这也再次证明，虽然治理模式存在争议，但AI赛道的吸金能力确实不容小觑。",
+  "对于咱们在美华人来说，这波AI浪潮背后的企业治理变动，其实与大家的职业发展和投资理财息息相关。一方面，科技大厂的高速迭代意味着更多就业机会，但也伴随着组织架构调整的动荡；另一方面，AI基建公司的高增长潜力，也成为了不少华人投资者关注的热门赛道。不过，提醒大家在跟进这波热点时，也要多留个心眼，关注这些公司在扩张之余，治理结构是否真的稳健。"
+ ],
+ "tags": [
+  "AI",
+  "科技新闻",
+  "公司治理",
+  "CoreWeave",
+  "华尔街"
+ ],
+ "original_title": "AI Is Testing the Limits of Corporate Governance",
+ "lang": "en",
+ "published": "2026-11-11T14:38:00+00:00",
+ "created": "2026-11-11T18:07:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

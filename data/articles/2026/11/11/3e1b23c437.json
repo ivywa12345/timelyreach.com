@@ -1,0 +1,26 @@
+{
+ "key": "3e1b23c437",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-11/congress-set-to-subpoena-nvidia-s-jensen-huang-republican-says",
+ "title": "英伟达CEO黄仁勋麻烦了？共和党议员放话：不来就发传票！",
+ "summary": "美国众议院一名关键的共和党议员周三表示，国会准备对英伟达公司首席执行官黄仁勋发出传票，要求他交代有关其与一名涉嫌中国间谍女子交往的事件。",
+ "body": [
+  "据彭博社报道（作者：Emily Birnbaum），美国国会众议院的一位核心共和党议员于周三透露，国会已经准备好对人工智能芯片巨头英伟达公司（Nvidia Corp.）的首席执行官黄仁勋（Jensen Huang）发出传票。",
+  "这次国会盯上黄仁勋，主要是想让他就自己与一名涉嫌中国间谍的女性之间的交往情况，向议员们提供具体的说法和答案。",
+  "目前该事件仍在发展中，国会是否会正式采取强制传票手段以及后续会披露哪些细节，值得持续关注。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "美国国会",
+  "科技新闻"
+ ],
+ "original_title": "Congress Set to Subpoena Nvidia’s Jensen Huang, Republican Says",
+ "lang": "en",
+ "published": "2026-11-11T16:03:55+00:00",
+ "created": "2026-11-11T18:07:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

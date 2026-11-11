@@ -1,0 +1,27 @@
+{
+ "key": "a9535bb433",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/economy/the-global-economy-looks-vulnerable-to-an-ai-bust-a04bb0f1?mod=rss_worldnews",
+ "title": "AI泡沫要破了？这几个亚洲国家可能最先遭殃！",
+ "summary": "全球经济正面临AI热潮带来的隐患，随着美国数据中心建设需求放缓，对美出口依赖度高的亚洲国家或将首当其冲，经济前景变得扑朔迷离。",
+ "body": [
+  "最近华尔街日报（The Wall Street Journal）发出预警：全球经济可能比我们想象中更脆弱，尤其是那波被AI热潮带起来的基建投资，现在看来很有可能演变成一场‘AI泡沫’崩盘。",
+  "简单来说，现在的全球经济高度依赖美国在数据中心（Data Center）上的疯狂砸钱。为了撑起AI算力，美国企业疯狂扩建服务器集群，这带动了从芯片到电力设施的全球供应链。然而，一旦美国的建设步伐放缓，那些押注AI基建的亚洲国家——特别是像中国台湾、韩国等科技制造大国，将直接面临出口订单断崖式下跌的风险。",
+  "对于在美华人来说，这不仅仅是科技股波动的问题。如果你在科技大厂工作，或者投资了相关产业链，建议近期多关注数据中心建设的支出增速。如果这波AI建设热潮开始降温，不仅会影响到就业市场的稳定性，对大家的投资组合也会带来直接冲击，毕竟全球化背景下，没人能真正置身事外。"
+ ],
+ "tags": [
+  "AI",
+  "全球经济",
+  "美国科技股",
+  "华尔街日报",
+  "投资风险"
+ ],
+ "original_title": "The Global Economy Looks Vulnerable to an AI Bust",
+ "lang": "en",
+ "published": "2026-11-11T15:59:00+00:00",
+ "created": "2026-11-11T18:09:08+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "13a75b5bd1",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38?mod=rss_Technology",
+ "title": "订机票别想偷懒了！美联航带头封杀AI机器人抢票",
+ "summary": "美联航（United Airlines）近日正式宣布，由于担心数据安全和隐私风险，将严禁第三方AI机器人代用户订票，航司高层直言不想让中间商“赚差价”。",
+ "body": [
+  "如果你最近习惯用AI助手来规划行程或者自动刷机票，那可能得歇歇了。据《华尔街日报》（The Wall Street Journal）报道，美联航（United Airlines）目前正在采取严厉手段，封杀那些试图通过自动化机器人（AI bots）来预订机票的工具。",
+  "美联航给出的理由很直接：这种机器人存在严重的数据隐私隐患。航司高层在谈到这项决定时表示：“我不想创造出另一个中间商。”美联航认为，允许这些不受监管的自动化程序直接进入预订系统，不仅扰乱了正常的票务秩序，还可能将乘客的个人信息置于风险之中。",
+  "对于在美华人来说，这预示着未来使用第三方旅行插件或AI规划软件时可能会遇到更多障碍。如果你习惯依赖这些智能助手处理订票流程，建议近期直接登录美联航官网或使用官方App进行操作，以免因账号关联异常导致订票失败，甚至影响到航司里程积分的正常积累。"
+ ],
+ "tags": [
+  "美联航",
+  "航空资讯",
+  "AI",
+  "华人生活",
+  "旅行技巧"
+ ],
+ "original_title": "United Airlines Is Banning AI Bots From Booking Flights",
+ "lang": "en",
+ "published": "2026-11-11T18:00:00+00:00",
+ "created": "2026-11-11T18:05:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

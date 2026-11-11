@@ -1,0 +1,27 @@
+{
+ "key": "4b406cdc01",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/alerts/uscis-announces-fy-2026-inflation-increase-for-certain-immigration-related-fees",
+ "title": "移民又涨价了？美国移民局宣布：2026年起多项工卡及申请费调涨！",
+ "summary": "美国移民局（USCIS）近日发布通知，受通货膨胀影响，多项基于H.R. 1法案的移民申请及工卡费用将于2026年1月1日起上调。",
+ "body": [
+  "如果你近期有办理身份或工卡（EAD）的计划，一定要留意钱包了！美国移民局（USCIS）正式宣布，自2026年1月1日起，多项移民相关费用的标准将根据通胀情况进行上调。这次调整基于H.R. 1法案要求，旨在抵消从2024年7月至2025年7月期间的通胀影响。",
+  "根据官网发布的最新细则，这次调价主要涉及工卡申请（I-765表格）、临时保护身份（TPS）申请（I-821表格）以及庇护相关费用。例如，初次申请庇护工卡及TPS工卡的费用将从550美元涨至560美元，而工卡续期费用也将小幅上涨5美元，变为280美元。此外，庇护申请费也将从100美元调整至102美元。",
+  "移民局提醒，费用生效的“分界线”是邮戳日期。如果你的申请表是在2026年1月1日或之后邮寄的，就必须按照调整后的新标准缴纳费用，否则申请可能会因缴费不足而被拒收。对于正在办理相关移民手续的在美华人来说，建议在提交材料前仔细核对最新的收费表格，以免因几美元的差价导致申请被退回，耽误宝贵的申请时间。"
+ ],
+ "tags": [
+  "美国移民",
+  "USCIS",
+  "移民费用",
+  "工卡申请",
+  "美国生活"
+ ],
+ "original_title": "USCIS Announces FY 2026 Inflation Increase for Certain Immigration-Related Fees",
+ "lang": "en",
+ "published": "2025-11-20T14:06:14+00:00",
+ "created": "2026-11-11T18:08:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

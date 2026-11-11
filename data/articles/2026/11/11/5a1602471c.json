@@ -1,0 +1,28 @@
+{
+ "key": "5a1602471c",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/nasdaq-futures-rally-as-ai-optimism-returns-af100e62?mod=rss_markets_main",
+ "title": "AI泡沫破了？CoreWeave一份财报，硬是把纳斯达克给救回来了！",
+ "summary": "美国股市周二全线飘红，纳斯达克指数领涨，主要得益于AI算力新贵CoreWeave发布了亮眼的财报，暂时安抚了市场对人工智能热潮是否“到头了”的焦虑。",
+ "body": [
+  "最近华尔街对人工智能（AI）板块有点“PTSD”，大家都在怀疑之前的疯涨是不是全是泡沫。不过，AI算力基础设施公司CoreWeave发布的一份超预期财报，像给市场打了一针强心剂。受此消息提振，纳斯达克综合指数（Nasdaq Composite）在周二强劲反弹，领跑美股市场。",
+  "CoreWeave虽然还没上市，但作为AI大模型背后的算力“大金主”，它的盈利能力被看作是整个AI产业链健康状况的晴雨表。投资者们本来担心AI基建投入多、回本慢，但这份成绩单证明了市场对高算力的需求依然旺盛，成功驱散了盘旋在科技股上空的阴霾。",
+  "对于在美华人投资者来说，这无疑是个好信号。虽然科技股波动大，但只要核心算力需求还在，AI板块的生命力就依然强劲。不过编辑还是要提醒大家，科技行业瞬息万变，虽然财报暂时稳住了局势，但个人资产配置时还是要控制好仓位，别被FOMO（错失恐惧症）冲昏了头脑。"
+ ],
+ "tags": [
+  "美股",
+  "纳斯达克",
+  "CoreWeave",
+  "人工智能",
+  "科技股",
+  "投资理财"
+ ],
+ "original_title": "Nasdaq Jumps After CoreWeave Earnings",
+ "lang": "en",
+ "published": "2026-11-11T17:14:00+00:00",
+ "created": "2026-11-11T18:10:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

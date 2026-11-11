@@ -1,0 +1,27 @@
+{
+ "key": "972620ec44",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-11/nuclear-revival-spurs-cme-cme-to-move-ahead-on-physical-uranium-contracts",
+ "title": "核能又要火了？芝商所盯上“铀”矿生意，这一动作释放什么信号？",
+ "summary": "随着全球核能复兴趋势明显，芝商所（CME Group）计划推出以实物铀作为支撑的期货合约，以应对能源市场的最新需求。",
+ "body": [
+  "现在能源界最热的风口是什么？答案可能出乎很多人意料——是“核能”。据彭博社报道，全球最大的期货交易所芝商所（CME Group Inc.）正准备大干一场，计划推出一项以实物铀（Uranium）作为支撑的期货合约。",
+  "简单来说，这就是要把“铀”变成一种像石油、黄金那样可以方便交易的金融资产。之所以这么做，是因为现在全球范围内都在重启核电，作为核反应堆的核心燃料，铀的需求量正在蹭蹭往上涨。芝商所这一动作，本质上就是为了给日益火热的核能市场提供配套的金融工具。",
+  "对于咱们在美华人来说，这事儿折射出全球能源格局的一个大变化。随着核能地位的重估，无论是投资市场的相关标的，还是未来电力成本的长期走势，都可能受到这些供应链变化的影响。如果你关注能源板块的投资，或者好奇未来电价走势，这确实是一个值得盯紧的信号。"
+ ],
+ "tags": [
+  "芝商所",
+  "核能",
+  "能源投资",
+  "CME",
+  "铀矿"
+ ],
+ "original_title": "Nuclear Revival Spurs CME (CME) to Move Ahead on Physical Uranium Contracts",
+ "lang": "en",
+ "published": "2026-11-11T16:53:31+00:00",
+ "created": "2026-11-11T18:09:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

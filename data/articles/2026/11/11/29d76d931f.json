@@ -1,0 +1,27 @@
+{
+ "key": "29d76d931f",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/nyse-affiliate-to-launch-24-7-tokenized-stock-trading-this-month-b3f0843a?mod=rss_markets_main",
+ "title": "炒股不眠不休？纽交所关联平台本月上线24/7全天候代币化交易",
+ "summary": "纽交所母公司洲际交易所（ICE）与加密平台OKX合作的合资公司OKXICE宣布，将于11月23日开启代币化股票交易，美股交易从此实现全天候“不打烊”。",
+ "body": [
+  "如果你觉得美股早九点半到晚四点的交易时间太局限，现在有个大动作要来了。洲际交易所（Intercontinental Exchange，简称ICE）旗下的合资平台OKXICE正式宣布，从11月23日开始，符合条件的美国用户将能直接交易超过70种“代币化”资产。",
+  "简单来说，这就是把美股包装成了代币形式，让大家不再受传统股市开盘时间的限制，实现真正的“7/24”全天候买卖。对于咱们海外华人来说，这意味着以后半夜想调整仓位，或者处理突发行情，不用再苦苦等待美股开盘了。",
+  "当然，这项服务目前仅限符合资格的美国客户使用。虽然这只是金融科技的一小步，但如果这种模式跑通了，未来可能会彻底改变大家的投资节奏。你是打算尝试这种新型交易方式，还是觉得还是老老实实买正股更稳妥呢？"
+ ],
+ "tags": [
+  "美股",
+  "加密货币",
+  "纽交所",
+  "金融科技",
+  "海外华人投资"
+ ],
+ "original_title": "NYSE Affiliate to Launch 24/7 Tokenized Stock Trading This Month",
+ "lang": "en",
+ "published": "2026-11-11T17:03:00+00:00",
+ "created": "2026-11-11T18:06:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "ad491f8ba1",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/payward-to-launch-tokenized-versions-of-u-k-european-stocks-ae35dc78?mod=rss_markets_main",
+ "title": "英欧股市也能“代币化”了？纳斯达克背书的新平台火了！",
+ "summary": "由纳斯达克（Nasdaq）支持的金融科技公司Payward近日搞了个大动作，推出了200多只热门英欧股票的代币化版本，让股票交易有了新玩法。",
+ "body": [
+  "如果你平时关注美股或者币圈，那接下来这个消息你得留意了。最近，获得纳斯达克（Nasdaq）投资背景的Payward公司正式宣布，要把欧洲股市玩出新花样——他们推出了超过200只英国和欧洲热门股票的“代币化版本”。",
+  "简单来说，这意味着投资者以后可以像买卖加密货币一样，去交易这些代币化的股票。Payward此举旨在利用区块链技术，让原本受限于传统金融市场的股票交易变得更灵活、更快捷，这也是全球金融机构试图将传统资产向数字资产转型的最新尝试。",
+  "对于在美华人来说，这不仅仅是一个科技新闻。随着交易方式的碎片化和全球化，未来我们投资全球资产的门槛可能进一步降低。不过，虽然有纳斯达克背书，但这类代币化产品涉及的监管合规和资产安全问题依然不容小觑。大家在尝试这种新资产类别时，务必看清条款，注意投资风险。"
+ ],
+ "tags": [
+  "纳斯达克",
+  "股票交易",
+  "金融科技",
+  "代币化",
+  "投资理财"
+ ],
+ "original_title": "Nasdaq-Backed Payward Launches Tokenized Versions of European Stocks",
+ "lang": "en",
+ "published": "2026-11-11T11:57:00+00:00",
+ "created": "2026-11-11T18:09:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

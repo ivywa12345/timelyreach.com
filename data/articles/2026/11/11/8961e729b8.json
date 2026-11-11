@@ -1,0 +1,27 @@
+{
+ "key": "8961e729b8",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
+ "title": "股价跌麻了也不卖了！AI新贵CoreWeave CEO紧急叫停套现，背后发生了什么？",
+ "summary": "CoreWeave CEO Michael Intrator宣布取消股票减持计划，此前他已通过该计划套现近8亿美元。面对近期选举带来的政策不确定性及股价压力，公司通过亮眼的财报重拾信心，强调将继续扩大AI基建投资。",
+ "body": [
+  "AI领域的明星公司CoreWeave近期动作不断。公司CEO Michael Intrator周三在接受CNBC采访时表示，鉴于公司第三季度财报表现强劲且营收增长超出预期，他已正式叫停了此前制定的股票减持计划（10b5-1计划）。此前该计划曾让他通过出售826万股股份，套现约7.94亿美元，但也因此引发了投资者的不少质疑。",
+  "CoreWeave目前的处境可谓“冰火两重天”。尽管公司交出了一份营收同比增长168%的漂亮答卷，但今年以来其股价累计下跌了18%。特别是在近期民主党赢得中期选举后，市场担心政策风向将对数据中心建设带来更严格的限制，导致投资者一度抛售该股票。对此，Intrator在财报电话会上信心十足地表示，公司并不担心所谓的“政坛地震”，将按计划在2026年底达到1.85吉瓦的活跃电力规模，并维持高达370亿至390亿美元的资本支出目标。",
+  "对于在美华人和科技圈从业者来说，这一动向反映了AI基础设施行业的某种“信心保卫战”。虽然中期选举后，多个州在投票中倾向于限制数据中心扩张，导致摩根大通（J.P. Morgan Asset Management）等机构对未来的电力获取和审批程序表示担忧，但核心玩家CoreWeave依然选择“硬刚”。对于持有相关股票或关注AI基建赛道的投资者而言，这波高管表态和业绩支撑，或许是判断该行业在监管新常态下能否实现“软着陆”的关键信号。"
+ ],
+ "tags": [
+  "CoreWeave",
+  "AI基建",
+  "美股",
+  "科技行业",
+  "CEO套现"
+ ],
+ "original_title": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
+ "lang": "en",
+ "published": "2026-11-11T15:53:36+00:00",
+ "created": "2026-11-11T18:06:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
