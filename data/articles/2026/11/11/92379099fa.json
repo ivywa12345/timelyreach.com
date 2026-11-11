@@ -1,0 +1,26 @@
+{
+ "key": "92379099fa",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/alerts/dhs-terminates-temporary-protected-status-for-haiti",
+ "title": "重磅！美国国土安全部宣布终止海地人TPS身份，2026年2月生效",
+ "summary": "美国国土安全部（DHS）正式发布联邦公报，宣布终止海地公民的临时保护身份（TPS），新规将于2026年2月3日正式生效。",
+ "body": [
+  "美国国土安全部（DHS）近日在联邦公报上发布通知，正式宣布终止海地公民的临时保护身份（TPS）。国土安全部长诺姆（Noem）在与跨部门伙伴协商后认定，海地目前已不再符合TPS的法定要求，继续允许海地国民在美国居留不符合美国的国家利益。",
+  "根据官方通知，海地TPS身份的终止将于2026年2月3日生效。美国公民及移民服务局（USCIS）提醒，目前持有海地TPS身份且没有其他合法留美途径的人士，应当提前做好离境准备。当局建议离境人员可使用“CBP Home”手机应用程序报告离境情况，该自助离境流程提供免费机票、1,000美元的离境补助，以及未来重新获得美国合法移民机会的可能。"
+ ],
+ "tags": [
+  "美国移民",
+  "海地",
+  "TPS",
+  "移民政策",
+  "国土安全部"
+ ],
+ "original_title": "DHS Terminates Temporary Protected Status for Haiti",
+ "lang": "en",
+ "published": "2025-11-26T14:15:34+00:00",
+ "created": "2026-11-11T10:59:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

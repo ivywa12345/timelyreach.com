@@ -1,0 +1,26 @@
+{
+ "key": "47216ce741",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-rises-as-storage-withdrawals-accelerate-569c8aab?mod=rss_worldnews",
+ "title": "欧洲天然气价格又飙了！储气库见底，这是要过个“寒冬”吗？",
+ "summary": "由于欧洲天然气库存消耗速度加快，市场担忧情绪升温，欧洲基准天然气价格再次回升至每兆瓦时85欧元以上。",
+ "body": [
+  "如果你最近在关注欧洲的能源市场，可能又要捏一把汗了。根据《华尔街日报》（Wall Street Journal）的报道，欧洲的天然气价格（European TTF Gas）近日再度反弹，重新回到了每兆瓦时85欧元以上。",
+  "这次价格上涨的直接原因，是欧洲各国的天然气储气库正面临加速消耗的压力。随着取暖季的推进和库存不断减少，市场对未来能源供应的担忧情绪迅速升温，直接推高了天然气期货价格。",
+  "虽然这主要是欧洲本土的能源供需问题，但对于关注全球通胀和能源走势的海外华人来说，国际能源价格的波动往往会通过产业链传导。如果欧洲能源危机再度加剧，不仅当地居民的账单压力山大，也可能对全球经济和物价产生连锁反应。"
+ ],
+ "tags": [
+  "欧洲天然气",
+  "能源危机",
+  "华尔街日报",
+  "通胀"
+ ],
+ "original_title": "European TTF Gas Rises as Storage Withdrawals Accelerate",
+ "lang": "en",
+ "published": "2026-11-11T10:54:00+00:00",
+ "created": "2026-11-11T10:58:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

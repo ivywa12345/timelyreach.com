@@ -1,0 +1,25 @@
+{
+ "key": "237b220a24",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-10/nvidia-s-bull-case-hinges-on-ceo-huang-surviving-china-spy-probe",
+ "title": "英伟达CEO黄仁勋被查卷入“中国间谍”风波？股价直接闪崩！",
+ "summary": "英伟达正在调查CEO黄仁勋与一名涉嫌中国间谍的女性之间的不正当关系，这一消息引发市场对其未来走向的担忧，导致公司股价大跌。",
+ "body": [
+  "据彭博社报道，芯片巨头英伟达（Nvidia）目前正在对首席执行官黄仁勋（Jensen Huang）与一名被指控为中国间谍的人之间的婚外情展开调查。",
+  "这一突发调查消息立刻引发了投资者的恐慌，直接导致英伟达的股价遭遇重挫、陷入大跌。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "美股",
+  "科技新闻"
+ ],
+ "original_title": "Nvidia’s Bull Case Hinges on Huang Surviving China Spy Probe",
+ "lang": "en",
+ "published": "2026-11-10T21:08:00+00:00",
+ "created": "2026-11-11T10:58:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

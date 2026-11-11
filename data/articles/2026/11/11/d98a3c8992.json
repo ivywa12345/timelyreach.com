@@ -1,0 +1,27 @@
+{
+ "key": "d98a3c8992",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/europe/eu-lays-out-plan-to-tighten-online-consumer-protection-rules-33d59db5?mod=rss_worldnews",
+ "title": "欧盟出重拳管网购！虚假设计、网红带货和AI要被好好收拾了",
+ "summary": "欧盟委员会提议出台新的消费者保护规则，重点打击网购陷阱、隐蔽的网红带货以及人工智能带来的虚假宣传。",
+ "body": [
+  "欧盟最近坐不住了，准备对网上的各种“套路”下手！欧盟（European Union）提出了全新的立法草案，打算进一步收紧线上消费者的保护规则。",
+  "根据这份提案，监管的目标主要盯准了三个地方：一是各种带坑的“欺骗性设计（deceptive designs）”，比如那些诱导消费者消费的网页小陷阱；二是现在很火的网红营销（influencer marketing）；三是利用人工智能（artificial intelligence）搞出来的花样忽悠。",
+  "虽然这事儿发生在欧洲，但现在网购和社媒全球化，大厂们为了合规很可能会调整全网政策。对于平时喜欢海淘、或者经常看海外网红带货的华人朋友来说，以后在网上买东西或许能少踩几个坑，钱包也能捂得更紧一点了。"
+ ],
+ "tags": [
+  "欧盟",
+  "网购安全",
+  "消费者权益",
+  "人工智能",
+  "网红营销"
+ ],
+ "original_title": "EU Lays Out Plan to Tighten Online Consumer Protection Rules",
+ "lang": "en",
+ "published": "2026-11-11T10:39:00+00:00",
+ "created": "2026-11-11T10:59:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

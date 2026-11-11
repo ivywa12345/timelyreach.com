@@ -1,0 +1,26 @@
+{
+ "key": "13d69d0f75",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-11/turkey-appliances-giant-sees-edge-over-china-with-new-eu-rules",
+ "title": "欧盟对中国家电下手？土耳其巨头笑了：我们在欧洲比中国厂商更有戏！",
+ "summary": "土耳其最大白色家电制造商Arcelik AS表示，尽管欧盟正准备实施可能波及土耳其企业的更严格进口规则，但他们在欧洲市场相比中国制造商仍具有明显优势。",
+ "body": [
+  "近日据彭博社报道，土耳其最大的白色家电巨头Arcelik AS公开表示，面对欧盟即将在进口上实施的更严苛新规，他们反倒觉得自己的机会来了，并认为自己在欧洲市场比中国制造商更有优势。",
+  "虽然欧盟的新规不仅针对中国，也可能把土耳其企业波及进去，但这家土耳其家电大厂似乎并不慌张，信心满满地认为自家产品在欧洲更吃香。"
+ ],
+ "tags": [
+  "欧盟新规",
+  "土耳其家电",
+  "中国制造",
+  "欧洲市场",
+  "出海竞争"
+ ],
+ "original_title": "Turkey Appliances Giant Sees Edge Over China With New EU Rules",
+ "lang": "en",
+ "published": "2026-11-11T10:01:48+00:00",
+ "created": "2026-11-11T11:01:08+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

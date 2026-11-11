@@ -1,0 +1,27 @@
+{
+ "key": "989344bd9c",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/us-news/the-26-million-cyberheist-rocking-a-small-new-jersey-town-bbe2ae6d?mod=rss_markets_main",
+ "title": "新泽西小镇被黑客卷走2600万美元！选完才曝光，居民气炸了",
+ "summary": "美国新泽西州历史名镇克兰伯瑞（Cranbury）遭遇网络诈骗，高达2600万美元的公共资金被盗。更让居民愤怒的是，这一丑闻直到选举结束后才被当地领导层公之于众。",
+ "body": [
+  "美国新泽西州历史悠久的小镇克兰伯瑞（Cranbury）最近炸锅了！据《华尔街日报》报道，当地居民正质问镇上的领导层，因为一笔高达2600万美元的巨额资金在网络黑客袭击中不翼而飞，而这个惊天丑闻竟然在选举结束后才被捂不住地曝光出来。",
+  "据了解，这起网络盗窃案涉及数额巨大，直接重创了这个平静的小镇。目前，愤怒的居民们正在向当地官员讨要说法，质疑为什么资金失窃的消息要瞒到投票箱封箱之后才公开。",
+  "这件事也给海外华人敲响了警钟：不管是大企业、政府机构还是个人，网络安全和资金账户的防护绝对不能马虎。社区财政透明度和地方政府的危机应对能力，直接关系到纳税人的切身利益。大家以后交房产税、看地方财政报告时，也得多留个心眼。"
+ ],
+ "tags": [
+  "新泽西",
+  "网络诈骗",
+  "黑客盗窃",
+  "海外生活",
+  "美国地方新闻"
+ ],
+ "original_title": "The $26 Million Cyber Heist Rocking a Small New Jersey Town",
+ "lang": "en",
+ "published": "2026-11-11T00:00:00+00:00",
+ "created": "2026-11-11T11:00:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

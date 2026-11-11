@@ -1,0 +1,28 @@
+{
+ "key": "944ec68cca",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/why-goldman-sachs-is-now-changing-its-federal-reserve-interest-rate-forecast-3753f968?mod=mw_rss_topstories",
+ "title": "通胀太顽固！高盛紧急修改美联储加息预测，到底发生了什么？",
+ "summary": "继周二公布了火热的CPI数据后，高盛（Goldman Sachs）改变了此前的预测，预计美联储将采取进一步的紧缩货币政策。",
+ "body": [
+  "周二出炉的美国消费者物价指数（CPI）数据表现“火热”，大大超出了预期。受此影响，华尔街投行高盛（Goldman Sachs）坐不住了，开始调整他们对美联储（Federal Reserve）未来利率走向的预测，预计央行将进一步收紧货币政策以压制通胀。",
+  "高盛分析师朱尔斯·里默（Jules Rimmer）指出，由于通胀数据持续坚挺，降息的希望可能再次推迟，美联储或不得不采取更多的紧缩手段。这也意味着，高盛认为目前的利率水平可能还不足以完全冷却经济，未来借贷成本面临进一步上升的压力。",
+  "对于咱们海外华人来说，美联储加息意味着房贷、车贷和信用卡利率高居不下，美元存款利率虽然香，但背负债务的压力却在增大。大家在做大笔财务规划和买房时，得把这波高息周期的长期化考虑进去了。"
+ ],
+ "tags": [
+  "美联储",
+  "高盛",
+  "通胀",
+  "CPI",
+  "加息",
+  "海外理财"
+ ],
+ "original_title": "Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast",
+ "lang": "en",
+ "published": "2026-11-11T10:37:00+00:00",
+ "created": "2026-11-11T10:57:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

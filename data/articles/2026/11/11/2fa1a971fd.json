@@ -1,0 +1,27 @@
+{
+ "key": "2fa1a971fd",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2026?mod=rss_markets_main",
+ "title": "AI泡沫要破？这家云服务巨头一发财报，科技股又要涨了！",
+ "summary": "云服务商CoreWeave发布财报后，市场对AI的焦虑情绪有所缓解，科技股盘前蓄势待发准备上涨。",
+ "body": [
+  "最近大家天天揪心的AI泡沫问题，好像又有了新变化。根据《华尔街日报》的报道，在云服务商CoreWeave发布最新财报之后，原本让投资者捏了一把汗的AI焦虑情绪稍微缓和了下来，科技股眼看着又要迎来一波上涨。",
+  "这家名为CoreWeave的云服务提供商最近可以说是站在了风口浪尖上，一直处于市场对人工智能热潮是否过热的争议中心。不过随着这次财报的出炉，市场紧绷的神经暂时松弛了一些。",
+  "对于咱们海外华人来说，科技股的涨跌直接关系到401(k)养老金和日常投资账户的表现。虽然AI概念听起来高大上，但市场情绪像坐过山车一样，大家在配置科技板块时还是得系好安全带，多留心风险。"
+ ],
+ "tags": [
+  "美股",
+  "科技股",
+  "AI",
+  "财报",
+  "海外投资"
+ ],
+ "original_title": "Stock Market Today: Tech Stocks Poised to Rise After CoreWeave Earnings",
+ "lang": "en",
+ "published": "2026-11-11T08:21:53+00:00",
+ "created": "2026-11-11T10:56:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

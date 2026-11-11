@@ -1,0 +1,27 @@
+{
+ "key": "b68db81175",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/if-you-think-war-is-unpopular-wait-till-you-see-defeat-04608ab0?mod=rss_opinion",
+ "title": "打仗不受欢迎？那你是没见过打输！美媒翻出杜鲁门历史教训",
+ "summary": "华尔街日报发表评论文章，借用杜鲁门的执政历史探讨对待伊朗的强硬政策。文章指出，历史往往会为那些付出政治代价的艰难决定平反。",
+ "body": [
+  "最近《华尔街日报》刊登了一篇由蒂姆·希伊（Tim Sheehy）撰写的评论文章，题目相当扎心：「如果你觉得战争不得人心，那你是没见过战败的样子。」",
+  "文章的核心观点借用了美国前总统杜鲁门（Truman）的历史教训：面对像伊朗这样棘手的地缘政治对手，那些当时政治上极不受欢迎、甚至要付出沉重代价的艰难决策，往往在长远来看会被历史证明是正确的。",
+  "对于远在海外的华人来说，国际局势的动荡和美国政府在中东等热点地区的外交决策，往往会直接牵动全球能源价格、通货膨胀，进而影响到大家的钱包和日常生活成本。无论政府的决策引发多少争议，最终买单的还是普通老百姓。"
+ ],
+ "tags": [
+  "国际时政",
+  "华尔街日报",
+  "伊朗局势",
+  "美国政治",
+  "海外华人"
+ ],
+ "original_title": "If You Think War Is Unpopular, Wait Till You See Defeat",
+ "lang": "en",
+ "published": "2026-11-10T21:33:00+00:00",
+ "created": "2026-11-11T10:58:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

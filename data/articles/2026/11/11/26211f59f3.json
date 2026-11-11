@@ -1,0 +1,27 @@
+{
+ "key": "26211f59f3",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-11/spain-s-main-unions-hold-nationwide-strike-ahead-over-housing",
+ "title": "租房太难了！西班牙全国大罢工抗议高房价，交通和公共服务全受影响",
+ "summary": "西班牙工会于周三发起全国大罢工，抗议高昂的住房成本，导致交通等公共服务受到影响。",
+ "body": [
+  "周三，西班牙全国迎来了一场由主要工会发起的全国大罢工。这场罢工的核心诉求只有一个：要求降低住房成本，让大家能买得起、租得起房。",
+  "据彭博社报道，此次罢工对西班牙的交通运输以及其他多项公共服务造成了影响。随着住房危机不断加剧，工会希望通过这种方式向政府施压，解决日益严峻的可负担住房问题。",
+  "近年来，海外许多大城市的住房成本都在飙升，高昂的房租和房价让普通民众苦不堪言。对于在海外生活的华人来说，房租和房价往往占了生活开销的大头，住房负担直接关系到每个月的钱包厚度。西班牙这场因高房价而起的罢工，也再次折射出全球大都市圈共同面临的民生痛点。"
+ ],
+ "tags": [
+  "西班牙",
+  "罢工",
+  "住房成本",
+  "高房价",
+  "海外民生"
+ ],
+ "original_title": "Spain’s Main Unions Hold Nationwide Strike Over Housing Cost",
+ "lang": "en",
+ "published": "2026-11-11T07:45:56+00:00",
+ "created": "2026-11-11T10:57:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
