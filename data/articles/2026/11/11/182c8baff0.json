@@ -1,0 +1,26 @@
+{
+ "key": "182c8baff0",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "TimelyReach",
+ "source_url": "https://36kr.com/p/4064527178208130",
+ "title": "谷歌最强AI全球免费开放，基准全面登顶",
+ "summary": "谷歌向全球用户免费开放Gemini 4 Carbon，多项基准测试刷新纪录，上下文达200万token，定价每百万输入token 1美元。",
+ "body": [
+  "谷歌向全球用户免费开放了Gemini 4 Carbon，这是Gemini 4系列的第三款模型，可在Gemini应用和AI Studio中使用，免费层覆盖包括中国在内的全球地区。Pro订阅用户额度为免费版的5倍，Ultra用户每天最多可发3000条提示。",
+  "按谷歌公布的数据，这款模型在多项基准上刷新纪录：ARC-AGI-2得分77.2%，约为上一代Gemini 3 Pro的7倍；竞技场LMArena以1515分排名第一；数学、物理等多个单项接近或达到满分。长视频处理速度是上一代的5倍，处理10万token的速度快7倍，最大上下文200万token，单次输出上限6.5万token。",
+  "定价为每百万输入token 1美元、输出token 4美元。模型新增“思考”推理模式，复杂任务最长可推理5分钟；最多可协调12个智能体，每个智能体拥有最高100万token上下文，演示中24分钟就搭建出一个桌面应用。",
+  "发布演示用Nano Banana Pro和Veo 3.1以3D形式重现了1969年7月阿波罗11号登月，阿姆斯特朗和奥尔德林的登月场景被完整还原。"
+ ],
+ "tags": [
+  "AI",
+  "谷歌",
+  "大模型"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-10T11:26:00+00:00",
+ "created": "2026-11-11T23:34:49+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

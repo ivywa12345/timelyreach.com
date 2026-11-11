@@ -1,0 +1,26 @@
+{
+ "key": "7e1c226611",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "TimelyReach",
+ "source_url": "https://36kr.com/p/4063892080694408",
+ "title": "大学生10天做出爆款应用，近2万星登顶",
+ "summary": "00后大四学生罗晨宇用10天做出DeepSeek Harness的iOS客户端，上线10天收获近2万个GitHub星标，一度登顶应用商店开发者工具榜。",
+ "body": [
+  "DeepSeek在10月29日开源了终端智能体工具Harness，但官方一直没有推出移动端。大四学生罗晨宇用大约10天时间，借助Cursor和Claude写出约20万行代码，做出了开源iOS客户端DSH-Go。",
+  "上线10天，DSH-Go收获近2万个GitHub星标，冲进全球趋势榜前三。11月8日，它一度登上中国区App Store开发者工具免费榜第一，在美国区同类榜单排到第二。这是罗晨宇的第一个GitHub项目，此前他的账号只有约800名关注者。",
+  "这款应用可以连接Harness的接口聊天、管理技能、运行编程智能体，还能通过远程SSH连接服务器、用编辑器改代码。密钥只保存在本地并加密，不经过后台服务器。应用免费、无订阅，iOS版先行，安卓版随后推出。",
+  "背景是11月1日Claude Code和Codex的移动版相继上线，而Harness迟迟没有官方移动端，DSH-Go正好补上了这个空缺。"
+ ],
+ "tags": [
+  "AI",
+  "开源",
+  "移动应用"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-10T10:48:00+00:00",
+ "created": "2026-11-11T23:34:49+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
