@@ -49,8 +49,6 @@ def _paginate(items: list, per_page: int) -> list[list]:
     return pages or [[]]
 
 
-FEATURE_HOURS = 36
-
 
 def _ga_id(site) -> str:
     """GA4 measurement id for the templates; anything that is not G-XXXXXXXX is ignored."""
@@ -98,10 +96,13 @@ def order_for_board(items: list[Article], stats: dict[str, tuple[int, int]]) -> 
     return hot + sorted((a for a in items if a.key not in hot_keys), key=lambda a: a.created, reverse=True)
 
 
+PICK_HOURS = 12  # an owner's pick leads the front page only while it is fresh
+
+
 def _front_page(articles: list[Article], n: int = 7) -> list[Article]:
-    """Owner's picks from the last two days first, then finance and US news alternating."""
-    picks = [a for a in articles if a.source_id == "editor" and a.created >= _days_ago(2)]
-    picks += [a for a in articles if a.rewriter == "inbox" and a.source_id != "editor" and a.created >= _hours_ago(FEATURE_HOURS)][:3]
+    """Today's news first: the owner's picks only while fresh (at most two), then finance and US news
+    alternating, newest first. Older picks keep their own box in the right rail."""
+    picks = [a for a in articles if a.source_id == "editor" and a.created >= _hours_ago(PICK_HOURS)][:2]
     taken = {a.key for a in picks}  # a pick must not come round again in the alternating lists
     finance = [a for a in articles if a.board == "finance" and a.key not in taken]
     news = [a for a in articles if a.board == "news" and a.key not in taken]
