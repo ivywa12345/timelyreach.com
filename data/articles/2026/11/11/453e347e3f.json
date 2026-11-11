@@ -1,0 +1,27 @@
+{
+ "key": "453e347e3f",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/yields-jump-as-inflation-comes-in-hotter-than-expected-77358c3f?mod=rss_markets_main",
+ "title": "通胀又“爆表”了！美债收益率狂飙、股市大跌，降息彻底没戏了？",
+ "summary": "最新公布的通胀数据高於预期，导致美债收益率大幅跳涨，股市应声下跌，市场对美联储继续加息的担忧再度升温。",
+ "body": [
+  "刚过去的经济数据给市场泼了一盆冷水。最新公布的通胀数据（Inflation）表现比预期还要火热，直接导致美债收益率（Yields）猛烈飙升，而股市也因为加息预期升温而全线走低。",
+  "此前市场一直盼着能早点降息，但现在看来，通胀顽固不化，利率不仅短期内很难降下来，甚至连“加息”的讨论又开始回潮了。受此影响，华尔街股市承受了明显的下行压力。",
+  "对咱们海外华人来说，通胀居高不下加息预期再起，意味着房贷利率、车贷利率以及各类借贷成本短期内很难松绑，钱包压力依旧不小。大家在做资产配置和日常开销时，还得把高利率多留存一段时间做好准备。"
+ ],
+ "tags": [
+  "通胀",
+  "美联储",
+  "美债收益率",
+  "股市",
+  "海外华人"
+ ],
+ "original_title": "Yields Jump as Inflation Comes in Hotter Than Expected",
+ "lang": "en",
+ "published": "2026-11-10T21:17:00+00:00",
+ "created": "2026-11-11T00:03:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

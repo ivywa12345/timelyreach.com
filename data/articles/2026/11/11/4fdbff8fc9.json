@@ -1,0 +1,27 @@
+{
+ "key": "4fdbff8fc9",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/10/us-news/behind-the-scene-as-nvidias-jensen-huang-boarded-air-force-one-just-months-before-chinese-spy-scandal-exploded/",
+ "title": "身穿皮衣登空军一号！英伟达CEO黄仁勋卷入中国谍报风波幕后曝光",
+ "summary": "《纽约邮报》曝光了英伟达CEO黄仁勋几年前随特朗普乘坐“空军一号”访华的幕后照片和细节。就在这次风光随行的几个月后，黄仁勋被曝与一名涉嫌为中国进行企业间谍活动的女子有染，引发政治风暴。",
+ "body": [
+  "据《纽约邮报》（New York Post）独家披露，英伟达（Nvidia）CEO黄仁勋（Jensen Huang）身穿标志性的黑色皮衣、背着双肩包，在阿拉斯加安克雷奇的机场登上了“空军一号”（Air Force One）。当时是2026年5月12日，这架总统专机在飞往北京的途中经停加油，黄仁勋应特朗普总统的个人邀请，搭乘专机加入对中国的国事访问，试图拓展其芯片市场。",
+  "然而，这次风光随行埋下了巨大的政治隐患。就在访华几个月后，这位全球富豪承认与一名名叫爱丽丝·黄（Alice Huang，两人无亲缘关系）的女子有染。爱丽丝是总部位于新加坡的Megaspeed International公司高管，该公司面临非法向中国运送英伟达先进芯片的指控，她本人则被怀疑是为中国政府进行企业间谍活动的“美人计”主角。据报道，国务卿马克·鲁比奥（Marco Rubio）当时曾警告特朗普，称黄仁勋与涉嫌间谍的女子有染，但白宫随后对此予以否认。",
+  "特朗普日前表示，他当时并不知道这起事件，并称他事后亲自询问了黄仁勋，黄仁勋表示自己完全不知道对方是间谍，“我真的相信他”。在这趟5月的访问中，黄仁勋不仅参加了与中国领导人的闭门会议和正式国宴，还与特斯拉CEO埃隆·马斯克（Elon Musk）等人一同随行。随着特朗普即将再度访问中国，黄仁勋已确定不会随团同行，这桩间谍丑闻预计将为此次行程蒙上阴影。"
+ ],
+ "tags": [
+  "黄仁勋",
+  "英伟达",
+  "空军一号",
+  "特朗普",
+  "间谍风波"
+ ],
+ "original_title": "Behind the scenes as Nvidia’s Jensen Huang boarded Air Force One — just months before Chinese spy scandal exploded",
+ "lang": "en",
+ "published": "2026-11-10T23:51:42+00:00",
+ "created": "2026-11-11T00:04:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "28319bdc9e",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-10/equity-dispersion-trade-risks-a-blowup-hedge-fund-ceo-warns",
+ "title": "躺赚的日子到头了？对冲基金大佬警告：这个热门交易正在埋下大雷！",
+ "summary": "根据彭博社报道，一位对冲基金CEO发出警告，目前让投资者赚得盆满钵满的“股票离散度交易”潜藏巨大风险，如果市场发生突变，投资者恐将面临惨痛损失。",
+ "body": [
+  "最近一段时间，不少投资者在“股票离散度交易”（equity dispersion trade）中赚到了真金白银，可以说是迎来了躺赚的黄金时代。不过，有对冲基金经理站出来泼冷水了，提醒大家千万别掉以轻心。",
+  "据彭博社（Bloomberg）报道，这位对冲基金CEO指出，一旦市场风向突变，这种原本赚钱的热门交易随时可能爆雷，给投资者带来沉重打击。",
+  "对于海外华人投资者来说，金融市场的波动往往牵一发而动全身，直接关乎大家的投资组合和钱包厚度。在市场情绪高涨的时候，更需要对这类潜在的金融风险保持警惕，避免盲目跟风造成不必要的损失。"
+ ],
+ "tags": [
+  "华尔街",
+  "对冲基金",
+  "投资风险",
+  "股票交易",
+  "海外理财"
+ ],
+ "original_title": "Equity Dispersion Trade Risks a Blowup, Hedge Fund CEO Warns",
+ "lang": "en",
+ "published": "2026-11-10T23:52:41+00:00",
+ "created": "2026-11-11T00:03:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

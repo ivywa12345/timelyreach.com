@@ -1,0 +1,22 @@
+{
+ "key": "cb75952bac",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/alibabas-chip-unit-files-for-hong-kong-listing-31f856cb?mod=rss_markets_main",
+ "title": "阿里巴巴香港上市芯片单元文件",
+ "summary": "为中国数据中心生产芯片的T-Head于9月11日在香港证券交易所主板上市。",
+ "body": [
+  "为中国数据中心生产芯片的T-Head于9月11日在香港证券交易所主板上市。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Alibaba’s Chip Unit Files for Hong Kong Listing",
+ "lang": "en",
+ "published": "2026-11-10T22:07:00+00:00",
+ "created": "2026-11-11T00:08:06+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

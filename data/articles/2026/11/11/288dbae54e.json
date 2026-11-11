@@ -1,0 +1,26 @@
+{
+ "key": "288dbae54e",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/economy-cpi-inflation-republicans-wages-donald-trump-kevin-warsh-ae0a07a2?mod=rss_opinion",
+ "title": "通胀比工资涨得快！懂王这回输选举，其实原因就这么简单",
+ "summary": "华尔街日报编辑委员会指出，消费者物价涨幅持续超过平均时薪的增长，这正是共和党在选举中失利的简短一课。",
+ "body": [
+  "最近美国政坛和经济圈都在复盘大选，华尔街日报（The Wall Street Journal）的编辑委员会发文一针见血地指出：共和党之所以丢掉选票，原因其实非常朴素——大家的钱包缩水了。",
+  "简单来说，虽然大家觉得平时工资好像在涨，但物价涨得更快。消费者物价指数（CPI）的增速一直跑赢平均时薪的涨幅，这意味着普通老百姓的实际购买力其实是在下降的。",
+  "对于咱们海外华人来说，这种痛感可以说是最真切不过了。无论是去超市买菜、加油，还是付房租和账单，处处都能感受到钱不经花。这种经济上的焦虑感和无力感，直接反映在了选票上，也给当下的执政者和参选党派敲响了警钟。"
+ ],
+ "tags": [
+  "通货膨胀",
+  "美国大选",
+  "经济民生",
+  "海外华人"
+ ],
+ "original_title": "A Short Lesson in Why Republicans Lost",
+ "lang": "en",
+ "published": "2026-11-10T22:32:00+00:00",
+ "created": "2026-11-11T00:03:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
