@@ -406,16 +406,54 @@ def test_llm_moves_on_when_a_model_is_overloaded_or_missing_and_remembers_it(mon
         used.append(m)
         if m == "gemini-flash-lite-latest":
             return _Resp(503, text="overloaded")
-        if m == "gemini-flash-latest":
+        if m == "gemini-3.5-flash-lite":
             return _Resp(404, text="not found")
         return _Resp(200, _GOOD)
 
     monkeypatch.setattr(rewrite.requests, "post", post)
     assert prov.rewrite(_item()).title == "标题"
-    assert used == ["gemini-flash-lite-latest"] * 2 + ["gemini-flash-latest", "gemini-2.5-flash-lite"]
+    assert used == ["gemini-flash-lite-latest"] * 2 + ["gemini-3.5-flash-lite", "gemini-3.1-flash-lite"]
+    assert "gemini-3.5-flash-lite" in prov.dead and "gemini-flash-lite-latest" not in prov.dead   # 404 is final, a 503 only rests
     used.clear()
     prov.rewrite(_item())
-    assert used == ["gemini-2.5-flash-lite"]  # later items go straight to the model that works
+    assert used == ["gemini-3.1-flash-lite"]  # while the others rest or are gone, items go straight to the model that works
+
+
+def test_llm_a_single_overload_does_not_end_the_model_for_the_run(monkeypatch):
+    prov = _llm(monkeypatch)
+    clock = [1000.0]
+    monkeypatch.setattr(rewrite.time, "monotonic", lambda: clock[0])
+    monkeypatch.setattr(rewrite.time, "sleep", lambda s: clock.__setitem__(0, clock[0] + s))
+    answers = {"gemini-flash-lite-latest": [_Resp(503), _Resp(503), _Resp(200, _GOOD)]}
+    used = []
+
+    def post(*a, **k):
+        m = k["json"]["model"]
+        used.append(m)
+        return answers[m].pop(0) if m in answers and answers[m] else _Resp(503, text="overloaded")
+
+    monkeypatch.setattr(rewrite.requests, "post", post)
+    with pytest.raises(RuntimeError):          # every model is overloaded at this moment
+        prov.rewrite(_item())
+    assert not prov.exhausted                  # ...but none was dropped for good
+    clock[0] += prov.COOLDOWN + 1              # a few minutes later the lite model works again
+    assert prov.rewrite(_item()).title == "标题"
+    assert used[-1] == "gemini-flash-lite-latest"
+
+
+def test_llm_a_timeout_rests_the_model_and_the_next_one_answers(monkeypatch):
+    prov = _llm(monkeypatch)
+    used = []
+
+    def post(*a, **k):
+        used.append(k["json"]["model"])
+        if len(used) == 1:
+            raise requests.exceptions.ReadTimeout("slow")
+        return _Resp(200, _GOOD)
+
+    monkeypatch.setattr(rewrite.requests, "post", post)
+    assert prov.rewrite(_item()).title == "标题"
+    assert used == ["gemini-flash-lite-latest", "gemini-3.5-flash-lite"]
 
 
 def test_llm_brief_and_picks_try_the_better_model_first(monkeypatch):
@@ -428,16 +466,18 @@ def test_llm_brief_and_picks_try_the_better_model_first(monkeypatch):
     assert used == ["gemini-flash-latest", "gemini-flash-latest", "gemini-flash-lite-latest"]
 
 
-def test_llm_gives_up_for_the_run_when_every_model_is_exhausted(monkeypatch):
+def test_llm_gives_up_for_the_run_after_repeated_failures_of_every_model(monkeypatch):
     prov = _llm(monkeypatch, LLM_MODEL="only-model")
+    prov.MAX_WAIT_TOTAL = 1e9   # sleep is mocked, so let it "wait" for the model to come back each time
     calls = []
     monkeypatch.setattr(rewrite.requests, "post", lambda *a, **k: calls.append(1) or _Resp(429, text="quota"))
-    with pytest.raises(RuntimeError, match="no usable llm model"):
-        prov.rewrite(_item())
-    assert prov.exhausted and len(calls) == 3  # first try + 2 retries
+    for _ in range(prov.MAX_STRIKES):
+        with pytest.raises(RuntimeError, match="no usable llm model"):
+            prov.rewrite(_item())
+    assert prov.exhausted and len(calls) == 3 * prov.MAX_STRIKES  # first try + 2 retries, three times
     with pytest.raises(RuntimeError, match="exhausted"):
         prov.rewrite(_item())
-    assert len(calls) == 3  # later items fail fast
+    assert len(calls) == 3 * prov.MAX_STRIKES  # later items fail fast
 
 
 def test_llm_bad_key_is_not_retried_on_other_models(monkeypatch):
@@ -780,3 +820,20 @@ def test_every_source_gets_a_turn_when_the_run_budget_is_small(tmp_path, monkeyp
     assert update.run_update(store=store, max_new=6) == 6
     by_source = collections.Counter(a.source_id for a in Store(tmp_path).load_articles())
     assert by_source == {"first": 2, "second": 2, "last": 2}   # the last source is not starved
+
+
+def test_front_page_leads_with_today_not_with_old_picks(tmp_path):
+    from datetime import datetime, timedelta, timezone
+
+    now = datetime.now(timezone.utc)
+
+    def art(key, board, hours_old, source_id="s"):
+        return Article(key=key, board=board, source_id=source_id, source_name="S", source_url=f"https://x/{key}", title=key,
+                       summary="s", body=["b"], rewriter="fake", created=(now - timedelta(hours=hours_old)).isoformat(timespec="seconds"))
+
+    arts = [art("news-new", "news", 1), art("fin-new", "finance", 2), art("fresh-pick", "picks", 3, "editor"),
+            art("old-pick", "picks", 30, "editor"), art("fin-old", "finance", 20), art("news-old", "news", 22)]
+    keys = [a.key for a in build._front_page(sorted(arts, key=lambda a: a.created, reverse=True), n=10)]
+    assert keys[0] == "fresh-pick"                       # fresh pick may lead
+    assert keys.index("news-new") < keys.index("fin-old")  # today's news before yesterday's
+    assert "old-pick" not in keys                        # a 30-hour-old pick no longer sits on the front page

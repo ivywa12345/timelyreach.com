@@ -149,16 +149,21 @@ class OpenAICompatibleProvider(Provider):
     """Gemini (https://generativelanguage.googleapis.com/v1beta/openai/), DeepSeek, etc.
 
     Free tiers allow few requests per minute and per day, and some models are often overloaded:
-    calls are spaced out (LLM_MIN_INTERVAL seconds, default 6.5); a model that stays rate-limited,
-    overloaded or missing is dropped for the rest of the run; when none is left, the provider
-    gives up for the run and remaining items fall through to the next provider.
+    calls are spaced out (LLM_MIN_INTERVAL seconds, default 6.5). A model that answers 429/5xx or times
+    out rests for a few minutes and is then tried again (a single 503 must not turn the rest of the run
+    into machine translation); after three such failures it is dropped for the run, and a model that
+    does not exist (404) is dropped at once. When no model is left the provider gives up for the run and
+    remaining items fall through to the next provider.
 
     Default Gemini models (free quota seen in AI Studio, Oct 2026): the lite alias allows ~500
     requests/day, the full flash alias only ~20. So ordinary news goes to lite first, while the
     daily brief and the owner's picks try the better flash model first. LLM_MODEL pins one model."""
 
     name = "openai-compatible"
-    DEFAULT_MODELS = ("gemini-flash-lite-latest", "gemini-flash-latest", "gemini-2.5-flash-lite")
+    DEFAULT_MODELS = ("gemini-flash-lite-latest", "gemini-3.5-flash-lite", "gemini-3.1-flash-lite", "gemini-flash-latest")
+    COOLDOWN = 150.0       # seconds a rate-limited or overloaded model rests
+    MAX_STRIKES = 3        # transient failures after which a model is dropped for the run
+    MAX_WAIT_TOTAL = 240.0  # most time one run spends waiting for a resting model
     PREMIUM_MODEL = "gemini-flash-latest"
     PREMIUM_LANGS = ("brief", "weekly", "editor")
 
@@ -167,14 +172,47 @@ class OpenAICompatibleProvider(Provider):
         self.api_key = _env("LLM_API_KEY")
         pinned = _env("LLM_MODEL")
         self.models = [pinned] if pinned else list(self.DEFAULT_MODELS)
-        self.dead: set[str] = set()
+        self.dead: set[str] = set()          # unusable for the rest of this run
+        self.resting: dict[str, float] = {}  # model -> time.monotonic() when it may be tried again
+        self.strikes: dict[str, int] = {}
+        self.waited = 0.0
         self.min_interval = float(os.environ.get("LLM_MIN_INTERVAL", "6.5"))
         self._last_call = 0.0
         self._listed_models = False
         self.exhausted = False
 
+    def _usable(self, model: str) -> bool:
+        return model not in self.dead and self.resting.get(model, 0.0) <= time.monotonic()
+
+    def _wait_for_a_model(self) -> bool:
+        """Every live model is resting: wait for the first one to come back, within a time budget."""
+        live = {m: t for m, t in self.resting.items() if m not in self.dead}
+        if not live:
+            return False
+        soonest = min(live.values())
+        wait = max(0.0, soonest - time.monotonic())
+        if self.waited + wait > self.MAX_WAIT_TOTAL:
+            return False
+        log.info("all llm models are resting; waiting %.0fs", wait)
+        time.sleep(wait)
+        self.waited += wait
+        for m, t in live.items():
+            if t <= soonest:
+                self.resting[m] = 0.0
+        return True
+
+    def _fail(self, model: str, permanent: bool = False) -> None:
+        if permanent:
+            self.dead.add(model)
+            return
+        self.strikes[model] = self.strikes.get(model, 0) + 1
+        if self.strikes[model] >= self.MAX_STRIKES:
+            self.dead.add(model)
+        else:
+            self.resting[model] = time.monotonic() + self.COOLDOWN
+
     def _order(self, item: RawItem) -> list[str]:
-        models = [m for m in self.models if m not in self.dead]
+        models = [m for m in self.models if self._usable(m)]
         if item.lang in self.PREMIUM_LANGS and self.PREMIUM_MODEL in models:
             models.remove(self.PREMIUM_MODEL)
             models.insert(0, self.PREMIUM_MODEL)
@@ -189,7 +227,7 @@ class OpenAICompatibleProvider(Provider):
             f"{self.base_url}/chat/completions",
             headers={"Authorization": f"Bearer {self.api_key}"},
             json=payload,
-            timeout=60,
+            timeout=40,
         )
 
     def _call(self, payload: dict) -> requests.Response:
@@ -234,9 +272,18 @@ class OpenAICompatibleProvider(Provider):
             "response_format": {"type": "json_object"},
         }
         last = ""
-        for model in self._order(item):
+        order = self._order(item)
+        if not order and self._wait_for_a_model():
+            order = self._order(item)
+        for model in order:
             payload["model"] = model
-            resp = self._call(payload)
+            try:
+                resp = self._call(payload)
+            except requests.exceptions.RequestException as exc:  # timeout / connection reset: same as an overload
+                last = f"{type(exc).__name__} (model {model}): {str(exc)[:200]}"
+                log.warning("llm model %s did not answer (%s); resting it", model, last)
+                self._fail(model)
+                continue
             if resp.status_code < 400:
                 content = resp.json()["choices"][0]["message"]["content"]
                 content = re.sub(r"^```(?:json)?|```$", "", content.strip(), flags=re.M).strip()
@@ -246,9 +293,12 @@ class OpenAICompatibleProvider(Provider):
                 resp.raise_for_status()  # bad key / no access: nothing to switch to
             if resp.status_code == 404:
                 self._log_models()
-            log.warning("llm model %s unusable for the rest of this run (%s)", model, last)
-            self.dead.add(model)
-        self.exhausted = len(self.dead) >= len(self.models)
+                log.warning("llm model %s does not exist for this key; dropped (%s)", model, last)
+                self._fail(model, permanent=True)
+            else:
+                log.warning("llm model %s unavailable (%s); resting it", model, last)
+                self._fail(model)
+        self.exhausted = all(m in self.dead for m in self.models)
         raise RuntimeError(f"no usable llm model left for this item; last answer: {last}")
 
 
