@@ -496,7 +496,8 @@ def test_inbox_publishes_valid_files_and_rejects_bad_ones(tmp_path):
     store = Store(tmp_path / "data")
     assert run_inbox(store, inbox) == 2
     arts = {a.title: a for a in store.load_articles()}
-    assert arts["美联储降息"].source_name == "华尔街日报" and arts["美联储降息"].created.startswith("2026-10-27T13:05")
+    assert arts["美联储降息"].source_name == "华尔街日报" and arts["美联储降息"].published.startswith("2026-10-27T13:05")
+    assert arts["美联储降息"].created > "2026-10-27T13:05"  # inbox posts sort by push (ingest) time, not the original post time
     assert arts["我的看法"].board == "finance" and arts["我的看法"].source_id == "editor" and not arts["我的看法"].show_link
     assert not list(inbox.glob("*.json")) and (inbox / "rejected" / "c.json").exists()
     (inbox / "a.json").write_text(json.dumps(good, ensure_ascii=False), encoding="utf-8")

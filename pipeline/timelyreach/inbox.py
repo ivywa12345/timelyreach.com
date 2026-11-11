@@ -41,10 +41,14 @@ def parse_inbox_file(path: Path) -> Article:
     if board not in site.board_map or site.board_map[board].kind != "auto":
         board = "finance"
     url = str(d.get("source_url", "")).strip()
-    created = _iso(d.get("created", ""))
+    published = _iso(d.get("created", ""))
+    # 投稿箱文章按推送（入库）时间排序，而不是原帖时间：新推的文章总是
+    # 排在最前面。原帖时间保留在 published 里；页面显示的时间因此会
+    # 变成推送时间，不再完全准确（站长已知并接受）。
+    created = datetime.now(timezone.utc).isoformat(timespec="seconds")
     owner = d.get("author") == "站长"
     return Article(
-        key=url_hash(url or f"inbox:{title}:{created}"),
+        key=url_hash(url or f"inbox:{title}:{published}"),
         board=board,
         source_id="editor" if owner else "inbox",
         source_name=str(d.get("source_name") or ("站长" if owner else "综合媒体")).strip(),
@@ -54,6 +58,7 @@ def parse_inbox_file(path: Path) -> Article:
         body=body,
         tags=[str(t).strip() for t in d.get("tags", []) if str(t).strip()][:6],
         lang="zh",
+        published=published,
         created=created,
         rewriter="inbox",
         show_link=bool(url),
