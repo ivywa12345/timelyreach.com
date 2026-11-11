@@ -1,0 +1,26 @@
+{
+ "key": "dbeed4c120",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-11/nomura-explores-possible-sale-of-laser-digital-crypto-unit",
+ "title": "野村控股撑不住了？旗下加密货币子公司 Laser Digital 传出考虑出售",
+ "summary": "日本金融巨头野村控股（Nomura Holdings Inc.）正在考虑出售旗下的加密货币业务 Laser Digital Holdings AG，此前该苏黎世实体去年遭遇亏损，导致该券商整个欧洲业务陷入亏损。",
+ "body": [
+  "据彭博社报道，日本金融巨头野村控股（Nomura Holdings Inc.）目前正在考虑出售其旗下的加密货币业务 Laser Digital Holdings AG。这主要是因为这家总部位于苏黎世的实体在去年出现了亏损，直接把野村控股整个欧洲的业务都给拖累得陷入了亏损状态。",
+  "近年来，传统金融机构进军加密货币领域的尝试可谓几家欢喜几家愁。野村控股此举也反映出，在市场波动和合规成本等因素影响下，传统大行在数字资产领域的布局正在进行重新评估和收缩。目前，该交易的最终走向仍有待进一步观察。"
+ ],
+ "tags": [
+  "野村控股",
+  "Laser Digital",
+  "加密货币",
+  "海外金融",
+  "华尔街动态"
+ ],
+ "original_title": "Nomura Explores Possible Sale of Laser Digital Crypto Unit",
+ "lang": "en",
+ "published": "2026-11-11T18:31:35+00:00",
+ "created": "2026-11-11T18:48:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

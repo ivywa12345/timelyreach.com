@@ -1,0 +1,26 @@
+{
+ "key": "46bfebc337",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/earnings/openai-continues-to-suffer-heavy-losses-as-revenue-rises-to-10-billion-d2a96bbb?mod=rss_Technology",
+ "title": "收入飙到100亿美元，OpenAI怎么还在疯狂亏钱？",
+ "summary": "OpenAI虽然今年收入达到了100亿美元，并且改善了调整后的运营利润率，但由于研发成本高昂，目前距离真正盈利依然十万八千里。",
+ "body": [
+  "据《华尔街日报》报道（作者：Berber Jin），大火的人工智能公司OpenAI最近交出了最新的财务账单：公司收入已经飙升到了100亿美元（约合人民币700多亿元），而且调整后的运营利润率也有所改善。",
+  "不过，光鲜的收入背后，OpenAI依然在承受着沉重的亏损，离真正实现盈利还有相当长的一段路要走。这也反映出当前AI大模型研发和运营的烧钱速度，远超普通人的想象。",
+  "对于咱们海外华人来说，AI技术虽然让生活和工作越来越方便，但像OpenAI这样靠不断融资和高额投入来维持的巨头，未来是否会调整收费策略、推出更贵的会员服务，还得咱们擦亮眼睛看紧自己的钱包。"
+ ],
+ "tags": [
+  "OpenAI",
+  "人工智能",
+  "科技财经",
+  "华尔街日报"
+ ],
+ "original_title": "OpenAI Continues to Suffer Heavy Losses as Revenue Rises to $10 Billion",
+ "lang": "en",
+ "published": "2026-11-11T01:02:00+00:00",
+ "created": "2026-11-11T18:42:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

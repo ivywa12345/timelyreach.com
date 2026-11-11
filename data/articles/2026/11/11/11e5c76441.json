@@ -1,0 +1,26 @@
+{
+ "key": "11e5c76441",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/dangote-cement-shelves-secondary-london-listing-b50c3fa5?mod=rss_markets_main",
+ "title": "突然变卦！非洲水泥巨头丹格特水泥取消伦敦二次上市计划",
+ "summary": "尼日利亚上市公司丹格特水泥（Dangote Cement）宣布取消在伦敦证券交易所进行二次上市的计划，具体原因归咎于当前的市场状况，但未透露更多细节。",
+ "body": [
+  "据《华尔街日报》报道，在尼日利亚上市的行业巨头丹格特水泥（Dangote Cement）近日踩了急刹车，放弃了去伦敦证券交易所（London Stock Exchange）进行二次上市的计划。",
+  "该公司对此给出的理由是“当前的市场状况”，不过并没有过多的解释具体遇到了什么坎。作为非洲知名的水泥制造商，这一举动也让外界对目前的国际资本市场环境产生了一些联想。",
+  "虽然这是一家非洲企业远赴欧洲上市的商业决策，但全球资本市场的风吹草动往往也会影响到整体的投资情绪和宏观经济走势。"
+ ],
+ "tags": [
+  "海外财经",
+  "股票市场",
+  "伦敦证交所",
+  "丹格特水泥"
+ ],
+ "original_title": "Dangote Cement Shelves Secondary London Listing",
+ "lang": "en",
+ "published": "2026-11-11T07:35:00+00:00",
+ "created": "2026-11-11T18:44:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

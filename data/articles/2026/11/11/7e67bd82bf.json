@@ -1,0 +1,27 @@
+{
+ "key": "7e67bd82bf",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-11/lithium-americas-shares-sink-as-us-backed-mine-costs-rise",
+ "title": "美国造锂想摆脱中国，结果先被特朗普的关税坑惨了？",
+ "summary": "被美国寄予厚望的内华达州锂矿项目原本用来打破对中国的依赖，不料却面临特朗普政府关税带来的成本飙升困境。",
+ "body": [
+  "美国想靠本土挖矿摆脱对中国电池关键矿产的依赖，但这盘棋现在遇到了麻烦。根据彭博社报道，备受美国政府支持的锂矿企业美洲锂业公司（Lithium Americas Corp.）最近被特朗普政府的关税政策搞得焦头烂额，成本大幅飙升。",
+  "作为美国本土电池供应链的核心希望，美洲锂业公司的内华达州锂矿项目原本被视为降低中国依赖的关键一步。然而，现实却给雄心勃勃的计划泼了冷水，关税带来的额外成本让项目开销直线上升。",
+  "对于关注新能源产业和美国本土经济的海外华人来说，这类供应链项目的成本变化往往会直接影响到未来新能源汽车的价格以及相关清洁能源政策的推进，值得持续关注。"
+ ],
+ "tags": [
+  "美洲锂业",
+  "特朗普关税",
+  "新能源",
+  "电池供应链",
+  "中美竞争"
+ ],
+ "original_title": "US-Backed Lithium Americas Hit by Rising Costs on Trump Tariffs",
+ "lang": "en",
+ "published": "2026-11-11T14:53:13+00:00",
+ "created": "2026-11-11T18:49:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

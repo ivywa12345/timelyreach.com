@@ -1,0 +1,27 @@
+{
+ "key": "276acf9685",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-11/chile-copper-giant-s-woes-put-private-capital-taboo-in-spotlight",
+ "title": "智利铜矿巨头要卖股份？这在当地可是个惊天大雷！",
+ "summary": "智利财政部长的一番表态打破了数十年的禁忌，暗示可能允许私人资本注入国有铜矿巨头Codelco，引发了当地对该国核心资产未来的激烈争论。",
+ "body": [
+  "说到智利的国家命脉，国营铜矿巨头Codelco绝对排第一。不过最近，这家老牌企业可能要迎来大变天了。",
+  "根据彭博社的报道，智利财政部长豪尔赫·基罗斯（Jorge Quiroz）近日公开松口，表示不排除引入私人资本进入这家铜矿巨头的可能性。要知道，在智利，让私人资本染指Codelco长期以来是个绝对的“政治禁忌”，这次部长表态一出，立刻在当地政商界炸开了锅，关于这家国企未来的争论正在急剧升温。",
+  "对于海外华人特别是关注拉美经贸和全球大宗商品走向的朋友来说，南美铜矿政策的变动往往会直接牵动国际铜价的神经，进而影响到下游制造业和相关投资的成本。后续智利政府会如何顶住压力推进改革，我们将持续关注。"
+ ],
+ "tags": [
+  "智利",
+  "Codelco",
+  "铜矿",
+  "私人资本",
+  "海外财经"
+ ],
+ "original_title": "Chile Copper Giant’s Woes Put Private Capital Taboo in Spotlight",
+ "lang": "en",
+ "published": "2026-11-11T18:36:51+00:00",
+ "created": "2026-11-11T18:43:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

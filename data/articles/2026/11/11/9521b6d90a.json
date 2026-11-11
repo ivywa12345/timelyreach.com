@@ -1,0 +1,26 @@
+{
+ "key": "9521b6d90a",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-11/drone-attack-sparks-fire-at-russia-s-ust-luga-port-injures-3",
+ "title": "俄乌边谈边打？乌克兰无人机直接轰了俄罗斯波罗的海大码头！",
+ "summary": "乌克兰承认对俄罗斯波罗的海主要大宗商品出口枢纽乌斯季卢加港的石油基础设施发动了无人机袭击，而当时莫斯科和基辅正通过美国在阿联酋进行和平会谈。",
+ "body": [
+  "据彭博社报道，乌克兰方面近日表示，他们出动无人机袭击了位于俄罗斯波罗的海的乌斯季卢加港（Ust-Luga）的石油基础设施。这里是俄罗斯在波罗的海地区最重要的大宗商品出口枢纽之一。",
+  "有意思的是，这次袭击发生时，莫斯科和基辅方面正好在阿联酋（UAE）举行由美国从中斡旋的和平会谈，可谓是典型的“边谈边打”。",
+  "对于在海外特别是关注国际能源市场的华人来说，俄乌冲突持续升级并波及核心能源枢纽，意味着国际油价和相关能源供应链可能继续随着战局神经紧绷，大家的油袋子和生活成本随时可能受到波动影响。"
+ ],
+ "tags": [
+  "俄乌冲突",
+  "无人机袭击",
+  "能源市场",
+  "海外华人"
+ ],
+ "original_title": "Russia’s Baltic Commodity Hub Set on Fire After Drone Attack",
+ "lang": "en",
+ "published": "2026-11-11T05:18:51+00:00",
+ "created": "2026-11-11T18:43:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

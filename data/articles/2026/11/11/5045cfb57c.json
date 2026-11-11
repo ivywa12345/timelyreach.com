@@ -1,0 +1,26 @@
+{
+ "key": "5045cfb57c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-11/funds-warn-brazil-126-billion-stock-market-rout-isn-t-over-yet",
+ "title": "巴西股市跌惨了！1260亿美元蒸发，大金主警告：这才刚开始？",
+ "summary": "自卢拉再度当选巴西总统以来，该国资产遭遇惨烈抛售，市值已蒸发1260亿美元。当地多位顶级基金经理警告称，这场把几个月涨幅全吞掉的跌势远未结束，未来可能还会更糟。",
+ "body": [
+  "最近关注拉美市场的海外投资者可能有点心惊肉跳。据彭博社报道，自从卢拉（Luiz Inácio Lula da Silva）再度当选巴西总统后，该国的股市和资产就遭遇了无情抛售，目前已经有高达1260亿美元的市值打了水漂。",
+  "更让人揪心的是，当地几家最大型的资产管理机构负责人纷纷表示，这波行情不仅抹去了前几个月的涨幅，而且跌势恐怕还没到头，未来甚至还有进一步恶化的风险。",
+  "对于海外华人投资者来说，新兴市场资产的剧烈波动往往伴随着汇率和宏观经济的连锁反应。虽然这主要是巴西国内政治和经济政策引发的风暴，但在全球化资产配置的时代，多留心这类高风险市场的动向，对守住自己的钱包总归没坏处。"
+ ],
+ "tags": [
+  "巴西股市",
+  "海外投资",
+  "金融市场",
+  "卢拉"
+ ],
+ "original_title": "Funds Warn Brazil $126 Billion Stock Market Rout Isn’t Over",
+ "lang": "en",
+ "published": "2026-11-11T13:48:11+00:00",
+ "created": "2026-11-11T18:45:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

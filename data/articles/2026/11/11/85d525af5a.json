@@ -1,0 +1,27 @@
+{
+ "key": "85d525af5a",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-bank-pharma-stocks-2c6e1b38?mod=rss_markets_main",
+ "title": "AI概念又行了？欧洲芯片股集体大涨，全靠这家公司点燃热情！",
+ "summary": "受云计算公司CoreWeave亮眼业绩的带动，欧洲半导体公司股价迎来普遍上涨，市场对人工智能（AI）的热情再次被点燃。",
+ "body": [
+  "最近，欧洲的芯片股又迎来了一波上涨行情。根据《华尔街日报》的报道，这主要是因为一家名为CoreWeave的云计算公司交出了一份相当不错的成绩单，让大家对人工智能（AI）板块的信心瞬间回血。",
+  "在这份好业绩的刺激下，投资者对AI产业链的兴趣再次被调动起来，直接带动了欧洲半导体板块的股价走高。这也说明，市场对AI基础设施的需求依然非常强劲。",
+  "对于海外华人来说，科技板块的这些波动直接关系到大家的投资账户和行业风向。AI赛道看来短期内热度不减，相关产业链的动态依然值得持续关注。"
+ ],
+ "tags": [
+  "欧洲芯片股",
+  "人工智能",
+  "CoreWeave",
+  "半导体",
+  "海外投资"
+ ],
+ "original_title": "European Chip Stocks Climb After CoreWeave Results Fuel AI Optimism",
+ "lang": "en",
+ "published": "2026-11-11T09:25:00+00:00",
+ "created": "2026-11-11T18:42:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

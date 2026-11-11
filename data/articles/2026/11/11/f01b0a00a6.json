@@ -1,0 +1,27 @@
+{
+ "key": "f01b0a00a6",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/polands-orlen-cancels-qatar-lng-supply-deal-after-months-of-force-majeure-88f37e7b?mod=rss_markets_main",
+ "title": "中东局势烧到欧洲！波兰能源巨头直接砍掉卡塔尔LNG长期合同",
+ "summary": "波兰国有能源公司 Orlen 经历了几个月的不可抗力状态后，正式取消了与卡塔尔能源公司（QatarEnergy）的长期液化天然气（LNG）供应协议。这是自伊朗战争爆发以来，已知的首起取消与该出口商协议的事件。",
+ "body": [
+  "据《华尔街日报》报道，波兰能源巨头 Orlen 近日做出了一个重大决定：彻底取消与卡塔尔能源公司（QatarEnergy）的长期液化天然气（LNG）供应合同。此前，双方的这项合作已经陷入长达数月的不可抗力（force majeure）状态。",
+  "值得注意的是，这也是自伊朗战争爆发以来，外界首次获悉有买家直接取消与这家中东能源出口巨头的长期供应协议。这表明地缘政治冲突对全球能源供应链的冲击正在从口头担忧转化为切实的合同撕毁。",
+  "对于远在海外的华人来说，虽然这起事件发生在欧洲和中东之间，但全球能源市场的波动往往会产生连锁反应。天然气和石油价格的剧烈震荡最终可能传导至日常的电费、燃气费乃至整体通胀水平，大家的钱包和生活成本仍需密切关注。"
+ ],
+ "tags": [
+  "能源危机",
+  "波兰",
+  "卡塔尔",
+  "天然气",
+  "国际新闻"
+ ],
+ "original_title": "Poland’s Orlen Cancels Qatar LNG Supply Deal After Months of Force Majeure",
+ "lang": "en",
+ "published": "2026-11-11T15:23:00+00:00",
+ "created": "2026-11-11T18:49:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
