@@ -1,0 +1,23 @@
+{
+ "key": "d44fcdef3f",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2120328405283680517",
+ "title": "纽约时报：美商务部曾批准向不存在或受制裁的中企出售英伟达芯片",
+ "summary": "据《纽约时报》报道，美国商务部曾批准向不存在、受制裁或与军方有关联的中国公司出售英伟达芯片，出口管制存在漏洞。",
+ "body": [
+  "据《纽约时报》报道，美国商务部曾批准向不存在、受制裁或与军方有关联的中国公司出售英伟达芯片。出口管制的墙上开了一扇门。"
+ ],
+ "tags": [
+  "英伟达",
+  "芯片",
+  "中美"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-11T01:31:00+00:00",
+ "created": "2026-11-12T01:38:37+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
