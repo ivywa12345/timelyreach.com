@@ -1,0 +1,20 @@
+{
+  "title": "谷歌发布决策模型Gemini Decision 1",
+  "summary": "谷歌推出Gemini API新的前沿决策模型Gemini Decision 1，每百万输入tokens仅0.10美元，支持多模态输入。",
+  "body": [
+    "我们推出Gemini Decision 1，这是Gemini API中新的前沿决策模型。",
+    "它的价格为每100万输入tokens 0.10美元，无额外费用。原生支持图像、音频、视频和PDF，上下文窗口为25.6万tokens，支持1000个问题。",
+    "你可以在API中免费试用！"
+  ],
+  "images": [
+    "https://pbs.twimg.com/media/HW3Mvh9aoAAmICR.jpg"
+  ],
+  "source_name": "谷歌",
+  "source_url": "https://x.com/OfficialLoganK/status/2120581433639198885",
+  "board": "finance",
+  "tags": [
+    "人工智能",
+    "谷歌"
+  ],
+  "created": "2026-11-11T18:16:26Z"
+}
