@@ -1,0 +1,28 @@
+{
+ "key": "303d4edf2c",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/markets/jensen-huang-resigns-ceo-nvidia-stock-plunges",
+ "title": "突发！黄仁勋辞去英伟达CEO，AI巨头变天引发股价崩盘",
+ "summary": "AI芯片霸主英伟达（NVIDIA）正式宣布，创始人黄仁勋（Jensen Huang）即日起辞去总裁、CEO及董事职务。此举源于黄仁勋陷入婚外情丑闻及相关国家安全调查，公司股价受此冲击一度暴跌，市值蒸发数千亿美元。",
+ "body": [
+  "谁也没想到，AI时代的领军人物黄仁勋（Jensen Huang）会以这种方式离场。在执掌英伟达（NVIDIA）33年并将其一手打造为全球科技霸主后，黄仁勋在巨大的舆论压力和董事会调查中黯然辞职。",
+  "这场危机的导火索始于今年10月底。先是《纽约时报》报道称，美国情报部门怀疑黄仁勋与新加坡公司Megaspeed的一名中国高管Alice Huang关系密切，甚至可能涉及国家安全问题。随后，黄仁勋在11月初发信承认自己“对妻子不忠”，随即又被曝出与公司内部高管、医疗保健业务副总裁Kimberly Powell存在婚外情。不仅如此，美国国会议员和联邦调查局（FBI）也已介入，针对芯片出口管制等问题展开调查，民主党参议员伊丽莎白·沃伦（Elizabeth Warren）更公开表示，离职并不代表他可以逃避国会的质询。",
+  "受丑闻影响，英伟达股价持续震荡下跌，较此前高位已回落超过35%，创下2025年7月以来的最低点。目前，英伟达董事会已宣布由现任首席财务官Colette Kress担任临时CEO，并任命Harvey C. Jones为公司历史上首位董事会主席。公司高层表示，目前运营一切照旧，并将启动全球寻觅正式继任者的计划。",
+  "对于在美华人及投资者而言，这无疑是一个重磅震动。黄仁勋作为英伟达的核心灵魂，其突然离职意味着公司进入了极高的“创始人风险”时期。近期手握英伟达股票的华人投资者需密切关注即将到来的财报，以及公司在寻找接班人过程中的动荡表现。科技行业的格局正在重写，这场高层地震后续是否会影响美中科技博弈的出口限制政策，还有待进一步观察。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "科技新闻",
+  "美股",
+  "AI芯片"
+ ],
+ "original_title": "Jensen Huang Resigns As CEO Of Nvidia, Stock Plunges",
+ "lang": "en",
+ "published": "2026-11-12T14:50:00+00:00",
+ "created": "2026-11-12T15:48:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

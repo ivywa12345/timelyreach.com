@@ -1,0 +1,27 @@
+{
+ "key": "865032faf8",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/israel-strikes-gaza-hospital-killing-at-least-six-e01ebd5f?mod=rss_worldnews",
+ "title": "加沙医院遭以军空袭致至少6人死亡，特朗普和平计划进程受阻",
+ "summary": "以色列军队空袭了加沙的一所医院，造成至少6人死亡。以方称此次袭击的目标是哈马斯武装人员，而这一冲突升级正值特朗普的加沙和平计划陷入停滞之际。",
+ "body": [
+  "据《华尔街日报》报道，加沙地带的一所医院近日遭到以军空袭，导致至少6人死亡。根据以色列军方的说法，这次军事行动的目标是隐藏在其中的哈马斯（Hamas）武装分子。",
+  "值得注意的是，这次袭击发生时，外界对特朗普（Donald Trump）提出的加沙和平计划的推动工作正陷入僵局，局势的发展让本已脆弱的和平前景更加扑朔迷离。",
+  "对于远在海外的华人来说，中东局势的持续动荡不仅牵动着国际能源市场的神经，也可能对全球地缘政治和经济预期产生潜在影响。"
+ ],
+ "tags": [
+  "中东局势",
+  "以色列",
+  "加沙",
+  "哈马斯",
+  "特朗普"
+ ],
+ "original_title": "Israel Strikes Gaza Hospital, Killing at Least Six",
+ "lang": "en",
+ "published": "2026-11-12T13:01:00+00:00",
+ "created": "2026-11-12T15:39:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

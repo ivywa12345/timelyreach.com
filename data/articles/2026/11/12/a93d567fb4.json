@@ -1,0 +1,22 @@
+{
+ "key": "a93d567fb4",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/ukraine-says-its-military-starlink-is-disrupted-again-hurting-defenses-bfb00a64?mod=rss_worldnews",
+ "title": "乌克兰称其军用星链再次中断，影响了国防",
+ "summary": "依靠SpaceX的Starlink服务的军用版本Starshield的无人机，如果飞行速度超过每小时100英里，就会失去连接。",
+ "body": [
+  "依靠SpaceX的Starlink服务的军用版本Starshield的无人机，如果飞行速度超过每小时100英里，就会失去连接。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Ukraine Says Its Military Starlink Is Disrupted Again, Hurting Defenses",
+ "lang": "en",
+ "published": "2026-11-12T11:40:00+00:00",
+ "created": "2026-11-12T15:50:03+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

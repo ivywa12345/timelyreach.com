@@ -1,0 +1,22 @@
+{
+ "key": "400d2dfb52",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-12/sales-of-existing-us-homes-tumble-to-lowest-level-since-2010",
+ "title": "美国现有房屋销售额降至2010年以来的最低水平",
+ "summary": "上个月，美国二手房销售额降至16年来的最低水平，原因是关于抵押贷款利率和通胀的一系列负面消息令潜在买家望而却步。",
+ "body": [
+  "上个月，美国二手房销售额降至16年来的最低水平，原因是关于抵押贷款利率和通胀的一系列负面消息令潜在买家望而却步。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Sales of Existing US Homes Tumble to Lowest Level Since 2010",
+ "lang": "en",
+ "published": "2026-11-12T15:00:00+00:00",
+ "created": "2026-11-12T15:50:19+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
