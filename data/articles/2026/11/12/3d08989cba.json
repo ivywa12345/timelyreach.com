@@ -1,0 +1,27 @@
+{
+ "key": "3d08989cba",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-12/democrats-affordability-vows-face-reality-test-in-new-congress",
+ "title": "天天喊着帮你省钱，民主党重返国会后能兑现承诺吗？",
+ "summary": "民主党在竞选时主打生活成本和物价牌大获成功，但随着他们即将迎来国会多数党地位，这些缓解生活压力的承诺即将迎来国会的现实大考。",
+ "body": [
+  "在刚刚过去的选举中，主打“生活负担能力（Affordability）”和降低生活成本无疑是民主党候选人们最聪明的竞选策略。靠着这一招，他们成功吸引了无数为高物价头疼的选民。",
+  "不过，据彭博社报道（作者：Ted Mann、Yash Roy 和 Jennifer A. Dlouhy），随着新一届国会即将开幕，民主党人即将迎来真正的“现实测试”。竞选时的豪言壮语谁都会说，但要在国会山通过实打实的法案、真正帮老百姓减轻钱包负担，可就没那么容易了。",
+  "对于咱们海外华人来说，无论是日常买菜、房贷还是孩子教育，生活成本一直是大家最关心的头等大事。民主党这次在国会能不能拿出真金白银的政策，还是仅仅停留在口头上，直接关系到咱们每个人的切实利益，接下来必须得好好盯紧国会的动作了。"
+ ],
+ "tags": [
+  "美国政治",
+  "生活成本",
+  "国会",
+  "民主党",
+  "海外华人"
+ ],
+ "original_title": "Democrats’ Affordability Vows Face Reality Test in Congress",
+ "lang": "en",
+ "published": "2026-11-12T11:00:00+00:00",
+ "created": "2026-11-12T18:41:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

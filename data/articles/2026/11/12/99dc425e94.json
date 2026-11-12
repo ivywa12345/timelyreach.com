@@ -1,0 +1,27 @@
+{
+ "key": "99dc425e94",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
+ "title": "“大数据杀熟”成惊弓之鸟？别慌，这事儿还没你想的那么恐怖",
+ "summary": "最近关于“个性化定价”的恐慌席卷欧美，政客们纷纷出手喊打。但经济学界认为，这种担心其实是多虑了。",
+ "body": [
+  "最近在欧美圈子里，关于“个性化定价”（personalised pricing）的讨论炸开了锅。很多人担心，那些手握算法的互联网公司会通过数据分析，精准捕捉消费者的心理底价，从而让你掏出更多的冤枉钱。政客们看着这股民愤，也忙着站出来表态，试图立法限制这种操作。",
+  "不过，《经济学人》（The Economist）给这波热度泼了一盆冷水。文章认为，目前针对个性化定价的恐慌有点反应过度了。虽然技术的进步确实让企业有了“看人下菜碟”的潜能，但在现实中，无论是从技术难度还是商业逻辑来看，大规模、无差别的宰客行为其实并不容易实现。",
+  "对于咱们在美华人来说，日常网购或者订机票酒店时，总会有种“刚搜完就涨价”的错觉。虽然这种焦虑很真实，但专家指出，市场的竞争压力往往会限制企业胡乱定价的冲动。与其担心被算法算计，不如多对比几家平台，掌握主动权依然是咱们消费者保护钱包的最强手段。"
+ ],
+ "tags": [
+  "消费维权",
+  "大数据杀熟",
+  "经济观察",
+  "算法",
+  "海外生活"
+ ],
+ "original_title": "The panic over personalised pricing is overdone",
+ "lang": "en",
+ "published": "2026-11-12T14:08:53+00:00",
+ "created": "2026-11-12T18:40:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

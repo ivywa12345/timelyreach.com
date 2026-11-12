@@ -1,0 +1,27 @@
+{
+ "key": "47d9ada5c4",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_markets_main",
+ "title": "靠律所机密消息大赚？顶级律所Cravath员工卷入内幕交易被控",
+ "summary": "顶级律所Cravath的一名员工被指控利用职务之便窃取并购内幕信息进行股票交易，非法获利7万美元，目前已面临检方起诉。",
+ "body": [
+  "在法律界被称为“红圈”级别的顶级律所Cravath, Swaine & Moore，最近摊上大事了。据《华尔街日报》（The Wall Street Journal）报道，该所的一名员工因涉嫌利用公司掌握的机密并购信息，进行内幕交易并获利约7万美元，目前已被检方正式提起刑事指控。",
+  "检方指出，这名员工在工作中接触到了大量客户并购案的内幕信息，其中就包括派拉蒙全球（Paramount Global）收购华纳兄弟（Warner Bros. Discovery）等重磅交易。该员工利用这些尚未公开的信息提前入场操作股票，从而非法牟利。",
+  "这件事对在美华人圈敲响了警钟。对于在金融、法律或咨询行业工作的华人来说，合规底线是职业生涯的“保命符”。即便面对动辄几万美元的诱惑，触碰内幕交易的红线不仅意味着丢掉体面的高薪工作，更会面临牢狱之灾和长期的法律官司，代价远超那点不义之财。"
+ ],
+ "tags": [
+  "内幕交易",
+  "职场合规",
+  "法律界",
+  "美国新闻",
+  "Cravath"
+ ],
+ "original_title": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
+ "lang": "en",
+ "published": "2026-11-12T17:25:00+00:00",
+ "created": "2026-11-12T18:39:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

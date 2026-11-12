@@ -1,0 +1,27 @@
+{
+ "key": "efcd2b895a",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/jensen-huang-nvidia-ceo-departs-bef1b4bb?mod=rss_Technology",
+ "title": "从游戏显卡到AI霸主，英伟达老黄是如何改变世界的？",
+ "summary": "英伟达（Nvidia）的首位且唯一一位CEO黄仁勋（Jensen Huang），凭借前瞻性的眼光，将原本用于电子游戏的芯片变成了驱动全球AI革命的核心引擎。",
+ "body": [
+  "如果你最近关注美股或科技圈，一定绕不开“英伟达”（Nvidia）这个名字。这家由黄仁勋（Jensen Huang）一手创立的芯片巨头，如今已经成了人工智能（AI）领域的绝对核心。很难想象，当初这家公司最初只是为了让游戏画面更逼真而设计显卡，如今却成了全球算力不可或缺的基石。",
+  "黄仁勋不仅是英伟达的创始人，更是公司成立至今唯一的掌门人。他敏锐地捕捉到了GPU（图形处理器）在并行计算上的潜力，并将其成功转型为支撑ChatGPT、自动驾驶等尖端技术运行的“大脑”。没有英伟达提供的强悍算力，如今这波轰轰烈烈的AI浪潮可能根本无从谈起。",
+  "对于在美华人来说，英伟达的故事不仅是一个励志的商业传奇，更直接影响着我们的生活。作为科技投资者的重要风向标，它的股价波动牵动着无数人的“钱包”；同时，英伟达引领的AI热潮正在重塑硅谷的就业格局，对相关领域的程序员和工程师而言，这既是机遇也是挑战。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "人工智能",
+  "科技投资",
+  "美股"
+ ],
+ "original_title": "Jensen Huang Built Nvidia. Its Chips Made the AI Boom Possible.",
+ "lang": "en",
+ "published": "2026-11-12T17:57:00+00:00",
+ "created": "2026-11-12T18:38:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

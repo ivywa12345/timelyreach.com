@@ -1,0 +1,27 @@
+{
+ "key": "31422f4ba8",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/hiking-the-minimum-wage-isnt-affordable-cee17e64?mod=rss_opinion",
+ "title": "快餐工资涨到20美元，最后买单的还是咱们消费者？",
+ "summary": "随着最低时薪标准不断上调，快餐业的人力成本大幅增加，而这些成本最终往往通过涨价转嫁到了普通消费者身上。",
+ "body": [
+  "最近关于最低时薪的讨论又热了起来。根据《华尔街日报》（The Wall Street Journal）专栏作家迈克尔·萨尔茨曼（Michael Saltsman）的观点，当快餐店煎汉堡的员工时薪被强制要求涨到20美元时，这笔账最终还是会算在顾客头上。",
+  "简单来说，这其实是一个简单的商业逻辑：当经营成本——特别是劳动力成本大幅上升时，商家为了维持利润率，不得不采取行动。既然店租和原材料成本很难压下去，最直接的办法就是提高菜单价格。结果就是，大家平时点的一份汉堡套餐，价格可能比以前贵了不少。",
+  "对于在美华人来说，这不仅仅是一个经济理论问题，而是直接关系到大家的“钱包”。随着物价上涨，快餐等便民消费变得越来越贵，如果这种趋势持续，咱们的生活成本势必会进一步增加。看来，在享受便利服务的同时，大家可能得提前做好为“高工资”买单的心理准备了。"
+ ],
+ "tags": [
+  "最低时薪",
+  "通货膨胀",
+  "快餐",
+  "生活成本",
+  "美国经济"
+ ],
+ "original_title": "Hiking the Minimum Wage Isn’t Affordable",
+ "lang": "en",
+ "published": "2026-11-11T22:04:00+00:00",
+ "created": "2026-11-12T18:39:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

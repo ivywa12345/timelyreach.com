@@ -1,0 +1,27 @@
+{
+ "key": "de365d381c",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/military/zelensky-complains-about-starshield-disruptions-again",
+ "title": "马斯克的“星盾”又不灵了？泽连斯基怒指被“限速”，前线防空成大难题",
+ "summary": "乌克兰总统泽连斯基近日再次公开抱怨，称马斯克旗下的“星盾”卫星系统在乌克兰全境出现严重干扰。他指责这并非系统故障，而是人为的“系统性限速”，导致乌军拦截俄军无人机时因网速受限而力不从心。",
+ "body": [
+  "据乌克兰总统泽连斯基（Volodymyr Zelensky）在社交媒体X上透露，近几天来，乌军在整个前线及俄控区域记录到“星盾”（Starshield，马斯克旗下星链的军用版）运行出现重大干扰。泽连斯基强调，这绝非随机错误，而是有人故意进行的“系统性限速”。",
+  "问题的核心在于，这些限速直接影响了作战效率。乌方指出，由于系统网速被限制，导致乌军拦截无人机的设备无法达到所需的速度，难以拦截俄方喷气式自杀式无人机。这已经是上个月以来乌克兰第二次就“星盾”限速问题发出公开警告。",
+  "外界分析认为，这可能与美国特朗普（Trump）政府施压、试图给乌克兰的进攻行动“降温”有关。目前，美国特使斯蒂夫·威特科夫（Steve Witkoff）和贾里德·库什纳（Jared Kushner）已奔赴莫斯科与普京会面，随后还将前往都柏林会见泽连斯基。库什纳坦言，目前双方之间几乎没有任何信任可言。随着美国大选后国际局势的微妙变化，这类关键技术的供应波动，也让前线战况变得更加扑朔迷离。"
+ ],
+ "tags": [
+  "马斯克",
+  "星盾",
+  "泽连斯基",
+  "俄乌冲突",
+  "特朗普政府"
+ ],
+ "original_title": "Zelensky Complains About Starshield \"Disruptions\" (Again)",
+ "lang": "en",
+ "published": "2026-11-12T18:05:00+00:00",
+ "created": "2026-11-12T18:44:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

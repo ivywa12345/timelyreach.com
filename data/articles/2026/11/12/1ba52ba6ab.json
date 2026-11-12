@@ -1,0 +1,26 @@
+{
+ "key": "1ba52ba6ab",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+ "title": "美联储主席大动作！2027年10月会议将取消利率投票",
+ "summary": "美联储宣布将调整会议日程，2027年10月的会议将不进行利率投票或发表会后声明，专门留作讨论宏观货币政策战略。此举是主席凯文·沃什（Kevin Warsh）精简央行沟通、减少市场干预计划的一部分。",
+ "body": [
+  "美联储（Federal Reserve）近日宣布了一项政策调整：在2027年10月26日至27日的会议上，将不会对潜在的利率变动进行投票。这是美联储主席凯文·沃什（Kevin Warsh）为减少央行在市场上的足迹而采取的更广泛举措之一。",
+  "按照常规，美联储一年会开八次会，每次会后都会进行利率投票并召开新闻发布会。但在调整后的2027年日程中，全年将只有七次投票会议，10月的会议被设置为“额外时间”，不进行正式投票或发表会后声明，主要用于讨论广泛的货币政策战略问题。此外，2027年的最后一次会议提前到了11月，而不是以往的12月。",
+  "沃什在解释原因时表示，正确的政策不仅需要评估近期发展，同样重要的是为多元化的决策团队保留时间和空间进行战略深思、思考大问题并放眼更长的远期视野。他此前曾批评美联储过去的沟通策略，认为过多的政策指引反而束缚了手脚。自他上任以来，会后声明已经大幅缩短，新闻发布会的问答时间也被缩减。沃什表示，调整会议日程不仅是行政细节，更是为了提高决策质量的一项制度选择。"
+ ],
+ "tags": [
+  "美联储",
+  "利率政策",
+  "凯文·沃什",
+  "财经新闻"
+ ],
+ "original_title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+ "lang": "en",
+ "published": "2026-11-12T18:26:52+00:00",
+ "created": "2026-11-12T18:41:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

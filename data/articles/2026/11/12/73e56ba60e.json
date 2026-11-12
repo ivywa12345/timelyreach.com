@@ -1,0 +1,27 @@
+{
+ "key": "73e56ba60e",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/articles/praise-was-heaped-on-jensen-huang-that-might-be-part-of-the-problem-4cfa876c?mod=rss_markets_main",
+ "title": "把黄仁勋捧上神坛，可能是英伟达最大的隐患？",
+ "summary": "华尔街日报分析指出，外界对英伟达CEO黄仁勋的过度赞誉和个人崇拜，可能掩盖了这家芯片巨头面临的潜在风险和挑战。",
+ "body": [
+  "最近这几年，芯片巨头英伟达（Nvidia）的风头可以说是一时无两，CEO黄仁勋（Jensen Huang）更是被捧上了神坛，走到哪都是焦点。不过，华尔街日报（Wall Street Journal）最近的一篇分析文章指出，这种铺天盖地的赞誉和近乎个人崇拜的现象，其实可能正是问题的一部分。",
+  "作为人工智能（AI）浪潮背后的最大赢家，英伟达的市值一路狂飙，黄仁勋也成了科技界的超级明星。但文章认为，当一家公司的成功被过度系于某一个领袖身上时，外界和内部都会忽视其他潜在的危机，比如市场竞争加剧、供应链压力以及监管风险等。",
+  "对于关注科技股和AI发展的海外华人来说，这也给我们敲了个警钟。不管是投资美股还是关注行业动态，不能只看明星光环和情绪面，还得理性看待企业背后的实际风险，毕竟再强悍的神话也需要过硬的业务来支撑。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "美股",
+  "人工智能",
+  "华尔街日报"
+ ],
+ "original_title": "Praise Was Heaped on Jensen Huang. That Might Be Part of the Problem.",
+ "lang": "en",
+ "published": "2026-11-12T12:03:00+00:00",
+ "created": "2026-11-12T18:43:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

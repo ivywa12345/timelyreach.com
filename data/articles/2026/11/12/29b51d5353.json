@@ -1,0 +1,27 @@
+{
+ "key": "29b51d5353",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/the-2027-401-k-limits-are-here-see-how-much-more-you-can-save-next-year-d525768c?mod=mw_rss_topstories",
+ "title": "2027年401(k)存钱额度上调！明年你的退休账户能多存多少钱？",
+ "summary": "美国国税局（IRS）刚刚公布了2027年的退休金账户存钱限额。好消息是，401(k)等福利计划的上限有所提高，但个人退休账户（IRA）的限额则保持不变。",
+ "body": [
+  "如果你是职场打工人，平时习惯通过公司的401(k)退休计划存钱，那有个好消息：2027年你可以往里面多存一点了。根据美国国税局（Internal Revenue Service, IRS）最新发布的数据，随着通胀调整，各类定义贡献计划（Defined-contribution plans）的存钱上限都有不同程度的上涨。",
+  "但对于那些主要依靠个人退休账户（Individual Retirement Account, IRA）进行理财的投资者来说，情况就不太一样了。明年的IRA存钱限额将保持在与今年相同的水平，并不会因为通胀而自动上涨。这意味着如果你是靠IRA存养老钱，明年的策略可能要和今年持平。",
+  "对于在美华人来说，退休金账户是平衡家庭资产、利用税收优惠进行财富积累的重要工具。既然401(k)限额提高了，建议大家在做明年家庭理财规划时，根据新的上限调整每月的自动扣款比例，尽可能把这部分避税额度用足。毕竟，在通胀环境下，多存下的每一分钱，未来都是抗风险的底气。"
+ ],
+ "tags": [
+  "退休规划",
+  "401k",
+  "理财建议",
+  "美国税务",
+  "华人生活"
+ ],
+ "original_title": "The 2027 401(k) limits are here. See how much more you can save next year.",
+ "lang": "en",
+ "published": "2026-11-12T18:19:00+00:00",
+ "created": "2026-11-12T18:39:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

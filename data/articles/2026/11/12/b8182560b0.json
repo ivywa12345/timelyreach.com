@@ -1,0 +1,26 @@
+{
+ "key": "b8182560b0",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+ "title": "美联储提前官宣：2027年议息会议时间表出炉！",
+ "summary": "美联储公布了2027年联邦公开市场委员会（FOMC）会议的修订后暂定日程表，明确了全年货币政策会议的具体召开日期。",
+ "body": [
+  "美国联邦储备委员会（Federal Reserve）在周四正式公布了2027年联邦公开市场委员会（FOMC）会议的修订后暂定日程表。这意味着，未来几年美联储调整货币政策的节奏已经有了初步的时间框架。",
+  "根据官方公布的安排，委员会将按照惯例在每次会议的第二天公布货币政策决定。不过有一个特例：10月26日至27日的会议将专门用于讨论广泛的货币政策战略问题。",
+  "具体的会议日期安排如下：1月26-27日、3月16-17日、4月27-28日、6月8-9日、7月27-28日、9月14-15日、10月26-27日以及11月16-17日。此外，2028年的首场会议定于1月25-26日举行。"
+ ],
+ "tags": [
+  "美联储",
+  "FOMC",
+  "利率政策",
+  "财经快讯"
+ ],
+ "original_title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+ "lang": "en",
+ "published": "2026-11-12T17:45:00+00:00",
+ "created": "2026-11-12T18:42:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

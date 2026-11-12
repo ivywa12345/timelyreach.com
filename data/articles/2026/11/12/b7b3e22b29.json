@@ -1,0 +1,27 @@
+{
+ "key": "b7b3e22b29",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-12/oil-jumps-after-trump-says-us-doesn-t-need-deal-with-iran",
+ "title": "特朗普放狠话：美国才不需要跟伊朗达成协议！油价应声上涨",
+ "summary": "美国总统特朗普表示美国可以不与伊朗达成协议，导致中东局势破局希望渺茫，国际油价随之小幅走高。",
+ "body": [
+  "各位老铁，国际油价又有点蠢蠢欲动了。就在美国总统特朗普（Donald Trump）表态美国完全不需要跟伊朗（Iran）做交易之后，原本紧绷的中东局势更难看到头了，油价也顺势往上涨了一点。",
+  "事情是这样的，这场持续的中东冲突一直让当地的石油供应悬着一颗心，大家本来还盼着能有什么外交突破，结果特朗普这番话直接把大家的期待给浇灭了。他直言不讳地表示，美国根本不需要跟伊朗达成任何协议。",
+  "对咱们海外华人来说，油价这一波动，最直接感受到的可能就是开车出门的油费又要多掏钱了。如果中东局势继续这么僵持下去，难免会对全球能源市场和整体物价产生连锁反应，咱们的钱包怕是又要接受考验了。"
+ ],
+ "tags": [
+  "油价",
+  "特朗普",
+  "伊朗",
+  "中东局势",
+  "海外华人"
+ ],
+ "original_title": "Oil Rises After Trump Declares US Doesn’t Need a Deal With Iran",
+ "lang": "en",
+ "published": "2026-11-12T13:14:35+00:00",
+ "created": "2026-11-12T18:40:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

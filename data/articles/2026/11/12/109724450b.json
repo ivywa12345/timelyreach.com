@@ -1,0 +1,27 @@
+{
+ "key": "109724450b",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/coreweave-balances-capital-needs-against-expanding-data-center-footprint-1933f5b5?mod=rss_markets_main",
+ "title": "英伟达背后的“隐形巨头”CoreWeave，现在正面临什么烦恼？",
+ "summary": "AI算力租赁新贵CoreWeave近期在扩建数据中心与筹集巨额资本之间寻找平衡，这家受到英伟达力挺的公司正处于行业扩张的关键期。",
+ "body": [
+  "在人工智能算力竞赛的浪潮中，除了英伟达（Nvidia），你可能经常听到另一个名字：CoreWeave。这家专门提供AI算力租赁服务的公司，正忙着在全球各地疯狂扩建数据中心。",
+  "最新消息显示，CoreWeave目前正面临着严峻的资本考验。随着AI大模型训练对算力需求的爆发式增长，虽然订单接到手软，但扩建大型数据中心是一项极其烧钱的工程，这对公司的财务规划和资本筹措能力提出了极高要求。",
+  "作为英伟达重点扶持的“亲儿子”级别的合作伙伴，CoreWeave的动向直接影响着AI算力市场的价格和供给。对于在美从事AI相关行业，或关注科技股的华人来说，CoreWeave的扩张节奏直接关系到未来算力成本的波动，以及AI基建板块的投资风向。"
+ ],
+ "tags": [
+  "CoreWeave",
+  "英伟达",
+  "AI算力",
+  "科技新闻",
+  "美股"
+ ],
+ "original_title": "CoreWeave Balances Capital Needs Against Expanding Data Center Footprint",
+ "lang": "en",
+ "published": "2026-11-12T11:38:00+00:00",
+ "created": "2026-11-12T18:44:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

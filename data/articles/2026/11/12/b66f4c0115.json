@@ -1,0 +1,27 @@
+{
+ "key": "b66f4c0115",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+ "title": "别只盯着科技股跌了！美债市场现在有个更让华尔街害怕的事儿",
+ "summary": "虽然近期科技股大跳水让美债成了避风港，但最新的市场动向显示，投资者现在的头号心病已经换成了美联储（Fed）随时可能重启加息的噩梦。",
+ "body": [
+  "前段时间，科技股的一波剧烈回调确实让不少人心惊肉跳，当时很多投资者一股脑儿冲进美债市场避险，觉得这才是最稳的港湾。但风水轮流转，现在的债市情况变了：由于担心美联储为了抗通胀再次加息，美债收益率近期又开始大幅飙升。",
+  "简单来说，市场之前还抱着降息的幻想，现在面对高烧不退的通胀数据和美联储可能继续维持高利率甚至加息的信号，不得不重新定价。当收益率一高，债券价格就跌，这对那些把美债当底仓的投资者来说，着实不是个好消息。",
+  "对于咱们在美华人来说，这件事信号很明确：如果你有房贷还没转固定利率，或者正打算贷款买房，美债收益率上升往往意味着贷款利息难降。另外，如果你平时关注退休金账户或者理财投资，现阶段市场的动荡意味着“高息红利”和“资产价格波动”之间正在博弈，建议大家在资产配置上还是得留个心眼，别盲目入场抄底。"
+ ],
+ "tags": [
+  "美债",
+  "美联储",
+  "投资理财",
+  "通胀",
+  "科技股"
+ ],
+ "original_title": "The bond market now has an even bigger fear than AI fallout",
+ "lang": "en",
+ "published": "2026-11-12T18:08:00+00:00",
+ "created": "2026-11-12T18:44:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

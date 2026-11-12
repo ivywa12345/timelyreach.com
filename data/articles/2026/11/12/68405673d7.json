@@ -1,0 +1,27 @@
+{
+ "key": "68405673d7",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
+ "title": "英伟达“教父”黄仁勋要退休了？接班人面临的是地狱级难度挑战",
+ "summary": "一手打造了AI芯片帝国的“黄教主”黄仁勋（Jensen Huang）迟早会离开英伟达，但这留给接班人的将是科技界最难的一份工作。",
+ "body": [
+  "虽然黄仁勋目前还没有正式敲定退休日期，但《经济学人》（The Economist）最新的一篇深度报道引发了业界的广泛讨论：当一家公司完全围绕着一个富有远见的领袖运转时，一旦他卸任，公司还能保持现在的光环吗？",
+  "目前，黄仁勋在英伟达（Nvidia）内部不仅是CEO，更是核心灵魂。他凭借对图形处理器（GPU）在AI领域潜力的前瞻性押注，将英伟达从一家游戏显卡厂变成了全球市值最高的AI巨头。然而，这种深度绑定也埋下了隐患：未来的继任者不仅要管理庞大的供应链和顶尖的研发团队，还要在竞争对手环伺、全球地缘政治博弈的环境下，维系英伟达在AI算力领域几乎垄断的地位。",
+  "对于我们身在海外的华人来说，英伟达的动向关乎许多人的职业选择和投资组合。如果黄仁勋未来真的退居二线，英伟达能否在没有他这种强力领导的情况下平稳过渡，将直接影响硅谷的招聘环境和科技股的走势。如果你持有大量英伟达股票，或者是在半导体行业打工，这件事确实值得长期关注。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "科技行业",
+  "人工智能",
+  "职业规划"
+ ],
+ "original_title": "Jensen Huang is out. His successor has the toughest job in tech",
+ "lang": "en",
+ "published": "2026-11-12T14:28:59+00:00",
+ "created": "2026-11-12T18:38:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

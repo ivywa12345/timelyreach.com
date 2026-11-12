@@ -1,0 +1,27 @@
+{
+ "key": "82ba770a29",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+ "title": "2027年起转账更贵了？美联储宣布调整支付服务收费，支票业务也有变动",
+ "summary": "美联储宣布将于2027年1月1日起上调银行间支付服务费用，平均涨幅约为1.4%。此外，针对使用量不断萎缩的纸质支票业务，美联储也计划进行流程精简和提价。",
+ "body": [
+  "美联储（Federal Reserve Board）近日发布公告，从2027年元旦开始，将调整为银行和信用合作社提供的支付服务收费标准。这包括了支票清算、自动清算中心（ACH）交易、即时支付以及批发支付结算等业务。根据规定，美联储必须确保长期内通过服务收费覆盖其运营成本，此次调整后，预计2027年将收回101.5%的运营支出，整体服务价格平均上涨1.4%。",
+  "除了常规的价格上调，美联储这次还针对“支票业务”动了大手术。虽然现在电子支付满天飞，但支票依然是不少商户和个人的重要支付手段。为了应对支票处理业务量持续下降的现状，美联储决定通过优化处理时间窗口、提高银行处理费等手段来“瘦身”支票服务体系。",
+  "对于咱们普通华人来说，这次变动虽然直接针对的是银行和信用合作社，但最终这些成本很可能会传导到金融机构的日常运营中。好消息是，美联储明确表示这些变动不会影响个人或企业使用支票支付及收款的能力。不过，如果你平时频繁使用支票业务，建议近期多关注一下所在银行的费率调整公告，以免受到间接影响。"
+ ],
+ "tags": [
+  "美联储",
+  "金融资讯",
+  "支付服务",
+  "个人理财",
+  "支票"
+ ],
+ "original_title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+ "lang": "en",
+ "published": "2026-11-12T18:30:00+00:00",
+ "created": "2026-11-12T18:39:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

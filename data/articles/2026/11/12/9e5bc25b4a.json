@@ -1,0 +1,27 @@
+{
+ "key": "9e5bc25b4a",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
+ "title": "软银这是怎么了？孙正义的AI“豪赌”有点悬！",
+ "summary": "孙正义（Masayoshi Son）对人工智能（AI）领域的全押式投资目前看起来有些不稳，软银正面临诸多不顺。",
+ "body": [
+  "最近，软银集团（SoftBank）的日子可不太好过，各种不顺心的事儿一块儿涌上来了。",
+  "作为掌门人，孙正义（Masayoshi Son）之前把宝全押在了人工智能（AI）赛道上，希望借此翻盘。但从目前的情况来看，这场豪赌的风险正在不断暴露，显得有些摇摇欲坠。",
+  "对于咱们海外华人投资者和关注科技圈的朋友来说，软银的动向往往风向标意义重大。巨头在AI领域的激进扩张如果遇阻，难免会波及相关的科技股和整个市场的神经，大家的钱包和投资策略可能都得跟着捏把汗。"
+ ],
+ "tags": [
+  "软银",
+  "孙正义",
+  "人工智能",
+  "科技投资",
+  "海外财经"
+ ],
+ "original_title": "Everything is going wrong for SoftBank",
+ "lang": "en",
+ "published": "2026-11-12T14:08:53+00:00",
+ "created": "2026-11-12T18:43:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
