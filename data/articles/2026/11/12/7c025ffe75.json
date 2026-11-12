@@ -1,0 +1,27 @@
+{
+ "key": "7c025ffe75",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-12/ukraine-says-starshield-limitations-resumed-for-frontline-troops",
+ "title": "前线乌军网又断了？泽连斯基称Starshield限制重启",
+ "summary": "乌克兰总统泽连斯基表示，前线乌军用于抵御俄军攻击的Starshield互联网终端再次出现了使用限制。",
+ "body": [
+  "据彭博社报道，乌克兰总统泽连斯基（Volodymyr Zelenskyy）近日表示，前线乌克兰军队使用的Starshield互联网终端再次遭遇了限制，这给他们抵御俄军攻击带来了一定的阻碍。",
+  "Starshield是SpaceX旗下Starlink卫星互联网的军事版本，此前曾广泛用于乌克兰前线的军事通信与作战指挥。不过，该系统的使用权限和带宽限制问题此前也曾引发过多方关注与讨论。",
+  "对于在海外关心国际局势的华人来说，俄乌冲突的每一点技术变动都可能牵动全球供应链、能源价格乃至地缘政治的神经，进而对海外华人的生活成本和经济环境产生连锁反应。"
+ ],
+ "tags": [
+  "乌克兰",
+  "Starshield",
+  "俄乌冲突",
+  "泽连斯基",
+  "科技军事"
+ ],
+ "original_title": "Ukraine Says Starshield Limitations Resumed for Frontline Troops",
+ "lang": "en",
+ "published": "2026-11-12T10:03:40+00:00",
+ "created": "2026-11-12T11:11:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

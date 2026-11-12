@@ -1,0 +1,27 @@
+{
+ "key": "bb3ae93b41",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/science-and-technology/2026/11/11/the-blood-brain-barrier-may-contribute-to-cognitive-function",
+ "title": "人的脑子到底是怎么变糊涂的？最新科学发现让人大跌眼镜！",
+ "summary": "根据《经济学人》报道，最新针对小鼠的研究显示，大脑的“血脑屏障”比我们想象的要复杂得多，它可能直接影响着我们的认知功能。",
+ "body": [
+  "说到保护大脑，我们体内其实有一道天然的防线，那就是血脑屏障（blood-brain barrier）。以前科学家觉得它也就是个普通的过滤网，把血液里的有害物质挡在大脑外面。不过，最近对小鼠的新研究发现，这道屏障可聪明复杂多了，它不仅是个门卫，还深度参与了我们的认知功能。",
+  "虽然这项研究目前还主要停留在小鼠实验阶段，但它为医学界理解人类的记忆力和思维能力提供了全新的视角。如果能搞懂这道屏障是怎么影响大脑思考的，以后说不定就能找到对抗认知衰退的新方法。",
+  "对于咱们海外华人来说，平时工作压力大、经常熬夜，脑子有时候觉得不够用。虽然这项基础科学研究离直接应用还有段距离，但保持健康的生活方式、保护好血管和大脑屏障，总归是错不了的。"
+ ],
+ "tags": [
+  "科学研究",
+  "大脑健康",
+  "认知功能",
+  "血脑屏障",
+  "海外生活"
+ ],
+ "original_title": "The blood-brain barrier may contribute to cognitive function",
+ "lang": "en",
+ "published": "2026-11-11T18:11:14+00:00",
+ "created": "2026-11-12T11:13:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

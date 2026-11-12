@@ -1,0 +1,27 @@
+{
+ "key": "a8e33ebc10",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/ai-agent-users-compute-costs-41a5db30?mod=rss_Technology",
+ "title": "大厂都在推AI助手，但这巨额网费到底谁来掏？",
+ "summary": "各大科技公司正争相推出AI智能体（AI Agent），但由于其计算成本极为高昂，目前大厂只能选择将其向高端用户开放，或者严格限制使用权限。",
+ "body": [
+  "现在各大科技公司都在大力推销AI助手，号称要让这些智能体（AI Agent）帮大家处理各种事务。不过，理想很丰满，现实很骨感，这背后的算力成本实在是太高了。",
+  "根据《华尔街日报》记者 Meghan Bobrowsky 的报道，因为这些线上帮手的日常运行需要消耗极其昂贵的计算资源，科技巨头们目前根本无法做到免费普及。为了控制成本，企业要么只把这些功能提供给愿意支付高价的高端用户，要么就得严格限制普通人的访问权限。",
+  "对于咱们海外华人来说，这意味着要想尝鲜最顶尖的AI黑科技，钱包可能要先瘦一圈。未来无论是办公还是日常使用，免费的AI午餐可能会越来越少，高级功能大概率都要和高额订阅费挂钩了。"
+ ],
+ "tags": [
+  "人工智能",
+  "科技巨头",
+  "AI助手",
+  "算力成本",
+  "海外生活"
+ ],
+ "original_title": "Big Tech Wants Everyone to Use an AI Agent. But Who Shoulders the Cost?",
+ "lang": "en",
+ "published": "2026-11-12T03:00:00+00:00",
+ "created": "2026-11-12T11:09:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

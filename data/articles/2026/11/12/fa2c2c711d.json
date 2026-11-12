@@ -1,0 +1,27 @@
+{
+ "key": "fa2c2c711d",
+ "board": "hot",
+ "source_id": "wsj-lifestyle",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/autos/electric-vehicles-pros-cons-438709ac?mod=rss_lifestyle",
+ "title": "电动车到底香不香？听听开了几年电车的过来人怎么说",
+ "summary": "《华尔街日报》专栏作家近期驾驶雪佛兰Bolt电动车穿越美国南部，引发了大量读者关于电动车优缺点的热烈讨论。从充电焦虑到维护成本，这些真实用车心得或许能给正打算买车的你一些参考。",
+ "body": [
+  "最近《华尔街日报》（The Wall Street Journal）的科技专栏作家Christopher Mims开着一台亲民款的雪佛兰Bolt（Chevy Bolt）在美南地区转了一圈，这趟长途实测引来了不少读者的围观。大家纷纷在评论区留言，分享自己作为“电车先驱”的真实血泪史和避坑指南。",
+  "这些读者的反馈主要集中在几个方面：首先是所谓的“续航焦虑”，对于不住在城市中心、周边充电桩匮乏的人来说，长途旅行依然是个挑战；其次是省钱逻辑，虽然电费比油费便宜不少，但保险费用和轮胎磨损可能会抵消掉一部分开支。不过，大部分车主都提到，一旦习惯了在家充电，那种“告别加油站”的爽感确实回不去了。",
+  "对于咱们在美华人来说，这事儿主要得看你的生活方式。如果你家里有车库能装家用充电桩（Level 2 Charger），那电车确实省心省钱；但如果你住的是公寓，或者经常需要长途跨州出差，现阶段换电车还得三思。毕竟，选车不仅是看环保情怀，还得看钱包和充电条件的匹配度。"
+ ],
+ "tags": [
+  "电动车",
+  "汽车选购",
+  "华尔街日报",
+  "用车心得",
+  "生活方式"
+ ],
+ "original_title": "Seven Lessons From WSJ Readers About Switching to an EV",
+ "lang": "en",
+ "published": "2026-11-12T10:30:00+00:00",
+ "created": "2026-11-12T11:09:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

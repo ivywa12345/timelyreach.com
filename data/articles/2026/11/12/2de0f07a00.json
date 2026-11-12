@@ -1,0 +1,27 @@
+{
+ "key": "2de0f07a00",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/11/there-has-never-been-a-scandal-like-the-jensen-huang-affair",
+ "title": "英伟达CEO黄仁勋成了“丑闻”主角？老牌杂志《经济学人》这次玩了个大反转！",
+ "summary": "《经济学人》近日撰文探讨企业危机史，竟将AI教父黄仁勋推到了风口浪尖，但这背后其实另有深意。",
+ "body": [
+  "最近，权威杂志《经济学人》（The Economist）发布了一篇深度报道，标题语出惊人，声称“从未有过像黄仁勋（Jensen Huang）事件这样的丑闻”。如果你是英伟达（NVIDIA）的股东或者AI赛道的关注者，看到这标题估计心都要跳出来了，难道这位硅谷华人科技领袖翻车了？",
+  "事实并非如此，这更像是一次“标题党”式的深度复盘。该文通过梳理历史上的各大企业危机（Corporate crises），把黄仁勋目前的处境作为切入点。文章并没有指控黄仁勋有财务造假或道德滑坡，而是探讨了英伟达在市值登顶、垄断算力市场后，所面临的极其复杂的舆论压力和监管环境。对于黄仁勋来说，现在的“危机”在于如何处理其庞大的影响力，以及应对全球科技霸权博弈中的多重挑战。",
+  "对于咱们在美华人来说，这件事其实映射出了一个现状：随着华人科技力量在世界舞台的权重越来越大，像黄仁勋这样的领军人物，其每一个动作都会被用显微镜观察。在AI时代，这种“被注视”的压力不仅是企业的，也是整个华人科技圈共同面临的职场与舆论考验。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "经济学人",
+  "AI",
+  "企业治理"
+ ],
+ "original_title": "There has never been a scandal like the Jensen Huang affair",
+ "lang": "en",
+ "published": "2026-11-11T21:56:28+00:00",
+ "created": "2026-11-12T11:10:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

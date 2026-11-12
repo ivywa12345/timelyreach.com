@@ -1,0 +1,26 @@
+{
+ "key": "85fb0dda3e",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+ "title": "AI泡沫要破了？别慌，这可能只是虚惊一场",
+ "summary": "经济学人分析指出，尽管AI行业可能迎来泡沫破裂，但这不一定会引发金融大地震。",
+ "body": [
+  "最近科技圈和投资界都在讨论一个问题：这波人工智能（AI）热潮是不是要崩盘了？《经济学人》（The Economist）最新文章指出，我们确实应该做好AI泡沫破裂（AI crash）的心理准备，但这并不意味着会爆发全面的金融灾难（financial cataclysm）。",
+  "回顾历史，每一次颠覆性技术浪潮——比如早期的互联网泡沫——都伴随着疯狂的资本涌入和随之而来的回调。虽然技术本身会改变世界，但早期冲进去的投资者往往会交出高昂的学费。",
+  "对于咱们海外华人来说，科技股的震荡最直接关系到大家的股票账户、科技大厂的就业饭碗，以及各种AI工具的普及速度。虽然短期内市场可能会有阵痛，但长远来看，泡沫挤掉之后，留下的才是真正能创造价值的技术。"
+ ],
+ "tags": [
+  "人工智能",
+  "美股",
+  "科技泡沫",
+  "海外华人"
+ ],
+ "original_title": "Why you should expect an AI crash",
+ "lang": "en",
+ "published": "2026-11-12T09:54:50+00:00",
+ "created": "2026-11-12T11:07:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

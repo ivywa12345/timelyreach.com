@@ -1,0 +1,25 @@
+{
+ "key": "96bf3f6e4a",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/this-shipping-lane-is-now-the-worlds-deadliest-it-isnt-hormuz-c3acdcaa?mod=rss_worldnews",
+ "title": "不是霍尔木兹！这个航道现在成了全球最危险的地方",
+ "summary": "根据《华尔街日报》报道，黑海地区的致命袭击事件急剧增加，不仅扰乱了国际贸易路线，也给北约带来了新的严峻考验。",
+ "body": [
+  "说到全球高危航运通道，很多人第一反应可能是中东的霍尔木兹海峡，但现在情况变了。根据《华尔街日报》记者Daniel Michaels的报道，黑海（Black Sea）目前的致命袭击事件数量猛增，已经成为了世界上最危险的航道。",
+  "这一安全局势的恶化，直接导致了当地贸易路线的大面积中断。对于相关各方以及北约（NATO）来说，这无疑是一场全新且棘手的安全大考。"
+ ],
+ "tags": [
+  "黑海",
+  "航运安全",
+  "国际贸易",
+  "北约"
+ ],
+ "original_title": "This Shipping Lane Is Now the World’s Deadliest. It Isn’t Hormuz.",
+ "lang": "en",
+ "published": "2026-11-12T03:00:00+00:00",
+ "created": "2026-11-12T11:06:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

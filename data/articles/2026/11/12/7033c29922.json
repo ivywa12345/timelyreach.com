@@ -1,0 +1,27 @@
+{
+ "key": "7033c29922",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-12/how-prediction-markets-became-a-force-in-us-elections",
+ "title": "预测市场成美国大选“新顶流”？这事儿到底靠不靠谱",
+ "summary": "在2026年中期选举中，Kalshi和Polymarket等预测市场大火，成为备受瞩目的选举预测工具，但也引发了批评人士对民主新风险的担忧。",
+ "body": [
+  "说到美国大选的预测，以前大家主要看民调，但现在风向变了！根据彭博社的报道，在刚刚过去不久的2026年中期选举里，像Kalshi和Polymarket这样的预测市场平台彻底火了，直接站上了大选预测的C位。",
+  "这些平台允许用户真金白银地对选举结果进行押注，因此支持者认为它们比传统民调更能反映真实意图。不过，这也招来不少批评。批评人士纷纷发出警告，认为这种把选举结果当成金融产品来炒作的做法，可能会给美国民主带来新的风险。",
+  "对于咱们海外华人来说，无论是看热闹还是关心政局，这些新型预测工具虽然提供了不同于传统媒体的视角，但背后的利益博弈和潜在的选举操纵风险也不得不防。"
+ ],
+ "tags": [
+  "美国大选",
+  "预测市场",
+  "Kalshi",
+  "Polymarket",
+  "海外华人"
+ ],
+ "original_title": "How Prediction Markets Became a Force in US Elections",
+ "lang": "en",
+ "published": "2026-11-12T11:00:29+00:00",
+ "created": "2026-11-12T11:07:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

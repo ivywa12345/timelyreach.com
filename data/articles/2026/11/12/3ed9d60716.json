@@ -1,0 +1,26 @@
+{
+ "key": "3ed9d60716",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
+ "title": "黄仁勋的“风流账”麻烦大了？英伟达这回真没退路了",
+ "summary": "经济学人报道称，黄仁勋的绯闻将给英伟达带来持久的负面影响，让这家科技巨头陷入进退两难的境地。",
+ "body": [
+  "近日，《经济学人》的一篇报道把焦点对准了人工智能芯片霸主英伟达（Nvidia）的掌门人黄仁勋（Jensen Huang）。文章指出，黄仁勋的个人风流韵事（affair）将给公司带来难以消除的负面冲击，目前的局势让英伟达面临着艰难的选择。",
+  "作为全球最受关注的科技公司之一，英伟达一直高度依赖黄仁勋的个人领导力和标志性形象。然而，这起绯闻的曝光打破了完美的公众人设，也让外界开始担忧公司的治理结构和未来走向。目前，公司和相关当事人尚未完全平息这场风波带来的余波。",
+  "对于远在大洋彼岸的海外华人特别是科技圈打工人来说，高管的负面新闻往往会引发资本市场的波动，进而影响到公司的股价、期权价值以及整体招聘走向。我们会持续关注这件事是否会波及到AI行业的整体发展和大家的钱包。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "科技圈八卦",
+  "海外华人"
+ ],
+ "original_title": "Jensen Huang’s recklessness leaves Nvidia with no good options",
+ "lang": "en",
+ "published": "2026-11-12T10:20:28+00:00",
+ "created": "2026-11-12T11:07:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

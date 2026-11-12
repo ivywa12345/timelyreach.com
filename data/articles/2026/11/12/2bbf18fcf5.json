@@ -1,0 +1,27 @@
+{
+ "key": "2bbf18fcf5",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026?mod=rss_markets_main",
+ "title": "英伟达爆出“领导层危机”股价大跌！纳斯达克期货重挫1%",
+ "summary": "受英伟达领导层危机影响，公司股价大跌，并连累纳斯达克期货下跌1%，亚洲股市也普遍走低。",
+ "body": [
+  "各位在海外盯盘的朋友注意啦！最近风头正劲的AI芯片龙头英伟达（Nvidia）突然传出不好的消息，因为陷入所谓的“领导层危机”，股价直接大跌！",
+  "受此情绪拖累，整个科技股盘面都有些承压。市场数据显示，纳斯达克指数期货目前已经下挫了1%，亚洲股市的各大指数也纷纷跟进走低，大家的钱包今天怕是要跟着捏一把汗了。",
+  "对于咱们海外华人投资者来说，科技股向来是资产配置的大头。这类突发的高层人事或领导权动荡往往会引发市场的短期震荡，建议大家密切关注后续官方公告，操作上千万别盲目跟风追涨杀跌，稳住心态最重要。"
+ ],
+ "tags": [
+  "英伟达",
+  "美股",
+  "纳斯达克",
+  "股市动态",
+  "海外华人"
+ ],
+ "original_title": "Stock Market Today: Nvidia Shares Tumble Over Leadership Crisis",
+ "lang": "en",
+ "published": "2026-11-12T07:42:54+00:00",
+ "created": "2026-11-12T11:07:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

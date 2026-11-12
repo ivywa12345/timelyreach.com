@@ -1,0 +1,27 @@
+{
+ "key": "34ce85bc87",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/pro/bankruptcy/asset-managers-insurers-dogged-by-fraud-at-777-partners-9e3245cf?mod=rss_markets_main",
+ "title": "爆雷投资公司777 Partners惹出一身骚，它的金主保险公司这下惨了！",
+ "summary": "保险控股公司A-CAP曾大力资助投资公司777 Partners，不料777随后倒闭，留下大量缺乏流动性的不良资产，目前已引起监管机构的高度关注。",
+ "body": [
+  "话说最近金融圈又有一桩烂账浮出水面。曾经风光无限的投资公司 777 Partners 倒闭了，而它的主要金主——保险控股公司 A-CAP（A-CAP）现在可是麻烦缠身。",
+  "根据《华尔街日报》的报道，在 777 Partners 垮台之前，A-CAP 没少给它砸钱。结果倒好，随着 777 的崩盘，A-CAP 的资产负债表上塞满了各种流动性极差的高风险投资，这笔烂账现在已经成功吸引了监管部门的注意。",
+  "对咱们普通老百姓尤其是海外华人来说，这类金融机构和保险公司的连环爆雷，最需要警惕的就是资金安全和监管风险。毕竟金融市场环环相扣，大机构出了乱子，最后往往容易波及到普通消费者的切身利益，大家在打理资产时可得擦亮眼睛。"
+ ],
+ "tags": [
+  "金融爆雷",
+  "777 Partners",
+  "A-CAP",
+  "保险公司",
+  "海外理财"
+ ],
+ "original_title": "Asset Manager’s Insurers Dogged by Fraud at 777 Partners",
+ "lang": "en",
+ "published": "2026-11-11T14:00:00+00:00",
+ "created": "2026-11-12T11:13:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

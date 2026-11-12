@@ -1,0 +1,26 @@
+{
+ "key": "cf7889822c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-tumbles-as-investors-consider-future-without-ceo-huang",
+ "title": "突发！传英伟达正在物色黄仁勋接班人，股价盘前大跌超8%",
+ "summary": "受董事会正寻找CEO黄仁勋潜在接班人的消息影响，人工智能芯片巨头英伟达盘前股价一度大跌8.1%。",
+ "body": [
+  "各位在海外关注股市的朋友注意啦！根据彭博社的报道，人工智能芯片巨头英伟达公司（Nvidia Corp.）的股价在盘前交易中一度下挫高达8.1%。",
+  "这次股价波动背后的导火索是相关报道称，英伟达董事会目前正与一家外部公司合作，为首席执行官黄仁勋（Jensen Huang）物色潜在的接班人。而此前，有媒体曝出了关于黄仁勋婚外情的相关报道，其中包括与一名据称是中国间谍的指控。",
+  "对于持有英伟达股票或高度关注科技股的海外华人来说，管理层变动向来是影响公司长期走势的关键信号。我们将持续关注事件进展，看看华尔街分析师们接下来的评级调整会如何影响大家的投资组合。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "美股",
+  "人工智能"
+ ],
+ "original_title": "Nvidia Sinks as Analyst Downgrades Start to Come In: Street Wrap",
+ "lang": "en",
+ "published": "2026-11-11T22:48:40+00:00",
+ "created": "2026-11-12T11:14:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

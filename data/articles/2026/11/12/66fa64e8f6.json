@@ -1,0 +1,28 @@
+{
+ "key": "66fa64e8f6",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
+ "title": "乌克兰称星盾系统遭人为“限速”，拦截俄军无人机竟受阻？",
+ "summary": "乌克兰总统泽连斯基指控SpaceX的军事版卫星网络“星盾”（Starshield）在乌克兰境内遭遇系统性限速，导致拦截俄军喷气式无人机难度增加。与此同时，美国特使已抵达莫斯科与普京会谈，试图推动俄乌冲突的解决。",
+ "body": [
+  "乌克兰总统泽连斯基（Volodymyr Zelenskyy）近日在社交平台X上发文控诉，SpaceX旗下的军用级卫星网络“星盾”（Starshield）在乌克兰全境及被占领地区出现了严重的连接故障。他强调，经过乌军调查，这些故障并非随机的网络波动，而是系统的“限速”操作。",
+  "据泽连斯基透露，星盾系统将终端的速度上限锁定在每小时161公里，这意味着一旦拦截系统的速度超过该标准，连接就会自动断开。他表示，这直接导致了乌军在拦截俄罗斯喷气式无人机时力不从心，甚至因为系统断连导致多起无人机袭击漏网，“我们的防御系统因无法提速而错失了拦截的最佳时机”。",
+  "与此同时，俄乌局势的外交斡旋也在升温。美国特使史蒂夫·威特科夫（Steve Witkoff）与贾里德·库什纳（Jared Kushner）已抵达莫斯科与俄罗斯总统普京（Vladimir Putin）会面，讨论俄乌冲突的解决之道。此前在阿联酋举行的三方谈判并未取得显著进展，双方目前仍未就停火或领土划分达成共识。据悉，两位美国特使稍后还将在爱尔兰与泽连斯基举行会晤。",
+  "对于在美华人而言，SpaceX及其卫星技术在战场上的“开关”权限引发了关于技术中立性与国家安全边界的深度思考。作为身处美国的华人群体，除了关注地区局势对全球通胀和能源供应的潜在连锁反应外，科技巨头如何在全球冲突中扮演“影子决策者”的角色，也是一个值得长期观察的话题。"
+ ],
+ "tags": [
+  "俄乌冲突",
+  "SpaceX",
+  "星盾",
+  "泽连斯基",
+  "国际政治"
+ ],
+ "original_title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
+ "lang": "en",
+ "published": "2026-11-12T10:30:07+00:00",
+ "created": "2026-11-12T11:11:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

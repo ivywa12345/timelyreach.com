@@ -1,0 +1,27 @@
+{
+ "key": "0ac8c5d7f1",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/politics/national-security/bessent-moved-to-military-base-after-threats-linked-to-iran-95cfced1?mod=rss_worldnews",
+ "title": "因为对伊朗经济施压，美国财政部长被转移到军事基地保护！",
+ "summary": "由于遭到与伊朗有关的安全威胁，美国财政部长贝森特已被转移至军事基地进行保护。他是政府对德黑兰经济施压政策的核心人物。",
+ "body": [
+  "据《华尔街日报》报道，美国财政部长贝森特（Bessent）由于面临与伊朗有关的安全威胁，目前已经被转移到一个军事基地内居住和办公。",
+  "作为财政部长，贝森特一直在带头执行美国政府对伊朗的经济施压和制裁行动，这也是导致他成为潜在威胁目标的直接原因。",
+  "对身处海外的华人来说，美伊关系的紧张往往伴随着中东局势的复杂化，可能对国际油价、通胀以及整体地缘政治安全产生连锁反应，值得持续关注。"
+ ],
+ "tags": [
+  "美国财政部",
+  "伊朗",
+  "安全威胁",
+  "军事基地",
+  "地缘政治"
+ ],
+ "original_title": "Bessent Moved to Military Base After Threats Linked to Iran",
+ "lang": "en",
+ "published": "2026-11-11T22:39:00+00:00",
+ "created": "2026-11-12T11:13:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

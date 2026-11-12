@@ -1,0 +1,25 @@
+{
+ "key": "c06de90de3",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?mod=rss_Technology",
+ "title": "黄仁勋卷入神秘三角恋？丈夫不仅不吃醋，还亲自牵线！",
+ "summary": "据《华尔街日报》报道，一位名为康伟（Kang Wei）的神秘商人主动将自己的妻子爱丽丝·黄（Alice Huang）介绍给英伟达（Nvidia）CEO黄仁勋，而他本人不仅接受了妻子与黄仁勋的亲密关系，还对此公开谈论。",
+ "body": [
+  "近日，《华尔街日报》记者Lingling Wei爆出了一则科技圈的八卦新闻：英伟达（Nvidia）CEO黄仁勋（Jensen Huang）与一位名叫爱丽丝·黄（Alice Huang）的女性陷入了恋爱关系，而这段关系的“红娘”居然正是女方的丈夫！",
+  "根据报道，这位名叫康伟（Kang Wei）的神秘商人似乎完全接受了妻子与这位AI芯片巨头掌门人的浪漫关系，甚至还曾公开谈论过妻子与黄仁勋之间的亲密程度，令人大跌眼镜。"
+ ],
+ "tags": [
+  "黄仁勋",
+  "英伟达",
+  "八卦",
+  "科技圈"
+ ],
+ "original_title": "A Mystery Businessman Introduced Jensen Huang to His Paramour. It Was Her Husband.",
+ "lang": "en",
+ "published": "2026-11-12T04:03:00+00:00",
+ "created": "2026-11-12T11:07:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
