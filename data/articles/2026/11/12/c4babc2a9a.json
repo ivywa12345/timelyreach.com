@@ -1,0 +1,27 @@
+{
+ "key": "c4babc2a9a",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?mod=rss_markets_main",
+ "title": "英伟达突然停报新加坡销售数据，背后藏着什么秘密？",
+ "summary": "去年在外界对神秘公司 Megaspeed 的审查加剧之际，英伟达悄悄停止了新加坡营收的单独报告。",
+ "body": [
+  "据《华尔街日报》专栏作家 Jonathan Weil 报道，就在外界对神秘企业 Megaspeed 的关注度不断升高时，芯片巨头英伟达（Nvidia）做出了一个不同寻常的举动——去年，他们突然停止报告新加坡地区的营收情况。",
+  "这一举动让这家备受瞩目的芯片公司再添谜团。长期以来，新加坡作为全球重要的科技与贸易枢纽，其采购和销售数据一直是外界观察跨国公司亚太布局的重要窗口。然而，随着 Megaspeed 这家公司的相关审查逐渐升温，英伟达对新加坡销售数据的“隐身”，引发了各方更多的猜测与关注。",
+  "对于关注科技股和国际贸易的海外华人来说，英伟达作为AI浪潮的核心风向标，其供应链和销售渠道的任何风吹草动，不仅牵动着投资者的钱包，也折射出全球地缘政治与科技博弈的复杂走向。"
+ ],
+ "tags": [
+  "英伟达",
+  "新加坡",
+  "Megaspeed",
+  "华尔街日报",
+  "科技新闻"
+ ],
+ "original_title": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
+ "lang": "en",
+ "published": "2026-11-12T01:00:00+00:00",
+ "created": "2026-11-12T01:32:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

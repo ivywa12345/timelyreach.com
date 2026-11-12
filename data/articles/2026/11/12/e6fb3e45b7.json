@@ -1,0 +1,27 @@
+{
+ "key": "e6fb3e45b7",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/science-and-technology/2026/11/11/ai-has-proved-that-a-theory-underpinning-fundamental-physics-is-trustworthy",
+ "title": "AI证明了物理学底层理论靠谱？网友：人类物理学家还是牛的！",
+ "summary": "《经济学人》最新报道指出，人工智能（AI）已经证明了一个支撑基础物理学的核心理论是完全靠谱的，不过最关键的灵感依然来自于人类物理学家。",
+ "body": [
+  "最近科技圈和物理学界有个挺让人振奋的消息。《经济学人》（The Economist）报道称，人工智能（AI）已经成功证明了一个支撑基础物理学的核心理论是完全靠谱、值得信赖的。",
+  "不过，虽然AI在运算和验证上帮了大忙，但科学界普遍认为，最关键的突破性洞察和核心灵感，归根结底还是来自于人类物理学家自己。这也给最近各种“AI要取代人类科学家”的焦虑泼了一盆理智的水：AI确实是极强的辅助工具，但动脑子的核心还得看人类。",
+  "对于海外华人特别是从事科技、AI和科研领域的专业人士来说，这个消息再次印证了人机协作的巨大潜力。AI不会立刻取代人类，但懂得如何驾驭AI的物理学家和工程师，未来在职场和学术界显然会更有竞争力。"
+ ],
+ "tags": [
+  "人工智能",
+  "物理学",
+  "科技前沿",
+  "AI应用",
+  "海外华人"
+ ],
+ "original_title": "AI has proved that a theory underpinning fundamental physics is trustworthy",
+ "lang": "en",
+ "published": "2026-11-11T18:15:29+00:00",
+ "created": "2026-11-12T01:36:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

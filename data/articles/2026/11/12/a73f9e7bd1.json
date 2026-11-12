@@ -1,0 +1,27 @@
+{
+ "key": "a73f9e7bd1",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/11/us-news/long-island-bridge-scaffolding-collapse-kills-1-injures-6/",
+ "title": "长岛大桥施工脚手架突然垮塌！致1死6伤，1人落水失联",
+ "summary": "纽约长岛一座大桥在进行维修施工时，临时脚手架突然坍塌，导致两名工人坠入海峡。事故目前已造成1人死亡、6人受伤，另有1人失联，搜救工作正在紧急进行中。",
+ "body": [
+  "周三中午前不久，纽约长岛纳苏郡（Nassau County）连接Meadowbrook州立公园大道和长滩（Long Beach）的环路公园大道开合桥（Loop Parkway drawbridge）发生了一起严重事故。据纽约州警方透露，桥上一处临时搭建的施工脚手架突然塌陷，导致两名工人直接坠入雷诺兹海峡（Reynolds Channel）。",
+  "据《新闻日报》（Newsday）和News12报道，这起事故造成1名施工人员不幸身亡，另有1人落水后失联。海岸警卫队琼斯海滩站（Coast Guard Station Jones Beach）和科德角航空站（Air Station Cape Cod）的搜救人员已会同当地警方全力搜寻失联工人。此外，还有6名工人在事故中受伤，所幸伤势均无生命危险。急救人员曾对其中一名伤者进行心肺复苏并紧急送医，但最终回天乏术。",
+  "这座大桥自1934年建成以来，经常需要进行维护和更新。根据纽约州交通局的信息，政府最近刚向第三方承包商拨款1590万美元，用于对该桥进行基础设施升级，原计划于2028年3月完工。事故发生后，该公园大道已于周三傍晚5点全面恢复通车。目前，相关部门仍在对事故原因进行调查。"
+ ],
+ "tags": [
+  "纽约长岛",
+  "桥梁施工",
+  "脚手架坍塌",
+  "安全事故",
+  "海外突发"
+ ],
+ "original_title": "Long Island bridge scaffolding collapse kills 1, injures 6",
+ "lang": "en",
+ "published": "2026-11-12T01:27:17+00:00",
+ "created": "2026-11-12T01:33:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "7f574d4d73",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-12/long-us-bonds-reopen-with-gains-as-risk-sentiment-sours-again",
+ "title": "英伟达翻车吓坏市场？美债长端资产又成“避风港”了！",
+ "summary": "节后美债长端交易回暖价格走高，主要是因为英伟达公司（Nvidia Corp.）近期引发的市场动荡，让大家对人工智能（AI）板块的热潮产生怀疑，从而激发了资金对避险资产的需求。",
+ "body": [
+  "假期刚过，美债长端资产在交易恢复后迎来了上涨。彭博社（Bloomberg）记者鲁思·卡森（Ruth Carson）指出，这背后的直接推手是英伟达公司（Nvidia Corp.）近期的动荡局面。这场风波不仅打击了市场信心，也让投资者开始重新审视高歌猛进的人工智能（AI）投资热潮到底还能走多远。",
+  "由于对AI板块前景的疑虑加剧，市场风险偏好迅速冷却，大量资金开始寻找安全去处，直接推动了避险资产的需求大增，促使美债长端价格走高。"
+ ],
+ "tags": [
+  "美债",
+  "英伟达",
+  "AI泡沫",
+  "避险资产",
+  "海外金融"
+ ],
+ "original_title": "Long US Bonds Reopen With Gains as Risk Sentiment Sours Again",
+ "lang": "en",
+ "published": "2026-11-12T00:58:09+00:00",
+ "created": "2026-11-12T01:35:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "52a88848da",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-11/trump-plans-to-sell-public-land-reducing-size-of-federal-estate",
+ "title": "川普政府又搞大动作？新计划要卖联邦土地！",
+ "summary": "美国内政部公布了一项全新战略规划，其中正式包含了出售联邦公共土地的计划。",
+ "body": [
+  "据彭博社（Bloomberg）记者Ari Natter报道，川普（Trump）政府最近正式公布了一项新战略，明确了内政部（Interior Department）未来的工作目标，其中最引人注目的一条就是计划出售联邦所有的公共土地。",
+  "目前，这项新战略刚刚浮出水面，具体的出售规模、涉及哪些地区的土地以及未来会如何操作，官方尚未披露更多细节。不过，处理大面积的联邦公共土地历来在美国国内备受争议，环保组织、当地居民以及开发商之间通常会产生巨大的利益拉扯。",
+  "对于在美华人来说，这类联邦土地政策的调整可能会对长期的自然环境、户外休闲甚至当地的房地产与经济产生潜在影响。我们将持续关注这一计划的后续进展。"
+ ],
+ "tags": [
+  "川普政府",
+  "联邦土地",
+  "美国内政部",
+  "海外华人"
+ ],
+ "original_title": "Trump Administration Unveils New Plan to Sell Federal Lands",
+ "lang": "en",
+ "published": "2026-11-11T23:53:39+00:00",
+ "created": "2026-11-12T01:33:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

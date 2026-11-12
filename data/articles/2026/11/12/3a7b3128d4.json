@@ -1,0 +1,27 @@
+{
+ "key": "3a7b3128d4",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/jd-vance-emerges-as-lead-iran-negotiator-cba55bcb?mod=rss_worldnews",
+ "title": "万斯要挑大梁？传这位美国政坛红人将主导对伊朗谈判！",
+ "summary": "华尔街日报最新消息称，美国副总统万斯（JD Vance）正逐渐成为与伊朗谈判的核心人物。此外，民主党人正对国防部长皮特·海格塞斯（Pete Hegseth）免于弹劾一事互相推卸责任，而联合航空（United Airlines）则宣布将禁止AI机器人为其航班订票。",
+ "body": [
+  "根据《华尔街日报》记者 Amira McKee 的报道，美国政坛最近风向有变，副总统万斯（JD Vance）已经浮出水面，成为了负责应对伊朗问题的领头谈判人。这对于接下来美国的中东外交走向，无疑是一个非常值得关注的信号。",
+  "除了中东局势的幕后博弈，美国国内政坛也没闲着。近期，国防部长皮特·海格塞斯（Pete Hegseth）成功避开了弹劾危机，这让民主党内部开始互相指责、寻找原因，党内分歧可以说是摆到了台面上。",
+  "而在日常生活和出行方面，联合航空（United Airlines）也宣布了新规：正式禁止AI机器人帮旅客自动抢票、订座。对于经常需要刷机票的海外华人来说，以后可能得老老实实自己动手订票了。"
+ ],
+ "tags": [
+  "万斯",
+  "伊朗谈判",
+  "美国政坛",
+  "联合航空",
+  "海外出行"
+ ],
+ "original_title": "JD Vance Emerges as Lead Iran Negotiator",
+ "lang": "en",
+ "published": "2026-11-11T22:20:00+00:00",
+ "created": "2026-11-12T01:36:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

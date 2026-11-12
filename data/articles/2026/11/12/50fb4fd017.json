@@ -1,0 +1,27 @@
+{
+ "key": "50fb4fd017",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+ "title": "英伟达盘后暴跌8%！传董事会可能撤换黄仁勋？纳斯达克期货应声下挫",
+ "summary": "周三美股盘后，英伟达（Nvidia）股价突然大跌8%，拖累纳斯达克100指数期货及其他芯片股集体走低，起因是有报道称公司董事会可能罢免CEO黄仁勋。",
+ "body": [
+  "周三（当地时间）美股盘后，市场迎来一波突发跳水。由于英伟达（Nvidia）股价在盘后交易中大跌8%，直接把纳斯达克-100指数期货（Nasdaq-100 futures）和一众芯片股全给带沟里去了。",
+  "根据MarketWatch作者Joseph Adinolfi的报道，这波抛售潮发生在周三傍晚收盘铃响之后。导火索是一则关于“董事会可能会罢免CEO黄仁勋（Jensen Huang）”的报道，瞬间引发了投资者的恐慌，导致股价直线跳水，并连累整个半导体板块集体走弱。",
+  "对于咱们关注美股和科技圈的海外华人来说，英伟达作为AI浪潮的绝对领头羊，其高层动向和股价波动直接牵动着无数人的投资账户。后续事态究竟是空穴来风还是确有其事，还得看公司官方和后续报道的进一步澄清。"
+ ],
+ "tags": [
+  "英伟达",
+  "美股",
+  "黄仁勋",
+  "纳斯达克",
+  "芯片股"
+ ],
+ "original_title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+ "lang": "en",
+ "published": "2026-11-12T01:12:00+00:00",
+ "created": "2026-11-12T01:33:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

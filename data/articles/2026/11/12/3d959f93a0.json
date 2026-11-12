@@ -1,0 +1,25 @@
+{
+ "key": "3d959f93a0",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
+ "title": "民主党人对付皮特·海格塞斯，这只是更大麻烦的开始吗？",
+ "summary": "民主党人试图弹劾皮特·海格塞斯（Pete Hegseth）的尝试以失败告终，但这可能预示着未来会有更多的政治风暴和麻烦。",
+ "body": [
+  "最近政坛又不太平了。根据《经济学人》的消息，民主党人最近试图对皮特·海格塞斯（Pete Hegseth）发起弹劾，不过最后没能成功。",
+  "虽然这次弹劾没搞成，但分析认为，这可不是什么孤立事件，而是未来更多政治麻烦和交锋的预兆，双方在相关议题上的博弈显然才刚刚开始。"
+ ],
+ "tags": [
+  "美国政坛",
+  "皮特·海格塞斯",
+  "民主党",
+  "海外华人"
+ ],
+ "original_title": "Democrats’ strategy for ending the war in Iran",
+ "lang": "en",
+ "published": "2026-11-11T21:01:49+00:00",
+ "created": "2026-11-12T01:33:08+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

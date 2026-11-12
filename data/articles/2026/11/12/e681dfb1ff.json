@@ -1,0 +1,26 @@
+{
+ "key": "e681dfb1ff",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-below-4-000-as-market-looks-ahead-to-fed-rate-hike",
+ "title": "金价在4000美元下方瑟瑟发抖！大家都在等美联储下月加息？",
+ "summary": "由于通胀粘性不退加上美联储官员频频放出鹰派言论，国际金价继续维持在每盎司4000美元下方的跌势，市场对下个月加息的预期持续升温。",
+ "body": [
+  "根据彭博社（Bloomberg）记者 Yihui Xie 的报道，国际金价目前依然承压，保持在每盎司4000美元的下方。持续不退的通胀压力，加上美国联邦储备委员会（Federal Reserve，简称美联储）官员近期偏向鹰派的言论，让市场对下个月再次加息的预期越来越强烈。",
+  "对咱们海外华人来说，美联储加息往往意味着美元可能更强势，房贷、车贷等各类贷款利率居高不下，钱包缩水的压力依然很大。如果通胀和利率继续双高，日常生活的各项开支恐怕很难一下子降下来。"
+ ],
+ "tags": [
+  "黄金",
+  "美联储",
+  "加息",
+  "通胀",
+  "海外华人"
+ ],
+ "original_title": "Gold Holds Below $4,000 as Market Looks Ahead to Fed Rate Hike",
+ "lang": "en",
+ "published": "2026-11-12T00:12:52+00:00",
+ "created": "2026-11-12T01:33:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

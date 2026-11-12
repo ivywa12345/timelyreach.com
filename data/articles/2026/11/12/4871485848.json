@@ -1,0 +1,27 @@
+{
+ "key": "4871485848",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-11/latest-oil-market-news-and-analysis-for-nov-12",
+ "title": "油价在两个月低位徘徊！中东局势暂时消停，但和平遥遥无期？",
+ "summary": "11月12日消息，由于美伊冲突暂时没有升级，且中东和平谈判毫无进展，国际油价近期在两个月来的低位附近保持平稳。",
+ "body": [
+  "根据彭博社（Bloomberg）记者Kanoko Matsuyama的报道，国际油价目前维持在近两个月的低谷附近。虽然美国与伊朗之间的敌对情绪近期保持相对克制，但这也意味着局势没有进一步恶化。",
+  "不过，市场紧绷的神经并未完全放松。目前没有任何迹象表明，能够彻底结束中东战事的和平谈判取得了实质性进展，地缘政治风险依然像一颗定时炸弹。",
+  "对于海外华人来说，国际油价走势直接关乎大家的日常生活成本。油价回落能暂时减轻加油和日常出行的钱包压力，但中东局势的扑朔迷离也意味着通胀和能源市场随时可能再起波澜。"
+ ],
+ "tags": [
+  "国际油价",
+  "中东局势",
+  "能源市场",
+  "海外生活",
+  "通胀压力"
+ ],
+ "original_title": "Latest Oil Market News and Analysis for Nov. 12",
+ "lang": "en",
+ "published": "2026-11-11T23:04:06+00:00",
+ "created": "2026-11-12T01:36:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

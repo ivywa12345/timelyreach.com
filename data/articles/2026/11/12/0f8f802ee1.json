@@ -1,0 +1,22 @@
+{
+ "key": "0f8f802ee1",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/coreweave-jumps-boosting-the-ai-trade-e5c1569b?mod=rss_markets_main",
+ "title": "CoreWeave股价飙升，推动人工智能交易",
+ "summary": "此外，美国联合航空公司禁止人工智能机器人预订航班。",
+ "body": [
+  "此外，美国联合航空公司禁止人工智能机器人预订航班。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "CoreWeave Jumps, Boosting the AI Trade",
+ "lang": "en",
+ "published": "2026-11-11T21:17:00+00:00",
+ "created": "2026-11-12T01:36:29+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

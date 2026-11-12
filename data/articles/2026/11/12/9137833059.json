@@ -1,0 +1,25 @@
+{
+ "key": "9137833059",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/americas/the-peruvian-pope-returns-home-to-elation-83890915?mod=rss_worldnews",
+ "title": "从芝加哥到秘鲁：这位“秘鲁教皇”回娘家，当地人疯狂了！",
+ "summary": "出生于芝加哥的教皇利奥十四世（Pope Leo XIV）曾在秘鲁传教长达二十年，近日他重返秘鲁，受到当地民众的热烈欢迎，街头不仅出现了巨型雕像和壁画，还有印有他头像的T恤。",
+ "body": [
+  "出生在美国芝加哥的教皇利奥十四世（Pope Leo XIV）曾在秘鲁度过了二十年的传教生涯。近日他重返这片曾经深耕的土地，受到了当地民众的狂热欢迎。",
+  "为了迎接他的到来，秘鲁当地人可以说是把能用上的方式都用上了：不仅竖起了一座45英尺高的巨型雕像，街头巷尾也画满了壁画，甚至还推出了印有他头像的T恤，场面极其轰动。"
+ ],
+ "tags": [
+  "教皇利奥十四世",
+  "秘鲁",
+  "芝加哥",
+  "海外见闻"
+ ],
+ "original_title": "The ‘Peruvian Pope’ Returns Home to Elation",
+ "lang": "en",
+ "published": "2026-11-11T22:55:00+00:00",
+ "created": "2026-11-12T01:34:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "a124c3ae42",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/investors-run-back-to-ai-stocks-less-than-a-week-after-a-historic-selloff-854483e8?mod=rss_markets_main",
+ "title": "AI股大跌不到一周，资金怎么又疯狂杀回来了？",
+ "summary": "AI数据中心运营商CoreWeave周二晚间交出亮眼财报，科技股随即在次日强势反弹。",
+ "body": [
+  "上周刚经历了一场历史级别的抛售，这周投资者们又急不可耐地冲回AI股怀抱了。根据《华尔街日报》报道，这一切的转折点发生在周二深夜。",
+  "当时，AI数据中心运营商CoreWeave交出了一份相当强劲的业绩报告。这颗定心丸一出，市场信心迅速恢复，科技股在第二天早上立马“吼”着涨了回来。",
+  "对于咱们关注美股和资产配置的海外华人来说，这说明AI板块的波动依然极快，市场对好业绩的反应极其敏感。虽然短期内过山车一样的行情让人心惊肉跳，但也再次证明了资金对AI基础设施的追捧依然没有降温。"
+ ],
+ "tags": [
+  "美股",
+  "AI概念股",
+  "投资理财",
+  "华尔街日报"
+ ],
+ "original_title": "Investors Run Back to AI Stocks, Less Than a Week After a Historic Selloff",
+ "lang": "en",
+ "published": "2026-11-11T21:58:00+00:00",
+ "created": "2026-11-12T01:34:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

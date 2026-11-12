@@ -1,0 +1,27 @@
+{
+ "key": "d1d2440e2e",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/the-spread-of-cheaper-ballistic-missiles-rips-up-decades-of-military-thinking-e6ef7fac?mod=rss_worldnews",
+ "title": "便宜导弹把美军打疼了？几十年的军事老黄历可能要翻篇！",
+ "summary": "随着拦截弹库存不断见底，伊朗和胡塞武装用实际行动证明，美军基地正变得越来越脆弱，也彻底颠覆了几十年来传统的军事防空逻辑。",
+ "body": [
+  "近来，随着防空拦截弹的库存逐渐耗尽，中东的局势给美军敲响了警钟。伊朗和胡塞武装（Houthis）通过实际行动表明，美国在海外的军事基地正变得越来越不堪一击，这让美军几十年来习以为常的军事思维面临巨大挑战。",
+  "长期以来，美军依靠昂贵且先进的防空系统来确保安全，但如今面临着低成本弹道导弹和无人机的大规模扩散。这种“廉价攻击、昂贵防御”的非对称作战方式，正在迅速消耗美军的战略资源。",
+  "对于海外华人来说，中东局势的演变不仅关乎国际地缘政治，更牵动着全球供应链、能源价格乃至美国的国防财政投入。防空成本的飙升和美军面临的安全压力，未来是否会转嫁到纳税人身上或影响更广泛的经济安全，值得持续关注。"
+ ],
+ "tags": [
+  "军事防空",
+  "美军基地",
+  "中东局势",
+  "胡塞武装",
+  "国际风云"
+ ],
+ "original_title": "The Spread of Cheaper Ballistic Missiles Rips Up Decades of Military Thinking",
+ "lang": "en",
+ "published": "2026-11-12T01:00:00+00:00",
+ "created": "2026-11-12T01:32:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

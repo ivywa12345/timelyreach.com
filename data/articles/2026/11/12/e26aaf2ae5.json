@@ -1,0 +1,27 @@
+{
+ "key": "e26aaf2ae5",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-11/democrat-colom-wins-mississippi-senate-race-cnn-projects",
+ "title": "红州大爆冷！民主党人拿下密西西比州参议员席位，国会多数优势再扩大",
+ "summary": "在特朗普曾大胜超过22个百分点的深红州密西西比州，民主党籍地方检察官斯科特·科洛姆（Scott Colom）爆冷击败现任共和党参议员辛迪·海德-史密斯（Cindy Hyde-Smith），为民主党在联邦参议院再添一席。",
+ "body": [
+  "据彭博社报道，这场选举堪称近期美国政坛的一大冷门。在传统上被视为铁杆共和党地盘的密西西比州，在2024年总统大选中特朗普（Donald Trump）曾在这里以超过22个百分点的绝对优势获胜，但这次参议员选举结果却发生了戏剧性反转。",
+  "最终，民主党候选人、地方检察官斯科特·科洛姆（Scott Colom）成功逆袭，击败了现任共和党参议员辛迪·海德-史密斯（Cindy Hyde-Smith）。",
+  "随着斯科特·科洛姆（Scott Colom）的胜出，民主党在联邦参议院的多数优势进一步得到了巩固。"
+ ],
+ "tags": [
+  "美国政治",
+  "密西西比州",
+  "参议院",
+  "民主党",
+  "共和党"
+ ],
+ "original_title": "Mississippi Voters Pick Another Senator to Widen Democratic Win",
+ "lang": "en",
+ "published": "2026-11-11T22:08:01+00:00",
+ "created": "2026-11-12T01:35:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

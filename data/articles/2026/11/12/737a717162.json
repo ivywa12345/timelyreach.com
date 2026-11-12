@@ -1,0 +1,25 @@
+{
+ "key": "737a717162",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/11/the-company-behind-barbie-wants-to-be-an-entertainment-giant",
+ "title": "芭比娃娃背后的美泰急了：不想只卖玩具，想当娱乐巨头？",
+ "summary": "知名玩具制造商美泰（Mattel）正试图转型为娱乐巨头，但现实是它依然是一家苦苦挣扎的玩具公司。",
+ "body": [
+  "说起芭比娃娃（Barbie），大家都不陌生。它的幕后老板美泰公司最近野心不小，正琢磨着把自己打造成一个真正的娱乐巨头。",
+  "不过，理想很丰满，现实很骨感。从目前的情况来看，美泰依然是一家在市场中苦苦挣扎的传统玩具制造商，转型之路并没有那么好走。"
+ ],
+ "tags": [
+  "美泰",
+  "芭比娃娃",
+  "商业转型",
+  "玩具行业"
+ ],
+ "original_title": "The company behind Barbie wants to be an entertainment giant",
+ "lang": "en",
+ "published": "2026-11-11T20:21:17+00:00",
+ "created": "2026-11-12T01:36:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
