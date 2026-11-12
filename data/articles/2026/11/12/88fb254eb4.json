@@ -1,0 +1,25 @@
+{
+ "key": "88fb254eb4",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2120893377944424538",
+ "title": "华尔街集体下调英伟达评级与目标价",
+ "summary": "华尔街开始转向看空英伟达（NVDA），四家机构今晨下调评级，另有五家下调了目标价。",
+ "body": [
+  "华尔街开始转向看空英伟达（NVDA）。",
+  "今晨四家机构下调了该股评级：\n伯恩斯坦（Bernstein）：下调至与大盘持平（Market Perform），目标价从400美元腰斩至200美元\n奥本海默（Oppenheimer）：下调至与大盘持平（Perform），目标价撤销\n威廉·布莱尔（William Blair）：下调至与大盘持平（Market Perform）\nEvercore ISI：下调至与大盘持平（In Line），目标价186美元",
+  "另外五家下调了目标价：\n斯迪富（Stifel）：205美元，原为315美元\n花旗（Citi）：225美元，原为285美元\nWedbush（分析师丹·艾夫斯）：225美元，原为300美元\n加拿大皇家银行（RBC）：230美元，原为330美元\n美国银行（BofA）：280美元，原为350美元"
+ ],
+ "tags": [
+  "英伟达",
+  "华尔街",
+  "美股"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-12T14:56:00+00:00",
+ "created": "2026-11-12T21:33:06+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
