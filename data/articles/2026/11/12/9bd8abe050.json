@@ -1,0 +1,27 @@
+{
+ "key": "9bd8abe050",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4?mod=rss_markets_main",
+ "title": "手握最多比特币的公司被踢出指数！MicroStrategy 股价盘前跳水，投资者慌了吗？",
+ "summary": "全球最大的比特币企业持有者微策略（MicroStrategy）因不符合资格被 MSCI 从其全球指数中剔除，消息传出后公司股价在盘前交易中应声下跌。",
+ "body": [
+  "如果你是加密货币的铁粉，最近可能听过微策略（MicroStrategy）这个名字。作为全球持有比特币最多的上市公司，他们一直把押注比特币作为公司核心战略。不过，这回他们撞上铁板了——国际指数公司明晟（MSCI）宣布，将把微策略从其全球基准指数中踢出去，理由是该公司不符合指数的准入资格。",
+  "受此消息影响，微策略的股价在盘前交易时段出现明显跳水。虽然公司管理层一直坚定看好比特币的长期升值，但这次被全球主流指数“除名”，意味着那些被动追踪 MSCI 指数的基金将不得不抛售其股票。这对于持有该股的投资者来说，无疑是一记短期重击。",
+  "这件事对我们这些普通投资者有啥启示？虽然这主要是机构层面的调整，但它提醒了大家：当一家公司把业务核心完全绑定在波动剧烈的加密货币上时，风险往往是成倍增加的。除了面对币圈的“过山车”，现在还得担心被主流金融机构的投资名单剔除，这种双重打击对于中长线的资产配置来说，确实是个不小的警示。"
+ ],
+ "tags": [
+  "微策略",
+  "MicroStrategy",
+  "比特币",
+  "MSCI",
+  "美股"
+ ],
+ "original_title": "Strategy, the World’s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes",
+ "lang": "en",
+ "published": "2026-11-12T09:44:00+00:00",
+ "created": "2026-11-12T19:00:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

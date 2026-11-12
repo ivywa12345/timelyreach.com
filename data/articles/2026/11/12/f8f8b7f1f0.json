@@ -1,0 +1,27 @@
+{
+ "key": "f8f8b7f1f0",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-12/how-to-use-etfs-to-buy-a-market-freak-out-and-manage-ai-anxiety",
+ "title": "市场震荡、AI焦虑双重夹击？教你几招ETF“捡漏”战术",
+ "summary": "面对近期反复无常的市场波动和对AI泡沫的担忧，散户该如何利用ETF进行防御和布局？",
+ "body": [
+  "最近美股市场像是坐上了过山车，波动频繁，不少投资者心里都犯嘀咕：这一波AI热潮到底还能持续多久？面对这种既怕错过行情，又怕被高位套牢的纠结心态，其实可以利用ETF（交易所交易基金）来做针对性的策略布局。",
+  "彭博社（Bloomberg）的分析指出，在市场进入“震荡模式”时，投资者可以通过特定的ETF策略来管理焦虑。与其在单一股票上“赌一把”，不如通过跟踪宽基指数或具备低波动属性的ETF来平滑资产波动。即便市场出现短期恐慌性抛售，这些工具也能帮你以相对稳妥的方式参与市场，而不是盲目杀跌。",
+  "对于咱们在美华人来说，不论是辛苦攒下的退休金（401k/IRA），还是日常的投资理财，面对这种动荡的宏观环境，调整投资组合的防御性显得尤为重要。利用ETF降低个股暴雷风险，或许是在这段“AI焦虑期”里，稳住心态、保住钱包的聪明做法。"
+ ],
+ "tags": [
+  "美股",
+  "投资理财",
+  "ETF",
+  "AI",
+  "资产配置"
+ ],
+ "original_title": "How to Use ETFs to Buy a Market Freak-Out and Manage AI Anxiety",
+ "lang": "en",
+ "published": "2026-11-12T18:53:27+00:00",
+ "created": "2026-11-12T18:56:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

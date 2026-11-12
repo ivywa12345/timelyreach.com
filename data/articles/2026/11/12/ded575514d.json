@@ -1,0 +1,26 @@
+{
+ "key": "ded575514d",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
+ "title": "通胀已经够让人头疼了，结果可能还要雪上加霜？",
+ "summary": "美联储主席凯文·沃什（Kevin Warsh）誓言要彻底打击高通胀，但他坦言，彻底消灭通胀既不会迅速，也不会轻松。",
+ "body": [
+  "最近大家对美国的高通胀可以说是怨声载道，但根据MarketWatch的报道，这场物价风暴可能还没完，甚至还有进一步恶化的风险。",
+  "美联储主席凯文·沃什（Kevin Warsh）近日表态，美联储绝对会狠狠打击高通胀，让物价重新回到正常轨道。不过他也直言不讳地指出，想要彻底给通胀致命一击，绝非易事，过程也不会像想象中那么快。",
+  "对于咱们在海外生活的华人来说，通胀直接挂钩咱们的钱包。不管是去超市买菜、加油，还是日常开销，如果通胀卷土重来或者迟迟无法降温，大家的日常生活成本无疑会继续承压。"
+ ],
+ "tags": [
+  "美联储",
+  "通货膨胀",
+  "美国经济",
+  "生活成本"
+ ],
+ "original_title": "U.S. inflation is already bad enough. It might get worse.",
+ "lang": "en",
+ "published": "2026-11-12T18:39:00+00:00",
+ "created": "2026-11-12T18:59:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

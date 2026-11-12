@@ -1,0 +1,27 @@
+{
+ "key": "7a4d164cc1",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+ "title": "英伟达（Nvidia）深陷风波，你的养老金还稳吗？",
+ "summary": "作为标普500指数的当红炸子鸡，英伟达近期曝出的丑闻引发市场担忧，这不仅是一次个股危机，更暴露了当前美股市场过度依赖单一巨头的深层隐忧。",
+ "body": [
+  "如果你正在通过标普500指数基金或养老金账户进行投资，那么你很可能在不知不觉中重仓了芯片巨头英伟达（Nvidia）。据MarketWatch专栏作家布雷特·阿伦兹（Brett Arends）分析，英伟达近期陷入的争议不仅是个人的“翻车”事件，更折射出了标普500指数目前面临的结构性脆弱。",
+  "简单来说，现在的标普500指数含“英”量极高。当这一家公司成为市场的绝对核心，任何负面新闻或股价震荡，都会直接牵动无数普通投资者的身家性命。文章指出，这种对单一企业的过分依赖，恰恰是当前美股繁荣背后最容易被忽视的隐患。",
+  "对于咱们在美华人来说，这敲响了一个警钟：虽然指数基金通常被认为是稳健的长期投资，但当“鸡蛋”大部分都装进了一个名叫“英伟达”的篮子里时，风险系数其实早已悄悄提高。在股市高位震荡的当下，检查一下自己的养老账户配置，或许是时候思考如何在赚取红利的同时，分散潜在的崩盘风险了。"
+ ],
+ "tags": [
+  "英伟达",
+  "美股",
+  "养老金",
+  "投资理财",
+  "标普500"
+ ],
+ "original_title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
+ "lang": "en",
+ "published": "2026-11-12T17:42:00+00:00",
+ "created": "2026-11-12T19:03:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

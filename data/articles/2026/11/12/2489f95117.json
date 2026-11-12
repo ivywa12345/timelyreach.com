@@ -1,0 +1,27 @@
+{
+ "key": "2489f95117",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad?mod=rss_Technology",
+ "title": "估值翻倍至30亿美元！AI圈当红炸子鸡LangChain凭啥让谷歌大佬掏腰包？",
+ "summary": "AI初创公司LangChain近日完成新一轮融资，估值直接冲上30亿美元，由谷歌母公司Alphabet旗下的投资机构CapitalG领投。",
+ "body": [
+  "AI领域的抢钱速度又刷新了！根据《华尔街日报》（The Wall Street Journal）最新消息，AI开发平台LangChain刚刚完成了3亿美元的巨额融资。最值得关注的是，这一轮融资过后，该公司的估值直接翻了一番，达到了惊人的30亿美元。",
+  "这家公司到底是干什么的？简单来说，LangChain是目前开发者圈内最火的“AI代理（AI Agent）”开发平台。现在的趋势是，大家不仅想要会聊天的AI，更想要能干活、能自动处理复杂流程的AI助手，而LangChain提供的工具包，让企业能更轻松地把大模型接入业务系统。",
+  "此次领投的是Alphabet旗下的资本机构CapitalG，这动作释放了一个很明显的信号：巨头们正在全力押注AI生态的基建环节。对于在美从事科技行业的华人来说，这意味着AI的应用开发进入了‘深水区’，未来类似LangChain这样能解决实际企业痛点的工具链公司，可能会成为职场和投资市场的焦点。如果你是开发人员，关注LangChain的动向，说不定能从中窥探到下一波AI就业的需求方向。"
+ ],
+ "tags": [
+  "AI",
+  "LangChain",
+  "硅谷动态",
+  "融资",
+  "科技职场"
+ ],
+ "original_title": "AI Startup LangChain More Than Doubles Its Valuation to $3 Billion",
+ "lang": "en",
+ "published": "2026-11-12T14:00:00+00:00",
+ "created": "2026-11-12T19:00:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

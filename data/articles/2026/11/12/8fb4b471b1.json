@@ -1,0 +1,27 @@
+{
+ "key": "8fb4b471b1",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-12/senate-democrats-open-probe-into-rfk-jr-s-measles-statements",
+ "title": "刚上任就摊上事？小肯尼迪因“麻疹言论”被参议院民主党人盯上了",
+ "summary": "美国卫生与公众服务部（HHS）部长小罗伯特·肯尼迪（Robert F. Kennedy Jr.）因其过往有关麻疹的言论及萨摩亚之行，正式遭到参议院民主党人的调查。",
+ "body": [
+  "据彭博社报道，参议院民主党议员罗恩·怀登（Ron Wyden）和安吉拉·奥尔索布鲁克斯（Angela Alsobrooks）已带头对新任卫生与公众服务部部长小罗伯特·肯尼迪（Robert F. Kennedy Jr.）展开调查。两人的核心质疑点在于，小肯尼迪在涉及萨摩亚（Samoa）的行程以及有关麻疹致死的相关表态上，是否对国会撒了谎。",
+  "议员们在周三发出的一封信函中明确指出，他们正在查证小肯尼迪过往的公开言论是否与他在国会证词中陈述的事实相符。作为公共卫生领域的最高官员，小肯尼迪此前因其对疫苗及传染病的立场一直备受争议，这次调查无疑让他刚上任的职业生涯蒙上了一层阴影。",
+  "对于在美华人来说，这一事件值得关注。小肯尼迪作为医疗政策的掌舵人，其对公共卫生问题的态度直接影响到国家的疫苗政策、防疫指南乃至医保政策的走向。如果后续调查证实其存在谎报行为，可能会导致他在国会层面的政策推进受阻，甚至引发一系列涉及医疗监管的行政动荡，这对于关心社区健康安全和医疗成本的家庭来说，后续的影响不可忽视。"
+ ],
+ "tags": [
+  "小罗伯特·肯尼迪",
+  "美国政坛",
+  "公共卫生",
+  "麻疹",
+  "国会调查"
+ ],
+ "original_title": "Senate Democrats Open Probe Into RFK Jr.’s Measles Statements",
+ "lang": "en",
+ "published": "2026-11-12T18:17:49+00:00",
+ "created": "2026-11-12T19:01:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

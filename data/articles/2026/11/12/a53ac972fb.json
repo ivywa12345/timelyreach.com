@@ -1,0 +1,26 @@
+{
+ "key": "a53ac972fb",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/12/us-news/two-children-among-8-dead-in-brooklyn-building-collapse-as-search-and-rescue-efforts-continue/",
+ "title": "突发！布鲁克林大楼坍塌致8死：包含两名儿童，事故原因或与隔壁工地有关",
+ "summary": "纽约布鲁克林发生惨烈的大楼坍塌事故，目前已确认造成8人死亡，其中包括2名儿童，另有18人受伤。救援行动目前仍在紧张进行中。",
+ "body": [
+  "周三下午4点左右，纽约布鲁克林Flatbush大道1321号发生了一起令人痛心的局部坍塌事故。据官方周四发布的最新消息，这起灾难已确认夺走了8条生命，死者包括6名成人和2名儿童。除了遇难者外，事故还造成了18人受伤。",
+  "目前，警方已确认其中一名遇难者为26岁的建筑工人何塞·路易斯·卡瓜纳（Jose Luis Caguana），据悉他留下了一位身怀六甲的妻子。据消息人士透露，遇难的两名儿童分别为10岁的男孩和9岁的女孩。纽约市长曼达尼（Zohran Mamdani）表示，初步调查显示，有两名受害者是来自隔壁建筑工地的工人，该工地目前被视为此次大楼坍塌的潜在诱因。",
+  "尽管现场下着大雨，消防部门（FDNY）的搜救工作仍彻夜未停。消防局局长莉莲·邦西诺尔（Lillian Bonsignore）在新闻发布会上强调，目前的行动重心依然是“搜救”而非“清理”，只要还有一线希望，救援队就不会放弃。在此提醒在纽约居住的华人朋友，近期经过施工区域时请务必注意安全，避开可能存在隐患的建筑周边。"
+ ],
+ "tags": [
+  "纽约新闻",
+  "布鲁克林",
+  "突发事故",
+  "建筑安全"
+ ],
+ "original_title": "Two children among 8 dead in Brooklyn building collapse as search and rescue efforts continue",
+ "lang": "en",
+ "published": "2026-11-12T17:52:17+00:00",
+ "created": "2026-11-12T19:06:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

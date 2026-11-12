@@ -1,0 +1,27 @@
+{
+ "key": "2cb0dd90f1",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-2-dragged-by-electronics-stocks-0da84013?mod=rss_markets_main",
+ "title": "人工智能热潮退去？欧洲股市开启“调仓模式”，投资者去哪了？",
+ "summary": "欧洲股市周二开盘走高，资金开始从过热的AI板块撤出，转向欧洲市场的传统板块。",
+ "body": [
+  "周二欧洲股市迎来了一个不错的开局，各大指数集体上涨。有趣的是，这次上涨背后的推手竟然是资金的“大搬家”——投资者们正在抛售之前被热捧的人工智能（AI）概念股，转而将目光投向了那些受AI浪潮影响较小的传统行业。",
+  "一直以来，科技股尤其是AI相关板块在市场上风光无限，吸走了大量的流动性。但随着市场情绪的转换，这种“抱团”现象正在松动。得益于欧洲股市本身科技股占比相对较轻的结构，这一轮资金的轮动反而让欧洲市场成为了避风港，吸引了不少寻求更稳定回报的投资者。",
+  "对于在美华人投资者来说，这是一个值得注意的信号。近期美股科技板块波动加剧，如果你手中持仓重度依赖AI题材，不妨关注这波资金流向的变化，适当评估投资组合的抗风险能力。毕竟，股市总是风水轮流转，分散配置才是长久之计。"
+ ],
+ "tags": [
+  "欧洲股市",
+  "人工智能",
+  "投资理财",
+  "全球金融",
+  "美股动态"
+ ],
+ "original_title": "European Stock Indexes Higher as Investors Rotate Away From AI",
+ "lang": "en",
+ "published": "2026-11-12T08:23:00+00:00",
+ "created": "2026-11-12T19:01:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

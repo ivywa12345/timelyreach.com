@@ -1,0 +1,27 @@
+{
+ "key": "169fdbc17e",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-12/trump-s-russia-diesel-deal-struggles-to-find-willing-us-buyer",
+ "title": "特朗普牵线搭桥卖俄罗斯柴油？结果全美没一个买家肯接招",
+ "summary": "特朗普曾试图促成一项向美国输送俄罗斯柴油的交易，但最新消息显示，这个“大买卖”因为没人愿意买而彻底卡壳了。",
+ "body": [
+  "据彭博社（Bloomberg）报道，特朗普（Donald Trump）此前曾试图力推一项交易，旨在将俄罗斯的柴油引入美国市场，但令人尴尬的是，这项计划目前正面临巨大的现实阻碍——根本找不到愿意下单的买家。",
+  "虽然特朗普曾极力促成此事，但对于美国能源市场的贸易商和进口商来说，这笔交易似乎“烫手”。目前，由于地缘政治紧张局势以及复杂的制裁合规风险，市场对于采购俄罗斯能源依然持极为谨慎的态度。",
+  "这件事对在美华人而言，不仅是国际政治博弈的缩影，也折射出当前美国能源供应和通胀环境的复杂性。随着能源成本波动，华人的生活开支尤其是燃油费用或将持续受到宏观政策和全球贸易政策的影响，未来在能源价格与政策导向之间，依然存在诸多不确定性。"
+ ],
+ "tags": [
+  "特朗普",
+  "俄罗斯",
+  "能源",
+  "柴油交易",
+  "国际贸易"
+ ],
+ "original_title": "Trump’s Russia Diesel Deal Struggles to Find Willing US Buyer",
+ "lang": "en",
+ "published": "2026-11-12T17:06:39+00:00",
+ "created": "2026-11-12T19:06:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
