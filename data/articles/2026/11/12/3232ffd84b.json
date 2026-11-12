@@ -1,0 +1,25 @@
+{
+ "key": "3232ffd84b",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2120834239377854806",
+ "title": "奥特曼称AI需求被“重复计算”，仅两家公司拉动增长",
+ "summary": "据韩国《金融新闻》报道，奥特曼在与三星高管的闭门会上表示，AI需求被“重复计算”，目前只有OpenAI和Anthropic拉动需求增长，但他预计长期需求将激增。",
+ "body": [
+  "据韩国《金融新闻》（Financial News）报道，山姆·奥特曼（Sam Altman）告诉三星高管，AI需求一直被“重复计算”。",
+  "在10月31日与约50位三星总裁举行的闭门会议上，奥特曼据称表示，只有OpenAI和Anthropic在推动主要的需求增长。",
+  "他警告称，未来会出现供应冲击和动荡，但他表示，预计长期来看AI需求将激增。"
+ ],
+ "tags": [
+  "OpenAI",
+  "AI",
+  "三星"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-12T11:01:00+00:00",
+ "created": "2026-11-12T14:30:48+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
