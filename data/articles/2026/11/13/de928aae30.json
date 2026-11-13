@@ -1,0 +1,25 @@
+{
+ "key": "de928aae30",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/venezuela-mayoria-sufre-cortes-de-electricidad-casi-a-diario-mwet2sya",
+ "title": "委内瑞拉电力系统瘫痪：多数民众几乎每天都在“盲人摸象”？",
+ "summary": "根据彭博社报道，由于多年来缺乏投资和维护，委内瑞拉的电网千疮百孔，绝大多数民众不得不长期忍受几乎每天都发生的断电之苦。",
+ "body": [
+  "如果你觉得家里的电费账单有点让人头疼，那比起委内瑞拉的居民，可能要幸运太多了。根据彭博社（Bloomberg）的报道，由于多年来缺乏必要的资金投入和日常维护，委内瑞拉全国的电网系统已经不堪重负，绝大多数老百姓目前正在经受几乎每天都要断电的煎熬。",
+  "这个南美国家的电力危机并不是一天两天的事了。长期以来的投资荒废和维护不善，让整个国家的供电设备老化严重，最终导致电力供应极不稳定。对当地居民来说，停电成了家常便饭，严重打乱了人们的正常工作和生活秩序。"
+ ],
+ "tags": [
+  "委内瑞拉",
+  "电力危机",
+  "民生",
+  "基础设施"
+ ],
+ "original_title": "Venezuela: mayoría sufre cortes de electricidad casi a diario",
+ "lang": "en",
+ "published": "2026-11-13T10:00:09+00:00",
+ "created": "2026-11-13T10:59:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "14ddfcaa83",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/ukraine-starshield-spacex-russia-elon-musk-donald-trump-3902974b?mod=rss_opinion",
+ "title": "乌克兰又双叒告状了：SpaceX的星盾网出问题，这回帮了俄军？",
+ "summary": "乌克兰方面表示，SpaceX旗下的“星盾”系统再次出现服务中断，这不仅削弱了乌方的防御能力，反而让俄罗斯人占了便宜。",
+ "body": [
+  "最近，乌克兰方面向外界透露，马斯克旗下SpaceX公司为军事用途打造的“星盾”（Starshield）卫星通信系统近期频频掉链子，出现了更多的干扰和中断情况。",
+  "知情人士指出，这些对“星盾”系统的使用限制，直接损害了乌克兰在前线作战的通信与指挥效率，客观上反而帮了俄罗斯军队的忙，引发了外界对商业卫星在战场上作用的持续争议。",
+  "对于身在海外的华人来说，这场科技巨头与地缘政治的深度绑定也让人捏把汗：商业力量一旦介入大国博弈，不仅前线战局说变就变，全球供应链、科技股乃至海外华商的日常布局，也随时可能被这些意料之外的政治和商业风波所波及。"
+ ],
+ "tags": [
+  "乌克兰局势",
+  "SpaceX",
+  "马斯克",
+  "星盾",
+  "科技与政治"
+ ],
+ "original_title": "Ukraine Reports More SpaceX Disruptions",
+ "lang": "en",
+ "published": "2026-11-12T22:55:00+00:00",
+ "created": "2026-11-13T10:59:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "2b1414c46d",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/asia/kim-jong-un-remakes-north-koreas-flag-ditching-soviet-era-version-c65efcfe?mod=rss_worldnews",
+ "title": "朝鲜国旗悄悄变样了？金正恩正彻底抹去苏联痕迹！",
+ "summary": "朝鲜最高领导人金正恩正在对国家的标志性符号进行大改动，最新曝光的朝鲜国旗悄然去除了带有苏联风格的元素，此举被视为他试图在国家体制上深深打上自己专属烙印的又一最新动作。",
+ "body": [
+  "据《华尔街日报》报道，朝鲜正在对该国的标志性旗帜进行重新设计，悄悄抛弃了长久以来的苏联时代版本。这一举动表明，金正恩（Kim Jong Un）正致力于将自己的个人领导风格和国家身份标识深深烙印在朝鲜的各项国家体制之中。",
+  "长期以来，朝鲜的官方象征在设计和历史渊源上都带有浓厚的苏联及冷战时期印记。分析人士指出，这次改旗易帜不仅是一次视觉上的更新，更折射出平壤在意识形态和国家叙事上的新调整，旨在进一步强化现任领导人的绝对权威。"
+ ],
+ "tags": [
+  "朝鲜",
+  "金正恩",
+  "国旗",
+  "国际新闻",
+  "华尔街日报"
+ ],
+ "original_title": "Kim Jong Un Remakes North Korea’s Flag, Ditching Soviet-Era Version",
+ "lang": "en",
+ "published": "2026-11-13T09:43:00+00:00",
+ "created": "2026-11-13T10:57:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

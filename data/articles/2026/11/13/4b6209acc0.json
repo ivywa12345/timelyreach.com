@@ -1,0 +1,26 @@
+{
+ "key": "4b6209acc0",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/13/us-news/illinois-building-collapses-injuring-three-in-aurora-hours-after-brooklyn-apartment-collapse/",
+ "title": "一天连塌两栋楼！伊州百年老建筑突然坍塌砸向闹市，几小时前纽约刚发生惨剧",
+ "summary": "美国伊利诺伊州奥罗拉市一栋拥有122年历史的建筑周三发生局部坍塌，外墙和脚手架砸向繁华街道，造成3人轻伤。就在几小时前，纽约布鲁克林刚发生了一起导致8人死亡的严重楼宇坍塌事故。",
+ "body": [
+  "据《纽约邮报》报道，周三傍晚6点37分左右，位于伊利诺伊州奥罗拉市（Aurora）东加利纳大道（East Galena Boulevard）上一栋建于1904年的122年老建筑发生局部坍塌。监控视频显示，该建筑的外墙和外侧脚手架突然崩塌，砸向行人车辆密集的闹市街道，现场顿时烟尘滚滚。幸运的是，事故仅造成3人受轻伤，目前预计均能完全康复。",
+  "当地官员表示，事发时正值下班高峰期，周边有很多餐厅和商铺，街上车流不息。监控显示，一块砖石正好砸向一辆刚刚驶离停车位的汽车，司机机智闪避才逃过一劫。由于建筑严重受损，消防人员随后进行了受控拆除以清除隐患，周边街道也一度封锁。初步调查显示，坍塌疑似从屋顶开始，随后带垮了外墙和脚手架。据悉，这栋历史老建筑大部分处于空置状态，一楼仅有一家理发店仍在营业。",
+  "值得注意的是就在这起事故发生的三个半小时前，纽约布鲁克林（Brooklyn）的夫拉特布什（Flatbush）也发生了一起惨烈的居民楼坍塌事故，导致包括2名儿童在内的8人死亡、18人受伤。初步调查显示，该纽约建筑倒塌前曾与隔壁正在施工的工地相邻，而该工地早在今年3月就被建筑局（Department of Buildings）因缺乏防护措施而下达了停工令。"
+ ],
+ "tags": [
+  "房屋坍塌",
+  "美国新闻",
+  "突发事件",
+  "安全隐患"
+ ],
+ "original_title": "Illinois building partially collapsed onto busy street, injuring 3 — hours after deadly Brooklyn catastrophe",
+ "lang": "en",
+ "published": "2026-11-13T09:45:22+00:00",
+ "created": "2026-11-13T11:03:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

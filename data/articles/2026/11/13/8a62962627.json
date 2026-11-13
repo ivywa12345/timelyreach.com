@@ -1,0 +1,26 @@
+{
+ "key": "8a62962627",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026?mod=rss_markets_main",
+ "title": "AI概念股要迎大考！下周看英伟达财报和Anthropic上市",
+ "summary": "由于投资者密切关注市场后续影响，英伟达股价有望收复部分失地。下周，人工智能板块将迎来英伟达财报和Anthropic首次公开募股（IPO）两大关键考验。",
+ "body": [
+  "美股AI板块下周即将迎来两场重磅大考！芯片巨头英伟达（Nvidia）的最新财报以及人工智能初创公司Anthropic的IPO将同台亮相，投资者们正紧盯着这两大事件，评估AI热潮的后续走势，而英伟达的股价也有望借此收复之前的失地。",
+  "作为这轮AI浪潮的风向标，英伟达的表现直接牵动着无数投资者的心。分析指出，这两大事件将成为检验当前高估值的AI板块是否具备持续增长动力的关键试金石。对于关注美股和科技股投资的海外华人来说，下周的市场波动可能会比较剧烈，需要密切留意相关财报数据和上市表现对整体投资组合的影响。"
+ ],
+ "tags": [
+  "美股",
+  "英伟达",
+  "AI",
+  "Anthropic",
+  "科技股"
+ ],
+ "original_title": "Stock Market Today: Nvidia Shares Set to Recoup Some Losses as Investors Eye Fallout",
+ "lang": "en",
+ "published": "2026-11-13T09:55:33+00:00",
+ "created": "2026-11-13T10:57:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

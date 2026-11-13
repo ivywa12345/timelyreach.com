@@ -1,0 +1,27 @@
+{
+ "key": "e99b54dd30",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30?mod=rss_markets_main",
+ "title": "AI也要开始疯狂剁手了？银行这下可急坏了！",
+ "summary": "Stripe正积极布局AI自主购物的支付业务，而摩根大通则持怀疑态度，传统银行系统正面临AI机器人用信用卡消费的新挑战。",
+ "body": [
+  "话说现在AI不仅能帮你写代码、聊天，连花钱的本事都要学会了！根据《华尔街日报》的报道，随着AI代理（Agentic Commerce）的兴起，未来AI机器人可能会直接拿着信用卡帮人类买东西。不过，面对这个新趋势，华尔街的巨头们态度可是大相径庭。",
+  "支付巨头Stripe（Stripe）现在正摩拳擦掌，把自己定位成这种AI自主购物的核心纽带，想抢占先机。但另一边的银行业老大哥摩根大通（JPMorgan Chase）却是个实打实的“怀疑派”，对AI直接代刷信用卡的风险充满了担忧。",
+  "对咱们海外华人来说，科技公司和银行在这事儿上的博弈，直接关系到以后网络支付的安全和便利。如果AI代购普及了，咱们的钱包是更安全了，还是会多出一些莫名其妙的账单？看来银行的风控系统得赶紧升级了！"
+ ],
+ "tags": [
+  "AI",
+  "信用卡",
+  "Stripe",
+  "摩根大通",
+  "海外科技"
+ ],
+ "original_title": "AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.",
+ "lang": "en",
+ "published": "2026-11-13T01:00:00+00:00",
+ "created": "2026-11-13T11:03:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "55de870b81",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/california-autopia-electric-vehicles-disney-9ce69eb0?mod=rss_opinion",
+ "title": "加州连迪士尼都不放过？要求标志性小汽车必须改电动！",
+ "summary": "加州政府盯上了迪士尼乐园的经典项目Autopia迷你赛车，强制要求其淘汰汽油发动机，改用电动车，引发热议。",
+ "body": [
+  "说到去加州迪士尼乐园（Disneyland）玩，经典的Autopia迷你赛车绝对是几代人的童年回忆。不过，加州最近对这个项目下了“硬任务”——要求全面实现电气化。",
+  "根据《华尔街日报》（The Wall Street Journal）编辑委员会的报道，加州这次是动真格的，直接对迪士尼（Disney）施压，要求把这些标志性的燃油小汽车统统换成电动车，以符合加州严格的环保政策。",
+  "对咱们在海外特别是生活在加州的华人来说，环保政策的层层加码不仅体现在买家用车上，连乐园里的游乐设施都难逃一劫。虽然电动化能减少尾气排放，但也有人调侃，烧汽油的轰鸣声和闻着汽油味的童年记忆，可能真的要彻底成为历史了。"
+ ],
+ "tags": [
+  "加州",
+  "迪士尼",
+  "电动车",
+  "环保政策",
+  "海外生活"
+ ],
+ "original_title": "An EV Mandate for Disneyland",
+ "lang": "en",
+ "published": "2026-11-12T22:52:00+00:00",
+ "created": "2026-11-13T11:01:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

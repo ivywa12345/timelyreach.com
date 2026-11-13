@@ -1,0 +1,27 @@
+{
+ "key": "ec5da78d2e",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/em-stocks-eye-first-weekly-gain-since-september-as-tech-rebounds",
+ "title": "跌了一个月终于喘口气！新兴市场股市反弹，AI赛道还能冲吗？",
+ "summary": "在经历了连续数周的下滑后，新兴市场股市终于在本周迎来了自9月下旬以来的首次周涨幅，投资者押注AI行业能够扛住英伟达（Nvidia）近期震荡带来的压力。",
+ "body": [
+  "如果你一直盯着海外股市，这几周可能确实有点扎心。不过好消息来了，新兴市场股市终于止跌回升，有望在本周录得自9月下旬以来的首次周线上涨。",
+  "这次反弹的核心动力还是大家熟悉的‘科技股’。尽管此前人工智能（AI）领域的巨头英伟达（Nvidia）股价出现震荡，引发了市场对于AI泡沫是否破裂的担忧，但投资者似乎重新找回了信心，开始押注整个AI产业链依然具备长期的增长韧性，并没有因为个别巨头的波动就此熄火。",
+  "对于在海外配置资产的华人投资者来说，这种波动是常态。虽然科技股行情回暖让人松了口气，但考虑到目前全球市场受政策和AI行业风向影响巨大，大家在布局时还是要保持警惕，不要把鸡蛋放在同一个篮子里，尤其是在关注热门成长股的同时，也要留意市场情绪的反复。"
+ ],
+ "tags": [
+  "股市",
+  "新兴市场",
+  "AI",
+  "英伟达",
+  "海外投资"
+ ],
+ "original_title": "EM Stocks Eye First Weekly Gain Since September as Tech Rebounds",
+ "lang": "en",
+ "published": "2026-11-13T04:53:47+00:00",
+ "created": "2026-11-13T11:01:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

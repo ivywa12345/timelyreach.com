@@ -1,0 +1,27 @@
+{
+ "key": "ef827b1f9e",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-13/that-haven-trade-in-treasury-bonds-didn-t-last-long",
+ "title": "避险天堂这么快就塌了？美债收益率狂飙背后，到底发生了啥！",
+ "summary": "由于通胀压力不减以及美联储的强硬立场，美国国债作为避险资产的吸引力迅速消退，收益率再度走高。",
+ "body": [
+  "最近打算买美债或者关注金融市场的朋友可能注意到了，之前被大家当成避险天堂的美国国债，好景不长，收益率又蹭蹭往上涨了。",
+  "根据彭博社（Bloomberg）记者Phil Serafino的分析，目前通胀阴云不散，加上美联储（Federal Reserve）态度依然十分强硬（hawkish），这两大因素正联手把美债收益率不断往高处推。",
+  "对在美华人的钱包来说，美债收益率上升虽然意味着无风险利率变高，但这也反映出通货膨胀和高利率环境可能还要持续更久，房贷、车贷等借贷成本短期内恐怕很难降下来。"
+ ],
+ "tags": [
+  "美债",
+  "美联储",
+  "通胀",
+  "金融市场",
+  "理财"
+ ],
+ "original_title": "That Haven Trade in Treasury Bonds Didn’t Last Long",
+ "lang": "en",
+ "published": "2026-11-13T10:55:09+00:00",
+ "created": "2026-11-13T10:59:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

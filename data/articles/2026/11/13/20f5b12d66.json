@@ -1,0 +1,27 @@
+{
+ "key": "20f5b12d66",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097?mod=rss_Technology",
+ "title": "黄仁勋下台前曾贬低接替他的人？内部矛盾浮出水面",
+ "summary": "英伟达临时CEO科莱特·克雷斯对黄仁勋过去的一些交易决策提出质疑，而黄仁勋在卸任前曾私下称她为“车灯前的鹿”，形容她面对大事时惊慌失措。",
+ "body": [
+  "据《华尔街日报》报道，在英伟达（Nvidia）前掌门人黄仁勋（Jensen Huang）卸任前，他和接替其职位担任临时CEO的科莱特·克雷斯（Colette Kress）之间似乎存在不少摩擦。黄仁勋甚至曾用“车灯前的鹿”（a deer in the headlights）来形容这位将要接替自己的人，暗指她缺乏应对重大局面的魄力和经验。",
+  "报道指出，作为临时CEO的科莱特·克雷斯（Colette Kress）上台后，并没有全盘接收前任的战略，而是对黄仁勋过去的一些商业交易和运作方式提出了质疑。这种高层之间的理念碰撞，也让外界得以一窥这家AI芯片巨头内部权力交替时的微妙氛围。",
+  "对于关注科技股和海外职场的华人朋友来说，大厂高层换帅往往伴随着战略方向的调整。英伟达作为近年来AI浪潮的最大赢家，其管理层的每一次变动和内部意见不合，都可能对公司的未来走向产生深远影响，进而牵动无数投资者的钱包和相关从业者的职业发展。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "科技新闻",
+  "海外华人",
+  "美股"
+ ],
+ "original_title": "Before His Ouster, Jensen Huang Belittled the Executive Replacing Him",
+ "lang": "en",
+ "published": "2026-11-13T02:00:00+00:00",
+ "created": "2026-11-13T11:00:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

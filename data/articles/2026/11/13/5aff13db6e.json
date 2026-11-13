@@ -1,0 +1,27 @@
+{
+ "key": "5aff13db6e",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/stock-futures-lower-as-investors-look-to-u-s-inflation-data-5b1b5988?mod=rss_markets_main",
+ "title": "美股期指全线走低！英伟达余波未了，大家都在等这组关键数据",
+ "summary": "由于英伟达高层变动的影响仍在发酵，加上关键美国通胀数据出炉前长期美债遭到抛售，美股期指在盘前集体下跌。",
+ "body": [
+  "各位股友注意啦，美股这几天盘前又绿了！根据《华尔街日报》的报道，由于受到英伟达（Nvidia）高层变动后续影响的持续发酵，再加上市场正紧盯即将公布的美国关键通胀数据，长期美债遭到持续抛售，导致美股期指在盘前全线走低。",
+  "目前整个市场可以说是草木皆兵。一方面，芯片巨头英伟达（Nvidia）的人事地震让投资者对科技股的前景捏了一把汗；另一方面，大家都在翘首以盼即将出炉的通胀数据，这直接决定了接下来美联储的货币政策走向。受此影响，长期美债继续遭到抛售，避险情绪浓厚。",
+  "对于咱们海外华人来说，这种金融市场的波动往往牵一发而动全身。股市和大盘的震荡不仅直接关系到大家的401(k)养老金和投资账户，通胀和利率的走向更是直接和咱们的房贷利率、日常生活的钱包厚度挂钩。近期理财投资还是得小心为上，多看少动为妙。"
+ ],
+ "tags": [
+  "美股",
+  "英伟达",
+  "通胀数据",
+  "美债",
+  "华人理财"
+ ],
+ "original_title": "Stock Futures Lower as Investors Look to U.S. Inflation Data",
+ "lang": "en",
+ "published": "2026-11-13T09:28:00+00:00",
+ "created": "2026-11-13T11:04:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

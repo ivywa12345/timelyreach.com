@@ -1,0 +1,27 @@
+{
+ "key": "56336ba573",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+ "title": "通胀又抬头？美联储准备出手加息，你的房贷、车贷可能又要涨了",
+ "summary": "美国通胀数据再度反弹，10月通胀率升至0.4%，高于市场预期。面对居高不下的物价，美联储可能在12月的会议上再次加息，这对在美华人的生活成本和房贷支出将产生直接影响。",
+ "body": [
+  "年初的时候，大家对美国经济还挺乐观，觉得通胀在降温，谁承想现实给了大家一记闷棍。最新数据显示，美国10月通胀率意外达到0.4%，不仅高于市场预期的0.3%，核心CPI（剔除食品和能源价格）也超过了预测。这直接打乱了美联储（Federal Reserve）原本打算降息的计划，现在美联储官员们正被迫重新面对这头“通胀怪兽”。",
+  "目前，芝加哥联储主席古尔斯比（Austan Goolsbee）直言通胀问题让人“感到不安”，而联储理事沃勒（Christopher Waller）甚至放话，如果通胀持续火热，12月会议上不排除激进加息的可能性。根据芝商所（CME）的数据，约88%的交易员预测，12月8日美联储极大概率会宣布再次加息25个基点。",
+  "对于在美华人来说，这绝对不是什么好消息。高利率意味着房贷、车贷和信用卡的利息支出将居高不下。考虑到特朗普（Donald Trump）可能在明年通过行政手段增加关税，经济学家担忧这会进一步推高通胀，导致美联储在明年不得不维持加息节奏。建议大家近期在做大额消费或财务规划时，务必预留出利率持续走高的心理和资金缓冲空间。"
+ ],
+ "tags": [
+  "美联储",
+  "通胀",
+  "加息",
+  "房贷",
+  "美国经济"
+ ],
+ "original_title": "The Fed expected rate cuts this year. Now it’s bracing for another inflation fight",
+ "lang": "en",
+ "published": "2026-11-13T10:00:26+00:00",
+ "created": "2026-11-13T11:01:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

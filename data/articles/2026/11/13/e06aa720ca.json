@@ -1,0 +1,28 @@
+{
+ "key": "e06aa720ca",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/news-releases/dhs-streamlines-the-filing-process-for-certain-agricultural-workers",
+ "title": "农业雇主注意！H-2A签证申请流程大改，10月起正式实施",
+ "summary": "美国国土安全部（DHS）宣布简化H-2A农业临时工签证的申请流程，旨在帮助雇主更快完成申请，新规将于2025年10月2日生效。",
+ "body": [
+  "对于美国的农业经营者来说，雇人的手续终于要变得更灵活了。根据美国国土安全部（DHS）的最新规定，从2025年10月2日起，H-2A农业临时工的签证申请流程将正式简化。以后雇主不必像以前那样“死等”劳工部（DOL）的劳工证（TLC）彻底批下来后，才能找移民局（USCIS）办事了。",
+  "简单来说，新规允许移民局在劳工部审核劳工证的同时，先行处理H-2A的申请文件。雇主在收到劳工部的收件通知后，即可在线提交全新的“I-129H2A表格”。虽然移民局依然要等到劳工部最终核准劳工证后，才会下发签证，但这一“同步进行”的机制大大缩短了雇主的等待时间。",
+  "不过需要注意几个硬性门槛：首先，必须走电子化流程，通过移民局官网上传PDF文件，纸质申请直接会被拒收；其次，目前这项新规仅适用于申请“未指名雇员”（unnamed beneficiaries）且未聘请律师（不提交G-28表格）的雇主。USCIS发言人Matthew Tragesser表示，此举旨在支持美国农场主，鼓励移民通过合法渠道就业，这对商业环境和法治信心都有好处。",
+  "这次改革对于在美从事农业相关产业的华人雇主来说是重大利好，有望缓解农忙时节人手短缺的燃眉之急。提醒大家，如果你习惯传统的纸质申请或有指定的外国劳工名额，目前流程暂无变化，请务必留意移民局后续的系统更新。"
+ ],
+ "tags": [
+  "美国移民",
+  "H-2A签证",
+  "农业",
+  "移民局",
+  "美国商业"
+ ],
+ "original_title": "DHS Streamlines the Filing Process for Certain Agricultural Workers",
+ "lang": "en",
+ "published": "2025-09-30T20:12:16+00:00",
+ "created": "2026-11-13T11:00:30+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "896cbc9f48",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/mexico-graft-scandal-erodes-trust-in-electoral-authority-threatens-sheinbaum",
+ "title": "墨西哥大选还没影，独立选举机构先陷贪腐丑闻？近半民众直呼没信心！",
+ "summary": "根据彭博社最新民调，由于卷入不断扩大的贪腐丑闻，近半数墨西哥人对该国选举机构明年组织公正大选的能力失去信心，这也给现任总统辛鲍姆（Claudia Sheinbaum）的执政带来了潜在威胁。",
+ "body": [
+  "彭博社（Bloomberg）近日报道，根据一份最新民调显示，由于一场不断发酵的贪腐丑闻重创了墨西哥国家选举机构（electoral authority）的信誉，将近一半的墨西哥人对该机构能否在明年组织一场公平公正的大选表示“没有什么信心”或者“完全没有信心”。",
+  "这次信任危机不仅让这个核心选举机构焦头烂额，也给刚刚上台的墨西哥总统克劳迪娅·辛鲍姆（Claudia Sheinbaum）带来了不小的政治压力和潜在威胁。",
+  "对于远在海外的华人来说，虽然这远在拉丁美洲，但一个国家的政局动荡和选举公信力缺失往往会影响当地的经济稳定、治安以及对外的经贸政策。我们将持续关注事态的发展，看看这把“贪腐之火”最后会烧成什么样。"
+ ],
+ "tags": [
+  "墨西哥",
+  "大选",
+  "贪腐丑闻",
+  "辛鲍姆",
+  "国际新闻"
+ ],
+ "original_title": "Mexico Graft Scandal Erodes Trust in Electoral Authority, Threatens Sheinbaum",
+ "lang": "en",
+ "published": "2026-11-13T10:00:00+00:00",
+ "created": "2026-11-13T11:04:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

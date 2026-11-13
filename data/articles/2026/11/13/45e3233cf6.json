@@ -1,0 +1,27 @@
+{
+ "key": "45e3233cf6",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/irans-new-cyber-playbook-create-real-world-havoc-8ea2dffc?mod=rss_worldnews",
+ "title": "伊朗黑客不玩虚的了？专挑货轮和冰箱下手，美媒曝其网络战新套路！",
+ "summary": "根据《华尔街日报》报道，伊朗正在升级其网络攻击策略，不再满足于虚拟世界，而是把矛头对准现实世界中防范薄弱的油轮和智能冰箱等实体设备，制造切切实实的混乱。",
+ "body": [
+  "最近，华尔街知名媒体《华尔街日报》（The Wall Street Journal）披露了一则让人捏把冷汗的消息：德黑兰当局正在调整网络攻击的“剧本”，把搞破坏的战场直接搬到了现实世界里。",
+  "据记者菲利斯·所罗门（Feliz Solomon）报道，与以往针对大型机构或政府部门的网络战不同，伊朗现在把目标对准了那些防范相对薄弱的实体设施，比如海上航行的油轮，甚至连我们日常用的智能冰箱也没放过。这种软硬结合的攻击方式，目的就是要在物理层面上给对手制造切实的痛苦和混乱。",
+  "对于远在海外的华人来说，这类地缘政治引发的网络安全升级，也给我们敲响了警钟。随着万物互联的普及，从供应链物流到家里的智能家居，未来的网络安全风险可能会更贴近我们的日常生活。大家平时在保护个人数字隐私和家庭网络安全方面，还真得提高点警惕。"
+ ],
+ "tags": [
+  "伊朗",
+  "网络安全",
+  "华尔街日报",
+  "黑客攻击",
+  "海外生活"
+ ],
+ "original_title": "Iran’s New Cyber Playbook: Create Real-World Havoc",
+ "lang": "en",
+ "published": "2026-11-13T01:00:00+00:00",
+ "created": "2026-11-13T11:03:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
