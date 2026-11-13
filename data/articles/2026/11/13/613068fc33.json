@@ -1,0 +1,25 @@
+{
+ "key": "613068fc33",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/european-shares-pull-back-from-record-high-after-four-day-rally",
+ "title": "欧洲股市创历史新高！迎来7月以来最牛的一周",
+ "summary": "欧洲股市周五微幅收涨，为本周的强劲反弹画上圆满句号，创下历史新高，并迎来了7月以来表现最好的一周。",
+ "body": [
+  "本周欧洲股市一路走高，最终在周五以微弱涨幅收盘，成功冲上历史新高，这也是自7月以来表现最带劲的一周。",
+  "在周五的交易中，矿业股和科技股出现下跌，不过石油生产商和必需消费品板块的上涨成功抵消了这部分跌幅，支撑大盘保持坚挺。"
+ ],
+ "tags": [
+  "欧洲股市",
+  "美股外围",
+  "财经快讯",
+  "股市行情"
+ ],
+ "original_title": "European Stocks End at Record High in Their Best Week Since July",
+ "lang": "en",
+ "published": "2026-11-13T08:22:26+00:00",
+ "created": "2026-11-13T18:35:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

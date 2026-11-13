@@ -1,0 +1,27 @@
+{
+ "key": "0e86f9d992",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/asia-stocks-stage-tentative-rebound-as-nvidia-uncertainty-lingers-c0953e15?mod=rss_markets_main",
+ "title": "亚洲科技股反弹卡壳！英伟达财报前夕，华尔街到底在慌什么？",
+ "summary": "周五下午，亚洲科技股此前的微弱反弹势头戛然而止，市场空头情绪重新占领上风，主要原因在于投资者对英伟达（Nvidia）未来走势的极度不确定性。",
+ "body": [
+  "周五下午，亚洲饱受打击的科技股好不容易冒出头的反弹苗头瞬间熄火。原本的一点点乐观情绪敌不过强大的看空压力，市场再次陷入观望和担忧之中。",
+  "这波行情的背后，主要是因为全球科技投资风向标——英伟达（Nvidia）相关的不确定性让投资者心里没底。大家都在紧盯着这家AI芯片巨头的最新动向，生怕市场风向突变。",
+  "对于关注全球市场的海外华人来说，科技股的这种剧烈波动往往会直接牵动投资账户和401(k)退休金的表现。在AI热潮高歌猛进的当下，任何一点风吹草动都可能引发股市的大幅震荡，近期投资操作还是得悠着点、多看少动。"
+ ],
+ "tags": [
+  "亚洲股市",
+  "科技股",
+  "英伟达",
+  "股市行情",
+  "海外投资"
+ ],
+ "original_title": "Asia’s Stock Rebound Fades as Nvidia Uncertainty Lingers",
+ "lang": "en",
+ "published": "2026-11-13T07:09:00+00:00",
+ "created": "2026-11-13T18:32:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,29 @@
+{
+ "key": "f39f378cdc",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/13/us-news/trump-admin-pushes-federal-agencies-to-go-english-only-in-sweeping-new-directive/",
+ "title": "特朗普政府出新规：联邦机构全面推行“纯英语”办公，多语言服务要被砍？",
+ "summary": "美国司法部近日发布新指导意见，要求各联邦机构努力实现“仅使用英语”运作。此举被视为对特朗普此前将英语定为国家官方语言行政命令的进一步加码，可能会对全美超过2700万英语能力有限的民众产生影响。",
+ "body": [
+  "特朗普政府在将英语定为联邦政府官方语言的道路上又迈出了一大步。根据司法部（Department of Justice）周四发布的一项新指导意见，美国各联邦机构被要求精简甚至取消外语材料，全面推行英语办公。",
+  "这项新规涵盖了极其广泛的政府事务，包括官方信函、规章制度、公告、申请表、网站、教育资源，甚至是内部沟通和人工智能工具。虽然特朗普今年3月签署的行政命令并未直接要求机构取消现有的多语言服务，但司法部最新的指导意见明确将英语设定为默认标准。不过，如果是法律强制要求，或者涉及国家安全和医疗服务等必要情况，各机构仍可继续提供翻译服务。",
+  "目前，多个部门已经开始行动。住房和城市发展部（Department of Housing and Urban Development）已于8月取消了服务中的非英语语言；国土安全部、教育部和财政部也开始着手清理网站上的外语材料；总务管理局（General Services Administration）更是关闭了运行自2003年的USA.gov西班牙语版本。",
+  "政策专家雅各布·霍夫斯泰特（Jacob Hofstetter）预计，接下来会有更多机构下架多语言内容。不过，民权律师、司法部前民权官员迈克尔·穆雷（Michael Mulé）则警告称，限制翻译可能会妨碍政府正常运转，比如让执法部门更难从公众那里收集犯罪线索，或是让民众难以正确报税。",
+  "据悉，司法部已于周四将该指导意见在《联邦公报》（Federal Register）上公布，并将公开征求公众意见至1月11日。对于在美华人及其他英语非母语群体而言，未来在对接联邦政府服务、填写各类表格或申请时，可能需要提前做好应对全英文界面的准备。"
+ ],
+ "tags": [
+  "美国时政",
+  "特朗普政府",
+  "联邦机构",
+  "英语官方化",
+  "在美华人生活"
+ ],
+ "original_title": "Trump admin pushes federal agencies to go English-only in sweeping new directive",
+ "lang": "en",
+ "published": "2026-11-13T16:05:24+00:00",
+ "created": "2026-11-13T18:37:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

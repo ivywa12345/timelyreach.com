@@ -1,0 +1,27 @@
+{
+ "key": "c3a402db18",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/eu-uk-at-odds-over-tuition-student-cap-ahead-of-reset-summit",
+ "title": "英欧峰会下周开幕，学费和留学生上限成最大绊脚石？",
+ "summary": "欧盟与英国在下周的重置峰会前夕，在学费标准和留学生人数上限等关键问题上依然存在分歧，不过谈判代表表示双方正朝着达成协议取得进展。",
+ "body": [
+  "据彭博社报道，欧盟（EU）和英国（UK）即将在下周迎来一场备受瞩目的重置峰会。虽然谈判代表们透露双方在达成协议的道路上取得了一些进展，但在一些核心诉求上依然谈不拢。",
+  "目前双方的主要分歧集中在学费（Tuition）以及留学生上限（Student Cap）等关键议题上。这些争议直接关系到跨国教育资源的分配和年轻学子的切身利益。",
+  "对于关注欧洲和英国高等教育的海外华人家庭来说，这项峰会的后续进展可能会影响到未来的留学成本和入学政策，值得持续关注。"
+ ],
+ "tags": [
+  "英国",
+  "欧盟",
+  "留学生",
+  "教育政策",
+  "海外留学"
+ ],
+ "original_title": "EU, UK At Odds Over Tuition, Student Cap Ahead of Reset Summit",
+ "lang": "en",
+ "published": "2026-11-13T18:14:13+00:00",
+ "created": "2026-11-13T18:32:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

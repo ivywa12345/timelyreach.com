@@ -1,0 +1,26 @@
+{
+ "key": "98d54ba723",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories",
+ "title": "SpaceX周五将挑战火箭回收终极梦想，这次发射有多牛？",
+ "summary": "SpaceX计划于周五进行星舰（Starship）发射，分析师称其意义重大，堪称火箭回收领域的“圣杯”。",
+ "body": [
+  "如果你关注科技圈，本周五绝对有一场大戏不容错过！马斯克的太空探索技术公司（SpaceX）准备在周五进行最新一次的星舰（Starship）发射。有分析师直言，这次发射的意义“怎么强调都不为过”，因为它将尝试火箭回收领域的“圣杯”。",
+  "虽然新闻摘要没有透露具体的发射细节和回收方式，但业内普遍认为，这种级别的尝试将对未来的太空探索成本和频率产生深远影响。"
+ ],
+ "tags": [
+  "SpaceX",
+  "星舰",
+  "马斯克",
+  "火箭回收",
+  "科技前沿"
+ ],
+ "original_title": "SpaceX is about to attempt the ‘holy grail’ of rocketry",
+ "lang": "en",
+ "published": "2026-11-13T16:54:00+00:00",
+ "created": "2026-11-13T18:35:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

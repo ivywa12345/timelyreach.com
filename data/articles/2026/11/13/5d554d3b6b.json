@@ -1,0 +1,26 @@
+{
+ "key": "5d554d3b6b",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-huangs-departure-from-nvidia-unlikely-to-mollify-congress-plaintiffs-lawyers-baf11ad1?mod=rss_Technology",
+ "title": "黄仁勋卸任英伟达CEO能平息国会怒火？美媒：想得美！",
+ "summary": "华尔街日报报道指出，即便黄仁勋卸任英伟达CEO，也难以让美国国会和原告律师罢休；同时，超微电脑因遭到司法部调查股价大跌，保险业也成了监管机构的目标。",
+ "body": [
+  "最近华尔街日报（The Wall Street Journal）的一篇风险报告指出，外界猜测英伟达（Nvidia）掌门人黄仁勋卸任的可能性，大概率无法让美国国会和虎视眈眈的原告律师们满意。也就是说，风暴中心的科技巨头想要过关，没那么容易。",
+  "与此同时，市场上还爆出了其他几颗“雷”。由于遭到美国司法部（DOJ）的调查，超微电脑（Super Micro）的股价应声下跌。此外，监管专员们目前也将矛头对准了保险行业，准备对其展开新一轮的合规审视。对于关注美股和金融市场的海外华人来说，科技股和传统行业的监管风险都在同步加剧，大家的投资和资产配置得格外小心了。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "超微电脑",
+  "美股风险",
+  "华尔街日报"
+ ],
+ "original_title": "The Morning Risk Report: Huang’s Departure From Nvidia Unlikely to Mollify Congress, Plaintiffs’ Lawyers",
+ "lang": "en",
+ "published": "2026-11-13T12:54:00+00:00",
+ "created": "2026-11-13T18:32:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

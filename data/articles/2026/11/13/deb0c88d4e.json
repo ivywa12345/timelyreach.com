@@ -1,0 +1,25 @@
+{
+ "key": "deb0c88d4e",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/the-epic-29-trillion-battle-for-social-security-has-begun-a5e57f5a?mod=mw_rss_topstories",
+ "title": "29万亿美元的社安金保卫战，到底跟我们有啥关系？",
+ "summary": "美国社会保障基金正面临29万亿美元的巨大考验，关系到每一个人的未来，但很多人却还没当回事。",
+ "body": [
+  "最近美国财经媒体MarketWatch的专栏作家Brett Arends发文提醒大家，一场规模高达29万亿美元的社会保障（Social Security）保卫战已经悄然打响。这事儿听起来好像离我们挺远，但实际上关乎每一个在美国生活、工作的人的钱包。",
+  "作者指出，社会保障的未来其实影响着所有人，但奇怪的是，现在有太多人根本没把这事儿放在心上。随着相关财政压力越来越大，这场涉及巨额资金的博弈将直接决定未来退休人员的切身利益。"
+ ],
+ "tags": [
+  "社会保障",
+  "美国退休",
+  "财经动态",
+  "海外生活"
+ ],
+ "original_title": "The epic $29 trillion battle for Social Security has begun",
+ "lang": "en",
+ "published": "2026-11-13T18:25:00+00:00",
+ "created": "2026-11-13T18:33:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

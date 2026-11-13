@@ -1,0 +1,27 @@
+{
+ "key": "f757f35087",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/the-leadership-message-in-the-nvidia-saga-407cd688?mod=rss_Technology",
+ "title": "英伟达高层风波背后，到底给我们上了一课什么？",
+ "summary": "《华尔街日报》专栏作家 Alan Murray 探讨了近期围绕英伟达（Nvidia）的一些风波，并分析了其中的领导力启示。",
+ "body": [
+  "最近科技圈最大的热点之一，莫过于关于英伟达（Nvidia）的一些高层风波与讨论了。《华尔街日报》资深作者 Alan Murray 近期撰文，深入剖析了这一事件背后的领导力危机与应对之道。",
+  "文章指出，在企业面临巨大成功和聚光灯时，领导者的应对方式至关重要。虽然具体的风波细节各异，但它再次提醒我们，大公司的掌舵人在面对外界审视和内部压力时，决策透明度和沟通水平往往决定了公司的长期走向。",
+  "对于关注科技股和AI浪潮的海外华人来说，英伟达（Nvidia）的一举一动不仅牵动着大家的投资钱包，也影响着整个科技行业的就业和发展趋势。看懂这些高层管理的博弈，有助于我们更好地理解科技巨头的发展逻辑。"
+ ],
+ "tags": [
+  "英伟达",
+  "Nvidia",
+  "领导力",
+  "华尔街日报",
+  "科技热点"
+ ],
+ "original_title": "The Leadership Message in the Nvidia Saga",
+ "lang": "en",
+ "published": "2026-11-13T10:57:00+00:00",
+ "created": "2026-11-13T18:34:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

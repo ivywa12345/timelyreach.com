@@ -1,0 +1,26 @@
+{
+ "key": "f0db6694f4",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-return-some-gains-1b28586d?mod=rss_markets_main",
+ "title": "美国天然气库存增幅超预期，气价应声回落！",
+ "summary": "美国能源信息署（EIA）最新数据显示，上周美国天然气库存增幅大于往年同期平均水平，消息一出，天然气期货价格随即回落。",
+ "body": [
+  "根据《华尔街日报》（Wall Street Journal）报道，美国天然气期货价格在政府公布最新库存数据后出现了回落。原来，官方数据显示上周的天然气库存增幅超过了往年同期的正常水平。",
+  "市场对这一供需信号反应迅速。库存增加意味着市场上并不缺气，供应相对充裕，从而直接拉低了天然气期货的表现。",
+  "对于在美华人来说，天然气价格波动直接关系到家里的冷暖气账单以及日常水电燃气支出。气价回落意味着短时间内取暖成本有望保持平稳，大家的钱包可以暂时松一口气了。"
+ ],
+ "tags": [
+  "天然气",
+  "美国经济",
+  "能源价格",
+  "海外生活"
+ ],
+ "original_title": "U.S. Natural Gas Storage Shows Above-Average Weekly Build",
+ "lang": "en",
+ "published": "2026-11-13T17:03:00+00:00",
+ "created": "2026-11-13T18:36:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

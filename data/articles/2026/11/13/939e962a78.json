@@ -1,0 +1,26 @@
+{
+ "key": "939e962a78",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/for-those-who-cant-afford-legal-help-ai-offers-access-bed2b0ec?mod=rss_opinion",
+ "title": "请不起律师怎么办？AI正在成为普通人的“平价法律顾问”！",
+ "summary": "面对高昂的律师费，许多人往往只能放弃法律维权。不过，最新的行业观点认为，虽然人工智能（AI）无法完全取代专业的法律判断，但它确实为那些打不起官司的人提供了一条触手可及的途径。",
+ "body": [
+  "在现实生活中，高昂的律师费把许多普通人挡在了法院大门之外。不过，随着人工智能技术的发展，这一局面有望得到改变。",
+  "根据《华尔街日报》的报道，尽管人工智能在处理复杂案件时还不能完全取代人类的法律判断，但它正在为那些因无力支付费用而被法院“拒之门外”的群体填补法律服务的空白，提供一条全新的获取法律协助的途径。",
+  "对于在美华人来说，日常生活中难免遇到房东租客纠纷、小型商业合同或是身份移民等琐事，请律师动辄几百美元一小时，常常让人望而却步。虽然AI不能替代专业律师出庭，但它作为初步的“平价法律顾问”，能帮大家省下一笔不小的咨询费，更快了解自己的权益和应对步骤。"
+ ],
+ "tags": [
+  "AI科技",
+  "法律服务",
+  "海外生活",
+  "省钱妙招"
+ ],
+ "original_title": "For Those Who Can’t Afford Legal Help, AI Offers Access",
+ "lang": "en",
+ "published": "2026-11-13T16:06:00+00:00",
+ "created": "2026-11-13T18:34:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

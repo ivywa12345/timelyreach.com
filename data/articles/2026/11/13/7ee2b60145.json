@@ -1,0 +1,27 @@
+{
+ "key": "7ee2b60145",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/peer-to-peer-wagering-isnt-gambling-dont-bet-on-it-61f4e264?mod=rss_markets_main",
+ "title": "这也能叫“非赌博”？预测市场Kalshi和犹他州杠上了！",
+ "summary": "预测市场平台Kalshi坚称自己不是体育博彩公司，但犹他州指出，Kalshi旗下的交易自营部门其实干的就是“庄家”的活。",
+ "body": [
+  "最近，围绕“点对点”（peer-to-peer）下注到底算不算真正的赌博，争议正变得越来越激烈。预测平台Kalshi一直极力撇清自己与传统体育博彩公司（sportsbook）的关系，坚称两者的运作模式完全不同。",
+  "不过，犹他州（Utah）却并不买账。犹他州直言不讳地指出，Kalshi自己的交易自营部门在实际操作中，扮演的角色和传统赌场的“庄家”（the house）根本没有两样。这场关于金融衍生品与博彩边界的拉锯战，正引发各界高度关注。",
+  "对于海外华人来说，随着各种新兴金融和预测工具层出不穷，其背后的法律合规和资金安全风险也值得多留一个心眼，切莫盲目跟风投入。"
+ ],
+ "tags": [
+  "Kalshi",
+  "博彩",
+  "犹他州",
+  "金融监管",
+  "海外热点"
+ ],
+ "original_title": "Opinion | ‘Peer-to-Peer’ Wagering Isn’t Gambling? Don’t Bet on It",
+ "lang": "en",
+ "published": "2026-11-12T20:50:00+00:00",
+ "created": "2026-11-13T18:34:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

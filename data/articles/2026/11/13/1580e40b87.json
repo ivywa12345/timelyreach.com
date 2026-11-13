@@ -1,0 +1,27 @@
+{
+ "key": "1580e40b87",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/west-african-oil-just-got-64-a-barrel-cheaper-for-some-buyers",
+ "title": "买石油还能打折？西非原油价格突然大跳水，每桶便宜了64美元！",
+ "summary": "根据彭博社报道，如果你知道去哪儿买，原油采购成本近期出现了显著的大幅下降，部分买家能买到每桶便宜64美元的西非原油。",
+ "body": [
+  "说到买石油，大家平时想到的都是几美元的涨跌，但这次可不一样。根据彭博社（Bloomberg）记者Bill Lehane的报道，对于某些特定的买家来说，购买西非原油的成本突然大幅下降，每桶原油竟然便宜了整整64美元。",
+  "虽然消息没有透露具体是哪些买家享受到了这笔巨幅折扣，但如此夸张的价差在国际原油市场上并不常见，这也让不少业内人士直呼看不懂。",
+  "对咱们普通海外华人来说，国际油价的大幅波动最终往往会传导到加油站和日常消费上。如果这种低价原油能规模化进入市场，或许能帮大家稍微减轻一点钱包的压力，油费说不定能迎来了喘息的机会。"
+ ],
+ "tags": [
+  "石油",
+  "油价",
+  "财经新闻",
+  "海外华人",
+  "彭博社"
+ ],
+ "original_title": "West African Oil Just Got $64 a Barrel Cheaper for Some Buyers",
+ "lang": "en",
+ "published": "2026-11-13T17:02:34+00:00",
+ "created": "2026-11-13T18:37:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
