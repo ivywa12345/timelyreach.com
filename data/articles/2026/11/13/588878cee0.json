@@ -1,0 +1,24 @@
+{
+ "key": "588878cee0",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-1-led-by-chip-stocks-eb2ed881?mod=rss_markets_main",
+ "title": "美国日本货币政策还在扯不清？日经指数今天反而涨了1.1%！",
+ "summary": "尽管美日两国的货币政策前景依然充满不确定性，但在芯片相关股票的强力带领下，日本股市今天依然实现了1.1%的上涨。",
+ "body": [
+  "今天日经指数迎来了一波不错的涨幅，盘面上涨了1.1%。这次拉动大盘上涨的“主力军”，主要是芯片相关股票。虽然美国和日本接下来的货币政策到底怎么走，现在谁也说不准，市场上还笼罩着观望情绪，但芯片股的这波表现依然相当硬气。"
+ ],
+ "tags": [
+  "日本股市",
+  "日经指数",
+  "芯片股",
+  "货币政策"
+ ],
+ "original_title": "Nikkei Rises 1.1%, Led by Chip Stocks",
+ "lang": "en",
+ "published": "2026-11-13T00:19:00+00:00",
+ "created": "2026-11-13T00:26:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,28 @@
+{
+ "key": "dd7f521dde",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/12/us-news/la-metro-employee-state-worker-among-8-charged-in-177k-welfare-fraud-scheme/",
+ "title": "这就是“吃拿卡要”？洛杉矶8人靠伪造贫困骗取17.7万美元福利，包括政府公职人员",
+ "summary": "洛杉矶近日查获一起恶劣福利欺诈案，8名被告在隐瞒真实收入和资产的情况下，非法领取超过17.7万美元的政府补助。令人大跌眼镜的是，涉案人员中竟然还包括一名加州州政府员工和一名洛杉矶大都会交通局（LA Metro）的员工。",
+ "body": [
+  "据《纽约邮报》（New York Post）报道，洛杉矶县地方检察官霍克曼（Nathan Hochman）周四宣布，这8名被告涉嫌通过伪造申请材料，长期骗取政府发放的低收入补助（如CalFresh和CalWORKs）。他们不仅隐瞒了自己的工资收入，甚至有人在身怀巨额投资款或房产的同时，依然领着救济金。",
+  "涉案者不仅有普通市民，还有两名公职人员。其中，加州就业发展部（Employment Development Department）的员工丹尼尔斯（Nadya Daniels）被指控月薪高达6000美元，却谎称无收入或仅靠兼职，骗取了超过2.1万美元福利；另一名洛杉矶大都会交通局（LA Metro）的员工泰勒（Nyeisha Nicole Taylor）在入职后，仍领取了约1.76万美元的补助。",
+  "其他被告的操作更是令人咋舌：有人坐拥超100万美元的投资账户却在领救济，还有人隐瞒了价值超60万美元的房产和高达数千美元的月租金收入。目前，这8名被告均不认罪，他们面临福利欺诈及伪证罪等重罪指控。",
+  "检察官霍克曼痛斥道：“公共福利是困难家庭的生命线，不是骗子的提款机。”对于在美华人而言，此类案件再次提醒大家，美国的福利系统虽然覆盖广泛，但严查机制日益完善。任何试图隐瞒收入、以身试法的欺诈行为，最终不仅面临巨额罚款和法律制裁，更可能在信用记录和签证身份上留下永久污点，代价远高于领取的这点福利。"
+ ],
+ "tags": [
+  "洛杉矶",
+  "福利欺诈",
+  "政府补助",
+  "公职人员",
+  "法律"
+ ],
+ "original_title": "LA Metro worker, state employee among 8 charged with defrauding $177K in low-income assistance",
+ "lang": "en",
+ "published": "2026-11-12T23:48:33+00:00",
+ "created": "2026-11-13T00:28:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

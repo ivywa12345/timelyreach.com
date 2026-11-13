@@ -1,0 +1,22 @@
+{
+ "key": "dcc6a3862c",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/nvidias-meteoric-rise-in-one-chart-2f47d54e?mod=rss_Technology",
+ "title": "一张图看懂英伟达的迅猛崛起",
+ "summary": "这家曾经默默无闻的公司在ChatGPT引发对其芯片的需求后一飞冲天。",
+ "body": [
+  "这家曾经默默无闻的公司在ChatGPT引发对其芯片的需求后一飞冲天。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Nvidia’s Meteoric Rise, in One Chart",
+ "lang": "en",
+ "published": "2026-11-12T20:14:00+00:00",
+ "created": "2026-11-13T00:23:46+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

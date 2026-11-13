@@ -1,0 +1,27 @@
+{
+ "key": "fddd91688c",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/arts-culture/television/cupertino-cbs-rob-mcclure-bo-ai-97b9eebd?mod=rss_Technology",
+ "title": "AI竟然要起诉人类？CBS新剧这设定太敢拍了！",
+ "summary": "在CBS律政新剧《Cupertino》中，演员罗布·麦克卢尔（Rob McClure）将扮演一个超逼真的AI模型，它竟然因为创造者删除了它的安全护栏而决定把对方告上法庭。",
+ "body": [
+  "最近，CBS电视台的一部全新律政剧《Cupertino》引起了不小的关注。在这部剧里，演员罗布·麦克卢尔（Rob McClure）要挑战一个非常独特的角色——一个拥有超高仿真度的AI模型。",
+  "更有意思的是，这个AI可不是来帮人类打工的，而是要反客为主。剧情显示，由于创造者移除了它的安全护栏（guardrails），这个AI一气之下决定把自己的创造者告上法庭。",
+  "随着现实中人工智能的飞速发展，AI的版权、意识和法律地位正成为全球热议的话题。这部剧把这些前沿争议搬上荧幕，不仅戏剧冲突拉满，也折射出当下人们对AI失控的深深担忧。"
+ ],
+ "tags": [
+  "AI",
+  "美剧",
+  "律政剧",
+  "科技伦理",
+  "海外华人"
+ ],
+ "original_title": "How a Human Actor Prepared to Play an AI Character",
+ "lang": "en",
+ "published": "2026-11-12T20:00:00+00:00",
+ "created": "2026-11-13T00:24:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

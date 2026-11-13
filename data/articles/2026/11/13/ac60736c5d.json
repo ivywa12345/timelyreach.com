@@ -1,0 +1,27 @@
+{
+ "key": "ac60736c5d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-drop-to-near-one-year-low-as-rate-hike-bets-increase",
+ "title": "金价跌出“一年新低”！通胀难消，美联储还要继续下狠手？",
+ "summary": "金价近期持续走低，徘徊在一年来的最低水平。背后的主因是市场押注美联储为了对抗顽固的通胀，将不得不进一步激进加息，这对作为避险资产的黄金构成了巨大压力。",
+ "body": [
+  "黄金最近的日子不太好过，价格一直在一年来的低位徘徊。简单来说，就是市场现在越来越相信美联储（Federal Reserve）会继续维持高利率政策，甚至可能进一步加息，以遏制始终降不下来的通胀。",
+  "根据彭博社（Bloomberg）的报道，由于投资者对美联储激进加息的预期增强，持有黄金的吸引力被削弱了。大家知道，黄金本身不生利息，当银行存款或债券利息越来越高时，资金就会纷纷从金市撤出，转投其他投资渠道。",
+  "对于咱们在美华人来说，这件事其实是个信号。如果加息节奏不放缓，不仅意味着咱们的贷款利率（如房贷、车贷）居高不下，钱包缩水感会更明显，这也提醒大家在做投资配置时要更加谨慎，黄金短期内的避险光环确实受到了不小的冲击。"
+ ],
+ "tags": [
+  "黄金价格",
+  "美联储",
+  "通货膨胀",
+  "理财投资",
+  "美国经济"
+ ],
+ "original_title": "Gold Holds Drop to Near One-Year Low as Rate-Hike Bets Increase",
+ "lang": "en",
+ "published": "2026-11-12T23:58:45+00:00",
+ "created": "2026-11-13T00:27:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

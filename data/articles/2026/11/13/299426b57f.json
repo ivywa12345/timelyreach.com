@@ -1,0 +1,28 @@
+{
+ "key": "299426b57f",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+ "title": "英伟达CEO绯闻女友被曝涉华为？这瓜越来越大了！",
+ "summary": "英伟达CEO黄仁勋的绯闻女友爱丽丝·黄（Alice Huang）被私营情报机构Tesari扒出，她曾通过复杂的商业网络，间接持股向华为提供算力的企业。这一发现可能引发美国国家安全与科技防扩散调查。",
+ "body": [
+  "近日，英伟达（Nvidia）CEO黄仁勋（Jensen Huang）的绯闻女友爱丽丝·黄（Alice Huang，中文名Huang Le）被曝出惊天猛料：她不仅和黄仁勋有商业往来和绯闻，还被私营情报机构Tesari发现，她曾拥有向英伟达在华最大竞争对手华为提供算力的企业股份。",
+  "根据Tesari向CNBC独家透露的文件显示，爱丽丝·黄名下的商业网络错综复杂，涉及云业务、金融公司和数据中心。早在2019年，她就卖掉了自己的一家云业务公司，而相关的海外实体后来成为了英伟达芯片输华的关键推手。此外，她还是上海合禧（Shanghai Hexi）等金融机构的共同所有者，该机构曾投资并控股了一家数据中心，而该数据中心的核心客户正是华为云（Huawei Cloud）。",
+  "Tesari的国家安全应用副总裁、前国土安全调查局（Homeland Security Investigations）主管特工布莱恩·安德森（Brian Andersen）表示，这种活动需要进行国家安全和科技反扩散调查。如果商务部工业与安全局等机构发现有人未经授权向华为转移“受控设备”，可能面临出口管制违规、共谋和走私等指控。分析人士还怀疑，这层关系如此 convoluted（错综复杂），可能是为了故意掩盖两者的关联。",
+  "对于在美华人来说，这场由商业巨头、绯闻和中美科技战交织而成的“大戏”不仅是个八卦，也再次凸显了当前中美高科技供应链审查的敏感与严苛。任何涉及芯片、算力或跨国商业网络的灰色地带，都可能成为美国监管机构重点盯防的对象。目前，英伟达、华为以及涉事各方均未对此作出回应。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "华为",
+  "芯片",
+  "中美科技战"
+ ],
+ "original_title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+ "lang": "en",
+ "published": "2026-11-12T22:47:28+00:00",
+ "created": "2026-11-13T00:24:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

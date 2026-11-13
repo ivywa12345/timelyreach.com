@@ -1,0 +1,27 @@
+{
+ "key": "26446051f3",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nvidia-tumbles-as-its-ceo-jensen-huang-departs-amid-multiplying-scandals-d380df1f?mod=rss_markets_main",
+ "title": "英伟达股价大跌！黄仁勋卸任风波不断，竞争对手乘势追击",
+ "summary": "英伟达（Nvidia）首席执行官黄仁勋（Jensen Huang）在丑闻缠身之际卸任，导致公司股价大跌，同时竞争对手AMD和博通（Broadcom）股价上涨，市场收益率也在上升。",
+ "body": [
+  "最近科技圈和股市可是炸开了锅！人工智能（AI）芯片霸主英伟达（Nvidia）迎来了大地震：由于首席执行官黄仁勋（Jensen Huang）在多重丑闻中离职，公司股价直接来了个大跌。",
+  "除了高层变动带来的震荡，英伟达在市场上也面临着不小的压力。它的老对手AMD和博通（Broadcom）趁势迎头赶上，股价纷纷上涨，再加上整体市场收益率的走高，让英伟达的处境雪上加霜。",
+  "对于咱们关注美股和科技股的海外华人来说，英伟达一直以来都是大家投资组合里的香饽饽。这次高层换血和股价跳水，直接牵动着不少人的钱包。接下来还得密切关注这家芯片巨头能不能稳住阵脚，以及竞争对手会如何瓜分市场份额。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "美股",
+  "人工智能",
+  "科技新闻"
+ ],
+ "original_title": "Nvidia Tumbles as its CEO Jensen Huang Departs Amid Multiplying Scandals",
+ "lang": "en",
+ "published": "2026-11-12T21:11:00+00:00",
+ "created": "2026-11-13T00:24:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

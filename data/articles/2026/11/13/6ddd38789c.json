@@ -1,0 +1,27 @@
+{
+ "key": "6ddd38789c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/china-internet-stock-gains-face-reality-check-in-nvidia-fallout",
+ "title": "中概股反弹遇冷？英伟达风波把科技股又带沟里了！",
+ "summary": "11月刚有点起色的中国互联网股票，近日遭遇了英伟达丑闻的“城门失火，殃及池鱼”，好不容易迎来的反弹面临严峻现实考验。",
+ "body": [
+  "11月份刚刚在低位迎来一波反弹的中国互联网股票，最近遇到了“飞来横祸”。根据彭博社报道，由于英伟达公司（Nvidia Corp.）卷入丑闻并引发连带反应，这波中概股的反弹行情正在遭遇现实的残酷考验，面临不小的回撤压力。",
+  "此前，不少投资者对饱受打击的中概股抱有期待，希望11月的反弹能成为行情转折点。然而，美股科技巨头的风波迅速波及到了整个板块，让市场情绪再度紧张起来。",
+  "对于关注美股和中概股的海外华人来说，这类板块的波动往往直接牵动着投资账户的收益。科技股风波不断，提醒大家在配置资产时还是要多留意外部市场的系统性风险，看紧自己的钱袋子。"
+ ],
+ "tags": [
+  "中概股",
+  "英伟达",
+  "美股",
+  "海外投资",
+  "科技股"
+ ],
+ "original_title": "China Internet Stock Gains Face Reality Check in Nvidia Fallout",
+ "lang": "en",
+ "published": "2026-11-13T00:07:02+00:00",
+ "created": "2026-11-13T00:25:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

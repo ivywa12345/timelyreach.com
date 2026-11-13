@@ -1,0 +1,27 @@
+{
+ "key": "f3a3a9cef9",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/jensen-huang-resigns-nvidia-alice-huang-china-megaspeed-c0106752?mod=rss_worldnews",
+ "title": "黄仁勋跌落神坛？华尔街大佬急了：收紧出口管制别把美国AI自己玩残了！",
+ "summary": "《华尔街日报》发表社论指出，虽然美国可以收紧对华出口管制，但决策者必须小心，不要因此削弱了美国自身的AI产业竞争力。",
+ "body": [
+  "最近，围绕着人工智能（AI）芯片巨头英伟达（NVIDIA）掌门人黄仁勋（Jensen Huang）的讨论不断升温。《华尔街日报》编辑委员会（The Editorial Board）发表了一篇评论文章，直言不讳地指出：出口管制虽然可以不断收紧，但千万别伤及美国AI的根本元气。",
+  "文章的核心观点非常明确：美国在AI领域的领先地位来之不易，如果在制定政策时用力过猛，导致美国本土的企业和AI创新受到束缚，反而会得不偿失。如何在国家安全和保持科技领先之间找到平衡，成了当前摆在决策者面前的一大难题。",
+  "对于咱们海外华人来说，AI行业的风吹草动直接关系到高科技领域的就业机会、公司的发展前景，甚至相关的投资回报。这场关于出口管制的博弈后续会如何发展，值得在科技圈打拼的大家持续关注。"
+ ],
+ "tags": [
+  "黄仁勋",
+  "英伟达",
+  "人工智能",
+  "出口管制",
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | The Fallout From the Fall of Jensen Huang",
+ "lang": "en",
+ "published": "2026-11-12T23:29:00+00:00",
+ "created": "2026-11-13T00:26:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

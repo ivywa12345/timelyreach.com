@@ -1,0 +1,27 @@
+{
+ "key": "74be87d910",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/ukraine-starshield-spacex-russia-elon-musk-donald-trump-3902974b?mod=rss_worldnews",
+ "title": "星链搞事情？乌克兰抱怨卫星网络频频掉链子",
+ "summary": "据《华尔街日报》评论版报道，乌克兰方面近期反映SpaceX旗下的“星盾”（Starshield）服务在战场上持续受限，不仅影响了作战效率，甚至还让俄军钻了空子。",
+ "body": [
+  "最近，乌克兰在前线又碰上了闹心事儿。据《华尔街日报》（The Wall Street Journal）编辑委员会的评论文章指出，SpaceX公司为军方打造的“星盾”（Starshield）卫星网络系统，最近频繁出现使用限制。说白了就是：信号时断时续，或者关键时刻掉链子，让乌军在战场通信和指挥上十分被动。",
+  "乌方认为，这些限制不仅极大削弱了乌军的作战能力，客观上反而帮了俄军一把。作为现代战争中“不可或缺”的数字化后勤保障，一旦星链服务不稳定，前线的无人机协同和情报传递就会直接受阻。目前，SpaceX对此尚未给出明确的正面回应，但这种“科技巨头深度介入战争”引发的争议，显然已经不是第一次了。",
+  "对于在海外的华人来说，这件事其实也折射出一个硬道理：在这个科技即国力的时代，民用巨头的一举一动都可能左右地缘政治的天平。虽然远在海外的我们不直接受此影响，但这再次提醒了大家，在当前复杂多变的国际环境下，任何依赖单一技术平台的业务或资产，其背后的“政策风险”都是不可忽视的一环。"
+ ],
+ "tags": [
+  "SpaceX",
+  "乌克兰",
+  "星链",
+  "地缘政治",
+  "科技新闻"
+ ],
+ "original_title": "Opinion | Ukraine Reports More SpaceX Disruptions",
+ "lang": "en",
+ "published": "2026-11-12T22:55:00+00:00",
+ "created": "2026-11-13T00:27:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

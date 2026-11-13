@@ -1,0 +1,26 @@
+{
+ "key": "340bc5d8d5",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-12/quant-trading-firm-imc-plans-to-double-staff-in-hong-kong",
+ "title": "外资大举加码！这家知名交易巨头计划两年内翻倍香港员工",
+ "summary": "知名自营交易公司 IMC Trading 计划在未来两年内将香港办事处的员工人数大约翻一番，这是外资持续加速在香港扩张的最新例证。",
+ "body": [
+  "如果你最近关注金融圈的动向，就会发现外资对香港的信心正在回暖。根据彭博社报道，知名自营交易公司 IMC Trading 透露，他们计划在未来两年内，将其香港办事处的员工规模扩大一倍。",
+  "作为一家全球领先的量化交易和做市商公司，IMC Trading 的这一举动并不是个例。近期，许多外资金融机构都在加速布局香港，看中的正是这里的市场潜力和独特的连接作用。",
+  "对于在海外和香港发展的华人来说，外资金融巨头的持续扩张无疑是个好消息，这意味着当地会释放出更多高薪的金融科技与交易岗位，相关行业的就业机会也将随之增加。"
+ ],
+ "tags": [
+  "香港金融",
+  "IMC Trading",
+  "外资扩张",
+  "职场就业"
+ ],
+ "original_title": "Trading Firm IMC Plans to Double Staff in Hong Kong",
+ "lang": "en",
+ "published": "2026-11-12T00:00:00+00:00",
+ "created": "2026-11-13T00:23:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

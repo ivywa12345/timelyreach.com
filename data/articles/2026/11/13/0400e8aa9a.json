@@ -1,0 +1,27 @@
+{
+ "key": "0400e8aa9a",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/jensen-huang-resigns-nvidia-alice-huang-china-megaspeed-c0106752?mod=rss_opinion",
+ "title": "美国搞出口管制，别把自家AI的后路给断了！",
+ "summary": "华尔街日报发表社论指出，虽然美国可以收紧对华出口管制，但千万不能伤及美国本土AI产业的元气。",
+ "body": [
+  "最近有关人工智能（AI）出口管制的讨论引起了广泛关注。《华尔街日报》编辑委员会发表社论提醒，政策制定者在收紧出口限制的同时，一定要把握好分寸，避免对美国自身的AI技术发展造成不必要的伤害。",
+  "文章指出，过度或不当的限制不仅可能削弱美国企业在全球市场的竞争力，还可能适得其反。如何在国家安全和保持科技领先地位之间找到平衡，是当前摆在决策者面前的一道难题。",
+  "对于身处海外的华人来说，美国的AI政策直接关乎科技行业的就业机会、投资风向以及整体经济走势。如果本土AI发展受阻，相关从业者的职业发展和钱包也难免受到波及，大家还得持续关注后续政策的落地情况。"
+ ],
+ "tags": [
+  "人工智能",
+  "出口管制",
+  "华尔街日报",
+  "美国科技",
+  "海外华人"
+ ],
+ "original_title": "The Fallout From the Fall of Jensen Huang",
+ "lang": "en",
+ "published": "2026-11-12T23:29:00+00:00",
+ "created": "2026-11-13T00:23:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "9b1bf9378c",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/americas/u-s-collected-12-billion-in-venezuelan-oil-sales-returning-nearly-all-of-it-140bba70?mod=rss_worldnews",
+ "title": "美国卖委内瑞拉石油赚了120亿美元？国务院报告说：钱其实大都还回去了",
+ "summary": "根据《华尔街日报》报道，美国国务院最新报告显示，美国此前通过委内瑞拉石油销售积累了约120亿美元资金，但几乎全部都返还给了加拉加斯。这与特朗普此前声称美国从中获利的说法形成了反差。",
+ "body": [
+  "话说美国之前通过委内瑞拉的石油销售，手里可是攒下了大约120亿美元（约合120 billion USD）的巨额资金。不过根据美国国务院（State Department）最新出炉的一份报告显示，这笔钱并没有进美国的腰包，而是几乎原封不动地全给加拉加斯（Caracas）送回去了。",
+  "这事儿挺有意思的，因为特朗普（Trump）之前曾公开表示，美国通过这些石油交易捞到了实打实的利润。但从官方披露的实际情况来看，事实跟政客嘴里说的可不太一样，大部分销售收入最终还是回到了委内瑞拉手中。",
+  "对于咱们海外华人来说，这类国际能源制裁和资金解冻的新闻虽然看似遥远，但它们往往会直接影响到国际油价的波动，进而传导到大家的日常加油和生活成本里。"
+ ],
+ "tags": [
+  "美国新闻",
+  "委内瑞拉石油",
+  "华尔街日报",
+  "国际财经"
+ ],
+ "original_title": "U.S. Collected $12 Billion in Venezuelan Oil Sales, Returning Nearly All of It",
+ "lang": "en",
+ "published": "2026-11-12T20:14:00+00:00",
+ "created": "2026-11-13T00:24:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

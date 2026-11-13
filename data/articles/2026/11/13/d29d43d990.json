@@ -1,0 +1,29 @@
+{
+ "key": "d29d43d990",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+ "title": "微软大面积崩了！Outlook、Teams集体瘫痪，数十万海外打工人抓狂",
+ "summary": "周四微软遭遇大面积技术故障，导致Outlook、Teams和Microsoft 365等核心服务瘫痪，高峰期有约13万名用户报告Outlook出现问题。微软随后表示正在排查并逐步恢复服务。",
+ "body": [
+  "周四午后，微软（Microsoft）遭遇了一场大面积的服务中断，根据故障追踪网站Downdetector.com的数据，成千上万的用户受到了影响。",
+  "这场故障大约在下午1点前不久开始，直接波及了Microsoft 365服务、Outlook以及Teams。在故障高峰期，大约有13万名用户报告Outlook无法正常使用。虽然当时也有亚马逊AWS和谷歌（Google）的用户在网站上报告问题，但亚马逊随后澄清其服务运行正常，所谓的故障只是互联网上其他地方的不相关中断引起的。",
+  "微软发言人在给CNBC的一份声明中表示：“我们已经注意到有关用户在使用Microsoft 365服务（主要是Exchange Online相关问题）时遇到困难的报告，正在进行调查。感谢客户的耐心等待，我们将尽快恢复服务。”微软官方随后通过社交平台X的Microsoft 365 Status账号不断更新进展。",
+  "经过排查，微软最初将连接问题归咎于“多地区基础设施负载过高”。随后，他们查明高负载其实是因为“大量服务器意外不可用，导致其余基础设施不堪重负”，并且部分服务器未能通过自动健康检查。到了下午4点，微软宣布已经验证了一种替代的服务健康检查方法，使部分受影响的服务器恢复在线，并正准备通过自动化恢复系统持续检测和重启无响应的服务器。",
+  "对于在海外工作、经常依赖Outlook和Teams办公的华人群体来说，这类突发系统崩溃往往意味着工作流的瞬间停摆。虽然微软最终采取措施恢复了服务器，但频繁的云端大面积故障也再次敲响了警钟：在全盘依赖线上办公的今天，备用联系方式和离线工作习惯依然非常重要。"
+ ],
+ "tags": [
+  "微软",
+  "Microsoft 365",
+  "Outlook",
+  "海外打工人",
+  "科技突发"
+ ],
+ "original_title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+ "lang": "en",
+ "published": "2026-11-12T22:24:12+00:00",
+ "created": "2026-11-13T00:25:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

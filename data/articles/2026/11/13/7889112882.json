@@ -1,0 +1,27 @@
+{
+ "key": "7889112882",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-12/bessent-ties-attacks-on-french-fridges-to-chinese-ai-model",
+ "title": "法国超市冰箱被黑，美国财政部长：凶手用了中国AI模型？",
+ "summary": "美国财政部长贝森特（Scott Bessent）周四表示，近期导致法国超市冰箱瘫痪的网络攻击事件中，黑客使用了中国的某个人工智能模型。",
+ "body": [
+  "美国财政部长斯科特·贝森特（Scott Bessent）在周四透露了一个让人意外的消息：最近法国各大超市遭遇黑客攻击、导致冰箱集体瘫痪的事件，幕后黑手在使用黑客手段时，竟然用到了一个中国的人工智能模型。",
+  "目前，这起事件的具体细节以及该中国AI模型在其中扮演了怎样的角色，相关部门还在进一步调查和评估中。这也再次引发了国际社会对人工智能技术在网络安全领域被滥用的担忧。",
+  "对于身处海外的华人来说，随着AI技术的飞速发展，网络安全和关键基础设施的安全问题越来越受到各国政府的关注。此类跨国技术与安全的争议，未来或许会在科技监管、数据安全等方面带来更多连锁反应。"
+ ],
+ "tags": [
+  "网络安全",
+  "人工智能",
+  "法国超市",
+  "美国财政部",
+  "科技新闻"
+ ],
+ "original_title": "Bessent Ties Attacks on French Fridges to Chinese AI Model",
+ "lang": "en",
+ "published": "2026-11-12T23:35:18+00:00",
+ "created": "2026-11-13T00:25:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

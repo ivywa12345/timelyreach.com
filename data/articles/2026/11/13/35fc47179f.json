@@ -1,0 +1,26 @@
+{
+ "key": "35fc47179f",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/alerts/uscis-implements-new-immigration-parole-fee-required-by-hr-1",
+ "title": "注意！美国移民局新规：这项保释费直接飙到1000美元",
+ "summary": "美国国土安全部（DHS）和移民局（USCIS）根据H.R. 1协调法案，将正式实施一项新的移民保释（Parole）费用，2025财年的标准为1,000美元，未来还将根据通胀每年调整。",
+ "body": [
+  "近日，美国移民局（USCIS）宣布将根据 H.R. 1 协调法案（H.R. 1 Reconciliation Bill）的要求，正式实施一项全新的移民保释（Parole）费用。这项新规涵盖了所有获准入境或重新获准入境（re-parole）的情况，2025 财年的收费标准为 1,000 美元，并且未来会随着通货膨胀进行年度调整。",
+  "根据移民局的说明，这项费用并非在提交 I-131 表格（旅行证件、保释证件及出入境记录申请表）时缴纳，而是在移民局决定批准保释请求、并确定需要缴费后，向申请人发送带有缴费说明和截止日期的通知。申请人必须在指定期限内完成缴费，否则保释申请将无法获得批准。具体的收费时间、豁免条件以及未缴费的后果，已在《联邦公报》（Federal Register）的通知中详细说明。"
+ ],
+ "tags": [
+  "美国移民局",
+  "USCIS",
+  "移民政策",
+  "保释费",
+  "H.R.1"
+ ],
+ "original_title": "USCIS Implements New Immigration Parole Fee Required by H.R. 1",
+ "lang": "en",
+ "published": "2025-10-15T14:07:47+00:00",
+ "created": "2026-11-13T00:24:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

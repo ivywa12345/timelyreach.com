@@ -1,0 +1,27 @@
+{
+ "key": "0bfa2e26d5",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-12/sec-investigates-t1-energy-s-disclosures-of-federal-tax-credits",
+ "title": "太阳能公司要凉？T1 Energy涉嫌虚报清洁能源税收优惠，遭SEC立案调查！",
+ "summary": "美国证交会（SEC）目前正对太阳能公司T1 Energy展开调查，重点审查其关于清洁能源制造税收优惠资格的信息披露以及其他会计问题。",
+ "body": [
+  "据彭博社报道（作者：Mark Chediak），太阳能公司T1 Energy Inc.近日透露，美国证券交易委员会（SEC）正在对该公司进行调查。此次调查的核心，是该公司关于其是否有资格获得清洁能源制造税收优惠（clean energy manufacturing tax credits）的信息披露，以及相关的会计处理问题。",
+  "这类清洁能源税收优惠近年来吸引了大量资本涌入，但监管部门对企业合规性的审查也随之收紧。目前，T1 Energy尚未透露调查的具体细节或潜在影响。",
+  "对于关注新能源投资的海外华人来说，如果持有相关股票或身处清洁能源行业，这类合规风波往往会引发股价震荡。建议大家密切关注后续财报和监管通报，防范投资风险。"
+ ],
+ "tags": [
+  "美国SEC",
+  "T1 Energy",
+  "太阳能",
+  "税收优惠",
+  "海外投资"
+ ],
+ "original_title": "SEC Investigates T1 Energy’s Disclosures of Tax Credits",
+ "lang": "en",
+ "published": "2026-11-12T22:03:32+00:00",
+ "created": "2026-11-13T00:24:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
