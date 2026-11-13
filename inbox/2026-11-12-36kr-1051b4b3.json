@@ -1,0 +1,20 @@
+{
+  "title": "谷歌发布Gemini 4，免费用户也能用",
+  "summary": "谷歌推出主打速度与效率的新模型Gemini 4 Hydrogen，免费用户自动可用，付费用户可手动选择，开发者可通过AI Studio和API调用。",
+  "body": [
+    "谷歌发布新模型Gemini 4 Hydrogen，主打速度与效率，面向所有人开放：免费用户由系统自动选用，付费用户可手动选择，开发者可通过AI Studio和API调用。谷歌搜索也将接入这一模型，是其规模最大的一次搜索模型升级。",
+    "高速模式的运行速度是Gemini 3.8 Flash的2.5倍，幻觉率降低超过80%。在Artificial Analysis指数上，High模式得51分、Xhigh模式54分，均超过Argon模型。在Agents' Last Exam评测中得分71.6%，高于Claude Sonnet 5.5的60.4%和GPT-6.1 Terra的69.8%。",
+    "在Vending-Bench 2评测中，该模型创下14549美元的收入；SWE-sweep领先13.5个百分点；Terminal-Bench得分为57%，低于Claude的63.9%。",
+    "API定价为每百万输入词元1.5美元、输出词元7.5美元，低于Argon的2美元和10美元，高于Flash 3.8的0.75美元和3.75美元。Flash 3.8的价格将于明年1月1日上调至与Hydrogen相同的水平。"
+  ],
+  "images": [],
+  "source_name": "TimelyReach",
+  "source_url": "https://36kr.com/p/4067431058855815",
+  "board": "finance",
+  "tags": [
+    "谷歌",
+    "Gemini",
+    "AI模型"
+  ],
+  "created": "2026-11-12T11:30:00Z"
+}
