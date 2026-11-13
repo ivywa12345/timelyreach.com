@@ -1,0 +1,28 @@
+{
+ "key": "05c2a9f983",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2120974160180469784",
+ "title": "美国在AI算力竞赛中持续领先中国",
+ "summary": "据Epoch AI统计，自2022年以来全球约72%的AI算力流向美国，仅约10%流向中国，且美国在新增算力中的占比仍在不断攀升。",
+ "body": [
+  "据Epoch AI统计，美国正在AI算力竞赛中甩开对手。",
+  "自2022年以来，全球约72%的AI算力流向了美国，约10%流向中国。",
+  "美国在新增算力中的占比仍在不断攀升：",
+  "2022年至2024年：每年约60%",
+  "2025年：72%",
+  "2026年上半年：78%"
+ ],
+ "tags": [
+  "人工智能",
+  "算力",
+  "中美"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-12T20:17:00+00:00",
+ "created": "2026-11-13T02:32:42+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

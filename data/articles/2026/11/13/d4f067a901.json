@@ -1,0 +1,23 @@
+{
+ "key": "d4f067a901",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Anthropic",
+ "source_url": "https://x.com/claudeai/status/2120973994191094179",
+ "title": "Claude Meetings上线：AI加入视频会议做文档",
+ "summary": "Anthropic推出Claude Meetings测试版，可把Claude加入团队视频会议，在通话进行中协助制作文档、白板等内容。",
+ "body": [
+  "Anthropic推出Claude Meetings：把Claude加入团队视频会议，它会在你们还在交谈时，协助制作文档、白板和其他内容。",
+  "该功能已开始在Team和Enterprise套餐上以测试版形式推出。"
+ ],
+ "tags": [
+  "人工智能",
+  "Anthropic"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-12T20:16:20+00:00",
+ "created": "2026-11-13T02:32:42+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
