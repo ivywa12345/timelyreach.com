@@ -1,0 +1,28 @@
+{
+ "key": "3307a1e900",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/13/us-news/medical-helicopter-crashes-with-3-crew-members-on-board/",
+ "title": "突发！俄克拉荷马州一架医疗直升机坠毁，所幸无人死亡",
+ "summary": "当地时间周五凌晨，一架载有3名机组人员的医疗直升机在俄克拉荷马州坠毁，目前仅一人受轻伤，事故原因正在调查中。",
+ "body": [
+  "据《纽约邮报》（New York Post）报道，周五凌晨3点30分左右，一架隶属于医疗转运公司Med-Trans的直升机在俄克拉荷马州（Oklahoma）发生坠机事故。万幸的是，机上当时并无患者，只有3名机组人员。",
+  "基奥瓦县（Kiowa County）警长乔·詹兹（Joe Janz）表示，事发地点位于孤狼镇（Lone Wolf）以北的田野中。事故造成一名机组人员受轻伤，暂无生命危险。这架直升机此前从当地一家医院起飞，原计划前往德克萨斯州的柴尔德里斯（Childress）。",
+  "根据联邦航空管理局（FAA）的记录，涉事直升机由Med-Trans运营，制造于2007年，各项认证齐全。目前，联邦和州政府的调查人员已抵达现场，事故的具体原因仍有待进一步调查。",
+  "对于经常往返于各州或从事医疗相关工作的华人朋友来说，这类突发航空事故提醒我们，即使是专业的医疗急救机组也面临飞行风险。虽然该事故并未造成严重伤亡，但后续飞行安全调查的结果值得关注。"
+ ],
+ "tags": [
+  "美国新闻",
+  "俄克拉荷马州",
+  "医疗直升机",
+  "坠机事故",
+  "突发新闻"
+ ],
+ "original_title": "Medical helicopter crashes with 3 crew members on board",
+ "lang": "en",
+ "published": "2026-11-13T16:30:43+00:00",
+ "created": "2026-11-13T18:10:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

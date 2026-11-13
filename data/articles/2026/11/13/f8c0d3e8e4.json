@@ -1,0 +1,27 @@
+{
+ "key": "f8c0d3e8e4",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/cio-journal/nvidia-needs-three-ceos-in-one-59038b0c?mod=rss_Technology",
+ "title": "英伟达太难了！这CEO的位置，一个人根本扛不住？",
+ "summary": "华尔街日报指出，如今的英伟达业务摊得太大，一个人当CEO根本不够用；与此同时，微软正忙着修复导致大面积瘫痪的技术故障。",
+ "body": [
+  "话说最近科技圈最风光的公司非英伟达（Nvidia）莫属，但根据《华尔街日报》资深记者Steven Rosenbush的分析，这家巨头现在面临的摊子实在太大，一个人当CEO根本分身乏术，简直需要同时拥有三个CEO才够用。",
+  "虽然文章没有透露更多细节点菜，但这反映出当今顶级科技巨头的掌门人面临着前所未有的压力——既要搞定芯片硬件研发，又要掌控庞大的软件生态，还要应对复杂的全球供应链和地缘政治。",
+  "另一方面，科技圈这几天也没闲着，软件巨头微软（Microsoft）正忙着加班加点，全力修复最近发生的全球大面积系统故障，力求尽快恢复各项服务的正常运行。",
+  "对咱们海外华人来说，科技巨头们的这些大动作不仅牵动着股市和大家的投资钱包，也直接影响着整个科技行业的就业和发展趋势，值得咱们持续关注。"
+ ],
+ "tags": [
+  "英伟达",
+  "微软",
+  "科技头条",
+  "海外华人"
+ ],
+ "original_title": "Nvidia Needs Three CEOs in One",
+ "lang": "en",
+ "published": "2026-11-13T15:07:00+00:00",
+ "created": "2026-11-13T18:06:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "daff1b3a52",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/trump-to-extend-shipping-waiver-for-oil-fertilizer-for-90-days",
+ "title": "为了降油价！特朗普大手一挥，外资船运输豁免再延长90天",
+ "summary": "美国总统特朗普为了降低燃料成本，决定将外国籍船只在美国港口间运输石油和化肥的豁免政策延长90天，给能源公司和贸易商更多缓冲时间。",
+ "body": [
+  "据彭博社报道（作者：Jennifer A. Dlouhy），美国总统特朗普（Donald Trump）准备将一项针对石油和化肥等大宗商品的航运豁免政策延长90天。",
+  "这项政策允许能源公司和贸易商使用悬挂外国旗帜的船只在美国境内运输相关物资。此举的核心目的非常明确，就是希望通过引入更多运力，来进一步降低美国的燃料成本。",
+  "对在美华人来说，油价和物流成本直接关系到日常生活的方方面面。燃油和化肥运输成本的下降，有望在一定程度上缓解通胀压力，让大家的油箱和菜篮子稍微轻松一点。"
+ ],
+ "tags": [
+  "特朗普",
+  "油价",
+  "美国经济",
+  "航运政策",
+  "通货膨胀"
+ ],
+ "original_title": "Trump to Extend Shipping Waiver for Oil, Fertilizer for 90 Days",
+ "lang": "en",
+ "published": "2026-11-13T17:47:45+00:00",
+ "created": "2026-11-13T18:05:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

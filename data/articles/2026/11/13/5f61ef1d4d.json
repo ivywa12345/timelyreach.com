@@ -1,0 +1,27 @@
+{
+ "key": "5f61ef1d4d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/indonesian-billionaire-s-lng-plant-gets-140-million-from-canada",
+ "title": "加拿大甩出1.4亿美元！帮印尼首富在西海岸建液化天然气项目",
+ "summary": "加拿大政府向印尼首富支持的一个西海岸液化天然气项目注资2亿加元（约合1.4亿美元），此举旨在推动出口市场多元化，减少对美国的依赖。",
+ "body": [
+  "加拿大政府近日出手阔绰，直接向西海岸的一个液化天然气（LNG）项目注入了2亿加元（约合1.4亿美元）的资金。这个项目来头不小，背后的金主可是印尼首富。",
+  "根据彭博社的报道，加拿大总理马克·卡尼（Mark Carney）此举的核心目的非常明确，就是希望能够推动该国的出口实现多元化，不再把鸡蛋全放在美国这一个篮子里。",
+  "对于关注北美能源动态和经济走向的朋友来说，加拿大政府加码能源出口基建，不仅关乎其自身的经济政策转向，也可能在长期影响当地的能源市场供应与价格。"
+ ],
+ "tags": [
+  "加拿大",
+  "液化天然气",
+  "印尼首富",
+  "能源出口",
+  "海外经济"
+ ],
+ "original_title": "Indonesian Billionaire’s LNG Plant Gets $140 Million From Canada",
+ "lang": "en",
+ "published": "2026-11-13T17:30:09+00:00",
+ "created": "2026-11-13T18:07:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

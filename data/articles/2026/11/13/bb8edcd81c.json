@@ -1,0 +1,27 @@
+{
+ "key": "bb8edcd81c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/swiss-respiratory-biotech-windward-up-7-9-in-us-trading-debut",
+ "title": "又一家生物医药公司赴美上市！Windward首日大涨近8%",
+ "summary": "瑞士呼吸疾病生物技术公司Windward Bio Group AG在美股上市首日股价上涨7.9%，此前通过首次公开募股（IPO）和私募筹集了约2.25亿美元资金。",
+ "body": [
+  "据彭博社报道，来自瑞士的呼吸疾病生物技术公司Windward Bio Group AG在美国迎来了它的高光上市首秀，股价在交易首日直接拉升了7.9%。",
+  "在此次登陆美股市场之前，该公司通过首次公开募股（IPO）和私募融资，成功揽入了约2.25亿美元的资金，这笔资金为其后续的药物研发和市场拓展提供了充足的弹药。",
+  "近年来，不少海外生物医药企业纷纷将目光投向美国资本市场以寻求更多融资机会。对于关注美股医药板块的海外华人投资者来说，这类初上市的生物科技股波动通常较大，在带来机遇的同时也伴随着不小的风险，建议在做资产配置时多加留意。"
+ ],
+ "tags": [
+  "美股",
+  "生物医药",
+  "IPO",
+  "华尔街",
+  "海外投资"
+ ],
+ "original_title": "Swiss Respiratory Biotech Windward Up 7.9% in US Trading Debut",
+ "lang": "en",
+ "published": "2026-11-13T17:25:01+00:00",
+ "created": "2026-11-13T18:08:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

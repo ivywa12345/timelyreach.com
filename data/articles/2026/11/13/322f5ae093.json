@@ -1,0 +1,27 @@
+{
+ "key": "322f5ae093",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/how-the-ai-trade-hijacked-the-treasury-market-for-a-month-3fa26a9f?mod=rss_markets_main",
+ "title": "怪事！AI狂潮怎么把美国国债市场给“绑架”了一个月？",
+ "summary": "华尔街日报专栏作家James Mackintosh指出，近期AI概念的热炒曾在长达一个月的时间里严重干扰了美国国债市场的正常运行。同时，这也让人关注到英伟达（Nvidia）迈入新阶段以及微软（Microsoft）遭遇全球宕机事件的影响。",
+ "body": [
+  "最近华尔街发生了一件新鲜事：火热的AI板块居然把整个美国国债市场给“绑架”了一个月！根据《华尔街日报》专栏作家James Mackintosh的分析，这波AI投资狂潮不仅让科技股疯狂，还在一段时间里搅乱了国债市场的正常节奏。",
+  "除了这场让人大开眼界的“AI劫持国债”现象，近期科技圈还有两件大事备受瞩目：一是芯片巨头英伟达（Nvidia）正式跨入了其发展的下一个全新阶段；二是微软（Microsoft）此前遭遇的全球大宕机事件，也让外界再次意识到全球数字基础设施的脆弱性。",
+  "对于海外华人投资者来说，无论是连带影响利率和资产配置的国债市场风波，还是直接关系到工作和科技股投资的英伟达与微软动态，都提醒着我们在大热的科技浪潮中，还得时刻盯紧自己的钱包和资产安全。"
+ ],
+ "tags": [
+  "美国国债",
+  "人工智能",
+  "英伟达",
+  "微软",
+  "华尔街"
+ ],
+ "original_title": "How the AI Trade Hijacked the Treasury Market for a Month",
+ "lang": "en",
+ "published": "2026-11-13T11:17:00+00:00",
+ "created": "2026-11-13T18:06:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

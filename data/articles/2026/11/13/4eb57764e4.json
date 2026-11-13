@@ -1,0 +1,27 @@
+{
+ "key": "4eb57764e4",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/technology/watch-live-anthropics-dario-amodei-joins-jpmorgans-jamie-dimon-pitch-record-ipo",
+ "title": "AI巨头Anthropic要上市了？携手摩根大通CEO造势，估值冲向1万亿美元！",
+ "summary": "AI独角兽Anthropic即将冲击美股史上最大规模的IPO之一。公司CEO达里奥·阿莫迪（Dario Amodei）与摩根大通（JPMorgan Chase）CEO杰米·戴蒙（Jamie Dimon）展开炉边对话，为计划在感恩节前登陆纳斯达克的IPO造势。此次发行价区间为每股70至78美元，估值高达1万亿美元左右。",
+ "body": [
+  "AI界迎来重磅大戏！开发Claude的AI巨头Anthropic正全力推进上市，公司CEO达里奥·阿莫迪（Dario Amodei）与摩根大通（JPMorgan Chase）CEO杰米·戴蒙（Jamie Dimon）今天在美东时间中午12点进行了一场炉边对话，为这场可能是史上规模最大的IPO之一进行最后的市场造势。",
+  "根据披露的计划，Anthropic此次将发行8.25亿股股票，价格区间定在每股70至78美元之间。这意味着其估值将达到约1万亿美元（如果完全稀释，则接近1.4万亿美元），股票计划在感恩节前以代码“ANT”在纳斯达克挂牌交易。作为主承销商之一，摩根大通负责美国的零售营销和股票分配，据报道其中相当一部分份额将预留给散户投资者。",
+  "这两位大佬的联手在目前的科技和金融圈可以说是赚足了眼球。值得一提的是，摩根大通本身就是Claude的大客户，但戴蒙此前也曾公开警告过，包括Anthropic模型在内的先进AI技术大幅推高了网络安全风险。此外，Google（谷歌）和英伟达（Nvidia）等基石投资者将在IPO价格下购买26亿美元的股份，这也引发了市场对AI行业资金循环的一些担忧。在算力需求巨大、能源消耗惊人以及盈利可持续性仍存疑问的背景下，这场IPO能否顺利点燃市场热情，正受到华尔街的高度关注。"
+ ],
+ "tags": [
+  "Anthropic",
+  "美股IPO",
+  "人工智能",
+  "摩根大通",
+  "科技股"
+ ],
+ "original_title": "Watch Live: Anthropic's Dario Amodei Joins JPMorgan's Jamie Dimon To Pitch Record IPO",
+ "lang": "en",
+ "published": "2026-11-13T17:00:00+00:00",
+ "created": "2026-11-13T18:08:30+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

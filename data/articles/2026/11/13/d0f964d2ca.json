@@ -1,0 +1,26 @@
+{
+ "key": "d0f964d2ca",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/csn-losses-are-piling-up-as-brazilian-miner-s-troubles-worsen",
+ "title": "急眼了！巴西钢铁巨头股价创十年新低，新CEO上台能否力挽狂澜？",
+ "summary": "由于业绩不及预期且投资者对债务问题感到担忧，巴西钢铁制造巨头CSN公司股价和债券双双暴跌至十年来的最低点。",
+ "body": [
+  "近日，巴西钢铁制造巨头 CSN 公司（Cia. Siderurgica Nacional SA）的日子不太好过。由于刚刚发布的财报成绩单让人失望，加上投资者对公司居高不下的负债压力感到焦虑，其股价和债券双双遭遇重挫，直接跌到了十年前的最低谷。",
+  "面对市场的恐慌情绪，CSN公司新上任的首席执行官（CEO）不得不站出来灭火，公开向投资者承诺会采取措施切实缓解债务问题。不过，投资者显然对高杠杆目标能否顺利达成持怀疑态度，逼问不断，导致抛售潮进一步扩大。",
+  "虽然这是一场远在南美洲的金融震荡，但对于关注全球宏观经济和国际大宗商品市场的海外华人投资者来说，这也提醒我们在高利率环境下，高负债企业的抗风险能力确实令人捏一把汗，相关行业的股市波动值得多留个心眼。"
+ ],
+ "tags": [
+  "财经新闻",
+  "股市大跌",
+  "海外投资",
+  "企业债务"
+ ],
+ "original_title": "CSN Shares Fall to 10-Year Low as CEO Vows to Ease Debt Woes",
+ "lang": "en",
+ "published": "2026-11-13T11:28:23+00:00",
+ "created": "2026-11-13T18:05:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

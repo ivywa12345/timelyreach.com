@@ -1,0 +1,29 @@
+{
+ "key": "88d77a52ad",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+ "title": "以后让AI帮你网购？OpenAI重磅推出ChatGPT Wallet，美国运通、万事达和Visa全支持！",
+ "summary": "OpenAI周五宣布推出全新的支付功能ChatGPT Wallet，让其AI助手“dots”能够代表用户进行网购，并与美国运通、万事达卡和Visa达成合作，确保用户能保留原有的信用卡积分和保障。",
+ "body": [
+  "OpenAI在周五正式发布了名为ChatGPT Wallet的全新支付功能，让旗下的“dots”人工智能助手可以直接帮用户买东西。这项功能是OpenAI与美国运通（American Express）、万事达卡（Mastercard）和Visa合作打造的，用户不仅可以保留原本的信用卡积分和消费保障，而且整个支付过程安全又省心。",
+  "在安全方面，OpenAI表示其dots助手绝对不会直接接触到用户的信用卡敏感信息。相反，各大支付网络会提供一个“支付令牌（payment token）”，里面包含特定交易专属的卡号、安全码和过期时间。负责OpenAI变现与支付产品业务的查亚·纳亚克（Chaya Nayak）在接受CNBC采访时表示：“我们的目标是真正聚焦于商户和网络合作伙伴，开始构建一个安全且易用的坚实基础。”",
+  "目前，ChatGPT Wallet首批仅面向美国境内18岁以上的OpenAI Pro订阅用户开放。美国运通执行副总裁兼全球创新负责人卢克·格布（Luke Gebb）指出，这种限流的小范围测试是非常明智的做法，能确保一切正常运转。不过需要注意的是，虽然AI网购是大势所趋，但部分商家目前仍在观望甚至抵制，比如美联航（United Airlines）和亚马逊（Amazon）就选择阻止AI助手在其平台上访问或购买。",
+  "对身在美国的华人朋友来说，这项新功能如果未来全面普及，意味着大家平时动动嘴让AI帮忙找好商品后，可以直接一站式安全下单，省去了反复填卡号的麻烦。不过，由于像亚马逊等主流电商目前还在屏蔽AI代理，大家短期内网购时可能还是要多留意各大平台的具体支持情况。"
+ ],
+ "tags": [
+  "OpenAI",
+  "ChatGPT",
+  "网购",
+  "人工智能",
+  "信用卡",
+  "在美生活"
+ ],
+ "original_title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+ "lang": "en",
+ "published": "2026-11-13T15:31:58+00:00",
+ "created": "2026-11-13T18:07:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

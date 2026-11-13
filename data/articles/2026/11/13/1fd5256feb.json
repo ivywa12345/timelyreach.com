@@ -1,0 +1,27 @@
+{
+ "key": "1fd5256feb",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-12/citadel-securities-hires-zimmerman-from-diameter-for-ig-trading",
+ "title": "华尔街大动作！Citadel Securities从Diameter Capital挖来资深交易员",
+ "summary": "全球顶级做市商Citadel Securities日前宣布，从投资机构Diameter Capital Partners挖走了一位投资级公司债交易专家Matthew Zimmerman，意在进一步深耕债券交易市场。",
+ "body": [
+  "华尔街的人才争夺战向来激烈，这次大名鼎鼎的做市商Citadel Securities有了新动作。据彭博社消息，该公司已经成功把资深交易员Matthew Zimmerman从Diameter Capital Partners LP“挖”了过来，主要负责投资级公司债（Investment-grade corporate bond）的交易业务。",
+  "Matthew Zimmerman在业内有着丰富的相关经验，他的加入被视为Citadel Securities持续加强其固定收益交易部门的重要布局。近年来，Citadel Securities在全球金融市场的影响力与日俱增，尤其是在债券交易领域的深度和广度上不断发力。",
+  "对于在美华人来说，这类大型金融机构的岗位变动往往反映了市场的风向。虽然这看似是华尔街大佬们的职业跳槽，但这类做市商的业务扩展直接关系到美股及债券市场的流动性。如果你的资产配置中包含公司债基金或相关金融产品，这类机构如何交易、如何定价，其实都在间接地影响你的投资组合表现。"
+ ],
+ "tags": [
+  "华尔街",
+  "CitadelSecurities",
+  "职场动态",
+  "金融投资",
+  "公司债"
+ ],
+ "original_title": "Citadel Securities Taps Diameter’s Zimmerman for IG Trading",
+ "lang": "en",
+ "published": "2026-11-12T21:59:07+00:00",
+ "created": "2026-11-13T18:09:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

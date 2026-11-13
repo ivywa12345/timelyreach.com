@@ -1,0 +1,28 @@
+{
+ "key": "22fe46335a",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+ "title": "通胀还没完！10月批发价格上涨0.3%，美联储降息或加息成焦点",
+ "summary": "美国劳工统计局周五公布，10月生产者价格指数（PPI）环比上涨0.3%，略低于市场预期，但同比涨幅达到6.5%，创下近四年来的最高水平。这表明通胀压力依然顽固，美联储在即将到来的会议上面临艰难抉择。",
+ "body": [
+  "美国劳工统计局（Bureau of Labor Statistics）周五发布报告称，衡量国内生产商产品出厂价格的生产者价格指数（PPI）在10月份经季节调整后环比上涨0.3%，低于道琼斯（Dow Jones）预期0.4%的增幅。扣除食品和能源后，核心PPI上涨0.3%，符合预期。",
+  "不过从年度数据来看，整体PPI同比加速上升至6.5%，比上个月高出0.2个百分点，创下了自2022年11月以来的最高年增长率。与此同时，此前公布的消费者价格指数（CPI）表现也比预期要热，显示通胀距离美联储2%的目标还有相当一段距离。",
+  "这份报告出炉之际，正值美联储（Federal Reserve）12月8日至9日即将召开下一次政策会议的几周前。市场目前完全预计央行将基准隔夜借款利率上调四分之一个百分点，也有极少数观点认为联邦公开市场委员会（FOMC）可能会选择加息半个百分点。Northlight Asset Management首席投资官克里斯·扎卡雷利（Chris Zaccarelli）表示：“今天的PPI数据虽然显示出一些改善迹象但依然过高，不太可能改变美联储12月份的做法，因为CPI数据已经超出了他们的舒适区。”",
+  "对于在美华人来说，通胀居高不下意味着生活成本和贷款利率短期内很难大幅回落。无论是日常采购的商品、运输物流成本，还是房贷车贷利息，都可能继续维持在高位，大家的钱包依然要面临不小的考验。"
+ ],
+ "tags": [
+  "美联储",
+  "通胀",
+  "PPI",
+  "加息",
+  "美国经济"
+ ],
+ "original_title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
+ "lang": "en",
+ "published": "2026-11-13T15:44:16+00:00",
+ "created": "2026-11-13T18:06:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

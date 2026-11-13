@@ -1,0 +1,27 @@
+{
+ "key": "649e012372",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/alerts/uscis-updates-guidance-on-military-naturalization",
+ "title": "当兵拿绿卡门槛变了！美国移民局对退伍军人入籍政策重大更新",
+ "summary": "美国移民局（USCIS）发布了关于军事入籍政策的最新指导意见，明确了“不予定性退伍”对申请入籍的影响，并调整了海外退伍军人参加面试和宣誓的流程。",
+ "body": [
+  "美国移民局（USCIS）近日更新了关于军事入籍的政策指导，重点调整了针对外籍退伍军人的入籍要求。根据新规，在2024年8月1日及之后获得的“不予定性退伍”（uncharacterized discharges），将不再符合《移民与国籍法》（INA）第328和329条所要求的“在荣誉条件下”退伍的标准，因此不能以此申请入籍。不过，如果是在2024年8月1日之前获得此类退伍的军人，则依然符合该项要求。",
+  "除了退伍定性的政策调整，移民局还宣布了一项重要流程变更：他们将不再与美国海关与边境保护局（U.S. Customs and Border Protection）合作，在入境口岸直接办理入籍面试和宣誓仪式。这意味着，目前居住在美国境外的外籍老兵，如果想要参加入籍面试，必须自行通过申请签证或假释（parole）的方式合法入境美国。",
+  "此外，移民局指出，因未能遵守新冠疫苗接种要求等原因而被以“不及荣誉条件”退伍的人员，可以向国防部（Department of War）申请更改退伍性质。移民局将根据官方提交的退伍文件来最终判定退伍军人是否符合荣誉退伍条件。这项政策变更是为了配合国防部相关指令的调整，旨在保护移民局军事入籍福利项目的严肃性与含金量。"
+ ],
+ "tags": [
+  "美国移民局",
+  "军事入籍",
+  "退伍军人",
+  "绿卡政策",
+  "在美华人"
+ ],
+ "original_title": "USCIS Updates Guidance on Military Naturalization",
+ "lang": "en",
+ "published": "2025-09-26T13:39:20+00:00",
+ "created": "2026-11-13T18:06:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

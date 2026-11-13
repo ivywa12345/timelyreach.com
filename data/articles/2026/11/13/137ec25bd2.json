@@ -1,0 +1,26 @@
+{
+ "key": "137ec25bd2",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/europe-taps-national-security-advisers-for-russia-ukraine-talks",
+ "title": "欧洲坐不住了！派国家安全顾问直接介入俄乌谈判",
+ "summary": "欧盟及德国、法国、英国、意大利、波兰五大国的国家安全顾问将代表欧洲参与即将到来的俄乌谈判。",
+ "body": [
+  "欧洲这回动真格了！根据彭博社的报道，欧盟以及德国、法国、英国、意大利和波兰这五个欧洲大国的国家安全顾问，将作为欧洲的代表，直接出面参与接下来的俄乌谈判。",
+  "长期以来，欧洲在俄乌冲突中常常扮演金主和后勤的角色，如今派出重量级的国家安全顾问团队直接介入谈判，意味着欧洲各国正试图在未来的地缘政治格局中掌握更多的主动权和话语权。",
+  "对于远在海外的华人来说，欧洲局势的每一次变动都可能牵动全球能源价格和经济神经。俄乌谈判若能取得进展，或许能给持续动荡的国际市场带来一丝喘息的机会。"
+ ],
+ "tags": [
+  "俄乌冲突",
+  "欧洲政治",
+  "国际新闻",
+  "彭博社"
+ ],
+ "original_title": "Europe Taps National Security Aides for Russia-Ukraine Talks",
+ "lang": "en",
+ "published": "2026-11-13T16:50:48+00:00",
+ "created": "2026-11-13T18:07:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

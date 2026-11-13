@@ -1,0 +1,27 @@
+{
+ "key": "bd821b4081",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/our-new-cybersecurity-reality-if-its-smart-its-hackable-44bcef4e?mod=rss_Technology",
+ "title": "家里的“智能”设备越买越多？华尔街日报：只要连网，就肯定会被黑！",
+ "summary": "《华尔街日报》最新科技专栏指出，如今的网络安全现实十分残酷：只要产品沾上“智能”二字，就存在被黑客攻破的风险。同时，近期科技界还关注了AI诊断疑难杂症、非洲狩猎保护争议以及健康旅游的新趋势。",
+ "body": [
+  "如果你家里也摆满了各种智能家居设备，可得提高警惕了。《华尔街日报》科技记者 Anne Steele 在最新专栏中直言不讳地指出，我们正迎来一个全新的网络安全现实：只要你的设备是“智能”的，它就绝对是可以被黑客攻破的（If It’s ‘Smart,’ It’s Hackable）。",
+  "除了令人头疼的网络安全隐患，这篇专栏还盘点了近期其他几个备受关注的热门话题，包括人工智能（AI）大显身手成功诊断医学疑难杂症、国际社会对保护非洲狩猎活动日益高涨的呼声，以及主打身心放松的健康旅游（Wellness Travel）正迎来全面重塑。",
+  "对于咱们海外华人来说，家里各种智能家电、安防摄像头越来越普及，享受便利的同时，隐私和账号安全真的不能大意。平时一定要记得及时更新设备固件，改掉默认密码，免得给黑客可乘之机。"
+ ],
+ "tags": [
+  "网络安全",
+  "智能家居",
+  "华尔街日报",
+  "海外生活",
+  "科技趋势"
+ ],
+ "original_title": "Our New Cybersecurity Reality: If It’s ‘Smart,’ It’s Hackable",
+ "lang": "en",
+ "published": "2026-11-13T16:55:00+00:00",
+ "created": "2026-11-13T18:05:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

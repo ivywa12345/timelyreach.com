@@ -1,0 +1,27 @@
+{
+ "key": "ce45679852",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/iran-escalates-low-level-conflict-with-a-shot-at-bahrain-73ff9b51?mod=rss_worldnews",
+ "title": "伊朗对巴林动手了？美军成功拦截无人机袭击",
+ "summary": "美国表示成功拦截了一起针对巴林湾国家的海上无人机袭击，这是该地区两个月来首次知的类似袭击事件，显示出中东低烈度冲突再度升级。",
+ "body": [
+  "根据《华尔街日报》报道，美国方面证实，美军成功拦截了一起针对海湾国家巴林（Bahrain）的无人机袭击。这也是该国在过去两个月里遭遇的首起已知袭击事件，意味着伊朗及其相关势力与海湾国家的低烈度冲突正在进一步升级。",
+  "目前美方和巴林官方正在对此次袭击的来源和具体细节进行评估。长期以来，海湾地区的安全局势一直牵动着国际社会的神经，尤其是涉及重要能源通道和美军驻扎地的安全问题。",
+  "对于身在海外的华人来说，中东局势的持续动荡往往会通过国际油价、全球供应链间接影响到大家的日常生活和钱包。我们将持续关注事态发展，提醒大家注意出行安全。"
+ ],
+ "tags": [
+  "中东局势",
+  "伊朗",
+  "巴林",
+  "美军",
+  "海外快讯"
+ ],
+ "original_title": "Iran Escalates Low-Level Conflict With a Shot at Bahrain",
+ "lang": "en",
+ "published": "2026-11-13T17:13:00+00:00",
+ "created": "2026-11-13T18:04:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
