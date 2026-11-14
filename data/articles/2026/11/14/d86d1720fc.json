@@ -1,0 +1,27 @@
+{
+ "key": "d86d1720fc",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/political/state-snooping-taken-extreme-uk-taxman-wants-your-ai-chatbot-history",
+ "title": "英国税务局放大招：以后报税连你跟ChatGPT的聊天记录都要查？",
+ "summary": "英国税务海关总署（HMRC）在新预算案中试图扩大权力，未来有权要求纳税人交出在准备报税时与ChatGPT、Microsoft Copilot、Claude等AI工具的私密对话和提示词历史。此举引发巨大争议，批评者痛批这是对个人隐私的极度侵犯。",
+ "body": [
+  "现在很多人报税、理财都喜欢问问AI，但英国政府的税务部门却盯上了这些聊天记录。根据英国预算案（Budget Bill）中的最新提议，税务局（HMRC）可强制纳税人上交的资料范围，将从传统的电脑“记录”扩大到任何“相关物件”。这意味着，如果你用ChatGPT、Microsoft Copilot或Claude等AI工具算过账、查过税，你的提问历史、工作底稿甚至完整的聊天记录，未来都有可能被税务局要求交出来查验。",
+  "英国税务局这么做，主要是为了堵住高达590亿英镑的税收缺口。据《每日电讯报》（The Telegraph）报道，这项权力不仅能针对个人，甚至连AI公司本身第三方都可以被勒令提供数据。如果纳税人拒绝配合信息通知（Schedule 36），将面临300英镑的初始罚款；无法纠正错误申报的，罚款最高可达3000英镑。此外，预算案还赋予了HMRC在2029年7月起，直接从多次拒绝沟通的欠税者银行账户中自动扣款的权力。",
+  "根据劳埃德银行集团（Lloyds Banking Group）的数据，英国已有超过2800万成年人将AI用于个人理财，约有40%的人用生成式工具获取过财务建议，超30%的企业向AI问过税务问题。对于这项新规，HMRC辩称这只是在数字时代对现有权力的现代化更新，只有在有合法依据的情况下才会调取信息。但批评者和纳税人权益组织并不买账，税务纳税人联盟（Taxpayers' Alliance）的安妮·斯特里克兰（Anne Strickland）直言，这是税务部门“极具侵略性的越权”，践踏了普通英国人的隐私。业内专家也提醒广大用户，以后找AI聊税务问题可得长点心了，千万别打什么擦边球，因为你和机器说的话，以后很可能全都会变成税务局呈堂证供。"
+ ],
+ "tags": [
+  "英国税务",
+  "AI监管",
+  "ChatGPT",
+  "隐私安全",
+  "海外热点"
+ ],
+ "original_title": "This Is State-Snooping Taken To The Extreme: UK Taxman Wants Your AI Chatbot History",
+ "lang": "en",
+ "published": "2026-11-14T14:00:00+00:00",
+ "created": "2026-11-14T15:40:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

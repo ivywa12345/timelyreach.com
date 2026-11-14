@@ -1,0 +1,27 @@
+{
+ "key": "4902f61e57",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-s-s-p-500-bid-gets-new-life-as-musk-pitches-tesla-merger",
+ "title": "SpaceX想进标普500？马斯克这招“曲线救国”绝了！",
+ "summary": "马斯克正考虑将SpaceX与特斯拉合并，此举可能成为SpaceX绕过常规审核、直接纳入标普500指数的“秘密通道”。",
+ "body": [
+  "就在几个月前，太空探索技术公司（SpaceX）快速加入标普500指数（S&P 500 Index）的申请遭到拒绝，但这并没有难倒埃隆·马斯克（Elon Musk）。据彭博社报道，这位商业巨头似乎找到了一个“走后门”的新办法——将SpaceX与目前已经是该指数核心成员的特斯拉公司（Tesla Inc.）进行合并。",
+  "在此之前，SpaceX独立冲击标普500指数的过程并不顺利，监管和市场门槛让其快步纳入的计划暂时搁浅。而特斯拉作为美股市场的庞然大物，早已稳坐标普500指数权重股的交椅。如果这次合并成真，SpaceX的业务将直接被打包进这个全球最受关注的股票基准中。",
+  "对于关注美股和科技股的海外华人投资者来说，这无疑是一个重磅信号。特斯拉与SpaceX的深度绑定，不仅会直接影响两家公司的市值走向和大家的投资钱包，也可能在科技和新能源板块掀起新一轮的波澜。"
+ ],
+ "tags": [
+  "SpaceX",
+  "特斯拉",
+  "马斯克",
+  "标普500",
+  "美股投资"
+ ],
+ "original_title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
+ "lang": "en",
+ "published": "2026-11-14T14:00:00+00:00",
+ "created": "2026-11-14T15:40:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

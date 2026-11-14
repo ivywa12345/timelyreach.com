@@ -1,0 +1,27 @@
+{
+ "key": "bf02ccb06c",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/china/the-massive-chinese-spy-operation-targeting-western-tech-and-ai-cd58ff86?mod=rss_worldnews",
+ "title": "从AI到大厂：西方科技圈正遭遇大规模间谍行动！",
+ "summary": "根据《华尔街日报》报道，西方科技和人工智能领域正面临大规模的中国间谍活动。同时，民主党人要求马斯克保留与乌克兰星链使用相关的记录，而一位专栏作家则在寻找更脆的苹果。",
+ "body": [
+  "近日，《华尔街日报》(The Wall Street Journal) 记者 Emma Tucker 报道了一则重磅消息：西方科技和人工智能（AI）领域正成为大规模间谍活动的目标。虽然具体细节有限，但这一动向再次引发了西方国家对核心技术安全的高度警惕。",
+  "与此同时，政坛和商业圈也并不平静。民主党人已正式要求埃隆·马斯克（Elon Musk）保留所有与乌克兰使用“星链”（Starlink）互联网服务相关的记录。这一要求背后涉及复杂的国际政治与科技博弈。此外，该媒体的专栏作家近期还将目光投向了生活领域，正四处寻找口感更脆的苹果。",
+  "对于海外华人特别是身处科技界和商业圈的朋友来说，这类涉及中美科技竞争与地缘政治的安全审查，未来可能会对相关领域的签证、就业以及合规审查产生潜在影响，值得持续关注。"
+ ],
+ "tags": [
+  "科技安全",
+  "人工智能",
+  "埃隆·马斯克",
+  "星链",
+  "华尔街日报"
+ ],
+ "original_title": "The Massive Chinese Spy Operation Targeting Western Tech and AI",
+ "lang": "en",
+ "published": "2026-11-14T12:06:00+00:00",
+ "created": "2026-11-14T15:38:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

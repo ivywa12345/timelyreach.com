@@ -1,0 +1,26 @@
+{
+ "key": "34053f9a48",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/what-jensen-huangs-downfall-means-for-big-tech-9e6ca5df?mod=rss_Technology",
+ "title": "黄仁勋跌落神坛？华尔街日报深度剖析这对科技巨头意味着什么",
+ "summary": "华尔街日报最新分析探讨了英伟达CEO黄仁勋面临的挑战及其对整个科技行业的影响，同时关注了制造业回流的复杂性、AI医疗诊断以及Z世代创业潮。",
+ "body": [
+  "最近《华尔街日报》的一篇报道引发了科技圈的关注，探讨了英伟达（Nvidia）掌门人黄仁勋（Jensen Huang）面临的潜在转折点，以及这对整个大科技板块意味着什么。除了芯片巨头的动态，文章还涉及了几个当下最热门的话题。",
+  "这些话题包括把制造业工作岗位搬回本土到底有多复杂、人工智能（AI）如何成功解决疑难医疗诊断，以及现在越来越多的Z世代（Gen Z）年轻人走上创业道路的趋势。."
+ ],
+ "tags": [
+  "黄仁勋",
+  "科技巨头",
+  "人工智能",
+  "制造业回流",
+  "Z世代创业"
+ ],
+ "original_title": "What Jensen Huang’s Downfall Means for Big Tech",
+ "lang": "en",
+ "published": "2026-11-14T12:50:00+00:00",
+ "created": "2026-11-14T15:38:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

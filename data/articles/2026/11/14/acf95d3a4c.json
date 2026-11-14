@@ -1,0 +1,27 @@
+{
+ "key": "acf95d3a4c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/guinea-plans-bauxite-index-as-it-seeks-to-bolster-ore-prices",
+ "title": "铝土矿要涨价？全球最大出口国几内亚坐不住了，准备自己定价格指数！",
+ "summary": "全球最大铝土矿出口国几内亚计划建立自己的原材料价格指数，此举旨在提振矿石价格。",
+ "body": [
+  "据彭博社报道，作为全球最大的铝土矿出口国，几内亚（Guinea）最近有了新动作：他们计划建立一个属于自己的铝土矿价格指数。这背后的目的很简单，就是要在国际市场上掌握更多话语权，进而把这种关键矿石的价格给撑起来。",
+  "铝土矿是生产铝的重要原材料，而几内亚在全球供应链中占据着举足轻重的地位。长期以来，国际矿产价格往往由欧美等消费国或大型交易所的主流指数主导，资源国常常只能被动接受价格。几内亚这次打算推出自己的价格指数，显然是希望打破这种局面，让国家资源卖出更好的价钱。",
+  "对于海外华人特别是关注大宗商品、制造业或相关投资的朋友来说，铝土矿价格的波动可能会传导到下游的铝制品以及相关工业领域。如果几内亚成功推高矿石价格，未来相关产品的成本或许也会随之发生变化。"
+ ],
+ "tags": [
+  "几内亚",
+  "铝土矿",
+  "大宗商品",
+  "价格指数",
+  "海外财经"
+ ],
+ "original_title": "Guinea Plans Bauxite Index as It Seeks to Bolster Ore Prices",
+ "lang": "en",
+ "published": "2026-11-14T11:27:57+00:00",
+ "created": "2026-11-14T15:42:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

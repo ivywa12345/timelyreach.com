@@ -1,0 +1,27 @@
+{
+ "key": "30dc1b74f7",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
+ "title": "英伟达再也回不去从前了？芯片专家揭秘黄仁勋面临的“神坛危机”",
+ "summary": "经济学人芯片行业专家Shailesh Chitnis撰文分析，随着市场环境和竞争格局的变化，英伟达（Nvidia）和掌门人黄仁勋（Jensen Huang）将迎来转折点，过去的辉煌模式可能难以为继。",
+ "body": [
+  "说到这两年风头最劲的科技公司，非英伟达（Nvidia）莫属。不过，经济学人（The Economist）的芯片行业专家Shailesh Chitnis最近发文直言：英伟达再也回不到从前了，而这也标志着其掌门人黄仁勋（Jensen Huang）正面临全新的挑战与下坡路风险。",
+  "在这篇名为《英伟达再也回不去从前了》的分析中，作者深入探讨了这家芯片巨头在经历爆发式增长后，即将迎来的行业新常态。虽然英伟达凭借AI浪潮赚得盆满钵满，但随着竞争对手的围追堵截、客户自研芯片的压力，以及供应链和地缘政治的复杂局势，黄仁勋躺着赚钱的好日子可能正在减少。",
+  "对于咱们海外华人来说，无论是从事高科技行业、持有个股投资，还是关注科技大厂的职业发展，英伟达的风吹草动都直接关系到大家的钱包和饭碗。这家站在AI风口浪尖的巨头能否顶住压力维持神话，我们还得拭目以待。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "芯片行业",
+  "人工智能",
+  "海外财经"
+ ],
+ "original_title": "The Bottom Line newsletter: Nvidia will never be the same",
+ "lang": "en",
+ "published": "2026-11-14T11:55:51+00:00",
+ "created": "2026-11-14T15:38:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

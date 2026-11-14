@@ -1,0 +1,26 @@
+{
+ "key": "fe4c387901",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/miller-s-white-house-ascent-rattles-mexico-trade-negotiators",
+ "title": "老熟人又要回来？这位白宫狠角色把墨西哥谈判代表吓得不轻",
+ "summary": "彭博社报道称，随着斯蒂芬·米勒（Stephen Miller）即将进入白宫核心圈，正在与美国艰难磋商贸易协议的墨西哥官员们坐立难安。",
+ "body": [
+  "彭博社（Bloomberg）最新消息，美墨两国目前还在为敲定贸易协议费尽心思，但谈判桌旁即将迎来一张让墨西哥人直冒冷汗的新面孔——斯蒂芬·米勒（Stephen Miller）。",
+  "作为长期对移民和贸易采取强硬立场的人物，米勒此次在白宫的强势崛起，让负责对美谈判的墨西哥官员们感到巨大的压力和不安。多年来，他在贸易与边境政策上一直以强硬著称，他的回归意味着未来美墨之间的博弈可能会更加艰难。",
+  "对于海外华人来说，美墨贸易谈判的走向直接牵动着两国的经济脉搏，甚至可能对物价、供应链以及整体商业环境产生连锁反应。我们将持续关注这位“狠角色”上台后，会给两国的经贸关系带来哪些实质性冲击。"
+ ],
+ "tags": [
+  "白宫",
+  "美国政治",
+  "美墨贸易",
+  "国际新闻"
+ ],
+ "original_title": "Miller’s White House Ascent Rattles Mexico Trade Negotiators",
+ "lang": "en",
+ "published": "2026-11-14T13:30:00+00:00",
+ "created": "2026-11-14T15:41:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "ced3f8f024",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
+ "title": "美国选民到底在想啥？看看各州轰轰烈烈的“选票提案”就知道了！",
+ "summary": "《经济学人》执行主编John Prideaux指出，通过观察美国各州的选票提案（Ballot Initiatives），我们可以最直观地把脉整个国家的民意走向。",
+ "body": [
+  "你有没有发现，除了选总统和国会议员，美国选民在投票时经常还要对各种奇奇怪怪的“提案”做决定？《经济学人》（The Economist）执行主编约翰·普赖多（John Prideaux）近日撰文分析了这些选票提案背后的门道。",
+  "简单来说，选票提案就是把一些具体的政策或法律交由选民直接投票表决。普赖多认为，相比于政客们的夸夸其谈，这些绕过国会的投票往往更能反映出美国老百姓心底最真实的想法和对国家现状的脉搏。",
+  "对于关注美国政治走向的朋友来说，紧盯这些地方上的选票提案，不仅能看清普通民众真正在乎的切身利益是什么，也能提前预判未来政策的风向标。"
+ ],
+ "tags": [
+  "美国政治",
+  "选票提案",
+  "民意调查",
+  "经济学人"
+ ],
+ "original_title": "Checks and Balance newsletter: What do ballot initiatives tell us about America?",
+ "lang": "en",
+ "published": "2026-11-14T11:10:57+00:00",
+ "created": "2026-11-14T15:39:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,28 @@
+{
+ "key": "00a1f632da",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+ "title": "马斯克的“星舰”发射又双叒叕刷屏！这次想在空中抓火箭，结果咋样了？",
+ "summary": "马斯克的SpaceX迎来了史上最激进的一次“星舰”试飞，不仅首次挑战在发射场空中回收超级重型助推器和飞船，还面临乌克兰战场限制星盾服务的争议。",
+ "body": [
+  "周五下午，埃隆·马斯克（Elon Musk）旗下的太空探索技术公司（SpaceX）在得州发射了其巨型火箭“星舰”（Starship），迎来了迄今为止最野心勃勃的一次关键试飞。虽然计划在空中“接住”并回收火箭两个阶段的尝试没有完全成功，但也让全世界再次见证了商业航天的疯狂进展。",
+  "按照原本的设想，SpaceX希望在得州星舰基地（Starbase）直接回收超级重型助推器，但最终由于计划取消，助推器改道坠入墨西哥湾并燃起大火。不过，火箭的上层飞船顺利进入了预定轨道，预计将环绕地球飞行14圈，并在周六尝试在星舰基地降落。华尔街机构威廉·布莱尔（William Blair）分析师指出，SpaceX在火箭发射领域可能比同行领先整整十年，即使这次回收没成功，几个月的延迟也无伤大雅。",
+  "对于在美华人来说，SpaceX的每一次技术突破都直接关系到我们日常用的“星链”（Starlink）网络。目前星链已经是公司的核心利润来源，低轨活跃卫星超过1.1万颗。新一代星舰单次能运载多达60颗V3星链卫星，运力是老款猎鹰9号（Falcon 9）火箭的20倍。随着星舰不断成熟，未来不仅要送人类去月球和火星，也会让我们的卫星互联网速度更快、覆盖更广。",
+  "不过，SpaceX最近也惹上了一些麻烦。乌克兰总统泽连斯基（Volodymyr Zelenskyy）本周公开抱怨称，乌军使用的军用版星链服务——“星盾”（Starshield）再次毫无预警地遭到限制，影响了防空作战。部分美国参议员对此表示强烈谴责，并敦促国会展开调查，这也让马斯克和他的太空帝国再次被推上舆论的风口浪尖。"
+ ],
+ "tags": [
+  "SpaceX",
+  "星舰",
+  "马斯克",
+  "星链",
+  "航天科技"
+ ],
+ "original_title": "SpaceX launches Starship in key test flight of massive rocket",
+ "lang": "en",
+ "published": "2026-11-14T01:18:51+00:00",
+ "created": "2026-11-14T15:40:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

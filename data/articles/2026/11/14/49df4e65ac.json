@@ -1,0 +1,26 @@
+{
+ "key": "49df4e65ac",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/asian-currencies-soften-after-u-s-cpi-data-boosts-dollar-26f03632?mod=rss_markets_main",
+ "title": "美元又涨了！WSJ美元指数连续两日走高",
+ "summary": "华尔街日报美元指数（WSJ Dollar Index）上涨0.44%，报收于97.97点，这也是该指数连续第二个交易日实现上涨。",
+ "body": [
+  "华尔街日报美元指数（WSJ Dollar Index）在最近的交易中表现强势，上涨了0.44%，最终收于97.97点。",
+  "值得注意的是，这已经是该美元指数连续第二个交易日呈现上涨态势，显示出近期美元汇率正在走强。",
+  "对于海外华人来说，美元汇率的波动直接关系到大家的钱包。如果美元持续走强，无论是平时汇款回国、美元理财，还是准备回国消费、探亲，都需要多关注汇率变化带来的影响。"
+ ],
+ "tags": [
+  "美元汇率",
+  "财经快讯",
+  "华尔街日报",
+  "海外理财"
+ ],
+ "original_title": "WSJ Dollar Index Rises 0.44% to 97.97",
+ "lang": "en",
+ "published": "2026-11-11T22:29:00+00:00",
+ "created": "2026-11-14T15:41:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

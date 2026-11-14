@@ -1,0 +1,25 @@
+{
+ "key": "f8facd73df",
+ "board": "hot",
+ "source_id": "wsj-lifestyle",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/articles/news-quiz-for-nov-14-2026-07dcac58?mod=rss_lifestyle",
+ "title": "【华尔街日报】本周新闻小测验：你能拿几分？",
+ "summary": "华尔街日报推出本周新闻知识快测，邀请读者检验自己对近期热点事件的了解程度。",
+ "body": [
+  "《华尔街日报》（The Wall Street Journal）近日推出了针对本周重大新闻的小测验（News Quiz），让读者通过答题来测试自己对过去一周国内外热点事件的掌握情况。",
+  "这类新闻小测验通常涵盖了近期备受关注的财经、政治以及社会热点话题，是许多海外读者利用碎片时间回顾一周新闻、了解时事动向的有趣方式。如果你平时有关心新闻，不妨去挑战一下，看看自己能答对几题。"
+ ],
+ "tags": [
+  "华尔街日报",
+  "新闻测验",
+  "海外时事",
+  "热点回顾"
+ ],
+ "original_title": "News Quiz for Nov. 14, 2026",
+ "lang": "en",
+ "published": "2026-11-14T11:00:00+00:00",
+ "created": "2026-11-14T15:41:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

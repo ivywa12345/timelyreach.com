@@ -1,0 +1,27 @@
+{
+ "key": "2a45a3acfd",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/regulation/nyse-to-settle-tokenized-stocks-on-avalanche-blockchain-038ce412?mod=rss_markets_main",
+ "title": "重磅！纽约证券交易所盯上区块链，准备用 Avalanche 搞 24 小时交易了",
+ "summary": "纽约证券交易所（NYSE）宣布，其即将推出的 7x24 小时交易平台将独家采用 Avalanche 区块链来结算代币化股票。",
+ "body": [
+  "华尔街又要有大动作了！根据《华尔街日报》独家报道，纽约证券交易所（NYSE）近日透露，他们正在筹备全新的 7x24 小时全天候交易平台，并且已经决定在这个平台上独家使用 Avalanche 区块链技术来处理代币化股票的结算。",
+  "虽然目前官方透露的细节还不算太多，但这可以说是传统金融巨头拥抱区块链技术的一次重要尝试。以往只有在工作日的特定时间才能进行的股票交易，未来可能随时随地都能买了。",
+  "对于关注加密货币和美股的海外华人来说，传统金融巨头和区块链的深度结合，不仅说明加密技术正在走向主流，也预示着未来的投资工具和交易方式可能会变得更加高效和多元化。我们会持续关注这个全天候交易平台后续的进展。"
+ ],
+ "tags": [
+  "纽约证券交易所",
+  "Avalanche",
+  "区块链",
+  "美股交易",
+  "金融科技"
+ ],
+ "original_title": "NYSE to Settle Tokenized Stocks on Avalanche Blockchain",
+ "lang": "en",
+ "published": "2026-11-09T13:05:00+00:00",
+ "created": "2026-11-14T15:42:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

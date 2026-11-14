@@ -1,0 +1,25 @@
+{
+ "key": "b014e18ad4",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/ukraine-says-it-hit-oil-pumping-station-in-russia-s-samara",
+ "title": "乌克兰承认了！远程奔袭860公里，精准轰炸俄罗斯核心石油枢纽",
+ "summary": "乌克兰方面表示，其成功对位于俄罗斯萨马拉地区的关键原油管道枢纽实施了打击，该地点距离莫斯科东南约860公里。",
+ "body": [
+  "据彭博社（Bloomberg News）报道，乌克兰官方近日对外宣称，他们成功打击了位于俄罗斯萨马拉州（Samara region）的一个重要原油管道枢纽。",
+  "值得注意的是，遭到袭击的这个地点距离俄罗斯首都莫斯科东南方向大约有860公里（约530英里），显示出乌方具备相当距离的远程打击能力。"
+ ],
+ "tags": [
+  "乌克兰局势",
+  "俄罗斯石油",
+  "萨马拉",
+  "能源战"
+ ],
+ "original_title": "Ukraine Says It Hit Oil-Pumping Station in Russia’s Samara",
+ "lang": "en",
+ "published": "2026-11-14T10:56:16+00:00",
+ "created": "2026-11-14T15:39:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

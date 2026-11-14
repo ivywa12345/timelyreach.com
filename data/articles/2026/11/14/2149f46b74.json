@@ -1,0 +1,26 @@
+{
+ "key": "2149f46b74",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/is-there-any-escape-from-the-political-blame-game-052538f2?mod=rss_opinion",
+ "title": "两党甩锅大战没完没了？美国政治还有救吗",
+ "summary": "华尔街日报发表评论文章指出，过去的两年里共和党一直在玩政治甩锅游戏，而新上台的民主党多数派预计也会继续这种把戏。",
+ "body": [
+  "话说美国政坛这出“甩锅大戏”看来是永远不会剧终了。根据《华尔街日报》最近的一篇专栏文章（作者为 Morton Schapiro），过去两年里，共和党人把“互相指责、推卸责任”这套政治游戏玩得飞起。",
+  "然而风水轮流转，随着国会山权力格局的变化，新上台的民主党多数派估计也免不了要入乡随俗，继续把这个甩锅游戏玩下去。",
+  "对咱们海外华人来说，管他民主党还是共和党在台上争个不休，最后买单的往往还是老百姓的钱包和切身利益。这种党派斗争除了消耗政治资源，实在难给普通人带来什么实质性改变。"
+ ],
+ "tags": [
+  "美国政治",
+  "两党斗争",
+  "华尔街日报",
+  "华人生活"
+ ],
+ "original_title": "Is There Any Escape From the Political Blame Game?",
+ "lang": "en",
+ "published": "2026-11-13T19:49:00+00:00",
+ "created": "2026-11-14T15:40:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

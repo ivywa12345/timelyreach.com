@@ -1,0 +1,27 @@
+{
+ "key": "239ac5d5c3",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/fed-s-collins-says-steady-gradual-rate-hikes-appropriate",
+ "title": "美联储高官发话：还要慢慢加息，劳动力市场很稳！",
+ "summary": "波士顿联储主席柯林斯表示，为了降低通胀，稳健、渐进的加息路径仍然是合适的，目前劳动力市场表现稳固且没有增加价格压力。",
+ "body": [
+  "波士顿联邦储备银行行长柯林斯（Susan Collins）近日表示，为了把通胀压下去，采取“稳健、渐进”的加息方式是非常合适的。她指出，目前的劳动力市场基础扎实，而且并没有给物价带来额外的上涨压力。",
+  "这项表态释放了美联储在未来货币政策上的调控思路。随着劳动力市场逐渐站稳脚跟，决策者们正试图通过温和的加息节奏，在不引发经济剧烈波动的前提下化解通胀风险。",
+  "对于海外华人来说，美联储的加息动向直接关系到大家的房贷利率、存款收益以及整体经济环境。持续的利率调整意味着借贷成本仍在高位，大家在做买房、投资等财务决策时需要更加谨慎。"
+ ],
+ "tags": [
+  "美联储",
+  "加息",
+  "通胀",
+  "海外华人",
+  "经济动态"
+ ],
+ "original_title": "Fed’s Collins Says ‘Steady, Gradual’ Rate Hikes Appropriate",
+ "lang": "en",
+ "published": "2026-11-14T15:08:45+00:00",
+ "created": "2026-11-14T15:39:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

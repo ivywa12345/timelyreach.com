@@ -1,0 +1,27 @@
+{
+ "key": "8d97692107",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/yen-hitting-160-to-dollar-again-wont-be-surprising-f82f47e6?mod=rss_markets_main",
+ "title": "美元突然又走强了！加息预期高涨，汇市接下来怎么走？",
+ "summary": "美元对主要货币汇率走强，市场分析机构Convera指出，由于美联储加息预期升温，美元很可能将继续保持在高位。",
+ "body": [
+  "最近打算换汇或者关注汇率的朋友注意啦！根据《华尔街日报》的报道，美元对主要货币汇率近期再度走强。",
+  "市场分析机构Convera指出，由于外界对美联储（Federal Reserve）继续加息的预期不断升温，美元汇率很可能会继续保持在较高水平。",
+  "对于在美华人来说，美元走强意味着如果你有人民币兑换需求，或者需要将美元汇回国内，可能需要承受一定的汇率差；而对于关注美元理财和资产配置的人来说，高利率环境可能还会持续一段时间。"
+ ],
+ "tags": [
+  "美元",
+  "汇率",
+  "美联储",
+  "加息",
+  "海外理财"
+ ],
+ "original_title": "US FX: Dollar Strengthens; Emerging Markets Mixed",
+ "lang": "en",
+ "published": "2026-11-12T21:18:00+00:00",
+ "created": "2026-11-14T15:40:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
