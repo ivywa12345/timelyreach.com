@@ -16,3 +16,10 @@ def test_markup_blocks():
 def test_html_is_escaped_and_bad_links_ignored():
     out = str(rich_text("<script>alert(1)</script> [x](javascript:alert(1))"))
     assert "<script>" not in out and "<a " not in out
+
+
+def test_tidy_blocks_normalises_model_output():
+    from timelyreach.rewrite import tidy_blocks
+
+    out = tidy_blocks(["导语", "# 大标题\n正文接在下面", "* 甲\n* 乙", "---", "## 孤零零的标题"])
+    assert out == ["导语", "## 大标题", "正文接在下面", "- 甲\n- 乙"]

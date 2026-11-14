@@ -32,9 +32,18 @@ CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-opus-5-5")
 class Rewrite(BaseModel):
     title: str = Field(description="中文标题，18-32 个汉字，吸引眼球但必须忠于事实")
     summary: str = Field(description="一两句话的中文导读，60-120 字，用于列表和搜索引擎描述")
-    body: list[str] = Field(description="中文正文段落，每段 60-200 字")
+    body: list[str] = Field(description="中文正文，一个元素一个段落（每段 60-200 字）；长文可插入以“## ”开头的小标题、以“- ”开头的要点、以“> ”开头的引用，用 **粗体** 标出关键数字")
     tags: list[str] = Field(description="3-6 个中文关键词标签")
 
+
+
+FORMAT_RULES = """
+排版要求（body 数组里每个元素是一个独立的块，网站会按下面的记号排版）：
+- 文章超过 4 段时，用“## 小标题”分成 2-4 个部分，小标题 6-14 字，单独占一个元素，不要加编号。短快讯（4 段以内）不要加小标题。
+- 有 3 个以上并列的要点或数字时，写成一个以“- ”开头的列表元素，多行之间用换行符分隔，每行一个要点。
+- 全文最关键的 1-3 个数字或结论用 **粗体** 标出，不要整句加粗，也不要滥用。
+- 原文中重要的直接引语可以单独成块，以“> ”开头，并注明说话人。
+- 开头第一段必须是不带标题的导语段。不要使用其他 Markdown 记号（不要 # 一级标题、不要表格、不要代码块、不要 --- 分隔线）。"""
 
 SYSTEM_PROMPT = """你是一家面向海外华人的中文新闻网站的资深编辑，擅长把英文新闻改写成通俗易懂、读起来有劲的中文稿件，风格接近华人论坛里的热门帖子。
 
@@ -45,6 +54,7 @@ SYSTEM_PROMPT = """你是一家面向海外华人的中文新闻网站的资深�
 - 只使用提供的材料里的事实。材料只有标题和摘要时，就写一篇简短的快讯（2-3 段），不要脑补细节。
 - 原文的直接引语可以翻译后少量引用，并注明是谁说的。
 - 用简体中文。"""
+SYSTEM_PROMPT += FORMAT_RULES
 
 ZH_SYSTEM_PROMPT = """你是海外华人论坛的版主，负责把其他论坛的热帖做成"导读"，吸引读者来讨论。
 
@@ -71,6 +81,7 @@ BRIEF_SYSTEM_PROMPT = """你是海外华人财经社区的编辑，负责每个�
 - 然后挑 5-8 条最重要的新闻，每条一段：先一句话说发生了什么，再一句话说对美股/利率/华人钱包可能意味着什么。只用材料里的事实，不要编造数字或行情。
 - 最后一段抛出一个问题，邀请读者在跟帖里聊今天的看法，并提醒"以上不构成投资建议"。
 - 用简体中文。"""
+BRIEF_SYSTEM_PROMPT += FORMAT_RULES
 
 WEEKLY_SYSTEM_PROMPT = """你是海外华人财经社区的编辑，负责周末的"本周回顾"。材料是本周被读者看得最多的几条新闻（标题和导读），以及本周每日早报的标题。
 
@@ -81,6 +92,7 @@ WEEKLY_SYSTEM_PROMPT = """你是海外华人财经社区的编辑，负责周末
 - 倒数第二段"下周前瞻"：只写材料里明确提到的已安排事件；材料里没有就只提醒读者留意哪些变量，不要编造日期和数据。
 - 最后一段抛出一个问题，邀请读者在跟帖里聊聊，并提醒"以上不构成投资建议"。
 - 用简体中文。"""
+WEEKLY_SYSTEM_PROMPT += FORMAT_RULES
 
 ZH_NEWS_SYSTEM_PROMPT = """你是海外华人财经社区的编辑。材料是一篇中文财经报道（来源已注明）。请"稍加改写"成本站的财经快讯：
 
@@ -89,6 +101,7 @@ ZH_NEWS_SYSTEM_PROMPT = """你是海外华人财经社区的编辑。材料是�
 - 第一段里自然地注明出处，例如"据华尔街见闻报道"，出处用材料里的"来源"。不要提文学城。
 - 只用材料里的事实，不编造。可以在最后一段点出这件事对美股或海外华人投资者可能意味着什么，并抛出一个讨论问题。
 - 用简体中文。"""
+ZH_NEWS_SYSTEM_PROMPT += FORMAT_RULES
 
 
 def _system_prompt(item: RawItem) -> str:
@@ -401,6 +414,29 @@ def available_providers() -> list[Provider]:
     return providers
 
 
+
+def tidy_blocks(blocks: list[str]) -> list[str]:
+    """Normalise what the model returns to the markup the site renders; drop what it does not."""
+    out: list[str] = []
+    for raw in blocks:
+        b = (raw or "").strip()
+        if not b or re.fullmatch(r"[-*_=\s]{3,}", b):
+            continue
+        b = re.sub(r"^#{4,}\s+", "### ", b)
+        b = re.sub(r"^#\s+", "## ", b)
+        b = re.sub(r"(?m)^[*•]\s+", "- ", b)
+        b = re.sub(r"(?m)^\d+[.、)]\s+(?=\S)", "- ", b) if re.match(r"\d+[.、)]\s", b) else b
+        b = b.replace("```", "")
+        if b.startswith("##") and "\n" in b:  # a heading with text glued under it: split into two blocks
+            head, rest = b.split("\n", 1)
+            out.append(head.strip())
+            b = rest.strip()
+        out.append(b)
+    while out and out[-1].startswith("#"):  # a heading with nothing under it
+        out.pop()
+    return out
+
+
 def to_article(item: RawItem, providers: list[Provider]) -> Article | None:
     for provider in list(providers):
         try:
@@ -410,7 +446,7 @@ def to_article(item: RawItem, providers: list[Provider]) -> Article | None:
             if _is_auth_error(exc):
                 providers.remove(provider)  # bad key: stop retrying it for this run
             continue
-        body = [p.strip() for p in rw.body if p and p.strip()]
+        body = tidy_blocks(rw.body)
         if not rw.title.strip() or not body:
             continue
         return Article(
