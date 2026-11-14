@@ -11,7 +11,7 @@ from pathlib import Path
 from xml.sax.saxutils import escape as xml_escape
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
-from markupsafe import Markup
+from markupsafe import Markup, escape
 
 from .config import OUTPUT_DIR, SITE_SRC_DIR, SiteConfig, load_site
 from .models import Article
@@ -19,6 +19,42 @@ from .store import Store
 from .supabase_read import load_user_threads, load_view_stats, supabase_settings
 
 log = logging.getLogger(__name__)
+
+
+_INLINE = [
+    (re.compile(r"\*\*(.+?)\*\*"), r"<strong>\1</strong>"),
+    (re.compile(r"(?<!\*)\*([^*\n]+?)\*(?!\*)"), r"<em>\1</em>"),
+]
+_LINK = re.compile(r"\[([^\]]+)\]\(((?:https?://|/)[^)\s]+)\)")
+_IMG = re.compile(r"^!\[([^\]]*)\]\(((?:https?://|/)[^)\s]+)\)$")
+
+
+def _inline(text: str) -> str:
+    out = str(escape(text))
+    out = _LINK.sub(lambda m: f'<a href="{m.group(2)}" rel="noopener" target="_blank">{m.group(1)}</a>', out)
+    for rx, rep in _INLINE:
+        out = rx.sub(rep, out)
+    return out
+
+
+def rich_text(block: str) -> Markup:
+    """One body block -> HTML. Plain paragraphs stay plain; the owner can add ## headings, > quotes,
+    - lists, ![caption](url) images, **bold**, *italic* and [text](url) links. Everything is escaped first."""
+    b = (block or "").strip()
+    lines = b.split("\n")
+    if b.startswith("### "):
+        return Markup(f"<h3>{_inline(b[4:])}</h3>")
+    if b.startswith("## "):
+        return Markup(f"<h2>{_inline(b[3:])}</h2>")
+    m = _IMG.match(b)
+    if m:
+        cap = f"<figcaption>{escape(m.group(1))}</figcaption>" if m.group(1) else ""
+        return Markup(f'<figure><img src="{escape(m.group(2))}" alt="{escape(m.group(1))}" loading="lazy">{cap}</figure>')
+    if all(ln.startswith("> ") for ln in lines):
+        return Markup("<blockquote>" + "<br>".join(_inline(ln[2:]) for ln in lines) + "</blockquote>")
+    if all(re.match(r"[-•] ", ln) for ln in lines):
+        return Markup("<ul>" + "".join(f"<li>{_inline(ln[2:])}</li>" for ln in lines) + "</ul>")
+    return Markup("<p>" + "<br>".join(_inline(ln) for ln in lines) + "</p>")
 
 
 def _env() -> Environment:
@@ -31,6 +67,7 @@ def _env() -> Environment:
     env.filters["date_cn"] = lambda iso: iso[:10] if iso else ""
     # RSS summaries (tweets especially) carry bare t.co links that read as noise in a dek
     env.filters["nourl"] = lambda text: re.sub(r"\s*https?://\S+", "", text or "").strip(" —-")
+    env.filters["rich"] = rich_text
     env.filters["datetime_cn"] = lambda iso: iso[:16].replace("T", " ") if iso else ""
     # JSON-LD inside <script>: must not be HTML-escaped, but must not be able to close the tag
     env.filters["tojson_safe"] = lambda obj: Markup(

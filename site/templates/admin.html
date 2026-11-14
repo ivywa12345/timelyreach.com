@@ -23,7 +23,25 @@
     </label>
     <label>标题<input name="title" required maxlength="80" placeholder="15–30 个字，有信息量"></label>
     <label>导语（一两句话，会显示在列表和搜索结果里）<textarea name="summary" rows="2" maxlength="200"></textarea></label>
-    <label>正文（段落之间空一行）<textarea name="body" required rows="14" placeholder="第一段&#10;&#10;第二段"></textarea></label>
+    <div>
+      <strong>正文</strong> <span class="muted small">（段落之间空一行；左边写，右边是发布后的样子）</span>
+      <div class="editor-tools" id="tools">
+        <button type="button" data-act="h2" title="大标题">大标题</button>
+        <button type="button" data-act="h3" title="小标题">小标题</button>
+        <button type="button" data-act="bold"><b>粗体</b></button>
+        <button type="button" data-act="italic"><i>斜体</i></button>
+        <button type="button" data-act="quote">引用</button>
+        <button type="button" data-act="list">列表</button>
+        <button type="button" data-act="link">链接</button>
+        <button type="button" data-act="image">插入图片</button>
+        <input type="file" id="img-file" accept="image/jpeg,image/png,image/webp" hidden>
+      </div>
+      <div class="editor-split">
+        <textarea name="body" id="body-text" required placeholder="第一段&#10;&#10;## 小标题&#10;&#10;第二段"></textarea>
+        <div class="preview-body" id="preview" aria-label="预览"></div>
+      </div>
+      <p class="muted small">图片可以直接粘贴或拖进编辑框；也可以点“插入图片”。图片会自动压缩，约 1–2 分钟后在网站上可见。</p>
+    </div>
     <label>署名来源（原创就留空，会显示“站长”）<input name="source_name" maxlength="30" placeholder="华尔街日报"></label>
     <label>原文链接（可选）<input name="source_url" type="url" placeholder="https://"></label>
     <label>标签（用逗号分隔，最多 4 个）<input name="tags" maxlength="60" placeholder="美股, 美联储"></label>

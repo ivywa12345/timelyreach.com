@@ -161,6 +161,23 @@ h1, h2, h3 { margin: 0; font-family: var(--serif); font-weight: 700; line-height
 .byline strong { color: var(--text); }
 .post-body { font-family: var(--serif); font-size: 1.12rem; line-height: 1.85; overflow-wrap: anywhere; }
 .post-body p { margin: 0 0 1.1em; }
+.post-body h2, .preview-body h2 { font-family: var(--serif); font-size: 1.35rem; font-weight: 900; margin: 1.6em 0 .6em; padding-left: 10px; border-left: 4px solid var(--accent, #b5121b); line-height: 1.4; }
+.post-body h3, .preview-body h3 { font-size: 1.12rem; font-weight: 800; margin: 1.3em 0 .5em; }
+.post-body blockquote, .preview-body blockquote { margin: 0 0 1.2em; padding: 6px 14px; border-left: 3px solid var(--rule); color: var(--muted); background: rgba(127,127,127,.07); }
+.post-body ul, .preview-body ul { margin: 0 0 1.1em; padding-left: 1.4em; }
+.post-body li { margin-bottom: .3em; }
+.post-body figure, .preview-body figure { margin: 1.2em 0; }
+.post-body img, .preview-body img { max-width: 100%; height: auto; display: block; border-radius: 4px; margin: 0 auto; }
+.post-body figcaption, .preview-body figcaption { font-size: .82rem; color: var(--muted); text-align: center; margin-top: 6px; font-family: var(--sans, inherit); }
+.post-body strong { font-weight: 800; }
+.post-body a { color: var(--link, inherit); text-decoration: underline; }
+.editor-tools { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 6px; }
+.editor-tools button { padding: 4px 10px; border: 1px solid var(--rule); background: transparent; color: inherit; border-radius: 4px; cursor: pointer; font-size: .9rem; }
+.editor-split { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.editor-split textarea { min-height: 420px; font-size: .95rem; line-height: 1.6; }
+.preview-body { border: 1px dashed var(--rule); padding: 10px 14px; min-height: 420px; max-height: 70vh; overflow: auto; font-family: var(--serif); font-size: 1.05rem; line-height: 1.8; overflow-wrap: anywhere; }
+.preview-body p { margin: 0 0 1em; }
+@media (max-width: 760px) { .editor-split { grid-template-columns: 1fr; } .editor-split textarea, .preview-body { min-height: 260px; } }
 .post-foot { border-top: 1px solid var(--rule); padding-top: 12px; margin-top: 8px; font-size: .88rem; }
 .post-foot .tags a { margin-right: 10px; }
 .post-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
