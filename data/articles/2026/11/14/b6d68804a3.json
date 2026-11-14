@@ -1,0 +1,25 @@
+{
+ "key": "b6d68804a3",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/the-nuclear-investment-boom-in-eastern-europe-picks-up-pace",
+ "title": "俄乌冲突后，东欧国家急了！掀起核能投资热潮",
+ "summary": "受俄乌冲突影响，东欧国家为摆脱对俄罗斯的能源依赖，正加速推进核能投资热潮。",
+ "body": [
+  "话说自从俄乌冲突爆发以来，东欧国家为了摆脱对莫斯科的能源依赖，最近在核能投资上可以说是动作频频，整个步伐明显加快了。",
+  "根据彭博社的报道，长期以来东欧地区在能源上受俄罗斯影响较深，但在局势变化后，多元化能源供应成了当务之急，发展核能被视为摆脱依赖的重要途径。"
+ ],
+ "tags": [
+  "东欧",
+  "核能投资",
+  "能源安全",
+  "俄乌冲突"
+ ],
+ "original_title": "The Nuclear Investment Boom in Eastern Europe Picks Up Pace",
+ "lang": "en",
+ "published": "2026-11-14T08:00:19+00:00",
+ "created": "2026-11-14T10:27:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

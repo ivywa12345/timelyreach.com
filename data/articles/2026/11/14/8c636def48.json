@@ -1,0 +1,27 @@
+{
+ "key": "8c636def48",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/zelenskyy-says-us-floats-nato-for-ukraine-in-exchange-for-donbas",
+ "title": "用顿巴斯换北约入场券？泽连斯基爆料美国特使抛出重磅提议",
+ "summary": "乌克兰总统泽连斯基透露，美国和平特使曾询问乌克兰是否愿意放弃东部的顿巴斯地区以换取加入北约，这表明华盛顿的谈判策略可能发生了转变。",
+ "body": [
+  "据彭博社报道，乌克兰总统泽连斯基（Volodymyr Zelenskyy）近日爆料称，美国的和平特使曾向乌方探底，询问乌克兰是否愿意将东部的顿巴斯（Donbas）地区割让给俄罗斯，以此作为交换条件来换取加入北约（NATO）的资格。",
+  "这一表态释放出一个相当微妙的信号，外界认为华盛顿在处理乌克兰危机时的谈判策略可能正在悄悄发生变化。",
+  "对于远在大洋彼岸的海外华人来说，这场地缘政治博弈不仅牵动着全球能源和市场的神经，也可能对国际局势以及海外资产的安全配置产生深远影响。"
+ ],
+ "tags": [
+  "乌克兰局势",
+  "泽连斯基",
+  "北约",
+  "顿巴斯",
+  "美国外交"
+ ],
+ "original_title": "Zelenskyy Says US Floats NATO Membership in Deal for Donbas",
+ "lang": "en",
+ "published": "2026-11-14T09:32:42+00:00",
+ "created": "2026-11-14T10:25:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

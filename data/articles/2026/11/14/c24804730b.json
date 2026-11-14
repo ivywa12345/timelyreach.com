@@ -1,0 +1,26 @@
+{
+ "key": "c24804730b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/brookfield-consortium-progresses-to-next-round-of-uniper-sale",
+ "title": "德国能源巨头Uniper要易主？英国Centrica和挪威Equinor杀入第二轮竞标！",
+ "summary": "据知情人士透露，英国Centrica公司和挪威Equinor公司已成功晋级德国能源巨头Uniper SE出售案的第二轮竞标。",
+ "body": [
+  "知情人士透露，英国能源巨头Centrica Plc和挪威能源巨头Equinor ASA已经成功闯入德国能源巨头Uniper SE出售流程的第二轮。",
+  "Uniper SE是德国关键的能源企业之一。随着竞标进入新阶段，潜在买家的争夺也变得更加激烈，这些行业巨头的动向备受市场关注。"
+ ],
+ "tags": [
+  "Uniper",
+  "Centrica",
+  "Equinor",
+  "德国能源",
+  "海外并购"
+ ],
+ "original_title": "Centrica, Equinor in Next Round of Germany’s Uniper Sale",
+ "lang": "en",
+ "published": "2026-11-13T19:53:07+00:00",
+ "created": "2026-11-14T10:25:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

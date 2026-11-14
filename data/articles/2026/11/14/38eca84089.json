@@ -1,0 +1,27 @@
+{
+ "key": "38eca84089",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/china/trump-to-hold-talks-with-chinas-xi-and-russias-putin-next-week-29a58e91?mod=rss_worldnews",
+ "title": "罕见！特朗普下周将在深圳与习近平、普京举行三方会谈",
+ "summary": "美国前总统特朗普将于下周前往中国科技之都深圳，与中国国家主席习近平及俄罗斯总统普京举行一场史无前例的三方会谈。",
+ "body": [
+  "据《华尔街日报》（The Wall Street Journal）报道，美国前总统特朗普（Donald Trump）计划于下周前往中国科技重镇深圳，与中国国家主席习近平及俄罗斯总统普京（Vladimir Putin）举行一场备受瞩目的三方会谈。",
+  "这场会面由于集结了美、中、俄三国的最高层级人物，被形容为一场“史无前例”的外交动作。目前关于此次会谈的具体议程和细节尚未完全披露，但作为全球最重要的三个大国之间的直接互动，预计将吸引国际社会的极大关注。",
+  "对于远在海外的华人来说，大国关系的每一次重大互动往往都会牵动全球经济神经，进而对两地经贸、汇率甚至日常生活的方方面面产生深远影响。我们将持续为您关注会谈的最新进展。"
+ ],
+ "tags": [
+  "特朗普",
+  "习近平",
+  "普京",
+  "中美关系",
+  "深圳"
+ ],
+ "original_title": "Trump to Hold Talks With China’s Xi and Russia’s Putin Next Week",
+ "lang": "en",
+ "published": "2026-11-14T01:34:00+00:00",
+ "created": "2026-11-14T10:28:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

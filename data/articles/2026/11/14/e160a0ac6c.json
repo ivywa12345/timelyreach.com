@@ -1,0 +1,27 @@
+{
+ "key": "e160a0ac6c",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/nvidia-china-espionage-spy-hacking-ai-174c366b?mod=rss_worldnews",
+ "title": "英伟达也被盯上了？外媒爆料：北京正用全球最大情报网帮本土科技冲刺",
+ "summary": "华尔街日报最新报道称，北京正在利用庞大的情报搜集网络来支持本土科技产业的发展，美国官员甚至担心英伟达（Nvidia）CEO黄仁勋（Jensen Huang）也卷入了其中。",
+ "body": [
+  "最近外媒的一篇报道把目光对准了芯片巨头英伟达（Nvidia）。《华尔街日报》指出，北京正在部署堪称全球最大规模的情报搜集行动，核心目的就是为了给国内的科技产业造血、提速。",
+  "报道提到，美国官员目前非常焦虑，甚至开始担心英伟达CEO黄仁勋（Jensen Huang）在这场浩大的科技与情报博弈中被“套牢”或产生牵连。",
+  "对于在海外特别是高科技领域打拼的华人来说，中美之间在芯片和高科技领域的深度较量，未来可能会对相关行业的合规审查、就业签证甚至企业运营带来更多不确定性，值得密切关注。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "芯片产业",
+  "中美科技战",
+  "情报网"
+ ],
+ "original_title": "Behind the Nvidia Affair Sits a Vast Chinese Spying Machine",
+ "lang": "en",
+ "published": "2026-11-14T02:00:00+00:00",
+ "created": "2026-11-14T10:28:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "49068aca9c",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/science/space-astronomy/spacex-launches-starship-on-ambitious-bid-to-catch-spacecraft-5c806c9b?mod=rss_Technology",
+ "title": "SpaceX星舰又出状况！最新试飞中途放弃回收助动器",
+ "summary": "埃隆·马斯克（Elon Musk）旗下的火箭公司SpaceX在最新的星舰发射任务中，由于飞行初期的突发问题，被迫取消了回收助推器的计划。",
+ "body": [
+  "如果你一直在关注埃隆·马斯克（Elon Musk）的星舰（Starship）计划，这次可能又要小小叹一口气了。根据《华尔街日报》的报道，SpaceX在最近的一次火箭试飞中遇到了麻烦，原本备受期待的回收助推器计划中途泡汤。",
+  "据了解，这次发射在飞行刚开始不久就出现了技术问题。为了安全起见，SpaceX团队果断决定放弃原定的助推器回收尝试。虽然火箭依然完成了后续流程，但没能实现标志性的“筷子夹火箭”或海上回收，对追求极致回收复用的SpaceX来说算是个小挫折。",
+  "作为商业航天领域的龙头老大，SpaceX一直靠着“小步快跑、炸了再来”的迭代模式推进研发。虽然这次回收没成功，但航天探索本来就是充满不确定性的冒险。我们将继续关注后续官方披露的具体故障原因。"
+ ],
+ "tags": [
+  "SpaceX",
+  "星舰",
+  "埃隆马斯克",
+  "航天发射",
+  "科技新闻"
+ ],
+ "original_title": "SpaceX’s Latest Starship Mission Hits Early Setback",
+ "lang": "en",
+ "published": "2026-11-14T01:19:00+00:00",
+ "created": "2026-11-14T10:26:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

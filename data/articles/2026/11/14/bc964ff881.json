@@ -1,0 +1,27 @@
+{
+ "key": "bc964ff881",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/14/us-news/illinois-bomb-threat-at-peoria-ethanol-plant-prompts-mile-wide-evacuation/",
+ "title": "虚惊一场还是蓄意破坏？伊州乙醇厂收到炸弹威胁，方圆一英里紧急大撤离！",
+ "summary": "周五下午，伊利诺伊州皮奥里亚市的一家乙醇厂发现可疑包裹并收到炸弹威胁，当地警方判定威胁真实存在，随即下令方圆一英里内居民和企业紧急撤离。拆弹专家随后赶到现场将可疑包裹处理安全，联邦调查局（FBI）等多个部门已介入调查。",
+ "body": [
+  "周五下午1点刚过，位于伊利诺伊州皮奥里亚市（Peoria）的“BioUrja新能源”厂（BioUrja Renewables）发现了一个可疑包裹，并引发了炸弹威胁。皮奥里亚警察局长布拉德·迪克森（Brad Dixon）在周六凌晨的新闻发布会上表示，警方在一个小时后判定该装置构成“可靠威胁”，并紧急召唤了联邦调查局（FBI）特工到场。",
+  "由于情况危急，官方划定了一个方圆一英里的爆炸影响半径区，并在晚上7点发布了紧急撤离令。市政府敦促该区域内所有居住和工作的人员立即撤离。当晚9点12分，拆弹专家赶到现场将包裹“安全处理”。不过，由于涉事工厂面积庞大，执法部门随后对厂区展开了地毯式的大范围搜查，以排查是否还存在其他潜在威胁，撤离令也因此暂时保持有效。",
+  "包括伊利诺伊州警方、州务卿办公室、美国烟酒枪炮及爆炸物管理局（ATF）以及FBI在内的多方执法力量均参与了此次应急处置。FBI斯普林菲尔德外地办事处负责此案的特别特工莱恩·普雷斯利（Ryan Presley）在发布会上表示，目前尚未确定嫌疑人或作案动机，但承诺将全力将幕后黑手缉拿归案。受疏散令影响，附近的卡特彼勒（Caterpillar）等工厂也通知周五晚间至周六的第三班工人暂停上班。."
+ ],
+ "tags": [
+  "伊利诺伊州",
+  "炸弹威胁",
+  "紧急撤离",
+  "FBI",
+  "突发新闻"
+ ],
+ "original_title": "Bomb threat at Illinois ethanol plant forces mandatory mile-wide evacuation order",
+ "lang": "en",
+ "published": "2026-11-14T09:15:41+00:00",
+ "created": "2026-11-14T10:26:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

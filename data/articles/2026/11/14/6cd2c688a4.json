@@ -1,0 +1,27 @@
+{
+ "key": "6cd2c688a4",
+ "board": "hot",
+ "source_id": "wsj-lifestyle",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/health/wellness/how-ai-diagnosed-a-medical-mystery-my-doctors-missed-for-decades-cd5fa842?mod=rss_lifestyle",
+ "title": "被医生当成“疑难杂症”折腾几十年，她最后靠AI居然看好了病？",
+ "summary": "华尔街日报编辑Katherine Bindley分享了自己多年的痛苦经历：在被无数医生忽视后，她尝试用AI（人工智能）诊断，终于解开了困扰她几十年的复杂病情之谜。",
+ "body": [
+  "看了无数医生都查不出病因，最后竟然是被AI给“诊断”出来了？最近，《华尔街日报》编辑Katherine Bindley在文章中分享了自己的神奇经历。她长期饱受各种令人困惑的健康症状折磨，多年来跑遍各大医院却始终没有得到确诊。",
+  "在绝望之下，她决定把自己的症状输入到人工智能（AI）工具中试一试。没想到，AI竟然给出了关键线索，帮她找出了那些被专业医生们常年忽略的复杂病情答案。",
+  "这件事也引发了不少海外网友的热议。在这个医疗资源紧张、看专科医生动辄要等几个月的环境下，AI会成为未来辅助我们看病、跟医生沟通的新工具吗？不过，大家在惊叹科技之余，也提醒说AI只能作为参考，真有病还得听专业医生的。"
+ ],
+ "tags": [
+  "AI医疗",
+  "华尔街日报",
+  "健康生活",
+  "海外生活",
+  "奇闻异事"
+ ],
+ "original_title": "How AI Diagnosed a Medical Mystery My Doctors Missed for Decades",
+ "lang": "en",
+ "published": "2026-11-12T20:00:00+00:00",
+ "created": "2026-11-14T10:26:51+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

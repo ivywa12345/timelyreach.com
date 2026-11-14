@@ -1,0 +1,27 @@
+{
+ "key": "5593047e67",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
+ "title": "中国证监会主席吴清发声：全球资产正面临新一轮重新定价！",
+ "summary": "中国证监会主席吴清近日表示，面对地缘政治紧张局势和政策的不确定性，全球资本市场正经历新一轮的资产重新定价与再平衡。",
+ "body": [
+  "据彭博社（Bloomberg News）报道，中国证券监督管理委员会主席吴清近日发出提醒，在全球地缘政治局势紧张以及各项政策充满不确定性的背景下，全球资本市场目前正在经历新一轮的资产重新定价和再平衡过程。",
+  "作为中国资本市场的监管掌门人，吴清的这一表态指出了当前国际金融市场所面临的潜在风险与波动压力。随着国际环境的变化，全球投资者正在重新评估各类资产的价值与风险。",
+  "对于海外华人投资者来说，全球资产价格的波动意味着投资组合需要更加谨慎。在政策和地缘风险交织的当下，管好自己的钱包、注意资产配置的抗风险能力尤为重要。"
+ ],
+ "tags": [
+  "全球市场",
+  "资产定价",
+  "证监会",
+  "投资理财",
+  "地缘政治"
+ ],
+ "original_title": "China’s Market Regulator Warns of Global Asset Repricing Risks",
+ "lang": "en",
+ "published": "2026-11-14T05:20:13+00:00",
+ "created": "2026-11-14T10:29:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

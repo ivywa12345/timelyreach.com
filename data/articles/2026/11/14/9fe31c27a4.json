@@ -1,0 +1,27 @@
+{
+ "key": "9fe31c27a4",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/americas/the-unstoppable-prison-gangs-transforming-ecuador-into-a-narco-state-cf3295c9?mod=rss_worldnews",
+ "title": "曾经的最和平之国，怎么成了全球毒品中转站？全怪监狱里的这帮狠人！",
+ "summary": "根据《华尔街日报》报道，厄瓜多尔的毒枭们竟然直接在监狱里遥控指挥，把这个曾经拉美最和平的国家变成了一个关键的全球可卡因贩运枢纽。",
+ "body": [
+  "如果你还觉得厄瓜多尔是个适合旅游的平静国家，那可真得更新一下地图了。根据《华尔街日报》记者 Ryan Dubé 的报道，如今的厄瓜多尔已经彻底变天，沦为了全球毒品贸易的关键大动脉。",
+  "更让人匪夷所思的是，这群把国家搅得天翻地覆的毒枭大佬们，根本不是在外面东躲西藏，而是直接坐在监狱的牢房里，大摇大摆地遥控指挥着这一切。",
+  "对于远在海外的华人来说，拉丁美洲治安恶化和毒品泛滥往往也会引发连锁的金融和安全风险。虽然这事儿发生在南美，但也再次印证了社会治安崩盘对普通人生活的致命影响。"
+ ],
+ "tags": [
+  "厄瓜多尔",
+  "毒品走私",
+  "监狱暴动",
+  "拉美治安",
+  "华尔街日报"
+ ],
+ "original_title": "The Unstoppable Prison Gangs Transforming Ecuador Into a Narco State",
+ "lang": "en",
+ "published": "2026-11-14T03:00:00+00:00",
+ "created": "2026-11-14T10:25:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

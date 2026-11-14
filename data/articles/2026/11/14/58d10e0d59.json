@@ -1,0 +1,26 @@
+{
+ "key": "58d10e0d59",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/oil-slips-again-as-traders-weigh-diplomacy-hopes-808f1641?mod=rss_markets_main",
+ "title": "油价又双叒跌了！两大原油期货本周集体遭遇“二连阴”",
+ "summary": "国际油价本周收盘表现不一，布伦特原油基本持平，WTI原油微跌0.2%，但两大基准油价均录得连续第二周下跌。",
+ "body": [
+  "据《华尔街日报》（The Wall Street Journal）报道，原油期货在刚刚过去的一周里表现疲软，最终收盘涨跌互现。具体来看，布伦特原油期货价格基本上原地踏步、变化不大，而美国西德克萨斯中质原油（WTI）则小幅下跌了0.2%。",
+  "值得注意的是，这已经是两大原油基准价格连续第二周出现周线级别下跌。对于关心油价走势的朋友来说，这意味着近期的能源市场整体呈下行趋势。",
+  "油价走低直接关乎我们的日常生活成本。对在美华人来说，油价连续回落意味着近期去加油站加油能稍微松一口气，开车出行、通勤以及物流成本都有望保持相对温和，在一定程度上能帮大家省下一点钱包里的真金白银。"
+ ],
+ "tags": [
+  "油价",
+  "财经资讯",
+  "海外生活",
+  "华尔街日报"
+ ],
+ "original_title": "Oil Futures End Week Lower",
+ "lang": "en",
+ "published": "2026-11-13T22:20:00+00:00",
+ "created": "2026-11-14T10:26:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

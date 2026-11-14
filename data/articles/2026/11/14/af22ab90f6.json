@@ -1,0 +1,27 @@
+{
+ "key": "af22ab90f6",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
+ "title": "离开黄仁勋的AI概念股还能行吗？华尔街开始重新盘算啦！",
+ "summary": "由于华尔街重新审视没有英伟达（Nvidia）领头时的AI板块走向，AMD等芯片股遭遇下跌，投资者开始对芯片股的走势产生疑虑。",
+ "body": [
+  "最近科技股板块又有些风吹草动了。根据MarketWatch的报道，原本大家以为英伟达（Nvidia）遭遇挫折时，同板块的其他芯片公司能趁机分一杯羹、股价大涨，但现在华尔街的投资者们可不这么想了。",
+  "受此情绪影响，AMD（Advanced Micro Devices）等一众芯片股近期出现了下跌。华尔街正在重新思考，在没有黄仁勋（Jensen Huang）和英伟达带头冲锋的情况下，整个AI概念的投资逻辑到底还算不算数。",
+  "对于咱们关注科技股和AI风向的海外华人来说，这种板块情绪的剧烈摇摆意味着市场正在挤水分。以后看芯片股，不能光凭概念盲目跟风了，还得看各家公司究竟有没有真本事拿订单，钱包投资可得更加谨慎了。"
+ ],
+ "tags": [
+  "AMD",
+  "英伟达",
+  "芯片股",
+  "AI概念股",
+  "华尔街"
+ ],
+ "original_title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
+ "lang": "en",
+ "published": "2026-11-13T21:10:00+00:00",
+ "created": "2026-11-14T10:28:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "2306b617c8",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/microsoft-service-restored-after-outage-dddae34b?mod=rss_Technology",
+ "title": "微软365大面积崩了！官方紧急回应：积压邮件已处理完",
+ "summary": "微软365此前遭遇大面积服务中断，导致大量用户无法正常收发邮件。微软官方最新表示，故障已经修复，积压的邮件也已经处理完毕。",
+ "body": [
+  "科技巨头微软（Microsoft）的办公套件最近又出状况了。根据《华尔街日报》报道，微软365（Microsoft 365）此前发生了一次大面积的服务中断，让不少打工人直呼“摸鱼泡汤”，工作进度严重受阻。",
+  "好在这次恢复的速度不算太慢。微软官方随后表示，技术团队已经成功处理了故障期间积压的大量邮件，各项服务正在陆续恢复正常。"
+ ],
+ "tags": [
+  "微软",
+  "Microsoft 365",
+  "系统故障",
+  "海外生活"
+ ],
+ "original_title": "Microsoft Service Restored After Widespread Outage, Company Says",
+ "lang": "en",
+ "published": "2026-11-14T09:56:00+00:00",
+ "created": "2026-11-14T10:25:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

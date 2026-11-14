@@ -1,0 +1,26 @@
+{
+ "key": "e540600021",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/alerts/uscis-reaches-h-2b-cap-for-first-half-of-fiscal-year-2026",
+ "title": "手慢无！2026财年前半段H-2B非移民劳工名额已满",
+ "summary": "美国移民局（USCIS）宣布，2026财年前半段的H-2B签证名额已经收满，9月12日是接收申请的最后期限。",
+ "body": [
+  "美国公民及移民服务局（USCIS）近日发布通知称，他们已经收到了足够数量的申请，达到了国会设定的2026财年（Fiscal Year 2026）前半段的H-2B签证法定名额上限。",
+  "对于要求在2026年4月1日之前开始工作的新的、受名额限制的H-2B劳工申请，官方确定的最后接收日期（Final Receipt Date）为9月12日。在此之后收到的相关申请将被直接拒绝。",
+  "此外，移民局也提醒公众，无论是美国本地劳工还是H-2B劳工，如果发现任何潜在的欺诈或违规行为，都可以通过其在线举报表格提供线索。"
+ ],
+ "tags": [
+  "美国移民局",
+  "H-2B签证",
+  "劳工名额",
+  "签证政策"
+ ],
+ "original_title": "USCIS Reaches H-2B Cap for First Half of Fiscal Year 2026",
+ "lang": "en",
+ "published": "2025-09-16T15:16:51+00:00",
+ "created": "2026-11-14T10:27:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "22e25ab090",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
+ "title": "比特币跌破6.9万美元！AI巨头IPO正疯狂抽血加密圈？",
+ "summary": "由于投资者可能需要变现加密货币来参与备受瞩目的AI初创公司Anthropic上市，比特币价格跌破6.9万美元，且面临进一步下跌风险。",
+ "body": [
+  "据MarketWatch报道，比特币（Bitcoin）近日价格跌破了6.9万美元大关。市场分析认为，如果投资者为了腾出资金去参与被称为“史上最抢手股票发行之一”的AI巨头Anthropic首次公开募股（IPO），可能会抛售更多手头的加密货币资产，从而导致币价进一步承压。",
+  "MarketWatch专栏作家Isabel Wang指出，目前加密货币投资者面临着资产配置的抉择。为了把资金腾出来挤进前景火热的AI板块，大家不得不割爱一部分现有的加密货币持仓。这种“抽血效应”正在对加密市场产生实实在在的影响。",
+  "对于关注投资理财的海外华人来说，如果你的投资组合里同时涉足了加密货币和美股科技股，近期可能需要密切关注这类热门IPO对整体市场流动性的虹吸效应，及时调整仓位，防范资产价格波动的风险。"
+ ],
+ "tags": [
+  "比特币",
+  "Anthropic",
+  "美股IPO",
+  "加密货币",
+  "海外理财"
+ ],
+ "original_title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+ "lang": "en",
+ "published": "2026-11-13T21:26:00+00:00",
+ "created": "2026-11-14T10:27:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

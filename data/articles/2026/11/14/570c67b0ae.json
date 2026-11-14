@@ -1,0 +1,27 @@
+{
+ "key": "570c67b0ae",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/economy/consumers/the-next-wave-of-food-inflation-is-coming-b06f37db?mod=rss_markets_main",
+ "title": "家人们捂紧钱包！新一波食品通胀又要来了？",
+ "summary": "根据《华尔街日报》报道，由于能源成本飙升和供应链延迟导致生产商成本增加，杂货价格可能面临新一轮上涨。",
+ "body": [
+  "最近去超市买菜，是不是觉得账单又变厚了？根据《华尔街日报》记者 Rebecca Cadenhead 的报道，大家可能得做好心理准备，新一波的食品通胀（Food Inflation）正在路上。",
+  "背后的主要推手是不断飙升的能源成本，以及再次出现延误的供应链。这些因素直接推高了食品生产商的运营成本，而这些增加的开支最终很可能会转嫁到消费者头上，让大家的菜篮子再次承压。",
+  "对咱们海外华人来说，柴米油盐酱醋茶样样离不开。如果食品价格再度上涨，日常生活的开支肯定会增加，大家的钱包又得缩水了。平时去超市采购时，可能得多留意打折信息，精打细算过日子了。"
+ ],
+ "tags": [
+  "通胀",
+  "食品价格",
+  "海外生活",
+  "物价上涨",
+  "华尔街日报"
+ ],
+ "original_title": "The Next Wave of Food Inflation Is Coming",
+ "lang": "en",
+ "published": "2026-11-14T01:00:00+00:00",
+ "created": "2026-11-14T10:25:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

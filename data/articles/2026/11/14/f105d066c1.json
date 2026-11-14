@@ -1,0 +1,26 @@
+{
+ "key": "f105d066c1",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/the-oil-market-is-brimming-with-crude-despite-tanker-attacks",
+ "title": "霍尔木兹海峡天天挨炸，国际油价怎么一点没崩？",
+ "summary": "尽管伊朗持续在霍尔木兹海峡袭击油轮，但全球原油市场供应依然十分充足，油价并未受到明显冲击。",
+ "body": [
+  "据彭博社报道，伊朗战争已经持续了八个多月，德黑兰方面继续在霍尔木兹海峡（Strait of Hormuz）附近频繁袭击油轮，现场浓烟滚滚。",
+  "不过让人意外的是，尽管袭击事件不断，但国际原油市场并没有出现预想中的恐慌性短缺，目前市场上原油供应依然十分充裕。",
+  "对于海外华人朋友来说，虽然中东局势紧张可能引发地缘政治担忧，但目前来看短期内油价和加油站的油费暂时还算稳定，没有出现暴涨的情况。"
+ ],
+ "tags": [
+  "国际油价",
+  "中东局势",
+  "霍尔木兹海峡",
+  "能源市场"
+ ],
+ "original_title": "The Oil Market Is Brimming With Crude Despite Tanker Attacks",
+ "lang": "en",
+ "published": "2026-11-14T08:30:00+00:00",
+ "created": "2026-11-14T10:28:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

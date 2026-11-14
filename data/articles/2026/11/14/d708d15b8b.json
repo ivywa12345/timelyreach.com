@@ -1,0 +1,27 @@
+{
+ "key": "d708d15b8b",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/bitcoin-holds-below-70-000-as-risk-off-mood-pressures-crypto-d61d684d?mod=rss_markets_main",
+ "title": "比特币失守7万美元！创下八月以来新低，这次又是谁在砸盘？",
+ "summary": "受利率预期升温和科技股抛售潮拖累，比特币价格跌破7万美元大关，遭遇六周连跌。",
+ "body": [
+  "据《华尔街日报》报道，比特币价格近日跌破70,000美元，这是自今年8月以来的首次，并且正经历连续第六周的下跌。",
+  "华尔街分析指出，这次加密货币市场的回调主要是受到宏观面影响。市场对未来利率可能维持高位的预期升温，加上近期科技股遭遇抛售，导致投资者的风险偏好明显降温，资金纷纷从风险资产中撤离。",
+  "对于关注投资理财的海外华人来说，近期金融市场波动加剧，无论是股市还是加密货币（Crypto）都面临较大不确定性。在市场情绪谨慎的当下，配置资产时还需格外注意防范风险，守好自己的钱包。"
+ ],
+ "tags": [
+  "比特币",
+  "加密货币",
+  "金融市场",
+  "投资理财",
+  "美股"
+ ],
+ "original_title": "Bitcoin Holds Below $70,000 as Risk-Off Mood Pressures Crypto",
+ "lang": "en",
+ "published": "2026-11-13T11:34:00+00:00",
+ "created": "2026-11-14T10:29:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
