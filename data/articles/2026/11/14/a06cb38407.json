@@ -1,0 +1,23 @@
+{
+ "key": "a06cb38407",
+ "board": "news",
+ "source_id": "inbox",
+ "source_name": "路透社",
+ "source_url": "https://x.com/Reuters/status/2121656969589104707",
+ "title": "美国解除全国地面停飞令，延误或持续数日",
+ "summary": "美国当局在持续四小时、扰乱数千架次航班的停运后解除了全国地面停飞令，但延误可能持续数日。",
+ "body": [
+  "美国当局在持续四小时、扰乱数千架次航班的停运之后，解除了全国地面停飞令。",
+  "延误可能持续数日。"
+ ],
+ "tags": [
+  "美国",
+  "航空"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-14T17:30:14+00:00",
+ "created": "2026-11-14T19:38:25+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

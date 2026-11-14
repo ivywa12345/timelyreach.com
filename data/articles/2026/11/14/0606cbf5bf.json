@@ -1,0 +1,22 @@
+{
+ "key": "0606cbf5bf",
+ "board": "news",
+ "source_id": "inbox",
+ "source_name": "路透社",
+ "source_url": "https://x.com/Reuters/status/2121661942054174936",
+ "title": "中国商飞CE-25A电动飞机完成首次载人飞行",
+ "summary": "据央视报道，中国国有飞机制造商中国商飞在滨州完成了其CE-25A电动飞机的首次载人飞行。",
+ "body": [
+  "据中央电视台报道，中国国有飞机制造商中国商飞（COMAC）在滨州完成了其CE-25A电动飞机的首次载人飞行。"
+ ],
+ "tags": [
+  "中国",
+  "航空"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-14T17:50:00+00:00",
+ "created": "2026-11-14T19:38:25+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

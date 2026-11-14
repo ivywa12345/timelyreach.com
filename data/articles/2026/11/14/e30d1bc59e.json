@@ -1,0 +1,24 @@
+{
+ "key": "e30d1bc59e",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2121649611270148230",
+ "title": "彭博：英伟达处于AI循环交易网络中心",
+ "summary": "据彭博报道，英伟达处于人工智能行业循环交易网络的中心：英伟达投资OpenAI等AI公司，后者再购买英伟达芯片；批评者称这种循环可能夸大需求。",
+ "body": [
+  "据彭博报道，英伟达处于人工智能行业循环交易网络的中心。",
+  "模式是这样的：英伟达投资OpenAI、CoreWeave和Nscale等人工智能公司，而这些公司随后购买英伟达的芯片。微软、谷歌和亚马逊等云计算巨头投资AI实验室，而这些实验室随后把这笔钱花在租用它们的算力上。",
+  "包括雷·达里奥（Ray Dalio）在内的批评者表示，这些循环可能夸大需求，让繁荣看起来比实际更强劲。"
+ ],
+ "tags": [
+  "英伟达",
+  "AI"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-14T17:01:00+00:00",
+ "created": "2026-11-14T19:38:25+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
