@@ -1,0 +1,33 @@
+{
+ "key": "5fa2be5de1",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/news-releases/dhs-terminates-2021-designation-of-venezuela-for-temporary-protected-status",
+ "title": "突发！美国取消委内瑞拉人TPS身份，限期离境并提供千元遣返奖励",
+ "summary": "美国国土安全部宣布终止2021年委内瑞拉的临时保护身份（TPS），该身份将于2025年9月10日正式到期。官方表示此举旨在打击非法移民、保障国家安全，并鼓励相关人员通过官方应用自主离境。",
+ "body": [
+  "美国国土安全部（DHS）部长克里斯蒂·诺姆（Kristi Noem）于今日宣布，正式终止2021年针对委内瑞拉的临时保护身份（TPS，Temporary Protected Status）设定。该项政策将在联邦公报（Federal Register）发布通知60天后正式生效，并将于 **2025年9月10日** 到期。",
+  "## 官方称不符合国家利益",
+  "美国公民及移民服务局（USCIS）发言人马修·特拉格瑟（Matthew Tragesser）表示，委内瑞拉的大规模移民构成了挑战，而TPS产生的“磁铁效应”破坏了特朗普政府确保南部边境安全和有效管理移民的努力。",
+  "> “鉴于公共安全、国家安全、移民因素、移民政策、经济考量以及外交政策的权衡，允许委内瑞拉国民继续在美国临时居留显然不符合美国的最佳利益。” —— USCIS发言人 马修·特拉格瑟（Matthew Tragesser）",
+  "在与国务院及其他联邦机构协商并经美国公民及移民服务局评估后，国土安全部认为委内瑞拉目前的状况已不再满足TPS的法定要求，因此决定终止该项设定。",
+  "## 鼓励使用应用自主离境",
+  "对于受影响的委内瑞拉国民，美国官方鼓励他们通过美国海关与边境保护局（CBP）的 CBP Home 应用程序报告离境情况，以采取安全的方式自主遣返。",
+  "自主离境政策包含以下激励措施：\n- 提供免费机票\n- 发放 **1,000美元** 的离境津贴\n- 保留未来通过合法途径移民的潜在机会",
+  "对于关注美国移民政策和南部边境局势的海外华人而言，此举显示出新政府在收紧庇护和临时身份政策上的强硬态度，边境管控和移民合规审查预计将进一步加强。"
+ ],
+ "tags": [
+  "美国移民",
+  "TPS",
+  "委内瑞拉",
+  "国土安全部",
+  "边境政策"
+ ],
+ "original_title": "DHS Terminates 2021 Designation of Venezuela for Temporary Protected Status",
+ "lang": "en",
+ "published": "2025-09-03T20:46:45+00:00",
+ "created": "2026-11-14T23:00:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

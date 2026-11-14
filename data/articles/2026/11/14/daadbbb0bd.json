@@ -1,0 +1,33 @@
+{
+ "key": "daadbbb0bd",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+ "title": "太科幻了！SpaceX首次用“筷子”在空中精准夹住火箭飞船",
+ "summary": "马斯克的SpaceX在星舰第15次试飞中取得历史性突破，首次成功用发射塔的机械臂在空中“接住”了从轨道返回的星舰飞船，向火箭完全可回收再利用迈出关键一步。",
+ "body": [
+  "马斯克（Elon Musk）的太空探索技术公司（SpaceX）再次刷新人类航天纪录，在德州星际基地（Starbase）成功用发射塔被称为“筷子”的机械臂，在空中精准夹住了从太空轨道返回的星舰（Starship）飞船上层部分。",
+  "## 惊险刺激的测试过程",
+  "在这次被称为史上最雄心勃勃的星舰第15次试飞（Test Flight 15）中，SpaceX首次尝试同时回收火箭的助推器和飞船上层。虽然周五的第一阶段测试中，助推器回收失败并在墨西哥湾坠毁爆炸，但上层飞船表现神勇，在环绕地球飞行14圈后，成功降落在被称为“机械哥斯拉”（Mechazilla）的发射塔上。",
+  "## 对星链与登月意味着什么",
+  "把星舰打造成为完全可回收的火箭，是SpaceX商业版图的核心关键。实现这一目标将直接影响到以下几个方面：",
+  "- 降低发射成本，加速部署更多的Starlink v3卫星以扩大利润中心",
+  "- 承接美国宇航局（NASA）的重任，用星舰运送宇航员和货物往返月球表面",
+  "- 推进马斯克将人类送上火星的宏伟太空移民计划",
+  "这次试飞不仅在环地轨道上新增了26颗最新卫星，也让SpaceX这个拥有超过11,000颗卫星的庞大星座网络离完全体更近一步。尽管测试期间曾因残骸风险导致夏威夷交通部门暂停部分航班，但这丝毫无法掩盖这项航天技术创新的巨大里程碑意义。"
+ ],
+ "tags": [
+  "SpaceX",
+  "星舰",
+  "马斯克",
+  "科技创新",
+  "航空航天"
+ ],
+ "original_title": "SpaceX catches upper stage of Starship rocket in historic first",
+ "lang": "en",
+ "published": "2026-11-14T21:52:01+00:00",
+ "created": "2026-11-14T23:00:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

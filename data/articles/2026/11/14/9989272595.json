@@ -1,0 +1,26 @@
+{
+ "key": "9989272595",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
+ "title": "股市震荡太吓人？华尔街大佬正疯狂扫货“香饽饽”公司债！",
+ "summary": "由于近期股市动荡，特别是英伟达（Nvidia）引发的波澜，许多资金经理开始将目光转向美国企业债，寻求相对安全的避风港，目前6%的高收益率吸引力十足。",
+ "body": [
+  "最近美股市场大起大落，经历了一轮由英伟达（Nvidia）等明星股带动的剧烈震荡。为了躲避股市的风浪，许多资金经理（Money managers）最近纷纷把钱投向了美国企业债（US corporate bonds），这一资产正成为市场上的抢手货。",
+  "根据彭博社（Bloomberg）的报道，近期美国企业债迎来了显著的反弹。对于被股市吓怕的投资者来说，这类债券目前提供的 **6%左右的高收益率** 显得分外诱人，成了资金避风港的最佳选择。",
+  "对咱们海外华人来说，如果手里有闲钱在考虑资产配置，股市波动大时，这类稳健且收益可观的固定收益产品确实值得关注，它能在一定程度上帮咱们的钱包抵御市场的狂风暴雨。"
+ ],
+ "tags": [
+  "美国企业债",
+  "美股震荡",
+  "资产配置",
+  "投资理财"
+ ],
+ "original_title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
+ "lang": "en",
+ "published": "2026-11-14T20:00:00+00:00",
+ "created": "2026-11-14T22:59:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

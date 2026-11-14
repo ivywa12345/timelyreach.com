@@ -1,0 +1,31 @@
+{
+ "key": "9a2034b630",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+ "title": "黄仁勋辞职引发地震！大股东联手呼吁董事会考虑其回归",
+ "summary": "英伟达创始人黄仁勋因绯闻辞职后，持仓超21亿美元的两大投资方敦促董事会谨慎物色未来领导人，并提出考虑黄仁勋潜在回归的可能，马斯克也公开声援。",
+ "body": [
+  "英伟达（Nvidia）创始人黄仁勋（Jensen Huang）周四因绯闻宣布辞职，在科技圈引发巨大震动。对此，持有英伟达巨额股票的两大机构投资者坐不住了，公开呼吁董事会放慢脚步，给未来领导层的选拔踩刹车，甚至把“黄仁勋可能回归”也列为选项之一。",
+  "## 大股东与马斯克联手声援",
+  "Altimeter Capital 首席执行官布拉德·格斯特纳（Brad Gerstner）和 Atreides Management 的加文·贝克（Gavin Baker）于周五在社交平台 X 上公开了一封联名信。截至 6 月 30 日，这两家机构分别持有价值近 **19亿美元** 和 **2.5亿美元** 的英伟达股票。信中指出，虽然目前由担任过 13 年 CFO 的科莱特·克雷斯（Colette Kress）暂代临时 CEO 可以确保公司正常运转，但这位功勋卓越的创始人应该拥有一个从容、审慎的过渡期。",
+  "> But the Founder and long time incredible leader of this extraordinary company has earned the right for a deliberate process that avoids any needless rush to replace him before all the facts are known.",
+  "与此同时，SpaceX 首席执行官埃隆·马斯克（Elon Musk）也通过 X 表示自己签署了一份要求恢复黄仁勋职务的请愿书。目前网络上流传的“支持黄仁勋”请愿书已宣称获得了超过 **10万个** 签名，其中包括 5000 多名现任英伟达员工。马斯克直言，如果没有黄仁勋，英伟达将会失去一些关键交易。",
+  "## 辞职风波与后续影响",
+  "黄仁勋是在周四辞职的，起因是多起绯闻指控，其中包括与涉嫌中国间谍爱丽丝·黄（Alice Huang）的关系，后者曾与英伟达客户 Megaspeed 有工作交集。目前，这家总部位于新加坡的公司正因可能将受限制的 AI 芯片转运至中国而面临美国司法部调查。对于关注科技股和人工智能发展的在美华人而言，英伟达作为 AI 浪潮的核心引擎，其高层动荡和地缘政治审查不仅牵动着投资者的钱包，也可能对整个科技行业的就业和供应链产生深远影响。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "人工智能",
+  "美股",
+  "马斯克"
+ ],
+ "original_title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+ "lang": "en",
+ "published": "2026-11-14T17:46:06+00:00",
+ "created": "2026-11-14T22:59:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
