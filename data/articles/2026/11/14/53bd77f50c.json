@@ -1,0 +1,23 @@
+{
+ "key": "53bd77f50c",
+ "board": "news",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2121367686936658113",
+ "title": "后续：全美航班一度停飞，系电信故障所致",
+ "summary": "美国联邦航空管理局表示因临时电信中断，出于谨慎暂停所有航班；国土安全部部长表示没有理由相信这是针对美国的袭击，认为是软件更新所致。",
+ "body": [
+  "美国联邦航空管理局（FAA）刚刚表示：出现临时电信中断；出于高度谨慎，所有航班已被暂停。",
+  "国土安全部（DHS）部长穆林（Mullin）刚刚表示：没有理由相信这是针对美国的袭击，他认为是软件更新所致。"
+ ],
+ "tags": [
+  "航空",
+  "美国"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-13T22:20:44+00:00",
+ "created": "2026-11-14T01:23:15+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
