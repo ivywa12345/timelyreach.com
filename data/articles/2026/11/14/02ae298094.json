@@ -1,0 +1,28 @@
+{
+ "key": "02ae298094",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/ai/who-whacked-jensen-huang-cia-wasnt-convinced-so-rubio-reworked-their-memo",
+ "title": "谁搞垮了黄仁勋？美媒爆料：CIA其实没那么笃定，全靠卢比奥“加戏”！",
+ "summary": "英伟达CEO黄仁勋的戏剧性下台背后，华盛顿政坛正展开一场权力争夺战。最新曝光的机密备忘录显示，“间谍”定性并非来自情报机构的定论，而是由马可·卢比奥根据情报重新加工写就的。这场风暴不仅让英伟达高层大地震，也牵扯出芯片政策、对华出口管制以及科技巨头之间的明争暗斗。",
+ "body": [
+  "据《华盛顿邮报》等媒体爆料，导致英伟达（Nvidia）掌门人黄仁勋（Jensen Huang）落马的机密备忘录，其实出自美国国务卿兼国家安全顾问马可·卢比奥（Marco Rubio）之手。知情人士透露，卢比奥是在一份中情局（CIA）报告的基础上，用“更具断言性的措辞”重新包装了这份备忘录。",
+  "然而，情报部门内部对这起事件的看法并不一致。知情人士向美国有线电视新闻网（CNN）透露，中情局官员“尚未确信”截获的通讯等情报能证明涉事的Alice Huang是明知故犯地向北京传递信息。国家情报总监办公室（Office of the Director of National Intelligence）的一些官员甚至认为“间谍”这个标签被“过度渲染（over-torqued）”了，不过也有人认为她能接触到黄仁勋进而接近特朗普总统，无论如何都是一个反间谍风险。与此同时，美国司法部长托德·布兰奇（Todd Blanche）表示，司法部和FBI并未确认Alice Huang是否为间谍，北京方面也对此予以否认。",
+  "分析人士指出，黄仁勋的去职实际上是华盛顿长期争夺对华政策主导权的高潮。长期以来，两党中的对华鹰派一直试图打破黄仁勋对总统的影响力及其对华销售AI芯片的特权。随着黄仁勋因个人丑闻闪电辞职，英伟达董事会已接受其辞呈，由CFO科莱特·克雷斯（Colette Kress）担任临时CEO。受此影响，英伟达股价在11月12日收跌至166.19美元，较10月创下的历史高点大跌约31%。",
+  "对于在美华人及科技从业者而言，华盛顿高层围绕芯片出口和AI政策的强硬博弈正在白热化。随着参议院国防法案中多项跨党派芯片限制提案的推进，未来中美科技企业在合规、供应链以及地缘政治夹缝中的生存空间将进一步受到挤压。"
+ ],
+ "tags": [
+  "黄仁勋",
+  "英伟达",
+  "卢比奥",
+  "美国政治",
+  "芯片战争"
+ ],
+ "original_title": "Who Whacked Jensen Huang? The CIA Wasn't Convinced - So Rubio Reworked Their Memo",
+ "lang": "en",
+ "published": "2026-11-14T15:30:00+00:00",
+ "created": "2026-11-14T17:10:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

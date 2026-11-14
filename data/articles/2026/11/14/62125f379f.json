@@ -1,0 +1,27 @@
+{
+ "key": "62125f379f",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/how-ai-childrens-book-aa480255?mod=rss_Technology",
+ "title": "花不到200美元！这位爷爷用AI给孙子做了一本专属童书",
+ "summary": "华尔街日报作者Ken Wells利用人工智能技术，结合自己构思的故事和孙子生活照的影像，成功制作了一本32页的精美儿童绘本，总花费不到200美元。",
+ "body": [
+  "最近，华尔街日报（The Wall Street Journal）作者Ken Wells分享了一个温馨又省钱的操作：他自己编了一个故事，然后用人工智能（AI）根据孙子生活中的照片进行插画创作，最后搞出了一本精美的32页儿童绘本，而且成本还不到200美元。",
+  "在这个AI大爆发的时代，普通人想给家里的小朋友定制专属礼物变得越来越容易了。不需要高昂的出版费，也不用苦苦寻觅插画师，只要有创意和几张照片，就能通过AI工具把脑子里的童话故事变成实体书，不仅省钱，对孩子来说也更有纪念意义。",
+  "对于海外华人家庭来说，这种AI工具其实大有用武之地。无论是想给孩子定制一本独特的双语故事书，还是记录他们在美国成长点滴的专属绘本，成本都大大降低了。感兴趣的家长不妨也动手试试，给娃整一个独一无二的新惊喜！"
+ ],
+ "tags": [
+  "人工智能",
+  "育儿经",
+  "创意绘本",
+  "海外生活",
+  "省钱妙招"
+ ],
+ "original_title": "How I Used AI to Make My Grandson a Children’s Book for Less Than $200",
+ "lang": "en",
+ "published": "2026-11-14T16:00:00+00:00",
+ "created": "2026-11-14T17:07:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "12cdb55f20",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/14/us-news/los-angeles-county-issues-beach-water-contamination-advisory-after-heavy-rain/",
+ "title": "周末想去洛杉矶海边玩？千万别下水！当地紧急发布细菌警报",
+ "summary": "洛杉矶县公共卫生部门因周五的暴雨紧急发布警告，提醒居民本周末远离所有海滩，以防接触雨水冲刷带来的细菌、垃圾和化学物质。",
+ "body": [
+  "洛杉矶县官员紧急呼吁所有居民，这个周末千万不要去海滩。受周五的一场暴雨影响，当地海滩面临细菌严重超标的风险。",
+  "洛杉矶县公共卫生部门（Los Angeles County Department of Public Health）表示，最近的降雨把城市街道上的细菌、垃圾和化学污染物一起冲进了大海。特别是在排雨口、小溪和河流入海口附近，风险极高。此外，雨水径流还会把半淹没的树枝和圆木带入海洋，可能导致严重受伤。",
+  "卫生部门特别提醒，儿童、老人以及免疫力低下的人群，如果接触到这些雨水径流并进入海中，风险会更高。这项警报将至少持续到周一上午8点，并可能根据后续降雨情况延长。一般来说，降雨警报会在雨停后持续72小时。近期打算去海边的朋友，最好先去县政府官网上查查最新的水质检测结果，安全第一。"
+ ],
+ "tags": [
+  "洛杉矶",
+  "海滩警告",
+  "暴雨污染",
+  "南加州生活",
+  "安全提醒"
+ ],
+ "original_title": "Urgent bacteria warning issued for all LA beaches after storms batter SoCal",
+ "lang": "en",
+ "published": "2026-11-14T16:50:59+00:00",
+ "created": "2026-11-14T17:08:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

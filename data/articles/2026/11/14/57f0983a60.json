@@ -1,0 +1,26 @@
+{
+ "key": "57f0983a60",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/pentagon-eyes-smaller-troop-cuts-across-europe-in-reversal",
+ "title": "欧洲领导人松了一口气？美军撤欧规模可能没想象的那么大！",
+ "summary": "根据知情人士透露，特朗普政府计划将驻欧美军的削减规模控制在预期之下，此前欧洲领导人曾担忧会有大约8万名美军撤离。",
+ "body": [
+  "知情人士透露，特朗普（Trump）政府原本计划在欧洲大幅削减大约8万名美军，但实际裁减规模预计会比欧洲各国领导人此前担心的要小得多。",
+  "此前，外界一直在担忧美军的大规模撤离会对欧洲安全格局产生冲击。不过根据目前的最新消息，这一调整幅度将有所缓和。",
+  "对于在美华人来说，国际地缘政治和军事部署的变动往往牵动着全球经济和安全神经，我们将持续关注后续对海外局势的实际影响。"
+ ],
+ "tags": [
+  "美军",
+  "欧洲安全",
+  "特朗普政府",
+  "海外动态"
+ ],
+ "original_title": "Pentagon Eyes Smaller Troop Cuts Across Europe in Reversal",
+ "lang": "en",
+ "published": "2026-11-14T16:59:09+00:00",
+ "created": "2026-11-14T17:08:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

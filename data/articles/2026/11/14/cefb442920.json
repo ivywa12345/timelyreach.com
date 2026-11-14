@@ -1,0 +1,26 @@
+{
+ "key": "cefb442920",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/democrats-ask-musk-to-preserve-documents-on-starlink-in-ukraine",
+ "title": "参议院民主党人盯上马斯克：要求保存乌克兰星链的所有文件！",
+ "summary": "美国参议院外交关系委员会的民主党议员致信SpaceX首席执行官埃隆·马斯克，要求其保留所有与乌克兰境内Starlink（星链）和Starshield系统相关的文档、通信记录和电子存储信息。",
+ "body": [
+  "周五公开的一封信件显示，美国参议院外交关系委员会（Senate Foreign Relations Committee）的民主党参议员们正向太空探索技术公司SpaceX的首席执行官埃隆·马斯克（Elon Musk）施压。",
+  "议员们在信中明确要求，马斯克及其团队必须“保存所有与公司在乌克兰的Starlink（星链）和Starshield系统相关的文件、通信记录以及电子存储信息”，这引发了外界对相关事件后续走向的关注。"
+ ],
+ "tags": [
+  "埃隆马斯克",
+  "星链",
+  "乌克兰",
+  "美国国会",
+  "SpaceX"
+ ],
+ "original_title": "Democrats Ask Musk to Preserve Documents on Starlink in Ukraine",
+ "lang": "en",
+ "published": "2026-11-14T01:31:24+00:00",
+ "created": "2026-11-14T17:09:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

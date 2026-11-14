@@ -1,0 +1,25 @@
+{
+ "key": "e310942a9d",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/the-north-dakota-town-where-data-centers-won-bf2f5b5b?mod=rss_opinion",
+ "title": "全美41个地方都在卡数据中心，只有这个小镇投了赞成票！",
+ "summary": "北达科他州的小镇哈伍德（Harwood）在面临数据中心规划时，做出了与全州其他41个地方截然不同的选择，成为唯一一个投票反对出台新限制措施的地区。",
+ "body": [
+  "话说最近美国很多地方对疯狂涌入的数据中心都有点警惕，各种限制政策层出不穷。但在北达科他州的哈伍德（Harwood），画风却完全不一样。根据《华尔街日报》报道，在全州41个面临类似抉择的地方里，哈伍德是唯一个投票拒绝通过新限制措施的小镇，选择对数据中心敞开大门。",
+  "虽然详细的投票细节和数据中心背后的开发商是谁并没有在摘要中过多透露，但这个决定无疑让该镇在众多反对声中显得格外引人注目。对于当地居民来说，这扇大门究竟会带来滚滚财源和就业机会，还是会带来用电紧张和噪音问题，目前看来小镇选择了先拥抱再说。"
+ ],
+ "tags": [
+  "海外头条",
+  "数据中心",
+  "美国小镇",
+  "北达科他州"
+ ],
+ "original_title": "The North Dakota Town Where Data Centers Won",
+ "lang": "en",
+ "published": "2026-11-13T19:13:00+00:00",
+ "created": "2026-11-14T17:09:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

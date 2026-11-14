@@ -1,0 +1,26 @@
+{
+ "key": "c8129f0790",
+ "board": "hot",
+ "source_id": "wsj-lifestyle",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/airlines/travel-woes-persist-as-airlines-race-to-reset-after-groundstop-f34a7f9f?mod=rss_lifestyle",
+ "title": "系统崩溃后遗症！周六近3900架次航班取消，老旧技术惹的祸？",
+ "summary": "受前一天技术故障影响，美国航空系统在周六早间迎来了大面积航班取消，近3900架次航班被迫停飞。",
+ "body": [
+  "周六一大早，出行的小伙伴们又傻眼了。就在系统发生大规模故障的一天后，截至周六早间，全美已经有近3,900架次航班被取消，出行计划彻底泡汤。",
+  "官方官员将这次大面积瘫痪归咎于老旧的技术系统。面对突如其来的烂摊子，各大航空公司正在手忙脚乱地进行调整，试图尽快恢复正常的运营秩序。",
+  "对于近期有出行计划的在美华人来说，这无疑是个头疼的信号。如果近期要搭乘飞机，建议提前查好航班动态，做好行程延误的心理准备，以免耽误大事。"
+ ],
+ "tags": [
+  "航班取消",
+  "航空出行",
+  "技术故障",
+  "美国新闻"
+ ],
+ "original_title": "Travel Woes Persist as Airlines Race to Reset After Groundstop",
+ "lang": "en",
+ "published": "2026-11-14T15:51:00+00:00",
+ "created": "2026-11-14T17:07:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "b95e616f85",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/goldman-sachs-sees-19-return-on-asia-ex-japan-stocks-in-2027",
+ "title": "高盛预测：明年亚洲股市有望大涨19%！AI成最大变数？",
+ "summary": "高盛（Goldman Sachs）最新预测显示，在企业盈利增长的推动下，MSCI除日本外亚洲指数（MSCI Asia ex-Japan Index）明年以美元计算的回报率有望达到19%，但也警告AI相关的不确定性可能加剧市场波动。",
+ "body": [
+  "如果你正在关注海外投资，这或许是个好消息。华尔街知名投行高盛（Goldman Sachs）的分析师Echo Wong发布最新报告预测，在企业盈利强劲增长的带动下，MSCI除日本外亚洲指数在明年将迎来19%的美元回报率。",
+  "不过，高盛也给投资者打了个预防针。报告指出，尽管前景向好，但目前市场上关于人工智能（AI）发展的不确定性依然存在，这很可能会给未来的股市带来不小的震荡和波动。",
+  "对海外华人来说，全球市场的资产配置一向牵动着钱包。虽然机构看好明年亚洲市场的整体收益，但面对AI板块可能带来的过山车行情，投资时还是要根据自身的风险承受能力，多留一个心眼。"
+ ],
+ "tags": [
+  "高盛",
+  "亚洲股市",
+  "投资理财",
+  "人工智能",
+  "美股港股"
+ ],
+ "original_title": "Goldman Sachs Sees 19% Return on Asia ex-Japan Stocks in 2027",
+ "lang": "en",
+ "published": "2026-11-14T10:16:50+00:00",
+ "created": "2026-11-14T17:07:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
