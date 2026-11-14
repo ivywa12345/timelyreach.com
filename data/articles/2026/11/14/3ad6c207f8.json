@@ -1,0 +1,27 @@
+{
+ "key": "3ad6c207f8",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/midterms-minority-candidates-structural-racism-1d66f2d3?mod=rss_opinion",
+ "title": "中期选举结果出炉：民主党关于“种族主义”的叙事破产了？",
+ "summary": "华尔街日报编辑委员会撰文指出，刚刚过去的中期选举结果彻底打破了民主党长期以来关于种族主义的种种神话。",
+ "body": [
+  "最近的中期选举结果可以说是狠狠给了民主党一记耳光，直接粉碎了他们多年来关于种族主义的各种政治迷思。",
+  "长期以来，民主党人常常将许多政治和社会现象归咎于系统性种族主义，试图以此凝聚选民共识。然而，此次中期选举的实际投票结果和选民动向表明，少数族裔选民的实际关切远比单一的种族叙事复杂得多，经济、治安等现实问题才是大家投票的关键考量。",
+  "对于海外华人来说，这也提醒我们在看待美国政治时，不能被简单的族裔标签所绑架。无论是钱包、工作还是社区安全，切身的利益往往才是决定选票归属的根本原因。"
+ ],
+ "tags": [
+  "中期选举",
+  "民主党",
+  "华尔街日报",
+  "美国政治",
+  "种族议题"
+ ],
+ "original_title": "The Racial Progress Deniers",
+ "lang": "en",
+ "published": "2026-11-13T22:48:00+00:00",
+ "created": "2026-11-14T00:22:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

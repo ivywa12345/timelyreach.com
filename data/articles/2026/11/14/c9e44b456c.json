@@ -1,0 +1,27 @@
+{
+ "key": "c9e44b456c",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/united-states/2026/11/13/the-jensen-huang-scandal-reaches-donald-trumps-cabinet",
+ "title": "黄仁勋这事儿，怎么把懂王内阁的部长也给扯进去了？",
+ "summary": "英伟达CEO黄仁勋卷入的风波持续发酵，如今这把火竟然烧到了美国商务部长提名人霍华德·卢特尼克（Howard Lutnick）身上。",
+ "body": [
+  "最近，科技圈大佬、英伟达（Nvidia）CEO黄仁勋（Jensen Huang）卷入了一场风波，而最新消息显示，这场风波已经蔓延到了美国当选总统特朗普（Donald Trump）的内阁阵营里。",
+  "根据《经济学人》（The Economist）的报道，目前负责候任商务部长职务的霍华德·卢特尼克（Howard Lutnick）现在成了各方性质严厉质问的焦点人物，正处在风口浪尖上。",
+  "对于关注美国政坛和科技股的海外华人来说，新一届政府内阁成员与硅谷巨头之间的利益纠葛和政策走向，直接关系到科技行业的监管以及相关投资的合规性，后续发展值得密切关注。"
+ ],
+ "tags": [
+  "黄仁勋",
+  "特朗普内阁",
+  "霍华德·卢特尼克",
+  "英伟达",
+  "美国政经"
+ ],
+ "original_title": "The Jensen Huang scandal reaches Donald Trump’s cabinet",
+ "lang": "en",
+ "published": "2026-11-13T21:12:16+00:00",
+ "created": "2026-11-14T00:20:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

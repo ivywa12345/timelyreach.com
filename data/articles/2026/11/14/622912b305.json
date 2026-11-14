@@ -1,0 +1,27 @@
+{
+ "key": "622912b305",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-on-nvidia-fallout-fears-f9946e8d?mod=rss_markets_main",
+ "title": "美股大盘怎么了？英伟达掀起芯片股地震，降息预期也让人揪心！",
+ "summary": "由于投资者对降息的担忧再度升温，加之英伟达（Nvidia）引发的动荡波及整个半导体板块并拖累科技股指数，美股周三收盘涨跌不一。",
+ "body": [
+  "美股最近的日子不太平。根据《华尔街日报》记者 Vicky Ge Huang 的报道，由于市场对利率前景的担忧重新浮现，再加上英伟达（Nvidia）相关风波蔓延到了整个半导体行业，科技股板块遭遇拖累，导致美股大盘最终收盘涨跌不一。",
+  "简单来说，这次市场波动主要有两个推手：一是宏观层面大家对降息前景开始心里没底，二是科技股风向标英伟达（Nvidia）的震荡直接把整个芯片板块给带沟里去了，科技指数自然好看不到哪里去。",
+  "对咱们海外华人来说，科技股和利率变动直接牵动着大家的神经。股市震荡意味着投资账户可能跟着坐过山车，而降息预期的反复也会直接影响到房贷利率等切身利益。大家在做资产配置时，近期可得系好安全带，多留个心眼了。"
+ ],
+ "tags": [
+  "美股",
+  "英伟达",
+  "半导体",
+  "降息",
+  "华人理财"
+ ],
+ "original_title": "U.S. Stocks Mixed on Nvidia Fallout Fears",
+ "lang": "en",
+ "published": "2026-11-13T22:14:00+00:00",
+ "created": "2026-11-14T00:23:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

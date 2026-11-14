@@ -1,0 +1,27 @@
+{
+ "key": "d4ddf80c7a",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/trump-to-meet-with-xi-putin-nov-19-in-china-white-house-says",
+ "title": "重磅！白宫确认：特朗普11月19日将在中国与习近平、普京会晤",
+ "summary": "白宫发言人证实，美国总统特朗普将于11月19日在亚太经合组织（APEC）峰会期间，分别与中国国家主席习近平及俄罗斯总统普京会面。",
+ "body": [
+  "据彭博社报道，白宫发言人透露，美国总统特朗普（Donald Trump）计划于11月19日在中国举行的亚太经合组织（APEC）峰会期间，与中国国家主席习近平以及俄罗斯总统普京（Vladimir Putin）举行会谈。",
+  "这次备受瞩目的三方相关会晤安排在APEC峰会的场边进行，各方将就关键的双边及国际议题展开交流。",
+  "对于关注中美关系和国际局势的海外华人来说，大国之间的领导人会面往往牵动着经贸走向和地缘政治的神经，后续进展值得持续关注。"
+ ],
+ "tags": [
+  "特朗普",
+  "习近平",
+  "普京",
+  "APEC",
+  "中美关系"
+ ],
+ "original_title": "Trump to Meet With Xi, Putin Nov. 19 in China for Talks",
+ "lang": "en",
+ "published": "2026-11-13T23:51:47+00:00",
+ "created": "2026-11-14T00:21:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "f0f465e123",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/congressional-insider-trading-isnt-as-common-as-you-think-637d5563?mod=rss_markets_main",
+ "title": "国会议员真有那么多内幕交易吗？专家：其实没你想的那么普遍",
+ "summary": "《华尔街日报》专栏文章指出，许多针对国会议员内幕交易的指控经不起推敲，比如此前备受关注的佩洛西（Pelosi）交易案，深入审查后往往并非如此。",
+ "body": [
+  "最近政客炒股的话题在网上讨论得很火，大家都觉得议员们是不是靠着内幕消息赚得盆满钵满。不过，《华尔街日报》发表了一篇由罗兰·弗莱尔（Roland Fryer）撰写的评论文章，给这种普遍印象泼了一盆冷水。",
+  "文章指出，很多看似实锤的国会议员内幕交易指控，只要放到聚光灯下仔细查一查，最后往往都站不住脚。作者以佩洛西（Pelosi）此前持有的字母表公司（Alphabet）期权交易为例，说明了许多所谓的“内幕交易”在深入审查后都会露馅，并不像大家想象的那么普遍。",
+  "对于咱们海外华人来说，政客们的财务透明度一直关乎政策公正和纳税人的利益。虽然不能排除个别现象，但理性看待这些指控、看清背后的事实，有助于我们更好地理解美国政坛的运作逻辑。"
+ ],
+ "tags": [
+  "国会议员",
+  "内幕交易",
+  "华尔街日报",
+  "美国政治",
+  "炒股"
+ ],
+ "original_title": "Opinion | Congressional Insider Trading Isn’t as Common as You Think",
+ "lang": "en",
+ "published": "2026-11-13T19:18:00+00:00",
+ "created": "2026-11-14T00:24:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

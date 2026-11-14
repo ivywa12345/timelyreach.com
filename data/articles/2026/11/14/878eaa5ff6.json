@@ -1,0 +1,27 @@
+{
+ "key": "878eaa5ff6",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/us-futures-gain-with-microsoft-outage-producer-prices-in-focus",
+ "title": "美股周五又跌了！英伟达掀起AI板块震荡，大家都在慌什么？",
+ "summary": "受英伟达（Nvidia Corp.）近期动荡及美联储降息前景的影响，美股在经历了一周的激烈波动后，于周五收跌。",
+ "body": [
+  "美股在刚刚过去的周五（当地时间）收盘下跌，这也为充满波动的一周画上了句号。投资者们正在重新评估目前的AI（人工智能）投资热潮，而这一切的导火索正是英伟达（Nvidia Corp.）近期的市场动荡，加上大家对美联储（Federal Reserve）未来利率走向的担忧，让盘面变得相当不安定。",
+  "回顾这一周，科技股成了过山车。一方面，市场对AI概念股的热情开始冷却，大家都在盘算这波热潮还能持续多久；另一方面，美联储的货币政策走向扑朔迷离，利率到底怎么变，时刻牵动着华尔街的神经，导致股市上下大震荡。",
+  "对于咱们海外华人来说，这种股市大震荡往往直接关系到大家的401(k)退休账户和投资钱包。如果科技股和AI板块持续回调，大家的资产配置可能就需要更加小心了。平时盯紧投资组合、注意风险控制，才是应对市场大起大落的稳妥办法。"
+ ],
+ "tags": [
+  "美股",
+  "英伟达",
+  "人工智能",
+  "美联储",
+  "海外华人理财"
+ ],
+ "original_title": "US Stocks Close Lower After Nvidia Spurs Volatility in AI Trade",
+ "lang": "en",
+ "published": "2026-11-13T13:19:12+00:00",
+ "created": "2026-11-14T00:24:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

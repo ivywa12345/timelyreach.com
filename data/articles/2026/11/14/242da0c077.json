@@ -1,0 +1,26 @@
+{
+ "key": "242da0c077",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/treasury-yield-surge-shatters-hopes-worst-of-bond-rout-is-over",
+ "title": "债市刚缓过气又崩了？全球投资者：好日子还在后头呢！",
+ "summary": "根据彭博社报道，全球债券投资者刚觉得今年的抛售潮快熬出头了，美债收益率的飙升就再次给他们当头棒喝，大家预计未来的痛苦还将持续。",
+ "body": [
+  "最近这周，全球债券市场可谓经历了一场大地震。本以为今年最艰难的债券抛售潮已经过去，结果美债收益率（Treasury yields）一路狂飙，直接把投资者的信心又给击碎了。",
+  "来自彭博社（Bloomberg）的报道显示，市场目前的悲观情绪相当浓厚，多位分析师和投资者（Ruth Carson、Masaki Kondo、Greg Ritchie）指出，收益率的持续攀升意味着债券价格的下跌，大家不得不为接下来的更多痛苦做好心理准备。",
+  "对于咱们海外华人来说，债市剧烈波动和美债收益率走高，往往意味着整体借贷成本居高不下，房贷利率、车贷利率以及信用卡利息都很难在短时间内降下来。如果手里有闲钱投资债券或固定收益产品的，近期也需要格外关注市场的动荡风险。"
+ ],
+ "tags": [
+  "美债收益率",
+  "债券市场",
+  "投资理财",
+  "海外财经"
+ ],
+ "original_title": "Bond Investors Expect More Pain After Week of Soaring Yields",
+ "lang": "en",
+ "published": "2026-11-13T06:00:17+00:00",
+ "created": "2026-11-14T00:22:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

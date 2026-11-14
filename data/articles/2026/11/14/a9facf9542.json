@@ -1,0 +1,26 @@
+{
+ "key": "a9facf9542",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/meta-testing-new-prediction-market-app-with-employees-bf7bacb2?mod=rss_Technology",
+ "title": "Meta内部在搞啥？员工现在能用虚拟币“下注”预测未来了！",
+ "summary": "Meta正在内部测试一款全新的预测市场应用，允许员工使用虚拟积分“cred”对各种事件的结果进行下注。",
+ "body": [
+  "科技巨头Meta（原Facebook）又在搞新花样了！据《华尔街日报》（The Wall Street Journal）报道，Meta目前正在内部秘密测试一款全新的预测市场应用。在这款尚处于开发阶段的App里，员工们可以针对各种问题或未来事件的结果进行预测和下注。",
+  "不过，大家关心的“真金白银”在这里可派不上用场。根据报道，员工们在应用中下注时使用的不是真实货币，而是一种叫做“cred”的虚拟积分。通过这种类似游戏币的方式，员工可以对感兴趣的各种事件进行预测。"
+ ],
+ "tags": [
+  "Meta",
+  "科技新闻",
+  "内部测试",
+  "预测市场",
+  "海外华人"
+ ],
+ "original_title": "Meta Testing New Prediction-Market App With Employees",
+ "lang": "en",
+ "published": "2026-11-13T19:49:00+00:00",
+ "created": "2026-11-14T00:22:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

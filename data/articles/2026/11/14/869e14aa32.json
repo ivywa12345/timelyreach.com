@@ -1,0 +1,25 @@
+{
+ "key": "869e14aa32",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/jensen-huang-nvidia-megaspeed-alice-huang-china-89b2ec4c?mod=rss_worldnews",
+ "title": "黄仁勋去见特朗普团队？华尔街日报：英伟达面临的是中国版“深层政府”！",
+ "summary": "《华尔街日报》发表社论指出，近期英伟达（Nvidia）卷入的风波中，真正让黄仁勋头疼的“深层政府”其实在中国，而不是美国。",
+ "body": [
+  "最近英伟达（Nvidia）CEO黄仁勋的一举一动备受关注。根据《华尔街日报》编辑委员会（The Editorial Board）的最新社论，外界议论纷纷的所谓“深层政府”（deep state）问题，其实根源在于中国，而不是美国。",
+  "在这场复杂的国际科技博弈中，身为芯片巨头的掌舵人，黄仁勋不得不应对来自各方的巨大压力和复杂的监管环境。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "华尔街日报",
+  "中美科技战"
+ ],
+ "original_title": "Opinion | Of Course Jensen Huang Had to Go",
+ "lang": "en",
+ "published": "2026-11-13T22:53:00+00:00",
+ "created": "2026-11-14T00:20:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

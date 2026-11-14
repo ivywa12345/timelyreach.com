@@ -1,0 +1,27 @@
+{
+ "key": "1c13c4d233",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/tech-stocks-fall-as-next-week-brings-big-tests-for-the-ai-trade-6a346b49?mod=rss_markets_main",
+ "title": "AI概念股这回要迎来大考了？科技股集体回调，英伟达也收跌！",
+ "summary": "由于下周将迎来多项关于AI热潮的重要考验，科技股出现下跌，其中英伟达收盘走低，而Anthropic首席执行官则表示希望公司未来IPO能“超预期”。",
+ "body": [
+  "最近科技股的日子不太平。随着下周将有一系列关键考验来检验这波AI浪潮的含金量，科技股集体出现回落，芯片巨头英伟达（Nvidia）也以收跌报收。",
+  "与此同时，人工智能初创公司Anthropic的首席执行官对未来表现出雄心，公开表示希望公司的首次公开募股（IPO）能够“超预期”。",
+  "对于关注美股的海外华人来说，AI板块一直是近来投资的热点。下周的几大“大考”不仅关系到科技巨头们的股价走势，也直接影响着大家的钱包和投资收益，值得密切关注。"
+ ],
+ "tags": [
+  "美股",
+  "AI概念股",
+  "科技股",
+  "英伟达",
+  "Anthropic"
+ ],
+ "original_title": "Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade",
+ "lang": "en",
+ "published": "2026-11-13T21:19:00+00:00",
+ "created": "2026-11-14T00:20:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

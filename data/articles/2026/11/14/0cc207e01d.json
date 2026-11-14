@@ -1,0 +1,28 @@
+{
+ "key": "0cc207e01d",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+ "title": "罕见！全美航班大面积停飞，到底发生了什么？",
+ "summary": "美国联邦航空管理局（FAA）因“特殊情况”罕见下令全美航班停飞，目前已有超过1万架次航班延误。国土安全部长表示目前没有迹象表明这是一起袭击事件。",
+ "body": [
+  "各位朋友，出门在外的注意了！根据MarketWatch报道，美国联邦航空管理局（FAA）最近下达了一道罕见的全国性航班停飞令（ground stop）。",
+  "受此影响，全美范围内已经有超过1万架次航班出现延误。至于具体原因，FAA只用“特殊情况”（extraordinary circumstances）来形容，目前情况还在进一步排查中。",
+  "不过大家先别慌，国土安全部长穆林（Mullin）已经出面表态，称目前没有任何迹象表明这是一起袭击事件。",
+  "如果近期有出行计划的在美华人朋友，建议一定要随时关注航司的最新动态，提前查好航班状态，免得在机场白跑一趟耽误行程。"
+ ],
+ "tags": [
+  "美国航班",
+  "FAA",
+  "航班延误",
+  "出行提醒",
+  "海外快讯"
+ ],
+ "original_title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
+ "lang": "en",
+ "published": "2026-11-13T23:54:00+00:00",
+ "created": "2026-11-14T00:21:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

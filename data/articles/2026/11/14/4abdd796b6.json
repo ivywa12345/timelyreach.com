@@ -1,0 +1,26 @@
+{
+ "key": "4abdd796b6",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/jensen-huang-nvidia-megaspeed-alice-huang-china-89b2ec4c?mod=rss_opinion",
+ "title": "黄仁勋为什么非去中国不可？华尔街日报点破这层窗户纸！",
+ "summary": "英伟达（Nvidia）CEO黄仁勋近期不得不前往中国，华尔街日报社论指出，这背后的博弈不仅关乎美国监管，更深陷中国本土复杂的体制与市场环境中。",
+ "body": [
+  "最近科技圈都在关注英伟达（Nvidia）CEO黄仁勋（Jensen Huang）的一举一动。华尔街日报编辑委员会（The Editorial Board）发文直言：黄仁勋这次是“非去不可”。",
+  "文章指出，外界常常把目光聚焦在美国对华的技术封锁和监管上，但真正让英伟达头疼、甚至身处风口浪尖的“深层体制”问题，其实来自中国本土。",
+  "对于在海外关注科技风向的华人来说，英伟达的芯片可以说是AI行业的硬通货。这场跨国博弈不仅牵动着科技巨头的神经，也直接影响着全球AI产业的供应链和未来走势。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "中美科技战",
+  "华尔街日报"
+ ],
+ "original_title": "Of Course Jensen Huang Had to Go",
+ "lang": "en",
+ "published": "2026-11-13T22:53:00+00:00",
+ "created": "2026-11-14T00:20:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

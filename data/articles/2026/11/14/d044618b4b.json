@@ -1,0 +1,26 @@
+{
+ "key": "d044618b4b",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/telecom/the-chaos-and-unexpected-joys-of-a-19-hour-global-email-outage-37b7170c?mod=rss_Technology",
+ "title": "公司邮箱瘫痪19小时是啥体验？有人抓狂，有人竟然去钉书架了！",
+ "summary": "一场持续19小时的全球邮件系统大故障让许多职场人体验了一把意外的“雪天假”，有人因此急得团团转，也有人趁机拿起电话沟通，甚至还有人动手打起了书架。",
+ "body": [
+  "据《华尔街日报》报道，最近发生了一场持续长达19小时的全球电子邮件大故障。对不少上班族来说，这简直就像是工作日突降暴风雪（snow day）一样让人措手不及。",
+  "面对这突如其来的技术故障，大家的反应也是五花八门：有人急得直抓狂，也有人不得不重新拿起电话和客户沟通。不过，也有心态好的人苦中作乐，比如其中一位老兄就趁着没邮件轰炸的空档，安安静静地把书架给打好了。",
+  "虽然这只是职场里的一个小插曲，但也提醒了海外华人在日常工作中，还是要对突发的网络和系统故障做好心理准备，毕竟科技产品偶尔“罢工”时，生活和工作节奏还真得随时切换。"
+ ],
+ "tags": [
+  "职场生活",
+  "海外工作",
+  "突发故障",
+  "职场趣闻"
+ ],
+ "original_title": "The Chaos and Unexpected Joys of a 19-Hour Global Email Outage",
+ "lang": "en",
+ "published": "2026-11-14T00:04:00+00:00",
+ "created": "2026-11-14T00:20:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

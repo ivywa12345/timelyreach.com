@@ -1,0 +1,26 @@
+{
+ "key": "24f0227147",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-eyes-worst-week-since-trump-tariff-selloff-as-huang-exits",
+ "title": "英伟达遭遇特朗普关税以来最惨一周，黄仁勋卸任引发股价大跌？",
+ "summary": "由于黄仁勋卸任消息持续发酵，英伟达股价创下18个月以来表现最差的一周。",
+ "body": [
+  "根据彭博社报道，芯片巨头英伟达（Nvidia Corp.）迎来了超过一年半以来最惨淡的一周。随着黄仁勋（Jensen Huang）卸任这家顶级芯片制造商的消息传出后，其股价持续下挫，跌势不止。这也是自特朗普（Trump）关税抛售潮以来，该股票表现最差的一个星期。",
+  "对于关注美股和科技股的海外华人来说，英伟达的股价波动直接牵动着无数人的投资账户。作为AI浪潮的核心标的，高层变动带来的市场震荡不容忽视，大家的钱包或许又要经历一次心跳加速了。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "美股",
+  "科技股",
+  "海外华人"
+ ],
+ "original_title": "Nvidia Has Worst Week Since Trump Tariff Selloff as Huang Exits",
+ "lang": "en",
+ "published": "2026-11-13T18:24:41+00:00",
+ "created": "2026-11-14T00:23:30+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

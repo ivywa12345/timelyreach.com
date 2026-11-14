@@ -1,0 +1,26 @@
+{
+ "key": "1fb504df86",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+ "title": "全球原油马上要过剩了！为啥柴油价格却不见得跌？",
+ "summary": "根据MarketWatch报道，全球原油市场即将迎来供过于求的局面，但专家指出，这并不意味着加油站里的柴油价格会自动下降。",
+ "body": [
+  "据MarketWatch报道，官方数据显示，全球原油市场预计很快将出现供大于求的情况，这也是自今年2月伊朗战争爆发以来的首次。",
+  "不过，虽然原油供应变充足了，但复杂的炼油成本和市场结构导致柴油价格并没有跟着一起跳水，普通消费者可能很难立刻感受到实惠。",
+  "对于海外华人车主和物流从业者来说，这意味着尽管石油供应面在好转，但日常出行的油费压力短期内恐怕还是难以大幅减轻。"
+ ],
+ "tags": [
+  "原油",
+  "柴油价格",
+  "能源市场",
+  "海外生活"
+ ],
+ "original_title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+ "lang": "en",
+ "published": "2026-11-13T22:04:00+00:00",
+ "created": "2026-11-14T00:23:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

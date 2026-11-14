@@ -1,0 +1,27 @@
+{
+ "key": "47ca13f13c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-13/troubled-sherritt-misses-payment-as-liquidity-crisis-deepens",
+ "title": "加拿大矿企谢里特公司资金链告急！因美国制裁停产，利息都还不上了",
+ "summary": "受美国对古巴制裁影响被迫停产的加拿大矿业公司Sherritt International Corp.未能按时支付担保票据的利息，流动性危机进一步加剧。",
+ "body": [
+  "据彭博社报道，陷入困境的加拿大矿业公司谢里特国际公司（Sherritt International Corp.）近日遭遇重大打击，未能按时支付一笔担保票据的利息，这标志着该公司的流动性危机正在进一步加深。",
+  "这家老牌矿企目前正面临严峻的经营压力。由于美国对古巴实施的制裁措施，谢里特国际公司被迫暂停了其在古巴的生产活动，这直接切断了公司的主要营收来源，导致其现金流陷入枯竭，最终连基本的利息都无法按时偿付。",
+  "对于在海外关注国际能源和矿业市场动向的华人来说，此类受地缘政治和制裁影响而陷入财务困境的企业往往波动极大，相关投资和市场风险需要格外警惕。"
+ ],
+ "tags": [
+  "加拿大",
+  "矿业",
+  "美国制裁",
+  "古巴",
+  "财务危机"
+ ],
+ "original_title": "Troubled Sherritt Misses Payment as Liquidity Crisis Deepens",
+ "lang": "en",
+ "published": "2026-11-13T23:39:03+00:00",
+ "created": "2026-11-14T00:20:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "2ace340406",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/jensen-huang-and-the-worlds-information-chaos-f73f5d7e?mod=rss_worldnews",
+ "title": "黄仁勋与全球信息混乱：是一场谍战还是无聊的游戏？",
+ "summary": "《华尔街日报》专栏作家Holman W. Jenkins, Jr.发表评论文章，探讨了围绕英伟达CEO黄仁勋及当前全球信息混乱现象的种种谜团，究竟是情报机构的高明运作，还是失控的无聊把戏？",
+ "body": [
+  "最近科技圈和舆论场又热闹了！《华尔街日报》资深评论员Holman W. Jenkins, Jr.发文抛出了一个让人琢磨不透的问题：最近闹得沸沸扬扬的信息混乱，到底是各方情报人员在暗中较劲的高明手段，还是仅仅只是一场玩过头了的恶作剧？",
+  "文章虽然没有给出板上钉钉的结论，但把目光聚焦在了人工智能领军人物、英伟达（NVIDIA）CEO黄仁勋（Jensen Huang）以及当今错综复杂的全球信息局势上。在这个连真假新闻都快分不清的时代，各种传闻满天飞，让人直呼看不懂。",
+  "对于咱们海外华人来说，科技巨头的一举一动往往牵动着行业的神经，甚至间接影响到相关股票和就业市场。不管这背后的真相到底是个惊天大阴谋还是小闹剧，身处科技浪潮中的我们，多留个心眼、理性吃瓜总是没错的。"
+ ],
+ "tags": [
+  "黄仁勋",
+  "英伟达",
+  "华尔街日报",
+  "科技圈",
+  "海外华人"
+ ],
+ "original_title": "Opinion | Jensen Huang and the World’s Information Chaos",
+ "lang": "en",
+ "published": "2026-11-13T20:15:00+00:00",
+ "created": "2026-11-14T00:21:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
