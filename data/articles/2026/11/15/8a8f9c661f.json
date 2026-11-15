@@ -1,0 +1,28 @@
+{
+ "key": "8a8f9c661f",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/tech-isnt-the-faas-biggest-problem-f94ed5b1?mod=rss_worldnews",
+ "title": "华尔街日报直言：FAA最大危机不是技术，该分家了？",
+ "summary": "知名观点文章指出，美国联邦航空管理局（FAA）作为既当运动员又当裁判的自律机构，根本无法实现现代化与安全保障，唯一的出路是将空中交通管制业务剥离出去。",
+ "body": [
+  "近日，《华尔街日报》刊登了一篇由马克·斯里布纳（Marc Scribner）撰写的评论文章，直指美国联邦航空管理局（FAA）的沉疴。文章认为，外界常常把FAA的技术落后当成航空安全的头号大敌，但实际上，该机构既负责监管又负责运营的“自律”体制才是根本祸根。",
+  "##  FAA的体制困境",
+  "长期以来，FAA不仅是航空业的监管者，还一手掌控着空中交通管制系统。这种“自己监督自己”的模式，导致其在应对现代航空业的高速发展时显得臃肿不堪。作者明确指出，一个自律性质的机构永远无法真正实现系统现代化并确保万无一失。",
+  "## 呼吁彻底分家",
+  "为了彻底扭转这一局面，文章提出了一个激进但直接的解决方案：必须将空中交通管制（Air Traffic Control）业务彻底剥离出去，组建独立的运营实体。只有打破目前的垄断与体制僵局，美国的航空安全和现代化进程才能真正迎来转机。"
+ ],
+ "tags": [
+  "FAA",
+  "航空安全",
+  "华尔街日报",
+  "美国交通"
+ ],
+ "original_title": "Opinion | Tech Isn’t the FAA’s Biggest Problem",
+ "lang": "en",
+ "published": "2026-11-15T17:18:00+00:00",
+ "created": "2026-11-15T17:43:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

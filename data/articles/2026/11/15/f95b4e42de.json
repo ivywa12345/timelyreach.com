@@ -1,0 +1,26 @@
+{
+ "key": "f95b4e42de",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-15/airmozambique-warns-of-flight-cancellations-due-to-fuel-shortage",
+ "title": "非洲国航突发燃油紧缺！部分航班恐面临取消",
+ "summary": "莫桑比克航空（AirMozambique）近日发出警告，由于该国面临燃油供应限制，部分航班可能将被迫取消。",
+ "body": [
+  "如果你近期有去东南非旅行或出差的计划，可得留心了。莫桑比克国家航空公司（AirMozambique）近日突然发布警告，由于当地燃油供应受到严重限制，接下来的航班安排可能会受到影响，部分航班面临被取消的风险。",
+  "作为该国的国家级航空公司，莫桑比克航空（AirMozambique）目前正密切关注燃油库存情况。虽然官方尚未公布具体哪几条航线或哪些班次会受影响，但燃油紧缺意味着随时可能出现临时调整。",
+  "对于经常往返非洲经商或探亲的海外华人来说，近期如果需要乘坐莫桑比克航空（AirMozambique）的航班，建议随时关注航司的最新通知，出发前务必再次确认航班状态，以免耽误行程。"
+ ],
+ "tags": [
+  "莫桑比克航空",
+  "航班取消",
+  "燃油短缺",
+  "海外出行"
+ ],
+ "original_title": "AirMozambique Warns of Flight Cancellations Due to Fuel Shortage",
+ "lang": "en",
+ "published": "2026-11-15T11:09:59+00:00",
+ "created": "2026-11-15T17:46:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

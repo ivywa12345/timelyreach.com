@@ -1,0 +1,26 @@
+{
+ "key": "c859c44f40",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-15/traders-turn-to-kalshi-stock-perps-on-nvidia-and-spacex-as-leverage-fears-grow",
+ "title": "英伟达和SpaceX也有“合约”了？交易员转战Kalshi玩杠杆",
+ "summary": "随着市场对AI前景的担忧加剧，交易员们正涌向预测市场Kalshi，利用其推出的股票永续合约对英伟达和SpaceX等热门公司进行高杠杆押注。",
+ "body": [
+  "最近，华尔街的交易员们正在寻找新的加杠杆方式。据彭博社报道，随着美国中期选举后市场对人工智能（AI）未来走势产生疑问，并催生了对冲需求，一种在预测市场 Kalshi 上对股价进行杠杆押注的新方法正越来越受欢迎。",
+  "这种被称为股票“永续合约”（Perps）的新玩法，让投资者能够把目光投向了像英伟达（Nvidia）和太空探索技术公司（SpaceX）这样备受关注的巨头。大家希望能借此在充满不确定性的市场中，寻找新的对冲和获利机会。"
+ ],
+ "tags": [
+  "Kalshi",
+  "英伟达",
+  "SpaceX",
+  "美股交易",
+  "杠杆投资"
+ ],
+ "original_title": "Traders Turn to Kalshi Stock ‘Perps’ on Nvidia and SpaceX as Leverage Fears Grow",
+ "lang": "en",
+ "published": "2026-11-15T15:00:00+00:00",
+ "created": "2026-11-15T17:45:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

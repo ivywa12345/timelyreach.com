@@ -1,0 +1,25 @@
+{
+ "key": "9e69bc1a23",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-15/czechs-protest-against-new-funding-plan-for-public-broadcasters",
+ "title": "捷克几十万人上街！抗议政府对公共广电的大动作",
+ "summary": "捷克布拉格爆发大规模抗议，成千上万民众走上街头，抗议总理安德烈·巴比什（Andrej Babis）政府重组公共广播公司融资计划的打算。",
+ "body": [
+  "捷克首都布拉格（Prague）近日迎来了罕见的大规模抗议活动。数百名甚至上千名捷克民众聚集在一起，公开反对总理安德烈·巴比什（Andrej Babis）政府提出的新计划，该计划旨在彻底改变当地公共广播机构的资金筹措方式。",
+  "这次引发众怒的核心，是现任政府针对公共媒体融资体制的改革方案。反对者和抗议民众担心，政府此举可能会削弱媒体的独立性，甚至对新闻自由造成负面影响，因此纷纷走上街头表达不满。"
+ ],
+ "tags": [
+  "捷克",
+  "布拉格",
+  "游行抗议",
+  "媒体自由"
+ ],
+ "original_title": "Czechs Protest Against New Funding Plan for Public Broadcasters",
+ "lang": "en",
+ "published": "2026-11-15T15:27:22+00:00",
+ "created": "2026-11-15T17:45:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "389a713d68",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+ "title": "机场大乱两后天还有余震！全美航班大面积延误，有人被迫睡在候机楼",
+ "summary": "美国联邦航空管理局全美停飞事件过去两天后，航班大面积延误和取消的情况仍在持续，航空公司和旅客叫苦不迭。",
+ "body": [
+  "在上周五美国联邦航空管理局（FAA）因系统故障导致全美航班史无前例地停飞四个多小时后，虽然情况有所好转，但到了周日，全美仍有超过 **1,400** 架次航班被取消，**2,000** 多架次航班延误，打乱了无数旅客的出行计划。",
+  "> \"我们睡在这里。\"\n> —— 滞留机场的旅客贝丝·马丁（Beth Martin）",
+  "这次乱局源于 FAA 的网络系统升级。交通部长肖恩·达菲（Sean Duffy）指出，问题出在由 L3Harris 技术公司（L3Harris Technologies）负责的路由器和光纤升级工程上。事故发生后，交通部门正面临国会对于空中交通管制系统老旧问题的严厉质询，甚至有人提出高达 **500亿美元** 的系统升级资金需求，但也遭到了部分议员的质疑和反对。",
+  "对于近期有出行计划的在美华人来说，这类基础设施故障不仅会导致行程泡汤，高昂的酒店住宿和复杂的改签也让人头疼。如果近期需要搭乘国内航班，建议随时关注航司通知，尽量避开转机过多的行程，以免受到连锁延误的影响。"
+ ],
+ "tags": [
+  "美国航班",
+  "FAA",
+  "机场滞留",
+  "出行指南"
+ ],
+ "original_title": "'We slept here.' Flight delays linger as airlines scramble to recover from ground stop",
+ "lang": "en",
+ "published": "2026-11-15T14:24:18+00:00",
+ "created": "2026-11-15T17:46:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

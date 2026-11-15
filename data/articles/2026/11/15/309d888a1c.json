@@ -1,0 +1,27 @@
+{
+ "key": "309d888a1c",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/donald-trump-and-jensen-huang-have-the-same-tragic-flaw-5578e58b?mod=rss_worldnews",
+ "title": "川普和黄仁勋，竟然栽在同一个毛病上？",
+ "summary": "华尔街日报专栏作家撰文指出，美国当选总统川普和英伟达CEO黄仁勋看似不可阻挡，却都因巨大的成功而滋生傲慢，这成了他们共同的悲剧缺陷。",
+ "body": [
+  "近日，《华尔街日报》发表了一篇颇受关注的评论文章，把美国当选总统唐纳德·特朗普（Donald Trump）和芯片巨头英伟达（Nvidia）CEO黄仁勋（Jensen Huang）放在了一起作比较，指出这两人虽然领域不同，却有着一模一样的“致命伤”——因成功而走向傲慢。",
+  "文章指出，这两位风云人物在各自的赛道上都曾显得不可阻挡、所向披靡。然而，正是接连不断的巨大成功冲昏了他们的头脑，让傲慢和自负占了上风，最终可能给他们带来意想不到的麻烦和危机。",
+  "对于关注美国政坛和科技投资的海外华人来说，无论是川普即将重返白宫的政策走向，还是英伟达在人工智能浪潮中的股价表现，都直接关系到大家的钱包、就业以及未来的生活环境。这两位大佬的性格缺陷是否会引发连锁反应，值得我们密切关注。"
+ ],
+ "tags": [
+  "川普",
+  "黄仁勋",
+  "英伟达",
+  "华尔街日报",
+  "海外华人"
+ ],
+ "original_title": "Opinion | Donald Trump and Jensen Huang Have the Same Tragic Flaw",
+ "lang": "en",
+ "published": "2026-11-15T17:00:00+00:00",
+ "created": "2026-11-15T17:44:51+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

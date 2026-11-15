@@ -1,0 +1,26 @@
+{
+ "key": "14f09cefc5",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/tv-claude-code-watchlist-dde821b8?mod=rss_Technology",
+ "title": "剧荒救星？她用AI精准挑剧，再也不怕踩雷了！",
+ "summary": "华尔街日报专栏作家分享了自己如何利用AI来寻找符合特定胃口的电视剧，实现高效追剧。",
+ "body": [
+  "如果你也经常在各大流媒体平台上苦苦搜寻，却总找不到一部合心意的电视剧，或许可以学学这位专栏作家的做法——用人工智能（AI）来帮你精准挑剧。",
+  "作家亚历山大·塞缪尔（Alexandra Samuel）在《华尔街日报》（Wall Street Journal）撰文分享了她的秘诀。每当她想看一部评分极高、集数够多、且完美避开自己所有雷区剧集的时候，她就知道该去问谁了。通过向AI输入定制化的筛选条件，她总能迅速找到当下最适合自己心情的电视节目，再也不用浪费时间在疯狂翻找和踩雷上了。",
+  "对于平时工作繁忙、休闲时间宝贵的海外华人来说，这种“AI定制推荐”的思路不仅能用在找电视剧上，还能帮我们在海量的信息中高效筛选出真正有价值的内容，省时又省心。"
+ ],
+ "tags": [
+  "人工智能",
+  "追剧指南",
+  "生活方式",
+  "效率工具"
+ ],
+ "original_title": "How AI Helps Me Find the Right TV Shows at the Right Times",
+ "lang": "en",
+ "published": "2026-11-15T12:00:00+00:00",
+ "created": "2026-11-15T17:44:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

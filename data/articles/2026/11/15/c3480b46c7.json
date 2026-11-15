@@ -1,0 +1,30 @@
+{
+ "key": "c3480b46c7",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/15/us-news/trump-blames-biden-admin-for-faa-outage-as-he-repeats-duffys-call-to-spend-billions-on-upgrades/",
+ "title": "全美航班大瘫痪！特朗普炮轰拜登政府：FAA烂透了，必须砸钱大换血",
+ "summary": "特朗普周日发文痛批拜登政府 mismanagement 导致联邦航空管理局（FAA）大瘫痪，并呼吁国会批准数十亿美元资金彻底升级已有50年历史的航空交通管制系统。",
+ "body": [
+  "上周五发生的全美航班大停飞事件让超过150万名旅客滞留，连周末航班也受到波及。总统特朗普周日在社交平台 Truth Social 上公开炮轰拜登政府，直言其将 FAA 搞得一团糟，不仅钱没花在刀刃上，反而让老旧系统雪上加霜。",
+  "> “拜登政府是一场 FAA 灾难，他们碰过的一切都变坏了。” —— 特朗普",
+  "## 老旧系统亟需砸钱升级",
+  "在这场被称为自911事件以来持续时间最长的全美航班大停飞中，FlightAware 数据显示，周五有 **9,938架次** 航班取消，周六也有超过 **7,000架次** 取消。特朗普随后发文呼吁国会批准资金，支持交通部长肖恩·达菲（Sean Duffy）提出的巨额升级计划。",
+  "交通部长达菲周五晚间要求国会拨款 **500亿美元** 用于系统改造，这比他9月份要求的30亿美元大幅增加。达菲警告称，如果不进行彻底改造，未来还会有更多类似的大规模、甚至可能是致命的系统中断。FAA 局长布赖恩·贝德福德（Bryan Bedford）则证实，全国22个航路交通管制中心中有17个受到影响，但调查显示没有遭到蓄意破坏的迹象。",
+  "对于经常搭乘飞机出行的海外华人来说，航空系统的频繁故障和老化直接影响了探亲和商务行程的安全与效率。如果国会通过这笔百亿级别的基建预算，虽然有望在未来彻底解决安全隐患，但短期内纳税人的钱包也将再次面临压力。"
+ ],
+ "tags": [
+  "特朗普",
+  "FAA",
+  "航班大瘫痪",
+  "美国新闻",
+  "交通安全"
+ ],
+ "original_title": "Trump blames Biden admin for FAA outage debacle — as he repeats Duffy’s call to spend billions on upgrades",
+ "lang": "en",
+ "published": "2026-11-15T17:10:54+00:00",
+ "created": "2026-11-15T17:46:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

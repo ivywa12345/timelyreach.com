@@ -1,0 +1,28 @@
+{
+ "key": "be678f2389",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-15/bond-drought-in-emerging-markets-lifts-prices-as-sales-slump-41",
+ "title": "新兴市场债券荒！下半场发行暴跌41%，价格反而被顶上去了",
+ "summary": "由于下半年新兴市场政府债券发行量大跌41%，国际投资者需求强劲却面临无债可买的局面，导致债券价格获得强力支撑，预计明年年初发行潮将回归。",
+ "body": [
+  "今年下半年以来，新兴市场国家的主权债券发行量出现了断崖式下跌。尽管国际投资者的购买热情依然高涨，但市场上却闹起了“债券荒”，这种供不应求的局面直接把债券价格给托举上去了。",
+  "## 供应大跌与市场反应",
+  "根据彭博社（Bloomberg）的报道，下半年新兴市场政府债券的销售额直接 **暴跌41%**。",
+  "- 国际投资者需求持续旺盛\n- 债券新发供应量大幅萎缩\n- 市场出现明显的供不应求",
+  "这种罕见的供应短缺在短期内有效支撑了债券价格。不过业内分析认为，随着明年年初发行潮的预期回归，目前的供应真空期将会被打破。"
+ ],
+ "tags": [
+  "财经",
+  "新兴市场",
+  "债券投资",
+  "国际金融"
+ ],
+ "original_title": "Bond Drought in Emerging Markets Lifts Prices as Sales Slump 41%",
+ "lang": "en",
+ "published": "2026-11-15T12:30:00+00:00",
+ "created": "2026-11-15T17:46:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

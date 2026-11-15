@@ -1,0 +1,25 @@
+{
+ "key": "de49527ee8",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-15/peru-s-economy-unexpectedly-slows-as-mining-farming-slump",
+ "title": "矿业农业双双哑火，秘鲁经济突然“踩急刹车”！",
+ "summary": "根据彭博社报道，由于矿业和农业产出疲软，秘鲁9月经济意外放缓。",
+ "body": [
+  "说到南美洲的经济，最近秘鲁（Peru）遇到了一点小麻烦。根据彭博社（Bloomberg）记者 Carla Samon Ros 的报道，秘鲁经济在9月份意外放缓，主要原因是被矿业和农业这两个传统支柱产业给拖了后腿。",
+  "作为当地的经济顶梁柱，矿业和农业的萎缩直接导致了整体增长的乏力。这种突如其来的放缓让市场颇感意外，也反映出实体经济面临的抗压能力依然不足。"
+ ],
+ "tags": [
+  "秘鲁经济",
+  "矿业",
+  "农业",
+  "海外经济"
+ ],
+ "original_title": "Peru’s Economy Unexpectedly Slows as Mining, Farming Slump",
+ "lang": "en",
+ "published": "2026-11-15T15:54:54+00:00",
+ "created": "2026-11-15T17:43:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
