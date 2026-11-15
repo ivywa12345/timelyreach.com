@@ -1,0 +1,28 @@
+{
+ "key": "90b50869c8",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion",
+ "title": "手笔真大！美国页岩油巨头正洽谈50亿美元吞并同行",
+ "summary": "美国页岩油巨头Diamondback Energy正在与同行Double Eagle V进行收购谈判，交易金额约达50亿美元，此举将进一步巩固其在二叠纪盆地的行业地位。",
+ "body": [
+  "据知情人士透露，美国知名页岩油生产商钻石背能源公司（Diamondback Energy Inc.）目前正在进行一项重大收购谈判，计划以大约 **50亿美元** 的价格买下未上市的油气钻探公司双鹰第五（Double Eagle V）。",
+  "## 持续加码二叠纪盆地",
+  "如果这笔交易最终敲定，将帮助钻石背能源公司进一步扩大其在二叠纪盆地（Permian Basin）的资产版图。作为全球最具生产力的页岩油产区，二叠纪盆地近年来一直是美国能源巨头们争相跑马圈地的核心战场。",
+  "目前，这起收购谈判仍在进行中，双方尚未最终拍板，最终的交易金额和细节仍存在变数。"
+ ],
+ "tags": [
+  "Diamondback",
+  "能源收购",
+  "页岩油",
+  "二叠纪盆地",
+  "财经新闻"
+ ],
+ "original_title": "Diamondback in Talks to Buy Double Eagle for About $5 Billion",
+ "lang": "en",
+ "published": "2026-11-15T21:49:10+00:00",
+ "created": "2026-11-15T23:26:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

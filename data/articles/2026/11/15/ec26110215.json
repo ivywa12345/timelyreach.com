@@ -1,0 +1,28 @@
+{
+ "key": "ec26110215",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
+ "title": "Anthropic要搞大动作？AI巨头大战越来越好看了！",
+ "summary": "知名AI初创公司Anthropic传出即将进行巨额首次公开募股（IPO）的消息，这给其竞争对手OpenAI带来了不小的压力。当前主打编程的AI代理（Coding agents）正成为大热门，但行业的下一步究竟走向何方引发关注。",
+ "body": [
+  "最近AI圈又有大新闻了，据《经济学人》报道，人工智能公司Anthropic（Anthropic）正筹备进行规模巨大的IPO，这无疑把竞争的压力直接甩给了老对手OpenAI（OpenAI）。",
+  "## 编程AI成香饽饽",
+  "现在科技圈最赚钱、最火爆的生意非AI编程助手莫属，各种能帮程序员写代码的智能代理（Coding agents）正在成为各大资本追逐的对象。不过，在这个赛道卷到飞起之后，大家都在琢磨一个问题：接下来的风口到底在哪里？",
+  "对咱们海外华人家长和职场人来说，AI技术的发展速度直接关系到科技股的走势以及未来的就业饭碗。这场AI巨头之间的资本较量，接下来肯定会带出更多好玩又实用的小工具，咱们拭目以待就行。"
+ ],
+ "tags": [
+  "Anthropic",
+  "OpenAI",
+  "人工智能",
+  "IPO",
+  "科技新闻"
+ ],
+ "original_title": "Anthropic’s giant IPO puts the heat on OpenAI",
+ "lang": "en",
+ "published": "2026-11-15T19:49:20+00:00",
+ "created": "2026-11-15T23:23:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

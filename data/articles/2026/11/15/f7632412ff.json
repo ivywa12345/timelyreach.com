@@ -1,0 +1,29 @@
+{
+ "key": "f7632412ff",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/bessent-urges-nvidia-to-pick-outsider-as-next-ceo-f9d21a83?mod=rss_Technology",
+ "title": "财长贝森特点名英伟达：接班人别在内部找？",
+ "summary": "美国财政部长贝森特公开建议英伟达寻找外部人士担任下一任CEO，并对该芯片巨头是否通过向中国违规销售来提振营收提出了质疑。",
+ "body": [
+  "近日，美国财政部长贝森特（Scott Bessent）在接受采访时向人工智能芯片巨头英伟达（Nvidia）提出了一项人事建议，称这家公司在寻找下一任首席执行官时，应当考虑引入外部人才而不是在内部提拔。",
+  "## 质疑涉华销售动机",
+  "除了对公司领导层更迭提出看法外，贝森特还在采访中公开质疑英伟达过去是否为了推高营收，而向中国市场进行了违规或隐秘的芯片销售。",
+  "这番言论正值美国政府持续收紧对华半导体出口管制、审查科技巨头合规性的敏感时期。作为全球市值最高的技术公司之一，英伟达的对华业务走向一直备受华盛顿和投资界的高度关注。",
+  "对于在美华人特别是科技从业者和投资者而言，美国高层官员对头部芯片企业的公开施压与人事建议，可能会进一步影响半导体行业的供应链走向以及相关板块的股市波动。"
+ ],
+ "tags": [
+  "英伟达",
+  "贝森特",
+  "芯片出口",
+  "美国财政部",
+  "科技监管"
+ ],
+ "original_title": "Bessent Urges Nvidia to Pick Outsider as Next CEO",
+ "lang": "en",
+ "published": "2026-11-15T18:44:00+00:00",
+ "created": "2026-11-15T23:23:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

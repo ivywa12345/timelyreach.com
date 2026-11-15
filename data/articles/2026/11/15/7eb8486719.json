@@ -1,0 +1,27 @@
+{
+ "key": "7eb8486719",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/15/us-news/ula-loses-40-amazon-leo-satellites-in-total-mission-failure-minutes-after-rocket-launch/",
+ "title": "亚马逊太难了！40颗卫星上天不到10分钟全炸了",
+ "summary": "运送亚马逊（Amazon）40颗宽带卫星的火箭在发射后不久发生故障，导致任务彻底失败，具体原因目前仍在调查中。",
+ "body": [
+  "周日下午，联合发射同盟（ULA）的一枚火箭在卡纳维拉尔角太空军基地（Cape Canaveral Space Force Station）腾空而起，原本计划将 **40颗** 互联网宽带卫星送入轨道。但在发射大约 **10分钟** 后，由于突发“异常情况”，火箭任务宣告彻底失败。",
+  "这次发射的“火神雷奥1号”（Vulcan Leo 1）火箭是亚马逊卫星互联网计划的首发航班。总部位于西雅图的电商巨头亚马逊原本希望通过这批卫星，为地球上的信号盲区提供网络覆盖。目前，ULA尚未公布故障的具体原因，但表示将尽快查明真相并恢复飞行。",
+  "> “由于异常刚刚发生，我们目前还没有具体数据来了解今天到底发生了什么。”",
+  "ULA官方在声明中表示，他们将从这次失败中总结经验，并尽快“重返蓝天”。"
+ ],
+ "tags": [
+  "亚马逊",
+  "卫星发射",
+  "科技新闻",
+  "美国航天"
+ ],
+ "original_title": "ULA loses 40 Amazon Leo satellites in ‘total mission failure’ minutes after rocket launch",
+ "lang": "en",
+ "published": "2026-11-15T22:03:13+00:00",
+ "created": "2026-11-15T23:27:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

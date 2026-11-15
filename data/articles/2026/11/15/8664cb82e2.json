@@ -1,0 +1,26 @@
+{
+ "key": "8664cb82e2",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/nvidia-shows-the-limits-of-corporate-boards-761741a6?mod=rss_worldnews",
+ "title": "英伟达给所有董事会敲响警钟：面对大国博弈，董事们真的懂吗？",
+ "summary": "《华尔街日报》专栏文章指出，大多数公司董事缺乏处理政治风险的经验，特别是在面对中国等敌对政权时显得力不从心，这也通过英伟达的困境暴露无遗。",
+ "body": [
+  "华尔街日报（Wall Street Journal）专栏作家玛丽·基塞尔（Mary Kissel）近日撰文指出，如今的企业董事会正面临前所未有的考验，但极少有董事具备应对地缘政治风险的实际经验，特别是涉及中国等敌对政权的复杂局势时。",
+  "近年来，随着国际局势风云变幻，跨国企业在海外市场尤其是中美之间的合规、供应链安全和地缘政治博弈日益加剧。然而，大多数公司的董事会成员过去主要聚焦于财务、审计或传统商业运营，面对这种高强度的政治风险往往显得手足无措。",
+  "对于身处海外的华人专业人士和高管来说，这种董事会层面的盲区可能直接传导至公司的战略决策、裁员风波甚至是合规审查，进而影响到大家的职业发展和切身利益。"
+ ],
+ "tags": [
+  "英伟达",
+  "企业治理",
+  "地缘政治",
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | Nvidia Shows The Limits Of Corporate Boards",
+ "lang": "en",
+ "published": "2026-11-15T19:40:00+00:00",
+ "created": "2026-11-15T23:26:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

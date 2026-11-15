@@ -1,0 +1,32 @@
+{
+ "key": "9a980f15e3",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/15/us-news/san-diego-zoo-elephant-nipho-dies-from-unusually-fast-disease/",
+ "title": "圣地亚哥动物园突发悲剧：15岁大象感染“闪电发作”致命病毒不幸离世",
+ "summary": "圣地亚哥动物园宣布，15岁的大象“Nipho”因感染致命的EEHV-HD病毒于周三死亡。目前，其同母异父的兄弟也出现了相同症状，兽医团队正全力抢救。",
+ "body": [
+  "圣地亚哥动物园野生动物联盟（San Diego Zoo Wildlife Alliance）于周六宣布，园内一只15岁的大象因感染致命的象内皮趋向性疱疹病毒出血症（简称 EEHV-HD）不幸离世。",
+  "## 罕见凶险的病毒",
+  "这只名叫Inhlonipho（昵称“Nipho”）的大象在周三因病去世。园方表示，虽然这种病毒在野生和人工饲养的亚洲象及非洲象中非常普遍，且**不会传染给人类或其他野生动物**，但Nipho的病情恶化速度快得惊人。",
+  "> “Nipho的病情来势汹猛，进展异常迅速。我们的团队甚至在明确诊断之前就开始了治疗。” 园方在声明中表示。",
+  "## 兄弟正接受全力抢救",
+  "更让人揪心的是，Nipho离世后不久，与其同母异父的兄弟Tsandzikle（昵称“Sundzu”）也开始表现出相同的感染症状。",
+  "目前，动物园的兽医团队正在日夜不休地对Sundzu展开救治，采取的措施包括：\n- 施用抗病毒药物\n- 补充液体\n- 输入大象血浆",
+  "园方希望Nipho的离世能帮助人类加深对这种可怕疾病的了解，并最终拯救更多大象的生命。"
+ ],
+ "tags": [
+  "圣地亚哥动物园",
+  "大象病毒",
+  "EEHV-HD",
+  "野生动物保护",
+  "突发新闻"
+ ],
+ "original_title": "San Diego Zoo elephant ‘Nipho’ dies from ‘unusually fast’ disease",
+ "lang": "en",
+ "published": "2026-11-15T22:20:31+00:00",
+ "created": "2026-11-15T23:26:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

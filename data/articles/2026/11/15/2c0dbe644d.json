@@ -1,0 +1,27 @@
+{
+ "key": "2c0dbe644d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
+ "title": "AI恐慌缓和！美股期货亚洲早盘集体反弹",
+ "summary": "美国股指期货在亚洲早盘小幅走高，投资者在上周抛售后重返风险资产，显示市场对人工智能（AI）板块的担忧有所降温，同时油价有所下跌。",
+ "body": [
+  "上周刚刚经历了一波抛售潮的美股迎来了喘息机会。根据彭博社（Bloomberg）记者马修·伯吉斯（Matthew Burgess）报道，在亚洲早盘交易中，美国股指期货出现小幅上涨，这表明市场对人工智能（AI）相关交易的焦虑情绪正在缓和，投资者重新回到了风险资产的怀抱。",
+  "与此同时，国际油市传来了油价下跌的消息。分析认为，此前市场的剧烈波动主要由AI板块的估值担忧引发，而目前的市场回暖显示出资金正在重新寻找入场时机。",
+  "对于关注美股的海外华人投资者来说，近期板块轮动速度较快，AI相关股票的波动可能会持续。在市场情绪尚未完全稳定之前，操作上仍需注意风险控制，密切关注科技股的下一步走向。"
+ ],
+ "tags": [
+  "美股",
+  "人工智能",
+  "股市期货",
+  "海外投资",
+  "财经新闻"
+ ],
+ "original_title": "US Stock Futures Rise as AI Woes Ease, Oil Slips: Markets Wrap",
+ "lang": "en",
+ "published": "2026-11-15T22:11:32+00:00",
+ "created": "2026-11-15T23:23:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

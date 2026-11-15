@@ -1,0 +1,29 @@
+{
+ "key": "89d0ed0c4a",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/alerts/uscis-updates-policy-on-cspa-age-calculation",
+ "title": "绿卡排期超龄政策更新！移民局统一CSPA计算标准",
+ "summary": "美国移民局（USCIS）更新了儿童身份保护法（CSPA）年龄计算的政策手册，明确将以国务院签证公告的“最终行动日期”（Final Action Dates，表A）来决定签证何时可用，以统一境内外申请标准。",
+ "body": [
+  "近日，美国移民局（USCIS）对《政策手册》进行了更新，明确规定在计算儿童身份保护法（CSPA）年龄时，签证是否可用将统一依据美国国务院签证公告（Visa Bulletin）的“最终行动日期”（Final Action Dates，表A）来判定。",
+  "## 新政实施时间与过渡期",
+  "- 新政策适用于**2025年8月15日**及之后提交的申请\n- 对于2025年8月15日之前已经在移民局积压的身份调整（Adjustment of Status）申请，将继续适用2023年2月14日的CSPA年龄计算政策\n- 允许因存在“特殊情况”而未能在签证可用后一年内申请的家庭获得政策豁免",
+  "这项更新主要是为了解决过去移民局和国务院标准不一致的问题，确保在美国境内调整身份的申请人和在境外申请移民签证的人能够获得公平对待。此外，移民局也强调，如果申请人能证明存在未能及时申请的特殊情况，仍可按旧政计算CSPA年龄。",
+  "对于有移民规划的在美华人家庭来说，这意味着子女“超龄”的计算标准将更加明确和统一。家有即将满21岁随行子女的父母，务必密切关注签证公告的排期进展，以免错过关键的申请窗口期。"
+ ],
+ "tags": [
+  "移民局",
+  "CSPA",
+  "绿卡排期",
+  "子女超龄",
+  "美国移民"
+ ],
+ "original_title": "USCIS Updates Policy on CSPA Age Calculation",
+ "lang": "en",
+ "published": "2025-08-08T13:29:01+00:00",
+ "created": "2026-11-15T23:26:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

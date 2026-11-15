@@ -1,0 +1,30 @@
+{
+ "key": "cbc015fddf",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-15/retail-crowd-dump-vietnam-stocks-for-near-10-bank-deposit-rates",
+ "title": "股市太难赚钱？越南股民疯狂抛售股票去存定期，利率快逼近10%了！",
+ "summary": "由于越南股市表现低迷，当地散户正疯狂抛售股票，转而将资金存入银行以获取接近10%的高额存款利率。",
+ "body": [
+  "最近越南散户们坐不住了，由于股市表现实在让人头疼，大家纷纷开启“砸锅卖铁”模式——疯狂抛售股票，转头去银行买高息理财存定期，因为那里的存款利率快要逼近 **10%** 了。",
+  "## 股市表现太差",
+  "彭博社（Bloomberg）报道指出，由于越南股市表现疲软，不仅本地散户对股市失去了信心，连外国投资者也渐渐对这个市场失去了兴趣。相比之下，银行推出的高收益存款产品成了香饽饽，吸引大批资金回流银行。",
+  "- 散户正大规模抛售越南股市股票",
+  "- 银行高息存款利率已接近 10%",
+  "- 本地人和外国投资者均对低迷股市失去热情",
+  "面对股市的低迷和银行高息的诱惑，资金用脚投票的现象正在当地上演。"
+ ],
+ "tags": [
+  "越南股市",
+  "散户投资",
+  "银行存款",
+  "利率"
+ ],
+ "original_title": "Retail Crowd Dump Vietnam Stocks for Near 10% Bank-Deposit Rates",
+ "lang": "en",
+ "published": "2026-11-15T22:00:00+00:00",
+ "created": "2026-11-15T23:25:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

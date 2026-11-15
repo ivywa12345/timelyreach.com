@@ -1,0 +1,27 @@
+{
+ "key": "79f21de468",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/rational-investing-and-stock-market-bubbles-f75ed12c?mod=rss_markets_main",
+ "title": "华尔街读者热议：股市泡沫里还有理性投资吗？",
+ "summary": "《华尔街日报》读者近期就投资者行为和市场如何对风险定价展开了热烈讨论，探讨股市泡沫背后的逻辑。",
+ "body": [
+  "最近，《华尔街日报》的一篇观点文章引发了读者对股市热潮的广泛讨论。大家争论的焦点在于，当市场出现狂热情绪时，投资者究竟是在保持理性，还是盲目冲进泡沫之中。",
+  "在这场讨论中，读者们各抒己见，主要集中在以下几个方面：",
+  "- 投资者在面对高风险时是否真正理解资产的真实价值\n- 市场定价机制在狂热行情下是否依然有效\n- 普通人如何在波动的市场中守住自己的钱包",
+  "对于咱们海外华人来说，平时打理投资、配置资产时，看懂市场的风险定价尤其重要。别被表面的涨跌冲昏头脑，理性投资才是长久之道。"
+ ],
+ "tags": [
+  "股市泡沫",
+  "理性投资",
+  "华尔街日报",
+  "资产配置"
+ ],
+ "original_title": "Opinion | Rational Investing and Stock-Market Bubbles",
+ "lang": "en",
+ "published": "2026-11-15T17:55:00+00:00",
+ "created": "2026-11-15T23:23:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

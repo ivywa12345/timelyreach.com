@@ -1,0 +1,28 @@
+{
+ "key": "58131205ce",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/personal-tech/apple-watch-amazon-bee-listening-wearables-9c26f1f5?mod=rss_Technology",
+ "title": "苹果手表能录下你所有的对话？是黑科技还是大坑！",
+ "summary": "华尔街日报记者体验了能够捕捉所有日常对话的智能设备，引发了对隐私安全的思考。",
+ "body": [
+  "最近，科技圈出现了一些新鲜玩意儿，比如能够时刻监听并记录你日常对话的 Apple Watch（苹果手表）和亚马逊（Amazon）的 Bee 手环。这种能把周围声音全盘录下来的设备，到底是贴心的智能助手，还是让人毛骨悚然的窃听器？",
+  "## 实时录音到底有啥用",
+  "这类设备的初衷是为了帮人“好记性不如烂笔头”，把生活中的琐事、会议上的灵感统统抓取下来，生成摘要。支持者认为它可以极大地解放双手，再也不用担心忘记重要的事情。但反对者则指出，这意味着你的每一句话、每一个秘密，甚至路人的闲聊，都有可能被机器默默记录在案。",
+  "对于咱们海外华人来说，隐私安全一向是大家非常关心的大事。这类设备虽然方便，但如果数据被上传云端或者遭遇泄露，后果不堪设想。在享受科技便利的同时，大家的钱包和隐私可能都在面临新的风险。"
+ ],
+ "tags": [
+  "Apple Watch",
+  "亚马逊",
+  "隐私安全",
+  "科技新闻",
+  "海外生活"
+ ],
+ "original_title": "Your Apple Watch Can Listen In on Conversations. Is That Useful or Creepy?",
+ "lang": "en",
+ "published": "2026-11-15T11:00:00+00:00",
+ "created": "2026-11-15T23:25:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
