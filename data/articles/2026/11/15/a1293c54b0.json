@@ -1,0 +1,22 @@
+{
+ "key": "a1293c54b0",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "ABC News",
+ "source_url": "https://x.com/ABC/status/2121765046594232635",
+ "title": "美国信用卡债务达1.3万亿美元创新高",
+ "summary": "纽约联邦储备银行新报告显示，美国人背负的信用卡债务达到创纪录的近1.3万亿美元，创下历史新高。",
+ "body": [
+  "根据纽约联邦储备银行（Federal Reserve Bank of New York）发布的一份新报告，美国人背负的信用卡债务达到创纪录的近1.3万亿美元。"
+ ],
+ "tags": [
+  "信用卡",
+  "债务"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-15T00:39:42+00:00",
+ "created": "2026-11-15T01:22:58+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

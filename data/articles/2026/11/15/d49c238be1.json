@@ -1,0 +1,25 @@
+{
+ "key": "d49c238be1",
+ "board": "news",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2121679810166436231",
+ "title": "多数美国人不愿让AI独自决定医疗",
+ "summary": "皮尤研究中心新调查显示，多数美国人不希望AI独自决定医疗：60%对医生用AI诊疗感到不舒服，仅3%接受AI独自诊断。",
+ "body": [
+  "根据皮尤研究中心（Pew Research Center）的一项新调查，多数美国人不希望AI独自为他们的医疗做决定。",
+  "60%的人对医生使用AI进行诊断和治疗等工作感到不舒服。",
+  "46%的人完全不希望AI来决定保险理赔，只有5%的人愿意让它独自决定。",
+  "只有3%的人接受AI独自做出诊断；47%的人可以接受，前提是最终由人类来做决定。"
+ ],
+ "tags": [
+  "AI",
+  "医疗"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-14T19:01:00+00:00",
+ "created": "2026-11-15T01:22:58+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
