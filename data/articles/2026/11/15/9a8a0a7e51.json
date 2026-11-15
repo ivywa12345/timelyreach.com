@@ -1,0 +1,31 @@
+{
+ "key": "9a8a0a7e51",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+ "title": "英伟达前CEO绯闻风暴升级！涉事女高管离职，其前东家紧急启动内部调查",
+ "summary": "新加坡云计算公司Megaspeed证实，涉卷入英伟达前CEO黄仁勋绯闻的前高管Alice Huang已于2025年8月离职，该公司目前正就相关商业及供应链报道展开内部调查。",
+ "body": [
+  "新加坡云计算公司 Megaspeed 本周日向 CNBC 证实，曾引发轩然大波的前高管 Alice Huang 已于 **2025年8月** 正式离职，目前与该公司已无任何关联。此前，由于美媒曝出英伟达（Nvidia）前 CEO 黄仁勋（Jensen Huang）的婚外情传闻，且绯闻对象被指为 Alice Huang，这家公司随之被推上了舆论的风口浪尖。",
+  "## 离职与情报风波",
+  "Megaspeed 在声明中强调，Alice Huang 已于 2025 年 8 月 30 日正式离职，公司不对其个人及私事发表评论。然而，这起风波的影响远不止于私生活层面。据《纽约时报》报道，美国情报官员认为 Alice Huang 是一名中国情报资产。受此丑闻及相关报道影响，黄仁勋已于 **11月12日** 宣布辞去英伟达 CEO 职务，而传闻中的绯闻对象之一正是他的直接下属。",
+  "## 供应链面临严查",
+  "Megaspeed 是一家总部位于新加坡、在印尼设有办公室的云计算公司，自称是英伟达在当地算力云业务的“核心商业合作伙伴”，主要业务是让客户租用英伟达的 GPU 算力。但在卷入风波之前，该公司就曾因芯片是否被违规转运至中国市场，而面临过媒体和政府的严格审查。",
+  "> “Megaspeed 设计和维护其全球运营和供应链控制框架，以遵守所有适用的法律和监管制度，包括美国出口管制要求。” —— Megaspeed",
+  "面对铺天盖地的报道，Megaspeed 表示相关商业及供应链的媒体报道缺乏可核实证据，目前已聘请外部法律顾问进行彻查。对于身处海外的华人科技从业者和投资者来说，随着美国对华芯片出口管制的不断收紧以及大厂高管层面的地缘政治审查加剧，这类跨国供应链企业的合规风险正变得越来越高，未来相关业务的走向值得持续关注。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "Megaspeed",
+  "Alice Huang",
+  "美国出口管制"
+ ],
+ "original_title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+ "lang": "en",
+ "published": "2026-11-15T08:34:46+00:00",
+ "created": "2026-11-15T10:53:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,30 @@
+{
+ "key": "ee66cf9101",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/14/us-news/ups-cargo-plane-collides-with-commercial-airliner-at-miami-airport/",
+ "title": "迈阿密机场惊险一幕：UPS货机滑行时撞上客机！",
+ "summary": "周六晚间，一架UPS货机在迈阿密国际机场滑行时与一架商业客机发生擦撞，导致两人轻伤。目前机场运营未受重大影响，事故原因正在调查中。",
+ "body": [
+  "周六晚上，迈阿密国际机场（Miami International Airport）发生了一起惊险的地面擦撞事故，一架UPS货机在跑道滑行时与一架客机撞个正着。幸运的是，事故只造成 **两人轻伤**，且当场处理后无需送医。",
+  "## 飞行员无线电对话曝光",
+  "事发时正值晚上9点15分左右，一架从巴拿马城飞来的巴拿马航空（Copa Airlines）航班刚落地，在滑行道交叉口与一架准备飞往哥伦比亚波哥大的UPS 358号货机发生擦撞，客机的机翼刮到了货机的机头。",
+  "塔台录音显示，客机飞行员在无线电中震惊地表示“有人撞了我们”，而塔台随即质问UPS货机飞行员是否撞了飞机。UPS飞行员随后承认：“是的，我们滑得太远了，他用机翼刮到了我们。”",
+  "## 机场运营未受影响",
+  "迈阿密国际机场发言人格雷格·陈（Greg Chin）向媒体表示，机场已将航班引导至其他滑行道，**目前机场运营没有受到影响**。迈阿密-戴德消防救援局（Miami-Dade Fire Rescue）也在现场对两名伤者进行了治疗。",
+  "目前尚不清楚这起事故是否与此前一天全美航空系统大面积停飞的余波有关。此前，美国交通部长肖恩·达菲（Sean Duffy）曾警告称，由于技术故障导致航班大乱，航空公司重新调配飞机和机组人员需要时间，航班恢复将会比较缓慢。联邦航空管理局（FAA）官员则将系统故障归咎于外包商的失误或路由器故障。"
+ ],
+ "tags": [
+  "迈阿密机场",
+  "UPS货机",
+  "飞机擦撞",
+  "航空安全"
+ ],
+ "original_title": "UPS cargo plane collides with commercial airliner at Miami airport",
+ "lang": "en",
+ "published": "2026-11-15T03:58:43+00:00",
+ "created": "2026-11-15T10:55:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

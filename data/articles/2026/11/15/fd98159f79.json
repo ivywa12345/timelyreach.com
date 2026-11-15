@@ -1,0 +1,30 @@
+{
+ "key": "fd98159f79",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/the-individual-investors-who-are-hot-on-anthropics-ipo-but-cool-on-ai-461f89b4?mod=rss_markets_main",
+ "title": "想买Anthropic股票，又怕AI泡沫？散户：这感觉像最后一班直升机",
+ "summary": "华尔街日报报道，许多散户投资者对人工智能的未来既兴奋又纠结，面对即将到来的巨额IPO，他们一方面不想错过可能发财的机会，另一方面又对AI板块的泡沫感到担忧。",
+ "body": [
+  "最近，不少散户心里都在打鼓：一方面觉得人工智能（AI）火得不行，生怕错过这场财富盛宴；另一方面又对整个AI板块的估值直犯嘀咕，甚至有人形容这种蜂拥而上的心态“感觉就像西贡撤离时的最后一班直升机”。",
+  "## 纠结的散户心态",
+  "作为大热门AI初创企业Anthropic的潜在首次公开募股（IPO），这场规模可能达到**万亿美元级别**的融资吸引了无数眼球。对许多普通投资者来说，看着AI概念一路狂飙，很难说服自己完全坐视不管。然而，高昂的估值和市场过热的信号也让他们感到心惊肉跳，生怕自己成了接盘侠。",
+  "> “Feels almost like the last chopper out of Saigon,” says one.",
+  "> 散户投资者",
+  "对于在海外打拼、关注美股投资的华人来说，这种 FOMO（害怕错过）与理性担忧交织的情绪并不陌生。在科技股动荡的当下，如何在热潮中守住自己的钱包，平衡好资产配置和风险控制，成了大家茶余饭后热议的话题。"
+ ],
+ "tags": [
+  "Anthropic",
+  "美股",
+  "IPO",
+  "人工智能",
+  "散户投资"
+ ],
+ "original_title": "The Individual Investors Who Are Hot on Anthropic’s IPO But Cool on AI",
+ "lang": "en",
+ "published": "2026-11-15T10:30:00+00:00",
+ "created": "2026-11-15T10:53:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

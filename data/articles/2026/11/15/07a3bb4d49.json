@@ -1,0 +1,28 @@
+{
+ "key": "07a3bb4d49",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/ukraines-new-defense-against-russian-drones-6e6c2945?mod=rss_opinion",
+ "title": "北约该学学了！基辅上空这套“电子防空罩”到底多厉害？",
+ "summary": "华尔街日报报道指出，北约应该密切关注保护基辅免受俄罗斯无人机袭击的电子战“防空罩”技术。",
+ "body": [
+  "最近，《华尔街日报》记者 Robert Brüll 撰文指出，北约真得好好研究一下目前用来保护乌克兰首都基辅的电子战“防空罩”了。",
+  "## 电子战成防空新焦点",
+  "随着俄乌冲突中无人机的大量使用，传统的防空导弹不仅成本高昂，而且数量有限。乌克兰通过建立电子战防御系统，试图在基辅上空织起一张无形的电磁防护网，有效干扰和压制敌方无人机的进攻。",
+  "## 北约需要吸取经验",
+  "军事分析人士认为，这种低成本且高效的电子干扰手段，对未来现代战争有着极大的启发意义。北约盟国应当从基辅的实战经验中汲取教训，升级自身的电子防御能力，以应对日益复杂的无人机威胁。"
+ ],
+ "tags": [
+  "乌克兰局势",
+  "军事科技",
+  "电子战",
+  "北约"
+ ],
+ "original_title": "Ukraine’s New Defense Against Russian Drones",
+ "lang": "en",
+ "published": "2026-11-12T22:42:00+00:00",
+ "created": "2026-11-15T10:52:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

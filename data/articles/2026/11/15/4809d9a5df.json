@@ -1,0 +1,27 @@
+{
+ "key": "4809d9a5df",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-15/iran-strikes-bahrain-base-repeats-path-to-us-deal-remains-open",
+ "title": "伊朗首次直接打击巴林空军基地，但坚称与美谈判大门依然敞开",
+ "summary": "伊朗对海湾国家巴林的一处空军基地发动了直接打击，这是数周来首次针对该国的直接袭击。不过，伊朗方面同时重申，通过谈判结束与美国冲突的道路仍然保持畅通。",
+ "body": [
+  "近日，伊朗将打击目标对准了巴林的一处空军基地，这是数周以来该地区首次遭到来自伊朗的直接袭击，令本就紧张的中东局势再度升级。",
+  "在这起袭击发生的同时，伊朗官方表态称，尽管冲突仍在持续，但通往结束与美国（US）冲突的道路依然敞开，并未完全关闭外交解决的大门。",
+  "对于身处海外的华人来说，中东地缘政治的动荡往往会引发国际原油市场波动，进而影响到日常的油价、通胀以及整体经济预期，相关局势的发展值得持续关注。"
+ ],
+ "tags": [
+  "伊朗",
+  "巴林",
+  "美国",
+  "中东局势",
+  "地缘政治"
+ ],
+ "original_title": "Iran Strikes Bahrain Base, Repeats Path to US Deal Remains Open",
+ "lang": "en",
+ "published": "2026-11-15T08:14:04+00:00",
+ "created": "2026-11-15T10:54:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
