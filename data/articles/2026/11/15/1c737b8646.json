@@ -1,0 +1,25 @@
+{
+ "key": "1c737b8646",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-15/anwar-s-coalition-suffers-third-straight-regional-poll-defeat",
+ "title": "马来西亚总理遭遇三连败！执政联盟再丢一场地方选举",
+ "summary": "马来西亚总理安华的执政联盟在最新的地方选举中失利，遭遇今年以来的第三次选举挫败，由两大马来族政党组成的联盟赢得了此次选举。",
+ "body": [
+  "马来西亚总理安华（Anwar Ibrahim）的执政联盟最近在地方选举中再次遭遇滑铁卢，输掉了该国最新的一场区域投票。这也是安华今年以来在地方选举中遭遇的**第三次连续败绩**。",
+  "这次选举的赢家是一个由马来西亚两个最大的马来族政党组成的政治联盟，他们顺利横扫了最新的区域投票。对于执政党来说，这无疑是一个强烈的警讯，显示出基层民意可能正在发生变化。"
+ ],
+ "tags": [
+  "马来西亚",
+  "安华",
+  "地方选举",
+  "政治动态"
+ ],
+ "original_title": "Anwar’s Coalition Suffers Third Straight Regional Poll Defeat",
+ "lang": "en",
+ "published": "2026-11-15T01:45:48+00:00",
+ "created": "2026-11-15T02:39:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

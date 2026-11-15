@@ -1,0 +1,29 @@
+{
+ "key": "4a7e0afbe7",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-14/trump-s-white-house-lawyer-on-subpoena-compliance-it-depends",
+ "title": "白宫律师谈“国会传票”：这事儿得看情况！",
+ "summary": "白宫法律顾问威尔·沙夫（Will Scharf）日前表示，面对民主党主导的国会未来可能发出的传票，白宫不会承诺一定配合，并认为与特朗普总统有过接触的企业高管可能受行政特权保护。",
+ "body": [
+  "美国政坛又要因为“传票”过招了。白宫法律顾问威尔·沙夫（Will Scharf）在接受采访时公开表示，面对民主党即将掌控的国会可能发出的传票，白宫目前**无法给出肯定会配合的承诺**。",
+  "## 核心焦点在哪",
+  "这次争议的关键在于“行政特权”的边界。沙夫指出，白宫方面认为，那些曾与唐纳德·特朗普（Donald Trump）总统有过接触的企业高管，也可能被纳入行政特权的保护范围之内。",
+  "> “这得看具体情况。”白宫法律顾问威尔·沙夫（Will Scharf）在谈到是否会遵守国会传票时这样表示。",
+  "这意味着，如果未来国会要求这些商界人士或白宫官员出席听证会或交出文件，白宫很可能会以行政特权为由进行阻挠，双方在国会山的新一轮博弈已经箭在弦上。"
+ ],
+ "tags": [
+  "白宫",
+  "特朗普",
+  "国会传票",
+  "美国政治",
+  "行政特权"
+ ],
+ "original_title": "Trump’s White House Lawyer on Subpoena Compliance: ‘It Depends’",
+ "lang": "en",
+ "published": "2026-11-14T23:04:15+00:00",
+ "created": "2026-11-15T02:41:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

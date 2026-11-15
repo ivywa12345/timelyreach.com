@@ -1,0 +1,24 @@
+{
+ "key": "dd48de6fba",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/u-s-figures-iran-still-has-up-to-2-500-missiles-countering-trump-assertions-4c6f4d67?mod=rss_worldnews",
+ "title": "伊拉克导弹库到底空了吗？美媒曝最新情报",
+ "summary": "华尔街日报最新消息显示，美国官方评估认为伊朗目前仍拥有多达2500枚导弹，这与特朗普之前的说法存在矛盾。这一情报正在影响美方关于是否恢复打击的讨论。",
+ "body": [
+  "据《华尔街日报》报道（作者 Anat Peled），美国官方最新评估认为，伊朗目前依然拥有高达 **2,500枚** 导弹。这一情报与美国当选总统特朗普此前的公开说法形成了鲜明对比，也直接影响了特朗普政府内部关于是否要恢复对伊打击的讨论。",
+  "此前，外界和相关言论曾暗示伊朗的导弹库存已经见底，但最新的情报显示其军力重建工作仍在持续。目前，这一关键的军力评估正在成为白宫决策层权衡中东局势的重要筹码。"
+ ],
+ "tags": [
+  "伊朗导弹",
+  "美国政治",
+  "中东局势"
+ ],
+ "original_title": "U.S. Figures Iran Still Has up to 2,500 Missiles, Countering Trump Assertions",
+ "lang": "en",
+ "published": "2026-11-15T01:00:00+00:00",
+ "created": "2026-11-15T02:39:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

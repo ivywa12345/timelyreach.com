@@ -1,0 +1,31 @@
+{
+ "key": "704780b40c",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/news-releases/uscis-to-modernize-fee-payments-with-electronic-funds",
+ "title": "移民局交费大变天！以后可以用美国银行账户直接扣款了",
+ "summary": "美国移民局（USCIS）推出全新电子支付方式，允许申请人通过美国银行账户直接进行ACH转账扣款，并给出了全面取消纸质支票的时间表。",
+ "body": [
+  "办理绿卡和签证交费更方便了！美国移民局（USCIS）宣布推出一项全新服务，现在大家可以通过填写并签署G-1650表格（Form G-1650, Authorization for ACH Transactions），直接使用美国银行账户的电子借记（ACH debit）功能来支付各类申请费和服务费。",
+  "## 为什么要改？",
+  "这次改革主要是为了顺应相关行政命令，减少处理纸质支票和汇票所需的大量时间和人工。移民局发言人马修·特拉格瑟（Matthew J. Tragesser）表示：- 超过 **90%** 的支付仍在使用支票和汇票，导致处理延迟并增加了欺诈风险。\n- 新方式能有效降低诈骗、付款丢失和被盗的风险。",
+  "> \"我们有责任对美国人民负责，尽可能高效且安全地运营。\"\n> —— USCIS发言人 Matthew J. Tragesser",
+  "## 纸质支票还能用多久？",
+  "这项新的ACH扣款方式是对现有信用卡支付（使用G-1450表格）的一个重要补充。不过，传统支票的退场已经进入倒计时：移民局将继续接受纸质支票和汇票，直到 **2025年10月28日**。在此之后，移民局将只接受通过G-1450表格的信用卡支付，或通过G-1650表格的ACH电子借记支付。",
+  "对于咱们在美办身份的华人来说，以后交移民局费用要格外注意账户余额，因为一旦因为账户资金不足导致扣款失败，申请可能会被直接驳回。如果没有美国银行账户，暂时无法使用这个新表格，但仍可通过信用卡或预付卡（Prepaid Credit Card）配合G-1450表格来支付费用。"
+ ],
+ "tags": [
+  "美国移民局",
+  "USCIS",
+  "绿卡申请",
+  "移民费用",
+  "在美生活"
+ ],
+ "original_title": "USCIS to Modernize Fee Payments with Electronic Funds",
+ "lang": "en",
+ "published": "2025-08-29T16:21:01+00:00",
+ "created": "2026-11-15T02:40:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

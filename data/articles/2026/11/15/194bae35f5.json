@@ -1,0 +1,26 @@
+{
+ "key": "194bae35f5",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
+ "title": "太牛了！SpaceX首次用“筷子”夹住星舰，离火星又近一步？",
+ "summary": "埃隆·马斯克的SpaceX成功在发射台用机械臂“夹”住了返回的星舰火箭，创下航天史上的里程碑，向火箭快速重复使用迈出巨大一步。",
+ "body": [
+  "马斯克的太空探索技术公司（SpaceX）近日迎来了航天史上的高光时刻：他们首次成功在发射台用巨大的机械臂（被称为“筷子”）在空中“夹”住了返回的星舰（Starship）火箭。",
+  "这次历史性的尝试不仅让现场和屏幕前的所有人沸腾，更让SpaceX朝着实现火箭的**“快速重复使用”**目标迈出了关键的一大步。按照设想，只有实现火箭像飞机一样快速回收和再次起飞，人类通往火星和深空的大门才能真正打开。",
+  "对关注科技前沿和航空航天的海外华人来说，这也意味着商业航天时代正在加速到来，未来太空旅行或许不再只是科幻电影里的情节。"
+ ],
+ "tags": [
+  "SpaceX",
+  "星舰",
+  "科技新闻",
+  "马斯克"
+ ],
+ "original_title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
+ "lang": "en",
+ "published": "2026-11-15T00:33:00+00:00",
+ "created": "2026-11-15T02:40:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

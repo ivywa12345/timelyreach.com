@@ -1,0 +1,29 @@
+{
+ "key": "9c00ed3409",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?mod=rss_Technology",
+ "title": "黄仁勋的东南亚“暗道”？英伟达如何让北京留在AI赛局",
+ "summary": "华尔街日报报道揭秘，东南亚的大型数据中心为中国企业提供了关键算力，并成为掩护芯片走私的通道，让中国得以继续留在AI竞争中。",
+ "body": [
+  "近日，《华尔街日报》披露了英伟达（NVIDIA）CEO黄仁勋（Jensen Huang）如何通过东南亚的数据中心，为中国企业开辟了一条维持AI研发的“后路”。",
+  "根据报道，这些位于东南亚的大型数据中心不仅为中国公司提供了至关重要的计算能力，同时也为所谓的芯片走私活动提供了掩护，使得中国在严厉的技术封锁下依然能够获得发展AI所需的算力支撑。",
+  "近年来，随着美国对华芯片出口管制不断加码，中国科技企业获取高端AI芯片的难度直线上升。然而，通过第三方地区的中转和算力租用，市场的实际需求依然找到了出口，这也引发了华盛顿对现有出口管制漏洞的持续担忧。",
+  "对于在美华人而言，地缘政治对科技行业的影响正变得越来越直接。无论是身处半导体产业链、AI研发领域，还是关注中美科技战走向的海外同胞，这类跨国供应链的博弈都可能对未来的职业发展和投资环境产生深远影响。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "人工智能",
+  "芯片走私",
+  "东南亚数据中心",
+  "中美科技战"
+ ],
+ "original_title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
+ "lang": "en",
+ "published": "2026-11-15T02:00:00+00:00",
+ "created": "2026-11-15T02:39:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

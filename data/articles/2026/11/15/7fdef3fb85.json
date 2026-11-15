@@ -1,0 +1,32 @@
+{
+ "key": "7fdef3fb85",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/14/us-news/spacex-recovers-starship-with-giant-tower-arms-in-historic-first/",
+ "title": "太科幻了！SpaceX用“巨型机械筷子”在空中精准夹住飞船",
+ "summary": "SpaceX的星舰飞船在经历22小时的太空飞行后，首次成功被发射塔的机械臂在空中稳稳夹住，创造了航天史上的奇迹。",
+ "body": [
+  "太科幻了！SpaceX 成功用发射塔的巨型机械臂，在空中稳稳“接住”了从太空返回的星舰（Starship）飞船，这在航天史上绝对是头一遭。",
+  "周六，在德州星际基地（Starbase）进行的第 15 次测试发射中，这艘世界最大、最强大的火箭在完成超过 22 小时的轨道飞行、绕地球 14 圈后返回。发射塔名为 Mechazilla 的“筷子”机械臂成功锁定了星舰的上半部分。",
+  "> “简直就像魔法一样。”——NASA 局长贾瑞德·艾萨克曼（Jared Isaacman）在 X 上感叹道。",
+  "虽然火箭下半部分的超重型助推器在周五发射后不久在墨西哥湾上空发生爆炸，导致双回收计划未能实现，但这次上层飞船的空中回收依然被视为一项历史性突破。SpaceX 首席执行官埃隆·马斯克（Elon Musk）随后在 X 上向团队表示祝贺。",
+  "## 离重返月球又近一步",
+  "这次测试的成功对美国宇航局（NASA）的探月计划意义重大。NASA 已经向 SpaceX 支付了数十亿美元，计划在未来十年内利用星舰将“阿尔忒密斯”（Artemis）宇航员送上月球表面，建立永久月球基地。",
+  "目前，**阿尔忒密斯 III** 任务暂定于 2027 年进行载人环地对接测试，而 **阿尔忒密斯 IV** 则计划于 2028 年进行，这将是美国 50 多年来首次重返月球。随着 SpaceX 计划在未来几个月内在佛罗里达州肯尼迪航天中心开展发射，人类的星际探索正在加速推进。"
+ ],
+ "tags": [
+  "SpaceX",
+  "星舰",
+  "科技",
+  "马斯克",
+  "NASA",
+  "航天"
+ ],
+ "original_title": "SpaceX recovers Starship with giant tower arms in historic first",
+ "lang": "en",
+ "published": "2026-11-15T01:17:49+00:00",
+ "created": "2026-11-15T02:41:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "8a7ec8e806",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/14/us-news/nypd-fatally-shoots-man-during-incident-on-nyc-highway-sources/",
+ "title": "纽约高速惊险枪击！疑似绑架嫌犯拒捕逆行，被警方当场击毙",
+ "summary": "纽约布鲁克林Belt Parkway高速公路周六晚发生惊险枪击案。警方在拦截一辆涉嫌绑架的货车时，嫌犯驾车逆行拒捕，最终被警方开枪击毙。",
+ "body": [
+  "周六（11月14日）晚上，纽约布鲁克林（Brooklyn）的Belt Parkway高速公路上演了一幕惊险的警匪交锋，一名疑似涉及绑架案的嫌疑人在混乱的交通拦截中被警方开枪击毙。",
+  "据知情消息人士透露，纽约市警察局（NYPD）此前接到警报，称有一辆悬挂新泽西州车牌的白色货车可能涉及一起绑架案。当晚7点50分左右，警察在高速公路8号出口附近发现了这辆符合特征的目标车辆，并试图将其拦下检查。然而，嫌犯不仅没有停车配合，反而疯狂调头，直接在高速公路上逆行逃窜。在随后的冲突中，这名30多岁的非裔男性嫌犯被警察开枪击中，随后被紧急送往布鲁克林的纽约大学朗格尼医院（NYU Langone in Brooklyn），但终因伤势过重，于当晚8点被宣告死亡。",
+  "目前，这起枪击案和潜在的绑架事件仍在进一步调查当中，警方尚未公布更多细节。"
+ ],
+ "tags": [
+  "纽约新闻",
+  "警察枪击",
+  "治安",
+  "突发新闻"
+ ],
+ "original_title": "NYPD fatally shoots suspect in potential kidnapping after chaotic failed traffic stop on NYC highway: sources",
+ "lang": "en",
+ "published": "2026-11-15T01:57:36+00:00",
+ "created": "2026-11-15T02:40:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

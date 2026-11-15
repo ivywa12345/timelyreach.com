@@ -1,0 +1,27 @@
+{
+ "key": "bbbfe2e003",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/jensen-huang-is-a-white-house-scandal-9c2136a1?mod=rss_opinion",
+ "title": "黄仁勋卷入白宫丑闻？华尔街日报灵魂发问",
+ "summary": "知名专栏作家Peggy Noonan在《华尔街日报》撰文，质疑美国当选总统特朗普对英伟达CEO黄仁勋与被指控的中国间谍之间的关系知情多少以及何时知情。",
+ "body": [
+  "近日，《华尔街日报》（The Wall Street Journal）知名专栏作家Peggy Noonan发表了一篇引人关注的评论文章，把矛头指向了人工智能芯片巨头英伟达（Nvidia）的掌门人黄仁勋（Jensen Huang）。",
+  "在这篇题有“Jensen Huang Is a White House Scandal”的文章中，作者抛出了一个颇具历史既视感的犀利问题：特朗普（Donald Trump）究竟对这位科技大佬与一名被指控的中国间谍之间的交往了解多少？这些交往又是何时进入白宫视线的？",
+  "截至目前，这起事件仍在持续发酵中，各方对于其中涉及的具体细节和潜在影响正在密切关注，这场风波未来是否会波及更广泛的科技圈和中美关系走向，还有待进一步观察。"
+ ],
+ "tags": [
+  "黄仁勋",
+  "英伟达",
+  "特朗普",
+  "华尔街日报",
+  "白宫丑闻"
+ ],
+ "original_title": "Jensen Huang Is a White House Scandal",
+ "lang": "en",
+ "published": "2026-11-12T22:43:00+00:00",
+ "created": "2026-11-15T02:40:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

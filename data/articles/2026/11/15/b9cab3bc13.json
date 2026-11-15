@@ -1,0 +1,31 @@
+{
+ "key": "b9cab3bc13",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/14/us-news/tanker-that-slammed-into-docked-nola-riverboat-had-history-of-navigational-systems-issues-report/",
+ "title": "撞上新奥尔良游轮的油轮，竟是个“问题惯犯”？",
+ "summary": "上周五在新奥尔良撞击停泊游轮并导致数十人受伤的“大西洋沥青”号（Atlantic Asphalt）油轮，被曝此前曾多次因导航系统故障和救生设备问题遭到美国海岸警卫队及国际监管机构的通报。",
+ "body": [
+  "上周五，一艘重达1.5万吨的沥青油轮在密西西比河上失控，狠狠撞上了一艘停靠的观光游轮，导致数十人受伤住院、乘客被迫跳水求生。",
+  "## 劣迹斑斑的“问题船只”",
+  "根据媒体报道，“大西洋沥青”（Atlantic Asphalt）号油轮此前早已被美国海岸警卫队、加拿大以及欧洲官员多次开出罚单和通报。其问题花样百出，主要包括：\n- 导航系统及自动驾驶仪故障\n- 驾驶台与主发动机之间通讯中断\n- 泵舱电线存在缺陷\n- 救生艇在紧急情况下无法正常快速部署",
+  "海事法律律师卡拉·米勒（Cara Miller）指出，这艘船“年纪轻轻”却暴露出如此多的维护缺陷，实在非常扎眼。",
+  "## 撞击瞬间惊险万分",
+  "事发时，被撞的美国游轮“美国遗产”号（American Heritage）上载有近200人。这艘1.5万吨的庞然大物在撞击后，导致游轮一侧部分浸水，现场画面显示乘客们惊恐地抓着船舷求生，甚至有人被迫穿救生衣漂在河面上。",
+  "事故共造成 **32人** 被送往医院，所幸截至目前没有生命危险，但仍有 **8人** 留在医院接受治疗。目前，新奥尔良港务局已经正式起诉了该油轮在利比里亚的船东以及总部位于新加坡的管理公司。对于常去新奥尔良旅游或搭乘内河游轮的华人朋友来说，选择信誉良好、安全记录过硬的邮轮公司显得尤为重要。"
+ ],
+ "tags": [
+  "新奥尔良",
+  "游轮事故",
+  "油轮碰撞",
+  "美国新闻",
+  "突发事件"
+ ],
+ "original_title": "Tanker that struck New Orleans cruise ship had history of navigational systems issues: report",
+ "lang": "en",
+ "published": "2026-11-15T01:02:12+00:00",
+ "created": "2026-11-15T02:42:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

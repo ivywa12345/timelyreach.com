@@ -1,0 +1,28 @@
+{
+ "key": "dc624a1501",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/new-ai-millionaires-want-wealth-advisers-who-can-help-give-their-money-away-7d586775?mod=rss_markets_main",
+ "title": "AI造富太快！新晋富豪急着找人把钱“捐”出去",
+ "summary": "华尔街日报报道，随着AI浪潮带来大批新晋百万富翁，这些人开始寻找财富顾问，希望能帮他们把钱捐出去。这种慈善冲动源于公司注重使命的企业文化，以及对AI潜在负面影响的内疚感。",
+ "body": [
+  "最近靠着人工智能（AI）暴富的新贵们，正在面临一个「幸福的烦恼」——钱来得太快，他们开始急着找财富顾问帮忙把钱捐出去了。",
+  "根据《华尔街日报》报道，这股慈善热潮背后主要有两个原因：",
+  "- 科技公司普遍带有强烈的使命感企业文化\n- 部分从业者对AI技术可能带来的潜在负面影响感到内疚",
+  "对于在海外打拼的华人来说，无论是身处科技行业还是关注行业趋势，AI不仅改变了我们的工作方式，也正在重塑新一代富裕阶层的金钱观和价值观。如何平衡财富积累与社会责任，已经成了这些新晋百万富翁的重要课题。"
+ ],
+ "tags": [
+  "人工智能",
+  "AI富豪",
+  "慈善捐款",
+  "财富管理",
+  "海外华人"
+ ],
+ "original_title": "New AI Millionaires Want Wealth Advisers Who Can Help Give Their Money Away",
+ "lang": "en",
+ "published": "2026-11-15T01:00:00+00:00",
+ "created": "2026-11-15T02:39:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

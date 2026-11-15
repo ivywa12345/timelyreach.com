@@ -1,0 +1,25 @@
+{
+ "key": "32d59183ff",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/mike-pences-act-of-courage-0a9450ed?mod=rss_opinion",
+ "title": "永远别忘了他！华尔街日报发文回顾彭斯当年的勇敢举动",
+ "summary": "华尔街日报发表评论，呼吁人们永远不要忘记前副总统迈克·彭斯在2021年1月6日国会山骚乱事件中所表现出的勇敢。",
+ "body": [
+  "近日，《华尔街日报》发表了一篇题为《迈克·彭斯的勇敢行动》（Mike Pence's Act of Courage）的评论文章，再次将人们的视线拉回了几年前的那场政治风暴。",
+  "文章指出，在2021年1月6日国会山骚乱这一美国现代政治史上的关键节点上，时任副总统的迈克·彭斯（Mike Pence）展现出了令人钦佩的勇气，这种坚守宪法程序的核心精神值得所有美国人永远铭记。"
+ ],
+ "tags": [
+  "迈克·彭斯",
+  "美国政治",
+  "华尔街日报",
+  "国会山骚乱"
+ ],
+ "original_title": "Mike Pence’s Act of Courage",
+ "lang": "en",
+ "published": "2026-11-13T16:04:00+00:00",
+ "created": "2026-11-15T02:39:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
