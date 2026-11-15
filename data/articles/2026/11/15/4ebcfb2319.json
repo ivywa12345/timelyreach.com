@@ -1,0 +1,23 @@
+{
+ "key": "4ebcfb2319",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2121837121858306062",
+ "title": "东南亚数据中心被指为中企提供算力并掩护芯片走私",
+ "summary": "据《华尔街日报》报道，东南亚的大型数据中心为中国企业提供了关键算力，并为被指控的芯片走私提供了掩护。",
+ "body": [
+  "突发：据《华尔街日报》报道，东南亚的大型数据中心为中国企业提供了关键算力，并为被指控的芯片走私提供了掩护。"
+ ],
+ "tags": [
+  "芯片走私",
+  "英伟达",
+  "东南亚"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-15T05:26:06+00:00",
+ "created": "2026-11-15T14:27:42+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
