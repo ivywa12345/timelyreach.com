@@ -1,0 +1,26 @@
+{
+ "key": "d7df7fb6cd",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-fresh-attacks-renew-middle-east-supply-concerns-bee22d97?mod=rss_markets_main",
+ "title": "油价这回坐了“过山车”！供应过剩压倒中东局势？",
+ "summary": "周一国际油价在盘初上涨后回落，主要因为交易员在权衡全球供应过剩的迹象与中东石油运输面临的新威胁。",
+ "body": [
+  "周一国际油价上演了一出“大反转”。市场原本担忧中东局势会威胁石油运输，推动油价在盘初录得上涨，但随着全球供应过剩的迹象逐渐显现，油价很快吐回了早盘的涨幅并转为下跌。",
+  "近期国际能源市场可谓消息不断。一方面，中东地区局势依然紧张，石油运输面临的潜在威胁时刻牵动着市场的神经；另一方面，交易员们重新将注意力放回了基本面，开始认真审视全球市场是否存在供应过剩的问题。这种多空交织的情绪让油价走势变得相当纠结。",
+  "对于在海外生活的华人来说，国际油价的波动直接关系到大家日常出行的油钱包。如果供应过剩的预期能够持续压制油价，近期去加油站加油或许能稍微松一口气，但中东局势的不确定性也意味着油价随时可能再次反弹。"
+ ],
+ "tags": [
+  "国际油价",
+  "能源市场",
+  "中东局势",
+  "海外生活"
+ ],
+ "original_title": "Oil Prices Reverse Initial Gains as Supply Concerns Weigh",
+ "lang": "en",
+ "published": "2026-11-16T09:59:00+00:00",
+ "created": "2026-11-16T11:19:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

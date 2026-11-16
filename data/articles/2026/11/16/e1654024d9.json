@@ -1,0 +1,25 @@
+{
+ "key": "e1654024d9",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/big-tech-needs-to-spread-its-bets-on-data-centers-7550357f?mod=rss_Technology",
+ "title": "大厂AI数据中心押错宝？中期选举后面临洗牌",
+ "summary": "华尔街日报分析指出，过度押注少数几个超级AI数据中心项目的科技巨头，在中期选举后面临着不小的脆弱性与调整压力。",
+ "body": [
+  "人工智能领域的巨头们如果把宝全押在少数几个超级项目上，在中期选举结束后，可能会发现自己处境被动，面临更大的不确定性。这提醒各大科技公司，未来的AI基建投资需要更加分散风险。",
+  "对于关注科技股走势或身处相关行业的海外华人来说，大厂数据中心战略的调整可能会直接影响到云计算供应链、相关岗位的招聘以及科技板块的整体走势，值得持续关注。"
+ ],
+ "tags": [
+  "人工智能",
+  "科技巨头",
+  "数据中心",
+  "美股投资"
+ ],
+ "original_title": "Big Tech Needs to Spread Its Bets on Data Centers",
+ "lang": "en",
+ "published": "2026-11-16T10:30:00+00:00",
+ "created": "2026-11-16T11:17:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

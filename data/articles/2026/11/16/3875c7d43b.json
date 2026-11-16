@@ -1,0 +1,25 @@
+{
+ "key": "3875c7d43b",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/deals/unicredits-commerzbank-bid-gets-eu-approval-44a821a6?mod=rss_worldnews",
+ "title": "意大利银行想吞德国同行，欧盟直接点头放行了！",
+ "summary": "欧盟反垄断监管机构正式批准了意大利裕信银行对德国商业银行的控股收购计划。",
+ "body": [
+  "近日，欧盟的并购监管机构正式亮起绿灯，批准了意大利裕信银行（UniCredit）对德国商业银行（Commerzbank）的收购控股计划。",
+  "这次欧盟开绿灯，意味着这桩备受瞩目的欧洲跨境银行并购案扫清了一个关键的监管障碍。接下来，两家银行的整合动作可能会进一步加快，这也引发了欧洲金融界对跨境银行重组的高度关注。"
+ ],
+ "tags": [
+  "欧洲金融",
+  "银行并购",
+  "欧盟监管",
+  "海外财经"
+ ],
+ "original_title": "UniCredit’s Commerzbank Bid Gets EU Approval",
+ "lang": "en",
+ "published": "2026-11-16T10:57:00+00:00",
+ "created": "2026-11-16T11:15:51+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

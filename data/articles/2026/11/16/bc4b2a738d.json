@@ -1,0 +1,27 @@
+{
+ "key": "bc4b2a738d",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/nvidia-shows-the-limits-of-corporate-boards-761741a6?mod=rss_opinion",
+ "title": "英伟达亮红灯，暴露出大公司董事会的致命盲区？",
+ "summary": "华尔街日报评论指出，英伟达等科技巨头的董事会暴露出缺乏政治风险应对经验的问题，尤其是在处理像中国这样敌对政权的相关事务时显得力不从心。",
+ "body": [
+  "最近的一篇华尔街日报评论指出，像英伟达（Nvidia）这样的科技巨头，其董事会在面对复杂的国际政治风险时，往往显得经验不足、力不从心。",
+  "作者玛丽·基塞尔（Mary Kissel）在文章中直言，很少有企业董事会成员具备处理政治风险的实际经验，特别是当这些风险涉及像中国这样复杂的敌对政权时，传统商业管理那一套经常不够用了。",
+  "对于身处海外的华人来说，大企业在夹缝中的战略调整不仅关乎科技股的走势，更可能直接影响到高科技行业的就业机会、供应链稳定，以及中美科技战对海外华人职业发展带来的长远影响。"
+ ],
+ "tags": [
+  "英伟达",
+  "董事会",
+  "政治风险",
+  "中美关系",
+  "华尔街日报"
+ ],
+ "original_title": "Nvidia Shows The Limits Of Corporate Boards",
+ "lang": "en",
+ "published": "2026-11-15T19:40:00+00:00",
+ "created": "2026-11-16T11:16:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

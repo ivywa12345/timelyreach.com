@@ -1,0 +1,27 @@
+{
+ "key": "a6991c18bc",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/emerging-market-stocks-currencies-ai-concerns",
+ "title": "英伟达财报前夕大跌！新兴市场股市惨遭连累",
+ "summary": "在英伟达发布财报前夕，科技股遭遇抛售，拖累新兴市场股票创下一周多以来的最大跌幅，全球人工智能板块受到震动。",
+ "body": [
+  "各位海外网友注意啦！在芯片巨头英伟达（Nvidia Corp.）公布最新财报前，全球科技股突然迎来一波猛烈抛售，这也直接导致新兴市场股市创下一周多以来的最大跌幅，人工智能（AI）板块正在经历不小的震荡。",
+  "根据彭博社的报道，由于英伟达自身股价近期出现回落，引发了连锁反应，让全球投资者对AI相关概念股的热情瞬间冷却，资金纷纷从新兴市场的相关股票中撤离，市场避险情绪明显升温。",
+  "对于咱们海外华人来说，如果平时有关心美股、科技股或者买了相关基金和退休账户，最近几天这类板块的波动可能会比较大。建议大家多盯着点市场风向，看稳了再出手，千万别盲目跟风追高。"
+ ],
+ "tags": [
+  "英伟达",
+  "美股",
+  "新兴市场",
+  "人工智能",
+  "科技股"
+ ],
+ "original_title": "Emerging Stocks Extend Slide as Tech Drops Before Nvidia Results",
+ "lang": "en",
+ "published": "2026-11-16T06:14:58+00:00",
+ "created": "2026-11-16T11:18:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

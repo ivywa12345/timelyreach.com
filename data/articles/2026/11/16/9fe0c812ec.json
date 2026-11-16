@@ -1,0 +1,28 @@
+{
+ "key": "9fe0c812ec",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026?mod=rss_markets_main",
+ "title": "本周大戏开场！科技股承压，英伟达财报和Anthropic上市成关键考验",
+ "summary": "本周美股开局不利，科技股普遍承压。市场正迎来至关重要的一周，重头戏包括英伟达将发布财报，以及人工智能初创公司Anthropic的巨额IPO计划，这将对当前的市场情绪进行重大检验。",
+ "body": [
+  "美股在本周一开始就感受到了压力，科技板块表现低迷。由于本周正值人工智能（AI）发展的关键时期，市场上的投资者神经紧绷，正密切关注即将出炉的重磅消息。",
+  "## 决战关键时刻",
+  "芯片巨头英伟达（Nvidia）即将在这次关键的一周中公布最新财报。与此同时，人工智能初创公司Anthropic也传出了计划进行巨额IPO（首次公开募股）的消息，这一举动将对目前的资本市场进行全面测试。",
+  "虽然人工智能概念一直是今年美股的强心针，但近期高估值的压力和科技股的波动让不少投资者捏了一把汗。英伟达的业绩表现和AI领域的最新资本动作，将直接决定接下来科技股是继续狂飙还是迎来回调。"
+ ],
+ "tags": [
+  "美股",
+  "科技股",
+  "英伟达",
+  "人工智能",
+  "华尔街"
+ ],
+ "original_title": "Stock Market Today: Tech Stocks Under Pressure at Start of Crucial Week for AI",
+ "lang": "en",
+ "published": "2026-11-16T10:00:37+00:00",
+ "created": "2026-11-16T11:15:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

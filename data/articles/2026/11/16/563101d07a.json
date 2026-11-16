@@ -1,0 +1,25 @@
+{
+ "key": "563101d07a",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/economy/eurozone-industrial-production-picked-up-in-september-40e4d56a?mod=rss_worldnews",
+ "title": "欧洲工业9月终于喘了口气，能源成本还是个大麻烦",
+ "summary": "欧元区9月工业产出实现反弹，为苦苦挣扎的工业板块带来了一丝喘息之机，但高昂的能源成本依然是最大隐患。",
+ "body": [
+  "根据《华尔街日报》（The Wall Street Journal）报道，在经历了长时间的低迷之后，欧元区工业产出在9月出现回暖，给这个一直步履维艰的行业带来了一点好消息。",
+  "不过，分析指出，虽然9月的数据有所反弹，但由于伊朗战争等因素持续推高能源价格，欧洲工业要真正恢复持续的增长动能，依然面临着不小的挑战。高昂的能源成本让欧洲制造业在国际竞争中感到压力山大。"
+ ],
+ "tags": [
+  "欧元区经济",
+  "工业产出",
+  "能源成本",
+  "海外财经"
+ ],
+ "original_title": "Eurozone Industrial Production Picked Up in September",
+ "lang": "en",
+ "published": "2026-11-16T10:43:00+00:00",
+ "created": "2026-11-16T11:17:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

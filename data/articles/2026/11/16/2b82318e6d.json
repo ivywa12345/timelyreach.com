@@ -1,0 +1,29 @@
+{
+ "key": "2b82318e6d",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-16/china-s-xi-jinping-sees-an-opening-with-trump-putin-hobbled",
+ "title": "特朗普重返白宫，普京被拖累？习近平正迎来外交新契机",
+ "summary": "彭博社分析指出，随着俄罗斯因乌克兰战争受困且中国承担了俄国近半数进口，中国国家主席习近平在面对特朗普时正迎来新的外交机会。",
+ "body": [
+  "中国现在正承担着俄罗斯大约一半的进口商品，这一比例几乎是俄乌冲突爆发前的两倍。",
+  "## 俄罗斯经济高度依赖中国",
+  "根据彭博社（Bloomberg）的报道，在中俄双边经贸关系紧密的背景下，中国目前已占据俄罗斯进口总额的约**50%**，而这一数字在乌克兰战争爆发前仅有一半左右。",
+  "## 复杂的国际博弈",
+  "在俄罗斯因战争而深陷泥潭、经济受制于人的同时，随着唐纳德·特朗普（Donald Trump）即将再次执政，中国国家主席习近平（Xi Jinping）在处理大国关系时似乎看到了新的战略空间和机遇。"
+ ],
+ "tags": [
+  "习近平",
+  "特朗普",
+  "普京",
+  "中美关系",
+  "中俄贸易"
+ ],
+ "original_title": "China’s Xi Jinping sees an Opening With Trump, Putin Hobbled",
+ "lang": "en",
+ "published": "2026-11-16T10:59:16+00:00",
+ "created": "2026-11-16T11:17:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

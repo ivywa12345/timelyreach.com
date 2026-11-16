@@ -1,0 +1,26 @@
+{
+ "key": "51bd649f18",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-16/anthropic-holds-the-key-to-the-future-of-the-ai-trade",
+ "title": "AI界大热的Anthropic上市在即，这事到底跟你我有什么关系？",
+ "summary": "AI独角兽公司Anthropic预计将在周三定价、周四正式开启交易，其市场表现将成为未来AI投资风向标。",
+ "body": [
+  "据彭博社报道，备受瞩目的AI初创公司Anthropic即将迎来关键节点，其首次公开募股（IPO）预计于周三完成定价，并紧接着在周四正式挂牌交易。",
+  "作为当前人工智能浪潮中的头部玩家，Anthropic的一举一动都牵动着资本市场的神经。这次上市不仅是该公司发展史上的里程碑，也被业内视为检验整个AI板块热度是否可持续的关键风向标。",
+  "对于关注科技股和AI发展的海外华人来说，这类科技巨头的资本动作往往会直接影响到科技板块的整体走势，甚至波及相关的就业机会和投资组合。我们不妨拭目以待周四市场的实际表现。"
+ ],
+ "tags": [
+  "Anthropic",
+  "IPO",
+  "AI投资",
+  "科技股"
+ ],
+ "original_title": "Anthropic Holds the Key to the Future of the AI Trade",
+ "lang": "en",
+ "published": "2026-11-16T10:37:40+00:00",
+ "created": "2026-11-16T11:19:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

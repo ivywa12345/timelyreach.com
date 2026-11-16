@@ -1,0 +1,26 @@
+{
+ "key": "adc208e7f3",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/doctors-have-a-new-assistant-4c17d75d?mod=rss_opinion",
+ "title": "医生们的新搭档！AI看病真的靠谱吗？",
+ "summary": "OpenEvidence这款AI平台正在成为医生的得力助手，不仅能辅助诊断，还在实际应用中展现出拯救生命潜力。",
+ "body": [
+  "最近，一款名为 OpenEvidence 的人工智能平台在医疗界火了，它正在成为医生们看病问诊的得力助手，甚至在关键时刻帮着拯救生命。",
+  "作为一款专为医疗场景打造的AI工具，它能快速帮医生梳理复杂的医学信息，提供精准的参考建议，大大减轻了医护人员的工作压力。",
+  "对于在美华人来说，医疗资源紧张和看病沟通难一直是痛点。这类AI技术的普及，未来或许能帮我们在就医时获得更准确的第二诊疗意见，减少误诊风险，让看病变得更高效。"
+ ],
+ "tags": [
+  "AI医疗",
+  "OpenEvidence",
+  "海外生活",
+  "健康资讯"
+ ],
+ "original_title": "Doctors Have a New Assistant",
+ "lang": "en",
+ "published": "2026-11-15T19:39:00+00:00",
+ "created": "2026-11-16T11:17:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

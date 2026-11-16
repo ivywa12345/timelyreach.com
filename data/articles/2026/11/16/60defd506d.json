@@ -1,0 +1,27 @@
+{
+ "key": "60defd506d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/denmark-s-leo-pharma-delays-ipo-plans-beyond-2026-ceo-says",
+ "title": "上市计划又双叒延期了！这家知名药企决定2026年之后再看",
+ "summary": "丹麦制药巨头 Leo Pharma 宣布将首次公开募股（IPO）计划推迟至2026年以后，这意味着其原本定于今年上市的目标正式泡汤。",
+ "body": [
+  "据彭博社报道，丹麦知名制药公司 Leo Pharma A/S 的首席执行官近日表示，公司决定将首次公开募股（IPO）的计划**推迟到2026年之后**，彻底放弃了此前定于今年上市的目标。",
+  "## 资本之路一波三折",
+  "作为一家历史悠久的欧洲药企，Leo Pharma 过去曾将上市提上日程，希望通过资本市场获得更多资金支持。但面对当前复杂多变的市场环境，管理层最终选择踩下刹车，把上市时间表往后延了至少两年以上。",
+  "目前，该公司尚未透露2026年之后具体的重启上市时间表。对于关注医药板块和资本市场动向的海外投资者来说，这意味着短期内无法在公开市场上买入这家公司的股票了。"
+ ],
+ "tags": [
+  "Leo Pharma",
+  "IPO延期",
+  "海外财经",
+  "医药股"
+ ],
+ "original_title": "Denmark’s Leo Pharma Delays IPO Plans Beyond 2026, CEO Says",
+ "lang": "en",
+ "published": "2026-11-16T09:59:04+00:00",
+ "created": "2026-11-16T11:17:51+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

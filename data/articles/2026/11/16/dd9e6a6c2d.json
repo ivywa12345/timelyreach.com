@@ -1,0 +1,26 @@
+{
+ "key": "dd9e6a6c2d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/india-regulator-seeks-review-of-top-court-s-yes-bank-bond-ruling",
+ "title": "印度央行急了！要求最高法院重新审理核心债券裁决",
+ "summary": "印度储备银行（RBI）已向最高法院申请，要求重新审理关于Yes Bank公司风险债券核销被撤销的裁决，此举可能对未来银行纾困产生深远影响。",
+ "body": [
+  "印度中央银行近日有了大动作，已正式要求最高法院重新审理一项关键裁决。此前，最高法院推翻了印度私营银行Yes Bank Ltd.风险较高债券的核销决定，这一判决不仅可能对该银行的盈利能力造成压力，还可能成为未来印度银行拯救行动的重要先例。",
+  "事件的核心在于Yes Bank Ltd.此前的一笔高风险债券处理结果被法院推翻。印度储备银行显然对这一判决结果感到担忧，认为这会直接影响到未来金融机构在面对危机时的处置手段和市场预期。",
+  "对金融市场而言，这类债券的核销规则关系到整个银行业的风险分担机制。如果最高法院最终维持原判，不仅Yes Bank Ltd.的盈利前景会蒙上阴影，其他银行在处理类似高风险金融资产时也会变得更加棘手。"
+ ],
+ "tags": [
+  "印度财经",
+  "银行债券",
+  "最高法院",
+  "金融监管"
+ ],
+ "original_title": "India Regulator Seeks Review of Top Court’s Yes Bank Bond Ruling",
+ "lang": "en",
+ "published": "2026-11-16T11:07:34+00:00",
+ "created": "2026-11-16T11:16:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
