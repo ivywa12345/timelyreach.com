@@ -1,0 +1,25 @@
+{
+ "key": "9b003c5019",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/china/nvidia-scandal-threatens-chinas-charm-offensive-ahead-of-trump-summit-9fa887fe?mod=rss_worldnews",
+ "title": "突发！英伟达“间谍风波”会毁了中美峰会吗？",
+ "summary": "英伟达卷入间谍风波，正值中美领导人及普京会晤前夕，给双方关系带来变数。",
+ "body": [
+  "近日，一场围绕芯片巨头英伟达（Nvidia）的间谍风波突然爆发，让中美两国的紧张关系再次升温，而这个敏感时机正值各方准备迎接一场关键的国际峰会。",
+  "这起事件不仅涉及科技安全，也给中国近期对华盛顿展开的一系列旨在缓和关系的“魅力攻势”蒙上了阴影。目前，相关事件的发酵正吸引着全球政商界的目光，外界也在密切关注它是否会波及即将举行的领导人会晤。"
+ ],
+ "tags": [
+  "英伟达",
+  "中美关系",
+  "科技战",
+  "国际政治"
+ ],
+ "original_title": "Nvidia Scandal Threatens China’s Charm Offensive Ahead of Trump Summit",
+ "lang": "en",
+ "published": "2026-11-16T17:43:00+00:00",
+ "created": "2026-11-16T20:45:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

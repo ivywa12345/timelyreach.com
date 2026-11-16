@@ -1,0 +1,29 @@
+{
+ "key": "2f955c41e3",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/california-ag-accuses-openai-of-misleading-and-endangering-the-public-8e5c60d0?mod=rss_Technology",
+ "title": "OpenAI摊上大事了！加州总检察长指控其误导并危害公众",
+ "summary": "加州总检察长对OpenAI提起诉讼，指控该公司在开发AI模型时明知缺乏必要的安全保障，却依然推出并误导了公众。",
+ "body": [
+  "近日，OpenAI迎来了法律上的大麻烦。加州总检察长正式对这家人工智能巨头提起诉讼，指控其在开发AI模型时明知缺乏必要的安全保障，却仍然将其推向市场，不仅误导了大众，还对公众安全构成了潜在威胁。",
+  "## 加州重拳出击",
+  "根据《华尔街日报》报道，这起诉讼的核心指控直指OpenAI的产品开发流程。检方认为，该公司在追求技术突破和商业利益的过程中，忽视了对用户的安全保护，甚至在推广产品时存在误导行为。",
+  "## 敲响安全警钟",
+  "近年来AI技术发展迅猛，但随之而来的虚假信息、版权争议和安全隐患也越来越多。此次加州官方的法律诉讼，无疑给整个AI行业敲响了警钟，也让外界更加关注大模型背后的合规与监管问题。"
+ ],
+ "tags": [
+  "OpenAI",
+  "人工智能",
+  "加州",
+  "法律诉讼",
+  "科技新闻"
+ ],
+ "original_title": "California AG Accuses OpenAI of Misleading and Endangering the Public",
+ "lang": "en",
+ "published": "2026-11-16T20:19:00+00:00",
+ "created": "2026-11-16T20:46:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

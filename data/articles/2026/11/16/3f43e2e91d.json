@@ -1,0 +1,26 @@
+{
+ "key": "3f43e2e91d",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/replace-dont-repair-the-air-traffic-control-system-b25c6d8d?mod=rss_opinion",
+ "title": "美国空管系统太老旧？政要大咖疾呼：别修了，直接推倒重来！",
+ "summary": "前众议院议长纽特·金里奇在《华尔街日报》撰文指出，美国现行的空中交通管制系统已经严重落后，小修小补无法解决根本问题，国会应当允许用一年的时间从头设计并打造一套全新的现代化系统。",
+ "body": [
+  "美国空管系统又双叒叕出问题了？最近，曾任美国众议院议长的纽特·金里奇（Newt Gingrich）在《华尔街日报》（The Wall Street Journal）上发表文章，直言不讳地指出美国的空中交通管制系统已经病入膏肓，与其花心思修修补补，不如彻底推倒重来。",
+  "在这篇名为《替换，而不是修理空中交通管制系统》（Replace, Don’t Repair, the Air-Traffic Control System）的文章中，金里奇向国会提出了一个极其激进的建议：立法允许相关部门**从零开始**，用短短一年的时间设计出一套代表全球最高水平的现代化空管系统。",
+  "长期以来，美国航空系统频频遭遇技术故障和延误，给无数出行旅客带来极大的不便。对于经常需要中美两地飞、或者在美国境内出差探亲的海外华人来说，航班大面积延误不仅打乱行程，还劳民伤财。如果这次大刀阔斧的改革能够落地，未来或许能让大家的空中出行变得更加准时和顺畅。"
+ ],
+ "tags": [
+  "美国空管",
+  "航空出行",
+  "华尔街日报",
+  "基建改革"
+ ],
+ "original_title": "Replace, Don’t Repair, the Air-Traffic Control System",
+ "lang": "en",
+ "published": "2026-11-16T20:29:00+00:00",
+ "created": "2026-11-16T20:42:32+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

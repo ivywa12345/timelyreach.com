@@ -1,0 +1,26 @@
+{
+ "key": "47e3ab5ac5",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/finance-and-economics/2026/11/16/america-does-not-produce-world-beating-statistics-who-does",
+ "title": "全球经济数据哪家强？英国权威杂志带你来看看！",
+ "summary": "《经济学人》评选全球经济数据表现，探讨哪些国家的统计数据最靠谱，哪些国家的经济数据让人大跌眼镜。",
+ "body": [
+  "说到经济数据，你以为美国样样第一？其实还真不一定。《经济学人》（The Economist）最近就专门对全球各国的经济统计数据进行了一番大搜查，试图找出世界上最准和最不靠谱的经济数据分别出自哪里。",
+  "长期以来，外界对各国的GDP、通胀率等核心经济指标的准确性一直存在讨论。不同国家的统计方法、数据更新速度以及透明度参差不齐，这也直接影响了政策制定者和投资者对经济形势的判断。",
+  "对于咱们海外华人来说，无论是做投资、看就业市场，还是评估回国发展或海外资产配置，准确的经济数据都是重要的参考风向标。如果连官方统计数据都“水份”太大或者滞后，难免会让人在做财务决策时心里没底。"
+ ],
+ "tags": [
+  "经济数据",
+  "经济学人",
+  "全球经济",
+  "海外生活"
+ ],
+ "original_title": "America does not produce world-beating statistics. Who does?",
+ "lang": "en",
+ "published": "2026-11-16T18:28:18+00:00",
+ "created": "2026-11-16T20:42:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

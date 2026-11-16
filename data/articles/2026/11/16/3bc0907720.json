@@ -1,0 +1,26 @@
+{
+ "key": "3bc0907720",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/goldman-forecasts-gold-to-take-two-years-to-recapture-all-time-highs",
+ "title": "金价狂飙后要歇两年？高盛：冲回巅峰还得等",
+ "summary": "高盛预测，黄金在创下历史新高后，可能需要长达两年的时间才能再次打破这一纪录。",
+ "body": [
+  "黄金之前只用了一个月的时间就猛涨超过30%并刷新了历史记录，不过根据高盛集团（Goldman Sachs）的最新预测，要想再次突破这个巅峰，这种贵金属可能还得再等上两年时间。",
+  "回顾最近的行情，金价在短时间内完成了惊人的三成涨幅，引发了市场的高度关注。然而，这种爆发式的涨势往往伴随着回调和盘整。高盛分析指出，虽然黄金的基本面依然受到关注，但要消化之前的巨大涨幅并蓄力冲击新高，市场需要更长的时间来修复。",
+  "对于关注资产配置和保值的海外华人来说，金价的短期震荡意味着盲目追高的风险正在增加。在通胀和降息预期不断变化的背景下，黄金作为避险资产的长线价值虽然仍在，但在未来两年内可能更偏向于震荡整理，投资者在做定投或买入决策时需要做好长线持有的心理准备。"
+ ],
+ "tags": [
+  "黄金",
+  "高盛",
+  "投资理财",
+  "贵金属"
+ ],
+ "original_title": "Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs",
+ "lang": "en",
+ "published": "2026-11-16T20:15:45+00:00",
+ "created": "2026-11-16T20:46:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

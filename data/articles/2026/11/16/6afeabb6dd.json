@@ -1,0 +1,26 @@
+{
+ "key": "6afeabb6dd",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/uruguay-central-bank-holds-key-rate-at-6-says-policy-expansive",
+ "title": "乌拉圭央行宣布：基准利率继续维持在6%不变！",
+ "summary": "乌拉圭中央银行周一宣布，将基准利率维持在6%不变，并表示将继续保持宽松的货币政策，以确保通胀率和通胀预期保持在目标水平附近。",
+ "body": [
+  "乌拉圭中央银行在周一（当地时间）做出最新决定，宣布将基准利率维持在 **6%** 不变。",
+  "央行在声明中指出，此次决定维持宽松的货币政策立场，主要是为了让通胀以及未来的通胀预期继续稳定在目标区间附近。",
+  "这次利率决议属于例行货币政策调整，对在美华人的直接生活和资产配置没有实质性影响。"
+ ],
+ "tags": [
+  "乌拉圭央行",
+  "利率决议",
+  "全球财经",
+  "货币政策"
+ ],
+ "original_title": "Uruguay Central Bank Keeps Interest Rate at 6%, Maintains Expansive Policy",
+ "lang": "en",
+ "published": "2026-11-16T20:36:58+00:00",
+ "created": "2026-11-16T20:43:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

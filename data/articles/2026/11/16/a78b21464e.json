@@ -1,0 +1,29 @@
+{
+ "key": "a78b21464e",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips",
+ "title": "美国出手！拟堵住中国远程租用英伟达AI芯片漏洞",
+ "summary": "美国特朗普政府正采取行动，限制多国为中国企业提供远程访问先进人工智能芯片和服务器的权限，以应对半导体出口管制的漏洞。",
+ "body": [
+  "美国政府最近又有新动作啦！据彭博社报道，为了堵住半导体出口管制的漏洞，特朗普（Trump）政府正准备出台新规，限制多个国家向中国企业提供远程访问先进人工智能（AI）芯片和服务器的权限。",
+  "## 剑指海外云服务漏洞",
+  "这次政策收紧的背景，源于近期社会各界对芯片出口管制执行情况的强烈关注。此前，市场上曾传出涉及芯片巨头英伟达公司（Nvidia Corp.）的所谓间谍活动丑闻，让美国监管机构觉得有必要进一步打上补丁，防止中国企业通过海外第三方云服务“曲线”使用顶级的AI算力。",
+  "## 华人科技从业者需关注",
+  "对于身处海外的华人科技从业者和AI领域的创业者来说，这项政策如果最终落地，可能会对跨国云服务租用、算力供应链以及相关技术合作产生直接影响。大家在处理跨境AI业务和技术合规时，需要密切关注后续的政策细节，以免踩到合规红线。"
+ ],
+ "tags": [
+  "美国芯片禁令",
+  "英伟达",
+  "人工智能",
+  "中美科技战",
+  "海外华人"
+ ],
+ "original_title": "US Moves to Curb China’s Remote Access to Nvidia’s AI Chips",
+ "lang": "en",
+ "published": "2026-11-16T13:33:27+00:00",
+ "created": "2026-11-16T20:47:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

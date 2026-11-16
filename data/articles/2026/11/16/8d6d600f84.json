@@ -1,0 +1,25 @@
+{
+ "key": "8d6d600f84",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-decline-but-fed-rate-hike-prospects-in-focus-1257629b?mod=rss_markets_main",
+ "title": "美债收益率掉头向下，上周涨幅回吐",
+ "summary": "美国国债收益率近期出现下跌，部分回吐了此前因通胀数据和美联储鹰派言论而录得的涨幅。",
+ "body": [
+  "美国国债收益率近日出现回落，把上周因为通胀数据出炉和美联储（Federal Reserve）官员偏向鹰派的言论而推高的部分涨幅给吐了回去。",
+  "此前，市场曾受到通胀相关消息的冲击，导致国债收益率走高。不过最新的市场动向显示，这一波升势暂时得到了缓和，收益率开始调头向下。"
+ ],
+ "tags": [
+  "美债收益率",
+  "美联储",
+  "通胀",
+  "财经快讯"
+ ],
+ "original_title": "Treasury Yields Fall, German Bunds’ Tick Higher",
+ "lang": "en",
+ "published": "2026-11-16T20:16:00+00:00",
+ "created": "2026-11-16T20:51:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

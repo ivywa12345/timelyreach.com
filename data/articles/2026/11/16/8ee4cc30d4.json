@@ -1,0 +1,27 @@
+{
+ "key": "8ee4cc30d4",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/politics/trump-says-he-might-meet-with-north-koreas-kim-during-asia-trip-1634f7f0?mod=rss_worldnews",
+ "title": "特朗普松口：去亚洲时可能会跟金正恩见个面？",
+ "summary": "特朗普表示，他可能会在未来的亚洲之行中与朝鲜领导人金正恩会面。两人在特朗普的第一任期内曾有过多次历史性会晤。",
+ "body": [
+  "美国前总统特朗普近日暗示，如果未来再次开启亚洲之行，他可能会考虑与朝鲜领导人金正恩（Kim Jong Un）进行会面。这番话立刻引发了外界对朝美关系走向的各种猜测。",
+  "## 回顾历史性会晤",
+  "回顾特朗普的第一任期，美朝领导人的互动可以说是赚足了全球眼球。两人曾先后在新加坡举行了历史性的首次峰会，随后又在一年后直接跨过军事分界线，短暂踏上了朝鲜国土。",
+  "对于这次可能成行的会面，目前双方还没有公布具体的行程或官方安排，但鉴于两人过往的互动模式，未来局势的发展依然备受国际社会关注。"
+ ],
+ "tags": [
+  "特朗普",
+  "朝鲜",
+  "金正恩",
+  "美朝关系"
+ ],
+ "original_title": "Trump Says He Might Meet With North Korea’s Kim During Asia Trip",
+ "lang": "en",
+ "published": "2026-11-16T17:24:00+00:00",
+ "created": "2026-11-16T20:51:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
