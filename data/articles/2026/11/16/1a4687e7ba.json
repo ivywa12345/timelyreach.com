@@ -1,0 +1,24 @@
+{
+ "key": "1a4687e7ba",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2122132794906128505",
+ "title": "奥尔特曼：个人电脑囤积内存“相当糟糕”",
+ "summary": "OpenAI首席执行官奥尔特曼表示，在DRAM供应紧张的情况下，个人电脑里闲置大量内存“相当糟糕”，云端利用率更高。",
+ "body": [
+  "山姆·奥尔特曼表示，让人们在自己的电脑里囤积大量内存“相当糟糕”。",
+  "OpenAI首席执行官在Cheeky Pint播客上表示：“从全球配置的角度来看，让每个人都把世界上有限的DRAM供应囤在自己的电脑里，而且只有5%的时间在用，这实际上相当糟糕。”",
+  "他补充说：“如果你要应对这种供应非常紧张的环境，就希望在云端实现最大利用率。”"
+ ],
+ "tags": [
+  "OpenAI",
+  "内存"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-16T01:01:00+00:00",
+ "created": "2026-11-16T23:03:07+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
