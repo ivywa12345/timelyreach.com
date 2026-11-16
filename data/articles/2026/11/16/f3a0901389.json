@@ -1,0 +1,26 @@
+{
+ "key": "f3a0901389",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/heidi-overton-fda-nominee-senate-gop-cc585f7e?mod=rss_opinion",
+ "title": "华尔街日报点名：这位FDA新局长人选，能不能给新药审批踩下油门？",
+ "summary": "《华尔街日报》编辑委员会发文呼吁，参议院应该全力支持Heidi Overton出任美国食品药品监督管理局（FDA）下一任局长，以推动更快地审批救命新药。",
+ "body": [
+  "近日，《华尔街日报》（The Wall Street Journal）发表编辑委员会文章，公开力挺Heidi Overton出任美国食品药品监督管理局（FDA）下一任局长，认为她值得参议院的支持，并有望为美国医疗创新和药物审批带来新气象。",
+  "对于关注美国医疗体制、创新药研发以及希望早日用上突破性疗法的海外华人来说，FDA的审批效率直接关系到重大疾病的治疗进程。如果新局长能顺利上台并推动审批加速，不仅能让患者更快获得救命疗法，也将进一步影响美国的生物医药产业格局和相关投资风向。"
+ ],
+ "tags": [
+  "FDA",
+  "美国医疗",
+  "新药审批",
+  "华尔街日报",
+  "生物医药"
+ ],
+ "original_title": "The Battle for Faster Cures at the FDA",
+ "lang": "en",
+ "published": "2026-11-15T21:16:00+00:00",
+ "created": "2026-11-16T03:23:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

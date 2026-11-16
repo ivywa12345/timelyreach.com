@@ -1,0 +1,25 @@
+{
+ "key": "1361584593",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-16/aerospace-stocks-shine-as-anti-ai-flows-pour-into-india",
+ "title": "全球飞机闹荒！资金撤出AI，却把这个国家捧成了香饽饽？",
+ "summary": "由于全球航空业面临飞机短缺，大量航空航天业务正涌向印度，吸引了不愿追高AI的资金流入。",
+ "body": [
+  "全球飞机荒意外带火了印度的航空航天板块！根据彭博社报道，由于全球面临飞机短缺的困境，越来越多的航空航天相关业务和资金开始加速涌入印度。",
+  "在这背后，还有一个有趣的现象：许多投资者正在将资金从火热的AI板块撤出，寻找新的避风港。这股“反AI潮流”恰好撞上了印度的产业红利，让当地的航空制造和相关供应链备受瞩目。对于关注全球供应链和资本市场动向的朋友来说，航空业的产能转移正成为一个不容忽视的新风口。"
+ ],
+ "tags": [
+  "航空航天",
+  "印度股市",
+  "供应链",
+  "投资风向"
+ ],
+ "original_title": "Aerospace Stocks Shine as Anti-AI Flows Pour Into India",
+ "lang": "en",
+ "published": "2026-11-16T02:46:01+00:00",
+ "created": "2026-11-16T03:26:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

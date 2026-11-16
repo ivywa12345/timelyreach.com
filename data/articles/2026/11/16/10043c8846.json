@@ -1,0 +1,26 @@
+{
+ "key": "10043c8846",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/modi-heads-to-manila-with-maritime-trade-trump-on-agenda",
+ "title": "莫迪访菲行程曝光，南海安全与经贸合作成焦点",
+ "summary": "印度总理莫迪于周一抵达菲律宾出席区域峰会，此行主要聚焦于印度与东南亚国家日益紧密的经贸合作以及海上安全议题。",
+ "body": [
+  "印度总理纳伦德拉·莫迪（Narendra Modi）于周一正式抵达菲律宾，开启了旨在深化印度与东南亚国家联盟（ASEAN）关系的访问行程。此次区域峰会的核心议题不仅涵盖持续增长的双边贸易，还特别凸显了双方在海上安全领域的紧密合作态势。",
+  "近年来，印度与东南亚国家在维护印太地区稳定方面的战略契合度不断上升。莫迪此行出席峰会，正值各方试图进一步巩固区域经济纽带并应对复杂地缘政治局势的关键节点。在当前国际环境下，这次访问也吸引了外界对于美印关系及地区局势走向的广泛关注。"
+ ],
+ "tags": [
+  "印度",
+  "菲律宾",
+  "莫迪",
+  "海上安全",
+  "经贸合作"
+ ],
+ "original_title": "Modi Heads to Manila With Maritime, Trade, Trump on Agenda",
+ "lang": "en",
+ "published": "2026-11-16T03:14:33+00:00",
+ "created": "2026-11-16T03:23:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

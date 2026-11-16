@@ -1,0 +1,27 @@
+{
+ "key": "5117f4d4a6",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-15/indonesia-s-prabowo-apologizes-to-singapore-malaysia-for-haze",
+ "title": "印尼新总统向新加坡马来西亚道歉：为漫天雾霾，这事儿终于表态了",
+ "summary": "印尼总统普拉博沃就近几个月困扰东南亚的跨境雾霾问题，正式向新加坡和马来西亚道歉。",
+ "body": [
+  "印尼总统普拉博沃（Prabowo Subianto）近日公开向邻国新加坡和马来西亚表达了歉意，起因是近几个月席卷部分东南亚地区的跨国雾霾天气。",
+  "长期以来，印尼由于部分地区采用“刀耕火种”的传统方式清理土地，引发的森林火灾常常产生大量烟霾，随风飘散到邻国新加坡和马来西亚，对当地空气质量和居民生活造成了不小影响。此次普拉博沃主动道歉，展现了新一届印尼政府处理区域环境问题的姿态。",
+  "东南亚的雾霾问题一直是三国之间长期存在的环境痛点。每到旱季，空气污染就会成为新加坡和马来西亚民众的心头大患，甚至影响到户外活动和旅游业。这次印尼领导人直接开口道歉，也让外界期待后续在跨境环保合作上能有更多实质性进展。"
+ ],
+ "tags": [
+  "印尼",
+  "新加坡",
+  "马来西亚",
+  "雾霾",
+  "东南亚"
+ ],
+ "original_title": "Indonesia’s Prabowo Apologizes to Singapore, Malaysia for Haze",
+ "lang": "en",
+ "published": "2026-11-15T23:16:47+00:00",
+ "created": "2026-11-16T03:24:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

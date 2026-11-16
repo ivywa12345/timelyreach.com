@@ -1,0 +1,40 @@
+{
+ "key": "8dfe7ea679",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/energy/reactor-developers-line-uranium-enrichment-centrus",
+ "title": "核能圈杀疯了！科技巨头砸钱抢核燃料，Centrus订单排到手软",
+ "summary": "随着核能初创公司Oklo与Centrus Energy签订多项长期合同，Meta的资金正式流入核燃料供应链。不仅是Oklo，多家反应堆开发商也纷纷提前锁定产能，导致Centrus的潜在订单暴增，核燃料供应紧张局势引发市场关注。",
+ "body": [
+  "科技巨头Meta的资金正式流入核燃料供应链，核能初创公司奥克洛（Oklo）近日宣布与森特勒斯能源公司（Centrus Energy）签订了多项最终的多年期合同，为其位于俄亥俄州的反应堆工厂锁定高浓缩低丰度铀（HALEU）浓缩服务。",
+  "## 订单纷至沓来",
+  "奥克洛（Oklo）与森特勒斯能源公司（Centrus Energy）敲定的合作细节显示，其燃料供应涵盖以下要点：",
+  "- 供应足够支持“多达五个奥罗拉（Aurora）发电厂多年运行”的HALEU燃料，用于其在俄亥俄州派克县计划建设的1.2吉瓦园区的第一阶段。",
+  "- 燃料将从森特勒斯位于派克斯顿（Piketon）的工厂交付，**计划于2029年开始**。",
+  "- 奥克洛（Oklo）将预付燃料费用，这有助于资助森特勒斯的产能建设，而Meta此前对未来电力的预付款也间接提供了资金支持。",
+  "- 该燃料还将涵盖未来的奥罗拉（Aurora）项目，并最终用于为奥克洛（Oklo）在爱达荷州的第一个反应堆重新加注燃料。",
+  "## 产能面临大考",
+  "除了奥克洛（Oklo），其他反应堆开发商也从8月开始蜂拥而至，与森特勒斯（Centrus）签下了带预付款的最终协议：",
+  "- 埃克斯能源（X-energy，8月6日）：为其首批Xe-100反应堆和TRISO-X燃料提供低丰度铀（LEU）和HALEU浓缩服务。",
+  "- 雷迪恩特（Radiant，9月9日）：为多个凯利多斯（Kaleidos）微型反应堆提供HALEU，交付时间定在“本十年末之前”。",
+  "- 安塔瑞斯（Antares，9月17日）：提供可支持国家安全任务的“无约束”HALEU，同样定于本十年末之前交付。",
+  "- 投资者演示文稿中还计入了泰拉能源（TerraPower）的纳特姆（Natrium）反应堆，计划于2030年部署。",
+  "## 潜在燃料危机",
+  "目前森特勒斯（Centrus）的基准扩建目标是每年生产**12公吨**的HALEU，但仅根据几家主要客户的初始装载需求计算，总量就已经达到了22.5公吨，接近满负荷产能的两年总量。随着潜在订单积压从8月初的30亿美元飙升至9月底的**5.4十亿美元**（54亿美元），如何在俄罗斯和法国的供应合同于2027年底和2030年到期前平衡商业市场需求，将成为摆在眼前的一大挑战。"
+ ],
+ "tags": [
+  "核能",
+  "Centrus",
+  "Oklo",
+  "Meta",
+  "HALEU",
+  "能源供应链"
+ ],
+ "original_title": "Reactor Developers Line Up For Uranium Enrichment From Centrus",
+ "lang": "en",
+ "published": "2026-11-16T01:40:00+00:00",
+ "created": "2026-11-16T03:23:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

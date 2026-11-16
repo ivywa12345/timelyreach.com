@@ -1,0 +1,22 @@
+{
+ "key": "2d11eefedd",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+ "title": "受能源成本高企影响，日本经济在第三季度意外萎缩",
+ "summary": "据报道，针对家庭的能源补贴已于9月到期，使经济面临伊朗战争所导致的能源价格上涨。",
+ "body": [
+  "据报道，针对家庭的能源补贴已于9月到期，使经济面临伊朗战争所导致的能源价格上涨。",
+  "（以上为CNBC内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "CNBC"
+ ],
+ "original_title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+ "lang": "en",
+ "published": "2026-11-16T02:56:24+00:00",
+ "created": "2026-11-16T03:26:25+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

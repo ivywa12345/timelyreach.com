@@ -1,0 +1,27 @@
+{
+ "key": "78d73b7d28",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/the-campaign-to-bring-back-jensen-huang-as-nvidia-ceo-e91b0b2c?mod=rss_Technology",
+ "title": "黄仁勋被逼宫是个错误？盟友们坐不住了",
+ "summary": "英伟达CEO黄仁勋近来遭遇盟友的力挺复职行动，而与此同时，相关的法律审查也在不断加剧。",
+ "body": [
+  "近日，知名的芯片巨头英伟达（Nvidia）现任CEO黄仁勋（Jensen Huang）的盟友们正通过公开信、电话和群聊等各种方式，大力游说他重新回归执掌公司，并直言当初迫使他下台的决定实在是太仓促了。",
+  "## 盟友频频发力求变",
+  "- 盟友们通过公开信公开表达支持\n- 频繁拨打电话进行幕后游说\n- 在各类群聊中串联并制造声势",
+  "与此同时，与此事件相关的法律审查力度也在不断升级，外界正密切关注事态的后续发展对这家人工智能芯片巨头带来的影响。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "芯片巨头",
+  "高层变动"
+ ],
+ "original_title": "The Campaign to Bring Back Jensen Huang as Nvidia CEO",
+ "lang": "en",
+ "published": "2026-11-16T02:34:00+00:00",
+ "created": "2026-11-16T03:23:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

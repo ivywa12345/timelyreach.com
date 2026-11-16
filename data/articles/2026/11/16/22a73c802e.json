@@ -1,0 +1,26 @@
+{
+ "key": "22a73c802e",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/chinese-aluminum-output-drops-but-still-on-course-for-record",
+ "title": "中国铝产量上个月回落，但今年创纪录依然稳了？",
+ "summary": "由于出口需求减弱以及触及北京的产能上限，中国上个月的铝产量出现回落，不过全年产量仍有望创下历史新高。",
+ "body": [
+  "根据彭博社（Bloomberg News）报道，中国上个月的铝产量有所放缓，主要原因在于海外出口需求变弱，同时整个行业也正在逼近北京设定的产能上限。",
+  "虽然单月产量出现了回落，但从全年的整体表现来看，中国铝产量依然在向着创纪录的目标稳步迈进。",
+  "对海外华人和相关行业来说，中国作为全球最大的铝生产国，其产能和出口的变化不仅会直接牵动国际金属市场的神经，也可能对全球供应链成本产生连锁反应。"
+ ],
+ "tags": [
+  "中国铝产量",
+  "彭博社",
+  "产能上限",
+  "大宗商品"
+ ],
+ "original_title": "Chinese Aluminum Output Drops But Still on Course for Record",
+ "lang": "en",
+ "published": "2026-11-16T02:30:14+00:00",
+ "created": "2026-11-16T03:25:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

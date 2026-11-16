@@ -1,0 +1,25 @@
+{
+ "key": "e4120d2333",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/weakened-at-home-trump-looks-to-flex-power-at-putin-xi-summit",
+ "title": "期中选举刚输，特朗普转头就要去跟习普会？",
+ "summary": "特朗普在美国内政失利、政治地位削弱的背景下，即将与中国领导人和普京举行前所未有的峰会，外界关注他在国际舞台上如何展现权力。",
+ "body": [
+  "刚刚在美国内政中遭遇挫折的唐纳德·特朗普（Donald Trump），即将来迎来一场史无前例的外交大考。据彭博社报道，在经历国内政治势力削弱的期中选举失利后，特朗普正带着更为迫切的姿态，准备在与中国领导人习近平以及俄罗斯总统普京（Vladimir Putin）的峰会上展现其国际影响力。",
+  "对于关注中美关系和地缘政治的海外华人来说，美国领导人在国内受挫时往往会在外交和贸易议题上采取更具攻击性的姿态，以转移视线或证明自身实力，这可能对未来的经贸走势和中美关系产生新的变数。"
+ ],
+ "tags": [
+  "特朗普",
+  "中美关系",
+  "期中选举",
+  "国际峰会"
+ ],
+ "original_title": "Trump Looks to Flex Power at Xi, Putin Summit After Midterm Loss",
+ "lang": "en",
+ "published": "2026-11-16T01:00:45+00:00",
+ "created": "2026-11-16T03:23:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

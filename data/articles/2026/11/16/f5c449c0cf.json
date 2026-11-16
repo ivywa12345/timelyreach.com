@@ -1,0 +1,26 @@
+{
+ "key": "f5c449c0cf",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/asia/in-the-philippines-trump-checks-in-with-an-ally-resisting-chinese-aggression-24143b14?mod=rss_worldnews",
+ "title": "南海局势再起波澜：特朗普如何看待这位抗击中国压力的盟友？",
+ "summary": "华尔街日报报道指出，在南海局势因中国力量不断进逼而日益紧张的背景下，美国与菲律宾这一盟友的关系备受关注，特朗普正密切关注当地动态。",
+ "body": [
+  "近期，中国在存在争议的南海地区的行动引发了广泛关注，中国力量与美国盟友菲律宾之间频频发生摩擦，局势持续紧张。",
+  "作为美国的长期盟友，菲律宾在南海问题上面临着来自中国的巨大压力。华尔街日报指出，美国前总统、再次当选的特朗普（Donald Trump）正在密切关注菲律宾对这一局势的抵抗与应对，美菲同盟在其中的角色至关重要。",
+  "对于身处海外的华人来说，南海局势的走向不仅牵动着中美两个大国的地缘政治博弈，也可能对地区稳定乃至全球经济环境产生深远的影响。"
+ ],
+ "tags": [
+  "南海局势",
+  "菲律宾",
+  "美国外交",
+  "中美关系"
+ ],
+ "original_title": "In the Philippines, Trump Checks In With an Ally Resisting Chinese Aggression",
+ "lang": "en",
+ "published": "2026-11-16T03:00:00+00:00",
+ "created": "2026-11-16T03:23:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

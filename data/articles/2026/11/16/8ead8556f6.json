@@ -1,0 +1,29 @@
+{
+ "key": "8ead8556f6",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/news-releases/uscis-assists-in-investigation-leading-to-removal-of-fugitive-criminal-predator",
+ "title": "比利时儿童性罪犯潜逃美国，妄想申请入籍被移民局抓包遣返",
+ "summary": "美国移民局（USCIS）在审理一名比利时籍男子入籍申请时，意外发现其隐瞒了在母国犯下的儿童性剥削罪行，最终将其协助遣返。",
+ "body": [
+  "近日，美国移民局（USCIS）立了一功：他们通过严查入籍申请，揪出了一名潜逃到美国、身负儿童性罪行的比利时通缉犯，目前此人已被遣返回国。",
+  "这名33岁的比利时男子罗穆卢斯·米海（Romulus Mihai）在比利时因犯下儿童性剥削罪而被定罪，为了逃避牢狱之灾，他于2013年4月利用免签证计划溜进了美国。",
+  "来到美国后，米海不仅非法滞留，还试图通过正常的移民程序洗白身份并申请美国公民，期间他刻意隐瞒了自己的犯罪老底。",
+  "转折发生在移民局审查他的入籍申请时。USCIS的欺诈检测和国家安全局发现了他的犯罪记录，随即将线索移交给了国土安全调查局（HSI）。",
+  "在掌握确凿证据后，美国执法部门迅速出手：\n- HSI特工于4月将米海逮捕并启动移民听证程序\n- 司法部移民法官于6月26日下令将其驱逐出境\n- ICE最终在7月31日将其正式移交给比利时当局",
+  "这件事也再次提醒大家，美国移民局在审核绿卡和入籍申请时对背景调查极其严格，任何隐瞒犯罪历史的企图最终都难逃法网。"
+ ],
+ "tags": [
+  "移民局",
+  "遣返",
+  "入籍审核",
+  "海外治安"
+ ],
+ "original_title": "USCIS Assists in Investigation Leading to Removal of Fugitive Criminal Predator",
+ "lang": "en",
+ "published": "2025-08-07T14:21:14+00:00",
+ "created": "2026-11-16T03:24:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

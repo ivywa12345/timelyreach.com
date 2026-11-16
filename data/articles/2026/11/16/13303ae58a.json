@@ -1,0 +1,27 @@
+{
+ "key": "13303ae58a",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/economy/chinas-domestic-demand-continues-to-disappoint-cbc24852?mod=rss_worldnews",
+ "title": "内需不给力？中国经济上个月有点失速",
+ "summary": "根据《华尔街日报》报道，中国上个月经济动能减弱，关键经济指标均不及预期，完成全年目标目前主要得靠强劲的出口来支撑。",
+ "body": [
+  "上个月中国经济明显放缓，核心经济指标表现全都低于市场预期，这也让外界对今年的经济复苏捏了一把汗。",
+  "## 出口成了顶梁柱",
+  "由于国内需求持续疲软，政策制定者目前只能把实现全年经济增长目标的希望，寄托在表现亮眼的出口上。",
+  "对于关注国内经济走向的海外华商和投资者来说，内需恢复的节奏直接关系到相关市场的投资回报和生意景气度。"
+ ],
+ "tags": [
+  "中国经济",
+  "内需",
+  "出口",
+  "华尔街日报"
+ ],
+ "original_title": "China’s Domestic Demand Continues to Disappoint",
+ "lang": "en",
+ "published": "2026-11-16T03:00:00+00:00",
+ "created": "2026-11-16T03:25:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

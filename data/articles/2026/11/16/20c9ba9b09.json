@@ -1,0 +1,25 @@
+{
+ "key": "20c9ba9b09",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/coal-india-unit-mcl-seeks-as-much-as-953-million-in-mumbai-ipo",
+ "title": "煤炭巨头分拆上市！印度国有企业冲刺近10亿美元IPO",
+ "summary": "印度国有煤炭巨头Coal India Ltd.旗下的Mahanadi Coalfields Ltd.计划通过首次公开募股（IPO）筹集高达8981亿卢比（约合9.53亿美元）的资金。",
+ "body": [
+  "印度国家煤炭公司（Coal India Ltd.）旗下的 Mahanadi Coalfields Ltd.（MCL）近日有了大动作，正寻求通过首次公开募股（IPO）筹集高达 8981 亿卢比，折合 **9.53亿美元** 的资金。",
+  "作为印度国有煤炭巨头 Coal India 的重要子公司，MCL 此次冲击资本市场备受关注。根据彭博社报道，这笔高达近 10 亿美元的融资计划，将成为当地资本市场的又一笔大单，也展现了印度能源板块在资本运作上的持续活跃。"
+ ],
+ "tags": [
+  "印度股市",
+  "IPO",
+  "煤炭能源",
+  "企业动态"
+ ],
+ "original_title": "Coal India Unit MCL Seeks as Much as $953 Million in Mumbai IPO",
+ "lang": "en",
+ "published": "2026-11-16T03:04:46+00:00",
+ "created": "2026-11-16T03:24:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

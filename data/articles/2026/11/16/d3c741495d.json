@@ -1,0 +1,28 @@
+{
+ "key": "d3c741495d",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/donald-trump-diesel-deal-vladimir-putin-russia-7c282795?mod=rss_opinion",
+ "title": "川普给俄罗斯柴油网开一面，美国油价降了吗？",
+ "summary": "华尔街日报编辑委员会指出，唐纳德·特朗普此前对弗拉基米尔·普京放松制裁，并没有如预期般给美国消费者带来更便宜的燃油。",
+ "body": [
+  "唐纳德·特朗普（Donald Trump）此前决定对俄罗斯总统弗拉基米尔·普京（Vladimir Putin）放松部分制裁，本意是希望增加市场供应、降低油价，但现实却给美国民众泼了一盆冷水——美国人的油费并没有因此变便宜。",
+  "## 政策事与愿违",
+  "华尔街日报（The Wall Street Journal）编辑委员会撰文指出，放宽对俄制裁的初衷是为了缓解美国国内的高通胀压力，让普通百姓在加油时能少花点钱。然而，从实际效果来看，这一政策调整并未能如愿转化为更低的燃油价格，美国消费者依然在承受高昂的出行成本。",
+  "## 对华人的影响",
+  "对于精打细算的海外华人来说，油价直接关系到日常通勤和生活成本。虽然政策制定者的出发点是缓解通胀，但国际能源市场的复杂性远超预期。这也提醒大家，在面对宏观经济波动时，家庭预算仍需做好长期应对高成本的准备。"
+ ],
+ "tags": [
+  "美国油价",
+  "俄罗斯制裁",
+  "通货膨胀",
+  "海外生活"
+ ],
+ "original_title": "How’s That Russian Diesel Deal Going?",
+ "lang": "en",
+ "published": "2026-11-15T21:11:00+00:00",
+ "created": "2026-11-16T03:24:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
