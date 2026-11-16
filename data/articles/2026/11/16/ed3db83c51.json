@@ -1,0 +1,27 @@
+{
+ "key": "ed3db83c51",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/deals/activist-calls-on-landlord-invitation-homes-to-sell-houses-one-at-a-time-a11169a1?mod=rss_markets_main",
+ "title": "手里大把单户住宅该咋办？激进投资者喊话Invitation Homes散卖套现！",
+ "summary": "激进投资机构 Land & Buildings 建议大型房东公司 Invitation Homes 改变策略，将房产“一套一套”地卖掉并回购股票，以应对可能限制其发展的新禁令。",
+ "body": [
+  "近日，华尔街的激进投资者（Land & Buildings）盯上了美国最大的单户住宅租赁巨头 Invitation Homes（Invitation Homes Inc.）。面对可能出台的限制大型投资者收购单户住宅的禁令，这家机构建议公司干脆转变思路，把房子“一套一套”地卖掉，然后拿钱回购公司股票。",
+  "## 政策收紧逼出新招",
+  "这次喊话的背景是，针对大型机构投资者疯狂买断单户住宅的批评声越来越大，相关禁令或限制措施正在威胁这类公司的业务增长空间。Land & Buildings 认为，在政策环境发生变化的情况下，继续走大规模收购的老路已经行不通，不如主动调整资产配置，通过出售房产来优化财务结构。",
+  "按照该机构的设想，Invitation Homes 可以通过逐步出售房产回笼资金，并将这些资金投入到股票回购中。对于这家拥有庞大住宅资产的行业巨头来说，这或许是在新监管环境下保护股东利益、维持企业价值的一种可行方案。"
+ ],
+ "tags": [
+  "Invitation Homes",
+  "美国房产",
+  "华尔街",
+  "房屋租赁"
+ ],
+ "original_title": "Activist Calls on Landlord Invitation Homes to Sell Houses ‘One at a Time’",
+ "lang": "en",
+ "published": "2026-11-16T17:10:00+00:00",
+ "created": "2026-11-16T21:06:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

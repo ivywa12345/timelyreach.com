@@ -1,0 +1,28 @@
+{
+ "key": "bf44aec35e",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
+ "title": "备受瞩目的抗癌新药，被FDA给拦下了！",
+ "summary": "美国食品药品监督管理局（FDA）拒绝批准生物医药公司Summit Therapeutics的一款热门肺癌药物，要求其证明该药能切实延长患者寿命，消息传出后该公司股价应声大跌。",
+ "body": [
+  "华尔街和生物医药界最近都在盯着的一款明星抗癌药，在审批环节遇到了大麻烦。美国食品药品监督管理局（FDA）正式拒绝批准生物医药公司峰顶治疗（Summit Therapeutics）的一款肺癌新药，理由是该药物必须先证明它能够真正帮助患者延长生存期。",
+  "## 股价应声暴跌",
+  "作为业界高度关注的焦点，峰顶治疗（Summit Therapeutics）这款药物被寄予厚望。但随着监管机构亮起红灯，市场的反应也非常直接。在FDA做出拒绝批准的决定后，该公司（Summit Therapeutics）的股价随即出现 **大幅下跌**，让不少投资者措手不及。",
+  "## 监管标准依旧严格",
+  "这次被拒的核心原因在于疗效硬指标。FDA明确要求峰顶治疗（Summit Therapeutics）必须提供更充分的临床证据，证明该肺癌药物不仅能控制病情，还能切实提高患者的生存时间。这也再次表明，监管部门在评估创新抗癌药时，对延长生命这一核心获益的审查依然极为严格。"
+ ],
+ "tags": [
+  "FDA",
+  "抗癌药",
+  "美股",
+  "生物医药"
+ ],
+ "original_title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
+ "lang": "en",
+ "published": "2026-11-16T20:41:00+00:00",
+ "created": "2026-11-16T21:09:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

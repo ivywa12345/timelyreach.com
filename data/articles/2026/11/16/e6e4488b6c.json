@@ -1,0 +1,25 @@
+{
+ "key": "e6e4488b6c",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/the-window-to-achieve-immigration-reform-ed549dbc?mod=rss_opinion",
+ "title": "两党联手能成吗？华尔街日报：现在是移民改革的好时机",
+ "summary": "华尔街日报发表评论认为，如果特朗普总统与民主党人能够携手合作，美国将迎来修复破碎移民系统的历史性窗口期。",
+ "body": [
+  "近日，《华尔街日报》（The Wall Street Journal）刊文指出，虽然美国两党在政治上分歧严重，但如果总统特朗普（President Trump）与民主党人能够放下成见、相向而行，他们其实有机会共同完成一项长期悬决的任务——修复已经漏洞百出的移民系统。",
+  "对于生活在海外、时刻关注美国政策走向的华人来说，移民政策的每一次调整都直接关系到大家的身份转换、亲属团聚以及长远发展。无论是技术移民排期漫长，还是边境管控的合法化诉求，都迫切需要华盛顿的决策者们拿出一套切实可行的改革方案。接下来两党能否在这一议题上找到最大公约数，值得我们持续关注。"
+ ],
+ "tags": [
+  "移民改革",
+  "特朗普",
+  "民主党",
+  "美国政治"
+ ],
+ "original_title": "The Window to Achieve Immigration Reform",
+ "lang": "en",
+ "published": "2026-11-16T20:12:00+00:00",
+ "created": "2026-11-16T21:04:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

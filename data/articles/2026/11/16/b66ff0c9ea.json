@@ -1,0 +1,28 @@
+{
+ "key": "b66ff0c9ea",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/cio-journal/nvidia-ceo-ouster-reverberates-globally-c882938d?mod=rss_Technology",
+ "title": "英伟达CEO离职风波全球震动？本周科技圈还有这些大动作",
+ "summary": "华尔街日报最新消息，英伟达CEO离职传闻引发全球震动，同时AI独角兽Anthropic正筹备本周的重大IPO。",
+ "body": [
+  "近日科技圈传出重磅消息，根据《华尔街日报》记者 Steven Rosenbush 的报道，有关英伟达（Nvidia）CEO离职的传闻在国际市场上引发了广泛关注和震动。与此同时，人工智能领域的另一家头部企业 Anthropic 也正紧锣密鼓地筹备在本周进行规模宏大的首次公开募股（IPO）。",
+  "这次的焦点事件主要集中在两个方面：",
+  "- 英伟达（Nvidia）CEO的相关动态引发了全球市场和投资者的广泛猜测与连锁反应。\n- 人工智能公司 Anthropic 蓄势待发，准备在本周迎来其发展史上的重要资本里程碑——IPO上市。",
+  "对于关注科技股和AI赛道的海外华人来说，英伟达作为算力核心的稳定与否直接牵动着投资者的钱包，而 Anthropic 的上市也将为美股AI板块注入新的变数。我们将持续为您追踪这两起科技圈大事件的最新进展。"
+ ],
+ "tags": [
+  "英伟达",
+  "Anthropic",
+  "美股IPO",
+  "科技新闻",
+  "海外华人"
+ ],
+ "original_title": "Nvidia CEO Ouster Reverberates Globally",
+ "lang": "en",
+ "published": "2026-11-16T14:37:00+00:00",
+ "created": "2026-11-16T21:06:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

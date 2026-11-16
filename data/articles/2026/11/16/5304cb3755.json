@@ -1,0 +1,27 @@
+{
+ "key": "5304cb3755",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/zelenskyy-says-us-europe-delegates-to-meet-on-peace-talks-goal",
+ "title": "泽连斯基透露：美欧代表将开会推进乌克兰和平峰会",
+ "summary": "乌克兰总统泽连斯基表示，他与美国及欧洲代表团举行了线上会谈，各方为实现最高领导人级别的和平谈判制定了进一步计划。",
+ "body": [
+  "乌克兰总统弗拉基米尔·泽连斯基（Volodymyr Zelenskyy）近日透露，他与美国及欧洲的代表团举行了一场线上会谈，各方正为最终举行首脑级别的和平谈判做进一步的筹备与规划。",
+  "在此次线上会议中，乌方与美欧各方重点讨论了如何凝聚各方共识，为下一步的高级别和平峰会铺路。虽然具体细节尚未完全公开，但这表明西方盟友与乌克兰在推动外交解决途径上仍在保持密切沟通。",
+  "对于关注国际局势的海外华人来说，俄乌冲突的每一步进展都牵动着全球经济和能源市场的神经，和平谈判的推进也将直接影响到未来的地缘政治格局与市场走向。"
+ ],
+ "tags": [
+  "泽连斯基",
+  "乌克兰局势",
+  "和平谈判",
+  "美国外交",
+  "欧洲政治"
+ ],
+ "original_title": "Zelenskyy Says US, Europe Delegates to Meet on Peace Talks Goal",
+ "lang": "en",
+ "published": "2026-11-16T18:59:10+00:00",
+ "created": "2026-11-16T21:06:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

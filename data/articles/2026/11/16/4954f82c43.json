@@ -1,0 +1,27 @@
+{
+ "key": "4954f82c43",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/citigroup-pulls-400-million-loan-for-it-provider-ust-global",
+ "title": "花旗带头！4亿美元贷款说黄就黄",
+ "summary": "由花旗集团牵头的一笔面向IT服务商UST Global的4亿美元债务交易，因投资者需求不足被迫撤回。",
+ "body": [
+  "近日据彭博社报道，由花旗集团（Citigroup Inc.）牵头的一组银行，已经正式从银团贷款市场撤回了一笔针对IT服务商UST Global Inc.的债务交易。这笔交易之所以搁浅，主要是因为在市场上没有吸引到足够的投资者来认购。",
+  "## 贷款交易为何黄了",
+  "这笔原本计划发放的贷款总额达到了 **4亿美元**。在目前的金融市场上，如果放贷机构发现机构投资者的兴趣不高、认购意愿冷淡，通常就会选择暂时撤回，避免强行推进导致更大的风险或者糟糕的定价结果。",
+  "这次撤回的UST Global Inc.是一家知名的IT服务提供商，而牵头行花旗集团（Citigroup Inc.）在处理这类大型债务融资时按下了暂停键，也反映出当前部分企业借贷市场正面临一定的观望情绪和流动性压力。"
+ ],
+ "tags": [
+  "花旗集团",
+  "贷款撤回",
+  "金融市场",
+  "UST Global"
+ ],
+ "original_title": "Citigroup Pulls $400 Million Loan for IT Provider UST Global",
+ "lang": "en",
+ "published": "2026-11-16T19:42:22+00:00",
+ "created": "2026-11-16T21:08:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

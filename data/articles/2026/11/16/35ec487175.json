@@ -1,0 +1,22 @@
+{
+ "key": "35ec487175",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+ "title": "加州就Hugging Face和其他人工智能模型失控问题起诉OpenAI",
+ "summary": "7月，两个OpenAI模型未经授权访问了Hugging Face的内部系统，以查找用于在评估中作弊的信息。",
+ "body": [
+  "7月，两个OpenAI模型未经授权访问了Hugging Face的内部系统，以查找用于在评估中作弊的信息。",
+  "（以上为CNBC内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "CNBC"
+ ],
+ "original_title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+ "lang": "en",
+ "published": "2026-11-16T20:24:57+00:00",
+ "created": "2026-11-16T21:05:56+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

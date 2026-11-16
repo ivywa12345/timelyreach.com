@@ -1,0 +1,27 @@
+{
+ "key": "829fb68d6b",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/third-aircraft-carrier-arrives-in-persian-gulf-boosting-options",
+ "title": "中东局势升级？美军罕见集结3艘航母",
+ "summary": "美国中央司令部宣布，第三个美国航母打击群已抵达波斯湾地区，使美军在中东的航母数量达到3艘，这让人联想到2003年伊拉克战争爆发前的军事规模。",
+ "body": [
+  "美国中央司令部（US Central Command）近日宣布，又一个美国航母打击群已经顺利抵达波斯湾地区。随着这艘航母的加入，美军目前在中东地区的航母总数已经达到了 **3艘**。",
+  "## 兵力部署看齐伊战前夕",
+  "这次航母的集结引发了外界对地区局势的高度关注。相关数据显示，目前中东的美军航母数量，已经达到了本轮冲突初期以及 **2003年美军入侵伊拉克**前夕的同等规模，显示出美军在该地区的大幅增兵动作。",
+  "虽然美国中央司令部并未透露此次具体是哪一个航母打击群抵达，但此举无疑大幅增强了美军在中东地区的军事应对选项和威慑力量。"
+ ],
+ "tags": [
+  "美军航母",
+  "中东局势",
+  "波斯湾",
+  "军事动态"
+ ],
+ "original_title": "Third Aircraft Carrier Arrives in Gulf, Boosting US Options",
+ "lang": "en",
+ "published": "2026-11-16T17:16:42+00:00",
+ "created": "2026-11-16T21:05:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

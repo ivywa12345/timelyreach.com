@@ -1,0 +1,28 @@
+{
+ "key": "f304700a23",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/nasdaq-100-plunges-as-nvidia-earnings-anthropic-ipo-on-horizon",
+ "title": "AI股这是怎么了？纳斯达克100大跌，大家都在慌什么",
+ "summary": "由于投资者在英伟达财报和Anthropic传闻中的IPO前夕感到焦虑，美股科技股周一继续下跌，纳斯达克100指数遭遇重挫。",
+ "body": [
+  "周一，美股科技股延续了之前的跌势，纳斯达克100指数遭遇明显下滑。由于本周将迎来重磅财报和潜在的大型IPO，市场上的投资者显得格外谨慎，对人工智能（AI）板块的狂热情绪开始降温。",
+  "## 市场紧盯两大事件",
+  "这次科技股集体走低主要有两个核心原因，让华尔街资金感到不安：\n- **英伟达（Nvidia Corp.）**即将发布最新财报，作为AI芯片的绝对龙头，它的表现将直接检验市场的AI信仰是否过热。\n- 人工智能初创公司 Anthropic PBC 预计在本周进行首次公开募股（IPO），引发了市场对资金分流和估值高企的担忧。",
+  "对于关注美股和科技投资的海外华人来说，近期大盘波动加剧，尤其是AI概念股正处于敏感期。如果纳斯达克调整，大家的投资组合难免受到波及，操作上需要格外留意风控。"
+ ],
+ "tags": [
+  "美股",
+  "纳斯达克",
+  "英伟达",
+  "人工智能",
+  "投资理财"
+ ],
+ "original_title": "Nasdaq 100 Tumbles as Nvidia Earnings, Anthropic IPO Loom",
+ "lang": "en",
+ "published": "2026-11-16T18:51:04+00:00",
+ "created": "2026-11-16T21:05:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "24db47889b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/lula-worries-slam-brazil-markets-from-real-to-corporate-bonds",
+ "title": "急了！巴西总统惹怒市场，汇率创近两年新低",
+ "summary": "由于市场对政府财政计划产生担忧，巴西金融市场周一全面大跌，雷亚尔创下2025年4月以来的最低纪录。",
+ "body": [
+  "周一（当地时间），巴西金融市场遭遇重挫，投资者对政府财政政策的疑虑不断加深，直接导致市场预期利率将在更长时间内保持高位。受此影响，巴西资产全面走低，其中巴西雷亚尔（Real）对美元汇率更是一路下跌，触及了自 **2025年4月** 以来的最低水平。",
+  "彭博社（Bloomberg）的报道指出，这场市场动荡主要源于外界对总统卢拉（Lula）政府财政规划的不满与担忧。分析人士认为，财政状况的不确定性让通胀预期升温，进而迫使市场坚信央行不得不维持高利率来稳定局势，这直接压垮了当天的巴西货币和企业债券表现。"
+ ],
+ "tags": [
+  "巴西经济",
+  "汇率大跌",
+  "卢拉政府",
+  "金融市场"
+ ],
+ "original_title": "Lula Worries Slam Brazil Markets From Real to Corporate Bonds",
+ "lang": "en",
+ "published": "2026-11-16T17:41:36+00:00",
+ "created": "2026-11-16T21:06:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

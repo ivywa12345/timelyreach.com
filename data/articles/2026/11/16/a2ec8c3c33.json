@@ -1,0 +1,26 @@
+{
+ "key": "a2ec8c3c33",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/ai-literacy-iq-test-3f13c95e?mod=rss_Technology",
+ "title": "AI黑话满天飞，你能听懂几个？",
+ "summary": "华尔街日报作者Simon Constable指出现在人工智能领域的专业术语层出不穷，普通人很难跟上节奏，并以此探讨大家的AI素养。",
+ "body": [
+  "现在人工智能（AI）的发展速度实在太快，各种新名词、新黑话满天飞，你真的能跟上这波节奏吗？",
+  "华尔街日报（Wall Street Journal）专栏作家Simon Constable最近发文探讨了这个现象。他指出，随着AI技术的全面爆发，普通人想要彻底搞懂那些层出不穷的专业词汇变得越来越难，这也引发了外界对大众“AI素养（AI-Literacy）”水平的关注。",
+  "对于咱们海外华人来说，无论是职场求职、日常工作，还是关心孩子的科技教育，AI早已成了绕不开的话题。理解这些新技术背后的概念，不仅能帮我们更好地适应职场变化，也能避免在信息大爆炸的时代被落下。"
+ ],
+ "tags": [
+  "人工智能",
+  "AI素养",
+  "职场技能",
+  "海外生活"
+ ],
+ "original_title": "What’s Your AI-Literacy IQ?",
+ "lang": "en",
+ "published": "2026-11-16T20:00:00+00:00",
+ "created": "2026-11-16T21:04:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
