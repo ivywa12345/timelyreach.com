@@ -54,6 +54,7 @@ def parse_inbox_file(path: Path) -> Article:
         source_name=str(d.get("source_name") or ("站长" if owner else "综合媒体")).strip(),
         source_url=url,
         title=title,
+        original_title=str(d.get("original_title") or d.get("slug") or "").strip(),
         summary=str(d.get("summary", "")).strip() or body[0][:80],
         body=body,
         tags=[str(t).strip() for t in d.get("tags", []) if str(t).strip()][:6],
