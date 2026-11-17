@@ -1,0 +1,26 @@
+{
+ "key": "e53083163e",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
+ "title": "油价又跌了！供应过剩加上美国不想打持久战？",
+ "summary": "受供应超过需求以及美国副总统万斯暗示希望避免在伊朗爆发持久战的影响，11月17日国际油价出现下跌。",
+ "body": [
+  "近期国际油市再次迎来下跌行情，背后的主要原因有两个：一是市场普遍认为目前的石油供应已经超过了实际需求，二是地缘政治信号发生了变化。",
+  "彭博社（Bloomberg）的报道显示，美国副总统万斯（JD Vance）近期释放了明确信号，表明美国希望避免在伊朗发生一场持久的冲突。这一表态缓解了市场对中东局势进一步恶化、从而引发原油断供的担忧情绪，直接导致油价承压回落。",
+  "对于经常开车出行、需要关注油费支出的海外华人来说，国际油价的走低通常意味着近期加油钱包能稍微松一口气。不过，由于能源市场变幻莫测，后续走势仍需密切观察供需关系的进一步变化。"
+ ],
+ "tags": [
+  "油价",
+  "国际原油",
+  "美国政治",
+  "能源市场"
+ ],
+ "original_title": "Latest Oil Market News and Analysis for Nov. 17",
+ "lang": "en",
+ "published": "2026-11-16T23:02:55+00:00",
+ "created": "2026-11-17T05:10:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

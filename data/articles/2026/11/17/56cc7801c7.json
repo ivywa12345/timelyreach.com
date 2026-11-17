@@ -1,0 +1,26 @@
+{
+ "key": "56cc7801c7",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
+ "title": "美联航系统崩了，周一航班大面积延误！",
+ "summary": "美国联合航空公司（United Airlines）周一遭遇系统故障，导致大量航班无法起飞，这已经是近期美国航空系统第二次出状况了。",
+ "body": [
+  "周一，不少准备搭乘美联航的旅客在机场急得跳脚，因为航空公司突发系统故障，导致大量航班被困在地面无法起飞。好消息是，目前美联航已经确认问题解决，正在努力恢复正常的航班调度。",
+  "这次故障发生的时间点确实让人心慌，因为就在几天前，美国联邦航空管理局（FAA）刚经历了一次全国范围的停飞令，导致全美数千个航班受到影响。虽然两次事件的原因尚不完全一致，但对于咱们华人旅客来说，最近出门确实得做好心理准备。",
+  "如果你近期有出行计划，建议时刻关注航司的App推送或短信通知。在频繁出现系统故障的情况下，**建议大家提前至少3小时到达机场**，如果遇到突发延误，第一时间联系柜台改签，千万别在登机口干等。"
+ ],
+ "tags": [
+  "美联航",
+  "航空资讯",
+  "旅行提醒",
+  "美国生活"
+ ],
+ "original_title": "United Airlines resolves system outage that delayed flights Monday",
+ "lang": "en",
+ "published": "2026-11-16T23:42:00+00:00",
+ "created": "2026-11-17T05:09:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

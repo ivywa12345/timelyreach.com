@@ -1,0 +1,26 @@
+{
+ "key": "5458b290a5",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/new-zealand-dollar-drops-to-six-year-low-against-greenback",
+ "title": "纽币跌惨了！创下六年来对美元新低",
+ "summary": "受国内通胀预期降温和美新利差扩大的双重打击，纽币对美元汇率跌至2020年以来的最低水平。",
+ "body": [
+  "近日，纽币（New Zealand dollar）对美元汇率一路走低，跌到了自 **2020年** 以来的最低谷。",
+  "造成这一现象的主要原因有两个：一是新西兰国内的通胀预期正在降温，二是该国与美国的利率差距在不断拉大，导致资金更倾向于流向美元资产。对于有跨国汇款、回国探亲或者关注外汇投资的海外华人来说，汇率波动可能会直接影响到大家的钱包和资产配置。"
+ ],
+ "tags": [
+  "汇率",
+  "纽币",
+  "美元",
+  "金融市场",
+  "海外理财"
+ ],
+ "original_title": "New Zealand Dollar Hits Six-Year Low on Growth, Yield Gap Worry",
+ "lang": "en",
+ "published": "2026-11-17T02:46:47+00:00",
+ "created": "2026-11-17T05:08:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

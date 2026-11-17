@@ -1,0 +1,27 @@
+{
+ "key": "8386b68e0a",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/ai-stocks-resume-their-slide-1094403c?mod=rss_markets_main",
+ "title": "AI股票怎么又跌了？美联储开始操心人工智能抢饭碗啦",
+ "summary": "近期美股AI板块再度走低，引发市场关注。与此同时，美联储正在评估人工智能对就业市场的潜在影响，而泰森食品则上调了其牛肉业务的前景预期。",
+ "body": [
+  "近期美股人工智能板块再度出现下滑趋势，让不少押注科技股的投资者捏了一把汗。与此同时，美联储（Federal Reserve）也开始密切关注人工智能技术对未来就业市场可能带来的各种冲击与影响。",
+  "## 传统行业迎来好消息",
+  "在科技股回调的同时，传统食品巨头泰森食品（Tyson Foods）传出了好消息，该公司对未来的牛肉业务前景作出了更为乐观的预期，显示出部分传统实体经济板块正在稳步回暖。",
+  "对于关注美股和海外资产配置的华人朋友来说，科技股的高位震荡提醒我们，板块轮动正在加剧，盲目追高风险不小，日常投资还是得多看多听、分散风险。"
+ ],
+ "tags": [
+  "美股",
+  "人工智能",
+  "美联储",
+  "投资理财"
+ ],
+ "original_title": "AI Stocks Resume Their Slide",
+ "lang": "en",
+ "published": "2026-11-16T21:38:00+00:00",
+ "created": "2026-11-17T05:08:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

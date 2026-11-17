@@ -1,0 +1,25 @@
+{
+ "key": "6dd3fa6727",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-61059d88?mod=rss_markets_main",
+ "title": "避险情绪升温！新元兑美元亚洲盘小幅走软",
+ "summary": "亚洲交易时段，受市场避险情绪影响，新元兑美元汇率出现小幅下跌。",
+ "body": [
+  "在刚刚过去的亚洲交易时段，新加坡元（Singapore dollar）兑美元出现小幅走软。分析认为，这主要是受到整体市场避险情绪（Risk-Off Sentiment）升温的影响。",
+  "对于经常需要进行跨国汇款、旅游或资产配置的海外华人来说，汇率的每一次波动都牵动着钱包。虽然这次新元的跌幅只是“小幅”波动，但近期全球金融市场的风吹草动依然值得保持关注。"
+ ],
+ "tags": [
+  "新加坡元",
+  "汇率动态",
+  "避险情绪",
+  "美元走势"
+ ],
+ "original_title": "Singapore Dollar Weakens Slightly on Risk-Off Sentiment",
+ "lang": "en",
+ "published": "2026-11-17T03:03:00+00:00",
+ "created": "2026-11-17T05:10:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

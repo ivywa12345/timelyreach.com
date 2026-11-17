@@ -1,0 +1,26 @@
+{
+ "key": "d66831121c",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/russia-sabotage-estonia-threod-vladimir-putin-nato-9991a51d?mod=rss_opinion",
+ "title": "俄罗斯特工在欧洲搞破坏？爱沙尼亚国防企业险遭纵火",
+ "summary": "克里姆林宫特工试图对爱沙尼亚一家国防企业纵火，引发外界对俄罗斯在欧洲进行秘密破坏活动的担忧。",
+ "body": [
+  "最近，欧洲安全局势再度引发关注。根据《华尔街日报》编辑委员会（The Editorial Board）报道，有克里姆林宫（Kremlin）特工试图对爱沙尼亚的一家国防企业实施纵火，所幸阴谋未能得逞。",
+  "这起未遂纵火事件并非孤立。近年来，随着俄乌冲突持续，欧洲多国频频指责俄罗斯在西方国家境内策划了一系列秘密破坏、间谍活动和网络攻击，企图扰乱欧洲对乌克兰的支持并制造社会恐慌。",
+  "对于在海外的华人朋友来说，地缘政治的持续紧张不仅推高了欧洲及全球的能源和物价，也让西方国家对各类潜在安全威胁的敏感度空前提高。无论是签证审核、背景调查，还是日常生活中的安全防范，大环境的变化都值得大家多留个心眼。"
+ ],
+ "tags": [
+  "俄罗斯",
+  "爱沙尼亚",
+  "国防安全",
+  "国际新闻"
+ ],
+ "original_title": "From Russia, With Sabotage",
+ "lang": "en",
+ "published": "2026-11-16T22:47:00+00:00",
+ "created": "2026-11-17T05:08:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

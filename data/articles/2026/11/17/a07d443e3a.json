@@ -1,0 +1,28 @@
+{
+ "key": "a07d443e3a",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/stock-market-today-dow-s-p-live-updates",
+ "title": "美股连跌四天！芯片禁令加码，全球市场在慌什么？",
+ "summary": "由于美国将限制中国获取先进AI芯片和服务器，加上市场正屏息等待英伟达（Nvidia）财报，全球股市跌势加深，美股遭遇连续第四天下跌。",
+ "body": [
+  "全球股市的跌势进一步扩大，美股更是惨遭四连跌。这背后的直接导火索，是美国政府出台新动作，进一步限制中国获取先进的人工智能（AI）芯片和服务器，让本就谨慎的投资者更加风声鹤唳。",
+  "除了地缘政治和科技限制带来的压力，华尔街目前最大的焦点全在芯片巨头英伟达（Nvidia）即将发布的关键财报上。作为AI浪潮的风向标，这份财报被视为检验科技股泡沫是否破裂的关键试金石，市场情绪因此变得极为敏感脆弱。",
+  "受宏观悲观情绪和地缘消息拖累，除了科技股承压外，原油价格也在当天出现下跌，显示出全球大宗商品市场对经济前景的担忧正在加剧。",
+  "对于海外华人特别是关注美股投资的朋友来说，近期科技股波动剧烈，仓位较重的投资者需要密切关注政策面风向以及财报带来的市场震荡，做好风险防范，避免盲目抄底。"
+ ],
+ "tags": [
+  "美股",
+  "英伟达",
+  "AI芯片",
+  "财经资讯",
+  "海外投资"
+ ],
+ "original_title": "Stock Selloff Extends Into Fourth Day, Oil Drops: Markets Wrap",
+ "lang": "en",
+ "published": "2026-11-16T22:06:51+00:00",
+ "created": "2026-11-17T05:05:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

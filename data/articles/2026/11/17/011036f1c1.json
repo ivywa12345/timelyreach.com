@@ -1,0 +1,25 @@
+{
+ "key": "011036f1c1",
+ "board": "hot",
+ "source_id": "wsj-lifestyle",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/gig-work-is-good-work-2a972db2?mod=rss_lifestyle",
+ "title": "送外卖到底香不香？最新调查说出了大实话",
+ "summary": "华尔街日报最新专栏文章指出，一项针对外卖配送员的最新调查显示，面对不断上涨的生活成本，美国人普遍认为灵活的工作方式至关重要。",
+ "body": [
+  "最近的一项针对外卖配送员的调查揭示了一个现实：在物价飞涨的今天，许多美国人把灵活就业看作是维持生计的关键法宝。",
+  "对于在海外打拼的华人来说，无论是作为主业还是补贴家用，这种“时间自己定”的零工经济（Gig Work）不仅提供了赚钱的渠道，更成了应对通胀压力的重要缓冲垫。"
+ ],
+ "tags": [
+  "零工经济",
+  "外卖配送",
+  "通货膨胀",
+  "灵活就业"
+ ],
+ "original_title": "Opinion | Gig Work Is Good Work",
+ "lang": "en",
+ "published": "2026-11-16T22:37:00+00:00",
+ "created": "2026-11-17T05:05:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

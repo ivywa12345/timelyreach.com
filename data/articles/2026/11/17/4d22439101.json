@@ -1,0 +1,25 @@
+{
+ "key": "4d22439101",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/turkey-appoints-trustee-to-pro-opposition-channel-sozcu-tv",
+ "title": "土耳其政府又动手了！反政府电视台总部遭突袭",
+ "summary": "土耳其当局周二突袭了反对派电视台Sozcu TV的伊斯坦布尔总部，并委派了托管人接管该台，这是该国一个月内第二次接管批评政府的主流电视台。",
+ "body": [
+  "土耳其官方在周二清晨突袭了反对派主流电视台 Sozcu TV 的伊斯坦布尔总部，并强行指派了托管人来接管这家媒体的运营。这是土耳其在**短短一个多月内**第二次采取类似行动，强行接管批评政府的主要电视频道。",
+  "这次突袭和接管引发了外界对土耳其媒体自由和言论空间的持续担忧。作为一个在海外备受关注的中东国家，土耳其近年来对媒体和异见声音的管控不断收紧，此类行政干预也让当地的政治与社会环境更加扑朔迷离。"
+ ],
+ "tags": [
+  "土耳其",
+  "媒体自由",
+  "国际新闻",
+  "电视台被接管"
+ ],
+ "original_title": "Turkey Appoints Trustee to Pro-Opposition Channel Sozcu TV",
+ "lang": "en",
+ "published": "2026-11-17T04:52:48+00:00",
+ "created": "2026-11-17T05:05:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

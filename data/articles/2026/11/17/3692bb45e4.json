@@ -1,0 +1,25 @@
+{
+ "key": "3692bb45e4",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/why-this-weeks-meeting-of-world-leaders-wont-be-yalta-2-0-8cbf3a32?mod=rss_worldnews",
+ "title": "大国领袖开会，就能瓜分世界吗？外媒：想多了",
+ "summary": "华尔街日报分析指出，特朗普、普京和习近平并没有能力随心所欲地强加一个新的世界秩序，大国影响力的局限性正在显现。",
+ "body": [
+  "本周全球政要齐聚一堂，很多人担心这会变成一场决定全球命运的“雅尔塔2.0”峰会，但华尔街日报的资深记者亚罗斯拉夫·特罗菲莫夫（Yaroslav Trofimov）指出，这种担心完全是多余的。",
+  "当前的国际现实是，美国当选总统特朗普（Trump）、俄罗斯总统普京（Putin）和中国国家主席习近平（Xi）这三位大国领导人，其实并没有能力联合起来随心所欲地瓜分世界。随着超级大国影响力的边界日益清晰，所谓的“密室政治新秩序”根本无法实现。"
+ ],
+ "tags": [
+  "国际政治",
+  "大国关系",
+  "华尔街日报",
+  "全球局势"
+ ],
+ "original_title": "Why This Week’s Meeting of World Leaders Won’t Be Yalta 2.0",
+ "lang": "en",
+ "published": "2026-11-17T03:00:00+00:00",
+ "created": "2026-11-17T05:04:51+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

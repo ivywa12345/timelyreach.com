@@ -1,0 +1,30 @@
+{
+ "key": "a127dfece4",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/china/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-78389c9a?mod=rss_Technology",
+ "title": "华人圈炸了！芯片巨头高管与神秘富豪的“数据帝国”竟获中国国家资本力挺",
+ "summary": "华尔街日报报道，英伟达前高管Alice Huang的丈夫康伟建立了一个庞大的数据中心帝国，背后获得了中国国家资本的支持。",
+ "body": [
+  "近日，《华尔街日报》曝光了一桩科技圈与资本圈的重磅八卦：曾任英伟达（Nvidia）高管的 Alice Huang，其丈夫康伟（Kang Wei）在幕后建立了一个庞大的数据中心商业帝国，而这个帝国竟然有着中国国家资本的强力撑腰。",
+  "## 复杂的商业版图与背景",
+  "根据报道细节，康伟是在其妻子 Alice Huang 与当时英伟达首席执行官（CEO）有业务交集和往来的背景下，逐步发展起这一庞大业务的。目前外界最为关注的是，这些数据中心项目的资金来源以及它们在全球供应链和AI算力竞争中扮演的角色。",
+  "## 对海外华人的影响",
+  "这起事件不仅牵扯到硅谷芯片巨头英伟达（Nvidia）的高层动向，还敏感地触及了中美之间在科技、资本和国家安全领域的敏感神经。对于身处海外的华人来说，在跨国科技企业和中美资本交织的背景下，合规风险和背景审查正变得越来越严格，相关从业者的职业动向也更容易成为镁光灯下的焦点。",
+  "事件仍在进一步发酵中，各方对该数据中心帝国的实际控制权和资金流向尚未给出最新回应。"
+ ],
+ "tags": [
+  "英伟达",
+  "数据中心",
+  "海外华人",
+  "科技新闻",
+  "中美关系"
+ ],
+ "original_title": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State",
+ "lang": "en",
+ "published": "2026-11-17T02:22:00+00:00",
+ "created": "2026-11-17T05:08:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

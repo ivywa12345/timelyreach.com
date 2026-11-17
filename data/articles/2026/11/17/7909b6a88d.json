@@ -1,0 +1,31 @@
+{
+ "key": "7909b6a88d",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+ "title": "中东局势突变！美军第三艘航母进驻海湾，霍尔木兹海峡成“火药桶”",
+ "summary": "美军第三艘航母近日抵达波斯湾，伊朗随即加强军事威胁并宣称关闭霍尔木兹海峡，双方冲突疑云再次笼罩全球能源市场。",
+ "body": [
+  "近期中东局势再度紧张，随着美国第三艘航母“西奥多·罗斯福号”（USS Theodore Roosevelt）抵达波斯湾，与此前部署的“乔治·H·W·布什号”（USS George H.W. Bush）和“乔治·华盛顿号”（USS George Washington）汇合，伊朗方面反应强烈。伊朗革命卫队海军警告称，霍尔木兹海峡目前已是“火海雷区”，并要求航运公司避开该路线。",
+  "## 局势一触即发",
+  "- 英国海上贸易行动办（UK Maritime Trade Operations）证实，一艘油轮在霍尔木兹海峡遭不明飞行物击中起火。",
+  "- 伊朗海军宣称过去24小时内有四艘油轮在海峡东部触雷。",
+  "- 国际原油价格出现波动，布伦特原油期货小幅下跌至 **91.8美元/桶**，美国西德克萨斯中质原油跌至 **85.1美元/桶**。",
+  "> 霍尔木兹海峡不会重新开放，直到敌人接受伊朗的条件。——伊朗陆军发言人穆罕默德·阿克拉米-尼亚（Mohammad Akrami-Nia）",
+  "除了海上摩擦，华盛顿方面也面临安全威胁。有情报显示伊朗正在制定针对美国高层官员的攻击计划。尽管白宫发言人表示目前本土尚无“可信威胁”，但考虑到油价波动对通胀的影响，以及地缘政治风险可能引发的避险情绪，在美华人需密切关注后续油价走势及其对家庭开支带来的潜在连锁反应。"
+ ],
+ "tags": [
+  "中东局势",
+  "美国海军",
+  "伊朗",
+  "国际油价",
+  "霍尔木兹海峡"
+ ],
+ "original_title": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
+ "lang": "en",
+ "published": "2026-11-17T04:50:19+00:00",
+ "created": "2026-11-17T05:09:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

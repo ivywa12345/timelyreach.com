@@ -1,0 +1,33 @@
+{
+ "key": "87fab3b1b2",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
+ "title": "差点破产又管不住手？这位AI红人刚重返市场就全押进暴跌股票",
+ "summary": "知名AI对冲基金经理利奥波德·阿申布雷纳（Leopold Aschenbrenner）旗下的基金在今年夏天险些崩盘后，于第三季度末卷土重来，大手笔买入大量AI概念股，但这些持仓随后在10月的市场大跌中遭遇重创。",
+ "body": [
+  "今年夏天差点破产的AI主题对冲基金Situational Awareness，在三季度末重返金融市场时又“管不住手”，再度全仓杀入AI股票，结果迎面撞上了一个半月来的惨烈大跌。",
+  "## 豪赌AI概念股却遭重挫",
+  "根据最新的监管文件显示，阿申布雷纳（Leopold Aschenbrenner）重整旗鼓后，买入了大量AI概念股，其中对澳大利亚新云服务公司SharonAI的股权投资价值超过**4.4亿美元**，此外还持有Cleanspark、IREN、Bitdeer Technologies和Fermi等公司的股份。",
+  "- SharonAI价值超过4.4亿美元\n- Cleanspark价值近3900万美元\n- IREN价值超过2100万美元\n- Bitdeer价值超过2000万美元\n- Fermi价值超过1100万美元",
+  "该基金还在9月底持有了neocloud云服务公司Nebius、闪迪（Sandisk）、内存ETF（DRAM）以及数据中心电力公司Bloom Energy的看涨期权。值得注意的是，Nebius和闪迪正是夏天差点把他的基金搞垮的“罪魁祸首”。",
+  "## 遭遇10月黑色风暴",
+  "然而，这些持仓在9月30日之后全部遭遇重创。其中SharonAI在10月份暴跌了**58%**，本月至今又跌了11%；IREN在10月下跌41%，Nebius则下跌35%。虽然目前尚不清楚这位基金经理是否在10月的AI板块抛售潮中成功逃生，但13F文件仅反映了该基金在季度末的持仓快照。",
+  "阿申布雷纳在2024年因发表同名AI宣言《Situational Awareness》而名声大噪，并于同年创立了这只基金。由于今年夏天的近乎崩盘，他被迫将所有公开股票持仓卖给了肯·格里芬（Ken Griffin）旗下的城堡投资（Citadel），管理资产规模从巅峰时期的450亿美元缩水至约10亿美元（大部分为私募股权）。",
+  "对于在美华人投资者来说，近期AI板块的剧烈震荡再次敲响了警钟。随着市场对AI技术发展放缓、数据中心建设受阻以及科技公司债务负担的担忧加剧，盲目追高高风险AI概念股和期权极易遭遇黑天鹅，投资加密货币、AI基建及相关美股时务必注意控制风险、守住钱包。"
+ ],
+ "tags": [
+  "AI股票",
+  "对冲基金",
+  "美股暴跌",
+  "金融投资",
+  "华尔街"
+ ],
+ "original_title": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
+ "lang": "en",
+ "published": "2026-11-16T23:05:12+00:00",
+ "created": "2026-11-17T05:11:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

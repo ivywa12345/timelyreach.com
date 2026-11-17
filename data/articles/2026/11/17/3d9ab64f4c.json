@@ -1,0 +1,26 @@
+{
+ "key": "3d9ab64f4c",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/mongolian-president-abruptly-resigns-after-alleged-misconduct",
+ "title": "突发！蒙古国总统突然宣布辞职",
+ "summary": "蒙古国总统乌赫那·呼日苏赫在面临违纪指控后，突然宣布辞职。",
+ "body": [
+  "据彭博社（Bloomberg）报道，蒙古国总统乌赫那·呼日苏赫（Khurelsukh Ukhnaa）近日在面临违纪指控的情况下，突然公开宣布将辞去总统职务。",
+  "目前，关于此次违纪指控的具体细节和事件背景，相关方面尚未披露更多信息，总统府也未公布辞职的具体生效时间及后续政权交接安排。",
+  "作为紧邻中俄的内陆国家，蒙古国的政坛变动一向备受关注，后续局势发展仍有待当地官方进一步披露。"
+ ],
+ "tags": [
+  "蒙古国",
+  "总统辞职",
+  "国际新闻",
+  "政坛变动"
+ ],
+ "original_title": "Mongolian President Abruptly Resigns After Alleged Misconduct",
+ "lang": "en",
+ "published": "2026-11-17T04:34:56+00:00",
+ "created": "2026-11-17T05:08:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

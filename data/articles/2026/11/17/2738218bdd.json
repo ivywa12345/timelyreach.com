@@ -1,0 +1,26 @@
+{
+ "key": "2738218bdd",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/americas/the-bitter-feud-between-the-leaders-of-brazil-and-argentina-goes-global-6a91033f?mod=rss_worldnews",
+ "title": "南美双雄彻底闹僵！巴西和阿根廷总统的骂战升级到国际舞台",
+ "summary": "巴西总统卢拉与阿根廷总统米莱之间的个人恩怨不断升级，从最初的言语互怼和公开冷落，已经演变成一场影响深远的国际外交摩擦。",
+ "body": [
+  "巴西左翼总统路易斯·伊纳西奥·卢拉·达席尔瓦（Luiz Inácio Lula da Silva）与阿根廷右翼总统哈维尔·米莱（Javier Milei）之间的个人恩怨正在全面升级，这对南美洲两个最大经济体之间的关系蒙上了阴影。",
+  "两人的矛盾由最初的隔空互骂、互相冷落以及公开驳斥，迅速蔓延到了国际外交舞台。这场南美双雄的公开对立，不仅让两国关系降至冰点，也让外界对拉美地区的团结和区域一体化进程产生了担忧。"
+ ],
+ "tags": [
+  "巴西",
+  "阿根廷",
+  "国际政治",
+  "卢拉",
+  "米莱"
+ ],
+ "original_title": "The Bitter Feud Between the Leaders of Brazil and Argentina Goes Global",
+ "lang": "en",
+ "published": "2026-11-17T03:00:00+00:00",
+ "created": "2026-11-17T05:07:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

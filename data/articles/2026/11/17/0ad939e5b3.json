@@ -1,0 +1,26 @@
+{
+ "key": "0ad939e5b3",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/pro/bankruptcy/optimum-skips-bond-interest-payments-amid-restructuring-talks-3a1644f9?mod=rss_markets_main",
+ "title": "宽带巨头Optimum债务危机爆发？突然跳过债券利息支付",
+ "summary": "宽带公司Optimum在与债权人进行重组谈判之际，选择跳过债券利息支付，目前已进入30天的宽限期。",
+ "body": [
+  "宽带公司 Optimum（Optimum）在与债权人进行重组谈判之际，突然选择跳过债券利息支付，目前已正式进入 **30天** 的宽限期。",
+  "这对于身背沉重债务的该公司来说，是在重组过程中采取的关键一步。虽然进入宽限期暂时避免了立即违约，但也凸显出其财务状况面临的不小压力。",
+  "如果身边的华人群体有使用这家公司的宽带服务，建议密切关注其后续服务稳定性和网络质量，以防公司重组对日常上网带来潜在影响。"
+ ],
+ "tags": [
+  "Optimum",
+  "宽带",
+  "债务重组",
+  "财经新闻"
+ ],
+ "original_title": "Optimum Skips Bond Interest Payments Amid Restructuring Talks",
+ "lang": "en",
+ "published": "2026-11-16T17:37:00+00:00",
+ "created": "2026-11-17T05:10:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "8b087c95b3",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/chip-stocks-slide-as-us-sets-new-curbs-on-china-s-compute-access",
+ "title": "美国出手限制先进芯片，中国AI概念股集体跳水",
+ "summary": "由于美国进一步收紧先进AI芯片出口限制，中国的AI大模型开发商和科技巨头股价在周二遭遇重挫。",
+ "body": [
+  "周二，受美国最新先进芯片限制措施的影响，中国的人工智能概念股集体大跌，国内最大的几家科技巨头和AI模型开发商成为了重灾区。",
+  "彭博社（Bloomberg）记者Winnie Hsu指出，美国此次行动旨在进一步堵住先进芯片流向中国实验室和云服务商的通道，直接导致市场情绪紧张，相关企业的股价应声下挫。"
+ ],
+ "tags": [
+  "人工智能",
+  "美国芯片禁令",
+  "中国股市",
+  "科技巨头"
+ ],
+ "original_title": "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers",
+ "lang": "en",
+ "published": "2026-11-17T00:22:19+00:00",
+ "created": "2026-11-17T05:11:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
