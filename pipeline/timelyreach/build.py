@@ -241,11 +241,28 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
         related = [r for r in by_board.get(a.board, []) if r.key != a.key][:6]
         render(
             "article.html",
-            f"t/{a.slug}.html",
-            canonical=f"{site.base_url}/t/{a.slug}",
+            f"t/{a.path}.html",
+            canonical=f"{site.base_url}/t/{a.path}",
             a=a,
             board=site.board_map.get(a.board),
             related=related,
+        )
+
+    # Old hash-only URLs (/t/2026/11/09/36a249c778) already in Google's index and in shared links:
+    # the newest ones get a real 301 in _redirects (Pages allows 2000 static rules), the rest a stub
+    # page with a canonical link and an instant redirect.
+    moved = [a for a in articles if a.path != a.slug]
+    rules = [f"/t/{a.slug} /t/{a.path} 301" for a in moved[:1900]]
+    if rules:
+        _write(out / "_redirects", "\n".join(rules) + "\n")
+    for a in moved:
+        target = f"{site.base_url}/t/{a.path}"
+        _write(
+            out / f"t/{a.slug}.html",
+            '<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">'
+            f'<link rel="canonical" href="{target}"><meta http-equiv="refresh" content="0;url=/t/{a.path}">'
+            f'<title>{escape(a.title)}</title></head><body><p><a href="/t/{a.path}">{escape(a.title)}</a></p>'
+            f'<script>location.replace("/t/{a.path}"+location.search+location.hash)</script></body></html>',
         )
 
     # Reader threads (static copies for search engines; comments load live)
@@ -278,7 +295,7 @@ def build_site(out: Path = OUTPUT_DIR, store: Store | None = None, user_threads:
         + ";\n",
     )
     _write(out / "search.json", json.dumps(
-        [{"t": a.title, "s": a.summary[:80], "u": f"/t/{a.slug}", "b": a.board, "d": a.created[:10]} for a in articles[:3000]],
+        [{"t": a.title, "s": a.summary[:80], "u": f"/t/{a.path}", "k": a.slug, "b": a.board, "d": a.created[:10]} for a in articles[:3000]],
         ensure_ascii=False, separators=(",", ":"),
     ))
     _write_seo_files(out, site, articles, user_threads, now)
@@ -294,7 +311,7 @@ def _write_seo_files(out: Path, site: SiteConfig, articles: list[Article], user_
     for b in site.boards:
         urls.append((f"{base}/f/{b.id}/", now, "hourly"))
     for a in articles:
-        urls.append((f"{base}/t/{a.slug}", a.created, "weekly"))
+        urls.append((f"{base}/t/{a.path}", a.created, "weekly"))
     for t in user_threads:
         urls.append((f"{base}/p/{t['id']}", t.get("updated_at") or t.get("created_at") or now, "daily"))
     urls.append((f"{base}/about", now, "monthly"))
@@ -314,7 +331,7 @@ def _write_seo_files(out: Path, site: SiteConfig, articles: list[Article], user_
     ]
     for a in news:
         lines.append(
-            f"<url><loc>{xml_escape(f'{base}/t/{a.slug}')}</loc><news:news><news:publication>"
+            f"<url><loc>{xml_escape(f'{base}/t/{a.path}')}</loc><news:news><news:publication>"
             f"<news:name>{xml_escape(site.short_name)}</news:name><news:language>zh-cn</news:language>"
             f"</news:publication><news:publication_date>{a.created}</news:publication_date>"
             f"<news:title>{xml_escape(a.title)}</news:title></news:news></url>"
@@ -333,7 +350,7 @@ def _write_seo_files(out: Path, site: SiteConfig, articles: list[Article], user_
 
     items = []
     for a in articles[:50]:
-        link = f"{base}/t/{a.slug}"
+        link = f"{base}/t/{a.path}"
         pub = datetime.fromisoformat(a.created).strftime("%a, %d %b %Y %H:%M:%S +0000")
         items.append(
             f"<item><title>{xml_escape(a.title)}</title><link>{link}</link><guid>{link}</guid>"

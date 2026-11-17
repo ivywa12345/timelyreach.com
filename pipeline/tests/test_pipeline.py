@@ -164,18 +164,19 @@ def test_build_site(tmp_path, monkeypatch):
                 "author": {"username": "ivy", "display_name": "Ivy"}}]
     out = build.build_site(out=tmp_path / "site", store=store, user_threads=threads)
 
-    page = (out / f"t/{evil.slug}.html").read_text(encoding="utf-8")
+    page = (out / f"t/{evil.path}.html").read_text(encoding="utf-8")
     assert "<script>alert" not in page
     for block in re.findall(r'<script type="application/ld\+json">(.*?)</script>', page, re.S):
         data = json.loads(block)
         assert data["@type"] in ("NewsArticle", "BreadcrumbList")
-    assert '<link rel="canonical" href="https://www.timelyreach.com/t/2026/10/17/0000000001">' in page
+    assert f'<link rel="canonical" href="https://www.timelyreach.com/t/{evil.path}">' in page
+    assert (out / f"t/{evil.slug}.html").exists() and "canonical" in (out / f"t/{evil.slug}.html").read_text(encoding="utf-8")  # old URL redirects
 
     assert (out / "index.html").exists() and (out / "f/finance/index.html").exists()
     assert (out / "f/finance/2.html").exists()  # 48 finance articles, 40 per page
     assert (out / "p/7.html").read_text(encoding="utf-8").count("<p>第") == 2
     sitemap = (out / "sitemap.xml").read_text(encoding="utf-8")
-    assert "https://www.timelyreach.com/p/7" in sitemap and "/t/2026/10/17/0000000002" in sitemap
+    assert "https://www.timelyreach.com/p/7" in sitemap and f"/t/{_article(2).path}" in sitemap
     assert (out / "CNAME").read_text().strip() == "www.timelyreach.com"
     assert "Sitemap: https://www.timelyreach.com/sitemap.xml" in (out / "robots.txt").read_text()
     cfg = (out / "static/js/config.js").read_text(encoding="utf-8")
@@ -652,7 +653,7 @@ def test_ads_are_off_without_a_publisher_id_and_wired_with_one(tmp_path, monkeyp
     monkeypatch.setattr(build, "load_site", lambda: on)
     out = build.build_site(tmp_path / "on", store=store, user_threads=[], stats={})
     assert (out / "ads.txt").read_text() == "google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0\n"
-    article = next((out / "t").rglob("*.html")).read_text(encoding="utf-8")
+    article = next(t for t in ((x.read_text(encoding="utf-8")) for x in (out / "t").rglob("*.html")) if "http-equiv=\"refresh\"" not in t)
     assert "adsbygoogle.js?client=ca-pub-1234567890123456" in article
     assert 'data-ad-slot="1111111111"' in article          # configured slot rendered
     assert "22222222" not in article                        # malformed slot id is dropped, never injected

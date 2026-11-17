@@ -21,6 +21,10 @@
 - 首页：站长荐读只在 12 小时内置顶（最多 2），其后财经/美国新闻交替按最新；下方“最新发布”。
 - 周末（周六/日 ≥9:00 ET）自动生成本周回顾，每 ISO 周一篇。
 
+## URL 规则
+- 文章公开地址 `/t/YYYY/MM/DD/<英文标题词或拼音>-<key>`（`Article.path`）；`Article.slug`（`日期/key`）只用作存储路径和评论/浏览数的 thread_key，不能改。
+- 旧的 `/t/日期/key` 地址：最新 1900 条在 `_redirects` 里 301，其余生成带 canonical + 跳转的小页面（Pages 的 `_redirects` 上限 2000 条）。
+
 ## 管线要点
 - `update.py`：inbox → picks → 各来源计划 → 轮询分配 max_new → 简报 → 周报。
 - Gemini：lite 优先，brief/weekly/editor 用 flash；失败模型“休息”而非整轮放弃；失败退回免费翻译。

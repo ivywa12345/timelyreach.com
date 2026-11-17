@@ -89,7 +89,7 @@ function start() {
     var signups = res[4].data || [], active = res[5].data || [], index = res[6];
 
     var byUrl = {};
-    index.forEach(function (a) { byUrl[a.u] = a; });
+    index.forEach(function (a) { byUrl["/t/" + (a.k || a.u.replace(/^\/t\//, ""))] = a; });
     var boardNames = {};
     (CFG.boards || []).forEach(function (b) { boardNames[b.id] = b.name; });
 
@@ -100,7 +100,7 @@ function start() {
 
     var top = stats.filter(function (r) { return r.thread_key.indexOf("t:") === 0 && (r.view_count || 0) > 0; }).slice(0, 10);
     $("an-top").innerHTML = top.length ? top.map(function (r) {
-      var url = "/t/" + r.thread_key.slice(2), a = byUrl[url];
+      var a = byUrl["/t/" + r.thread_key.slice(2)], url = a ? a.u : "/t/" + r.thread_key.slice(2);
       return '<li><a href="' + url + '">' + esc(a ? a.t : r.thread_key) + '</a><span class="n">' + num(r.view_count) + " 浏览 · " + num(r.reply_count) + " 评论</span></li>";
     }).join("") : "<li>还没有浏览数据。</li>";
 

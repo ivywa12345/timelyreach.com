@@ -2,12 +2,39 @@
 from __future__ import annotations
 
 import hashlib
+import re
+import unicodedata
 from dataclasses import asdict, dataclass, field
 from datetime import datetime, timezone
 
 
 def url_hash(url: str) -> str:
     return hashlib.sha1(url.strip().encode("utf-8")).hexdigest()[:10]
+
+
+_WORDS_MAX = 60
+
+
+def url_words(title: str) -> str:
+    """ASCII words for a URL: English titles as is, Chinese titles in pinyin (no tones)."""
+    text = (title or "").strip()
+    if not text:
+        return ""
+    if re.search(r"[\u4e00-\u9fff]", text):
+        try:
+            from pypinyin import lazy_pinyin
+
+            text = " ".join(lazy_pinyin(text, errors=lambda x: [x]))
+        except ImportError:  # no pinyin library: key-only URL
+            return ""
+    text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode().lower().replace("'", "")
+    words = re.findall(r"[a-z0-9]+", text)
+    out: list[str] = []
+    for w in words:
+        if sum(len(x) + 1 for x in out) + len(w) > _WORDS_MAX:
+            break
+        out.append(w)
+    return "-".join(out)
 
 
 @dataclass
@@ -59,6 +86,13 @@ class Article:
     def slug(self) -> str:
         """Stable path used in URLs and as the comment thread key."""
         return f"{self.date_path}/{self.key}"
+
+    @property
+    def path(self) -> str:
+        """Public URL path (after /t/): date + readable words + key, e.g. 2026/11/09/fed-holds-rates-36a249c778.
+        `slug` stays the storage path and comment-thread key, so views and comments keep working."""
+        words = url_words(self.original_title) or url_words(self.title)
+        return f"{self.date_path}/{words}-{self.key}" if words else self.slug
 
     @property
     def thread_key(self) -> str:

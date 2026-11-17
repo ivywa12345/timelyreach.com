@@ -217,7 +217,7 @@
         var userQ = uids.length ? sb.from("threads_public").select("id,title").in("id", uids) : Promise.resolve({ data: [] });
         Promise.all([loadSearchIndex(), userQ]).then(function (res) {
           var titles = {};
-          res[0].forEach(function (a) { titles["t:" + a.u.replace(/^\/t\//, "").replace(/\.html$/, "")] = { t: a.t, u: a.u }; });
+          res[0].forEach(function (a) { titles["t:" + (a.k || a.u.replace(/^\/t\//, "").replace(/\.html$/, ""))] = { t: a.t, u: a.u }; });
           (res[1].data || []).forEach(function (t) { titles["u:" + t.id] = { t: t.title, u: "/thread?id=" + t.id }; });
           ol.innerHTML = stats.filter(function (s) { return titles[s.thread_key]; }).map(function (s) {
             var x = titles[s.thread_key];
