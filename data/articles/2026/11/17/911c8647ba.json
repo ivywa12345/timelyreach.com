@@ -1,0 +1,27 @@
+{
+ "key": "911c8647ba",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=rss_Technology",
+ "title": "黄仁勋离职后首份财报：英伟达营收翻倍，但代CEO面临灵魂拷问",
+ "summary": "英伟达发布了黄仁勋卸任后的首份财报，营收同比实现翻倍以上增长，表现超出预期。不过，代理CEO科莱特·克雷斯仍将面对外界关于芯片巨头未来走向的尖锐提问。",
+ "body": [
+  "近日，芯片巨头英伟达（Nvidia）交出了黄仁勋（Jensen Huang）卸任后的首份成绩单，财报数据显示其营收较去年同期实现**翻倍以上增长**，整体表现超越市场预期。",
+  "作为黄仁勋离职后的首次亮相，外界对这家公司的未来充满好奇与担忧。代理CEO科莱特·克雷斯（Colette Kress）在接棒后面临着不少棘手的挑战，预计将在财报发布后直面分析师和投资者关于公司长期战略的密集追问。",
+  "对于关注科技股和半导体行业的海外华人来说，英伟达作为AI浪潮的核心风向标，其高层的变动与业绩走势直接牵动着相关产业链的投资神经，后续的技术路线和市场份额仍是大家关心的焦点。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "财报",
+  "人工智能",
+  "美股"
+ ],
+ "original_title": "Nvidia Beats Estimates in First Earnings Report After Jensen Huang’s Ouster",
+ "lang": "en",
+ "published": "2026-11-17T21:48:00+00:00",
+ "created": "2026-11-17T22:20:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

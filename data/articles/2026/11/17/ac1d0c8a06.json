@@ -1,0 +1,27 @@
+{
+ "key": "ac1d0c8a06",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/sellas-life-sciences-stock-triples-after-cancer-vaccine-data",
+ "title": "癌症疫苗临床大捷！这家生物医药公司股价暴涨156%",
+ "summary": "Sellas生命科学公司因公布了一款实验性癌症疫苗的晚期临床试验积极结果，股价迎来了156%的爆发式增长。",
+ "body": [
+  "今天医药股圈最劲爆的消息莫过于这家公司了！开发抗癌药物的Sellas生命科学集团（Sellas Life Sciences Group Inc.）因为拿出了针对一种恶性血液肿瘤的实验性癌症疫苗的好消息，在资本市场上直接起飞，股价狂飙 **156%**。",
+  "这次让投资者大受鼓舞的是他们的一款实验性癌症疫苗，在针对某种凶险的血液恶性肿瘤（blood cancer）的晚期临床试验中，取得了非常积极的成果。虽然具体的疗效数据和后续审批流程还在推进中，但市场的狂热反应已经说明了一切。对于长期关注生物医药和抗癌进展的海外华人投资者来说，这种突破性的临床数据无疑是给市场打了一针强心剂。",
+  "近年来癌症免疫疗法和疫苗一直是医学界攻克的高地，如果这类创新疗法未来能成功获批上市，将为无数身患重疾的患者带来新的生机。我们也期待更多好消息传来，看看它能否真正从实验室走向临床，造福广大病患。"
+ ],
+ "tags": [
+  "癌症疫苗",
+  "生物医药",
+  "股票市场",
+  "临床试验",
+  "Sellas"
+ ],
+ "original_title": "Sellas Life Sciences Surges 156% After Cancer Vaccine Data",
+ "lang": "en",
+ "published": "2026-11-17T16:52:10+00:00",
+ "created": "2026-11-17T22:23:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

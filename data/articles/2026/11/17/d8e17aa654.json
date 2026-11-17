@@ -1,0 +1,28 @@
+{
+ "key": "d8e17aa654",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/panama-pulled-back-from-brink-of-junk-as-moody-s-lifts-outlook",
+ "title": "巴拿马终于松了口气！信用评级危机暂时解除",
+ "summary": "穆迪评级（Moody’s Ratings）撤销了对巴拿马长达两年的“负面”评级展望，这意味着该国暂时避开了被降至“垃圾级”的风险。",
+ "body": [
+  "对于关注拉美经济的投资者来说，这算是一个久违的好消息。近日，国际信用评级机构穆迪评级（Moody’s Ratings）正式宣布，将巴拿马的评级展望从“负面”上调，结束了过去两年一直笼罩在该国头顶的信用降级阴云。",
+  "## 暂时躲过一劫",
+  "这次调整意味着巴拿马的国家信用评分目前处于相对稳定的状态，暂时不用担心会被踢入“垃圾级”债券行列。此前，巴拿马因为财政压力和增长放缓，一直游走在降级的边缘，让不少持有该国债券的投资者捏了一把汗。",
+  "穆迪此举主要是基于对该国经济韧性的认可，虽然巴拿马仍面临不少挑战，但此次展望的改善标志着市场对其偿债能力的信任度有所回升。这对在海外进行投资配置的华人来说，算是一个值得留意的经济风向标，毕竟拉美地区的金融稳定性直接影响到相关资产的表现。"
+ ],
+ "tags": [
+  "巴拿马",
+  "经济资讯",
+  "穆迪",
+  "信用评级",
+  "海外投资"
+ ],
+ "original_title": "Panama Pulled Back From Brink of Junk as Moody’s Lifts Outlook",
+ "lang": "en",
+ "published": "2026-11-17T21:49:16+00:00",
+ "created": "2026-11-17T22:22:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

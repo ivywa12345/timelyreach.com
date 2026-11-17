@@ -1,0 +1,28 @@
+{
+ "key": "f78c4c27f0",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/slower-retail-sales-drag-on-market-fd1db66a?mod=rss_markets_main",
+ "title": "零售销售放缓拖累美股，SEC正调查英伟达",
+ "summary": "最新数据显示美国零售销售放缓，给市场带来压力；与此同时，美国证券交易委员会（SEC）对英伟达展开调查，而迪士尼则在持续削减成本。",
+ "body": [
+  "最近华尔街的消息可以说是喜忧参半，一方面是消费端传出降温信号，另一方面则是监管层和企业有了新动作。",
+  "## 零售降温与企业动态",
+  "- 美国零售销售数据出现放缓迹象，直接对市场情绪造成了拖累\n- 美国证券交易委员会（SEC）正在对英伟达（Nvidia）展开调查\n- 娱乐巨头迪士尼（Disney）目前正在推进成本削减计划",
+  "对于关注美股和经济走势的朋友来说，消费数据的疲软往往是经济降温的信号，而龙头企业面临的监管调查也可能带来市场波动，建议大家近期密切关注相关板块的风险。"
+ ],
+ "tags": [
+  "美股",
+  "零售销售",
+  "英伟达",
+  "迪士尼",
+  "SEC"
+ ],
+ "original_title": "Slower Retail Sales Drag on Market",
+ "lang": "en",
+ "published": "2026-11-17T21:49:00+00:00",
+ "created": "2026-11-17T22:20:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

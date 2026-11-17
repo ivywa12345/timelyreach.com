@@ -1,0 +1,26 @@
+{
+ "key": "8ff882ecb2",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/canada-and-china-draw-closer-with-expanded-trade-pact-b4566a38?mod=rss_worldnews",
+ "title": "加拿大总理卡尼出招！联手中国扩大贸易，意在摆脱对美依赖",
+ "summary": "加拿大与中国达成扩大贸易协议，这是加拿大总理马克·卡尼（Mark Carney）试图减少对美国经济依赖的重要举措。",
+ "body": [
+  "近日加拿大与中国关系出现新动向，根据《华尔街日报》报道，加拿大与中国达成了一项扩大贸易的协议。这标志着两国经贸关系进一步走近，引发外界关注。",
+  "这项贸易协议是加拿大总理马克·卡尼（Mark Carney）为了摆脱本国经济对美国的过度依赖而采取的具体行动之一。长期以来，加拿大的出口市场高度集中于美国，寻求贸易多元化成为该国当前的政策重点。",
+  "对于在美华人或关注北美政经局势的朋友来说，北美贸易格局的微妙变化可能会对区域供应链和商业环境带来连锁反应，值得持续关注。"
+ ],
+ "tags": [
+  "加拿大",
+  "中国",
+  "中美加关系",
+  "国际贸易"
+ ],
+ "original_title": "Canada and China Draw Closer with Expanded Trade Pact",
+ "lang": "en",
+ "published": "2026-11-17T21:08:00+00:00",
+ "created": "2026-11-17T22:23:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "79dcaede91",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/sec-is-probing-nvidia-amid-jensen-huang-s-exit-wsj-reports",
+ "title": "英伟达摊上事了？黄仁勋卸任之际遭SEC调查",
+ "summary": "据《华尔街日报》周二报道，美国证券交易委员会（SEC）目前正在对英伟达公司（Nvidia Corp.）展开调查，而此时该公司正面临前首席执行官黄仁勋（Jensen Huang）离职带来的余波。",
+ "body": [
+  "据彭博社和《华尔街日报》报道，美国证券交易委员会（SEC）目前已经盯上了人工智能芯片巨头英伟达公司（Nvidia Corp.），正在对该公司进行相关调查。而就在这个节骨眼上，英伟达刚刚经历了前首席执行官黄仁勋（Jensen Huang）的卸任，公司正忙着处理高层变动带来的各种后续影响。",
+  "目前关于此次调查的具体细节和涉事原因，媒体尚未披露更多信息。作为全球AI浪潮的核心企业，英伟达的一举一动都牵动着市场的神经，此次SEC介入调查无疑给正处在权力交接期的公司平添了变数。",
+  "对于关注美股和科技股的华人投资者来说，监管机构的介入可能会引发股价波动。我们将持续关注事件进展，看看这场风波会对英伟达的业务和资本市场产生什么影响。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "美国SEC",
+  "美股动态"
+ ],
+ "original_title": "SEC Is Probing Nvidia Amid Jensen Huang’s Exit, WSJ Reports",
+ "lang": "en",
+ "published": "2026-11-17T21:25:24+00:00",
+ "created": "2026-11-17T22:20:30+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "009c9e3a49",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
+ "title": "软件巨头股价领跌！AI时代的安全漏洞让华尔街慌了？",
+ "summary": "Salesforce股价在科技股普跌中领跌标普500指数，分析师指出，近期频繁的科技故障引发了市场担忧，软件公司可能在AI滥用面前“格外脆弱”。",
+ "body": [
+  "近期科技板块震荡不断，软件巨头赛富时（Salesforce）的股价更是直接领跌标普500指数，成为市场关注的焦点。",
+  "根据MarketWatch报道，分析师克劳迪娅·阿西斯（Claudia Assis）指出，最近发生的一系列科技故障，让投资者开始担心软件公司在面对人工智能（AI）滥用时，可能会暴露出极大的漏洞。",
+  "对海外华人来说，科技股的动荡往往直接关系到大家的401(k)养老金、科技行业的就业机会以及相关投资的钱包厚度。AI技术的快速发展在带来便利的同时，其安全隐患和潜在的系统性风险也正在浮出水面。"
+ ],
+ "tags": [
+  "Salesforce",
+  "美股",
+  "科技股",
+  "人工智能",
+  "华尔街"
+ ],
+ "original_title": "Why Salesforce’s stock led the S&P 500’s decliners amid tech jitters",
+ "lang": "en",
+ "published": "2026-11-17T21:12:00+00:00",
+ "created": "2026-11-17T22:22:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "4807563672",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/treasuries-rise-as-risk-averse-investors-dump-stocks-buy-bonds",
+ "title": "股市接连崩坏！吓得大家赶紧买美国国债避险",
+ "summary": "由于近期科技股接连出现技术故障引发市场恐慌，投资者纷纷抛售股票，转而涌入美国国债寻求庇护，推动国债价格上涨。",
+ "body": [
+  "最近这一周科技圈和股市真是不太平，一连串的技术故障把投资者吓坏了。大家为了避险，纷纷把资金从股市撤出来，转头涌向美国国债（Treasuries），这也直接推高了美国国债的价格。",
+  "根据彭博社（Bloomberg）报道，由于市场对风险的担忧情绪急剧升温，美国政府债券成了资金的“避风港”。虽然这只是一次由技术故障引发的市场震荡，但也再次凸显了投资者在面对不确定性时的谨慎态度。"
+ ],
+ "tags": [
+  "美国国债",
+  "股市震荡",
+  "避险情绪",
+  "科技股"
+ ],
+ "original_title": "Treasuries Rise as Risk-Aversion Stokes Demand for Bonds",
+ "lang": "en",
+ "published": "2026-11-17T16:26:24+00:00",
+ "created": "2026-11-17T22:24:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

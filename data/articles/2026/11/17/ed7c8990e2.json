@@ -1,0 +1,27 @@
+{
+ "key": "ed7c8990e2",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/dodgers-owner-mark-walters-insurer-misses-target-to-reduce-affiliated-assets-249e32c5?mod=rss_markets_main",
+ "title": "道奇队老板的保险公司，这次又没达标？",
+ "summary": "道奇队老板马克·沃尔特旗下的特拉华人寿保险公司表示，其与沃尔特相关的资产持股比例在第三季度降至35%，但仍未达到预定目标。",
+ "body": [
+  "道奇队老板马克·沃尔特（Mark Walter）旗下的特拉华人寿保险公司（Delaware Life Insurance）近日公布了最新财务数据，其关联资产占比在第三季度下降到了 **35%**，不过这一数字依然没有达到此前设定的减仓目标。",
+  "根据《华尔街日报》记者Margot Patrick的报道，这家保险公司近年来一直在努力降低与沃尔特个人及相关实体紧密捆绑的资产比例，以满足更健康的监管和风险分散要求。",
+  "对于在海外关注美国金融和投资市场的华人朋友来说，大型金融机构的资产健康状况和合规调整往往牵动着整个行业的神经。虽然这只是一次例行的资产占比调整，但保险公司资金池的透明度和独立性，依然是保障保单持有人利益的关键所在。"
+ ],
+ "tags": [
+  "道奇队",
+  "马克·沃尔特",
+  "保险公司",
+  "资产管理",
+  "华尔街日报"
+ ],
+ "original_title": "Dodgers Owner Mark Walter’s Insurer Misses Target to Reduce Affiliated Assets",
+ "lang": "en",
+ "published": "2026-11-17T10:57:00+00:00",
+ "created": "2026-11-17T22:23:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
