@@ -1,0 +1,23 @@
+{
+ "key": "800f567de9",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "OpenAI",
+ "source_url": "https://x.com/OpenAI/status/2122380010287960095",
+ "title": "科学家称AI让科研生产力近乎翻倍",
+ "summary": "OpenAI一项覆盖1800多名科研人员的研究显示，科学家使用ChatGPT后生产力几乎翻倍，涵盖构思、数据分析和写代码等环节。",
+ "body": [
+  "在一项覆盖1800多名参与者的ChatGPT学术研究者计划（ChatGPT for Academic Researchers）研究中，科学家报告称，他们使用人工智能（AI）后的生产力几乎翻倍。",
+  "研究采用隐私保护方法，观察了科学家如何在工作中使用ChatGPT——从构思创意、分析数据到编写代码——以及这可能对科学发现意味着什么。"
+ ],
+ "tags": [
+  "AI",
+  "科研"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-16T17:23:21+00:00",
+ "created": "2026-11-17T01:41:57+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
