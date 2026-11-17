@@ -1,0 +1,27 @@
+{
+ "key": "8457c3fe84",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/nasdaq-100-futures-rise-as-investors-prepare-for-nvidia-results",
+ "title": "美股连跌四天！英伟达财报成“救市主”，还要再跌吗？",
+ "summary": "美股近期走势低迷，英伟达（Nvidia）即将发布的财报被视为重振AI板块信心的关键，市场正屏息以待。",
+ "body": [
+  "美股近期的日子不太好过，已经连续第四个交易日出现下跌。现在华尔街的所有目光都聚焦在英伟达（Nvidia）即将公布的财报上，大家都指望着这份报告能给摇摇欲坠的AI概念股打一针“强心剂”。",
+  "这次财报是英伟达自黄仁勋（Jensen Huang）的一系列动作引发关注以来的首次成绩单。作为科技股的风向标，英伟达的业绩表现直接关系到投资者的信心是否能稳住。如果英伟达能交出一份亮眼的成绩单，或许能扭转近期科技股集体走弱的局面；反之，若业绩不及预期，AI热潮的泡沫可能会被进一步挤压。",
+  "对于咱们在美华人来说，如果手头持有科技股或相关ETF，未来几天的波动可能会比较大。建议大家关注财报后的市场反应，尤其是这些大型科技公司的股价波动，毕竟这直接关系到咱们的退休金账户（401k）表现和投资组合的健康程度。"
+ ],
+ "tags": [
+  "美股",
+  "英伟达",
+  "科技股",
+  "投资理财",
+  "AI概念"
+ ],
+ "original_title": "Tech Stocks Sink Before Nvidia’s First Results After Huang Exit",
+ "lang": "en",
+ "published": "2026-11-17T13:13:35+00:00",
+ "created": "2026-11-17T19:30:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

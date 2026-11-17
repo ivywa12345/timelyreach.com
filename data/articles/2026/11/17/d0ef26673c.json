@@ -1,0 +1,27 @@
+{
+ "key": "d0ef26673c",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026?mod=rss_markets_main",
+ "title": "英伟达财报前美股集体回调，黄仁勋减持风波持续发酵",
+ "summary": "美股周三集体收跌，道指、标普500和纳斯达克指数全线走低。市场在英伟达（Nvidia）发布财报前夕表现谨慎，同时CEO黄仁勋近期的大规模减持动作也引发了投资者的广泛关注与市场波动。",
+ "body": [
+  "美股三大指数在备受瞩目的英伟达（Nvidia）财报发布前夕集体遭遇滑铁卢，道琼斯工业平均指数、标普500指数和纳斯达克综合指数盘面全部飘绿，显示出市场在科技股高位前的紧张情绪。",
+  "此次市场回调的背景不仅是投资者对AI芯片龙头财报的观望，还受到近期英伟达高管层动态的影响。市场分析指出，公司创始人兼首席执行官黄仁勋（Jensen Huang）近期的一系列减持动作，加剧了投资者对短期股价见顶的担忧，相关连锁反应正在盘面上持续发酵。",
+  "对于关注美股和科技股的海外华人投资者来说，这波调整再次提醒大家，AI板块近期波动加剧，在高权重财报发布前后切忌盲目追高，务必注意防范投资组合的集中度风险。"
+ ],
+ "tags": [
+  "美股",
+  "英伟达",
+  "黄仁勋",
+  "科技股",
+  "财经"
+ ],
+ "original_title": "Stock Market Today: Dow Slides Ahead of Nvidia Earnings",
+ "lang": "en",
+ "published": "2026-11-17T10:11:07+00:00",
+ "created": "2026-11-17T19:24:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

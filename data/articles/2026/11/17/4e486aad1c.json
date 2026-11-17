@@ -1,0 +1,24 @@
+{
+ "key": "4e486aad1c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/nuclear-thriller-puts-spotlight-on-french-presidential-campaign",
+ "title": "法国大选碰上“核战”电影？这剧情太敢拍了！",
+ "summary": "法国即将迎来新一届总统大选，新总统将掌握直接下令发动核打击的最高权力。而一部名为《木星》（Jupiter）的新电影恰好聚焦于此，让这场大选备受瞩目。",
+ "body": [
+  "法国即将选出一位拥有核打击最高权力的新总统，而一部名为《Jupiter》（Jupiter）的全新电影刚好在这个节骨眼上映，把“核按钮”这个极其敏感的话题直接摆在了法国大选的聚光灯下。",
+  "这部电影大胆设想了法国新总统上台后面临核危机时的情景，将现实中的政治博弈与高度紧张的核题材结合在一起，引发了公众对国家最高权力边界的热烈讨论。"
+ ],
+ "tags": [
+  "法国大选",
+  "核打击",
+  "电影"
+ ],
+ "original_title": "Nuclear Thriller Puts Spotlight on French Election Campaign",
+ "lang": "en",
+ "published": "2026-11-17T15:23:02+00:00",
+ "created": "2026-11-17T19:27:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

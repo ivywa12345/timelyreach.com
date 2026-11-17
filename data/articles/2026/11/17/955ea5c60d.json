@@ -1,0 +1,27 @@
+{
+ "key": "955ea5c60d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-earnings-are-sideshow-as-huang-s-ouster-looms-over-market",
+ "title": "英伟达财报变“配角”？黄仁勋动向成华尔街最大悬念",
+ "summary": "英伟达即将在最微妙的时刻发布财报，但外界的关注焦点似乎全被CEO黄仁勋的动向抢走了。",
+ "body": [
+  "全球最核心的人工智能芯片巨头英伟达公司（Nvidia Corp.）即将迎来新一季的财报发布，然而对华尔街来说，这份备受瞩目的财报在这个特殊的时间节点上，竟然莫名其妙地变成了“配角”。",
+  "根据彭博社报道，目前市场最大的悬念和议论焦点，全都集中在英伟达掌门人黄仁勋（Jensen Huang）身上。他的下一步动向和潜在的变动，正笼罩在公司股票的上方，让投资者们捏了一把汗。",
+  "对于咱们海外华人来说，英伟达的股价波动直接牵动着无数科技打工人的饭碗、股票期权（RSU）甚至是整个美股大盘的走向。后续局势会如何发展，我们还得密切关注。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "美股",
+  "财报",
+  "人工智能"
+ ],
+ "original_title": "Nvidia Earnings Are Sideshow as Huang’s Ouster Looms Over Stock",
+ "lang": "en",
+ "published": "2026-11-16T21:31:41+00:00",
+ "created": "2026-11-17T19:25:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

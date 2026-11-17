@@ -1,0 +1,26 @@
+{
+ "key": "2e5d3b88f8",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a?mod=rss_markets_main",
+ "title": "估值飙到700亿！这家公司一年融三次资",
+ "summary": "企业信用卡初创公司Ramp在一年内第三次进行融资，估值达到了700亿美元。",
+ "body": [
+  "据《华尔街日报》报道，发展势头迅猛的企业信用卡初创公司Ramp（Ramp）正在进行新一轮融资，使其估值达到了 **700亿美元**。",
+  "值得注意的是，这已经是这家公司在短短一年时间里的第三次融资动作，足见其在资本市场上备受追捧的程度。"
+ ],
+ "tags": [
+  "Ramp",
+  "企业信用卡",
+  "初创公司",
+  "融资",
+  "华尔街"
+ ],
+ "original_title": "Corporate-Card Startup Ramp Raising Funds at $70 Billion Valuation",
+ "lang": "en",
+ "published": "2026-11-17T18:31:00+00:00",
+ "created": "2026-11-17T19:27:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

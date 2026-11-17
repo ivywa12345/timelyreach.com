@@ -1,0 +1,28 @@
+{
+ "key": "14bbb925fd",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/trump-administration-reopens-permit-for-wind-farm-off-new-jersey",
+ "title": "新泽西海上风电项目突遭变故，特朗普政府重新审查许可证",
+ "summary": "特朗普政府正在重新评估新泽西州海岸外一个计划中的海上风电项目的许可证，与此同时，美国参议院正准备就一项旨在彻底改革联邦大型能源项目审批流程的法案进行投票。",
+ "body": [
+  "据彭博社记者 Ari Natter 报道，特朗普政府目前正在重新评估新泽西州海岸外一个海上风电项目（wind farm）的许可证。这一变故发生之际，美国参议院正准备对一项重塑联邦能源项目审批流程的法案进行关键投票。",
+  "## 能源审批面临大改",
+  "此次风电许可证被重新审视，正值参议院即将审议一项旨在全面改革联邦大型能源项目审批机制的重磅立法。业内人士认为，这可能给依赖海上风电等新能源的项目带来新的不确定性。",
+  "对于关注美国能源政策和环保走向的海外华人来说，联邦层面能源审批政策的收紧或调整，未来可能会直接影响到电费账单以及相关清洁能源产业的投资风向。"
+ ],
+ "tags": [
+  "美国能源",
+  "海上风电",
+  "新泽西州",
+  "特朗普政府",
+  "政策变动"
+ ],
+ "original_title": "New Jersey Wind Farm Permit Reopened as Senate Weighs Energy Bill",
+ "lang": "en",
+ "published": "2026-11-17T18:26:29+00:00",
+ "created": "2026-11-17T19:27:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

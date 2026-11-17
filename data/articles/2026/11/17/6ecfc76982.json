@@ -1,0 +1,24 @@
+{
+ "key": "6ecfc76982",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/politics/national-security/classified-u-s-intelligence-system-is-down-for-now-u-s-officials-say-aa09b6d1?mod=rss_Technology",
+ "title": "机密情报系统突然掉线？美国官员：NSA在打补丁",
+ "summary": "美国国家安全局（NSA）在进行软件修补时，导致一个机密情报系统暂时离线。",
+ "body": [
+  "据知情人士透露，美国国家安全局（NSA）最近在进行软件修补工作，导致一个机密美国情报系统暂时陷入离线状态。",
+  "目前相关部门正在处理此事，系统中断属于技术维护引起的操作，并非遭受外部攻击。"
+ ],
+ "tags": [
+  "美国国家安全局",
+  "情报系统",
+  "网络安全"
+ ],
+ "original_title": "Classified U.S. Intelligence System Is Down for Now, U.S. Officials Say",
+ "lang": "en",
+ "published": "2026-11-17T17:04:00+00:00",
+ "created": "2026-11-17T19:25:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

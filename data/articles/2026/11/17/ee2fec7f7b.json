@@ -1,0 +1,26 @@
+{
+ "key": "ee2fec7f7b",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/these-charts-show-investor-fears-run-even-deeper-than-the-stock-markets-decline-suggests-924e2647?mod=mw_rss_topstories",
+ "title": "股市跌得还不够惨？这几个指标暴露了投资者心里的惊恐",
+ "summary": "分析指出，近期日元走强等现象表明，投资者的恐慌情绪比美股表面上跌得还要深，资金正在疯狂撤出高风险资产。",
+ "body": [
+  "最近金融市场表面上看起来只是震荡回调，但资深市场分析师迈克尔·克雷默（Michael Kramer）指出，投资者心里的实际恐惧，其实比股市跌幅表现出来的还要深得多。",
+  "根据MarketWatch的报道，近期日元（特别是日元兑澳大利亚元）的持续走强，释放出一个强烈的危险信号：全球资金正在大规模解除高风险的投资押注（unwinding risky bets）。",
+  "对于海外华人投资者来说，这种全球资本大举避险的动向意味着市场波动性可能会进一步加剧。无论是手里的股票投资还是整体资产配置，近期都需要格外注意风险，尽量避免盲目加杠杆抄底，看紧自己的钱包才是上策。"
+ ],
+ "tags": [
+  "股市行情",
+  "投资者情绪",
+  "日元汇率",
+  "资产配置"
+ ],
+ "original_title": "These charts show investor fears run even deeper than the stock market’s decline suggests",
+ "lang": "en",
+ "published": "2026-11-17T19:22:00+00:00",
+ "created": "2026-11-17T19:26:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

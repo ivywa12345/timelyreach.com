@@ -1,0 +1,27 @@
+{
+ "key": "983c31e6f2",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
+ "title": "公司上市这么贵、规矩这么多，为什么大厂们还是抢着敲钟？",
+ "summary": "尽管面临高昂的合规成本和繁琐的监管要求，许多初创公司最终依然选择通过IPO上市，这背后的原因值得探究。",
+ "body": [
+  "虽然外界常常抱怨繁琐昂贵的监管让企业对公开上市（IPO）望而却步，但最新研究表明，合规成本其实并不是阻止初创公司走向资本市场的决定性因素，许多公司最终还是会选择敲钟上市。",
+  "## 上市究竟图什么",
+  "过去几年里，关于“为什么越来越少公司上市”的讨论不绝于耳，高昂的律师费、审计费以及严格的信息披露要求，被认为是劝退创业者的罪魁祸首。但从实际情况来看，资本市场的流动性、对创始团队和早期投资者的退出机制，以及品牌知名度的提升，依然是巨大的诱惑。",
+  "对于在海外打拼和关注商业动态的华人朋友来说，了解这些资本运作的逻辑，不仅能看清科技巨头的发展轨迹，也能更好地理解投资市场的风向和机会。"
+ ],
+ "tags": [
+  "IPO",
+  "初创公司",
+  "资本市场",
+  "商业财经"
+ ],
+ "original_title": "Why startups still go public, eventually",
+ "lang": "en",
+ "published": "2026-11-17T18:38:26+00:00",
+ "created": "2026-11-17T19:25:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

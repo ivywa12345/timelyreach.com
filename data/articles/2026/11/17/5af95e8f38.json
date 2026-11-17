@@ -1,0 +1,29 @@
+{
+ "key": "5af95e8f38",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/cftc-orders-kalshi-to-take-down-markets-on-trump-s-speeches",
+ "title": "大选刚过就被盯上！美国监管出手叫停Kalshi的特朗普演讲押注",
+ "summary": "美国商品期货交易委员会（CFTC）下令预测市场平台Kalshi暂停对特朗普公开演讲内容的押注交易，显示出监管部门对预测市场的审查力度正在加大。",
+ "body": [
+  "美国联邦监管机构近日出手，叫停了一项在海外华人群体中也颇受关注的投机活动。据彭博社报道，美国商品期货交易委员会（CFTC）已正式下令预测市场平台Kalshi Inc.，要求其立即停止所有与美国总统唐纳德·特朗普（Donald Trump）在公开活动中演讲内容相关的预测市场交易。",
+  "## 预测市场面临更严审查",
+  "这次针对Kalshi的禁令并非孤立事件。在刚刚过去的中期选举之后，各类预测市场的合规性正面临前所未有的显微镜式观察。这类平台允许用户对政治事件、选举结果甚至官员讲话等各种现实走向进行真金白银的押注，其游走于传统博彩和金融衍生品之间的属性，一直让华盛顿的监管者们感到头疼。",
+  "## 对华人的投资提醒",
+  "近年来，随着各类预测市场的兴起，不少海外华人和投资者也尝试参与其中。然而，此类事件充分表明，政策和监管风险是参与新兴金融产品时必须考虑的最大变数。随着监管机构对政治博彩和衍生交易的收紧，相关平台的规则随时可能发生变化，投资者的资金安全和合规性将面临不确定性。"
+ ],
+ "tags": [
+  "Kalshi",
+  "CFTC",
+  "特朗普",
+  "预测市场",
+  "美国监管"
+ ],
+ "original_title": "CFTC Orders Kalshi to Take Down Markets on Trump’s Speeches",
+ "lang": "en",
+ "published": "2026-11-17T19:11:34+00:00",
+ "created": "2026-11-17T19:25:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

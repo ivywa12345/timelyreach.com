@@ -1,0 +1,28 @@
+{
+ "key": "7cd97c714f",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/china/why-neither-trump-nor-xi-is-likely-to-raise-nvidia-at-their-summit-5b93bc1a?mod=rss_worldnews",
+ "title": "英伟达芯片战会被摆上台面吗？中美高层会晤背后的学术“挖人”暗战",
+ "summary": "尽管英伟达（Nvidia）在AI领域的影响力巨大，但分析人士认为，这可能不会成为中美领导人会晤的核心议题；与此同时，美国学术界正面临中国背景科研人才流向中国的新趋势。",
+ "body": [
+  "虽然英伟达（Nvidia）的芯片是全球科技竞争的风暴中心，但在即将到来的中美高层会晤中，这块“烫手山芋”却极有可能被双方默契地避开。专家分析指出，双方目前更倾向于在宏观层面管控竞争，而不是在具体的企业产品上针锋相对。",
+  "## 学术界的“抢人大战”",
+  "除了高科技芯片，另一个暗流涌动的领域是人才竞争。随着美国对华学术审查的收紧，不少出生于中国、在美国发展的学者选择离开。据《华尔街日报》（The Wall Street Journal）报道，甚至有前哈佛大学（Harvard University）教授正积极出面，招募这些学者回国发展。",
+  "对于在美华人科研人员来说，这种人才回流趋势反映了当前地缘政治压力下的职业选择困境。这种“人才流失”可能在未来进一步影响美国顶尖科研机构的结构，同时也让许多身处其间的华裔学者在职业规划上面临更复杂的考量。"
+ ],
+ "tags": [
+  "英伟达",
+  "中美关系",
+  "人才回流",
+  "华裔学者",
+  "科技竞争"
+ ],
+ "original_title": "Why Neither Trump Nor Xi Is Likely to Raise Nvidia at Their Summit",
+ "lang": "en",
+ "published": "2026-11-17T11:55:00+00:00",
+ "created": "2026-11-17T19:30:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

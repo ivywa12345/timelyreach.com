@@ -1,0 +1,25 @@
+{
+ "key": "8d74b7e4a6",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/can-democrats-deliver-affordability-1cb69aa9?mod=rss_opinion",
+ "title": "民主党能帮大家省钱吗？利益集团正虎视眈眈！",
+ "summary": "华尔街日报专栏作家William A. Galston指出，民主党虽然承诺解决物价和生活成本问题，但各大利益集团正施压要求推出与民意背道而驰的政策。",
+ "body": [
+  "民主党在选举中靠着解决生活负担的承诺赢得了选票，但他们接下来能兑现承诺吗？华尔街日报（Wall Street Journal）专栏作家威廉·加尔斯顿（William A. Galston）撰文指出，民主党目前正面临巨大的政治考验。",
+  "各类利益集团正在向民主党施压，要求推行他们自己的政策。但问题在于，这些政策往往并不是当初选民投票时希望看到的，这也让民主党在平衡民意和利益集团诉求时左右为难。对于关注通胀和生活成本的海外华人来说，执政党能否顶住压力、真正把物价打下来，将直接影响到大家的钱包和日常生活。"
+ ],
+ "tags": [
+  "美国政治",
+  "通货膨胀",
+  "民主党",
+  "生活成本"
+ ],
+ "original_title": "Can Democrats Deliver Affordability?",
+ "lang": "en",
+ "published": "2026-11-17T19:00:00+00:00",
+ "created": "2026-11-17T19:25:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

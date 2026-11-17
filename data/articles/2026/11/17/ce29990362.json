@@ -1,0 +1,32 @@
+{
+ "key": "ce29990362",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/ai-thinks-it-can-out-code-cancer-human-biology-says-not-so-fast-23efc697?mod=rss_Technology",
+ "title": "AI能搞定癌症编程？人类生物学表示没那么快！",
+ "summary": "华尔街日报专栏作家David Wainer探讨了AI在攻克癌症编程方面的局限性，同时提及了英伟达CEO黄仁勋的绝地反击以及数据中心出海的趋势。",
+ "body": [
+  "最近科技圈总有人觉得AI无所不能，甚至连癌症的“生物代码”都想一并破解，不过人类复杂的生物学现实却给这股热潮泼了一盆冷水。",
+  "## AI与生物学的碰撞",
+  "华尔街日报（Wall Street Journal）专栏作家David Wainer指出，尽管人工智能在各个领域高歌猛进，但在面对错综复杂的癌症生物学时，依然显得力不从心，生物科学的复杂性远超代码逻辑。",
+  "## 科技圈的其他动态",
+  "除了AI在医疗领域的碰壁，近期科技界还有两个备受瞩目的动向：",
+  "- 英伟达（Nvidia）CEO黄仁勋（Jensen Huang）正在上演精彩的绝地反击战",
+  "- 科技巨头们开始将耗电巨大的数据中心搬到海上运行",
+  "对于关注科技趋势的海外华人来说，AI在医疗领域的落地虽然充满坎坷，但生物科技与人工智能的结合依然是未来改变人类命运的重要方向。"
+ ],
+ "tags": [
+  "AI",
+  "癌症治疗",
+  "黄仁勋",
+  "科技趋势",
+  "生物医疗"
+ ],
+ "original_title": "AI Thinks It Can Out-Code Cancer. Human Biology Says Not So Fast.",
+ "lang": "en",
+ "published": "2026-11-17T17:00:00+00:00",
+ "created": "2026-11-17T19:27:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

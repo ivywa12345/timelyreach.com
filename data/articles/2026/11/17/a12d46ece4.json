@@ -1,0 +1,33 @@
+{
+ "key": "a12d46ece4",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/commodities/trafigura-scrambles-aluminum-backwardation-steepest-years-amid-draining-stockpiles",
+ "title": "铝价闹“钱荒”？全球库存见底，巨头们在抢货",
+ "summary": "全球铝市场正经历数十年来最严重的供需紧张，伦敦金属交易所库存创下1990年以来最低，导致现货价格飙升，大宗商品交易巨头托克（Trafigura）正忙于抢货以牟取差价。",
+ "body": [
+  "全球铝市场的抢货大战正在升级。大宗商品贸易巨头托克（Trafigura）近期正在伦敦金属交易所（LME）疯狂扫货，原因是中国市场库存告急，托克想把这批铝卖到中国赚取丰厚的差价。现在LME库存已经降至224,150吨，这是自1990年以来的历史最低水平。",
+  "## 什么是供需失衡的信号",
+  "市场出现了一个极端的现象：现货溢价高得吓人。买家为了能尽快拿到现货，愿意支付高昂的溢价，这种短期价格高于远期价格的情况被称为“现货溢价”（backwardation），且达到了几十年来最严重的程度。上周五，11月与12月的合约价差已经拉大到每吨84美元。",
+  "- 波斯湾地区的供应中断（该地区贡献了全球约9%的铝产量）",
+  "- 中国对铝产量的监管限制",
+  "- 西方贸易壁垒加剧了供应紧张",
+  "对于这次供应紧缺，荷兰国际集团（ING Bank）的商品分析师Ewa Manthey表示：> The backwardation is really a reflection of how tight the physical market is right now.（现货溢价真实反映了目前实物市场有多紧张，且目前没有太多现货能迅速补入LME仓库。）",
+  "现在的LME铝价基本上已经成了“俄罗斯铝”的代名词，因为它是目前交易所里唯一的来源。对于在美华人来说，这种铝业市场的动荡可能意味着未来相关制造业成本的波动，如果原材料价格持续高位震荡，可能会间接影响到汽车、建筑及包装等终端消费品的价格。",
+  "目前LME基准三个月铝合约收于每吨约**3,010美元**，虽然比今年6月近3,800美元的高位有所回落，但分析认为，如果想让更多金属流入库存，短期内这种溢价行情可能还会进一步加剧。"
+ ],
+ "tags": [
+  "铝",
+  "大宗商品",
+  "托克",
+  "LME",
+  "市场动态"
+ ],
+ "original_title": "Trafigura Scrambles For Aluminum As Backwardation Steepest In Years Amid Draining Stockpiles",
+ "lang": "en",
+ "published": "2026-11-17T11:30:00+00:00",
+ "created": "2026-11-17T19:30:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
