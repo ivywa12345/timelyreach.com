@@ -47,7 +47,7 @@
     {% endif %}
     {% if by_board.get('picks') %}
     <section>
-      <h2 class="side-head">站长荐读</h2>
+      <h2 class="side-head">大佬观点</h2>
       {% for a in by_board['picks'][:3] %}{{ story(a, board_map, dek=False, kicker=False) }}{% endfor %}
     </section>
     {% endif %}

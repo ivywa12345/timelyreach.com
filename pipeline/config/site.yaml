@@ -32,9 +32,9 @@ ad_slots:
 boards:
   # ---- 内容区：机器人和站长发帖，读者跟帖 ----
   - id: picks
-    name: "站长荐读"
+    name: "大佬观点"
     kind: auto
-    description: "站长亲自挑选的好文章，配上站长的点评和解读"
+    description: "对冲基金、投资大佬和华尔街名人的最新观点，附原话出处"
   - id: brief
     name: "每日简报"
     kind: auto

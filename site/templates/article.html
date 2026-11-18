@@ -44,7 +44,7 @@
         {% if a.summary|nourl %}<p class="dek">{{ a.summary|nourl }}</p>{% endif %}
         <div class="byline">
           <span>楼主 <strong>{% if a.source_id == 'editor' %}站长{% else %}时讯小编{% endif %}</strong></span>
-          <span>{% if a.source_id == 'editor' %}站长荐读 · {% endif %}{{ a.source_name }}</span>
+          <span>{% if a.source_id == 'editor' %}{{ '大佬观点' if a.board == 'picks' else '站长荐读' }} · {% endif %}{{ a.source_name }}</span>
           <time datetime="{{ a.created }}">{{ a.created|datetime_cn }}</time>
           <span>回复 <span class="replies">–</span></span>
         </div>
