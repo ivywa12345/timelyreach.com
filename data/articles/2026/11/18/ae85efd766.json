@@ -1,0 +1,28 @@
+{
+ "key": "ae85efd766",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/economy/central-banking/u-k-inflation-rises-as-energy-costs-keep-pressure-on-bank-of-england-68f3edbb?mod=rss_worldnews",
+ "title": "英美伊朗局势紧张，英国通胀再次抬头，物价压力挡不住了？",
+ "summary": "受地缘政治因素影响，英国通胀率意外加速回升，能源成本高企让当地物价压力陡增。",
+ "body": [
+  "近期，受美伊局势持续紧张的影响，全球能源价格居高不下，直接导致英国通胀率再次出现回升势头。对于正在努力控制物价的英国央行（Bank of England）来说，这无疑又是一个棘手的信号。",
+  "## 能源价格成推手",
+  "这次通胀的“罪魁祸首”依然是能源。由于美国与伊朗的矛盾迟迟未见缓和，能源市场的波动直接传导到了英国消费者的账单上。通胀加速意味着英国普通家庭的生活成本压力可能会进一步加大，原本市场预期的降息路径也可能因此变得更加扑朔迷离。",
+  "对于在英国生活或有资产配置的华人来说，这意味着短期内能源和生活必需品的价格依然**难以看到明显回落**。如果你在英国有贷款或投资，建议密切关注英国央行后续对于利率政策的表态，毕竟通胀反弹往往是央行维持高利率的强力理由。"
+ ],
+ "tags": [
+  "英国",
+  "通胀",
+  "能源价格",
+  "英国央行",
+  "全球经济"
+ ],
+ "original_title": "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England",
+ "lang": "en",
+ "published": "2026-11-18T09:58:00+00:00",
+ "created": "2026-11-18T19:09:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

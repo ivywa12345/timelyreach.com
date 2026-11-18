@@ -1,0 +1,30 @@
+{
+ "key": "355a02f3ff",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-ai-doubts-fester-a0979bdb?mod=rss_markets_main",
+ "title": "AI泡沫要破？美股集体下跌，全村都在等英伟达财报",
+ "summary": "由于市场对人工智能热潮能否持续产生怀疑，加上英伟达财报和Anthropic上市在即，美国股市收盘走低。",
+ "body": [
+  "在人工智能（AI）概念股迎来关键考验之际，华尔街的焦虑情绪开始蔓延，美股主要股指在周三集体收跌。",
+  "## 市场焦虑从何而来",
+  "这次下跌主要是因为投资者对AI热潮的可持续性产生了怀疑。本周市场正屏息以待芯片巨头英伟达（Nvidia）的最新财报，同时人工智能初创公司Anthropic的首次公开募股（IPO）也备受瞩目。这两大事件被视为检验AI板块是否还能继续狂欢的风向标。",
+  "华尔街日报（Wall Street Journal）记者罗布·柯兰（Rob Curran）指出，在这些重磅消息落地前，市场的谨慎情绪直接压低了整体股价。",
+  "## 对海外华人的影响",
+  "对于平时习惯投资美股、科技股的海外华人来说，近期科技板块的波动可能会直接影响到大家的投资组合。如果你持有大量AI相关股票，近期要格外注意市场情绪变化，做好风险管理。"
+ ],
+ "tags": [
+  "美股",
+  "人工智能",
+  "英伟达",
+  "投资理财",
+  "华尔街"
+ ],
+ "original_title": "U.S. Stocks Fall as AI Doubts Fester",
+ "lang": "en",
+ "published": "2026-11-17T22:07:00+00:00",
+ "created": "2026-11-18T19:13:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

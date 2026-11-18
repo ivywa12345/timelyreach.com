@@ -1,0 +1,33 @@
+{
+ "key": "69a85382a6",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
+ "title": "天天喊着AI会毁灭人类的亿万富翁，竟要靠AI上市赚翻了？",
+ "summary": "来自爱沙尼亚的Skype联合创始人Jaan Tallinn曾是著名的“AI末日论者”，他不仅是Anthropic的首位天使投资人，随着该公司即将IPO，他有望通过这笔早期的“防灾投资”斩获数百亿美元的账面回报。",
+ "body": [
+  "谁也没想到，那位天天担忧人工智能会终结人类文明的顶级大佬，竟然成了这场AI盛宴中最大的赢家之一。来自爱沙尼亚的科技亿万富翁Jaan Tallinn，作为Skype的联合创始人，早在5年前就领投了Anthropic的A轮融资。当时这家公司还没推出Claude聊天机器人，外界对AI的疯狂追捧也远未开始。",
+  "## 赚得盆满钵满的“末日论者”",
+  "Jaan Tallinn在圈内以“AI末日论”出名，他曾在采访中语出惊人地表示：",
+  "> “本世纪人类灭绝的概率高达六分之一。”",
+  "他曾参与创立了多家研究存在风险的机构，并联合多位科技大佬呼吁暂停巨型AI实验。讽刺的是，正是这位一心想给AI“踩刹车”的人，在Anthropic估值仅4.61亿美元时就果断入局。如今Anthropic即将登陆纳斯达克（Nasdaq），预计上市估值高达1.4万亿美元。虽然Tallinn的具体持股比例未公开，但市场预估其持股价值可能高达**数百亿美元**。",
+  "## 资本圈的奇妙反差",
+  "Anthropic的早期投资背后，是一群信奉“有效利他主义（Effective Altruism）”的圈子。他们最初投资Anthropic，初衷并不是为了赚钱，而是认为通过资金扶持一家注重安全的公司，是规避AI灾难的最佳手段。该公司的早期投资人名单可谓复杂，除了Tallinn，还包括了后来因欺诈案入狱的FTX前CEO Sam Bankman-Fried。",
+  "- 早期投资回报：从入场时的4.61亿美元估值，到如今的万亿级体量，回报翻了成千上万倍。\n- 股权控制权：Anthropic通过“创始人有限责任公司（Founder LLC）”掌握50.1%投票权，试图在追求商业回报和履行“人类长期利益”的社会目标之间取得平衡。\n- 市场态度：尽管上市在即，但不少AI安全圈人士对此感到忧虑，担心公司一旦上市，所谓的“AI安全”会为了利润向股东让步。",
+  "对于我们普通人来说，这桩新闻不仅是科技界的暴富神话，更折射出AI行业的复杂性：即便是在高喊“AI威胁论”的精英阶层内部，为了预防灾难而进行的投资，最终也难免逃不过被资本市场裹挟的宿命。随着Anthropic正式上市，全球科技格局或许会迎来新一轮的震荡。"
+ ],
+ "tags": [
+  "AI",
+  "Anthropic",
+  "IPO",
+  "科技金融",
+  "投资"
+ ],
+ "original_title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
+ "lang": "en",
+ "published": "2026-11-18T18:43:26+00:00",
+ "created": "2026-11-18T19:09:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

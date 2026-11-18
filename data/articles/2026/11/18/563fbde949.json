@@ -1,0 +1,32 @@
+{
+ "key": "563fbde949",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/commodities/small-vessel-trade-thrives-hormuz-iran-targets-supertankers",
+ "title": "霍尔木兹海峡变天？超级油轮遭针对，小船成香饽饽",
+ "summary": "由于伊朗持续针对超级油轮并发生多起水雷袭击事件，10月份通过霍尔木兹海峡的小型油轮运量创下战时新高，达到每天200万桶。与此同时，伊朗高官表示该海峡航行将永远不会恢复到战前状态。",
+ "body": [
+  "受中东战事和安全局势影响，霍尔木兹海峡（Strait of Hormuz）的石油运输模式发生了重大变化。由于伊朗频繁将矛头对准大型油轮，加上水雷袭击事件激增，10月份通过该海峡的小型油轮运量达到了自2月战争爆发以来的最高水平。",
+  "## 运量飙升与应对策略",
+  "根据彭博社（Bloomberg）引用的Vortexa数据，10月份运载量不到超级油轮一半的小型油轮，每天从霍尔木兹海峡运送 **200万桶** 原油。苏伊士型（Suezmaxes）和阿芙拉型（Aframaxes）油轮的运输量从9月起明显回升，这使得该海峡的整体原油流量几乎恢复到了战前水平。",
+  "面对急剧上升的安全风险和9月至10月初飙升的超级油轮运费，卖方、贸易商、船东和买方纷纷转用中小型船舶来运送波斯湾的原油。行业人士透露，这些中型油轮主要用于科威特、伊拉克和卡塔尔的航线和货物，大多通过阿曼湾（Gulf of Oman）的船对船转运来完成。",
+  "## 局势紧张与伊朗表态",
+  "与此同时，霍尔木兹海峡对油轮的袭击在最近几周不断加剧。伊朗方面连续多日报告称，有油轮在其划定的海峡“未经授权”通道内撞上水雷。",
+  "伊朗首席谈判代表兼议会议长穆罕默德·巴盖尔·卡利巴夫（Mohammad Bagher Ghalibaf）上周在接受半岛电视台（Al Jazeera）独家采访时明确表示，霍尔木兹海峡的航行状况将永远不会恢复到战前。",
+  "> “那里没有‘自由水域’（国际水域），1982年《联合国海洋法公约》不适用于该海峡……霍尔木兹海峡内的规章制度受制于其边界两个沿岸国的法律。” —— 穆罕默德·巴盖尔·卡利巴夫（Mohammad Bagher Ghalibaf）"
+ ],
+ "tags": [
+  "霍尔木兹海峡",
+  "原油运输",
+  "中东局势",
+  "油轮",
+  "伊朗"
+ ],
+ "original_title": "Small Vessel Trade Thrives in Hormuz As Iran Targets Supertankers",
+ "lang": "en",
+ "published": "2026-11-18T15:10:00+00:00",
+ "created": "2026-11-18T19:08:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

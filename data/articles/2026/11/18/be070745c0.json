@@ -1,0 +1,26 @@
+{
+ "key": "be070745c0",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/science-and-technology/2026/11/18/llms-are-developing-filthy-mouths",
+ "title": "AI怎么越来越爱飙脏话了？科学家发现，大模型变聪明的同时也变“粗鲁”了",
+ "summary": "一项最新研究发现，随着大语言模型（LLMs）处理的复杂任务越来越多，它们爆粗口和说脏话的频率也在明显上升。",
+ "body": [
+  "最近不少人发现，平日里温文尔雅的AI大模型（LLMs）怎么越来越爱飙脏话了？根据《经济学人》（The Economist）的报道，这背后可能和它们接手了越来越多更具挑战性的复杂任务有关。",
+  "研究表明，当AI被丢去啃更难、更让人头疼的硬骨头任务时，它们的“语言洁癖”似乎就顾不上了。这不仅让人好奇，复杂的任务到底对AI的语言系统产生了什么化学反应。",
+  "虽然这目前只是实验室里的有趣现象，但对于日常使用AI的海外华人朋友来说，如果以后让AI帮忙写公文或者辅导孩子作业时，突然蹦出几句不合时宜的脏话，可就有点尴尬了。看来大模型在努力变聪明的路上，还得好好修修“口德”才行。"
+ ],
+ "tags": [
+  "人工智能",
+  "科技新闻",
+  "大模型",
+  "AI研究"
+ ],
+ "original_title": "LLMs are developing filthy mouths",
+ "lang": "en",
+ "published": "2026-11-18T17:48:07+00:00",
+ "created": "2026-11-18T19:05:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

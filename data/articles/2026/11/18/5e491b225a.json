@@ -1,0 +1,27 @@
+{
+ "key": "5e491b225a",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/stock-futures-rally-as-nvidia-earnings-calm-ai-trade-fears-96f51546?mod=rss_markets_main",
+ "title": "英伟达财报大好也没用？美股科技股集体熄火！",
+ "summary": "英伟达发布了亮眼财报，却未能提振科技股，反映出投资者对人工智能板块的焦虑仍在持续。",
+ "body": [
+  "英伟达（Nvidia）最新发布的亮眼财报，这次居然没能带飞美股科技股，看来大家对AI概念的焦虑情绪一时半会儿是好不了了。",
+  "根据《华尔街日报》报道，虽然英伟达交出了极其强劲的业绩答卷，但投资者对于AI热潮能否持续、估值是否过高等问题依然心存疑虑，导致科技板块整体表现低迷，未能给市场注入强心剂。",
+  "对咱们海外华人投资者来说，科技股一直是资产配置的大头。这波行情说明市场对AI板块开始变得更加挑剔，大家在调整投资组合、看紧自己钱包时，得对高估值的科技股多留个心眼，防范回调风险。"
+ ],
+ "tags": [
+  "美股",
+  "英伟达",
+  "人工智能",
+  "华尔街",
+  "海外投资"
+ ],
+ "original_title": "U.S. Stocks Slip After Nvidia Earnings Fail to Soothe Nerves",
+ "lang": "en",
+ "published": "2026-11-18T17:16:00+00:00",
+ "created": "2026-11-18T19:04:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

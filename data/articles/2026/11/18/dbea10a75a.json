@@ -1,0 +1,26 @@
+{
+ "key": "dbea10a75a",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+ "title": "美联储公布最新会议纪要，透露了什么风向？",
+ "summary": "美联储正式发布了10月27日至28日联邦公开市场委员会（FOMC）会议的纪要，记录了当时对经济和金融状况的讨论。",
+ "body": [
+  "美联储（Federal Reserve）在周三正式公布了10月27日至28日举行的联邦公开市场委员会（FOMC）会议纪要。",
+  "按照惯例，美联储例行会议的纪要通常会在政策决定公布三周后向公众发布。此次发布的纪要详细记录了当时委员会所掌握的经济和金融状况信息。",
+  "目前，完整的会议纪要已在美联储官方网站上更新，供公众和市场查阅。"
+ ],
+ "tags": [
+  "美联储",
+  "FOMC",
+  "货币政策",
+  "财经新闻"
+ ],
+ "original_title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+ "lang": "en",
+ "published": "2026-11-18T19:00:00+00:00",
+ "created": "2026-11-18T19:06:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

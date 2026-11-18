@@ -1,0 +1,26 @@
+{
+ "key": "5499ca7a43",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-s-ipo-by-the-numbers-taking-on-spacex-s-record-debut",
+ "title": "AI巨头Anthropic要上市了，直奔SpaceX的纪录去？",
+ "summary": "知名AI实验室Anthropic PBC正筹备进行规模惊人的首次公开募股（IPO），有望挑战SpaceX此前创下的纪录。",
+ "body": [
+  "人工智能实验室 Anthropic PBC 正在筹备可能是史上规模最大的首次公开募股（IPO），相关数字相当惊人。这家 AI 巨头正准备向马斯克（Elon Musk）旗下的火箭与卫星公司 SpaceX 发起挑战，争夺史上最大规模首次股票发行的宝座。",
+  "此前，SpaceX 在 6 月份通过一次震撼市场的股票发售，创下了首次公开募股的纪录。而 Anthropic 此次紧随其后，其 IPO 筹备动作备受资本市场瞩目，预计将成为科技界和投资界接下来最重磅的资本事件之一。"
+ ],
+ "tags": [
+  "Anthropic",
+  "SpaceX",
+  "IPO",
+  "人工智能",
+  "科技股"
+ ],
+ "original_title": "Anthropic’s IPO by the Numbers: Taking on SpaceX’s Record Debut",
+ "lang": "en",
+ "published": "2026-11-18T18:12:22+00:00",
+ "created": "2026-11-18T19:07:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

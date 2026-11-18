@@ -1,0 +1,25 @@
+{
+ "key": "e5952c3caa",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/asia-stocks-fall-as-u-s-commerce-department-cracks-down-on-chip-shipments-689af812?mod=rss_worldnews",
+ "title": "美国又要收紧芯片出口？亚洲股市应声下跌",
+ "summary": "美国准备进一步收紧芯片出口管制，引发了投资者对人工智能热潮的担忧，导致亚洲股市普遍下跌，市场避险情绪升温。",
+ "body": [
+  "受美国计划进一步收紧芯片出口管制的消息影响，亚洲股市集体走低，投资者对人工智能（AI）热潮的可持续性担忧加剧，市场避险情绪明显升温。",
+  "这次政策变动直接打击了亚洲科技股的投资者信心，让大家开始重新评估AI板块的高估值风险，资金纷纷选择撤离高风险资产。"
+ ],
+ "tags": [
+  "芯片管制",
+  "亚洲股市",
+  "人工智能",
+  "美股动态"
+ ],
+ "original_title": "Asian Stocks Fall as U.S. Moves to Tighten Chip Curbs",
+ "lang": "en",
+ "published": "2026-11-17T06:49:00+00:00",
+ "created": "2026-11-18T19:04:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

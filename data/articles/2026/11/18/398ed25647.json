@@ -1,0 +1,24 @@
+{
+ "key": "398ed25647",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/el-salvador-destroys-another-gang-stronghold-as-gift-to-haiti",
+ "title": "萨尔瓦多总统向海地“送大礼”：又端掉一个黑帮老巢！",
+ "summary": "萨尔瓦多总统布克尔宣布，其武装力量在海地摧毁了又一个当地黑帮头目的据点，这一高调的军事介入在海地引发关注。",
+ "body": [
+  "萨尔瓦多总统纳伊布·布克尔（Nayib Bukerle）近日宣布，其武装力量在加勒比海国家海地成功摧毁了又一个臭名昭著的黑帮头目据点。布克尔以强硬的治安手段闻名，他这种高调使用军事力量的做法，让这个深陷动荡的国家感到振奋，同时也引发了一些批评人士的担忧。"
+ ],
+ "tags": [
+  "萨尔瓦多",
+  "海地",
+  "黑帮",
+  "国际新闻"
+ ],
+ "original_title": "El Salvador Destroys Another Gang Stronghold as ‘Gift’ to Haiti",
+ "lang": "en",
+ "published": "2026-11-18T17:55:38+00:00",
+ "created": "2026-11-18T19:08:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

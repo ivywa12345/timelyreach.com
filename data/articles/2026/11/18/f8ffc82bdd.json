@@ -1,0 +1,27 @@
+{
+ "key": "f8ffc82bdd",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/asian-equities-mixed-as-investors-parse-nvidias-results-guidance-7041c3ea?mod=rss_markets_main",
+ "title": "英伟达（Nvidia）大地震？CEO黄仁勋离职后，亚洲股市反应亮了",
+ "summary": "英伟达创始人黄仁勋辞职引发市场动荡，投资者正在密切关注缺乏其核心领导后，英伟达的季度表现与未来预期。",
+ "body": [
+  "上周英伟达（Nvidia）迎来了一场足以震动华尔街的人事大地震，这家AI巨头历史上唯一的CEO黄仁勋（Jensen Huang）突然宣布辞职。消息一出，全球资本市场立刻进入了紧绷状态，投资者们都在盯着英伟达的季度财报和未来展望，试图搞清楚没有了“老黄”，英伟达的神话还能否持续。",
+  "受此消息影响，近日亚洲股市表现相当纠结，整体呈现出涨跌互现的局面。市场普遍担心，失去灵魂人物后的英伟达，其强大的增长引擎是否会出现松动。毕竟在AI芯片领域，黄仁勋的个人影响力几乎与英伟达的市值画上了等号。",
+  "对于在美华人来说，这不仅仅是股市波动的问题。英伟达作为科技股的风向标，其走势直接影响着众多华人的养老金账户（401k）以及科技行业的就业市场。如果英伟达的业绩预期出现**明显下滑**，可能会引发AI板块的连锁抛售，这对于已经在高位持仓的投资者来说，无疑是一个需要高度警惕的信号。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "科技股",
+  "股市动态",
+  "人工智能"
+ ],
+ "original_title": "Asian Equities Mixed as Investors Parse Nvidia’s Quarterly Results, Guidance",
+ "lang": "en",
+ "published": "2026-11-18T05:33:00+00:00",
+ "created": "2026-11-18T19:10:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

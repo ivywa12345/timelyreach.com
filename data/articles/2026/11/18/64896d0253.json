@@ -1,0 +1,26 @@
+{
+ "key": "64896d0253",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/pro/central-banking/boes-bailey-sees-length-of-iran-war-as-key-to-rate-path-09d96fce?mod=rss_worldnews",
+ "title": "英国央行行长：中东战局长短决定未来降息还是加息？",
+ "summary": "英国央行行长贝利表示，伊朗战争持续的时间长短，将是决定未来利率路径的关键因素。",
+ "body": [
+  "本月初，英国央行（Bank of England）自战争爆发以来首次上调了关键利率，成为受能源价格上涨推动而收紧政策的同行中最后一家采取行动的央行。",
+  "英国央行行长贝利（Andrew Bailey）指出，中东冲突导致的能源价格波动对通胀有着直接影响，而这场战争会持续多久，将直接决定接下来的货币政策走向。",
+  "对于关注全球经济走势的海外华人来说，能源价格和利率的波动往往会传导至房贷、投资等各个方面，后续还需密切关注国际局势的发展。"
+ ],
+ "tags": [
+  "英国央行",
+  "利率政策",
+  "通胀",
+  "能源价格"
+ ],
+ "original_title": "BOE’s Bailey Sees Length of Iran War as Key to Rate Path",
+ "lang": "en",
+ "published": "2026-11-18T15:45:00+00:00",
+ "created": "2026-11-18T19:06:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

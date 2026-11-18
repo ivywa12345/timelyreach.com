@@ -1,0 +1,26 @@
+{
+ "key": "513d2b27d1",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/the-low-reconciliation-odds-24907cac?mod=rss_opinion",
+ "title": "华尔街日报：这事想通过，门儿都没有？",
+ "summary": "华尔街日报专栏作家 Kimberley A. Strassel 分析了当前政治局势下，相关和解法案（Reconciliation）通过的极低概率。",
+ "body": [
+  "近日，华尔街日报（Wall Street Journal）专栏作家 Kimberley A. Strassel 发表文章，深入剖析了当前政治环境下相关和解法案（Reconciliation）的走向，直言其通过的概率实在低得可怜。",
+  "长期以来，和解程序一直是华盛顿推动重大财政和税收政策的关键工具，但也常常伴随着激烈的党派博弈和内部意见分歧。从目前的政治格局来看，各方在核心议题上依然分歧严重，难以达成共识。",
+  "对于远在大洋彼岸的海外华人来说，华盛顿的这些立法博弈往往直接关系到美国的宏观经济走势、税收政策变动乃至未来的通胀表现。我们将持续关注相关动态，看看后续是否会出现意外的转机。"
+ ],
+ "tags": [
+  "华尔街日报",
+  "美国政治",
+  "国会立法",
+  "海外观察"
+ ],
+ "original_title": "The (Low) Reconciliation Odds",
+ "lang": "en",
+ "published": "2026-11-18T18:39:00+00:00",
+ "created": "2026-11-18T19:04:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "f8e52fdf9a",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/how-china-is-winning-in-latin-america-e6a99fec?mod=rss_worldnews",
+ "title": "中国正在拉美悄悄“赢麻了”？华尔街日报这样看",
+ "summary": "知名经济学家在华尔街日报撰文指出，中国正在通过在拉丁美洲的资产布局，试图重塑由美国主导的国际经济体系。",
+ "body": [
+  "近日，《华尔街日报》发表了一篇由知名经济学家赫尔南多·德索托（Hernando de Soto）撰写的评论文章，分析了中国在拉丁美洲日益增长的影响力。",
+  "文章指出，中国领导人习近平正在通过在美洲南部不断聚集资产的方式，试图挑战并取代由美国主导的传统经济系统。",
+  "对于关注国际局势与全球经济走向的海外华人来说，大国在拉美地区的博弈不仅关乎地缘政治，也可能在未来对全球供应链和经济格局产生深远影响。"
+ ],
+ "tags": [
+  "拉美",
+  "中国",
+  "美国",
+  "国际经济"
+ ],
+ "original_title": "Opinion | How China Is Winning in Latin America",
+ "lang": "en",
+ "published": "2026-11-18T17:55:00+00:00",
+ "created": "2026-11-18T19:13:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

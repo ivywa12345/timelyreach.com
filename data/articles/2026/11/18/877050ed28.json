@@ -1,0 +1,24 @@
+{
+ "key": "877050ed28",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/kalshi-turns-to-compute-desk-in-renewed-push-for-gpu-futures",
+ "title": "AI算力也能买卖了？预测市场Kalshi准备推出GPU期货！",
+ "summary": "预测市场Kalshi正在与指数提供商Compute Desk合作，计划推出与人工智能计算成本挂钩的期货合约，进军这一备受瞩目的新兴资产类别。",
+ "body": [
+  "知情人士透露，预测市场平台 Kalshi Inc. 正在与指数提供商 Compute Desk 合作，准备推出与人工智能计算成本相关的期货合约，这也是各大交易所极力看好的一个全新资产类别。"
+ ],
+ "tags": [
+  "Kalshi",
+  "AI算力",
+  "GPU期货",
+  "科技投资"
+ ],
+ "original_title": "Kalshi Turns to Compute Desk in Renewed Push for GPU Futures",
+ "lang": "en",
+ "published": "2026-11-18T17:58:19+00:00",
+ "created": "2026-11-18T19:13:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

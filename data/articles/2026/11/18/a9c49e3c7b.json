@@ -1,0 +1,29 @@
+{
+ "key": "a9c49e3c7b",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/tencent-profit-flatlines-amid-surging-ai-investments-revenue-growth-slows-0c1cfc57?mod=rss_Technology",
+ "title": "腾讯第三季度利润增长停滞！钱都砸进人工智能了？",
+ "summary": "腾讯控股第三季度财报显示，由于大规模增加人工智能（AI）投资，资本支出激增超过6倍，导致净利润增长几乎停滞，整体营收增速也有所放缓。",
+ "body": [
+  "腾讯控股（Tencent Holdings）最新发布的第三季度财报显示，这家中国科技巨头的利润增长踩了刹车，主要原因是为了赶上人工智能（AI）浪潮而砸下了巨资。",
+  "## 资本支出暴增六倍",
+  "财报数据显示，腾讯在第三季度的资本支出比去年同期**暴增了6倍以上**。巨额的资金投入直接挤压了当期的利润空间，导致利润增长几乎停滞不前，整体业务的营收增速也呈现放缓趋势。",
+  "> “我们在AI领域的持续投入正在转化为长期的竞争优势，但也对短期财务表现造成了一定压力。”",
+  "这次财报折射出当前全球科技大厂的共同困境：面对炙手可热的AI技术，大家都在咬牙进行高额的基础设施和研发投资，如何在烧钱和盈利之间找到平衡，成了腾讯这样的行业巨头不得不面对的考验。"
+ ],
+ "tags": [
+  "腾讯",
+  "人工智能",
+  "财报",
+  "科技股",
+  "华尔街日报"
+ ],
+ "original_title": "Tencent Profit Flatlines Amid Surging AI Investments, Revenue Growth Slows",
+ "lang": "en",
+ "published": "2026-11-18T11:38:00+00:00",
+ "created": "2026-11-18T19:07:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

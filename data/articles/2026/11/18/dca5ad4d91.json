@@ -1,0 +1,29 @@
+{
+ "key": "dca5ad4d91",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/treasuries-ust-bond-yields-risk-appetite-falters",
+ "title": "美债连涨三天，这次是因为油价跌了？",
+ "summary": "由于大宗商品价格下跌以及市场猜测美联储大部分加息预期已被消化，美国国债连续第三天上涨。",
+ "body": [
+  "美国国债迎来了久违的连续上涨行情！在商品价格回落和市场预期的双重推动下，基准美国国债已经连续第三天走高，这让紧盯金融市场的投资者松了一口气。",
+  "## 市场为什么突然涨了",
+  "这波美债上涨主要受到两个因素支撑：",
+  "- 大宗商品价格尤其是油价的下滑缓解了通胀压力\n- 市场普遍猜测美联储未来大部分的加息动作已经被提前消化",
+  "对于关心美元资产和理财的海外华人来说，美债收益率的波动直接牵动着大家的钱袋子。随着市场对加息周期的预期逐渐见顶，固定收益类资产的吸引力也正在发生变化，大家在做资产配置时不妨多留心这些宏观风向的转变。"
+ ],
+ "tags": [
+  "美债",
+  "美联储",
+  "油价",
+  "通胀",
+  "财经新闻"
+ ],
+ "original_title": "Treasuries Higher for a Third Day as Oil Prices Slide",
+ "lang": "en",
+ "published": "2026-11-18T05:19:28+00:00",
+ "created": "2026-11-18T19:05:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "0a7932173c",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/trump-s-board-of-peace-warns-gaza-ceasefire-could-collapse",
+ "title": "特朗普的“和平委员会”发警告：加沙停火随时可能崩盘？",
+ "summary": "由美国总统唐纳德·特朗普（Donald Trump）设立的和平委员会警告称，如果以色列和哈马斯无法重新履行谈判期间的承诺，脆弱的加沙停火协议可能会彻底破裂。",
+ "body": [
+  "由美国总统唐纳德·特朗普（Donald Trump）建立的和平委员会（Board of Peace）近日发出警告，称如果以色列和哈马斯（Hamas）不能重新严格履行在谈判中作出的承诺，好不容易达成的加沙停火协议随时可能面临崩溃的风险。",
+  "此前，各方经过艰难谈判促成了目前的停火局面，但这一成果被认为非常脆弱。和平委员会指出，目前的局势容不得半点闪失，双方必须拿出更多诚意来维持和平。"
+ ],
+ "tags": [
+  "特朗普",
+  "加沙停火",
+  "中东局势",
+  "和平委员会"
+ ],
+ "original_title": "Trump’s Board of Peace Warns Gaza Ceasefire Could Collapse",
+ "lang": "en",
+ "published": "2026-11-18T18:39:59+00:00",
+ "created": "2026-11-18T19:05:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

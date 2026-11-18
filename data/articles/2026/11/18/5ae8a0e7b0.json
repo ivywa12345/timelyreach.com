@@ -1,0 +1,24 @@
+{
+ "key": "5ae8a0e7b0",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/science-and-technology/2026/11/18/some-grasshoppers-fly-like-butterflies-to-mislead-predators",
+ "title": "这年头，蝗虫居然开始“装蝴蝶”了？",
+ "summary": "科学家发现一种罕见的动物拟态行为：某些蝗虫在飞行时会模仿蝴蝶的动作来迷惑捕食者。",
+ "body": [
+  "大自然真是无奇不有！最近科学家发现了一个罕见的奇事：某些蝗虫为了躲避天敌，飞行时居然会像蝴蝶一样翩翩起舞，以此来迷惑捕食者。",
+  "这种现象被称为与运动相关的拟态，在动物界里非常罕见。这不仅展现了昆虫高超的生存智慧，也让研究人员对大自然的演化机制有了全新的认识。"
+ ],
+ "tags": [
+  "动物奇观",
+  "大自然",
+  "科学发现"
+ ],
+ "original_title": "Some grasshoppers fly like butterflies to mislead predators",
+ "lang": "en",
+ "published": "2026-11-18T17:40:03+00:00",
+ "created": "2026-11-18T19:07:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

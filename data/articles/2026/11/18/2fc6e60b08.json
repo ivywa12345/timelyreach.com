@@ -1,0 +1,30 @@
+{
+ "key": "2fc6e60b08",
+ "board": "hot",
+ "source_id": "wsj-lifestyle",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/lifestyle/travel/ai-travel-recommendations-c17f2461?mod=rss_lifestyle",
+ "title": "为什么AI总把所有人推向同一个旅游景点？",
+ "summary": "用AI规划旅行时，为什么大家总会被推荐到相同的热门景点？华尔街日报指出，这与提问方式和AI的工作原理密切相关。",
+ "body": [
+  "大家平时用 ChatGPT 等 AI 规划旅游时，有没有发现一个怪现象：无论你怎么问，它最后推荐的总是那些最热门、最俗套的网红打卡地？华尔街日报（The Wall Street Journal）记者 Heidi Mitchell 最近撰文揭秘了背后的原因，如果你想避开人挤人，光靠瞎问可不行。",
+  "## 为什么总推荐老地方",
+  "其实这真不怪 AI 没创意，而是因为大多数人的提问方式太套路了。当你输入“帮我规划一个完美的加州周末游”时，AI 的数据库里匹配度最高的就是那些千篇一律的旅游攻略。要想让 AI 吐出真正的私藏秘境，你得会“审问”它：",
+  "- 明确抛弃大众景点，直接让 AI 排除前 10 名的网红打卡地\n- 设定具体的冷门偏好，比如寻找没有手机信号的森林小屋或当地人才去的餐馆\n- 限制预算或交通工具，逼迫 AI 在常规路线之外寻找可能性",
+  "## 华人出行新思路",
+  "对咱们海外华人来说，无论是利用假期回国探亲顺便旅游，还是在美国本土过个长周末，用 AI 做攻略都很方便。但下次订行程前，**别再问那些太笼统的问题了**。只有给出刁钻、具体的限制条件，才能让 AI 真正帮你的钱包和假期避坑，找到真正清静的世外桃源。"
+ ],
+ "tags": [
+  "AI旅游",
+  "人工智能",
+  "旅游攻略",
+  "海外生活",
+  "出行指南"
+ ],
+ "original_title": "Why Chatbots Keep Sending Every Traveler to the Same Vacation Spots",
+ "lang": "en",
+ "published": "2026-11-18T18:00:00+00:00",
+ "created": "2026-11-18T19:04:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

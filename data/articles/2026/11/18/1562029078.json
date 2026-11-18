@@ -1,0 +1,26 @@
+{
+ "key": "1562029078",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-chip-ai-stocks-b486ab61?mod=rss_markets_main",
+ "title": "英伟达财报大爆发，欧洲芯片股也跟着沾光了？",
+ "summary": "英伟达交出亮眼财报后，欧洲芯片公司的股价也随之小幅上涨。",
+ "body": [
+  "英伟达（Nvidia）刚刚公布了一份相当强劲的财报数据，不仅自家表现亮眼，还顺带把远在大洋彼岸的欧洲同行们也拉升了一把。",
+  "受英伟达好业绩的提振，欧洲多只芯片股在消息公布后出现了小幅上涨的走势，显示出全球芯片产业链依然紧密相连。",
+  "对咱们海外华人来说，科技板块的整体回暖往往也意味着相关行业的投资机会和就业风向正在发生变化，值得继续关注。"
+ ],
+ "tags": [
+  "英伟达",
+  "欧洲芯片股",
+  "美股财报",
+  "科技板块"
+ ],
+ "original_title": "European Chip Stocks Rise After Strong Nvidia Results",
+ "lang": "en",
+ "published": "2026-11-18T09:31:00+00:00",
+ "created": "2026-11-18T19:07:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
