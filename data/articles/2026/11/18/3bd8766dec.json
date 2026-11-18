@@ -1,0 +1,26 @@
+{
+ "key": "3bd8766dec",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/jgbs-edge-lower-ahead-of-20-year-auction-91707090?mod=rss_markets_main",
+ "title": "法德国债利差居高不下？华尔街预测还要继续飙",
+ "summary": "根据华尔街日报报道，法德两国政府债券收益率差近期持续走高，摩根士丹利预测这一高位状态将延续至明年第四季度。",
+ "body": [
+  "如果你有关心欧洲金融市场，最近法德两国的国债利差可是个热门话题。简单来说，法国政府债券和德国政府债券之间的收益率差距一直居高不下，而华尔街大行摩根士丹利（Morgan Stanley）预测，这种现象短期内很难缓解。",
+  "根据市场数据，法德国债收益率差此前收盘时达到了 **149.7个基点**。而摩根士丹利给出的最新预测显示，到明年第四季度，这一利差预计仍将维持在 **135个基点** 的较高水平。",
+  "对于在海外关注全球经济走势的朋友来说，欧洲核心经济体之间的这种财政和信贷分化，往往会直接影响到欧元汇率以及全球资本市场的风险偏好，值得我们在做资产配置时多留个心眼。"
+ ],
+ "tags": [
+  "财经",
+  "欧洲经济",
+  "国债利差",
+  "华尔街"
+ ],
+ "original_title": "Elevated French-German Yield Spreads Likely to Persist",
+ "lang": "en",
+ "published": "2026-11-18T06:53:00+00:00",
+ "created": "2026-11-18T07:27:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

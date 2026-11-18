@@ -1,0 +1,26 @@
+{
+ "key": "53b380d915",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/banking/jpmorgan-chase-names-bregje-de-best-to-succeed-jeremy-barnum-as-cfo-ea77f240?mod=rss_markets_main",
+ "title": "华尔街巨震！摩根大通迎来新女CFO",
+ "summary": "摩根大通宣布由老将Bregje de Best接替Jeremy Barnum担任首席财务官。",
+ "body": [
+  "华尔街顶级大行摩根大通（JPMorgan Chase）迎来重磅人事调整，现任商业与投资银行财务主管的Bregje de Best将接替杰里米·巴恩姆（Jeremy Barnum），出任公司新任首席财务官（CFO）。",
+  "公开资料显示，**Bregje de Best**于2006年加入摩根大通，并在金融业务领域拥有丰富经验，自2025年6月起一直担任该行商业与投资银行的财务主管。",
+  "对于在美华人特别是金融圈的从业者来说，华尔街头部机构的高管更迭往往牵动着市场神经，也可能对未来的行业薪酬和招聘趋势产生微妙影响。"
+ ],
+ "tags": [
+  "摩根大通",
+  "华尔街",
+  "人事变动",
+  "CFO"
+ ],
+ "original_title": "JPMorgan Chase Names Bregje de Best to Succeed Jeremy Barnum as CFO",
+ "lang": "en",
+ "published": "2026-11-17T16:34:00+00:00",
+ "created": "2026-11-18T07:25:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

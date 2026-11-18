@@ -1,0 +1,26 @@
+{
+ "key": "09ccec4daf",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/iran-attacks-kuwait-and-bahrain-further-escalating-fight-over-strait-08f3a436?mod=rss_worldnews",
+ "title": "霍尔木兹海峡局势再升级！伊朗直接对科威特和巴林动手了？",
+ "summary": "伊朗在中东局势持续紧张之际，对科威特和巴林发动了袭击，此前该国还在霍尔木兹海峡纵火烧了一艘天然气油轮。",
+ "body": [
+  "中东的紧张局势再次升级，根据《华尔街日报》报道，继在霍尔木兹海峡（Strait of Hormuz）点燃一艘天然气油轮后，伊朗又将战火扩大，对科威特（Kuwait）和巴林（Bahrain）发动了袭击。",
+  "这次冲突发生在美国对该地区进行一系列隐蔽打击行动的背景下。随着战事不断扩大，霍尔木兹海峡的航运安全正面临严重威胁，国际能源市场和供应链也感受到了巨大的压力。",
+  "对于远在海外的华人来说，中东局势的恶化往往会直接引发国际油价波动，进而推高日常生活中的燃油和物价成本。我们将持续关注事态发展，看看这会如何影响大家的钱包。"
+ ],
+ "tags": [
+  "中东局势",
+  "伊朗",
+  "霍尔木兹海峡",
+  "国际油价"
+ ],
+ "original_title": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
+ "lang": "en",
+ "published": "2026-11-18T04:36:00+00:00",
+ "created": "2026-11-18T07:23:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

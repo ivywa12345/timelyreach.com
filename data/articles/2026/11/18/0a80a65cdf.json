@@ -1,0 +1,27 @@
+{
+ "key": "0a80a65cdf",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
+ "title": "英伟达财报也带不动？全球股市这波走势让人心里没底",
+ "summary": "全球股市在英伟达发布超预期财报后未能持续反弹，显示出市场对人工智能概念的热情开始产生动摇，同时美国国债则录得上涨。",
+ "body": [
+  "英伟达公司（Nvidia Corp.）最新公布的销售预测虽然好于预期，但这份亮眼成绩单带给全球股市的初期提振并没有持续多久。截至目前，全球股市未能迎来像样的反弹，这表明投资者对火热的人工智能（AI）概念开始产生挥之不去的疑虑。",
+  "与此同时，在股市表现犹豫不决的背景下，资金转而寻求相对安全的资产，美国国债（Treasuries）在近期交易中获得了上涨。",
+  "对于关注海外资本市场和退休账户表现的华人来说，AI板块一直是近年的热门投资方向。这次市场对英伟达财报的反应变淡，或许提醒我们在配置资产时，需要更加关注科技股波动带来的潜在风险。"
+ ],
+ "tags": [
+  "美股",
+  "英伟达",
+  "人工智能",
+  "投资理财",
+  "债券市场"
+ ],
+ "original_title": "Stocks Waver After Nvidia Results, Treasuries Rise: Markets Wrap",
+ "lang": "en",
+ "published": "2026-11-17T22:07:08+00:00",
+ "created": "2026-11-18T07:25:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

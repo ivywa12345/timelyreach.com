@@ -1,0 +1,28 @@
+{
+ "key": "99f535ed2e",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+ "title": "英伟达表态要“严审”客户融资，这家新贵云厂商股价反倒大涨？",
+ "summary": "英伟达高管表示将严格审核客户融资支持，但云服务新贵CoreWeave股价依然上涨。",
+ "body": [
+  "最近AI圈又有了新动向，主打算力的“新云（Neocloud）”厂商CoreWeave（CoreWeave）迎来了股价上涨，与此同时，芯片巨头英伟达（Nvidia）却释放出了要对客户融资采取“严加审视”的信号。",
+  "英伟达临时首席财务官科莱特·克雷斯（Colette Kress）近日表示，这类新兴云服务商对公司变得“越来越重要”，但英伟达在协助客户进行融资时，会采取“非常严格的态度”来挑选合作对象。",
+  "> “我们将对帮助融资的客户进行非常严格的评估。” —— 英伟达临时首席财务官 科莱特·克雷斯（Colette Kress）",
+  "对于关注AI赛道和美股的海外华人来说，英伟达此举意味着上游芯片大厂对下游AI基础设施的资金风险开始绷紧神经，挑选合作伙伴时会更加精细，这也将直接影响整个AI产业链的资金流向和中小玩家的发展空间。"
+ ],
+ "tags": [
+  "美股",
+  "英伟达",
+  "CoreWeave",
+  "AI芯片",
+  "科技投资"
+ ],
+ "original_title": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
+ "lang": "en",
+ "published": "2026-11-18T01:59:00+00:00",
+ "created": "2026-11-18T07:24:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

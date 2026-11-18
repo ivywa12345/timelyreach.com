@@ -1,0 +1,26 @@
+{
+ "key": "8e6a507269",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/how-everyday-investors-are-playing-the-nvidia-drama-2cb23012?mod=rss_markets_main",
+ "title": "英伟达股价坐过山车，散户们到底是怎么想的？",
+ "summary": "华尔街日报采访了三位持有英伟达股票的普通投资者，看看他们面对这家AI巨头的股价大起大落时，是如何做出买卖决策的。",
+ "body": [
+  "英伟达（Nvidia）作为如今全球最火的AI芯片巨头，其股价的每一次波动都牵动着无数普通股民的心。由于数以百万计的散户都直接或间接地持有这家公司的股份，华尔街日报（Wall Street Journal）最近找来了三位普通的个人投资者，让他们也当了一回股票分析师，分享自己对英伟达这场“大戏”的真实看法。",
+  "在人工智能热潮的推动下，英伟达近年来成为了股市焦点，但其股价的高波动性也让不少人捏了一把汗。对于身处其中的普通投资者来说，有人选择紧抱不放，也有人在高位谨慎观望。这种把命运和科技巨头绑在一起的现象，在当前的散户群体中非常普遍。",
+  "对海外华人投资者而言，科技股往往是资产配置中的重头戏。英伟达的案例再次提醒大家，在享受AI红利带来财富增长的同时，个股的高额回报往往伴随着巨大的波动风险，如何平衡心态和仓位是每个人的必修课。"
+ ],
+ "tags": [
+  "英伟达",
+  "美股投资",
+  "散户",
+  "人工智能"
+ ],
+ "original_title": "How Everyday Investors Are Playing the Nvidia Drama",
+ "lang": "en",
+ "published": "2026-11-18T01:12:00+00:00",
+ "created": "2026-11-18T07:23:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

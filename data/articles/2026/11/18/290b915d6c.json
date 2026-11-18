@@ -1,0 +1,32 @@
+{
+ "key": "290b915d6c",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/18/us-news/illinois-ethanol-plant-bomb-threat-suspect-ids-as-worker-andrew-kozak/",
+ "title": "伊州乙醇厂员工发诈弹邮件被捕：有前科，害得2500户连夜大撤离！",
+ "summary": "伊利诺伊州一家乙醇厂的员工安德鲁·科扎克因涉嫌发送炸弹威胁邮件并放置可疑装置，于周二被联邦大陪审团起诉。该事件导致工厂周边2500户居民紧急疏散，所幸拆弹专家及时处置，未造成人员伤亡。",
+ "body": [
+  "伊利诺伊州一家乙醇公司的员工因为涉嫌发邮件威胁要炸毁厂房，周二被联邦大陪审团正式起诉，而他本人不仅有长达20年的犯罪前科，竟然还是在周一上班时直接被警方铐走的。",
+  "## 邮件威胁与紧急疏散",
+  "这起惊险事件发生在上周五下午，伊州皮奥里亚（Peoria）的生物能源公司“BioUrja Renewables”员工报警称收到了炸弹威胁邮件。检方指出，41岁的公司员工安德鲁·科扎克（Andrew M. Kozak）在邮件中威胁要通过火灾和爆炸摧毁厂房和财产。",
+  "由于厂区内存放大量乙醇等易燃易爆物品，且执法人员在一个小时内真的在厂区附近找到了一件被证实具有真实威胁的可疑装置，当地警方果断拉响警报。皮奥里亚警察局局长布拉德·迪克森（Brad Dixon）表示，事件导致周边 **2500户家庭** 被紧急疏散，所幸拆弹专家迅速出击化解了危机，疏散令在持续近一天后才被解除，没有人员伤亡。",
+  "> “Had it not been for the swift action of the responders and the bomb technicians, this incident could have had a very different outcome.”\n> —— FBI春田分局负责人 Ryan Presley",
+  "## 长期犯罪记录曝光",
+  "联邦调查局（FBI）干员随后搜查了科扎克位于奇利科西（Chillicothe）的住所，并在他周一早晨回厂上班时将其逮捕。目前他面临关于爆炸物威胁及跨州发送威胁信息的指控。",
+  "媒体深挖发现，科扎克有着长达20年的犯罪黑历史，记录显示他曾在内布拉斯加州多个县留下多起涉案由于入室盗窃的重罪定罪，并曾两次服刑入狱，直到2014年底才完全结束假释期。目前联邦和地方执法部门仍在进一步调查其作案动机以及涉案炸弹的来源。"
+ ],
+ "tags": [
+  "突发新闻",
+  "美国社会",
+  "治安",
+  "伊利诺伊州",
+  "联邦犯罪"
+ ],
+ "original_title": "Illinois ethanol plant bomb plot suspect ID’d as worker with lenghty criminal past",
+ "lang": "en",
+ "published": "2026-11-18T06:30:22+00:00",
+ "created": "2026-11-18T07:26:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,24 @@
+{
+ "key": "5fa0607797",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
+ "title": "英伟达业绩炸裂！交出超级财报，股价大涨打消换帅疑虑",
+ "summary": "英伟达发布超预期财报并给出高达1300亿美元的季度营收预测，用强劲实力打消了市场对CEO过渡期的担忧，推动股价上涨。",
+ "body": [
+  "英伟达（Nvidia）最新交出的财报成绩单堪称“炸裂”，不仅营收实现暴涨，还给出了高达**1300亿美元**的惊人季度业绩预测，用实力证明市场对芯片的需求依然处于火热状态，同时也彻底打消了外界对公司首席执行官过渡期的种种担忧。"
+ ],
+ "tags": [
+  "英伟达",
+  "美股",
+  "芯片",
+  "财经新闻"
+ ],
+ "original_title": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears",
+ "lang": "en",
+ "published": "2026-11-18T01:28:00+00:00",
+ "created": "2026-11-18T07:27:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

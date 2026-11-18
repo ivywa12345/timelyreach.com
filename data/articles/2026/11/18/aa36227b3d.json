@@ -1,0 +1,28 @@
+{
+ "key": "aa36227b3d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/india-weighs-tax-tweaks-to-boost-stock-trading-curb-derivatives",
+ "title": "炒股交少点，赌期权交多点？印度这波操作有点意思！",
+ "summary": "印度税务部门正在考虑调整税收政策，拟提高股票衍生品交易税并降低股票交易税，以遏制投机行为并鼓励更多人参与股市。",
+ "body": [
+  "据知情人士透露，印度税务官员目前正在评估来自投资者和经济学家的多项提议，计划对股市税收政策进行调整。核心思路非常明确：一方面要打击过度投机，另一方面则想吸引更多普通人参与到正常的股票交易中来。",
+  "## 政策调整的两个方向",
+  "- 提高股票衍生品（Derivatives）的交易税，给过热的投机行为“降温”\n- 降低普通股票交易（Share Trading）的相关税费，鼓励大众长期投资",
+  "近年来，印度的衍生品市场吸引了大量散户盲目跟风，风险聚集引发了监管层的担忧。通过“一升一降”的税收杠杆，印度官方希望把资金从高风险的投机赌博中引导出来，促进股票市场更加健康、平稳地发展。"
+ ],
+ "tags": [
+  "印度股市",
+  "税收政策",
+  "衍生品交易",
+  "散户投资",
+  "金融监管"
+ ],
+ "original_title": "India Weighs Tax Tweaks to Boost Stock Trading, Curb Derivatives",
+ "lang": "en",
+ "published": "2026-11-18T07:02:08+00:00",
+ "created": "2026-11-18T07:24:08+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

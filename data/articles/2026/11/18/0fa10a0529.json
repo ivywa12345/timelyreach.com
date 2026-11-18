@@ -1,0 +1,26 @@
+{
+ "key": "0fa10a0529",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/another-cautionary-tale-for-mamdanimarts-9c0a2b9a?mod=rss_opinion",
+ "title": "消费者还是爱去真超市，又一个实体零售的警示故事",
+ "summary": "华尔街日报专栏作家詹姆斯·弗里曼（James Freeman）指出，消费者通常更青睐去真正的市场购买农产品，这为类似MamdaniMarts的零售尝试敲响了警钟。",
+ "body": [
+  "华尔街日报（Wall Street Journal）专栏作家詹姆斯·弗里曼（James Freeman）近日撰文指出，消费者在购买蔬菜水果等生鲜农产品时，往往还是更倾向于前往真正的市场（real markets），这为近期的某些零售尝试提供了又一个值得警惕的教训。",
+  "长期以来，实体零售业一直面临着线上竞争和消费者偏好转变的考验。此次的评论再次表明，无论商业概念如何翻新，消费者对于新鲜生鲜和传统购物体验的核心需求依然没有改变。",
+  "对于海外华人消费者来说，买菜做饭是日常生活的重要部分。无论是去传统农贸市场还是实体超市，品质和新鲜度始终是大家挑选食材时的首要考量。"
+ ],
+ "tags": [
+  "消费趋势",
+  "实体零售",
+  "生鲜市场",
+  "华尔街日报"
+ ],
+ "original_title": "Another Cautionary Tale for MamdaniMarts",
+ "lang": "en",
+ "published": "2026-11-18T00:05:00+00:00",
+ "created": "2026-11-18T07:23:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

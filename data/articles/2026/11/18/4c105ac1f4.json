@@ -1,0 +1,27 @@
+{
+ "key": "4c105ac1f4",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
+ "title": "红蓝卡保费又要涨了！每月多掏多少钱？",
+ "summary": "美国医疗保险（Medicare）Part B 的月保费将上涨 6.50 美元，达到 209.40 美元，主要由于医疗保健开支的增加。",
+ "body": [
+  "家里有长辈或者快退休的朋友注意啦！根据 MarketWatch 报道，美国联邦医疗保险（Medicare，俗称红蓝卡）Part B 的标准月保费将面临上涨，每月将增加 6.50 美元，从原先的金额上调至 **209.40 美元**。",
+  "这次保费上调的主要原因，是整体医疗保健开支的不断增加。对于依靠固定退休金过日子的老年人和家庭来说，这笔固定支出的增加虽然不算巨大，但积少成多，日常生活的开销又得精打细算盘算一下了。",
+  "在美华人如果家里有符合红蓝卡参保资格的长辈，建议在接下来的预算中把这部分保费上涨考虑进去。同时，也可以关注相关的补助政策，看看是否符合降低医疗自付额的条件。"
+ ],
+ "tags": [
+  "红蓝卡",
+  "Medicare",
+  "医疗保险",
+  "海外养老",
+  "华人生活"
+ ],
+ "original_title": "Medicare Part B premiums rise due higher healthcare spending",
+ "lang": "en",
+ "published": "2026-11-18T01:45:00+00:00",
+ "created": "2026-11-18T07:26:08+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

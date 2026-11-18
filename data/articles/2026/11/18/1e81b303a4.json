@@ -1,0 +1,25 @@
+{
+ "key": "1e81b303a4",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/israel-s-knesset-elects-kahana-as-speaker-to-boost-netanyahu-rivals",
+ "title": "内塔尼亚胡遭遇棘手一击！以色列议会变天选出新议长",
+ "summary": "以色列议会选举出马坦·卡哈纳为新议长，此举将增强反对派推翻现任总理内塔尼亚胡核心立法的实力。",
+ "body": [
+  "在刚刚过去的上个月一场没有分出胜负的大选后，以色列议会（Knesset）最新投票选举出马坦·卡哈纳（Matan Kahana）担任议长。他来自加迪·艾森科特（Gadi Eisenkot）领导的Yashar党。",
+  "这一人事变动对于寻求推翻现任总理本杰明·内塔尼亚胡（Benjamin Netanyahu）核心立法动作的反对派议员来说，无疑是一个强有力的政治助推，局势对内塔尼亚胡阵营变得更加复杂。"
+ ],
+ "tags": [
+  "以色列政治",
+  "内塔尼亚胡",
+  "中东局势",
+  "议会选举"
+ ],
+ "original_title": "Israel’s Knesset Elects Kahana as Speaker to Boost Netanyahu Rivals",
+ "lang": "en",
+ "published": "2026-11-18T01:25:29+00:00",
+ "created": "2026-11-18T07:25:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

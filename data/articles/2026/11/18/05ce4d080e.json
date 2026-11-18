@@ -1,0 +1,27 @@
+{
+ "key": "05ce4d080e",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
+ "title": "金价跌破3800美元！美联储暗示还要加息",
+ "summary": "受美联储官员释放继续加息信号以应对顽固通胀的影响，国际金价自2025年9月以来首次跌破每盎司3800美元。",
+ "body": [
+  "各位华人朋友注意了，最近打算买金子或者手里有黄金投资的得留意下行情。根据彭博社（Bloomberg）报道，由于美联储（Federal Reserve）官员近期频频发声，暗示为了压制顽固的通胀可能需要进一步加息，国际金价应声下跌，自2025年9月以来首次跌破了 **3800美元** 每盎司的关口。",
+  "这波金价跳水的主要背景，是美国通胀数据依然不够听话，让央行官员们坐不住了。市场原本对货币政策转向宽松抱有期待，但官员们最新的表态直接泼了冷水，通过释放更多加息信号来向市场传递从紧的决心，这也导致避险资金和贵金属市场受到了直接冲击。",
+  "对咱们海外华人来说，金价波动往往牵动着钱包和投资神经。如果近期有置办黄金饰品或是进行大宗资产配置的需求，建议密切关注美联储后续的利率走向和宏观经济数据，看紧自己的荷包，做好风险管理。"
+ ],
+ "tags": [
+  "黄金",
+  "美联储",
+  "加息",
+  "通胀",
+  "海外理财"
+ ],
+ "original_title": "Gold Slumps Below $3,800 as Fed Officials Signal More Rate Hikes",
+ "lang": "en",
+ "published": "2026-11-17T23:33:52+00:00",
+ "created": "2026-11-18T07:26:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

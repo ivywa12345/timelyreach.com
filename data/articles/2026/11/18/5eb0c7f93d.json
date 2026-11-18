@@ -1,0 +1,29 @@
+{
+ "key": "5eb0c7f93d",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/u-s-enters-unprecedented-three-way-nuclear-rivalry-with-china-and-russia-2f2385c3?mod=rss_worldnews",
+ "title": "美国进入前所未有的大国核三极对抗：同时迎战中俄",
+ "summary": "华尔街日报报道，中国迅速的武器建设迫使美国历史上首次准备同时面对两个主要核大国。",
+ "body": [
+  "北京方面迅速的武器建设，正在迫使华盛顿历史上首次准备同时面对两个主要核大国。",
+  "## 核战略面临重大转向",
+  "长期以来，美国的核心战略一直是主要应对俄罗斯一个核对手，同时对中国保持较低的核武器数量。然而，随着中国核力量的快速现代化和扩张，这一平衡已经被打破，美国国防政策正在被彻底重塑。",
+  "## 对未来的深远影响",
+  "面对中俄两个核超级大国的夹击，美国军方和政策制定者正在重新评估其核威慑能力。对于关注地缘政治的海外华人来说，大国关系的紧张可能会在长期内影响全球安全格局、国防预算的分配以及国际关系的走向。"
+ ],
+ "tags": [
+  "核武器",
+  "中美关系",
+  "俄罗斯",
+  "美国国防",
+  "地缘政治"
+ ],
+ "original_title": "U.S. Enters Unprecedented Three-Way Nuclear Rivalry With China and Russia",
+ "lang": "en",
+ "published": "2026-11-18T03:00:00+00:00",
+ "created": "2026-11-18T07:26:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

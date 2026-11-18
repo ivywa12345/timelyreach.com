@@ -1,0 +1,28 @@
+{
+ "key": "2255432a47",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/europe/patriot-missile-rayon-problem-3f39dc98?mod=rss_worldnews",
+ "title": "爱国者导弹不够用了？竟然是因为卡在了一种“人造丝”上！",
+ "summary": "五角大楼急需更多爱国者导弹，但生产计划却被一种不起眼的特殊布料——人造丝卡住了，这也是美国军工供应链面临的众多瓶颈之一。",
+ "body": [
+  "五角大楼现在急需补充防空用的“爱国者”导弹（Patriot Missiles），但让人哭笑不得的是，生产计划却被一种极其普通的纺织原料给卡住了。根据《华尔街日报》报道，这种名叫人造丝（Rayon）的 humble fabric（不起眼的织物），已经成了美国军火工业中无数供应链瓶颈的其中一个典型缩影。",
+  "## 生产卡在哪了",
+  "作为关键防御系统的核心部件，爱国者导弹的制造本就复杂，而原材料的短缺让军工产能雪上加霜。这类供应链问题不仅暴露了美国军工复合体在应对地缘政治需求时的脆弱性，也反映出看似高精尖的现代武器，有时同样受制于基础工业材料的短缺。",
+  "## 对我们的影响",
+  "对于关注美国国防预算和军工股的海外华人来说，这类供应链危机意味着美国军工产能的恢复可能需要比预期更长的时间，同时也可能对相关的联邦财政支出和国防安全战略产生深远影响。"
+ ],
+ "tags": [
+  "五角大楼",
+  "爱国者导弹",
+  "供应链危机",
+  "军工产业"
+ ],
+ "original_title": "The Pentagon Urgently Needs More Patriot Missiles. It’s Running Into a Rayon Problem.",
+ "lang": "en",
+ "published": "2026-11-18T02:00:00+00:00",
+ "created": "2026-11-18T07:27:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
