@@ -1,0 +1,24 @@
+{
+ "key": "8ef89afcf2",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "OpenAI",
+ "source_url": "https://x.com/OpenAI/status/2122750124543926515",
+ "title": "OpenAI发布GPT-6.2 Astra与Sol",
+ "summary": "OpenAI宣布GPT-6.2 Astra和Sol现已上线，定位为超级高效、为现实世界中的关键场景而打造的模型。",
+ "body": [
+  "你们有些人问得很有礼貌，有些人就直接问了。",
+  "GPT-6.2 Astra和Sol现已上线。",
+  "超级高效，为在真正重要的地方——现实世界中表现出色而打造。"
+ ],
+ "tags": [
+  "OpenAI",
+  "人工智能"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-17T17:54:03+00:00",
+ "created": "2026-11-18T00:42:14+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
