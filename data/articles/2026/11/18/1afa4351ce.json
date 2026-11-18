@@ -1,0 +1,22 @@
+{
+ "key": "1afa4351ce",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade",
+ "title": "随着杠杆和流动性减弱，比特币抹去贝森特行情",
+ "summary": "比特币已经抹去了夏末行情的所有涨幅，因为风险偏好减弱以及交易所币安遭遇创纪录的黑客攻击，导致投资者纷纷撤退，使最大的代币交易在交易量萎缩的市场中越来越容易受到剧烈价格波动的影响。",
+ "body": [
+  "比特币已经抹去了夏末行情的所有涨幅，因为风险偏好减弱以及交易所币安遭遇创纪录的黑客攻击，导致投资者纷纷撤退，使最大的代币交易在交易量萎缩的市场中越来越容易受到剧烈价格波动的影响。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
+ "lang": "en",
+ "published": "2026-11-18T09:45:09+00:00",
+ "created": "2026-11-18T17:28:18+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

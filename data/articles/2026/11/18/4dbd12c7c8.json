@@ -1,0 +1,26 @@
+{
+ "key": "4dbd12c7c8",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/cio-journal/nvidia-results-show-ai-demand-remains-robust-927869f4?mod=rss_Technology",
+ "title": "英伟达最新财报出炉：AI需求依然强劲！",
+ "summary": "华尔街日报报道称，英伟达的最新业绩显示市场对人工智能（AI）的需求依然保持强劲，同时文章也指出系统宕机时企业领导者面临的挑战。",
+ "body": [
+  "人工智能（AI）芯片龙头英伟达（Nvidia）最新公布的业绩表明，市场对AI技术的旺盛需求并没有放缓的迹象，各项核心数据依然表现亮眼。",
+  "不过，科技行业的挑战也体现在方方面面。分析指出，当庞大的计算系统意外宕机或出现故障时，企业领导者往往会陷入束手无策的困境，这也对企业的基础设施稳定性和应急管理提出了更高要求。",
+  "对于关注科技股和AI浪潮的海外华人投资者来说，英伟达持续强劲的需求释放了一个积极信号，说明AI赛道的热度仍在继续，但与此同时，科技巨头和相关产业链在运营风险上也需要保持警惕。"
+ ],
+ "tags": [
+  "英伟达",
+  "人工智能",
+  "美股",
+  "财报"
+ ],
+ "original_title": "Nvidia Results Show AI Demand Remains Robust",
+ "lang": "en",
+ "published": "2026-11-18T14:08:00+00:00",
+ "created": "2026-11-18T17:16:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

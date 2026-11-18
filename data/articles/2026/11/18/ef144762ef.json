@@ -1,0 +1,28 @@
+{
+ "key": "ef144762ef",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5?mod=rss_worldnews",
+ "title": "中东局势这么乱，国际油价竟然还跌了？",
+ "summary": "尽管中东地区局势持续紧张且面临物流威胁，国际油价周三意外下跌，市场转而担忧全球原油供应过剩问题。",
+ "body": [
+  "在中东乱局不断、油轮航线面临安全威胁的大背景下，大家本以为油价会一飞冲天，但事实正好相反，周三国际油价反而出现回调。现在的交易员们明显更关注全球原油市场未来的供需平衡，对“供应过剩”的担忧已经盖过了地缘政治带来的恐慌情绪。",
+  "## 市场为何出现“反常”下跌？",
+  "这次油价下跌的主要原因是市场风向变了。虽然中东地区冲突不断，甚至影响到部分石油运输的安全性，但投资圈目前的共识是，全球原油产量增长可能快于需求，这种预期导致了资金撤离。对于在美华人来说，油价的变化直接挂钩大家的钱包，尤其是开车通勤或计划长途出行的家庭，短期内油价回落算是个小小的利好消息。",
+  "- 供需预期转变：市场开始押注原油供应即将出现全球性过剩。\n- 地缘政治脱敏：尽管中东局势动荡，但原油供应量尚未出现实质性的中断。\n- 价格波动风险：随着全球经济前景不明，油价在未来一段时间内或将持续保持震荡。"
+ ],
+ "tags": [
+  "原油价格",
+  "全球经济",
+  "能源市场",
+  "中东局势",
+  "生活消费"
+ ],
+ "original_title": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions",
+ "lang": "en",
+ "published": "2026-11-18T13:45:00+00:00",
+ "created": "2026-11-18T17:27:32+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

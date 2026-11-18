@@ -1,0 +1,28 @@
+{
+ "key": "1d48940415",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries",
+ "title": "英伟达财报后美股反转，AI热潮还能烧多久？",
+ "summary": "英伟达最新财报出炉后，美股科技板块涨幅回吐。市场目光已转向人工智能初创公司Anthropic的上市表现，这被视为AI赛道能否维持热度的下一个风向标。",
+ "body": [
+  "英伟达（Nvidia）作为AI圈的领头羊，每次财报发布都像是一场金融市场的“听证会”。尽管公司业绩表现强劲，但投资者显然还不满足，科技股在盘后出现了获利回吐，原本的一波涨势戛然而止，显示出市场对于AI估值过高的隐忧正在加剧。",
+  "## 市场下一个焦点在哪？",
+  "现在的华尔街正处于一种矛盾的状态：既离不开AI带来的增长，又担心泡沫随时会破。接下来的市场焦点已经转移到了AI初创公司Anthropic的上市表现上，这将是衡量整个行业资本狂欢是否还能继续的关键试金石。",
+  "对于咱们在美华人来说，这一轮科技股的波动主要影响两个方面：一是个人投资账户（如401k或股票投资组合）可能面临短期剧烈震荡，建议做好风险管理；二是AI行业的波动可能会波及科技行业的就业稳定，如果大家在科技大厂工作，近期不妨多关注公司内部的资源配置动态。"
+ ],
+ "tags": [
+  "美股",
+  "英伟达",
+  "人工智能",
+  "科技股",
+  "投资理财"
+ ],
+ "original_title": "Tech Stocks Decline as Worries Remain For Nvidia After Earnings",
+ "lang": "en",
+ "published": "2026-11-18T12:34:46+00:00",
+ "created": "2026-11-18T17:20:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

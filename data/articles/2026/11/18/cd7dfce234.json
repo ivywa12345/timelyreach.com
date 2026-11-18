@@ -1,0 +1,26 @@
+{
+ "key": "cd7dfce234",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/newsmax-sues-to-block-fox-from-integrating-with-roku",
+ "title": "两家右翼媒体打起来了？Newsmax出手阻挠Fox与Roku合并",
+ "summary": "保守派新闻频道Newsmax周三对福克斯公司（Fox Corp.）提起诉讼，试图阻止其与Roku Inc.高达220亿美元的合并集成。",
+ "body": [
+  "保守派新闻频道 Newsmax Inc. 于本周三正式起诉福克斯公司（Fox Corp.），试图在法律层面阻止该公司推进与流媒体平台 Roku Inc. 总额高达 **220亿美元** 的合并集成计划。",
+  "作为同属保守派阵营的媒体，Newsmax 此次将同行告上法庭的举动引发了外界关注。目前该案的核心诉求是要求法院下达禁令，阻止福克斯在 Roku 平台上的深度整合。"
+ ],
+ "tags": [
+  "Newsmax",
+  "Fox",
+  "Roku",
+  "媒体并购",
+  "美国新闻"
+ ],
+ "original_title": "Newsmax Sues to Block Fox From Integrating With Roku",
+ "lang": "en",
+ "published": "2026-11-18T16:58:20+00:00",
+ "created": "2026-11-18T17:22:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "95b0c98434",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026?mod=rss_markets_main",
+ "title": "英伟达财报亮眼却带不动大盘？华尔街这次真慌了！",
+ "summary": "英伟达交出了创纪录的营收并上调了预期，但依然无法安抚投资者的焦虑情绪，美股大盘持续承压。",
+ "body": [
+  "英伟达（Nvidia）交出了一份堪称完美的财报，不仅营收创下历史新高，还给出了相当乐观的未来预期，然而这依然没能拯救惊魂未定的投资者，美股大盘在财报出炉后依然未能重拾信心。",
+  "回想起黄仁勋（Jensen Huang）此前在发布会上的种种戏剧性波澜，市场上关于AI泡沫和科技股估值过高的担忧并未消散。虽然公司业绩本身无可挑剔，但面对高企的期望值，创纪录的数字已经不足以给惊慌失措的华尔街吃下定心丸。",
+  "对于关注美股和科技板块的海外华人来说，这次市场反应释放了一个明确信号：当前投资者的神经高度紧绷，即便龙头企业交出好成绩也容易引发震荡。大家在配置资产、调整科技股仓位时，务必注意防范波动风险，切勿盲目追高。"
+ ],
+ "tags": [
+  "英伟达",
+  "美股",
+  "财报",
+  "科技股",
+  "华尔街"
+ ],
+ "original_title": "Stock Market Today: Nvidia Earnings Fail to Soothe Investors’ Nerves",
+ "lang": "en",
+ "published": "2026-11-18T09:52:59+00:00",
+ "created": "2026-11-18T17:15:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,31 @@
+{
+ "key": "92cdbaff4d",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+ "title": "AI界又要疯了？Claude母公司Anthropic上市前夕需求炸裂，筹资额恐超预期！",
+ "summary": "AI初创公司Anthropic即将于本周四在纳斯达克挂牌上市，由于市场认购意愿极度火爆，公司正考虑提高发行价，甚至可能突破每股80美元。",
+ "body": [
+  "AI圈的大日子要来了！开发出Claude系列模型的AI巨头Anthropic，本周四就将在纳斯达克（Nasdaq）正式敲钟上市，股票代码为“ANT”。据内幕消息，由于机构和散户的认购需求简直“溢出”，公司高层正在考虑把IPO规模进一步做大，定价甚至可能远超之前设定的70至78美元区间。",
+  "## 需求超 SpaceX，各路大佬争相入局",
+  "这次IPO到底有多火？根据知情人士透露，目前收到的意向认购资金中，机构投资者达到了约4000亿美元，个人投资者也贡献了近1000亿美元。这个热度甚至超过了当年马斯克（Elon Musk）的SpaceX上市。虽说这只是认购意向而非最终成交，但如此惊人的市场饥渴度，足以看出资本对这家成立不到六年的公司寄予厚望。",
+  "值得关注的是，科技巨头们在Anthropic身上可是下了重注：",
+  "- 谷歌（Google）和亚马逊（Amazon）的持股价值均已超过1000亿美元。\n- 谷歌、微软（Microsoft）、英伟达（Nvidia）和超威半导体（AMD）等科技巨头已集体同意在IPO中投入260亿美元。\n- 该公司今年前九个月营收达到**332.4亿美元**，同比暴增约1200%。",
+  "## 投资者该如何看这家AI巨头？",
+  "虽然业绩狂飙，但Anthropic在招股书中也罗列了长达90多页的风险提示，涉及安全、监管及国家安全等敏感话题。CEO达里奥·阿莫代（Dario Amodei）在路演视频中坦言，公司目标是创造一个“奇迹时代”，但也必须极其谨慎地平衡技术风险。对于在美华人投资者来说，这类高成长的AI股虽然诱人，但往往伴随着高波动性，上市初期的股价表现可能会受到市场整体情绪及利率政策的剧烈影响，入场前务必做好功课。"
+ ],
+ "tags": [
+  "Anthropic",
+  "美股IPO",
+  "人工智能",
+  "Claude",
+  "科技投资"
+ ],
+ "original_title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
+ "lang": "en",
+ "published": "2026-11-18T16:49:57+00:00",
+ "created": "2026-11-18T17:17:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
