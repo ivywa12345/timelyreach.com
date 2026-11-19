@@ -1,0 +1,26 @@
+{
+ "key": "9205ec5e05",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "TimelyReach",
+ "source_url": "https://36kr.com/p/4075907868955785",
+ "title": "谷歌Gemini 4 Neon发布，性价比超越旗舰",
+ "summary": "谷歌发布Gemini 4 Neon，速度与价格向闪存版看齐，能力却在多项评测中超过旗舰模型。",
+ "body": [
+  "谷歌发布了新模型Gemini 4 Neon，定位为Gemini 3 Flash的继任者，也是Gemini系列目前速度最快的模型，已在网页端和API同步上线。它主打旗舰级能力、闪存级速度和价格。",
+  "定价与上一代闪存版持平：每百万token输入3美元、输出15美元，缓存输入每百万仅0.15美元，上下文窗口为100万token。",
+  "在Artificial Analysis智能指数上，Neon得分61分，超过Claude Opus 5.5的59分、GPT-5.2的57分和Grok 4.1的56分。长上下文任务GraphWalks得分95.2%，大幅领先Opus 5.5的66.8%和GPT-5.2的80.1%；在CursorBench智能体工作流评测中以65.4%领先。",
+  "新模型继承了Gemini 3的多模态与智能体能力，适合智能体应用和大规模内部工具。谷歌还把Genie系列世界模型技术开放给AI Ultra用户使用。"
+ ],
+ "tags": [
+  "AI",
+  "谷歌",
+  "大模型"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-19T00:04:00+00:00",
+ "created": "2026-11-19T21:12:18+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
