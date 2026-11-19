@@ -1,0 +1,28 @@
+{
+ "key": "7ba372bd4f",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-00536beb?mod=rss_worldnews",
+ "title": "黄仁勋这事闹大！华盛顿对华鹰派又亢奋了？",
+ "summary": "英伟达CEO黄仁勋近期的言论和动向再次点燃了华盛顿对华鹰派的怒火，同时微软与字节跳动的云服务交易也遭到了美国议员的猛烈抨击。",
+ "body": [
+  "最近科技圈和政坛又热闹了，英伟达（NVIDIA）掌门人黄仁勋（Jensen Huang）的一系列风波，竟然直接让华盛顿的对华鹰派们再度亢奋起来，同时微软（Microsoft）和字节跳动（ByteDance）的一笔云服务交易也正遭到议员们的围攻。",
+  "## 科技巨头风波不断",
+  "- 芯片巨头掌门人黄仁勋的相关风波重新激起了华盛顿对华强硬派的警惕与动作\n- 微软与字节跳动之间的云服务合作协议正面临来自美国国会议员的严厉质询与阻挠",
+  "对于关注中美科技战和海外发展环境的华人来说，这些地缘政治博弈正在一步步收紧。无论是芯片出口限制还是云服务审查，都可能对身处高科技行业的华人员工、相关企业供应链以及中美两国的商业合作产生深远影响。"
+ ],
+ "tags": [
+  "黄仁勋",
+  "英伟达",
+  "微软",
+  "字节跳动",
+  "华盛顿"
+ ],
+ "original_title": "The Morning Risk Report: The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
+ "lang": "en",
+ "published": "2026-11-19T12:22:00+00:00",
+ "created": "2026-11-19T20:33:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

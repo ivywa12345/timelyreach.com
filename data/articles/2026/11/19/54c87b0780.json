@@ -1,0 +1,25 @@
+{
+ "key": "54c87b0780",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/russia/trump-xi-summit-shows-putins-powerful-friendships-have-their-limits-4fbd87ba?mod=rss_worldnews",
+ "title": "川习会暗藏玄机？普京的“铁哥们”也有靠不住的时候",
+ "summary": "华尔街日报报道指出，近期在中方举行的特朗普与中国领导人的会晤虽然对俄罗斯总统普京来说是一次外交上的得分，但实际上他并没有从中捞到多少实在的好处。",
+ "body": [
+  "中美领导人在中国举行的会晤引发了国际社会的广泛关注，这场备受瞩目的峰会被视为俄罗斯总统普京（Vladimir Putin）的一次外交胜利，然而仔细观察就会发现，普京其实很难从这次会面中得到什么实质性的具体成果。",
+  "长期以来，俄罗斯极力维系与各大国的平衡与合作，试图在国际博弈中占据有利地位。但从现实来看，大国之间的直接互动往往有着各自的核心利益，所谓的“铁杆友谊”在复杂的国际政治和经济现实面前，其影响力显然是有边界和局限性的。"
+ ],
+ "tags": [
+  "中美关系",
+  "普京",
+  "国际外交",
+  "华尔街日报"
+ ],
+ "original_title": "Trump-Xi Summit Shows Putin’s Powerful Friendships Have Their Limits",
+ "lang": "en",
+ "published": "2026-11-19T20:08:00+00:00",
+ "created": "2026-11-19T20:32:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

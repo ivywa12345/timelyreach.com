@@ -1,0 +1,27 @@
+{
+ "key": "b040f82d47",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/united-states/2026/11/19/americas-most-respected-jurist-was-never-on-the-supreme-court",
+ "title": "没进过最高法院，为什么他是美国最受尊敬的法官？",
+ "summary": "美国最具声望的法官理查德·波斯纳虽然从未进入最高法院，但他以独特的保守派法官形象和经济学分析法律的方法，深刻影响了美国司法界。",
+ "body": [
+  "说到美国的大法官，大家脑子里可能马上蹦出最高法院的那些面孔。不过，经济学人（The Economist）近日撰文指出，美国法律界最受尊敬的一位泰斗——理查德·波斯纳（Richard Posner），其实从未踏足过最高法院半步。",
+  "理查德·波斯纳（Richard Posner）长期担任联邦第七巡回上诉法院法官。与传统法官不同，他是一位“不走寻常路”的保守派法官。他最著名的贡献是将经济学原理引入法律分析，用成本效益的视角来审视司法裁决，这在当时的法律界可以说是开风气之先。",
+  "在他漫长的职业生涯中，他不仅产出了大量极具影响力的判决，还通过著作深刻改变了美国人对法律和经济关系的理解。他的离经叛道和对实用主义的坚持，让他在学术界和实务界都赢得了极高的声誉，甚至超越了许多最高法院的大法官。",
+  "对于关注美国社会与制度的海外华人来说，美国司法体系不仅关乎最高法院的意识形态博弈，也离不开像理查德·波斯纳（Richard Posner）这样在巡回法院埋头苦干、用经济理性塑造商业和日常规则的实干派法官。"
+ ],
+ "tags": [
+  "美国法律",
+  "联邦法官",
+  "经济学与法律",
+  "保守派"
+ ],
+ "original_title": "America’s most respected jurist was never on the Supreme Court",
+ "lang": "en",
+ "published": "2026-11-19T14:01:02+00:00",
+ "created": "2026-11-19T20:34:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

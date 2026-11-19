@@ -1,0 +1,28 @@
+{
+ "key": "dda067dba7",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
+ "title": "车企巨头集体杀回美国，特朗普当选只是其中一个原因？",
+ "summary": "各大汽车制造商近期纷纷在美国本土加码投资和生产，经济学人分析指出，这背后的原因远比想象的要复杂。",
+ "body": [
+  "近期，全球各大汽车制造商（Carmakers）正争先恐后地在美国市场和工厂加码押注，而这股热潮背后不仅仅是因为特朗普（Donald Trump）的政策影响。",
+  "## 政策与市场的双重驱动",
+  "汽车巨头们在美国本土扩大生产，一方面是为了应对潜在的贸易壁垒和政策变化，另一方面也是为了更贴近庞大的北美消费市场，确保供应链的安全与稳定。",
+  "## 对在美华人的影响",
+  "对于身处美国的华人来说，汽车产业的回流和投资可能会带来更多的就业机会，但同时也可能伴随着供应链调整带来的车价波动。无论是买车还是从事相关行业的华人，都需要密切关注这一趋势对本地经济的长期影响。"
+ ],
+ "tags": [
+  "汽车产业",
+  "美国经济",
+  "海外华人",
+  "企业投资"
+ ],
+ "original_title": "The world’s carmakers are revving up in America",
+ "lang": "en",
+ "published": "2026-11-19T14:01:02+00:00",
+ "created": "2026-11-19T20:32:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,28 @@
+{
+ "key": "e9e16a1b19",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/stock-futures-rise-as-optimism-improves-ahead-of-anthropic-trading-debut-ecdfbb2f?mod=rss_markets_main",
+ "title": "大热倒逼？华尔街投资者疯狂抛售AI股，只为买它！",
+ "summary": "美股近期出现回调，主要原因是投资者纷纷从部分现有AI相关股票中撤资，转而追捧刚刚上市的Anthropic，导致整体科技股走低。",
+ "body": [
+  "美股市场近日迎来了一波震荡下跌，背后的罪魁祸首竟然是资金的大挪移。根据《华尔街日报》报道，许多投资者为了买入刚刚上市的人工智能新星Anthropic，选择大举抛售手头上的其他AI概念股，直接把科技板块给带崩了。",
+  "## 资金大搬家",
+  "- 投资者正在从部分传统的AI相关股票中抽离资金\n- 大量热钱涌入刚刚完成首次公开募股（IPO）的 Anthropic\n- 这一进一出的资金腾挪导致美股科技板块整体走低",
+  "对于关注美股和科技板块的海外华人来说，这类资本市场的剧烈板块轮动往往伴随着不小的波动风险。如果你近期持有AI相关的投资组合，务必密切关注市场风向，警惕资金短时间内过度集中或撤离带来的震荡。"
+ ],
+ "tags": [
+  "美股",
+  "AI概念股",
+  "Anthropic",
+  "科技股",
+  "华尔街"
+ ],
+ "original_title": "Investors Dumping AI Stocks to Buy Into Anthropic Send Tech Shares Lower",
+ "lang": "en",
+ "published": "2026-11-19T20:22:00+00:00",
+ "created": "2026-11-19T20:37:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

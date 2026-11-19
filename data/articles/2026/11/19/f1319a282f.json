@@ -1,0 +1,26 @@
+{
+ "key": "f1319a282f",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-s-camaraderie-with-xi-and-putin-draws-pushback-at-home",
+ "title": "特朗普访华狂秀亲密，回国后惹大麻烦？",
+ "summary": "特朗普近日在亚洲之行中与外国领导人亲密互动，试图展现政治实力，但回国后面临来自国内的强烈反对声音。",
+ "body": [
+  "美国总统特朗普（Donald Trump）本周在对中国进行为期两天的访问期间，与中国领导人及俄罗斯总统普京（Vladimir Putin）热情互动、握手拥抱，试图以此来展示自己的政治权力。",
+  "此前，他所在的共和党在国会中期选举中遭遇了惨败。面对国内政治失利的压力，特朗普此次出访的举动被外界视为一种政治姿态。",
+  "然而，这种与中俄领导人的“好哥们”式互动并没有在国内赢得喝彩，反而引发了美国国内政坛的强烈反弹和质疑。"
+ ],
+ "tags": [
+  "特朗普",
+  "中美关系",
+  "美国政治",
+  "中期选举"
+ ],
+ "original_title": "Trump’s Camaraderie With Xi and Putin Draws Pushback at Home",
+ "lang": "en",
+ "published": "2026-11-19T20:15:49+00:00",
+ "created": "2026-11-19T20:33:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

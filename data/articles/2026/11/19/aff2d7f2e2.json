@@ -1,0 +1,29 @@
+{
+ "key": "aff2d7f2e2",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/google-tied-prepaid-bond-deals-delayed-due-to-lackluster-demand",
+ "title": "谷歌撑腰的30亿美元大单，怎么说延期就延期了？",
+ "summary": "由于市场波动和投资者需求疲软，两笔总额达30亿美元、以谷歌母公司Alphabet为资金接收方的预付能源交易被迫推迟。",
+ "body": [
+  "知情人士透露，由于市场波动导致投资者兴趣缺缺，两笔总额高达**30亿美元**、与谷歌（Google）母公司 Alphabet Inc. 挂钩的预付能源交易被迫延期。",
+  "## 市场需求疲软",
+  "这两笔交易原本备受关注，作为资金接收方的 Alphabet Inc. 在其中扮演重要角色。然而，面对当前动荡的市场环境，投资者表现得相当谨慎，最终导致这两笔大单未能如期推进。",
+  "目前，相关方尚未公布这些预付能源交易的下一步重启计划。市场正密切关注后续的市场情绪变化以及科技巨头在能源融资领域的下一步动作。",
+  "对海外华人来说，科技巨头在资本市场的动作往往牵动着大盘走势。这类大额绿色能源或基建融资的暂缓，也反映出当前投资者对宏观经济波动的高度警惕。"
+ ],
+ "tags": [
+  "谷歌",
+  "Alphabet",
+  "金融市场",
+  "投资理财",
+  "能源交易"
+ ],
+ "original_title": "Google-Tied Prepaid Bond Deals Delayed Due to Lackluster Demand",
+ "lang": "en",
+ "published": "2026-11-19T20:10:10+00:00",
+ "created": "2026-11-19T20:33:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

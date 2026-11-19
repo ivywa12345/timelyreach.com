@@ -1,0 +1,28 @@
+{
+ "key": "fd311a6b56",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/war-driven-cost-squeeze-alarms-companies-bank-of-america-says",
+ "title": "伊朗战事引发成本危机！美国老板们这回真慌了",
+ "summary": "美国银行（Bank of America）指出，由伊朗战事引发的石油市场冲击已经蔓延，演变成全美企业的成本挤压，老板们对大宗商品价格的担忧显著加剧。",
+ "body": [
+  "最近，由伊朗战事引发的石油市场风暴正在迅速扩大。美国银行（Bank of America）最新指出，最初的油价冲击已经演变成一场全美范围的成本危机，各行各业的企业主对大宗商品价格飙升的焦虑感正在显著上升。",
+  "## 危机从油市蔓延到全行业",
+  "这场由地缘政治冲突引发的成本压力，已经不再局限于能源板块。随着原材料和日常运营开销水涨船高，美国企业正面临着空前的财务压力。商业领袖们普遍担忧，这种持续的成本挤压会进一步侵蚀企业的利润空间。",
+  "对于远在大洋彼岸的海外华人来说，大宗商品和能源价格的普遍上涨，最终往往会传导到日常生活的方方面面。从油费到日常消费品，生活成本可能再度面临上行压力，大家需要提前做好钱包缩水的心理准备。",
+  "> “原本只是石油市场的冲击，现在已经演变成全美范围的成本挤压。” —— 美国银行（Bank of America）"
+ ],
+ "tags": [
+  "美国经济",
+  "通货膨胀",
+  "油价",
+  "企业成本"
+ ],
+ "original_title": "War-Driven Cost Squeeze Alarms Companies, Bank of America Says",
+ "lang": "en",
+ "published": "2026-11-19T20:04:12+00:00",
+ "created": "2026-11-19T20:36:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

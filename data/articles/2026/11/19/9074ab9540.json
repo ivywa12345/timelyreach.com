@@ -1,0 +1,28 @@
+{
+ "key": "9074ab9540",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/four-ways-techruptions-may-shape-the-economy-a848efc9?mod=rss_markets_main",
+ "title": "科技变革将如何重塑美国经济？这4个方向值得关注",
+ "summary": "华尔街日报专栏作家Greg Ip分析了技术中断对经济的潜在影响，同时探讨了美联储的政策辩论以及国会关税政策的走向。",
+ "body": [
+  "近日，《华尔街日报》(Wall Street Journal)资深记者Greg Ip撰文指出，未来的技术中断（Techruptions）可能会在多个维度深刻改变当前的经济格局，对于身处海外的我们来说，这些宏观趋势往往会直接影响到大家的钱包、就业和投资选择。",
+  "## 关键经济看点",
+  "- 科技中断对整体经济结构和生产力的潜在深远影响\n- 美联储内部关于货币政策走向的真实激烈辩论\n- 关于全民医保（Medicare for All）方案的进一步讨论\n- 美国国会未来是否有空间和可能削减进口关税",
+  "对于关注美国经济和自身财务规划的华人朋友来说，科技演进不仅带来了投资机会，也伴随着政策调整带来的不确定性，后续相关政策的落地值得持续跟踪。"
+ ],
+ "tags": [
+  "美国经济",
+  "科技变革",
+  "美联储",
+  "华尔街日报",
+  "关税政策"
+ ],
+ "original_title": "Four Ways Techruptions May Shape the Economy",
+ "lang": "en",
+ "published": "2026-11-19T10:50:00+00:00",
+ "created": "2026-11-19T20:36:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "7ebcfe17de",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/us-stock-futures-jump-on-blockbuster-reception-to-anthropic-ipo",
+ "title": "美股遭遇罕见六连跌！科技股狂欢泼了冷水",
+ "summary": "由于科技股涨势在人工智能初创公司 Anthropic 上市后熄火，美股三大指数集体下挫，遭遇了连续第六天下跌，道琼斯指数更是面临回调压力。",
+ "body": [
+  "美股这波跌势真的是停不下来了！根据彭博社报道，由于科技股的集体狂欢在人工智能初创公司 Anthropic PBC 首次公开募股（IPO）后突然熄火，美国股市指数遭遇了连续第六个交易日的下跌，道琼斯工业平均指数更是面临着进入回调区间的压力。",
+  "这次市场回调的背景并不复杂。此前美股一直在科技股的带领下高歌猛进，但随着新明星企业 Anthropic PBC 的登场，市场情绪反而发生了微妙的变化，资金开始从前期大涨的板块撤离，导致整体大盘持续走弱。",
+  "对于咱们海外华人来说，大盘连续下跌最直接影响的就是大家的投资账户和退休金（401k）表现。如果近期有大笔资金需要入市或者面临资产配置调整，建议密切关注美联储动向和科技板块的波动，切勿盲目抄底，守住本金才是上策。"
+ ],
+ "tags": [
+  "美股下跌",
+  "道琼斯指数",
+  "Anthropic",
+  "科技股",
+  "海外理财"
+ ],
+ "original_title": "US Stocks Drop for Sixth Day as Dow Jones Index Eyes Correction",
+ "lang": "en",
+ "published": "2026-11-19T07:09:16+00:00",
+ "created": "2026-11-19T20:34:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

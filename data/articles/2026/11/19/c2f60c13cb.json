@@ -1,0 +1,28 @@
+{
+ "key": "c2f60c13cb",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+ "title": "黄仁勋股价大跌，硅谷“加速主义”要凉？",
+ "summary": "英伟达CEO黄仁勋近期遭遇股价下跌，这对硅谷的“加速主义”运动来说是个不小的打击，暴露出科技界盲目追求无限制技术狂飙的隐患。",
+ "body": [
+  "最近硅谷科技圈信奉的“加速主义”可能要踩急刹车了。随着人工智能领头羊英伟达（Nvidia）的掌门人黄仁勋（Jensen Huang）身家缩水、公司股价下跌，这群整天鼓吹不计代价推动技术狂飙的人，日子开始变得不好过了。",
+  "## 狂飙突进的代价",
+  "过去一段时间，以硅谷科技精英为主的“加速主义”群体一直在疯狂推动人工智能和各类前沿科技的发展，认为只要技术够快，就能解决人类所有问题。然而，随着资本市场开始冷静审视天价投入与实际回报不成正比的现实，英伟达等AI核心企业的波动，直接戳破了这场狂欢的泡沫。",
+  "对于咱们海外华人来说，硅谷科技股的动荡不仅关乎投资者的钱包，也直接影响着大厂打工人的职业发展和身份安全。当资本不再盲目烧钱，高薪岗位和H-1B签证的机会可能都会随之缩紧，盲目跟风“AI淘金热”的风险正在显著增加。"
+ ],
+ "tags": [
+  "黄仁勋",
+  "英伟达",
+  "硅谷",
+  "人工智能",
+  "加速主义"
+ ],
+ "original_title": "Jensen Huang’s fall is bad news for Silicon Valley’s accelerationists",
+ "lang": "en",
+ "published": "2026-11-19T14:01:02+00:00",
+ "created": "2026-11-19T20:36:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

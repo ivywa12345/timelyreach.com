@@ -1,0 +1,26 @@
+{
+ "key": "18a5b039d2",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/regulation/dodgers-owner-walter-faces-probe-from-state-regulator-that-says-it-was-misled-8f527738?mod=rss_markets_main",
+ "title": "道奇队老板摊上事了！保险公司贷款被州监管部门盯上",
+ "summary": "洛杉矶道奇队老板马克·沃尔特旗下保险公司的贷款操作遭到特拉华州保险监管部门调查，该部门称自己被“误导”。",
+ "body": [
+  "洛杉矶道奇队（Los Angeles Dodgers）老板马克·沃尔特（Mark Walter）目前正面临新的麻烦。继联邦当局之后，特拉华州（Delaware）保险部门也介入调查，指控沃尔特旗下的保险公司曾向他自己控制的其他实体发放贷款，并表示该部门在审查过程中受到了“误导”。",
+  "这次调查的焦点在于沃尔特名下保险公司与他所控制的其他商业实体之间的资金往来。目前，特拉华州保险监管机构正在联手联邦执法力量，深入审查这些复杂的内部贷款操作是否合规。",
+  "虽然该事件目前主要集中在金融和保险监管层面，但对于关注体育圈和商业动态的海外华人来说，这也提醒大家在涉及资本运作和多重身份控制的企业中，合规监管的压力正在持续加大。"
+ ],
+ "tags": [
+  "道奇队",
+  "马克沃尔特",
+  "保险监管",
+  "美国财经"
+ ],
+ "original_title": "Dodgers Owner Walter Faces Probe From State Regulator That Says It Was ‘Misled’",
+ "lang": "en",
+ "published": "2026-11-19T13:40:00+00:00",
+ "created": "2026-11-19T20:32:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

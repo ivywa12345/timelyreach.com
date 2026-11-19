@@ -1,0 +1,28 @@
+{
+ "key": "3d24dae7a8",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/the-bond-markets-surprising-take-on-the-ai-trade-a04e0b76?mod=rss_markets_main",
+ "title": "AI概念股又双叒叕火了！这回连债券市场都坐不住了？",
+ "summary": "根据华尔街日报报道，随着AI初创公司Anthropic定下极高的IPO估值预期，美股科技股应声大涨，而一向稳健的债券市场对这股“AI热潮”也产生了一种让人意外的看法。",
+ "body": [
+  "最近科技圈和资本市场可以说是热闹非凡，先是AI大厂Anthropic传出将以极高估值进行首次公开募股（IPO）的消息，直接把美股相关板块的股票价格给顶上去了。这波热潮不仅让股市投资者兴奋不已，一向被视为风向标的债券市场，对这波火热的AI投资也给出了出人意料的反应。",
+  "## 资本市场的微妙信号",
+  "虽然股市上一片欢腾，大家都在争相押注人工智能的未来，但债券市场的投资者们却在用自己的方式盘算着风险与收益。这种股市与债市对同一事件的截然不同反应，耐人寻味。",
+  "对咱们海外华人来说，无论是投资美股、关注科技板块，还是评估整体经济走向，这类的资本市场波动都会直接或间接地影响到大家的钱包和资产配置。后续这股AI热能否持续，还得看这些高估值的公司能不能真正交出亮眼的成绩单。"
+ ],
+ "tags": [
+  "AI",
+  "美股",
+  "债券市场",
+  "Anthropic",
+  "华尔街"
+ ],
+ "original_title": "The Bond Market’s Surprising Take on the AI Trade",
+ "lang": "en",
+ "published": "2026-11-19T11:26:00+00:00",
+ "created": "2026-11-19T20:34:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
