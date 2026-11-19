@@ -1,0 +1,24 @@
+{
+ "key": "df516231da",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "KawsarInsights",
+ "source_url": "https://x.com/KawsarInsights/status/2123400724616814806",
+ "title": "OpenAI助AMD芯片设计提速约一年",
+ "summary": "OpenAI称其模型帮助AMD在不到5个月内完成约一年的芯片设计进展，旗舰GPU设计的功耗、性能和面积最多可改善14%。",
+ "body": [
+  "OpenAI表示，其模型帮助AMD在不到5个月内完成了大约相当于一年的芯片设计进展。",
+  "在一款旗舰GPU设计上，功耗、性能和面积最多可改善14%。其中一些改动已应用于送交制造的设计中。"
+ ],
+ "tags": [
+  "OpenAI",
+  "AMD",
+  "芯片"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-19T12:59:18+00:00",
+ "created": "2026-11-19T14:34:49+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
