@@ -35,3 +35,7 @@
 - Wenxuecity：等用户决定是否改用原始媒体的公开 feed（华尔街见闻、财联社、第一财经等）。
 - Search Console 覆盖率报告（noindex / 规范网址问题）待用户提供。
 - 设置 `CF_STATS_TOKEN`；AdSense ID；确认 apex→www 跳转；移除 `functions/api/post.js` 里临时的密码长度诊断；确认登录页不再跳动。
+
+## inbox 机器人注意
+- 文章 key = 原文链接的哈希：同一个链接再推一次会被当作重复直接跳过（并移到 done/）。滚动更新的页面（如 Apollo Daily Spark）每天链接不变，要在 JSON 里加 `"uid": "2026-11-18"` 之类的唯一值才会作为新文章发布。
+- “大佬观点”版块严格按发布时间倒序，不做热度置顶。

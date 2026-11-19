@@ -48,7 +48,7 @@ def parse_inbox_file(path: Path) -> Article:
     created = datetime.now(timezone.utc).isoformat(timespec="seconds")
     owner = d.get("author") == "站长"
     return Article(
-        key=url_hash(url or f"inbox:{title}:{published}"),
+        key=url_hash((url + "#" + str(d["uid"])) if d.get("uid") else (url or f"inbox:{title}:{published}")),
         board=board,
         source_id="editor" if owner else "inbox",
         source_name=str(d.get("source_name") or ("站长" if owner else "综合媒体")).strip(),
