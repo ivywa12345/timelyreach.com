@@ -1,0 +1,24 @@
+{
+ "key": "ac9e515879",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/extreme-poverty-is-a-thing-of-the-past-in-india-a6f7b0a9?mod=rss_opinion",
+ "title": "印度彻底消灭极贫了？华尔街日报：搞定温饱只是第一步",
+ "summary": "根据华尔街日报专栏文章，印度已经消灭了极度贫困，但实现全面繁荣仍面临巨大挑战。",
+ "body": [
+  "近日，《华尔街日报》发表专栏文章指出，对于印度来说，极端贫困已经成为过去式，数亿人成功跨越了生存的底线。",
+  "不过，虽然摆脱了极度贫困这一历史难题，但要想让国家真正实现广泛的繁荣，对于印度政府而言依然是一个任重道远的艰巨任务（A taller order）。"
+ ],
+ "tags": [
+  "印度经济",
+  "极端贫困",
+  "海外观察"
+ ],
+ "original_title": "Extreme Poverty Is a Thing of the Past in India",
+ "lang": "en",
+ "published": "2026-11-18T22:56:00+00:00",
+ "created": "2026-11-19T00:21:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

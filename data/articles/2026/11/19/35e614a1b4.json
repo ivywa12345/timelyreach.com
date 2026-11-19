@@ -1,0 +1,26 @@
+{
+ "key": "35e614a1b4",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/senate-permit-bill-authors-seek-exemption-for-data-centers",
+ "title": "参议院能源法案大反转？数据中心有望免交电网升级费",
+ "summary": "美国参议院一项旨在改革重大能源项目联邦审批流程的法案迎来修改，其提案人正计划为部分数据中心争取豁免权，使其免于承担法案规定的电网升级费用。",
+ "body": [
+  "最近美国参议院正在推进一项大规模法案，打算彻底整顿联邦对重大能源项目的审批流程。不过最新消息显示，这项法案的起草者们正准备网开一面，提出一项重要豁免条款。",
+  "根据这项新提议，部分数据中心将不用遵守法案中原本的硬性规定，从而可以避免支付高昂的**电网升级费用**。目前这项针对能源审批改革的立法正在紧锣密鼓地推进中，这笔电网改造费原本可能成为各大科技公司建设数据中心的一大财务负担，此次豁免动向备受业界关注。"
+ ],
+ "tags": [
+  "参议院",
+  "数据中心",
+  "电网升级",
+  "能源法案",
+  "美国经济"
+ ],
+ "original_title": "Senate Permitting Bill Authors Seek Data Center Exemption",
+ "lang": "en",
+ "published": "2026-11-18T22:44:11+00:00",
+ "created": "2026-11-19T00:23:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

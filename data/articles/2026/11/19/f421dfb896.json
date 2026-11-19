@@ -1,0 +1,29 @@
+{
+ "key": "f421dfb896",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
+ "title": "小盘股突现“死亡交叉”，对大盘意味着什么？",
+ "summary": "罗素2000小盘股指数近期出现“死亡交叉”技术形态，显示市场广度变弱，引发投资者对整体美股走势的担忧。",
+ "body": [
+  "近期美股小盘股出现了一个让老股民心里咯噔一下的技术形态——“死亡交叉”。根据MarketWatch报道，罗素2000小盘股指数（Russell 2000）近日走出了这一偏空的技术图形，这直接证实了小盘股板块的疲软，也暴露了整体市场广度不足的问题。",
+  "## 什么是死亡交叉",
+  "- 简单来说，死亡交叉是指短期均线（如50日移动平均线）向下穿过了长期均线（如200日移动平均线）。\n- 在技术分析中，这个信号通常被视为市场短期动能恶化、抛压沉重的标志。\n- 罗素2000指数遭遇这一形态，说明不仅是科技巨头，大批中小企业股票近期的日子并不好过。",
+  "## 对华人的投资提醒",
+  "对于咱们海外华人来说，平时买美股指数基金或个股时，除了盯着标普500和大科技股，小盘股的走势往往是经济健康程度的“晴雨表”。当小盘股集体走弱、出现死亡交叉时，意味着市场整体风险在上升。如果你的投资组合里中小盘股票较多，或者比较关注整体市场的抗风险能力，近期不妨多留一个心眼，注意防范波动带来的回撤风险。"
+ ],
+ "tags": [
+  "美股",
+  "小盘股",
+  "罗素2000",
+  "死亡交叉",
+  "股市投资"
+ ],
+ "original_title": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
+ "lang": "en",
+ "published": "2026-11-18T23:12:00+00:00",
+ "created": "2026-11-19T00:22:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

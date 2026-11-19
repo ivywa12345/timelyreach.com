@@ -1,0 +1,27 @@
+{
+ "key": "73ced81f96",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/ex-google-engineer-may-face-new-charges-over-bets-on-gemini-3-0",
+ "title": "前谷歌工程师摊上大事？涉嫌押注AI发布日期面临新指控",
+ "summary": "前谷歌软件工程师此前被指控在Polymarket平台上非法押注公司搜索数据，现在他可能面临关于其利用Gemini 3.0发布日期进行交易的额外指控。",
+ "body": [
+  "前谷歌软件工程师此前因涉嫌在预测市场平台 Polymarket 上非法押注公司的搜索数据而惹上官非，现在他可能面临更多指控，原因是他涉嫌利用公司人工智能模型 Gemini 3.0 的发布日期进行违规交易。",
+  "这起案件再次引发了科技行业对内部员工泄露或利用机密数据进行投机行为的高度关注。随着人工智能技术成为兵家必争之地，类似 Gemini 3.0 这样的大模型发布节点往往牵动着巨大的商业利益和市场敏感神经。",
+  "对于身处海外的华人科技从业者来说，大厂的合规红线千万踩不得。不仅期权和股票交易受到严格监控，连这类非传统的预测市场押注也难逃监管法眼，一不小心不仅饭碗不保，还要承担严重的法律后果。"
+ ],
+ "tags": [
+  "谷歌",
+  "人工智能",
+  "Gemini 3.0",
+  "Polymarket",
+  "内部交易"
+ ],
+ "original_title": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0",
+ "lang": "en",
+ "published": "2026-11-18T23:44:22+00:00",
+ "created": "2026-11-19T00:23:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

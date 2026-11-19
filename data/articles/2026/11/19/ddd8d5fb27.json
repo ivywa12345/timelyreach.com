@@ -1,0 +1,29 @@
+{
+ "key": "ddd8d5fb27",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
+ "title": "英伟达黄仁勋卷入谍战？美国对华芯片间谍急需重拳出击！",
+ "summary": "《经济学人》最新文章指出，黄仁勋事件揭开了AI地下世界的冰山一角，美国必须严肃对待中国芯片间谍问题。",
+ "body": [
+  "近日，英伟达（Nvidia）CEO黄仁勋（Jensen Huang）卷入了一场关于芯片情报的风波，这起事件彻底暴露了全球人工智能（AI）领域不为人知的“地下世界”。",
+  "## 芯片谍战敲响警钟",
+  "长期以来，随着AI技术成为大国竞争的核心，围绕高端芯片的情报收集和暗中较量从未停止。英伟达作为全球AI芯片的绝对霸主，其产品自然成了各方关注的焦点。",
+  "## 漏洞必须尽快堵上",
+  "面对日益复杂的安全形势，外界认为相关漏洞不仅关乎企业商业机密，更直接触及国家的科技安全红线，美国政府和相关机构必须采取更严厉的措施来应对潜在的技术流失与间谍风险。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "芯片安全",
+  "中美科技战",
+  "AI地下世界"
+ ],
+ "original_title": "America must get serious about Chinese chip spying",
+ "lang": "en",
+ "published": "2026-11-18T19:10:41+00:00",
+ "created": "2026-11-19T00:21:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

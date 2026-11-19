@@ -1,0 +1,25 @@
+{
+ "key": "47345852a0",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
+ "title": "公司拆分潮失控？别盲目跟风买股票！",
+ "summary": "经济学人分析指出，企业近期掀起的分拆上市潮并不都像表面那么美，部分分拆案例成功，但也有不少暗藏风险，投资者需保持警惕。",
+ "body": [
+  "最近这几年，美股市场的企业“分拆上市”（Spin-offs）可以说是越来越火了，但知名媒体《经济学人》（The Economist）发文警告说：这股拆分潮已经有点失控了！",
+  "虽然商业历史上确实诞生过不少分拆后股价暴涨的明星案例，但盲目跟风把大企业切成小公司，并不等于稳赚不赔。很多时候，管理层热衷于拆分可能只是为了追逐短期利益，投资者一不小心就容易踩雷。"
+ ],
+ "tags": [
+  "美股投资",
+  "企业分拆",
+  "财经观察",
+  "海外理财"
+ ],
+ "original_title": "Corporate spin-offs are getting out of control",
+ "lang": "en",
+ "published": "2026-11-18T21:21:37+00:00",
+ "created": "2026-11-19T00:23:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

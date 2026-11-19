@@ -1,0 +1,28 @@
+{
+ "key": "a49b8f0cb5",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/ukraine-kerch-bridge-strike-vladimir-putin-russia-crimea-a58bdd6a?mod=rss_worldnews",
+ "title": "克赤大桥遇袭背后：乌克兰抱怨美军又“断网”了？",
+ "summary": "《华尔街日报》发表社论指出，乌克兰方面表示美国再次限制了其赖以抵御俄军进攻的Starshield服务，这也让克赤大桥遇袭事件的战略意义更加复杂。",
+ "body": [
+  "近日，《华尔街日报》编辑委员会发表了一篇关于乌克兰袭击克赤大桥（Kerch Bridge）意义的评论文章，其中提到基辅方面抱怨美国再次对Starshield进行了限制，而这对于阻止俄罗斯的推进至关重要。",
+  "## 关键战局与美方限制",
+  "- 乌克兰官方表示美国限制了Starshield服务\n- 该卫星通信系统被认为对阻止俄军推进有着**至关重要的作用**\n- 克赤大桥的打击行动与前线的战略部署紧密相连",
+  "对于远在大洋彼岸的海外华人来说，俄乌冲突的每一步升级都在牵动着全球能源和经济神经，尤其是美西方援助政策的微妙变化，随时可能通过通货膨胀和市场波动传导到每个人的钱包里。"
+ ],
+ "tags": [
+  "乌克兰",
+  "克赤大桥",
+  "Starshield",
+  "美国军事援助",
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | Why Ukraine’s Kerch Bridge Strike Matters",
+ "lang": "en",
+ "published": "2026-11-18T22:41:00+00:00",
+ "created": "2026-11-19T00:24:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

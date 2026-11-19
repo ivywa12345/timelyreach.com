@@ -1,0 +1,33 @@
+{
+ "key": "0f47bc4d12",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+ "title": "大手笔！网络安全巨头 Palo Alto 砸 45 亿美元收购 AI 初创公司，股价应声大涨",
+ "summary": "网络安全巨头 Palo Alto Networks 发布了亮眼的财报，不仅营收和利润双双超预期，还宣布以 45 亿美元全股票交易收购 AI 初创公司 Applied Compute，刺激股价盘后大涨超 7%。",
+ "body": [
+  "网络安全巨头 Palo Alto Networks（派拓网络）近日公布了超预期的第一财季财报，并宣布以 **45亿美元** 的全股票交易收购人工智能初创公司 Applied Compute，受此消息鼓舞，公司股价大涨超过 7%。",
+  "## 财报数据亮眼与市场背景",
+  "得益于企业对防御 AI 时代网络攻击的需求飙升，Palo Alto Networks 今年的股价已经累计飙升了 **85%**。最新财季的关键数据包括：\n- 每股收益：调整后 1.05 美元，预期 0.97 美元\n- 营收：达到 3.44 亿美元，高于预期的 3.31 亿美元\n- 净利润：增至 4.82 亿美元，高于去年同期的 3.34 亿美元",
+  "> “随着 AI 改变了威胁格局，我们必须不断进化，以保护客户并使他们能够安全地采用 AI。”\n> —— Palo Alto Networks CEO 尼凯什·阿尔罗拉 (Nikesh Arora)",
+  "## 押注 AI 模型安全",
+  "按照 CEO 尼凯什·阿尔罗拉（Nikesh Arora）的说法，这笔收购将帮助企业在采用开源权重模型时保证安全。Applied Compute 是一家帮助企业运行和定制自身 AI 模型的初创公司，这次收购也标志着 Palo Alto 业务向网络安全之外的重大延伸。",
+  "> “如果成功的话，我认为这将会让我们在网络安全的实力相形见绌。这可能会比我们现在做的事情还要大。”\n> —— Palo Alto Networks CEO 尼凯什·阿尔罗拉 (Nikesh Arora)",
+  "## 对在美华人的影响",
+  "随着网络安全威胁和 AI 技术的快速演进，企业对相关安全人才和工具的需求水涨船高。对于在美从事 IT、网络安全或 AI 领域的华人来说，这一行业的蓬勃发展意味着更多的职业机会和更高的薪酬潜力。同时，企业加大安全投入也反映出整体数字基础设施正在加速升级。"
+ ],
+ "tags": [
+  "Palo Alto Networks",
+  "美股财报",
+  "人工智能",
+  "网络安全",
+  "收购交易"
+ ],
+ "original_title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+ "lang": "en",
+ "published": "2026-11-19T00:07:06+00:00",
+ "created": "2026-11-19T00:24:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

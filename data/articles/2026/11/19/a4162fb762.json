@@ -1,0 +1,27 @@
+{
+ "key": "a4162fb762",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/iran-has-targeted-us-energy-and-finance-networks-mullin-says",
+ "title": "美方确认：伊朗曾黑美关键基建，但最近断网跟他们没关系",
+ "summary": "特朗普政府官员表示，自今年初战争爆发以来，伊朗的网络攻击一直针对美国关键基础设施和网络，但他们强调最近的技术故障和美国飞机停飞与伊朗无关。",
+ "body": [
+  "特朗普政府官员近日透露，自今年初冲突爆发以来，伊朗的网络攻击一直在瞄准美国的关键基础设施与网络。不过，官员们同时也明确澄清，近期发生的大规模技术故障以及美国国内的飞机停飞事件，与伊朗方面并没有关系。",
+  "## 网络攻击持续锁定关键基建",
+  "彭博社（Bloomberg）记者 Myles Miller 和 Ellen Milligan 报道称，美国官员指出，伊朗的网络活动持续针对美方的核心网络展开渗透和破坏。尽管面临威胁，但相关部门排除了近期民用航空地勤及部分科技服务中断是遭受伊朗黑客攻击所致的可能，试图以此安定公众情绪。",
+  "对于身处海外的华人来说，虽然官方排除了断网与敌对国家直接关联，但也再次敲响了日常网络安全与出行防范的警钟。在复杂的国际局势下，技术故障虽非敌袭，但对日常生活和出行的影响依然不容忽视。"
+ ],
+ "tags": [
+  "美国新闻",
+  "网络安全",
+  "伊朗",
+  "基础设施"
+ ],
+ "original_title": "Iran Hit Key Infrastructure, Isn’t Behind Tech Outages, US Says",
+ "lang": "en",
+ "published": "2026-11-18T15:15:06+00:00",
+ "created": "2026-11-19T00:22:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

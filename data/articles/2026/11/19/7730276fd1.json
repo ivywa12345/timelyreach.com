@@ -1,0 +1,26 @@
+{
+ "key": "7730276fd1",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
+ "title": "金价跌跌不休！创14个月新低，美联储还要继续加息？",
+ "summary": "受美联储官员鹰派言论影响，黄金价格在创下14个月新低后暂时企稳，市场对持续加息的预期不断升温。",
+ "body": [
+  "美联储官员最近频频放鹰，暗示明后年还要继续加息，这让黄金价格直接扛不住了。国际金价在触及 **14个月新低** 后，目前勉强维持在低位企稳。",
+  "这段时间金价之所以一路走低，主要是因为美联储为了压制通胀，铁了心要收紧货币政策。随着加息预期一直延长到明年，美元和美债收益率表现强劲，导致不产生利息的黄金失去了吸引力，资金纷纷从金市撤离。",
+  "对于咱们海外华人来说，金价持续走低虽然让喜欢囤金首饰或实物黄金的朋友觉得看到了买入机会，但也折射出高利率环境下整体经济的压力。如果打算进行资产配置或投资，面对波动的贵金属市场，大家还得根据自身的财务状况多留个心眼。"
+ ],
+ "tags": [
+  "黄金价格",
+  "美联储加息",
+  "海外理财",
+  "通货膨胀"
+ ],
+ "original_title": "Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes",
+ "lang": "en",
+ "published": "2026-11-18T23:24:06+00:00",
+ "created": "2026-11-19T00:26:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

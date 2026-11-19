@@ -1,0 +1,26 @@
+{
+ "key": "f931f757f3",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nvidia-says-its-business-as-usual-after-huangs-ouster-wall-street-doesnt-buy-it-954290c4?mod=rss_markets_main",
+ "title": "黄仁勋卸任风波后，英伟达股价连跌五天，华尔街根本不买账",
+ "summary": "英伟达（Nvidia）在发布财报后股价遭遇五连跌，公司声称一切照常，但华尔街投资者显然并不买账。",
+ "body": [
+  "人工智能（AI）芯片巨头英伟达（Nvidia）的股价迎来了艰难的一周。在备受关注的财报电话会议表现平平后，该公司股价已经**连续第五个交易日下跌**。",
+  "尽管英伟达官方试图安抚市场，坚称在首席执行官黄仁勋（Jensen Huang）卸任风波后公司依然是“一切照常”（Business as Usual），但从华尔街的反应来看，投资者们对这番说辞并不买账，市场对这家芯片巨头的未来走向产生了新的担忧。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "美股",
+  "华尔街",
+  "人工智能"
+ ],
+ "original_title": "Nvidia Says It’s ‘Business as Usual’ After Huang’s Ouster. Wall Street Doesn’t Buy It.",
+ "lang": "en",
+ "published": "2026-11-18T22:01:00+00:00",
+ "created": "2026-11-19T00:25:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

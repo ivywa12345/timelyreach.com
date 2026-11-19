@@ -1,0 +1,26 @@
+{
+ "key": "e3d60ee5c4",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+ "title": "AI建数据中心正疯狂吸金，但铜矿不够了？",
+ "summary": "由于全球铜矿开采量可能长期无法满足人工智能发展带来的巨大需求，这或将对未来的AI基础设施建设造成不利影响。",
+ "body": [
+  "近期有财经媒体指出，随着人工智能（AI）产业的飞速发展，全球可能面临铜矿开采量跟不上AI建设需求的困境，这一隐患未来几年可能会对AI基础设施的扩张造成阻碍。",
+  "铜作为电气化和电力传输的核心金属，在数据中心建设、服务器布线以及电网升级中扮演着不可或缺的角色。然而，由于矿山开发周期长、投资不足等现实因素，全球铜供应量在短期内很难出现爆发式增长。",
+  "对于关注科技股和宏观经济的海外华人来说，大宗商品市场的供需失衡不仅关乎新能源产业，如今也开始直接影响到最热门的AI赛道。如果铜价波动或供应短缺推高了基建成本，相关的科技巨头和AI产业链扩张步伐或许会踩下刹车，进而影响到投资者的钱包和市场的整体走向。"
+ ],
+ "tags": [
+  "人工智能",
+  "铜矿",
+  "美股投资",
+  "科技基建"
+ ],
+ "original_title": "How copper’s plunge could hurt the AI buildout",
+ "lang": "en",
+ "published": "2026-11-18T23:02:00+00:00",
+ "created": "2026-11-19T00:24:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

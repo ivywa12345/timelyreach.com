@@ -1,0 +1,26 @@
+{
+ "key": "95e81ab9d2",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/the-fate-of-jensen-huang-fa395bad?mod=rss_worldnews",
+ "title": "华尔街日报点名黄仁勋：权势再大也得接受严厉审视",
+ "summary": "《华尔街日报》最新发表了一篇关于英伟达CEO黄仁勋的评论文章，指出他的权势、人脉和财富不应该成为逃避严格审查的保护伞。",
+ "body": [
+  "近日，《华尔街日报》发表了一篇题为《黄仁勋的命运》(The Fate of Jensen Huang)的评论文章，核心观点直指目前如日中天的芯片巨头英伟达(NVIDIA)掌门人黄仁勋。",
+  "文章认为，随着黄仁勋(Jensen Huang)个人财富的暴增以及英伟达在人工智能(AI)领域的绝对统治地位，他所拥有的巨大权力、广泛人脉和巨额财富，绝不能成为让他免受外界密集且严厉审视的理由。这意味着，无论一家企业在技术浪潮中赚取了多少利润，其所受到的监管和公众监督也必须同步升级。"
+ ],
+ "tags": [
+  "黄仁勋",
+  "英伟达",
+  "华尔街日报",
+  "AI芯片",
+  "商业监管"
+ ],
+ "original_title": "Opinion | The Fate of Jensen Huang",
+ "lang": "en",
+ "published": "2026-11-18T21:43:00+00:00",
+ "created": "2026-11-19T00:25:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

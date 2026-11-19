@@ -1,0 +1,27 @@
+{
+ "key": "9588dd0c0d",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611?mod=rss_Technology",
+ "title": "砸45亿美元！网络安全巨头出手买下前OpenAI研究员刚创立的AI公司",
+ "summary": "网络安全巨头Palo Alto Networks宣布将以4.5亿美元收购AI初创公司Applied Compute，后者由前OpenAI研究人员于去年创立，专注于定制开源AI模型。",
+ "body": [
+  "网络安全巨头Palo Alto Networks（帕罗奥图网络）近日宣布了一笔重磅收购，目标直指一家成立仅一年的AI新星。根据华尔街日报的报道，该公司将斥资 **4.5亿美元** 全资收购人工智能初创公司Applied Compute。",
+  "## 创始人背景大有来头",
+  "这家被收购的目标公司来头不小，它是由几位前OpenAI的研究人员在去年刚刚创立的。虽然成立时间短，但其核心业务切中了当前最火的风口——专门从事开源AI模型（open-weight AI models）的定制化开发，这也是吸引安全巨头高价买单的关键原因。",
+  "对于这次收购，Palo Alto Networks希望通过将顶尖的AI定制技术融入其现有的网络安全产品中，进一步提升自动化防御能力。随着AI技术的不断演进，网络安全行业的整合步伐正在明显加快。"
+ ],
+ "tags": [
+  "科技收购",
+  "人工智能",
+  "网络安全",
+  "OpenAI"
+ ],
+ "original_title": "Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion",
+ "lang": "en",
+ "published": "2026-11-18T21:00:00+00:00",
+ "created": "2026-11-19T00:21:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

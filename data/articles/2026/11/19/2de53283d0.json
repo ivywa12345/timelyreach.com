@@ -1,0 +1,28 @@
+{
+ "key": "2de53283d0",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
+ "title": "AI独角兽Anthropic定价超预期，纳指期货应声上涨！",
+ "summary": "Anthropic IPO定价高于预期区间，带动美股股指期货上涨，为科技股市场注入了一剂强心针。",
+ "body": [
+  "美股科技圈最近迎来了一场大考。根据彭博社报道，人工智能公司Anthropic PBC的首次公开募股（IPO）定价超出了原本的市场预期，消息一出，美国股指期货立刻全线上涨，纳斯达克期货表现亮眼。",
+  "## 科技股迎来关键大考",
+  "在这之前，科技板块刚刚经历了一波震荡回落。而Anthropic这次把IPO价格定在预期的市场区间上方，直接给投资者们吃了一颗定心丸，证明大家对高科技板块的热情依然高涨。",
+  "与此同时，大宗商品市场则出现了不同的走势，铜价在当天出现了下跌。这次Anthropic的上市表现，不仅测试了华尔街对AI赛道的真实信心，也牵动着不少关注美股和科技行业投资者的钱包。"
+ ],
+ "tags": [
+  "美股",
+  "Anthropic",
+  "IPO",
+  "科技股",
+  "纳斯达克"
+ ],
+ "original_title": "Nasdaq Futures Rise After Anthropic IPO Pricing: Markets Wrap",
+ "lang": "en",
+ "published": "2026-11-18T22:07:41+00:00",
+ "created": "2026-11-19T00:24:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

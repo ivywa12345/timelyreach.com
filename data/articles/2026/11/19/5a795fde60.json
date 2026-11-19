@@ -1,0 +1,27 @@
+{
+ "key": "5a795fde60",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/anthropic-sells-more-shares-than-planned-at-a-higher-price-than-expected-4b511002?mod=rss_markets_main",
+ "title": "Anthropic这次火了！卖股票比原计划多，价格还更高",
+ "summary": "人工智能初创公司Anthropic在新一轮股票交易中表现亮眼，不仅出售的股份多于预期，价格也超出了预定水平。",
+ "body": [
+  "人工智能初创公司 Anthropic 最近在资本市场上赚足了眼球，其最新股票出售计划不仅规模超预期，连成交价也比原计划更高，显示出投资者对该公司的强劲信心。",
+  "与此同时，金融市场上还有其他几条备受关注的动态：",
+  "- 军方高层 Pete Hegseth 敲定了一项针对委内瑞拉的新军事协议\n- 芯片巨头英伟达（Nvidia）发布的重磅财报并未能彻底平息投资者的焦虑情绪",
+  "对于关注科技股和海外市场的华人朋友来说，英伟达的财报风波和头部AI企业的融资热度，直接关系到大家的投资钱包和市场走向，后续值得继续密切观察。"
+ ],
+ "tags": [
+  "Anthropic",
+  "英伟达",
+  "人工智能",
+  "美股投资"
+ ],
+ "original_title": "Anthropic Sells More Shares Than Planned at a Higher Price Than Expected",
+ "lang": "en",
+ "published": "2026-11-18T22:35:00+00:00",
+ "created": "2026-11-19T00:24:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

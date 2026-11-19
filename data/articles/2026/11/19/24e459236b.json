@@ -1,0 +1,25 @@
+{
+ "key": "24e459236b",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/americas/hegseth-cements-new-military-deal-in-visit-to-venezuela-621ccdcb?mod=rss_worldnews",
+ "title": "国防部长突访委内瑞拉！签下新军事协议",
+ "summary": "美国国防部长皮特·海格塞斯（Pete Hegseth）突访委内瑞拉首都加拉加斯，并与该国临时政府签署了一项全新的军事协议。",
+ "body": [
+  "美国国防部长皮特·海格塞斯（Pete Hegseth）近日在五角大楼事先未作任何宣布的情况下，突然造访委内瑞拉首都加拉加斯，并与该国临时政府正式签署了一项全新的军事合作协议。",
+  "这次访问在此之前并未向外界透露，行程相当低调。海格塞斯在访问期间与委内瑞拉临时政府完成了该协议的签署，这也标志着两国在防务关系上有了新的进展。"
+ ],
+ "tags": [
+  "美国军事",
+  "委内瑞拉",
+  "国防部长",
+  "国际新闻"
+ ],
+ "original_title": "Hegseth Cements New Military Deal in Visit to Venezuela",
+ "lang": "en",
+ "published": "2026-11-18T23:18:00+00:00",
+ "created": "2026-11-19T00:20:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

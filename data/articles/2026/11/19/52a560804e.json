@@ -1,0 +1,26 @@
+{
+ "key": "52a560804e",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c?mod=rss_markets_main",
+ "title": "AI巨头Anthropic(Anthropic) IPO定价超预期！每股83美元火热上市",
+ "summary": "人工智能巨头Anthropic首次公开募股（IPO）大受欢迎，不仅扩大了发行规模，最终定价也超过了预期的价格区间。",
+ "body": [
+  "人工智能（AI）领域迎来又一个重磅消息！AI巨头Anthropic(Anthropic)近日将其首次公开募股（IPO）的发行价定为 **每股83美元**，由于市场需求强劲，该公司最终出售的股票数量也超过了原定计划。此前，该公司的定价目标区间较窄，但凭借投资者的火热追捧，最终结果顺利超出预期。",
+  "Anthropic(Anthropic)这次能够高价且超额发行，充分显示出资本市场对当前AI赛道依然信心十足。对于关注科技股和美股投资的海外华人来说，这类头部AI企业的上市表现往往是行业风向标，也将直接影响科技板块的整体走势与投资者的资产配置。"
+ ],
+ "tags": [
+  "Anthropic",
+  "IPO",
+  "人工智能",
+  "美股",
+  "科技股"
+ ],
+ "original_title": "Anthropic Prices IPO at $83 a Share on Strong Demand",
+ "lang": "en",
+ "published": "2026-11-18T23:49:00+00:00",
+ "created": "2026-11-19T00:20:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

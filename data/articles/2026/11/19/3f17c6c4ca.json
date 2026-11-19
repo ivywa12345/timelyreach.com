@@ -1,0 +1,24 @@
+{
+ "key": "3f17c6c4ca",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
+ "title": "美伊冲突走向未明，国际油价暂时稳住了",
+ "summary": "11月19日，由于交易员们正在评估美伊冲突下一阶段的走势，国际油价在周三的大跌后暂时企稳。",
+ "body": [
+  "经历周三的明显下跌之后，国际油价在11月19日暂时恢复平稳。目前，市场交易员正密切关注并评估美国与伊朗之间冲突的下一阶段走向，这也成为了左右近期油市行情的关键因素。"
+ ],
+ "tags": [
+  "国际油价",
+  "美伊冲突",
+  "能源市场",
+  "海外财经"
+ ],
+ "original_title": "Latest Oil Market News and Analysis for Nov. 19",
+ "lang": "en",
+ "published": "2026-11-18T23:03:35+00:00",
+ "created": "2026-11-19T00:21:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

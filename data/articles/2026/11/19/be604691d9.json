@@ -1,0 +1,28 @@
+{
+ "key": "be604691d9",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/anthropic-ipo-shares-investment-pension-funds-9f4d0c52?mod=rss_opinion",
+ "title": "Anthropic要上市？纳税人和打工人这次真能沾光了！",
+ "summary": "华尔街日报编辑委员会发文称，人工智能公司Anthropic的首次公开募股（IPO）将让广大纳税人和普通劳动者普遍受益。",
+ "body": [
+  "人工智能独角兽企业Anthropic传出即将进行首次公开募股（IPO）的消息，华尔街日报编辑委员会（The Editorial Board）发文指出，这一资本动作不仅能让大股东赚得盆满钵满，更将切切实实地惠及广大纳税人和普通打工人。",
+  "> \"The company’s IPO will benefit taxpayers and workers far and wide.\"",
+  "> —— 华尔街日报编辑委员会 (The Editorial Board)",
+  "近年来，随着AI技术的爆发，头部科技公司的估值水涨船高。Anthropic作为行业内的领头羊之一，其上市不仅标志着公司发展进入新阶段，也将为更广泛的经济群体创造红利，特别是在养老金和公共财政投资回报方面带来积极影响。"
+ ],
+ "tags": [
+  "Anthropic",
+  "IPO",
+  "华尔街日报",
+  "人工智能",
+  "美股"
+ ],
+ "original_title": "Congrats on Your Anthropic Shares",
+ "lang": "en",
+ "published": "2026-11-18T22:42:00+00:00",
+ "created": "2026-11-19T00:23:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
