@@ -1,0 +1,28 @@
+{
+ "key": "82bae788ff",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-record-breaking-ipo-372a1fec?mod=rss_markets_main",
+ "title": "ChatGPT劲敌上市了！Anthropic敲钟，AI赛道再添猛将",
+ "summary": "AI领域又有大动作，ChatGPT的有力竞争对手、Claude的母公司Anthropic终于登陆资本市场。",
+ "body": [
+  "AI界的“当红炸子鸡”终于迎来了高光时刻。当地时间周四中午，备受瞩目的AI独角兽公司Anthropic正式开启了上市交易，这一动作被视为今年科技圈最重磅的资本事件之一。",
+  "## 为什么这家公司这么火？",
+  "作为OpenAI的强劲对手，Anthropic开发的人工智能聊天机器人Claude凭借更细腻的逻辑和更安全的内容风控，在极短时间内积累了海量用户。此次IPO不仅是公司实力的证明，更是AI行业进入“比拼造血能力”新阶段的标志。",
+  "对于咱们在美华人来说，AI技术的发展不仅关乎职场工具的迭代，也可能通过资本市场的波动影响到大家的投资组合。作为普通投资者，看着科技巨头们在AI赛道“神仙打架”，未来无论是求职还是资产配置，都值得多留个心眼。"
+ ],
+ "tags": [
+  "Anthropic",
+  "Claude",
+  "AI",
+  "美股",
+  "科技新闻"
+ ],
+ "original_title": "What to Know About Anthropic’s Record-Breaking IPO",
+ "lang": "en",
+ "published": "2026-11-19T18:14:00+00:00",
+ "created": "2026-11-19T19:12:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "f7fdfe39ca",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=rss_markets_main",
+ "title": "Visa、万事达和摩根大通遭黑客攻击，数千客户数据外泄！",
+ "summary": "黑客组织泄露了Visa、万事达卡以及摩根大通数千名客户的数据，官方表示支付服务未受影响。",
+ "body": [
+  "近日，金融界传出安全隐患，信用卡巨头Visa、万事达卡（Mastercard）以及摩根大通（JPMorgan Chase）的数千名客户数据遭到黑客泄露，引发关注。",
+  "根据《华尔街日报》记者本·格里克曼（Ben Glickman）的报道，此次事件波及的客户数量达到**数千名**。不过，相关机构已经出面澄清，这起数据泄露事件并未对目前的支付服务造成中断，也与本周早些时候发生的其他银行系统故障没有任何关联。",
+  "对于在美华人来说，虽然日常的刷卡支付功能暂未受到影响，但涉及个人财务信息的外泄依然不可小觑。建议大家近期密切关注自己的银行账户和信用卡账单，留意是否有未经授权的异常交易，确保资金安全。"
+ ],
+ "tags": [
+  "信息安全",
+  "Visa",
+  "万事达",
+  "摩根大通",
+  "海外华人"
+ ],
+ "original_title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+ "lang": "en",
+ "published": "2026-11-19T15:52:00+00:00",
+ "created": "2026-11-19T19:15:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

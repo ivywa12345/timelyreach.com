@@ -1,0 +1,26 @@
+{
+ "key": "85c5d31f68",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+ "title": "住养老院太贵？美政府拟推新政，以后在家也能拿医保报销",
+ "summary": "美国医保Medicare计划推行新法案，旨在通过支持居家护理来减少医院和养老院的压力，并降低患者的医疗开支。",
+ "body": [
+  "如果你家里有老人，一定知道住养老院有多烧钱。最近，美国国会正在酝酿一项新法案，旨在让Medicare（联邦医疗保险）受益人能够在家里获得高质量的护理服务，而不是非得挤进养老院或长期护理机构。",
+  "这项提议的核心逻辑其实是“三赢”：既能腾出医院和养老院的床位资源，又能切实降低病人和医保系统的负担。对于很多希望在熟悉环境下养老的华人长辈来说，这无疑是个重大利好。",
+  "目前这项计划虽然还处于推进阶段，但随着人口老龄化加剧，居家养老已经成为大趋势。如果该法案最终落地，将为许多依赖Medicare生活的家庭节省大笔支出，并提供更具人文关怀的医疗选项。"
+ ],
+ "tags": [
+  "美国养老",
+  "Medicare",
+  "居家护理",
+  "医疗成本"
+ ],
+ "original_title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+ "lang": "en",
+ "published": "2026-11-19T18:54:00+00:00",
+ "created": "2026-11-19T19:12:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

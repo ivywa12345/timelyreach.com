@@ -1,0 +1,30 @@
+{
+ "key": "4524fd3f0c",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+ "title": "AMD被指违规供货给“黑名单”中国公司，股价跳水7%！",
+ "summary": "芯片巨头AMD被做空机构Hunterbrook Media指控向被美国列入黑名单的中国公司提供固件支持，消息导致其股价大跌。",
+ "body": [
+  "芯片大厂AMD（Advanced Micro Devices）周三遭遇当头一棒，股价盘中一度跳水约7%。原因是知名做空机构Hunterbrook Media发布报告，直接指控AMD与被美国政府“拉黑”的中国服务器制造商浪潮信息（Inspur/IEIT Systems）存在不当的技术往来，称该公司在被制裁后依然能获取AMD的最新固件，从而维持其服务器的运转。",
+  "## 涉嫌违规？AMD紧急回应",
+  "除了固件争议，Hunterbrook Media还抛出了几个令投资者不安的数据：",
+  "- AMD有超过20%的营收来自中国和香港地区的客户。\n- AMD目前高度依赖中国的合作伙伴来完成大部分芯片的后道封测环节。\n- 华盛顿后续可能出台更严苛的出口管制政策，这将进一步挤压AMD的海外业务空间。",
+  "面对这份“指控”，AMD公司迅速发表声明予以反驳，强调其始终遵守美国所有的出口管制法律。AMD发言人表示：“这些指控曲解了我们的业务实践和合作伙伴关系，我们始终保持严苛的流程以确保全球运营的合规性。”",
+  "其实，这已经不是芯片圈第一次卷入地缘政治风波了，之前其老对手英伟达（Nvidia）也曾因向亚洲市场出售芯片而面临调查。对于在美从事科技行业或持有相关股票的华人来说，**科技出口禁令**的影响已经常态化，后续不仅会影响公司的利润表现，也可能导致中概股或半导体板块持续剧烈震荡，建议投资者近期密切关注相关监管动向。"
+ ],
+ "tags": [
+  "AMD",
+  "芯片",
+  "美股",
+  "出口管制",
+  "半导体"
+ ],
+ "original_title": "AMD dives on short-seller report of alleged China exposure",
+ "lang": "en",
+ "published": "2026-11-19T18:24:54+00:00",
+ "created": "2026-11-19T19:12:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

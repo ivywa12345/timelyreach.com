@@ -1,0 +1,26 @@
+{
+ "key": "50e792fc4a",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale",
+ "title": "谷歌母公司又去加拿大借钱了！这次一口气狂揽42亿美元",
+ "summary": "谷歌母公司 Alphabet Inc. 时隔半年再次出手，在加拿大债券市场发行了高达 60 加元（约合 42 亿美元）的债券。",
+ "body": [
+  "谷歌母公司 Alphabet Inc. 最近动作频频，时隔半年重返加拿大债券市场，一口气推出了规模达 **60亿加元（约合42亿美元）** 的债券发售计划。",
+  "这次的大手笔融资距离他们首次登陆该市场仅仅过去了六个月，显示出这家科技巨头对加拿大资本市场的持续青睐和强劲的资金需求。"
+ ],
+ "tags": [
+  "谷歌",
+  "Alphabet",
+  "加拿大债券",
+  "美股动态",
+  "科技巨头"
+ ],
+ "original_title": "Alphabet Set to Raise $4.2 Billion From Latest Canada Bond Sale",
+ "lang": "en",
+ "published": "2026-11-19T16:16:50+00:00",
+ "created": "2026-11-19T19:11:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

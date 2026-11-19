@@ -1,0 +1,33 @@
+{
+ "key": "1d814fe00b",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
+ "title": "财报超预期又砸45亿美元买AI！这家网络安全巨头股价大涨",
+ "summary": "网络安全公司Palo Alto Networks发布了亮眼的财报，营收同比大增39%，并宣布斥资45亿美元收购AI初创公司Applied Compute，推动股价在周四上涨6%。",
+ "body": [
+  "网络安全巨头Palo Alto Networks交出了一份让华尔街惊艳的财报。在企业疯狂加码网络安全预算的背景下，该公司第一财季营收同比大涨39%，并调高了全年的业绩预期，刺激股价在周四应声上涨 **6%**。",
+  "## 砸45亿押注AI大模型",
+  "除了亮眼的财报数据，Palo Alto Networks还宣布了一笔重磅交易：斥资 **45亿美元** 收购专注于帮助训练定制化开源模型的AI初创公司Applied Compute。这标志着该公司的业务版图正式从传统网络安全跨界延伸至AI模型训练领域。",
+  "公司CEO尼凯什·阿罗拉（Nikesh Arora）在接受CNBC采访时表示，近期微软、各大银行以及联邦航空管理局等机构频频发生系统故障，加上AI驱动的网络攻击风险剧增，让企业慌忙加速修补漏洞，也直接带动了防火墙和AI安全的需求。",
+  "> “他们必须确保找到市场上最好的玩家来支持自己，因为这已经不再是小孩子的游戏了。”",
+  "> —— Palo Alto Networks CEO 尼凯什·阿罗拉",
+  "## 华尔街怎么看",
+  "对于这笔激进的收购，华尔街机构普遍给予了积极评价。花旗集团（Citigroup）分析师认为，此举符合该公司超越网络安全、进军AI全产业链的长期战略；美国银行（Bank of America）则称其为进军开源模型训练领域的“大胆之举”。",
+  "- 财报看点：第一财季营收同比飙升 **39%**，并上调了全年业绩预期。\n- 收购目标：斥资45亿美元买下AI初创公司Applied Compute。\n- 长期目标：预计到2029财年，该交易将为下一代安全业务带来超过 **10亿美元** 的年度经常性收入。"
+ ],
+ "tags": [
+  "Palo Alto Networks",
+  "美股",
+  "网络安全",
+  "人工智能",
+  "财报"
+ ],
+ "original_title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+ "lang": "en",
+ "published": "2026-11-19T16:28:06+00:00",
+ "created": "2026-11-19T19:14:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

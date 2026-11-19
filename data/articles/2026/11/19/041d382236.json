@@ -1,0 +1,26 @@
+{
+ "key": "041d382236",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/is-anthropic-worth-1-1-trillion-or-1-5-trillion-how-to-make-sense-of-the-valuations-721b4df8?mod=rss_markets_main",
+ "title": "Anthropic估值冲向万亿，这笔复杂的AI账到底怎么算？",
+ "summary": "AI独角兽Anthropic的估值传闻不断，从1.5万亿美元到2万亿美元不等，其复杂的股权结构和融资方式让外界直呼看不懂。",
+ "body": [
+  "近期，人工智能初创公司Anthropic的估值传闻引起了广泛关注，市场上甚至出现了1.5万亿美元到2万亿美元的惊人数字。华尔街日报分析指出，这家公司的复杂结构和融资方式，让它的估值计算变得异常烧脑。",
+  "作为OpenAI的强劲对手，Anthropic在吸引巨额投资的同时，也伴随着复杂的资本运作。对于普通人来说，这种天文数字背后的股权和资金流向往往像个谜团，但它直接反映了当前AI赛道的疯狂程度。",
+  "对海外华人来说，AI行业的每一次估值狂欢都牵动着科技投资和就业市场的神经。虽然这些巨头公司的资本游戏离我们的日常生活似乎有点远，但它们正在深刻改变着整个科技行业的风向和未来的工作机会。"
+ ],
+ "tags": [
+  "Anthropic",
+  "人工智能",
+  "科技投资",
+  "华尔街日报"
+ ],
+ "original_title": "Is Anthropic Worth $2 Trillion, or $1.5 Trillion? How to Make Sense of the Valuations",
+ "lang": "en",
+ "published": "2026-11-19T18:19:00+00:00",
+ "created": "2026-11-19T19:10:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

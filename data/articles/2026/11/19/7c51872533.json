@@ -1,0 +1,27 @@
+{
+ "key": "7c51872533",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
+ "title": "全球国债收益率都在飙升，唯独中国在降息？",
+ "summary": "全球各国的债券收益率都在普遍上升，而中国央行却反其道而行之，近期连续进行了降息操作。",
+ "body": [
+  "最近一段时间，全球各国的债券收益率都在蹭蹭往上涨，但有一个主要经济体却是个例外——中国。面对全球趋势，中国央行（PBOC）不仅没有跟进，反而自己降起了利率。",
+  "## 逆势降息的背后",
+  "长期以来，各国央行的货币政策往往会有一定的联动性。然而，中国中央银行在近期却选择了一条相对独立的道路，在自身经济复苏和市场流动的考量下，顶着外部压力连续下调了利率，试图通过这种方式来提振国内市场。",
+  "对于关注全球宏观经济和资产配置的海外华人来说，中美两地截然不同的利率走势，可能会对汇率、跨境投资以及资产回报产生微妙的影响，值得持续关注。"
+ ],
+ "tags": [
+  "财经新闻",
+  "中国经济",
+  "央行降息",
+  "债券市场"
+ ],
+ "original_title": "Bond yields are rising everywhere—except China",
+ "lang": "en",
+ "published": "2026-11-19T10:04:37+00:00",
+ "created": "2026-11-19T19:11:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

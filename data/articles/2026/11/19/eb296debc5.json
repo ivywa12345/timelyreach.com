@@ -1,0 +1,24 @@
+{
+ "key": "eb296debc5",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/rural-americans-deserve-a-seat-at-the-table-7e4bbebb?mod=rss_opinion",
+ "title": "美国农民发声：农业投资不能被忽视",
+ "summary": "华尔街日报发表评论指出，美国农民和牧场主深知投资的价值，呼吁各方重视农村地区的发展需求。",
+ "body": [
+  "美国乡村地区的的声音正在受到关注。近日有评论指出，广大的农民和牧场主们深知投资对于经济发展和未来生存的真正价值。",
+  "长期以来，农业一直是美国经济的重要基石。对于在美从事农业相关行业的华人和普通民众来说，乡村基础设施建设以及相关政策的投入，直接关系到整个产业链的稳定与发展。"
+ ],
+ "tags": [
+  "美国农业",
+  "乡村发展",
+  "华尔街日报"
+ ],
+ "original_title": "Rural Americans Deserve a Seat at the Table",
+ "lang": "en",
+ "published": "2026-11-19T17:25:00+00:00",
+ "created": "2026-11-19T19:10:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

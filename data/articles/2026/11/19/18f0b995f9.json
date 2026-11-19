@@ -1,0 +1,26 @@
+{
+ "key": "18f0b995f9",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/wall-street-pledged-500-billion-for-nvidia-not-a-dollar-has-been-deployed-6bee9560?mod=rss_worldnews",
+ "title": "华尔街承诺给英伟达的5000亿，怎么一分钱都没花出去？",
+ "summary": "华尔街此前承诺向英伟达提供5000亿美元资金，但至今尚未落实一美元。同时，特朗普、习近平和普京召开了历史上首次峰会，人工智能公司Anthropic的IPO也传出好消息。",
+ "body": [
+  "华尔街巨头们此前承诺为芯片巨头英伟达（Nvidia）砸下的 **5000亿美元** 资金，至今竟然连一分钱都还没真正投出去。",
+  "除了这笔备受关注的巨额资金悬而未决，近期国际政商界还有以下几个重磅动态：\n- 特朗普、习近平和普京举行了历史上首次峰会\n- 人工智能公司 Anthropic 的 IPO 推进顺利，不仅股份卖得比计划的多，价格也超出了预期",
+  "对于关注科技股和全球局势的海外华人来说，英伟达的资金迟迟未能落地，也让人捏了一把汗。AI热潮背后依然存在不确定性，大家的钱包和相关投资还是得谨慎盯紧。"
+ ],
+ "tags": [
+  "英伟达",
+  "华尔街",
+  "美股",
+  "AI投资"
+ ],
+ "original_title": "Wall Street Pledged $500 Billion for Nvidia. Not a Dollar Has Been Deployed.",
+ "lang": "en",
+ "published": "2026-11-19T11:03:00+00:00",
+ "created": "2026-11-19T19:14:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

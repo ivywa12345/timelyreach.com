@@ -1,0 +1,27 @@
+{
+ "key": "8e181ce346",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/what-the-blue-wave-in-texas-means-for-elon-musks-tesla-and-spacex-af0985ae?mod=rss_Technology",
+ "title": "得州要变天？马斯克的科技帝国面临新考验",
+ "summary": "华尔街日报探讨了得克萨斯州政治版图可能出现的“蓝潮”对埃隆·马斯克旗下特斯拉和SpaceX等项目意味着什么。",
+ "body": [
+  "华尔街日报记者 Becky Peterson 近期分析了得克萨斯州政治风向的变化，以及这种转变将如何影响亿万富翁埃隆·马斯克（Elon Musk）在该州布局的各大核心项目。",
+  "近年来，马斯克将特斯拉（Tesla）总部和SpaceX的重要基地纷纷搬到了被称为“孤星州”的得克萨斯州，并在此展开了大量的商业投资和基础设施建设。",
+  "如果得州未来真的迎来政治上的“蓝潮”，可能会在政策监管、税收优惠以及环保要求等方面给马斯克的企业带来新的变数和挑战，相关项目的后续进展备受外界关注。"
+ ],
+ "tags": [
+  "埃隆·马斯克",
+  "特斯拉",
+  "SpaceX",
+  "得克萨斯州",
+  "美国政治"
+ ],
+ "original_title": "What the Blue Wave in Texas Means for Elon Musk’s Tesla and SpaceX",
+ "lang": "en",
+ "published": "2026-11-19T18:02:00+00:00",
+ "created": "2026-11-19T19:10:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "57ad210e07",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/markets/starlink-spotted-cybercab-roof-high-speed-satellite-internet-coming-every-new-tesla",
+ "title": "特斯拉放大招？Cybercab车顶惊现星链，以后开车也能满格高速上网？",
+ "summary": "特斯拉的无人驾驶出租车Cybercab在车顶集成了星链（Starlink）终端，这一发现暗示特斯拉未来可能全面接入卫星互联网，让车辆在移动中也能保持高速网络连接。",
+ "body": [
+  "最近有无人机航拍照片显示，特斯拉（Tesla）的无人驾驶出租车Cybercab车顶出现了一个神秘的设备，看起来正是马斯克的星链（Starlink）终端。这一变化被电动车媒体Teslarati捕捉到，并对比了9月份和现在的照片，证实了该集成设计正在快速进化。",
+  "目前Cybercab已经向部分精选客户开放购买，而这次的发现或许预示着特斯拉未来的生产方向：通过将星链技术深度嵌入车身，让乘客在旅途中也能享受不受地理限制的高速网络。",
+  "虽然一些动手能力强的特斯拉车主此前已经尝试过用吸盘把星链Mini版装在车顶，但官方原厂集成显然意味着更强大的性能和稳定性。随着星链在航空和海运领域的快速普及，未来将其作为特斯拉的“标准配置”可能只是时间问题。虽然全面普及到整个汽车市场可能要等到2030年，但可以肯定的是，**高速网络连接**将成为未来自动驾驶出行的核心体验之一。"
+ ],
+ "tags": [
+  "特斯拉",
+  "星链",
+  "Cybercab",
+  "自动驾驶",
+  "科技趋势"
+ ],
+ "original_title": "Starlink Spotted In Cybercab Roof: Is High-Speed Satellite Internet Coming To New Teslas",
+ "lang": "en",
+ "published": "2026-11-19T18:15:00+00:00",
+ "created": "2026-11-19T19:15:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

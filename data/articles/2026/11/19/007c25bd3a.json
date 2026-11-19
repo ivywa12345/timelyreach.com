@@ -1,0 +1,27 @@
+{
+ "key": "007c25bd3a",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/leaders/2026/11/19/americas-neglect-of-global-science-is-backfiring",
+ "title": "美国冷落全球科学，这下自己吃大亏了？",
+ "summary": "《经济学人》指出，特朗普政府时期的科研政策矫枉过正，美国对全球科学合作的忽视正在产生反噬效果。",
+ "body": [
+  "美国近年来对全球科学合作的冷落正在产生负面效应，当年的政策调整被认为对过去的错误进行了矫枉过正。",
+  "## 科研政策反噬美国",
+  "特朗普政府时期推出的一系列科研相关改革，原本是为了纠正过去的一些问题，但实际执行下来却走向了另一个极端。这种对国际科研交流与合作的忽视，不仅影响了美国自身的创新活力，也让其在全球科学界的领导地位受到挑战。",
+  "对于海外华人特别是身处科技领域的科研人员和从业者来说，中美及国际间科研环境的变化直接关系到大家的职业发展、项目申请以及学术自由。科学研究本来就需要全球智慧的碰撞，过度限制或忽视外部合作，最终可能导致两败俱伤。"
+ ],
+ "tags": [
+  "美国科学",
+  "科研政策",
+  "科技创新",
+  "经济学人"
+ ],
+ "original_title": "America’s neglect of global science is backfiring",
+ "lang": "en",
+ "published": "2026-11-19T14:01:02+00:00",
+ "created": "2026-11-19T19:11:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

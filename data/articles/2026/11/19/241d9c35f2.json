@@ -1,0 +1,27 @@
+{
+ "key": "241d9c35f2",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+ "title": "美联储出手了！第一证券银行一名前员工被发“禁令”",
+ "summary": "美联储正式对第一证券银行（First Security Bancorp）前员工拉什·哈丁三世（Rush F. Harding III）采取执法行动，因其存在违规行为。",
+ "body": [
+  "美联储（Federal Reserve Board）在周四发布公告，对第一证券银行（First Security Bancorp）的一名前员工拉什·哈丁三世（Rush F. Harding III）下达了同意停职令（Consent Cease-and-Desist Order）。",
+  "根据美联储的声明，这次执法行动主要是因为哈丁三世涉及违反信托义务（Breach of fiduciary duty）以及触犯了《W条例》（Regulation W）。《W条例》通常涉及银行与其关联方之间的交易限制，旨在保护银行系统和储户的资金安全。",
+  "虽然目前美联储尚未披露具体的涉案金额或详细操作细节，但这一举措再次提醒在金融行业工作的华人朋友，合规操作是职业生涯的底线。无论是身为银行高管还是普通职员，一旦触犯法规，面临的不仅仅是职业信誉的毁灭，还可能遭受监管机构长期的法律追责。"
+ ],
+ "tags": [
+  "美联储",
+  "金融监管",
+  "合规",
+  "职场",
+  "第一证券银行"
+ ],
+ "original_title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+ "lang": "en",
+ "published": "2026-11-19T16:00:00+00:00",
+ "created": "2026-11-19T19:12:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
