@@ -1,0 +1,23 @@
+{
+ "key": "2b7f7aa6b5",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-2-led-by-chip-retail-stocks-fd10cf06?mod=rss_markets_main",
+ "title": "科技股回暖！欧洲股市开盘集体上涨",
+ "summary": "欧洲股市开盘普遍走高，主要受科技股情绪反弹和工业股上涨的带动。",
+ "body": [
+  "周三欧洲股市开盘后普遍迎来涨势，主要归功于科技股市场情绪的回暖，同时工业股也表现不错，推动三大指数向上攀升。"
+ ],
+ "tags": [
+  "欧洲股市",
+  "科技股",
+  "海外财经"
+ ],
+ "original_title": "European Stock Indexes Rise as Tech Sentiment Improves",
+ "lang": "en",
+ "published": "2026-11-19T08:24:00+00:00",
+ "created": "2026-11-19T10:23:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

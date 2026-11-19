@@ -1,0 +1,27 @@
+{
+ "key": "5c6499bf52",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026?mod=rss_markets_main",
+ "title": "AI界头一遭！Claude母公司Anthropic今天正式冲刺IPO",
+ "summary": "AI独角兽Anthropic即将成为第一家公开上市的前沿AI实验室，这场高风险的IPO备受市场瞩目。",
+ "body": [
+  "大模型玩家终于要集体向资本市场交答卷了！开发热门AI助手Claude的Anthropic公司今天正式准备挂牌交易，这也让它成为了全球第一家走上公开上市之路的前沿AI实验室。",
+  "作为当前大模型赛道上的头部玩家，Anthropic这次的IPO可以说是科技圈和投资界的一场高风险大考。此前，各大AI巨头多以私募融资为主，这次Anthropic率先冲击资本市场，其表现无疑将成为检验整个生成式AI行业商业化前景的风向标。",
+  "对于关注科技投资的海外华人来说，这家公司的上市不仅标志着AI产业进入了一个新阶段，其后续的市场表现也可能直接影响到整个科技板块的走向和相关投资机会。"
+ ],
+ "tags": [
+  "Anthropic",
+  "IPO",
+  "人工智能",
+  "Claude",
+  "科技股"
+ ],
+ "original_title": "Anthropic IPO Today: AI Giant Prepares to Start Trading in High-Stakes Offering",
+ "lang": "en",
+ "published": "2026-11-19T09:34:15+00:00",
+ "created": "2026-11-19T10:18:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

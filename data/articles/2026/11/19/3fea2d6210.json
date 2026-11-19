@@ -1,0 +1,28 @@
+{
+ "key": "3fea2d6210",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/leaders/2026/11/19/bangladesh-an-underappreciated-success-faces-an-economic-crisis",
+ "title": "孟加拉国突然遭遇经济危机，新政府能接住这盘棋吗？",
+ "summary": "曾经低调闷声发大财的孟加拉国如今面临严峻经济危机，新上台的政府当前面临的最大任务就是整顿国内脆弱的银行体系。",
+ "body": [
+  "曾经被视作经济发展“黑马”的孟加拉国，最近遇到了大麻烦，新上任的政府正焦头烂额地试图挽救国内摇摇欲坠的银行系统。",
+  "## 经济优等生怎么了",
+  "这个南亚国家过去几年的经济表现其实相当亮眼，发展势头让外界刮目相看。但好景不长，如今他们不得不面对严峻的经济危机，尤其是金融系统的漏洞百出，成了阻碍国家发展的心腹大患。",
+  "## 新政府的生死考验",
+  "摆在新政权面前最紧迫的任务，就是进行彻底的金融改革，把那些千疮百孔的银行拉回正轨。如果不能妥善解决银行危机，整个国家的经济复苏恐怕都无从谈起。"
+ ],
+ "tags": [
+  "孟加拉国",
+  "经济危机",
+  "银行改革",
+  "海外观察"
+ ],
+ "original_title": "Bangladesh, an underappreciated success, faces an economic crisis",
+ "lang": "en",
+ "published": "2026-11-19T09:51:47+00:00",
+ "created": "2026-11-19T10:18:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

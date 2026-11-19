@@ -1,0 +1,27 @@
+{
+ "key": "727cae40af",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/here-s-what-trump-putin-and-xi-said-at-unprecedented-sitdown",
+ "title": "中美俄最高领导人罕见同框，川普、普京、习近平都聊了啥？",
+ "summary": "美国总统唐纳德·特朗普（Donald Trump）、中国国家主席习近平以及俄罗斯总统普京（Vladimir Putin）于周四进行了美中俄领导人之间的空前会晤。",
+ "body": [
+  "美国总统唐纳德·特朗普（Donald Trump）、中国国家主席习近平以及俄罗斯总统普京（Vladimir Putin）于周四举行了一场史无前例的三国领导人会晤，吸引了全球媒体的目光。",
+  "目前外媒尚未披露此次闭门会谈的具体细节和各方发言内容，但这场三巨头聚首已经引发了国际社会的广泛猜测与高度关注。",
+  "对于远在海外的华人来说，大国关系的走向直接关系到国际经贸格局以及海外华人的切身利益，我们将持续关注后续报道。"
+ ],
+ "tags": [
+  "中美关系",
+  "特朗普",
+  "习近平",
+  "普京",
+  "国际政治"
+ ],
+ "original_title": "Here’s What Trump, Putin and Xi Said at Unprecedented Sitdown",
+ "lang": "en",
+ "published": "2026-11-19T10:03:44+00:00",
+ "created": "2026-11-19T10:21:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

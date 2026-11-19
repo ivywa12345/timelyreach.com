@@ -1,0 +1,25 @@
+{
+ "key": "dc76d6494e",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/xi-hosts-groundbreaking-trilateral-meeting-with-trump-putin",
+ "title": "中美俄要经常开会？习近平在历史性峰会上这样说",
+ "summary": "中国国家主席习近平在一次被称为“突破性”的三方会晤中发出警告，称大国竞争会导致全球局势不稳定，并呼吁中国、俄罗斯和美国之间进行定期交流。",
+ "body": [
+  "中国国家主席习近平近日在主持一场被称为“突破性”的三国会晤时指出，大国之间的竞争只会给全球带来不稳定，并公开呼吁中美俄三方应该建立经常性的沟通机制。",
+  "对于关注国际局势和两国关系的海外华人来说，中美俄这三个超级大国如何互动，不仅牵动着全球地缘政治的神经，也往往会在无形中影响到海外华人的生存环境、经济预期乃至身份认同。大国关系若能保持稳定沟通，对所有人来说无疑都是一颗定心丸。"
+ ],
+ "tags": [
+  "中美关系",
+  "习近平",
+  "大国博弈",
+  "国际政治"
+ ],
+ "original_title": "Xi Urges Regular US-China-Russia Meetings at Historic Summit",
+ "lang": "en",
+ "published": "2026-11-19T08:43:42+00:00",
+ "created": "2026-11-19T10:19:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

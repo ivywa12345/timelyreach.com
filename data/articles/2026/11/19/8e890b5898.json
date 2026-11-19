@@ -1,0 +1,25 @@
+{
+ "key": "8e890b5898",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/insurgents-in-irans-borderlands-are-becoming-a-bigger-challenge-for-the-regime-f816b46f?mod=rss_worldnews",
+ "title": "内外交困！伊朗边境武装频频发难，德黑兰政权压力山大",
+ "summary": "伊朗边境地区的少数族裔武装组织近期发动了一系列袭击，让深陷战争与美国制裁泥潭的伊朗领导层面临更大的安全挑战。",
+ "body": [
+  "近期，伊朗边境地区的少数族裔反叛武装组织频频向德黑兰政权发难，发动了一系列密集的袭击行动，让本就艰难的政权统治更加雪上加霜。",
+  "当前，伊朗领导层正承受着多重压力。除了国内边境武装的不断挑衅外，国家还深陷中东战局之中，并长期遭到美国的严厉经济封锁，整体局势可谓内外交困。"
+ ],
+ "tags": [
+  "伊朗局势",
+  "边境冲突",
+  "美国制裁",
+  "中东局势"
+ ],
+ "original_title": "Insurgents in Iran’s Borderlands Are Becoming a Bigger Challenge for the Regime",
+ "lang": "en",
+ "published": "2026-11-19T01:00:00+00:00",
+ "created": "2026-11-19T10:22:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

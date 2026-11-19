@@ -1,0 +1,29 @@
+{
+ "key": "abff6da5e7",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/anthropic-vs-openai-the-financial-metrics-behind-the-ai-battle-4f5b90c0?mod=rss_Technology",
+ "title": "AI烧钱大战变天？Anthropic财务数据首度反超OpenAI",
+ "summary": "根据华尔街日报报道，人工智能初创公司 Anthropic 本周开启公开募股，其财务数据显示出令人瞩目的优势：不仅营收领先于竞争对手 OpenAI，亏损也更少。",
+ "body": [
+  "这场轰轰烈烈的 AI 行业军备竞赛格局似乎正在发生微妙变化。根据《华尔街日报》记者 Berber Jin 的报道，主打安全牌的 AI 独角兽 Anthropic 在本周迎来公开募股（Public Offering），而随之披露的财务指标更是让人眼前一亮——在与行业巨头 OpenAI 的正面交锋中，Anthropic 竟然在营收和亏损控制上占了上风。",
+  "## 营收与亏损的较量",
+  "一直以来，OpenAI 在公众视野中占据了 AI 浪潮的绝对C位，但从硬核的财务账本来看，后来者 Anthropic 展现出了更强的吸金能力和更稳健的财务表现。",
+  "- 营收方面，Anthropic 目前对 OpenAI 保持着微弱的领先优势。\n- 亏损控制方面，Anthropic 的整体资金消耗和亏损额度也比 OpenAI 更少。",
+  "对于关注 AI 行业发展的海外华人来说，这场烧钱大战不仅关乎技术突破，更直接影响着未来科技巨头的版图重构。虽然两家公司都在持续砸钱训练更大、更聪明的大模型，但 Anthropic 亮眼的财务底子证明，靠谱的商业化落地和精细的成本控制，在资本市场同样吃香。"
+ ],
+ "tags": [
+  "Anthropic",
+  "OpenAI",
+  "人工智能",
+  "科技财经",
+  "华尔街日报"
+ ],
+ "original_title": "Anthropic vs. OpenAI: The Financial Metrics Behind the AI Battle",
+ "lang": "en",
+ "published": "2026-11-19T02:00:00+00:00",
+ "created": "2026-11-19T10:20:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

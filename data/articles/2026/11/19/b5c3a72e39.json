@@ -1,0 +1,27 @@
+{
+ "key": "b5c3a72e39",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/tech-stocks-boosted-by-cybersecurity-rally-5f9ff803?mod=rss_markets_main",
+ "title": "科技股迎网络安全概念暴涨，英伟达财报后微跌",
+ "summary": "华尔街股市近期受到网络安全板块大涨的提振，科技股整体表现强劲，不过人工智能芯片巨头英伟达在发布财报后股价出现小幅回落，同时美联储官员释放出可能进行激进加息的信号。",
+ "body": [
+  "美股科技板块近日迎来新一轮行情，网络安全相关概念股集体走强，成为盘面的一大亮点。与此同时，市场也面临着英伟达（Nvidia）财报公布后的股价回调压力，以及美联储（Federal Reserve）货币政策走向的不确定性。",
+  "在具体的市场动态方面，本次行情呈现出几个值得关注的动向：\n- 网络安全板块表现强势，有效提振了投资者对科技股的信心\n- 人工智能领头羊英伟达在财报出炉后股价出现微幅下跌\n- 一位美联储理事公开倾向于采取更具攻击性的加息政策",
+  "对于关注美股和资产配置的海外华人来说，科技板块的剧烈波动直接关乎投资账户的收益。美联储官员关于激进加息的言论，也可能进一步影响房贷利率和整体借贷成本，建议近期密切关注货币政策走向对个人财务的影响。"
+ ],
+ "tags": [
+  "美股",
+  "科技股",
+  "英伟达",
+  "网络安全",
+  "美联储"
+ ],
+ "original_title": "Tech Stocks Boosted by Cybersecurity Rally",
+ "lang": "en",
+ "published": "2026-11-18T21:40:00+00:00",
+ "created": "2026-11-19T10:22:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

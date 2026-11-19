@@ -1,0 +1,26 @@
+{
+ "key": "e4d6bc7de5",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/amundi-not-seeing-panic-selling-in-french-debt-mortier-says",
+ "title": "法国国债收益率飙升，欧洲最大资管公司怎么看？",
+ "summary": "尽管法国国债收益率最近出现跳涨，但欧洲最大的资产管理公司东方汇理（Amundi）表示，目前并没有看到市场出现恐慌性抛售法国债务的情况。",
+ "body": [
+  "法国国债最近的收益率跳涨引发了市场的关注，不过欧洲最大的资产管理公司东方汇理（Amundi SA）的投资高管莫蒂埃（Vincent Mortier）公开表示，目前市场上并没有出现针对法国债务的“恐慌性抛售”。",
+  "> “我们没有看到任何恐慌性抛售。”\n> —— 东方汇理（Amundi SA）维Vincent Mortier",
+  "对于在海外关注欧洲经济和全球金融市场波动的华人来说，法国债务市场的稳定不仅关乎欧洲的经济走向，也可能对全球汇率和资本市场产生连锁反应。不过从目前专业机构的反馈来看，局势仍在理性范围内，暂未出现系统性恐慌。"
+ ],
+ "tags": [
+  "法国国债",
+  "东方汇理",
+  "欧洲经济",
+  "金融市场"
+ ],
+ "original_title": "Amundi Not Seeing ‘Panic Selling’ in French Debt, Mortier Says",
+ "lang": "en",
+ "published": "2026-11-19T09:05:34+00:00",
+ "created": "2026-11-19T10:23:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

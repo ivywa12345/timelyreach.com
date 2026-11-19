@@ -1,0 +1,27 @@
+{
+ "key": "f3463620fb",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/ukraine-kerch-bridge-strike-vladimir-putin-russia-crimea-a58bdd6a?mod=rss_opinion",
+ "title": "克里米亚大桥遇袭背后：乌克兰抱怨美军又“断网”了？",
+ "summary": "乌克兰方面透露，美国再次限制了对前线至关重要的Starshield星盾卫星服务，这给乌军抵御俄军进攻带来了巨大挑战。",
+ "body": [
+  "乌克兰方面近日表示，美国再次限制了对乌克兰至关重要的Starshield（星盾）卫星服务，而这套系统对于阻挡俄军推进起着关键作用。",
+  "## 关键技术受限",
+  "- 卫星通信是前线指挥的核心，美方此举直接影响了乌军的作战部署\n- 乌克兰官员指出，此类限制在关键时刻严重阻碍了军事行动",
+  "对于在美华人来说，这场远在东欧的冲突不仅牵动着国际地缘政治的神经，其涉及的美国军援政策和国防科技走向，也常常与美国的财政预算和税收流向息息相关。"
+ ],
+ "tags": [
+  "乌克兰局势",
+  "Starshield",
+  "美国军援",
+  "卫星通信"
+ ],
+ "original_title": "Why Ukraine’s Kerch Bridge Strike Matters",
+ "lang": "en",
+ "published": "2026-11-18T22:41:00+00:00",
+ "created": "2026-11-19T10:18:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "14955a1fdf",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276?mod=rss_markets_main",
+ "title": "说好的500亿呢？华尔街给英伟达的巨额资金至今没见影",
+ "summary": "华尔街此前承诺筹集500亿美元帮助客户购买英伟达芯片，但至今分文未出。",
+ "body": [
+  "话说当年华尔街信誓旦旦地承诺，要凑出 **500亿美元** 的巨资来帮客户买英伟达（Nvidia）的芯片，结果到现在连一分钱都没掏出来。",
+  "根据《华尔街日报》记者 Peter Rudegeair 的报道，这笔原本说好要用来支撑芯片购买狂潮的资金，至今连个影子都没有，雷声大雨点小。",
+  "对咱们海外华人来说，这也提醒大家，在看好人工智能（AI）概念股的同时，还得留意资本市场的实际落地情况，别被宏大的纸面承诺给忽悠了钱包。"
+ ],
+ "tags": [
+  "华尔街",
+  "英伟达",
+  "人工智能",
+  "美股动态"
+ ],
+ "original_title": "Wall Street Pledged to Mobilize $500 Billion for Nvidia—but Hasn’t Put Up a Dime",
+ "lang": "en",
+ "published": "2026-11-19T02:00:00+00:00",
+ "created": "2026-11-19T10:20:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "f3ea71c65a",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/trump-xi-and-putin-convene-first-ever-summit-as-world-order-shifts-82e58aab?mod=rss_worldnews",
+ "title": "特朗普历史性会晤习普：我们在创造历史！",
+ "summary": "特朗普、习近平和普京在中国深圳举行了首次三方峰会，展现团结姿态，凸显全球领导格局的变化。",
+ "body": [
+  "特朗普（Trump）近日在中国深圳与中国领导人习近平、俄罗斯总统普京举行了史无前例的三方峰会，他在会上直言“我们真的在创造历史”。这次会面展现了罕见的团结姿态，也标志着全球领导层格局正在发生重大转变。"
+ ],
+ "tags": [
+  "特朗普",
+  "习近平",
+  "普京",
+  "中美关系",
+  "国际局势"
+ ],
+ "original_title": "Trump Says ‘We Are Really Making History’ at First-Ever Summit With Xi, Putin",
+ "lang": "en",
+ "published": "2026-11-19T10:03:00+00:00",
+ "created": "2026-11-19T10:18:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

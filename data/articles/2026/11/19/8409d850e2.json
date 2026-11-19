@@ -1,0 +1,28 @@
+{
+ "key": "8409d850e2",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-leveraged-etf-race-heats-up-even-before-stock-s-debut",
+ "title": "还没上市呢！华尔街已经盯上Anthropic的杠杆ETF",
+ "summary": "AI独角兽Anthropic还没上市，华尔街的基金发行商就已经开始争夺相关杠杆ETF的主导权了，大家都想复制甚至超越当年SpaceX上市时的吸金热潮。",
+ "body": [
+  "人工智能（AI）独角兽企业Anthropic（Anthropic）还没正式公开上市，华尔街的基金发行商就已经提前开启了“抢跑”大战，争相推出相关的杠杆交易所交易基金（ETF），试图抢占先机。",
+  "## 历史经验带来的刺激",
+  "回顾当年，SpaceX（SpaceX）公开上市后不久，市面上一下子涌现出了一大堆与之相关的杠杆ETF。不过现实很骨感，最终只有一只基金成功吸引到真正的资金。",
+  "有了前车之鉴，这次各大发行商在Anthropic身上打起了十二分精神。大家都在疯狂提前布局，希望能押中那只能够吞噬市场上绝大部分投资者资金的“爆款基金”。",
+  "对于关注美股和新科技投资的海外华人来说，这类高风险的高杠杆产品往往伴随着极大的波动性。在追逐这类热门概念股时，务必看清底层资产和杠杆风险，避免盲目跟风导致钱包受伤。"
+ ],
+ "tags": [
+  "Anthropic",
+  "美股ETF",
+  "杠杆基金",
+  "华尔街"
+ ],
+ "original_title": "Anthropic Leveraged ETF Race Heats Up Even Before Stock’s Debut",
+ "lang": "en",
+ "published": "2026-11-18T19:49:06+00:00",
+ "created": "2026-11-19T10:18:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

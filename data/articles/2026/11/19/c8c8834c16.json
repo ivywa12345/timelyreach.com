@@ -1,0 +1,28 @@
+{
+ "key": "c8c8834c16",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/houthi-attack-damages-saudi-capitals-tallest-tower-f4e15874?mod=rss_worldnews",
+ "title": "也门胡塞武装导弹袭击沙特第一高楼，主权财富基金大楼受损",
+ "summary": "也门胡塞武装发射导弹击中沙特首都利雅得的地标建筑——80层的王国大厦（Kingdom Tower），导致多层楼受损。该建筑内设有沙特主权财富基金的办公室。",
+ "body": [
+  "沙特首都利雅得的地标性建筑最近遇袭了！据《华尔街日报》报道，也门胡塞武装（Houthi）的一场空袭击中了沙特首都的最高建筑——这座高达80层的摩天大楼，导致大楼好几层严重受损。",
+  "## 遇袭大楼来头不小",
+  "这座遭到袭击的80层建筑不仅是利雅得的天际线担当，更是沙特经济的核心据点之一。公开资料显示，沙特王国的主权财富基金——公共投资基金（Public Investment Fund）的办公室就设在这栋楼里。",
+  "目前相关部门仍在评估具体的破坏情况，这场袭击也再次引发了外界对沙特核心基础设施安全的广泛关注。"
+ ],
+ "tags": [
+  "沙特",
+  "胡塞武装",
+  "利雅得",
+  "中东局势",
+  "主权财富基金"
+ ],
+ "original_title": "Houthi Attack Damages Saudi Capital’s Tallest Tower",
+ "lang": "en",
+ "published": "2026-11-19T09:37:00+00:00",
+ "created": "2026-11-19T10:20:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

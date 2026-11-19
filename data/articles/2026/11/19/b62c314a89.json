@@ -1,0 +1,27 @@
+{
+ "key": "b62c314a89",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/alerts/uscis-updates-guidance-on-validity-of-alien-refugee-and-asylee-marriages",
+ "title": "庇护和难民家属绿卡收紧？移民局对婚姻合法性出新规",
+ "summary": "美国移民局更新了庇护和难民配偶婚姻合法性的政策手册指导，要求婚姻必须在举行地法律下完全合法，方可用于移民福利申请。",
+ "body": [
+  "美国移民局（USCIS）近日更新了《移民局政策手册》（USCIS Policy Manual）第四卷，对主庇护者或主难民与其声称的配偶之间的婚姻有效性作出了明确规范。",
+  "新规要求，所有主庇护者或主难民与其声称的衍生配偶之间的婚姻，必须在婚姻缔结地的司法管辖区法律下具备法律效力，才能被视为符合移民福利的目的。",
+  "这项新规已于**2025年3月3日**正式生效，适用于在该日期当天或之后处于审理中以及新提交的申请。移民局表示，这一更新与移民上诉委员会（BIA）的判例法及其他裁决保持一致，同时也落实了特朗普总统关于重新调整难民准入计划等相关行政令的要求。新政策将作为标准，取代以往任何相关的旧指引。"
+ ],
+ "tags": [
+  "美国移民局",
+  "庇护绿卡",
+  "难民政策",
+  "婚姻绿卡",
+  "移民新规"
+ ],
+ "original_title": "USCIS Updates Guidance on Validity of Alien Refugee and Asylee Marriages",
+ "lang": "en",
+ "published": "2025-06-24T16:32:02+00:00",
+ "created": "2026-11-19T10:19:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
