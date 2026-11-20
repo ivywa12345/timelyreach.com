@@ -1,0 +1,25 @@
+{
+ "key": "aa0862018c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/price-hikes-set-to-lift-materials-companies-margins-in-2027",
+ "title": "钢材油漆要涨价？这几个行业2027年利润要冲30年新高！",
+ "summary": "根据彭博社报道，由于产品涨价和成本削减，生产钢材、油漆和包装材料的企业利润率预计将在2027年迎来强劲反弹，达到近30年来的最高水平。",
+ "body": [
+  "生产钢材、油漆和包装材料的企业在经历了利润令人失望的一个季度后，即将迎来强势复苏。根据彭博社的报道，行业内即将实施的**价格上涨**和成本削减措施，将把这些企业的盈利能力推向**近三十年来的最高点**。",
+  "这些从事基础材料制造的公司此前遭遇了一段利润率低迷的时期。不过，随着企业通过提高产品售价以及严格控制运营成本，市场的整体财务状况正在发生转变，预计在2027年实现显著的利润增长。"
+ ],
+ "tags": [
+  "经济动态",
+  "材料企业",
+  "涨价趋势",
+  "商业新闻"
+ ],
+ "original_title": "Price Hikes Set to Lift Materials Companies’ Margins in 2027",
+ "lang": "en",
+ "published": "2026-11-20T12:00:00+00:00",
+ "created": "2026-11-20T12:56:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

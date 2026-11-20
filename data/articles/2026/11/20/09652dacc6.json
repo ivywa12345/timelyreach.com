@@ -1,0 +1,27 @@
+{
+ "key": "09652dacc6",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/weather/quake-swarm-rattles-central-california-near-notorious-san-andreas-fault",
+ "title": "加州又要震？圣安地烈斯断层附近深夜爆发密集地震！",
+ "summary": "加州中部深夜突发地震群，其中包含一次5.1级地震及十多次小地震，引发当地居民关注。地震发生在著名的圣安地烈斯断层附近，官方已紧急启动预警系统。",
+ "body": [
+  "加州中部在深夜遭遇了一场“地震群”袭击，根据美国地质调查局（USGS）的数据，当地发生了一次 **5.1级** 的主力地震，并伴随了十多次小地震。",
+  "这次5.1级地震发生在湾区以南的 pinnacles 国家公园（Pinnacles National Park）附近，时间大约是当地时间晚上10点49分。在主震发生之前，已经有两个3级左右的小地震发生，随后又监测到十多次2.5级到3级不等的余震或伴生地震。USGS在社交平台X上发文确认了这一消息，并表示地震预警系统（ShakeAlert）已经成功启动。",
+  "> \"晚安，加州中部！你在晚上10点49分感受到Pinnacles西北约5英里处发生的5.1级地震了吗？地震预警系统已启动。\" —— 美国地质调查局（USGS）",
+  "值得注意的是，这次地震发生的地点距离声名显赫的圣安地烈斯断层（San Andreas Fault）仅有几英里之遥。这个贯穿加州、长约800英里的地壳裂缝一直备受科学界关注。科学家长期警告称，该地区未来面临爆发堪比1906年旧金山大地震的“下一次大地震”的风险。此外，加州正位于环太平洋火山地震带（Ring of Fire）上，近期该活跃带频繁震动，也让不少在美华人再次捏了一把汗，日常防震准备千万不能马虎。"
+ ],
+ "tags": [
+  "加州地震",
+  "圣安地烈斯断层",
+  "海外安全",
+  "地震预警"
+ ],
+ "original_title": "Quake Swarm Rattles Central California Near Notorious San Andreas Fault",
+ "lang": "en",
+ "published": "2026-11-20T11:45:00+00:00",
+ "created": "2026-11-20T12:51:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "3f54ac0789",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/oil-prices-new-charts-f84ad9d7?mod=rss_markets_main",
+ "title": "油价回不去了？专家：85到95美元将成常态",
+ "summary": "华尔街日报分析指出，在未来一段时间内，国际油价很可能会维持在每桶85至95美元的新常态区间。",
+ "body": [
+  "如果你最近加油时觉得钱包缩水，可能得习惯这个节奏了。根据《华尔街日报》（Wall Street Journal）报道，多位交易员和分析师普遍认为，油价在未来一段时间内很难回到过去那种低价时代，**每桶85美元到95美元**左右的价格将成为新的现实。",
+  "这个判断背后并非空穴来风。虽然全球经济局势扑朔迷离，但各大产油国的动向、地缘政治的持续紧张以及市场需求的结构性变化，都在共同把油价托在一个相对较高的位置。对于习惯了低油价的消费者来说，这意味着日常出行和物流成本将长期保持在高位。",
+  "对于在海外生活的华人朋友来说，油价高居不下不仅意味着每次去加油站时要多掏真金白银，也会间接推高日常消费品、机票和快递的运费。在通胀压力依然存在的背景下，大家的日常生活预算可能需要做出相应的调整了。"
+ ],
+ "tags": [
+  "油价",
+  "华尔街日报",
+  "海外生活",
+  "通货膨胀"
+ ],
+ "original_title": "The Seven Charts That Explain the New Normal for Oil Prices",
+ "lang": "en",
+ "published": "2026-11-20T10:56:00+00:00",
+ "created": "2026-11-20T12:55:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

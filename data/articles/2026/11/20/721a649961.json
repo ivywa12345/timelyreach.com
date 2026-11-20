@@ -1,0 +1,26 @@
+{
+ "key": "721a649961",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-20/tech-figures-distance-from-trump-as-democrats-ascend-in-washington",
+ "title": "华盛顿风向变了？硅谷大佬急着和特朗普拉开距离",
+ "summary": "随着民主党在华盛顿的影响力上升，部分科技界高管开始与特朗普保持距离，彭博社分析认为这表明一些高管意识到他们此前押错了短期筹码。",
+ "body": [
+  "最近华盛顿的政治风向有点微妙，部分科技界高管开始悄悄和特朗普（Donald Trump）拉开距离了。根据彭博社的报道，这种态度上的转变说明，一些企业高管现在回过味来，意识到自己之前做的短期政治押注可能是个“败笔”。",
+  "在这场政治风向的博弈中，随着民主党在华盛顿的阵势增强，科技巨头们不得不重新盘算自己的站队策略。过去一段时间里，不少人为了眼前的利益或者政策便利，向特定政治方向靠拢，但政坛瞬息万变，短视的做法往往会带来后续的麻烦。对于咱们在海外关心科技圈动态的人来说，这也再次说明资本在政治博弈中向来是两头下注、哪边风大往哪边倒。"
+ ],
+ "tags": [
+  "科技圈",
+  "美国政治",
+  "特朗普",
+  "民主党",
+  "硅谷"
+ ],
+ "original_title": "Tech Figures Distance from Trump as Democrats Ascend in Washington",
+ "lang": "en",
+ "published": "2026-11-20T12:12:23+00:00",
+ "created": "2026-11-20T12:53:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

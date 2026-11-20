@@ -1,0 +1,28 @@
+{
+ "key": "9b3cc20958",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/anthropic-shares-are-a-rational-bet-on-the-next-phase-of-ai-a748dba3?mod=rss_Technology",
+ "title": "炒完铲子炒什么？华尔街：买AI软件股才是理性的下注！",
+ "summary": "华尔街日报分析指出，当前AI热潮的利润主要被卖“铲子”的基础设施赚走，但随着技术发展，这种局面将会发生改变，投资AI软件和应用将成为下一个理性的选择。",
+ "body": [
+  "人工智能（AI）领域的淘金热正在如火如荼地进行，目前这股热潮的大部分利润都流向了提供“卖铲子”硬件和基础设施的企业。不过，华尔街日报（Wall Street Journal）科技专栏作家 Asa Fitch 指出，这种情况未来将会发生转变，资金将逐渐转向AI的下一个发展阶段。",
+  "## 掘金热潮将迎转变",
+  "在当前的AI产业链中，芯片制造商和基础设施提供商无疑是最大的赢家，赚走了绝大部分真金白银。但随着技术不断成熟和普及，市场重心将从底层硬件建设，转移到能够直接创造商业价值的AI应用和软件开发上。",
+  "对于关注科技投资的海外华人来说，这意味着未来的投资逻辑可能需要从单纯盯紧硬件巨头，分散到更有潜力的AI软件与服务领域，从而在下一波技术红利中把握机会。"
+ ],
+ "tags": [
+  "人工智能",
+  "华尔街日报",
+  "科技投资",
+  "AI应用",
+  "美股"
+ ],
+ "original_title": "Anthropic Shares Are a Rational Bet on the Next Phase of AI",
+ "lang": "en",
+ "published": "2026-11-20T10:30:00+00:00",
+ "created": "2026-11-20T12:51:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

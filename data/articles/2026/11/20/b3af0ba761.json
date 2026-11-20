@@ -1,0 +1,26 @@
+{
+ "key": "b3af0ba761",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/anthropic-lives-up-to-wall-street-hype-but-ai-doubts-linger-d6a4519b?mod=rss_markets_main",
+ "title": "AI公司Anthropic表现惊艳，华尔街的疑虑却还没消？",
+ "summary": "AI初创公司Anthropic的最新表现达到了华尔街的预期，但市场对整个人工智能行业的质疑声依然存在。",
+ "body": [
+  "人工智能初创公司Anthropic最近的表现可以说是达到了华尔街的预期，引发了业界的广泛关注。不过，尽管这家公司的实力得到了认可，投资者和市场对整个AI赛道的热潮和前景依然存有疑虑。",
+  "除了科技圈的动态，近期的热门话题还包括库什纳（Kushner）提出的一项可能颠覆美国政策的乌克兰和平协议，以及部署在乔治华盛顿号航空母舰（USS George Washington）上的水兵们对零食的狂热喜爱。",
+  "对于关注海外科技发展和国际局势的华人来说，AI行业的每一次估值波动和技术落地，都可能潜移默化地影响到科技股投资、相关岗位的就业机会以及未来的技术应用场景。"
+ ],
+ "tags": [
+  "Anthropic",
+  "人工智能",
+  "华尔街",
+  "科技新闻"
+ ],
+ "original_title": "Anthropic Lives Up to Wall Street Hype, but AI Doubts Linger",
+ "lang": "en",
+ "published": "2026-11-20T10:59:00+00:00",
+ "created": "2026-11-20T12:55:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "3152d8e051",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/economy/global/eurozone-wage-growth-accelerates-but-remains-modest-729eb0ed?mod=rss_worldnews",
+ "title": "欧元区工资终于涨了？最新数据出炉，但这涨幅你看够用吗？",
+ "summary": "欧元区第三季度薪资增速小幅上涨至2.57%，经济学家认为工资压力依然温和。",
+ "body": [
+  "虽然通胀压力一直让人头疼，但欧元区的打工人终于迎来了一点好消息。根据欧洲央行（ECB）最新公布的数据，今年第三季度，欧元区协定工资（negotiated wage growth）增速从上一季度的2.45%小幅提升至了2.57%。",
+  "简单来说，这说明欧元区的工资水平确实在缓慢爬坡。不过，虽然增速比起二季度有所加快，但整体来看，这个涨幅依然保持在相对温和的水平。对于普通工薪阶层来说，面对生活成本的持续攀升，这不到3%的增速或许并不算太“解渴”。",
+  "对咱们在欧洲或者有相关投资的华人来说，这个数据是观察欧洲经济复苏的重要风向标。如果工资增速长期保持温和，那么欧洲央行在接下来的利率决策中可能会更加谨慎，以防止工资上涨带来新一轮的通胀反扑。"
+ ],
+ "tags": [
+  "欧元区",
+  "薪资增长",
+  "欧洲央行",
+  "经济动态"
+ ],
+ "original_title": "Eurozone Wage Growth Accelerates, But Remains Modest",
+ "lang": "en",
+ "published": "2026-11-20T10:38:00+00:00",
+ "created": "2026-11-20T12:54:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

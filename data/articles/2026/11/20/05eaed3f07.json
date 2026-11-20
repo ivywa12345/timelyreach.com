@@ -1,0 +1,27 @@
+{
+ "key": "05eaed3f07",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/nvidia-turmoil-leaves-few-stock-market-winners-in-sea-of-losers",
+ "title": "英伟达“宫斗”大戏落幕？谁赚了谁亏了全看这一波！",
+ "summary": "英伟达经历混乱的一周后，黄仁勋离职事件的赢家和输家逐渐浮出水面。",
+ "body": [
+  "过去这一周，芯片巨头英伟达（Nvidia）可谓经历了一场大地震，随着黄仁勋（Jensen Huang）令人震惊的离职事件尘埃落定，市场上到底谁赚了、谁亏了也逐渐清晰起来。",
+  "在这场动荡中，整个美股市场几乎成了一片绿油油的跌幅海洋，真正能在风暴中捞到好处的赢家少之又少，大多数投资者都成了受波及的输家。",
+  "对于咱们关注美股和科技股的海外华人来说，这类科技巨头的重大人事变动往往会直接牵动大家的投资账户。大厂高层的动荡不仅考验着股民的心态，也提醒着我们在做资产配置时，单一押注某只明星股的风险实在是不小。"
+ ],
+ "tags": [
+  "英伟达",
+  "美股",
+  "黄仁勋",
+  "科技股",
+  "海外投资"
+ ],
+ "original_title": "Nvidia Turmoil Leaves Few Stock Market Winners in Sea of Losers",
+ "lang": "en",
+ "published": "2026-11-20T12:21:00+00:00",
+ "created": "2026-11-20T12:51:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

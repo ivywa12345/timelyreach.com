@@ -1,0 +1,25 @@
+{
+ "key": "60a52f72c8",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/tech-outages-panic-political-leaders-donald-trump-jd-vance-c356b10d?mod=rss_opinion",
+ "title": "华尔街日报锐评：科技界恐慌与政府公信力危机",
+ "summary": "华尔街日报编辑委员会撰文指出，一个习惯了夸大其词的政府，在面对科技界动荡时，很难向公众提供真正的安全感。",
+ "body": [
+  "近期科技行业可谓风声鹤唳，不仅业内人心惶惶，公众也充满了焦虑。然而，《华尔街日报》发表社论指出，当一个政府习惯于用夸张的虚张声势来治理时，它在关键时刻就很难重新建立起公众的信任和安心。",
+  "对于关注美国经济和科技动态的海外华人来说，政府在应对行业危机时的公信力至关重要，它直接关乎市场的稳定以及大家的工作与投资前景。"
+ ],
+ "tags": [
+  "华尔街日报",
+  "科技恐慌",
+  "政府公信力",
+  "美国经济"
+ ],
+ "original_title": "The Tech Panic and Government Credibility",
+ "lang": "en",
+ "published": "2026-11-19T22:59:00+00:00",
+ "created": "2026-11-20T12:51:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

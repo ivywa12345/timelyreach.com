@@ -1,0 +1,28 @@
+{
+ "key": "9293d51e0c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-20/gold-s-rout-tests-the-myth-of-an-all-weather-safe-haven",
+ "title": "金价大跌打破神话？避险资产到底还管不管用",
+ "summary": "彭博社报道称黄金迎来了十多年来最糟糕的一年，这让投资者开始重新审视黄金作为全天候避险资产的地位，它并不能抵御所有类型的市场动荡。",
+ "body": [
+  "黄金一直被奉为应对市场动荡的“全天候避险天堂”，但刚刚过去的这一年却给投资者泼了一盆冷水。根据彭博社的报道，金价迎来了**十多年来最糟糕的一年**，这狠狠考验了黄金作为避险资产的神话。",
+  "## 避险神话为何失效",
+  "这次金价的溃败清楚地向市场表明，投资者不能指望黄金在面对所有类型的市场风暴时都能独善其身并提供有效保护。当宏观经济环境和市场逻辑发生特定变化时，传统避险资产同样会面临巨大的抛售压力。",
+  "## 对海外华人的启示",
+  "对于习惯将部分资产配置在贵金属以求安心的海外华人来说，这次金价大跌提醒大家：世上没有绝对稳赚不赔的避险工具。在做个人财务规划和资产配置时，分散风险、看清市场周期依然是保护钱包的关键。"
+ ],
+ "tags": [
+  "黄金投资",
+  "避险资产",
+  "金融市场",
+  "彭博社"
+ ],
+ "original_title": "Gold’s Rout Tests the Myth of an All-Weather Safe Haven",
+ "lang": "en",
+ "published": "2026-11-20T12:13:18+00:00",
+ "created": "2026-11-20T12:53:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

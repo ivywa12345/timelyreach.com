@@ -1,0 +1,25 @@
+{
+ "key": "98758864ea",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/economy/spain-remains-europes-star-economy-why-dont-people-feel-richer-cfa35091?mod=rss_worldnews",
+ "title": "西班牙经济成欧洲“优等生”，为什么老百姓却觉得自己越来越穷？",
+ "summary": "西班牙经济增长率在欧洲名列茅茅，但由于生活水平引发的不满情绪在选举前持续高涨，民众并没有感受到经济繁荣带来的实惠。",
+ "body": [
+  "华尔街日报（Wall Street Journal）记者Don Nico Forbes报道指出，西班牙的经济增长率目前可以说是让整个欧洲羡慕嫉妒恨。然而，随着下周选举的临近，民众对生活水平的不满情绪却在不断高升，显然并非所有人都觉得日子过好了。"
+ ],
+ "tags": [
+  "西班牙经济",
+  "欧洲经济",
+  "通货膨胀",
+  "生活水平",
+  "海外观察"
+ ],
+ "original_title": "Spain Remains Europe’s Star Economy. Why Don’t People Feel Richer?",
+ "lang": "en",
+ "published": "2026-11-20T07:41:00+00:00",
+ "created": "2026-11-20T12:55:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

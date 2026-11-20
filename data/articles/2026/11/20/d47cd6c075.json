@@ -1,0 +1,25 @@
+{
+ "key": "d47cd6c075",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/uk/u-k-government-borrowed-more-in-october-but-is-on-track-for-smaller-deficit-f5209c71?mod=rss_worldnews",
+ "title": "英国10月借钱增加，但全年赤字有望缩小？",
+ "summary": "根据《华尔街日报》报道，虽然英国政府在10月份的借款有所增加，但从本财年截至10月份的数据来看，其预算赤字占GDP的比例仍低于去年同期。",
+ "body": [
+  "英国政府最近公布了最新的财政账本，虽然10月份的借款数额有所上升，但从整个财政年度截至10月份的表现来看，财政赤字形势似乎在向好的方向发展。",
+  "根据官方数据，截至今年10月的财政年度中，英国的预算赤字占国内生产总值（GDP）的比例为 **3.5%**，这一数字低于去年同期的 **3.8%**。这表明尽管单月借贷增加，但总体赤字规模仍在朝着缩小的目标迈进。"
+ ],
+ "tags": [
+  "英国经济",
+  "财政赤字",
+  "GDP",
+  "政府借贷"
+ ],
+ "original_title": "U.K. Government Borrowed More in October, But Is on Track for Smaller Deficit",
+ "lang": "en",
+ "published": "2026-11-20T07:53:00+00:00",
+ "created": "2026-11-20T12:50:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

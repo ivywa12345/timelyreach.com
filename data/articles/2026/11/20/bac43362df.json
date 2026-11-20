@@ -1,0 +1,36 @@
+{
+ "key": "bac43362df",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
+ "title": "逆市封神！AI巨头Anthropic硬着头皮上市，直接打破历史纪录",
+ "summary": "面对市场抛售、反AI情绪高涨以及英伟达动荡等多重不利因素，知名AI企业Anthropic依然成功在纳斯达克完成史上最大规模IPO，市值飙升至约1.8万亿美元。",
+ "body": [
+  "本月，在市场抛售、反AI浪潮以及英伟达（Nvidia）动荡等不利背景下，人工智能新星Anthropic迎难而上，成功完成了有史以来规模最大的首次公开募股（IPO）。",
+  "## 逆市上市创纪录",
+  "Anthropic周四在纳斯达克首次亮相，股价飙升17%，收盘报97.17美元，这使得这家成立不到6年的Claude大模型开发商市值达到约1.8万亿美元，一跃成为美国市值第七高的公司。",
+  "周三下午，Anthropic成功筹集了81.3亿美元，超越埃隆·马斯克的SpaceX，创下历史最高IPO纪录。若算上承销商可行使的超额配售权，其募资总额有望达到93.5亿美元。Beseech Venture Partners合伙人拜伦·迪特（Byron Deeter）评价称，很少有公司会选择在这种环境下尝试上市，这绝对是一个非凡的壮举。",
+  "## 多重风浪中的明智策略",
+  "尽管市场波动剧烈，Cboe波动率指数（VIX）飙升，许多公司纷纷推迟上市计划，但Anthropic凭借惊人的增长速度和稳健的财务表现赢得了华尔街的信任。",
+  "- 创下高达1,200%的惊人年同比增长率\n- 实现了调整后营业利润\n- 在历轮融资中主动选择“留利于市场”，不刻意追求最高定价",
+  "Altimeter Capital负责人布拉德·格斯特纳（Brad Gerstner）指出，虽然大环境糟糕，但他们对Anthropic的投资额远超以往任何一次IPO。",
+  "> “今天让公司处于更强大的财务地位，并在此过程中坚定了我们做正确事情的决心。”Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在纳斯达克上市仪式上表示。",
+  "## 充足现金备战未来",
+  "Anthropic由达里奥·阿莫代伊于2021年与其他从OpenAI离职的研究人员共同创立。通过此次上市以及此前筹集的资金，该公司目前账面上拥有巨额现金及等价物，为其继续进行高额的算力投资和AI模型训练提供了坚实的保障。",
+  "对于在美华人特别是科技从业者来说，Anthropic顶住市场压力成功上市，不仅标志着AI行业依然资本强劲，也给整个科技就业和投资市场注入了一针强心剂。"
+ ],
+ "tags": [
+  "Anthropic",
+  "IPO",
+  "美股",
+  "人工智能",
+  "纳斯达克"
+ ],
+ "original_title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
+ "lang": "en",
+ "published": "2026-11-20T12:45:11+00:00",
+ "created": "2026-11-20T12:51:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

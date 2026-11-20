@@ -1,0 +1,26 @@
+{
+ "key": "b38513beb1",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
+ "title": "科技股跌惨了！标普创下2020年以来最长连跌纪录",
+ "summary": "由于科技股遭遇重挫，Anthropic等相关股票纷纷下滑，标普500指数迎来了自2020年以来最长的一波连跌行情。",
+ "body": [
+  "最近美股的日子可不太好过，科技股带头大跌，把整个大盘都给拖累了。根据《华尔街日报》的报道，随着科技板块抛售潮愈演愈烈，人工智能独角兽 Anthropic 的股票也跟着大幅下滑，标普 500 指数更是遭遇了**自 2020 年以来最长的连跌纪录**。",
+  "对于咱们关注海外资产和退休账户（401k）的华人朋友来说，这波科技股的集体跳水无疑让人捏了一把汗。近期市场的恐慌情绪明显升温，资金正加速逃离高估值的科技成长股。接下来美股能不能稳住阵脚，还得看各大科技巨头的后续表现以及宏观经济数据的脸色。"
+ ],
+ "tags": [
+  "美股",
+  "科技股",
+  "标普500",
+  "Anthropic",
+  "海外理财"
+ ],
+ "original_title": "Stock Market Today: Anthropic Stock Slides as Tech Rout Intensifies",
+ "lang": "en",
+ "published": "2026-11-20T10:08:25+00:00",
+ "created": "2026-11-20T12:51:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

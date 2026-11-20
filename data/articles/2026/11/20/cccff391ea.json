@@ -1,0 +1,26 @@
+{
+ "key": "cccff391ea",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
+ "title": "接连发生全国大宕机，白宫网络安全主管突然换人！",
+ "summary": "在经历了一周大规模科技故障后，白宫国家网络安全主任肖恩·凯恩克罗斯（Sean Cairncross）离职，由五角大楼首席信息官基斯滕·戴维斯（Kirsten Davies）接任代理职务。",
+ "body": [
+  "本周美国接连发生多起备受关注的高科技系统故障，导致白宫国家网络安全主任肖恩·凯恩克罗斯（Sean Cairncross）黯然离职。五角大楼首席信息官基斯滕·戴维斯（Kirsten Davies）将暂代这一职位，正式人选后续需要经总统提名及参议院确认。",
+  "据知情白宫官员透露，此次人事变动是由总统唐纳德·特朗普的幕僚长斯蒂芬·米勒（Stephen Miller）推动的，原因是米勒认为凯恩克罗斯“缺乏胜任该工作所需的强大网络安全资历”。此前，美国在一周内遭遇了全国范围的航空停飞、全球微软 Outlook 邮箱宕机，以及国家安全局涉密通信网络黑屏等一系列严重技术故障。",
+  "尽管故障频发，但白宫坚称这些事件没有任何迹象表明是由有组织的网络攻击、国家级黑客或其他恶意行为引起的。新上任的代理主任戴维斯随后在社交媒体 X 上对总统特朗普和幕僚长米勒表达了感谢，并强调美国需要推进技术现代化以确保国家韧性。国防部长皮特·海格塞斯（Pete Hegseth）和国务卿马可·鲁比奥（Marco Rubio）均已向她发去祝贺。"
+ ],
+ "tags": [
+  "白宫",
+  "网络安全",
+  "科技故障",
+  "人事变动"
+ ],
+ "original_title": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
+ "lang": "en",
+ "published": "2026-11-20T10:59:24+00:00",
+ "created": "2026-11-20T12:53:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

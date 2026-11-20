@@ -1,0 +1,24 @@
+{
+ "key": "71acf56e20",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20",
+ "title": "油价又要跌了？多空博弈下本周或迎三连阴",
+ "summary": "由于市场供应充足，且交易员在权衡美国可能对伊朗再次打击的风险，国际油价本周面临连续第三周下跌的压力。",
+ "body": [
+  "受供应充足影响，国际油价正走向**连续第三周下跌**。目前交易员们正在密切关注中东局势，特别是美国可能对伊朗采取新打击行动的风险，同时也在消化市场上并不短缺的原油供应。",
+  "彭博社（Bloomberg）分析指出，尽管地缘政治冲突不断带来扰动，但充裕的库存和产量预期依然压制了油价的上行空间。多空消息交织下，市场情绪显得十分谨慎。"
+ ],
+ "tags": [
+  "油价",
+  "国际新闻",
+  "财经资讯"
+ ],
+ "original_title": "Latest Oil Market News and Analysis for Nov. 20",
+ "lang": "en",
+ "published": "2026-11-19T23:05:51+00:00",
+ "created": "2026-11-20T12:55:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
