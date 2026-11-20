@@ -1,0 +1,27 @@
+{
+ "key": "d5414609dc",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7?mod=rss_markets_main",
+ "title": "AI泡沫真的要破了？美股科技股遭遇血洗",
+ "summary": "美股遭遇大跌，大型科技股指数逼近熊市区间，此前市场对人工智能股票投机泡沫破裂的预测似乎正在应验。",
+ "body": [
+  "近日美股市场迎来重挫，大型科技股指数更是逼近熊市区间，这也让此前关于人工智能股票存在投机泡沫、泡沫即将破裂的各种预测似乎正在一一应验。",
+  "这场科技股的集体跳水，直接反映出华尔街对前期大热的AI板块态度发生了急剧转变，高估值泡沫正面临严峻考验。",
+  "对于在美华人投资者来说，科技股剧烈震荡直接关系到大家的投资账户和退休金。在AI概念大起大落的当下，盲目追高风险极高，如何调整资产配置、防范市场回调风险，成了近期需要重点关注的事情。"
+ ],
+ "tags": [
+  "美股",
+  "人工智能",
+  "科技股",
+  "华尔街",
+  "海外投资"
+ ],
+ "original_title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
+ "lang": "en",
+ "published": "2026-11-20T21:27:00+00:00",
+ "created": "2026-11-20T21:50:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

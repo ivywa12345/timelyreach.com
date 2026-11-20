@@ -1,0 +1,27 @@
+{
+ "key": "b97d0587c7",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler",
+ "title": "网安界要变天？传CrowdStrike正洽谈收购同行Zscaler",
+ "summary": "网络安全巨头CrowdStrike正与同行Zscaler洽谈收购事宜，这可能成为该行业有史以来规模最大的并购交易之一。",
+ "body": [
+  "据知情人士透露，网络安全巨头 CrowdStrike Holdings Inc. 目前正在就收购同行 Zscaler Inc. 进行深入洽谈。如果这桩买卖能成，将创下网络安全行业历史上规模最大的收购纪录之一。",
+  "知情人士表示，双方目前正在讨论具体的交易细节，但谈判仍在进行中，最终是否能达成协议还存在变数。受此消息影响，两家公司的市场走向和后续动作备受科技界和投资圈的关注。",
+  "对海外华人来说，科技行业的这类超级并购往往会带来市场格局的重新洗牌，甚至可能对相关从业者的职业发展和手中股票产生直接影响，我们将持续关注后续进展。"
+ ],
+ "tags": [
+  "CrowdStrike",
+  "Zscaler",
+  "网络安全",
+  "科技并购",
+  "海外财经"
+ ],
+ "original_title": "CrowdStrike Is in Talks to Buy Cybersecurity Firm Zscaler",
+ "lang": "en",
+ "published": "2026-11-20T21:05:11+00:00",
+ "created": "2026-11-20T21:49:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

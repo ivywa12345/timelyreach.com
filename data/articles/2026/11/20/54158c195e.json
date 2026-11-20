@@ -1,0 +1,28 @@
+{
+ "key": "54158c195e",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
+ "title": "史上最大IPO也救不了！华尔街AI股泡沫真的要破了？",
+ "summary": "美股遭遇残酷抛售潮，创纪录的大型IPO也未能阻挡市场跌势，AI板块市值蒸发高达4万亿美元。",
+ "body": [
+  "本周美股市场的残酷抛售潮越演越烈，华尔街正经历一场罕见的资本寒冬。根据《华尔街日报》记者 Sam Goldfarb 的报道，这场大跌不仅没有丝毫收敛的迹象，甚至连本该提振市场信心的**史上最大规模IPO**（首次公开募股）也无力回天，根本无法阻止股价的整体下挫。",
+  "## 4万亿美元灰飞烟灭",
+  "在这场持续的股市动荡中，人工智能（AI）板块成为了重灾区。随着投资者对高估值的担忧加剧和抛售情绪蔓延，整个华尔街的AI相关股票遭遇了毁灭性打击，累计市值蒸发已经高达 **4万亿美元**。",
+  "对于咱们在海外打拼、关注投资理财的华人朋友来说，这波科技股的剧烈震荡直接关系到咱们的养老金和投资账户。如果把太多资金押注在前期涨幅过猛的AI概念股上，这几天的心情估计跟坐过山车一样。这也提醒大家，在目前的市场环境下，投资还是得注意风险控制，别盲目跟风追高。"
+ ],
+ "tags": [
+  "美股",
+  "AI泡沫",
+  "华尔街",
+  "IPO",
+  "投资理财"
+ ],
+ "original_title": "Anthropic’s IPO Bust Deepens $4 Trillion AI Wipeout on Wall Street",
+ "lang": "en",
+ "published": "2026-11-20T21:03:00+00:00",
+ "created": "2026-11-20T21:48:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "c6385a723f",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/ai-selloff-boosts-haven-demand-for-yen-franc-as-dollar-slips",
+ "title": "AI泡沫要破？资金疯狂逃向日元和瑞郎",
+ "summary": "由于市场对人工智能热潮能否持续产生怀疑，引发股市抛售，资金纷纷涌入日元和瑞士法郎寻求避险，美元则面临压力。",
+ "body": [
+  "最近科技圈和金融圈都在嘀咕：这股人工智能（AI）热潮到底还能撑多久？随着投资者对AI可持续性的怀疑情绪不断加剧，市场迎来了抛售潮，这也直接带火了传统的避险货币。",
+  "根据彭博社的报道，在主要货币当中，日本日元和瑞士法郎的表现异常强势，把其他主要货币远远甩在身后。与此同时，美元则承受着不小的下跌压力，资金都在疯狂寻找安全的避风港。",
+  "对咱们在海外的华人来说，金融市场的这种波动往往会直接传导到汇率和投资组合上。如果AI板块继续回调，不仅相关科技股可能震荡，手中的美元资产和汇率兑换也可能会受到牵连，近期需要密切关注市场风向，守好自己的钱包。"
+ ],
+ "tags": [
+  "AI泡沫",
+  "日元",
+  "瑞士法郎",
+  "美元",
+  "避险资产"
+ ],
+ "original_title": "AI Selloff Spurs Haven Demand for Yen, Franc as Dollar Slips",
+ "lang": "en",
+ "published": "2026-11-20T17:00:06+00:00",
+ "created": "2026-11-20T21:50:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

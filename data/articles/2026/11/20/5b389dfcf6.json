@@ -1,0 +1,27 @@
+{
+ "key": "5b389dfcf6",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/asia/new-satellite-photos-show-expansion-of-north-korean-uranium-enrichment-plant-f23c5512?mod=rss_worldnews",
+ "title": "朝鲜核设施又有新动作？卫星拍到铀浓缩厂房悄悄扩建",
+ "summary": "根据华尔街日报对最新卫星图像的分析，朝鲜宁边核设施的主铀浓缩大厅出现了一个新的扩建部分，引发国际社会对核计划进展的关注。",
+ "body": [
+  "最近的卫星照片显示，朝鲜位于宁边（Yongbyon）的核综合设施似乎正在进行扩建。根据《华尔街日报》（The Wall Street Journal）的最新分析，该基地核心的主铀浓缩大厅旁边，近期多出了一个新的建筑结构。",
+  "宁边核设施一直被视为朝鲜核计划的“心脏地带”。此次被发现的扩建工程，位于主要生产设施的侧翼。虽然目前尚无法通过图片明确判断扩建的具体用途，但外界普遍担忧这与提高核原料的生产能力有关，这意味着朝鲜可能正在进一步扩大其浓缩铀的产能，从而支持核武库的潜在增长。",
+  "对于在美华人来说，朝鲜半岛局势的任何升级往往会通过影响东亚的地缘政治稳定，进而波及到美国的外交政策重心。虽然这目前还是一项技术分析，但该地区的核动向始终是影响全球安全局势的**关键变量**，值得密切关注后续的国际反应。"
+ ],
+ "tags": [
+  "朝鲜",
+  "核设施",
+  "宁边",
+  "地缘政治",
+  "卫星图像"
+ ],
+ "original_title": "New Satellite Photos Show Expansion of North Korean Uranium-Enrichment Plant",
+ "lang": "en",
+ "published": "2026-11-20T20:16:00+00:00",
+ "created": "2026-11-20T21:53:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

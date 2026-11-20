@@ -1,0 +1,30 @@
+{
+ "key": "b2f5f8ade5",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+ "title": "网安界要变天？传CrowdStrike正洽谈收购Zscaler",
+ "summary": "网络安全巨头CrowdStrike传出正在洽谈收购同行Zscaler，消息传出后Zscaler盘后股价应声大涨18%，而CrowdStrike股价则下跌超8%。若交易达成，将成为网络安全行业史上最大规模的收购之一。",
+ "body": [
+  "网络安全行业可能要诞生一桩超级并购！据媒体报道，网络安全巨头 CrowdStrike 正与同行安全供应商 Zscaler (Zscaler) 进行收购洽谈，受此消息刺激，Zscaler 盘后股价在周五飙升了 **18%**，而 CrowdStrike 股价则下跌超过 **8%**。",
+  "知情人士透露，两家公司的谈判目前仍在进行中。截至目前，CrowdStrike 拒绝就该报道发表评论，Zscaler 也未立即回应置评请求。在人工智能热潮下，CrowdStrike 成为最大赢家之一，今年股价已翻倍，市值达到 **2350亿美元**；相比之下，Zscaler 今年股价下跌了 13%，市值缩水至约 **320亿美元**。",
+  "## 行业巨头强强联合",
+  "随着企业在AI时代争相升级网络，网络安全行业正掀起并购狂潮。若这笔交易最终敲定，将成为网安历史上规模最大的收购案之一。近年来的几笔天价收购包括：",
+  "- 谷歌去年斥资32亿美元收购 Wiz\n- 思科 (Cisco) 在2024年以约28亿美元收购 Splunk\n- 派拓网络 (Palo Alto Networks) 今年完成了对 CyberArk 的25亿美元收购",
+  "过去 CrowdStrike 的收购规模通常较小，本月早些时候该公司刚宣布计划收购智能可观测性平台 Fiddler AI 和AI信任平台 Dreadnode。对于在美从事科技或IT行业的华人来说，行业巨头的整合往往会带来职场变动与技术格局的重新洗牌，值得持续关注。"
+ ],
+ "tags": [
+  "美股",
+  "网络安全",
+  "CrowdStrike",
+  "Zscaler",
+  "企业并购"
+ ],
+ "original_title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+ "lang": "en",
+ "published": "2026-11-20T21:35:24+00:00",
+ "created": "2026-11-20T21:51:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

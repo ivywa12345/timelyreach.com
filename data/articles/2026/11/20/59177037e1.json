@@ -1,0 +1,25 @@
+{
+ "key": "59177037e1",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
+ "title": "AI巨头Anthropic传要上市？小心背后藏着大坑！",
+ "summary": "人工智能独角兽Anthropic传出即将进行首次公开募股（IPO），但分析师指出，未来一年内可能有数十亿股的解禁潮，巨大的潜在抛压可能对股价造成负面影响。",
+ "body": [
+  "近日市场传出人工智能公司Anthropic即将进行首次公开募股（IPO），但知名财经媒体MarketWatch指出，这场资本盛宴背后隐藏着一个不小的隐患：未来一年内将有海量处于锁定期（locked-up）的股份面临解禁。",
+  "分析师Michael Kramer发文提醒投资者，这种潜在的供过于求问题可能会在未来一年里持续对公司的股价造成压力。对于关注AI板块的海外华人投资者来说，在热追科技股的同时，也需要警惕这类估值背后的流动性风险。"
+ ],
+ "tags": [
+  "Anthropic",
+  "IPO上市",
+  "美股投资",
+  "人工智能"
+ ],
+ "original_title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
+ "lang": "en",
+ "published": "2026-11-20T21:39:00+00:00",
+ "created": "2026-11-20T21:52:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

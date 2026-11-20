@@ -1,0 +1,24 @@
+{
+ "key": "31aba2ea5c",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/american-heroism-could-return-to-the-screen-52bcb9a9?mod=rss_opinion",
+ "title": "好莱坞不拍美国英雄了？这个人准备把它找回来",
+ "summary": "美国电影界一度不再热衷于本土的伟大故事，但制片人莱恩·波多尔斯基（Ryan Podolsky）正试图将这种“美国英雄主义”重新搬上大银幕。",
+ "body": [
+  "过去一段时间里，美国电影行业似乎渐渐放弃了本土的伟大叙事和英雄主义题材。不过，据《华尔街日报》专栏作家巴顿·斯韦姆（Barton Swaim）报道，制片人莱恩·波多尔斯基（Ryan Podolsky）正计划改变这一现状，把这类题材重新带回大银幕。"
+ ],
+ "tags": [
+  "好莱坞",
+  "电影产业",
+  "美国英雄主义",
+  "文化娱乐"
+ ],
+ "original_title": "American Heroism Could Return to the Screen",
+ "lang": "en",
+ "published": "2026-11-20T19:54:00+00:00",
+ "created": "2026-11-20T21:50:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

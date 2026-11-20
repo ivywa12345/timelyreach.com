@@ -1,0 +1,27 @@
+{
+ "key": "090efc1439",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5?mod=rss_markets_main",
+ "title": "科技股跌惨了！标普、道指双双跌入回调区",
+ "summary": "由于科技股抛售潮加剧，美股标普500指数和道琼斯工业平均指数双双跌入回调区间，市场震荡引发广泛关注。",
+ "body": [
+  "美股科技股的暴跌潮在本周进一步加剧，直接把标普500指数和道指拉进了回调区间，华尔街的气氛顿时紧张起来。",
+  "根据《华尔街日报》记者 Ed Ballard 的报道，这波科技股的下挫行情近期不断蔓延，其中人工智能新星 Anthropic 的股价也出现了下滑，拖累整体科技板块遭遇重挫。市场分析指出，投资者对高估值科技股的担忧正在转化为实质性的抛售压力。",
+  "对于咱们海外华人来说，大盘进入回调期意味着401(k)养老金账户和个人的股票投资组合可能会经历一段比较颠簸的时期。如果您的资产配置里科技类股票占比较高，近期不妨多关注市场风向，做好风险管理，捂紧自己的钱袋子。"
+ ],
+ "tags": [
+  "美股",
+  "科技股",
+  "华尔街",
+  "资产配置",
+  "海外理财"
+ ],
+ "original_title": "Tech Rout Deepens as Anthropic Stock Slides",
+ "lang": "en",
+ "published": "2026-11-20T19:31:00+00:00",
+ "created": "2026-11-20T21:53:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

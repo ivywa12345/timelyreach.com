@@ -1,0 +1,27 @@
+{
+ "key": "137217fbad",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+ "title": "厉害了！加州大学洛杉矶分校斩获全美高校美联储挑战赛冠军",
+ "summary": "加州大学洛杉矶分校（UCLA）在第23届全美高校美联储挑战赛中夺得全国总冠军，芝加哥大学和马里兰大学分获亚军和季军。",
+ "body": [
+  "美国联邦储备委员会（Federal Reserve）于2026年11月20日宣布了第23届年度全国高校美联储挑战赛（College Fed Challenge）的获胜名单，来自西海岸的加州大学洛杉矶分校（UCLA）成功击败众多强敌摘得桂冠。",
+  "这项全美大学生顶尖经济赛事吸引了创纪录的参赛规模，来自34个州的 **141所** 学校参与了角逐。经过视频展示、地方赛以及半决赛的层层筛选，最终有7支队伍进入在美联储理事会举行的全国总决赛。其中，芝加哥大学（University of Chicago）获得第二名，马里兰大学帕克分校（University of Maryland, College Park）获得第三名。",
+  "美联储主席凯文·沃什（Kevin Warsh）对参赛学生表现出的高水准给予了高度评价。",
+  "> \"他们探讨了我们这些政策制定者面临的同样重大问题。我对他们的才华、严谨性以及对货币政策和经济进行深入思考的热情印象深刻。\" —— 美联储主席 凯文·沃什（Kevin Warsh)"
+ ],
+ "tags": [
+  "美联储",
+  "UCLA",
+  "美国经济",
+  "高校比赛"
+ ],
+ "original_title": "Federal Reserve announces College Fed Challenge winners",
+ "lang": "en",
+ "published": "2026-11-20T21:15:00+00:00",
+ "created": "2026-11-20T21:50:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "7f78d73545",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+ "title": "人类啃了167年的数学难题，被AI给拿下了？",
+ "summary": "人工智能技术可能已经解决了数学界最重要的难题之一——困扰了人类167年的黎曼猜想。",
+ "body": [
+  "人类数学史上最硬的骨头之一可能要被人工智能啃动了。根据《经济学人》的报道，在经历了长达 **167年** 的艰难探索后，科学家们发现AI技术或许已经找到了解决著名数学难题“黎曼猜想”的关键方法。",
+  "自德国数学家波恩哈德·黎曼（Bernhard Riemann）于1859年提出该猜想以来，无数顶尖数学家前赴后继试图证明它，但始终未能成功。黎曼猜想关乎质数在数轴上的分布规律，被视为现代数学大厦的基石之一。",
+  "虽然目前仍处于技术探索阶段，但这一突破展示了AI在处理极端复杂逻辑和海量数据方面的恐怖实力。对于关注前沿科技的海外华人来说，AI不仅在改变职场和生活，如今也正在重塑人类对基础科学的认知边界。"
+ ],
+ "tags": [
+  "人工智能",
+  "数学",
+  "黎曼猜想",
+  "科技前沿"
+ ],
+ "original_title": "AI may have solved the most important problem in mathematics",
+ "lang": "en",
+ "published": "2026-11-20T21:41:15+00:00",
+ "created": "2026-11-20T21:49:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
