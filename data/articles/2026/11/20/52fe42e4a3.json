@@ -1,0 +1,26 @@
+{
+ "key": "52fe42e4a3",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/anthropic-ipo-ai-markets-89e2476f?mod=rss_markets_main",
+ "title": "Anthropic上市风光无限，却难救大盘？科技股周四又跌惨了",
+ "summary": "人工智能新星Anthropic成功上市备受瞩目，但未能提振华尔街对科技股的信心，纳斯达克指数周四依然大跌2.3%。",
+ "body": [
+  "人工智能独角兽 Anthropic 的巨型 IPO（首次公开募股）虽然赚足了眼球，但依然没能拯救陷入低迷的科技股板块。受投资者谨慎情绪影响，纳斯达克综合指数在周四恢复了近期的下滑趋势，单日跌幅达到 **2.3%**。",
+  "华尔街日报（Wall Street Journal）记者 Kate Clark 指出，尽管 Anthropic 的上市达到了华尔街的预期热度，但市场对科技和人工智能（AI）股票的担忧情绪依然没有消散。"
+ ],
+ "tags": [
+  "Anthropic",
+  "美股",
+  "人工智能",
+  "纳斯达克",
+  "科技股"
+ ],
+ "original_title": "Anthropic’s Mega IPO Lives Up to Wall Street Hype but Fails to Revive AI Trade",
+ "lang": "en",
+ "published": "2026-11-20T00:00:00+00:00",
+ "created": "2026-11-20T03:12:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

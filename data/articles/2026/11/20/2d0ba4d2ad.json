@@ -1,0 +1,26 @@
+{
+ "key": "2d0ba4d2ad",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/donald-trump-summit-xi-jinping-vladimir-putin-nuclear-weapons-9c62a594?mod=rss_worldnews",
+ "title": "没有核武器的世界？俄中两国根本不买账！",
+ "summary": "华尔街日报社论指出，尽管美国前总统特朗普曾极力呼吁，但俄罗斯和中国并不想要一个没有核武器的世界。",
+ "body": [
+  "川普一直希望搞个无核世界，但现实可能没那么骨感。华尔街日报编辑委员会发文指出，中俄两国对彻底销毁核武器这事儿，压根儿就不买账。",
+  "虽然美国方面不断发出呼吁，希望能够推动全球走向没有核武器的未来，但从目前的大国博弈来看，俄中双方并没有配合的意愿。这也意味着，国际社会的核军控前路依然布满荆棘。",
+  "对于关注国际局势和地缘政治的海外华人来说，核大国之间军控协议的停滞和信任缺失，可能会让未来的国际安全环境更加复杂多变，值得持续关注。"
+ ],
+ "tags": [
+  "国际军控",
+  "核武器",
+  "中美俄",
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | Nuclear Peace in Our Time. Not",
+ "lang": "en",
+ "published": "2026-11-19T22:59:00+00:00",
+ "created": "2026-11-20T03:14:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

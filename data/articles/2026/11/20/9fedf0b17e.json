@@ -1,0 +1,25 @@
+{
+ "key": "9fedf0b17e",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/honda-debuts-hybrid-suv-for-asia-in-pivot-from-failed-ev-bet",
+ "title": "纯电玩不转了？本田急忙在亚洲推出全新混动SUV",
+ "summary": "本田汽车在亚洲发布了一款全新的旗舰SUV，标志着该公司战略大转向，开始放弃纯电动汽车路线，转而在本十年推出一系列油电混合动力车型。",
+ "body": [
+  "本田汽车（Honda Motor Co.）最近在亚洲正式亮相了一款全新的旗舰SUV。作为本田放弃纯电动汽车（EV）押注计划的一部分，这是该公司在本十年内计划推出的油电混合动力车型系列中的第一款。",
+  "此前，本田在纯电动汽车领域的尝试并未达到预期，迫使管理层重新评估市场战略。眼下，这家日本车企决定将重心重新调整至其更擅长的油电混动技术，试图通过更加稳妥的混动车型夺回市场份额。"
+ ],
+ "tags": [
+  "本田",
+  "混合动力",
+  "汽车行业",
+  "新能源转型"
+ ],
+ "original_title": "Honda Debuts Hybrid SUV for Asia in Pivot From Failed EV Bet",
+ "lang": "en",
+ "published": "2026-11-20T03:00:00+00:00",
+ "created": "2026-11-20T03:14:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "6bc807db70",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/regulation/this-ex-sheriff-was-on-the-beat-when-mark-walter-loaded-insurers-with-insider-deals-dbfd45d1?mod=rss_markets_main",
+ "title": "德州保险巨鳄栽了？涉嫌蓄意误导监管正被调查",
+ "summary": "特拉华州保险局曾给富豪马修·沃尔特（Mark Walter）旗下的保险公司开出合规证明，但现在该部门改口称遭到“蓄意误导”，目前正在展开调查。",
+ "body": [
+  "特拉华州（Delaware）的保险监管部门过去曾给亿万富豪马修·沃尔特（Mark Walter）旗下存在利益冲突的保险公司发放过“安全牌”。然而，该部门现在却公开表示，他们当时遭到了“蓄意误导”，目前已经正式介入调查。",
+  "这件事之所以引发关注，是因为涉及复杂的内部交易和监管漏洞。长期以来，这类金融操作游走于灰色地带，普通民众和投资者往往很难一眼看穿其中的风险。监管部门的最新表态意味着，这场风波可能才刚刚拉开序幕，后续进展值得密切关注。"
+ ],
+ "tags": [
+  "保险监管",
+  "内部交易",
+  "金融调查",
+  "海外财经"
+ ],
+ "original_title": "This Ex-Sheriff Was on the Beat When Mark Walter Loaded Insurers With Insider Deals",
+ "lang": "en",
+ "published": "2026-11-20T01:45:00+00:00",
+ "created": "2026-11-20T03:10:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

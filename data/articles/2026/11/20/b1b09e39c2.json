@@ -1,0 +1,26 @@
+{
+ "key": "b1b09e39c2",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/hong-kong-stocks-hang-seng-hsi-hkex-2026-ai-selloff-bear-market",
+ "title": "港股从2026年高点跌入20%！AI板块崩盘，连防守股也扛不住了",
+ "summary": "受全球人工智能（AI）板块抛售潮波及，香港股市从2026年的高点下跌了20%，连一向抗跌的防御型板块也未能幸免。",
+ "body": [
+  "据彭博社（Bloomberg News）报道，香港股市正步入一个令人沮丧的里程碑。由于人工智能引发的抛售潮持续扩散，不仅重创了科技股，连市场上更具防御性的角落也被彻底吞没，大盘较2026年的最高点下挫了 **20%**。",
+  "这次市场的暴跌主要源于投资者对AI板块的信心动摇，恐慌情绪迅速蔓延至整个港股市场。分析指出，原本被视为避风港的防御型股票也没能撑住，说明市场的抛售压力已经非常全面。",
+  "对于关注全球资本市场和资产配置的海外华人来说，港股的这波剧烈回调再次敲响了警钟。在全球科技股波动加剧的背景下，投资者的钱包和风险资产正面临严峻考验，近期在做投资决策时需要格外留意市场情绪的急剧变化。"
+ ],
+ "tags": [
+  "港股",
+  "AI泡沫",
+  "股市跌幅",
+  "彭博社"
+ ],
+ "original_title": "Hong Kong Stocks Fall 20% From 2026 High as AI Selloff Spreads",
+ "lang": "en",
+ "published": "2026-11-20T02:29:50+00:00",
+ "created": "2026-11-20T03:12:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

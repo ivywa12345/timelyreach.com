@@ -1,0 +1,26 @@
+{
+ "key": "9378bc39dc",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/19/us-news/trump-admin-moves-to-drop-lawsuit-in-high-stakes-alaska-senate-race/",
+ "title": "特朗普政府突然撤诉！阿拉斯加参议院选举闹剧结束",
+ "summary": "特朗普政府周四申请撤回针对民主党人玛丽·佩尔托拉（Mary Peltola）在阿拉斯加联邦参议院选举胜利的诉讼，这场旨在阻止政敌上台的法律战宣告落幕。",
+ "body": [
+  "特朗普政府在周四采取行动，正式撤回了试图阻止民主党人玛丽·佩尔托拉（Mary Peltola）在阿拉斯加参议院选举中获胜认证的诉讼，为这场饱受批评的选举风波画上了句号。",
+  "这场法律争议的起因是选票上出现了一名与现任共和党参议员丹·沙利文（Dan Sullivan）同名的候选人。司法部此前在特朗普的授意下提起诉讼，要求在调查选民是否受到混淆前不得认证佩尔托拉的胜选结果。阿拉斯加州最高法院此前已裁定该同名候选人的参选合法，而由共和党控制的阿拉斯加州律师也反对联邦政府的干预，斥其诉讼“毫无法律依据”。",
+  "随着佩尔托拉以**绝对多数**赢得选举，成为民主党在期中选举中的第56位参议员，司法部要求上诉法院将该案发回并以“失去实际意义”为由予以驳回。这也是大选后司法部第二次撤回干预州级选举的高调诉讼，此前他们还撤回了试图阻止加州统计部分选票的诉讼。"
+ ],
+ "tags": [
+  "特朗普政府",
+  "阿拉斯加选举",
+  "美国政治",
+  "法律诉讼"
+ ],
+ "original_title": "Trump admin moves to drop lawsuit in high-stakes Alaska Senate race",
+ "lang": "en",
+ "published": "2026-11-20T03:00:29+00:00",
+ "created": "2026-11-20T03:11:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

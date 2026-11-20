@@ -1,0 +1,24 @@
+{
+ "key": "d554d6fe8d",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/thune-sees-debt-limit-hike-as-next-year-s-fight-semafor-reports",
+ "title": "美债上限大战要拖到2027年？参院领袖图恩这么说！",
+ "summary": "美国参议院多数党领袖约翰·图恩表示，共和党人在今年剩余的多数党任期内不太可能寻求提高债务上限，这个问题很可能会被推迟到2027年解决。",
+ "body": [
+  "美国参议院多数党领袖约翰·图恩（John Thune）在接受媒体Semafor采访时透露，共和党人大概率不会在今年剩下的多数党任期内去碰“提高债务上限”这个烫手山芋，这场财政博弈“很可能会被推迟到2027年”再来解决。"
+ ],
+ "tags": [
+  "美国国会",
+  "债务上限",
+  "财政政治",
+  "约翰·图恩"
+ ],
+ "original_title": "Thune Sees Debt Limit Hike as Next Year’s Fight, Semafor Reports",
+ "lang": "en",
+ "published": "2026-11-20T00:55:21+00:00",
+ "created": "2026-11-20T03:11:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

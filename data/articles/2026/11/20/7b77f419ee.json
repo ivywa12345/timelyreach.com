@@ -1,0 +1,27 @@
+{
+ "key": "7b77f419ee",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/anthropics-ipo-mints-new-millionaires-5dbb6289?mod=rss_markets_main",
+ "title": "AI大厂要上市？大批员工要变百万富翁了！",
+ "summary": "AI初创公司Anthropic传出即将首次公开募股（IPO）的消息，有望造就大批百万富翁。同时，共和党参议员暂停推动额外军费开支，而黑客则泄露了Visa、万事达卡和摩根大通客户的数据。",
+ "body": [
+  "最近科技圈最大的看点可能就是人工智能独角兽Anthropic的动向了。根据《华尔街日报》记者Amira McKee的报道，这家公司的IPO计划不仅备受资本市场瞩目，更直接关系到内部员工的钱包——大批员工即将通过股票期权变现，成为名副其实的**百万富翁**。",
+  "除了科技圈的财富造富神话外，华盛顿和金融安全领域近期也发生了几件大事。在国会山，共和党参议员们突然按下了暂停键，**暂停了他们对额外军事开支的持续推动**。与此同时，普通消费者最担心的网络安全问题再度爆发，黑客成功窃取并泄露了包括Visa、万事达卡（Mastercard）以及摩根大通（JPMorgan）在内的大量客户数据，引发了外界对金融隐私和账户安全的高度担忧。",
+  "对于咱们海外华人来说，这类科技巨头的资本运作往往带动了整个湾区和西雅图的房市与消费，但黑客泄露主流信用卡和银行数据的新闻则提醒大家：近期一定要密切关注自己的银行账户和信用卡账单，防止个人财务受到波及。"
+ ],
+ "tags": [
+  "Anthropic",
+  "IPO",
+  "AI",
+  "金融安全",
+  "黑客攻击"
+ ],
+ "original_title": "Anthropic’s IPO Mints New Millionaires",
+ "lang": "en",
+ "published": "2026-11-19T22:41:00+00:00",
+ "created": "2026-11-20T03:13:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

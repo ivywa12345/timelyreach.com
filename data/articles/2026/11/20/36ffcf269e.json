@@ -1,0 +1,26 @@
+{
+ "key": "36ffcf269e",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/spain-s-sanchez-struggles-in-debate-against-main-rival-feijoo",
+ "title": "西班牙首相选举辩论遭围攻，当场为贪腐和列车事故道歉",
+ "summary": "西班牙首相桑切斯在周四的选举辩论中面对最大政治对手费霍的猛烈攻击，选择公开为政府贪腐丑闻及两起重大列车事故道歉。",
+ "body": [
+  "西班牙政坛最近不太平，首相佩德罗·桑切斯（Pedro Sánchez）在周四的一场关键选举辩论中，遭到最大竞争对手、反对党领袖阿尔韦托·努涅斯·费霍（Alberto Núñez Feijóo）的猛烈火力攻击。",
+  "为了稳住阵脚，桑切斯在辩论中采取了罕见的低姿态，直接为自己政府卷入的贪腐丑闻以及发生的两起重大列车事故公开道歉，试图以此化解选民的不满情绪。",
+  "目前西班牙大选在即，这场辩论被视为决定选情走向的关键战役。执政党能否挺过这波信任危机，接下来就要看选民买不买账了。"
+ ],
+ "tags": [
+  "西班牙大选",
+  "佩德罗桑切斯",
+  "欧洲政治",
+  "贪腐丑闻"
+ ],
+ "original_title": "Spain’s Sánchez Struggles in Debate Against Main Rival Feijóo",
+ "lang": "en",
+ "published": "2026-11-20T00:13:20+00:00",
+ "created": "2026-11-20T03:12:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

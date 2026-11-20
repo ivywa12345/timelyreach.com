@@ -1,0 +1,27 @@
+{
+ "key": "b6113170e2",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/19/us-news/wh-names-kirsten-davies-as-new-cyber-chief-after-old-leader-resigned-following-mass-tech-outages/",
+ "title": "全美遭遇大规模网络瘫痪，白宫火速换帅：国防部CIO接盘",
+ "summary": "在美国经历了一系列严重影响日常生活的网络服务大面积瘫痪后，白宫迅速宣布由国防部首席信息官柯尔斯滕·戴维斯（Kirsten Davies）接替肖恩·凯恩克罗斯（Sean Cairncross），担任新任国家网络总监。",
+ "body": [
+  "近日，美国多地发生大规模服务中断，严重影响了民众的出行、工作、银行账户访问甚至机密通信，引发了全社会的强烈批评，许多美国人甚至连特朗普的坚定盟友都对政府隐瞒真实原因表示不满。就在前任国家网络总监肖恩·凯恩克罗斯（Sean Cairncross）辞职几小时后，白宫火速宣布了新的人名人选。",
+  "国防部（Defense Department）首席信息官柯尔斯滕·戴维斯（Kirsten Davies）将出任这一国家最高网络安全官员职务。特朗普的多位内阁成员在社交媒体上公布了这一消息。防长皮特·海格塞斯（Pete Hegseth）在X平台上发文祝贺，称她为“坚定的爱国者和专业人士”，并确信她将推进总统的“美国优先”网络安全议程。",
+  "- 过去一周内受到影响的机构和企业包括：\n- 微软（Microsoft）\n- 大通银行（Chase Bank）\n- 空中交通管制系统\n- 国家安全局（NSA）",
+  "对于接下来的工作，戴维斯在X平台上发文表示：“我们的机会在于主导未来几代人的网络领域……但前提是我们必须将现代化和韧性融入我们伟大国家运行的基础中，并为未来培养网络人才。”与此同时，国务卿鲁比奥（Rubio）于周二向公众保证，**没有任何信息**表明这些技术故障彼此相关，或是由恶意攻击者引起的。"
+ ],
+ "tags": [
+  "白宫",
+  "网络安全",
+  "美国新闻",
+  "人事变动"
+ ],
+ "original_title": "White House taps Kirsten Davies as new cyber chief hours after old leader resigned following mass tech outages",
+ "lang": "en",
+ "published": "2026-11-20T02:54:11+00:00",
+ "created": "2026-11-20T03:12:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

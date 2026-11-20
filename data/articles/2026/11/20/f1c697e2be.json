@@ -1,0 +1,31 @@
+{
+ "key": "f1c697e2be",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
+ "title": "AI巨头Anthropic上市炸场！创史上最大IPO记录，华尔街却急劝：别盲目追高",
+ "summary": "AI独角兽Anthropic周四成功上市，融资额高达813亿美元，打破历史纪录。虽然市场需求极为火爆，但分析师警告称，未来几周股价可能会经历剧烈波动。",
+ "body": [
+  "AI领域的重磅炸弹终于落地！开发Claude聊天机器人的AI公司Anthropic于周四正式登陆美股，开盘价报111.50美元，收盘报97.17美元，较发行价大涨17%。这场备受瞩目的首次公开募股（IPO）通过出售9.80亿股共募集了 **813亿美元**，正式超越今年6月的SpaceX，创下了 **有史以来规模最大** 的IPO记录。",
+  "过去几周，美股AI板块一直笼罩在低迷情绪中，而Anthropic的上市恰逢其时。Walser Wealth Management首席投资官丽贝卡·沃尔瑟（Rebecca Walser）直言：“Anthropic的IPO正是市场重振整体情绪所急需的。”野村证券（Nomura）策略师查理·麦克埃利戈特（Charlie McElligott）则形容投资者对这次发行的热情高涨到“垂涎三尺”，分配额度低得惊人，足见市场需求之强劲。",
+  "> 对于投资者来说，它将成为像谷歌（Google）一样的蓝筹股。\n> ——Gerber Kawasaki Wealth & Investment Management 总裁兼CEO 罗斯·格伯（Ross Gerber）",
+  "## 短期震荡难免，专家建议理性看待",
+  "虽然首日表现惊艳，但专业人士纷纷提醒投资者保持冷静，切勿盲目“追高”。沃尔瑟指出，前英伟达（Nvidia）CEO黄仁勋即将出席美国参议院听证会，这可能会再度引发市场对AI板块的担忧，导致Anthropic股价在未来几周承受压力。晨星（Morningstar）高级股票分析师马利克·艾哈迈德·汗（Malik Ahmed Khan）也强调，该股短期内仍将保持“高度波动”。",
+  "不过从长远来看，华尔街对这家OpenAI的劲敌依然充满信心。Gerber Kawasaki的CEO罗斯·格伯认为，相比于加州迸发出的“疯狂惊人的创新”，目前美国科技股的估值其实处于相当低的水平。晨星给该股设定的公允价值估计为 **92美元**，并指出Anthropic能否成为真正的长线优质资产，关键在于其扩大企业级应用、持续优化模型并将技术转化为实用商业产品的能力。",
+  "作为首家上市的非中国大型语言模型开发商，Anthropic的上市让公开市场投资者首次能够直接评估一家独立AI模型开发商的表现，而不再仅仅围着芯片制造商转。随着对手OpenAI也可能在2027年左右寻求IPO，这场资本与AI的结合才刚刚拉开序幕。"
+ ],
+ "tags": [
+  "Anthropic",
+  "美股IPO",
+  "人工智能",
+  "科技股",
+  "华尔街"
+ ],
+ "original_title": "Anthropic IPO 'exactly what the markets need', but analysts warn of volatility",
+ "lang": "en",
+ "published": "2026-11-20T02:33:39+00:00",
+ "created": "2026-11-20T03:11:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

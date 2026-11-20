@@ -1,0 +1,27 @@
+{
+ "key": "a08f8d2bf0",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
+ "title": "AI概念股遭遇重挫！全球股市创下2023年以来最长连跌记录",
+ "summary": "由于2026年人工智能（AI）板块牛市大跌，全球股市遭遇三年多来最长连跌，资金纷纷涌入美债和美元等避险资产。",
+ "body": [
+  "近期全球股市遭遇滑铁卢，有望创下三年多来持续时间最长的下跌纪录。这主要是因为此前一路狂飙的AI概念股在2026年遭遇重挫，导致市场热潮迅速降温。",
+  "面对剧烈的市场震荡，投资者纷纷从风险资产撤离，寻找安全港湾。受此影响，美国国债（Treasuries）和美元（Dollar）等避险资产全线走强。",
+  "对身处海外的华人投资者来说，近期金融市场波动加剧，科技股风险显著上升。如果你的资产配置中AI板块或美股占比较高，务必注意防范风险，适当关注美债等避险工具以保护自己的钱包安全。"
+ ],
+ "tags": [
+  "股市行情",
+  "人工智能",
+  "美股",
+  "避险资产",
+  "海外投资"
+ ],
+ "original_title": "Stocks Set for Worst Run Since 2023, Havens Gain: Markets Wrap",
+ "lang": "en",
+ "published": "2026-11-19T22:03:40+00:00",
+ "created": "2026-11-20T03:11:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

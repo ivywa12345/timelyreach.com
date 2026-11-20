@@ -1,0 +1,27 @@
+{
+ "key": "05f2c1dc22",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/copper-rout-deepens-as-ai-selloff-wreaks-havoc-in-metals-markets",
+ "title": "铜价大跌！AI股崩盘引发金属市场大地震",
+ "summary": "由于市场对全球需求的担忧加剧，铜价暴跌至3月以来的最低水平。",
+ "body": [
+  "近期全球金融市场动荡不安，受人工智能（AI）板块抛售潮的波及，金属市场也未能幸免，铜价遭遇重挫，跌到了今年3月以来的最低谷。",
+  "这次铜价大跌的直接导火索是市场对全球经济需求的深深忧虑。作为经济风向标的铜，其价格暴跌往往预示着大宗商品市场正面临资金撤离和信心危机。彭博社（Bloomberg News）指出，这场由AI板块引发的市场动荡，已经迅速蔓延并重创了整个金属市场。",
+  "对于海外华人来说，大宗商品市场的剧烈波动虽然看似遥远，但往往会通过通胀、供应链成本等传导到日常生活中，进而影响到大家的投资组合和钱包。后续市场能否企稳，还要看全球经济需求的恢复情况。"
+ ],
+ "tags": [
+  "铜价大跌",
+  "AI抛售潮",
+  "金属市场",
+  "全球需求",
+  "彭博社"
+ ],
+ "original_title": "Copper Rout Deepens as AI Selloff Wreaks Havoc in Metals Markets",
+ "lang": "en",
+ "published": "2026-11-20T03:03:05+00:00",
+ "created": "2026-11-20T03:13:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

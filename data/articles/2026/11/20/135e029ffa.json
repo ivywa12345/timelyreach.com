@@ -1,0 +1,26 @@
+{
+ "key": "135e029ffa",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/california-attorney-general-issues-investigative-subpoena-to-nvidia-097cea9e?mod=rss_Technology",
+ "title": "加州总检察长出手！芯片巨头英伟达遭调查",
+ "summary": "加州总检察长罗布·邦塔对陷入困境的芯片制造巨头英伟达展开调查，以查明该公司是否在信息披露中误导了投资者。",
+ "body": [
+  "芯片巨头英伟达（Nvidia）这回遇到了麻烦。据《华尔街日报》报道，加州总检察长罗布·邦塔（Rob Bonta）已经正式向该公司发出了调查传票，矛头直指英伟达是否涉嫌在向投资者披露信息时存在误导行为。",
+  "目前，这场由加州司法部门发起的调查尚处于初期阶段，主要目的是厘清英伟达在有关其业务和市场前景的公开表态中，是否存在夸大或隐瞒事实，从而对投资者造成了误导。截至目前，英伟达官方尚未对这起调查做出详细回应。",
+  "对于关注科技股和美股市场的海外华人投资者来说，英伟达作为人工智能浪潮中的核心风向标，其任何风吹草动都可能牵动投资者的钱包。我们会持续关注该调查的后续进展，看看是否会对相关科技板块的走势产生实质性影响。"
+ ],
+ "tags": [
+  "英伟达",
+  "加州总检察长",
+  "美股投资",
+  "科技新闻"
+ ],
+ "original_title": "California Attorney General Issues Investigative Subpoena to Nvidia",
+ "lang": "en",
+ "published": "2026-11-20T00:01:00+00:00",
+ "created": "2026-11-20T03:12:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

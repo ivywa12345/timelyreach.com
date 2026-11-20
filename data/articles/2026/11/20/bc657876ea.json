@@ -1,0 +1,27 @@
+{
+ "key": "bc657876ea",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/chinas-ai-firms-are-addicted-to-nvidia-chips-now-they-are-facing-withdrawal-ba851ca9?mod=rss_Technology",
+ "title": "没了英伟达芯片，中国AI企业开始戒断了？",
+ "summary": "美国对华切断高端计算芯片供应，给北京的人工智能雄心带来了沉重打击。",
+ "body": [
+  "美国近年来持续收紧对华出口管制，切断了中国企业获取高端计算能力的渠道，让国内大热的 AI 行业迎来了严峻的“戒断反应”。",
+  "## 依赖与打击并存",
+  "长期以来，中国的 AI 公司对英伟达（Nvidia）的高端芯片有着极高的依赖度。然而，随着美国政府出手限制高算力芯片流向中国，这不仅直接影响了相关企业的技术研发进度，也给整个行业未来的发展蒙上了一层阴影。",
+  "对于关注科技风向的海外华人来说，芯片供应链的持续动荡不仅关乎中美两国的科技博弈，也可能对全球人工智能产业的格局产生深远影响。"
+ ],
+ "tags": [
+  "人工智能",
+  "英伟达",
+  "芯片断供",
+  "中美科技战"
+ ],
+ "original_title": "China’s AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal.",
+ "lang": "en",
+ "published": "2026-11-20T03:00:00+00:00",
+ "created": "2026-11-20T03:10:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
