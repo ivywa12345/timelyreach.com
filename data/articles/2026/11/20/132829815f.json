@@ -1,0 +1,26 @@
+{
+ "key": "132829815f",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2123757500570931417",
+ "title": "SpaceX四百亿美元芯片融资遇阻",
+ "summary": "SpaceX价值400亿美元的AI芯片融资遇阻，贷款方担心芯片一旦送入太空便无法收回，要求法律保障芯片留在地面。",
+ "body": [
+  "据《金融时报》（FT）报道，SpaceX（股票代码SPCX）的贷款方希望阻止其将价值400亿美元的AI芯片送入太空。",
+  "这些芯片是一笔由阿波罗（Apollo）牵头、规模约400亿美元的融资交易的抵押品。由阿波罗管理的一家实体购买英伟达GPU并租赁给SpaceX，SpaceX在约五年内偿还。如果SpaceX违约，贷款方可以收回芯片并出售。",
+  "问题就出在太空上。贷款方担心，如果SpaceX日后将芯片送入轨道，用于其规划中的太空数据中心，一旦违约他们将无法收回芯片。他们现在要求法律保障，确保芯片留在地面。",
+  "SpaceX于10月完成了这笔交易，租赁将于2027年上半年开始。马斯克曾表示，对于没有其他大额收入来源的AI公司，债务市场“几乎完全关闭了资金渠道”。"
+ ],
+ "tags": [
+  "SpaceX",
+  "AI芯片",
+  "融资"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-20T12:37:00+00:00",
+ "created": "2026-11-20T13:54:15+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

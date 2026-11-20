@@ -1,0 +1,29 @@
+{
+ "key": "a2e967e332",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "ZeroHedge",
+ "source_url": "https://x.com/zerohedge/status/2123762184748449972",
+ "title": "美股盘前：科技股普跌，Intuit暴跌9%",
+ "summary": "美股盘前七巨头多数走低，Anthropic上市次日跌10%，Intuit下调全年预期后暴跌9%，Gap和保险股逆势上涨。",
+ "body": [
+  "盘前异动：",
+  "七巨头（Mag 7）多数走低：苹果（AAPL）涨0.2%，Alphabet（GOOGL）跌0.2%，微软（MSFT）跌1.6%，亚马逊（AMZN）跌1.7%，特斯拉（TSLA）跌2%，Meta Platforms（META）跌2%，英伟达（NVDA）跌2.8%。",
+  "Anthropic（ANT）上市第二日下跌10%，全球AI交易退潮盖过了其创纪录首秀带来的乐观情绪。",
+  "Gap（GAP）上涨3%，此前这家服装公司报告称，老海军（Old Navy）和核心Gap品牌收入趋势好于预期，抵消了其他业务板块表现疲软以及全年销售展望下调的影响。",
+  "Humana（HUM）上涨2.5%，联合健康（UNH）上涨1%，此前TD Cowen将这两家健康保险公司评级从持有上调至买入，理由是前景改善以及进一步上行的潜力。",
+  "Intuit（INTU）暴跌9%，此前这家软件制造商下调了全年收入预期，原因是旗下个人理财平台Credit Karma表现疲软，而该平台正日益受到智能体AI工具的威胁。",
+  "Ross Stores（ROST）下跌4%，此前这家折扣零售商给出了弱于预期的第四季度指引，成本上升持续侵蚀企业利润。"
+ ],
+ "tags": [
+  "美股",
+  "盘前",
+  "Anthropic"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-20T12:55:37+00:00",
+ "created": "2026-11-20T13:54:15+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

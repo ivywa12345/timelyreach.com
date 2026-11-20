@@ -1,0 +1,25 @@
+{
+ "key": "b0ea6f1334",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2123762533643268167",
+ "title": "微软为OpenAI可能断供做准备",
+ "summary": "微软AI负责人警告公司为OpenAI可能切断技术访问做准备，微软正自研前沿模型并洽谈初创交易以降低依赖。",
+ "body": [
+  "据报道，微软（MSFT）人工智能首席执行官穆斯塔法·苏莱曼（Mustafa Suleyman）已告诉同事，公司应为OpenAI可能切断微软对其技术访问的未来做好准备。",
+  "根据现行协议，微软对OpenAI模型和知识产权的权利持续至2032年。苏莱曼的警告表明，微软正在为可能无法继续依赖这一访问权限做准备。",
+  "微软一直在苏莱曼领导的MAI团队下开发自己的前沿AI模型，以减少对OpenAI的依赖。据报道，微软还在洽谈初创公司交易作为后备方案。"
+ ],
+ "tags": [
+  "微软",
+  "OpenAI",
+  "人工智能"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-20T12:57:00+00:00",
+ "created": "2026-11-20T13:54:15+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
