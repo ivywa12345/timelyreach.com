@@ -1,0 +1,26 @@
+{
+ "key": "de0a1ed273",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/let-congress-keep-doing-its-job-with-the-faa-ab41517c?mod=rss_opinion",
+ "title": "美国FAA该怎么管？华尔街日报：千万别学加拿大！",
+ "summary": "《华尔街日报》编辑部发表评论文章，探讨美国联邦航空管理局（FAA）的管理现状，明确表示加拿大不应成为美国的效仿模板。",
+ "body": [
+  "近日，《华尔街日报》针对美国联邦航空管理局（FAA）的运作与监管发表了评论文章，直言加拿大并不适合作为美国的改革模板。",
+  "长期以来，关于如何保持美国航空业的高效与安全一直是国会和行业内部讨论的热点。文章指出，应当让美国国会继续履行其职责，对FAA进行监督和立法管理，而不是盲目照搬其他国家的模式。",
+  "对于经常往返中美或在北美出行的华人来说，FAA的政策直接关乎航班的安全与准点率。这项讨论提醒我们，航空监管体系的稳定对日常出行有着不可忽视的影响。"
+ ],
+ "tags": [
+  "FAA",
+  "美国国会",
+  "航空安全",
+  "华尔街日报"
+ ],
+ "original_title": "Let Congress Keep Doing Its Job With the FAA",
+ "lang": "en",
+ "published": "2026-11-20T17:19:00+00:00",
+ "created": "2026-11-20T18:51:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

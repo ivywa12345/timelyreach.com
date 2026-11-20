@@ -1,0 +1,27 @@
+{
+ "key": "08c6ebe728",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/banking/citi-undercounted-35-billion-in-assets-at-u-k-subsidiary-f8328559?mod=rss_markets_main",
+ "title": "花旗英国子公司栽了！竟然算错350亿美元，CEO改革又遇坎坷",
+ "summary": "花旗银行在英国的子公司被曝出记录错误，低估了高达350亿美元的风险加权资产，这对花旗CEO试图加强内部控制的努力来说是一个不小的打击。",
+ "body": [
+  "花旗集团（Citigroup）最近遇到了一个大麻烦。根据《华尔街日报》报道，该行在英国的一家子公司竟然把**350亿美元**的资产给“漏算”了。这次出问题的地方在于风险加权资产的记录，可以说是账目上出现了不小的漏洞。",
+  "## 改革路上的绊脚石",
+  "对于花旗现任首席执行官简·弗雷泽（Jane Fraser）来说，这个消息可不是什么好兆头。长期以来，她一直带头努力整顿银行内部的风险控制和合规系统，希望彻底解决老牌金融机构的沉疴。然而，这次英国子公司的账目乌龙，无疑给她的内部控制改革计划泼了一盆冷水，暴露出花旗在日常运营和数据核算上依然存在不小的隐患。"
+ ],
+ "tags": [
+  "花旗银行",
+  "英国子公司",
+  "资产算错",
+  "华尔街日报",
+  "金融监管"
+ ],
+ "original_title": "Citi Undercounted $35 Billion in Assets at U.K. Subsidiary",
+ "lang": "en",
+ "published": "2026-11-20T16:59:00+00:00",
+ "created": "2026-11-20T18:50:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

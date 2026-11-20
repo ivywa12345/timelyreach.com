@@ -1,0 +1,28 @@
+{
+ "key": "44afb8fd58",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?mod=rss_markets_main",
+ "title": "AI概念股遭遇连环抛售，亚洲股市周五集体跳水",
+ "summary": "周五早盘亚洲股市全线走低，虽然人工智能初创企业Anthropic刚刚完成了轰动市场的IPO，但依然没能稳住近期持续下挫的AI板块，抛售潮仍在蔓延。",
+ "body": [
+  "周五早盘，亚洲股市遭遇重挫，主因是近期持续发酵的AI板块抛售潮进一步加深，拖累了整体大盘走势。",
+  "## 巨型IPO也难救市",
+  "这次市场动荡的背景是，备受瞩目的AI独角兽Anthropic刚刚完成了其重磅的首次公开募股（IPO）。然而，这场本被寄予厚望的“资本盛宴”不仅未能提振市场信心，反而没能阻挡AI概念股近期的集体回调，恐慌情绪迅速向整个亚洲股市蔓延。",
+  "对于关注全球资本市场的海外华人来说，科技股的剧烈波动往往会直接传导至退休账户和投资组合。近期AI板块的不稳定提醒大家，高成长背后的高波动风险不容忽视，配置资产时需格外注意分散风险，捂紧自己的钱袋子。"
+ ],
+ "tags": [
+  "亚洲股市",
+  "人工智能",
+  "美股IPO",
+  "科技股",
+  "海外投资"
+ ],
+ "original_title": "Asian Equities Tumble as AI Stock Selloff Deepens",
+ "lang": "en",
+ "published": "2026-11-20T05:40:00+00:00",
+ "created": "2026-11-20T18:52:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,28 @@
+{
+ "key": "2c9c18a613",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/argentina-hit-hard-by-global-turmoil-as-bonds-slip-into-distress",
+ "title": "阿根廷国债又崩了？全球资金避险，这国遭遇股债双杀！",
+ "summary": "全球市场掀起避险风潮，阿根廷国债不幸“中招”，两年来首次跌入陷入困境的区间，明年大选的焦虑情绪更让其雪上加霜。",
+ "body": [
+  "全球资本市场正经历一波避险逃离潮，而阿根廷在这个极其脆弱的时刻不幸“中招”，引发了一场猛烈的国债抛售潮。",
+  "## 两年首次跌入困境",
+  "这场抛售潮不仅加剧了市场对阿根廷明年大选的焦虑情绪，更直接把该国的债务水平推向了 **陷入困境的区间**，这也是两年来头一遭。",
+  "彭博社（Bloomberg）记者 Vinícius Andrade 和 Ignacio Olivera Doll 指出，面对当前的全球动荡，阿根廷正面临着巨大的经济和政治考验。"
+ ],
+ "tags": [
+  "阿根廷",
+  "国债",
+  "金融市场",
+  "全球避险",
+  "经济动荡"
+ ],
+ "original_title": "Argentina Hit Hard by Global Turmoil as Bonds Slip Into Distress",
+ "lang": "en",
+ "published": "2026-11-20T18:12:35+00:00",
+ "created": "2026-11-20T18:51:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

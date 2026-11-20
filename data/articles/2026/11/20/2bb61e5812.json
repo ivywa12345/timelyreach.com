@@ -1,0 +1,27 @@
+{
+ "key": "2bb61e5812",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/trump-says-huang-should-return-as-nvidia-ceo-after-big-apology",
+ "title": "川普喊话：黄仁勋“诚恳道歉”后就能回英伟达当CEO？",
+ "summary": "美国总统唐纳德·特朗普近日公开表示，希望英伟达公司CEO黄仁勋在进行“大道歉”后重新担任该职务，尽管这一设想在现实中发生的可能性极低。",
+ "body": [
+  "美国总统唐纳德·特朗普（Donald Trump）近日公开语出惊人，他表示希望英伟达（Nvidia Corp.）CEO黄仁勋（Jensen Huang）在做出“大道歉”后，能重新回到英伟达担任CEO的位置。不过，媒体普遍认为这一设想在现实中发生的可能性微乎其微。",
+  "这番言论一出立刻引发了外界的关注。作为全球人工智能芯片领头羊的掌门人，黄仁勋在科技界的影响力举足轻重，特朗普此番表态也迅速成为各大论坛和社群热议的话题。",
+  "虽然这更像是一场政治人物与科技巨头之间的隔空喊话，但对于关注美股和科技板块的海外华人来说，英伟达作为许多人投资组合和科技职业生涯的风向标，其高层的任何风吹草动都牵动着大家的神经。"
+ ],
+ "tags": [
+  "特朗普",
+  "黄仁勋",
+  "英伟达",
+  "科技新闻",
+  "美股"
+ ],
+ "original_title": "Trump Says Huang Should Return as Nvidia CEO After ‘Big Apology’",
+ "lang": "en",
+ "published": "2026-11-20T18:38:33+00:00",
+ "created": "2026-11-20T18:53:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

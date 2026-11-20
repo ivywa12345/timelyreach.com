@@ -1,0 +1,26 @@
+{
+ "key": "68462d8b8e",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/indian-man-sentenced-to-19-years-for-plot-to-kill-sikh-activist",
+ "title": "策划在美谋杀锡克教维权人士，印度男子被判19年！",
+ "summary": "一名印度男子因承认参与2023年在纽约谋杀一名锡克教维权人士的未遂阴谋，被判处19多年监禁。",
+ "body": [
+  "一名印度男子因为参与2023年策划在纽约谋杀一名锡克教维权人士的阴谋，近日被判处了 **超过19年** 的有期徒刑。此前，该男子已在法庭上承认了自己的罪行。",
+  "这起暗杀阴谋发生在2023年，目标是一名居住在纽约的锡克教维权人士。好在这一谋杀计划最终被成功挫败，没有造成人员遇害，但事件背后的跨国暗杀图谋引发了广泛关注。",
+  "对于在海外生活的华人和其他少数族裔移民来说，这类涉及外国政府指使的跨境执法或暴力冲突事件，往往会让人对社区的安全感和人身保障产生担忧。维护美国本土的法治与安全，也是所有海外居民共同关注的话题。"
+ ],
+ "tags": [
+  "纽约",
+  "联邦判刑",
+  "安全隐患",
+  "海外治安"
+ ],
+ "original_title": "Indian Man Gets 19 Years for Plot to Kill Sikh Activist",
+ "lang": "en",
+ "published": "2026-11-20T17:02:05+00:00",
+ "created": "2026-11-20T18:51:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

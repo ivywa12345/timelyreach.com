@@ -1,0 +1,34 @@
+{
+ "key": "deadf4694f",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/science/did-claude-just-solve-maths-most-famous-problem-even-anthropics-mathematician-admits-timing",
+ "title": "AI封神？Anthropic数学家宣称和Claude攻克百年数学世纪难题！",
+ "summary": "Anthropic公司员工、数学家Levent Alpöge宣布，他与AI助手Claude共同找到了黎曼猜想（Riemann Hypothesis）的证明。这是一个自1859年以来一直悬而未决、悬赏100万美元的数学千禧年难题。目前外界数学家尚未验证该结果，且公布时机正好赶上Anthropic上市前后。",
+ "body": [
+  "AI界和数学界近日迎来了震撼弹。AI公司Anthropic的数学家莱文特·阿尔珀格（Levent Alpöge）在上周五宣布，他与AI助手Claude联手找到了**黎曼猜想**的证明。这个自1859年起就困扰无数天才、作为克雷数学研究所（Clay Mathematics Institute）七大**100万美元**“千禧年大奖难题”之一的数学高峰，可能被人工智能推平了。",
+  "## 抛弃传统论文改用代码验证",
+  "莱文特·阿尔珀格（Levent Alpöge）并没有像传统学者那样写一篇长篇大论，而是直接在个人网站上发布了用Lean语言编写的证明过程，总共被分割成14个可下载的压缩包。Lean是一种能让计算机对每一步论证进行严格校验的编程语言。他透露，自己曾尝试过把推导过程写成传统文章，结果一不小心打出了**250,000多页**的宏伟巨著，实在无法阅读，干脆只提供Lean代码。截至上周五，还没有外部数学家对这一结果进行背书，数论专家们还需要进一步确认代码最终得出的定理确实就是黎曼猜想。",
+  "## AI飞跃冲刺让数学家大跌眼镜",
+  "在谈到与AI的合作时，阿尔珀格（Levent Alpöge）坦言自己从学生时代起就一直在琢磨这个难题，而Claude在冲刺阶段的表现远远超出了他的想象。他负责给AI指明研究方向，而Claude则给出了让数学家们惊掉下巴的关键步骤——一长串由“theta提升”组成的链条。Claude甚至自己整理了一份时间线，从10月6日的“斯捷帕诺夫行列式（Stepanov determinant）”一路推进到11月16日，最终条目赫然写着“GRH（广义黎曼猜想）”。",
+  "> “Claude和我最近几个月合作得非常愉快，但这次在终点线附近，Claude远远跑在了我前面。不，Claude在终点线附近飞翔、跳舞、闪闪发光。”——莱文特·阿尔珀格（Levent Alpöge）",
+  "## 为什么这个数学难题如此重要",
+  "黎曼猜想关乎质数（素数）在数轴上的分布规律。以头一万亿个整数为例，标准公式预测大约有376亿个质数，误差仅为38,262个。如果这个证明站得住脚，数学家们将获得一个强有力的保证，甚至连大到无法通过人工数出来的数字，其质数估算的误差范围也能被死死锁定。对Anthropic公司而言，更大的意义在于证明了Claude确实贡献了原创性的突破思路。不过，想要拿到这笔奖金还有很长的路要走：根据克雷数学研究所的规则，解决方案必须在合格期刊上发表，等待至少两年，并赢得全球数学界的普遍认可才行。",
+  "## 时间尴尬与未来展望",
+  "值得一提的是，这一重磅消息发布的时机非常微妙，正值Anthropic上市交易后股价走势疲软之际。阿尔珀格（Levent Alpöge）在备注中坦言这个时间点“糟糕透顶”，并表示完全是自己一意孤行选择在此时公开。至于预测市场Polymarket上，目前赌今年年底前官方正式宣布黎曼猜想被攻克的概率仅为26%。阿尔珀格（Levent Alpöge）最后表示，他接下来会好好把论证过程精简并写出来，并深信这只是科学上某个更伟大黎明的开始。"
+ ],
+ "tags": [
+  "人工智能",
+  "数学难题",
+  "黎曼猜想",
+  "Anthropic",
+  "Claude"
+ ],
+ "original_title": "Did Claude Just Solve Math's Most Famous Problem? Even Anthropic's Mathematician Admits The Timing Is 'Horrible'",
+ "lang": "en",
+ "published": "2026-11-20T17:15:00+00:00",
+ "created": "2026-11-20T18:54:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

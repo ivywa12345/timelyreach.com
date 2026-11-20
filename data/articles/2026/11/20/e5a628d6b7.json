@@ -1,0 +1,25 @@
+{
+ "key": "e5a628d6b7",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/science-and-technology/2026/11/20/are-some-salts-healthier-than-others",
+ "title": "吃盐也有讲究？别再瞎买普通食盐了",
+ "summary": "经济学人探讨了不同种类的盐是否对健康有不同影响，结果发现这里面确实有不少学问。",
+ "body": [
+  "最近有文章探讨了一个大家天天都在关心的问题：有些盐真的比别的盐更健康吗？其实，这背后还真不是空穴来风。",
+  "很多人觉得盐不就是咸味吗，成分不都一样？但市面上的盐品种越来越多，从海盐、岩盐到各种低钠盐，它们的矿物质成分和加工方式其实各有不同。",
+  "对咱们海外华人来说，平时做饭离不开油盐酱醋。虽然各种盐的健康效应还需要更多科学验证，但在日常生活中适当注意用盐品质和摄入量，对心血管健康总归是没坏处的。"
+ ],
+ "tags": [
+  "健康饮食",
+  "生活常识",
+  "海外生活"
+ ],
+ "original_title": "Are some salts healthier than others?",
+ "lang": "en",
+ "published": "2026-11-20T16:01:15+00:00",
+ "created": "2026-11-20T18:51:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

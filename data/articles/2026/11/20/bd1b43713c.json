@@ -1,0 +1,26 @@
+{
+ "key": "bd1b43713c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/morgan-stanley-sees-aussie-riding-ai-storm-to-outperform-in-2027",
+ "title": "大摩预测：澳元2027年要靠AI逆袭？",
+ "summary": "摩根士丹利策略师Andrew Watrous预测，得益于人工智能基建的红利，澳元将在明年发达国家货币中脱颖而出，经受住股市抛售的考验。",
+ "body": [
+  "如果你最近在关注外汇市场，可能会觉得非美货币压力山大。不过，华尔街投行摩根士丹利（Morgan Stanley）的策略师安德鲁·沃特鲁斯（Andrew Watrous）给出了一个相当乐观的预测：**澳元有望在2027年迎来大爆发**，在一众发达国家货币中表现抢眼。",
+  "根据大摩的分析，澳元之所以能顶住近期全球股市抛售的压力，主要秘诀在于它能够乘上全球人工智能（AI）基础设施建设的东风。随着AI浪潮带动的资源和基建需求持续爆发，与大宗商品高度绑定的澳元将从中直接受益，展现出极强的抗跌能力和上升空间。"
+ ],
+ "tags": [
+  "摩根士丹利",
+  "澳元",
+  "人工智能",
+  "外汇市场",
+  "财经投资"
+ ],
+ "original_title": "Morgan Stanley Sees Aussie Riding AI Storm to Outperform in 2027",
+ "lang": "en",
+ "published": "2026-11-20T18:06:59+00:00",
+ "created": "2026-11-20T18:53:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

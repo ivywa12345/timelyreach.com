@@ -1,0 +1,29 @@
+{
+ "key": "018b1511ff",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/treasuries-eye-longest-rally-in-five-months-on-haven-demand",
+ "title": "AI概念股大跌，大批资金疯狂涌入美国国债避险！",
+ "summary": "由于市场对人工智能（AI）热潮产生怀疑并导致股市大跌，美国国债遭到投资者疯狂抢购，价格大幅飙升。",
+ "body": [
+  "最近科技股日子不好过，随着投资者对人工智能（AI）概念的怀疑情绪不断升温，股市应声下挫，大批资金慌忙寻找安全港，直接把美国国债（US Treasuries）买到价格飙升。",
+  "## 资金大举避险",
+  "彭博社（Bloomberg）记者 Victor Swezey 和 Elizabeth Stanton 报道称，这场市场震荡的导火索是投资者对AI相关交易的信心动摇，导致股市遭遇抛售。在这波恐慌情绪下，国债成了香饽饽，大批资金迅速涌入以求稳妥。",
+  "## 对华人的影响",
+  "对于咱们海外华人来说，这类金融市场的剧烈波动往往会直接影响到401(k)退休账户和日常投资组合的表现。科技股回调加上避险资产受捧，提醒我们在资产配置时还是要做好风险分散，别把鸡蛋放在同一个篮子里。"
+ ],
+ "tags": [
+  "美国国债",
+  "人工智能",
+  "股市大跌",
+  "避险资产",
+  "海外投资"
+ ],
+ "original_title": "Treasuries Rally as AI Selloff Sends Investors to Haven Assets",
+ "lang": "en",
+ "published": "2026-11-20T04:33:23+00:00",
+ "created": "2026-11-20T18:54:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

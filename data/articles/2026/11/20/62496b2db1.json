@@ -1,0 +1,26 @@
+{
+ "key": "62496b2db1",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+ "title": "美联储公布银行备付金调查结果，里面藏了哪些信息？",
+ "summary": "美联储发布了最新银行高级财务官调查结果，披露了各大银行在管理备付金余额、资产负债表规模以及货币市场活动等方面的策略与实践。",
+ "body": [
+  "美联储（Federal Reserve Board）在周五公布了一项针对各大银行高级财务官的专项调查结果，主要了解银行在管理备付金余额、资产负债表规模、存款余额以及货币市场活动等方面的最新策略和做法。",
+  "这项名为“高级财务官调查”（Senior Financial Officer Survey）的项目是由美联储与纽约联邦储备银行（Federal Reserve Bank of New York）合作开展的。调查时间为今年 **2026年9月18日至9月28日**。",
+  "参与此次调查的机构非常有代表性，其持有的备付金余额大约占到整个银行业总备付金的 **四分之三**。除了常规的资产负债表和存款预期外，调查还涉及了银行对周末及节假日运营等其他事项的看法，为美联储评估金融市场流动性提供了重要参考。"
+ ],
+ "tags": [
+  "美联储",
+  "银行备付金",
+  "金融市场",
+  "经济动态"
+ ],
+ "original_title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+ "lang": "en",
+ "published": "2026-11-20T15:00:00+00:00",
+ "created": "2026-11-20T18:52:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

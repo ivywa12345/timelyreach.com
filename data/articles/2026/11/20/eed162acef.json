@@ -1,0 +1,30 @@
+{
+ "key": "eed162acef",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/anthropic-mathematician-says-claude-has-solved-the-most-famous-problem-in-math-9361920b?mod=rss_Technology",
+ "title": "AI把数学界最大难题给解了？Anthropic员工爆料Claude立大功！",
+ "summary": "人工智能公司Anthropic的一名员工透露，AI助手Claude帮助发现了数学界悬决167年的“黎曼猜想”的证明，这一突破发生在该公司IPO的第二天。",
+ "body": [
+  "这几天数学界和科技圈可以说是炸开了锅。人工智能公司Anthropic的一名员工在社交媒体上爆料称，大模型Claude竟然协助人类攻克了困扰数学家整整 **167年** 的“黎曼猜想（Riemann hypothesis）”。更有意思的是，这个重大突破被发现的时间点，正好卡在Anthropic公司首次公开募股（IPO）的后一天。",
+  "## 黎曼猜想是个啥",
+  "说起这个黎曼猜想，它可是数学史上最著名的未解难题之一。自1859年由德国数学家波恩哈德·黎曼（Bernhard Riemann）提出以来，无数顶尖数学家在这道题上耗费了大量心血却始终无解。如果这次Claude真的帮人类把这个世纪难题给证出来了，绝对可以说是人工智能辅助科学研究史上的一个巨大里程碑。",
+  "## 离不开AI的硬实力",
+  "虽然目前官方还没有披露完整的技术细节和论文，但从Anthropic员工的透露来看，AI在处理复杂逻辑和海量数据方面的能力正在发生质的飞跃。这也让人不得不思考，当AI开始加速攻克基础科学难题时，未来的科技格局和知识生产方式都将发生翻天覆地的变化。",
+  "对于咱们海外华人来说，AI技术突飞猛进不仅意味着科技股的投资机会，更可能在未来彻底改变教育和高科技职场。说不定再过几年，辅导孩子高深数学作业的就不再是焦头烂额的家长，而是家里的AI助手了。"
+ ],
+ "tags": [
+  "人工智能",
+  "Anthropic",
+  "Claude",
+  "数学难题",
+  "黎曼猜想"
+ ],
+ "original_title": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math",
+ "lang": "en",
+ "published": "2026-11-20T17:28:00+00:00",
+ "created": "2026-11-20T18:52:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "bc8154c13f",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/russia-steps-up-attacks-on-kyivs-bridges-a5b8a8e8?mod=rss_worldnews",
+ "title": "俄军导弹猛砸基辅桥梁！这是在疯狂报复吗？",
+ "summary": "在乌克兰袭击了连接克里米亚与俄罗斯的关键桥梁后，俄罗斯对基辅的桥梁发动了新一轮导弹袭击。",
+ "body": [
+  "最近，乌克兰刚刚对连接克里米亚（Crimea）与俄罗斯的一座关键桥梁造成了破坏，紧接着，俄罗斯就展开了猛烈的报复行动。",
+  "根据《华尔街日报》（The Wall Street Journal）报道，俄罗斯近日对乌克兰首都基辅的桥梁发动了最新一轮导弹密集轰炸。这种报复性的军事升级，让当地的局势再度变得十分紧张。",
+  "这场持续的冲突不仅牵动着无数人的心，对于身处海外、关注国际局势的华人来说，地缘政治的持续动荡也让大家更加关注全球供应链、能源价格以及整体的安全走向。"
+ ],
+ "tags": [
+  "俄罗斯",
+  "乌克兰",
+  "基辅",
+  "克里米亚",
+  "导弹袭击"
+ ],
+ "original_title": "Russia Steps Up Attacks on Kyiv’s Bridges",
+ "lang": "en",
+ "published": "2026-11-20T13:34:00+00:00",
+ "created": "2026-11-20T18:54:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
