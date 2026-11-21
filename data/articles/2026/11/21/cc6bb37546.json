@@ -1,0 +1,25 @@
+{
+ "key": "cc6bb37546",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/americas/mexico-captures-top-drug-boss-in-fierce-gunfight-b16709ce?mod=rss_worldnews",
+ "title": "墨西哥特种部队激战后生擒大毒枭！",
+ "summary": "墨西哥特种部队在索诺拉州与毒贩激烈交火，成功抓获控制美墨边境关键走私通道的顶级毒枭法斯托·伊西德罗·梅萨·弗洛雷斯。",
+ "body": [
+  "墨西哥安全局势近日迎来重大进展，根据《华尔街日报》报道，墨西哥特种部队在与毒贩的一场激烈枪战后，成功抓获了顶级大毒枭法斯托·伊西德罗·梅萨·弗洛雷斯（Fausto Isidro Meza Flores）。",
+  "据了解，被捕的梅萨·弗洛雷斯长期盘踞在紧邻美国边境的索诺拉州（Sonora），牢牢控制着当地极其关键的毒品走私通道。此次特种部队的出击成功拔除了这一跨境犯罪的重要节点，对当地贩毒集团造成了沉重打击。"
+ ],
+ "tags": [
+  "墨西哥",
+  "大毒枭",
+  "边境安全",
+  "国际新闻"
+ ],
+ "original_title": "Mexico Captures Top Drug Boss in Fierce Gunfight",
+ "lang": "en",
+ "published": "2026-11-21T19:41:00+00:00",
+ "created": "2026-11-21T20:30:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

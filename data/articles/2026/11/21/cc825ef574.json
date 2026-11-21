@@ -1,0 +1,27 @@
+{
+ "key": "cc825ef574",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
+ "title": "华尔街慌了！AI热潮还能靠啥撑下去？",
+ "summary": "受英伟达CEO黄仁勋离职传闻及中期选举民主党大胜冲击，华尔街开始担忧人工智能板块的前景。",
+ "body": [
+  "最近美股市场可以说是遭遇了“连环暴击”，先是英伟达公司（Nvidia Corp.）的黄仁勋（Jensen Huang）意外离职风波，紧接着又是民主党在中期选举中获得决定性胜利，让整个股市在这个月过得相当艰难。",
+  "随着Anthropic引发的市场震动，华尔街的投资人们现在都在急切地追问一个问题：到底还有什么能拯救这波AI投资热潮？",
+  "对咱们海外华人投资者来说，科技股向来是资产配置的大头。AI板块如果持续震荡，大家的钱包和401(k)养老金难免受到波及。近期操作科技股时，建议多留个心眼，控制好风险，切勿盲目抄底。"
+ ],
+ "tags": [
+  "华尔街",
+  "美股",
+  "人工智能",
+  "英伟达",
+  "海外投资"
+ ],
+ "original_title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
+ "lang": "en",
+ "published": "2026-11-21T13:00:00+00:00",
+ "created": "2026-11-21T20:33:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

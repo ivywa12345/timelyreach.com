@@ -1,0 +1,27 @@
+{
+ "key": "f3a9e99456",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905?mod=rss_markets_main",
+ "title": "金价遭遇大跌！创下近15个月来新低",
+ "summary": "由于市场担心美联储将继续加息，黄金期货价格持续下挫，跌至2025年8月下旬以来的最低水平。",
+ "body": [
+  "近期国际金价遭遇重挫，黄金期货价格一路走低，跌到了近15个月来的谷底。这一轮金价的回落主要是因为市场普遍预计美联储（Federal Reserve）未来还会继续加息，高利率环境让黄金的吸引力大打折扣。",
+  "回顾近期的贵金属市场，由于通胀预期和货币政策走向的变化，投资者对黄金的信心受到冲击，抛售潮导致金价连续走低，创下了自2025年8月下旬以来的最差表现。",
+  "对于在美华人来说，美元走强和高利率不仅影响房贷和车贷，如今连避险资产金价也受到牵连。如果近期有打算投资贵金属或购买黄金饰品的朋友，需要密切关注美联储接下来的利率走向，看清市场风向再做打算。"
+ ],
+ "tags": [
+  "黄金价格",
+  "美联储加息",
+  "华尔街日报",
+  "投资理财",
+  "在美华人"
+ ],
+ "original_title": "Gold Falls to Nearly 15-Month Low On Interest-Rate Expectations",
+ "lang": "en",
+ "published": "2026-11-20T20:18:00+00:00",
+ "created": "2026-11-21T20:34:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

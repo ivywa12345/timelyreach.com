@@ -1,0 +1,25 @@
+{
+ "key": "a5eae47bc3",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/permitting-reform-bill-senate-congress-2b7f78eb?mod=rss_opinion",
+ "title": "参院通过环保审批改革，这回环保派咋没拦住？",
+ "summary": "华尔街日报社论指出，参议院近期在环保审批改革上取得意外进展，环保左翼未能成功阻挠。接下来，这项改革的命运将取决于众议院的表现。",
+ "body": [
+  "环保左翼这次在参议院吃瘪了。据《华尔街日报》编辑委员会（The Editorial Board）报道，这项备受关注的环保审批改革目前在参议院艰难过关，那些试图将其扼杀在摇篮里的环保势力竟然没能得逞。",
+  "现在，所有的目光都聚焦到了众议院（House）身上。这场关于项目审批的博弈能否最终落地，关键就看众议院接下来如何接招了。"
+ ],
+ "tags": [
+  "环保审批",
+  "美国国会",
+  "参议院",
+  "政策改革"
+ ],
+ "original_title": "It’s a Permitting Miracle in the Senate",
+ "lang": "en",
+ "published": "2026-11-20T22:54:00+00:00",
+ "created": "2026-11-21T20:31:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

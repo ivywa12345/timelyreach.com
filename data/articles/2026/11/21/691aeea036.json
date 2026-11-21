@@ -1,0 +1,27 @@
+{
+ "key": "691aeea036",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
+ "title": "买AI芯片太烧钱？高盛帮SpaceX搞定320亿美元大单",
+ "summary": "高盛集团与阿波罗全球管理公司为SpaceX定价了320亿美元的债券，用于资助其购买AI芯片，解决了科技公司筹资的一大难题。",
+ "body": [
+  "高盛集团（Goldman Sachs Group Inc.）花了纳闷一年多时间，终于帮科技界解决了一个让人头疼的大难题：如何在不把公司财务搞崩的前提下，掏钱买下昂贵的AI芯片。",
+  "根据彭博社报道，高盛联合阿波罗全球管理公司（Apollo）近日为马斯克的SpaceX定价了总额高达 **320亿美元** 的债券。这笔巨额资金将直接用于支持其购买AI芯片相关的大笔开销。",
+  "近年来，随着人工智能技术的爆发，算力背后的AI芯片成了各大巨头争夺的焦点。然而，天价的采购费用让许多公司的资产负债表吃不消，如何创新融资方式成了华尔街金融机构眼中的香饽饽。"
+ ],
+ "tags": [
+  "SpaceX",
+  "高盛",
+  "AI芯片",
+  "华尔街",
+  "科技融资"
+ ],
+ "original_title": "Goldman Sachs, Apollo Price $32 Billion SpaceX Bonds to Fund AI Chip Purchases",
+ "lang": "en",
+ "published": "2026-11-21T15:31:22+00:00",
+ "created": "2026-11-21T20:31:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

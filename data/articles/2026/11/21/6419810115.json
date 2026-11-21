@@ -1,0 +1,25 @@
+{
+ "key": "6419810115",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-edge-up-in-early-trading-2b513864?mod=rss_markets_main",
+ "title": "美国天然气期货价格回升，创下2月初以来新高",
+ "summary": "由于液化天然气（LNG）出口的强劲支撑，美国天然气期货价格从前一天的跌势中恢复，收盘创下2月初以来的最高水平。",
+ "body": [
+  "美国天然气期货价格在经历前一天的下跌后迅速反弹，收盘达到了自2月初以来的最高点。此次价格回升主要受到了液化天然气（LNG）出口需求的支撑。",
+  "对于关注能源账单和通胀的海外华人来说，天然气价格的波动往往直接关系到家庭的冷暖气开支以及整体物价水平，值得持续关注。"
+ ],
+ "tags": [
+  "天然气",
+  "期货市场",
+  "经济民生",
+  "能源"
+ ],
+ "original_title": "U.S. Natural Gas Futures Rise With Support From LNG Exports",
+ "lang": "en",
+ "published": "2026-11-20T22:04:00+00:00",
+ "created": "2026-11-21T20:32:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

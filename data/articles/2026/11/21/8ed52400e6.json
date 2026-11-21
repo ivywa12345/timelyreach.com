@@ -1,0 +1,28 @@
+{
+ "key": "8ed52400e6",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-21/mexico-arrests-sinaloa-drug-kingpin-on-fbi-s-most-wanted-list",
+ "title": "FBI十大通缉犯栽了！锡那罗亚贩毒集团头目在墨西哥落网",
+ "summary": "墨西哥安全部队近日逮捕了一名被FBI列为十大通缉犯之一的毒枭，此人涉嫌向美国走私毒品长达二十多年。",
+ "body": [
+  "据彭博社（Bloomberg）报道，墨西哥安全部队近日抓获了一名让美国执法部门头疼了二十多年的大毒枭。这名嫌疑人不仅是FBI（联邦调查局）通缉令上的“前十名”常客，还被指控长期向美国境内走私大量毒品。",
+  "## 危害持续二十年",
+  "墨西哥安全部队在这次行动中成功将这名大毒枭缉拿归案。根据美墨双方掌握的情报，该嫌疑人隶属于臭名昭著的锡那罗亚贩毒集团（Sinaloa Cartel），在过去超过二十年的时间里，一直从事将各类毒品走私进入美国的非法勾当，对美墨两国的治安造成了长期且严重的威胁。",
+  "## 跨境打击显成效",
+  "近年来，美墨两国在打击跨国贩毒集团方面持续保持合作。这名FBI头号通缉犯的落网，不仅是墨西哥执法部门的一次重大战果，也切断了一条长期向美国输送毒品的关键通道，对遏制跨国毒品犯罪具有重要意义。"
+ ],
+ "tags": [
+  "FBI通缉令",
+  "墨西哥",
+  "贩毒集团",
+  "治安"
+ ],
+ "original_title": "Mexico Arrests Sinaloa Drug Kingpin on FBI Most Wanted List",
+ "lang": "en",
+ "published": "2026-11-21T15:46:53+00:00",
+ "created": "2026-11-21T20:31:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

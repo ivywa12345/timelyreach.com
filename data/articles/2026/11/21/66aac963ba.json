@@ -1,0 +1,26 @@
+{
+ "key": "66aac963ba",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/personal-tech/cyber-scams-tech-outages-tips-a5500927?mod=rss_Technology",
+ "title": "系统崩溃时骗子最活跃？记住这招防被坑！",
+ "summary": "华尔街日报支招，面对利用系统故障实施的紧急诈骗信息，首要原则就是保持冷静、不要慌乱。",
+ "body": [
+  "最近各种网络和系统故障频发，骗子们也瞅准了这个时机，假借航班延误或服务中断的名义发送紧急信息行骗。《华尔街日报》专栏作家朱莉·贾贡（Julie Jargon）指出，面对这类突发状况，**千万不要慌乱**是保护自己的第一条铁律。",
+  "在出行或服务出现异常时，诈骗分子往往会利用人们急于解决问题的焦虑心理，通过钓鱼短信或假客服实施诈骗。华尔街日报提醒广大读者，收到此类急救信息时一定要多留一个心眼，切勿轻信陌生链接。",
+  "对于身在海外的华人来说，平时处理机票改签、账户异常等事务时更要提高警惕。建议直接通过官方App或官方客服电话核实情况，避免落入骗子的圈套，守好自己的钱包。"
+ ],
+ "tags": [
+  "防骗指南",
+  "网络安全",
+  "海外生活",
+  "华尔街日报"
+ ],
+ "original_title": "How to Protect Yourself From Scammers Exploiting Outage Chaos",
+ "lang": "en",
+ "published": "2026-11-21T16:00:00+00:00",
+ "created": "2026-11-21T20:31:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

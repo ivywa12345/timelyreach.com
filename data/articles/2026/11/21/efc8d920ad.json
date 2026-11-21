@@ -1,0 +1,27 @@
+{
+ "key": "efc8d920ad",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-21/trump-orders-contractors-to-get-approval-for-congress-queries",
+ "title": "特朗普下令：联邦承包商回应国会问询前必须先向白宫报备",
+ "summary": "特朗普总统签署了一项行政令，要求联邦承包商在回应国会关于通信内容的问询时，必须先通知白宫，此举正值民主党即将接管国会之际。",
+ "body": [
+  "随着民主党即将在新的一年接管国会，特朗普总统日前签署了一项新的行政命令，要求联邦承包商在答复国会关于其通信内容的任何问询之前，必须先获得白宫的批准并进行通知。",
+  "这一举动被视为白宫为应对即将到来的国会调查所做出的提前准备。根据新规，联邦政府的外部承包商在面对来自国会的质询和文件索取时，不能再直接配合，而是必须先过白宫这一关，将相关情况上报并获得通知许可。",
+  "对于身处海外的华人来说，美国联邦政府的行政动作和国会权力更迭往往会影响到相关的政府预算、科技投入以及宏观经济政策走向。后续民主党掌控的国会将如何利用调查权向行政机构施压，值得持续关注。"
+ ],
+ "tags": [
+  "特朗普",
+  "美国国会",
+  "白宫",
+  "政治新闻",
+  "联邦承包商"
+ ],
+ "original_title": "Trump Orders Contractors to Get Approval for Congress Queries",
+ "lang": "en",
+ "published": "2026-11-21T18:41:20+00:00",
+ "created": "2026-11-21T20:33:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

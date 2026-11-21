@@ -1,0 +1,30 @@
+{
+ "key": "8361df2178",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/nestle-teams-up-with-microsoft-boston-dynamics-on-ai-in-factories-and-products-05bfb028?mod=rss_Technology",
+ "title": "雀巢要放大招！携手谷歌微软打造“无人化”黑灯工厂",
+ "summary": "雀巢宣布在瑞士建立全新的“深科技”设施，利用人工智能、智能传感器和机器人技术全面提升运营效率，并正与科技巨头谷歌和微软展开合作。",
+ "body": [
+  "全球食品巨头雀巢（Nestle）最近有了新动作，他们正准备把自家的生产线升级成全自动模式，并拉上了科技圈的大佬谷歌（Google）和微软（Microsoft）一起搞事情。",
+  "## 瑞士新建高科技研发基地",
+  "根据《华尔街日报》报道，雀巢目前正在瑞士筹建一座全新的“深科技”（Deep Tech）设施。这个基地可不是普通的车间，而是集成了人工智能（AI）、智能传感器和先进机器人技术的现代化实验室，核心目的就是为了大幅提升工厂的生产和运营效率。",
+  "## 牵手科技巨头布局未来",
+  "在这场技术升级中，雀巢并没有闭门造车，而是选择了与谷歌和微软这两家科技巨头结为合作伙伴。借助这些外部顶尖的技术力量，雀巢希望能够把前沿的AI和自动化技术真正落地到食品饮料的制造环节中。",
+  "对于咱们海外华人消费者来说，大企业通过科技创新来降低生产成本、提高供应链效率，长远来看不仅能帮企业应对通胀压力，也可能让货架上的产品保持更加稳定的品质和价格。"
+ ],
+ "tags": [
+  "雀巢",
+  "人工智能",
+  "谷歌",
+  "微软",
+  "海外商业"
+ ],
+ "original_title": "Nestle Eyes Autonomous Factory Lines and Looks to Google, Microsoft as Partners",
+ "lang": "en",
+ "published": "2026-11-20T17:01:00+00:00",
+ "created": "2026-11-21T20:33:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

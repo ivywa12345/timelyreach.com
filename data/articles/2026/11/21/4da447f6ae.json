@@ -1,0 +1,26 @@
+{
+ "key": "4da447f6ae",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/energy-oil/oil-prices-edge-higher-as-traders-assess-middle-east-shipping-risks-supply-outlook-faf8f60a?mod=rss_markets_main",
+ "title": "油价连跌三周！中东局势紧绷，原油到底怎么了？",
+ "summary": "由于全球供应前景改善，尽管周五有所收盘上涨，国际原油期货依然遭遇了连续第三周下跌。",
+ "body": [
+  "原油期货在周五（当地时间）虽然小幅收高，但拉长时间线来看，依然没能逃脱下跌的命运，**连续第三周录得周线跌幅**。市场目前正在权衡不断改善的全球供应状况，以及中东地区石油运输持续面临的安全威胁。",
+  "这次油价下跌的背后，主要是市场对全球原油供应前景的预期发生了变化。虽然中东地区的动荡局势一直让人捏一把汗，海运航线也面临风险，但整体供应改善的信号最终占据了上风，导致油价在过去三周里持续承压下行。",
+  "对于海外华人朋友来说，国际油价的连续走低通常是一个好消息。这意味着接下来的汽油价格有望保持相对平稳甚至有所回落，大家的日常通勤和自驾出游的油费开支有望进一步减轻，钱包能稍微松一口气了。"
+ ],
+ "tags": [
+  "油价",
+  "国际原油",
+  "华尔街日报",
+  "海外生活"
+ ],
+ "original_title": "Oil Futures Fall for Third Straight Week on Supply Outlook",
+ "lang": "en",
+ "published": "2026-11-20T21:16:00+00:00",
+ "created": "2026-11-21T20:34:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
