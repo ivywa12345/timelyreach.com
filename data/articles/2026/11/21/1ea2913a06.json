@@ -1,0 +1,22 @@
+{
+ "key": "1ea2913a06",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "unusual_whales",
+ "source_url": "https://x.com/unusual_whales/status/2123939905999138932",
+ "title": "（未证实）CrowdStrike洽购Zscaler",
+ "summary": "据彭博社报道，CrowdStrike（CRWD）正在洽谈收购Zscaler（ZS），该消息尚未得到证实。",
+ "body": [
+  "据彭博社报道，CrowdStrike（CRWD）正在洽谈收购Zscaler（ZS），该消息尚未得到证实。"
+ ],
+ "tags": [
+  "并购",
+  "美股"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-21T00:41:49+00:00",
+ "created": "2026-11-21T19:49:40+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

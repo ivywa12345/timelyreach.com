@@ -1,0 +1,24 @@
+{
+ "key": "430d8f2869",
+ "board": "news",
+ "source_id": "inbox",
+ "source_name": "The Kobeissi Letter",
+ "source_url": "https://x.com/KobeissiLetter/status/2123979189405487585",
+ "title": "FBI全国犯罪数据库遭黑客入侵（据CNN报道）",
+ "summary": "据美国有线电视新闻网（CNN）报道，美国联邦调查局（FBI）的全国犯罪数据库在一场“重大网络安全漏洞”事件中遭到黑客入侵。",
+ "body": [
+  "突发：美国联邦调查局（FBI）的全国犯罪数据库在一场“重大网络安全漏洞”事件中遭到黑客入侵，据美国有线电视新闻网（CNN）报道。",
+  "被黑的数据库包含全国范围的刑事逮捕令、被盗财产和背景调查信息。",
+  "这发生在一系列其他停摆和黑客事件之后，过去10天里已发生多起。"
+ ],
+ "tags": [
+  "网络安全",
+  "美国"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-21T03:17:55+00:00",
+ "created": "2026-11-21T19:49:40+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
