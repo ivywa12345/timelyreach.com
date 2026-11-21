@@ -1,0 +1,26 @@
+{
+ "key": "7dc8df6ced",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/the-astonishing-wealth-of-anthropic-a6bb9746?mod=rss_markets_main",
+ "title": "英伟达刚折腾完，投资者转头就给这家AI巨头送钱？",
+ "summary": "华尔街日报发表社论指出，尽管市场近期对英伟达等AI相关股票的波动感到担忧，但投资者对人工智能初创公司Anthropic的热情丝毫不减，其惊人的财富实力引发关注。",
+ "body": [
+  "近期科技股市场经历了一波由英伟达（Nvidia）引发的震荡，外界对人工智能泡沫的质疑声也随之而来。不过，投资者似乎并未被这些杂音吓退，把目光投向了AI领域的其他巨头，其中初创公司Anthropic更是展现出了惊人的吸金能力和财富规模。",
+  "根据《华尔街日报》（The Wall Street Journal）编辑委员会的分析，市场对AI技术的长期前景依然充满信心。虽然芯片巨头的波动让部分人捏了一把汗，但资本仍在疯狂涌入像Anthropic这样站在技术前沿的AI企业，推高了其市场估值。",
+  "对咱们海外华人来说，AI行业的持续火爆意味着什么？一方面，人工智能相关的投资机会依然滚烫，但随之而来的市场波动也可能直接影响到大家的投资组合和401(k)养老金账户；另一方面，AI浪潮正在深刻改变科技和金融格局，相关领域的就业和创业机会依然值得关注。"
+ ],
+ "tags": [
+  "Anthropic",
+  "人工智能",
+  "美股投资",
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | The Astonishing Wealth of Anthropic",
+ "lang": "en",
+ "published": "2026-11-20T00:50:00+00:00",
+ "created": "2026-11-21T03:16:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "592dbb8cbf",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/alerts/dhs-terminates-temporary-protected-status-for-cameroon",
+ "title": "喀麦隆移民注意！美国取消TPS临时保护身份",
+ "summary": "美国国土安全部宣布正式终止喀麦隆公民的临时保护身份（TPS），该决定将于2025年8月4日正式生效。",
+ "body": [
+  "美国国土安全部（DHS）近日在《联邦公报》上发布通知，宣布正式终止喀麦隆公民的临时保护身份（TPS）。国土安全部部长克里斯蒂·诺姆（Kristi Noem）在评估了该国最新局势并与相关跨部门伙伴协商后，认为喀麦隆目前的情况已不再符合实施临时保护身份的法定要求。",
+  "根据官方通知，喀麦隆的TPS身份指定将于**2025年8月4日**正式终止，即联邦公报通知发布60天后。美国移民局（USCIS）表示，相关外国公民在身份终止后，可以通过CBP Home应用程序报告自愿离境美国。有关TPS的更多详细信息，公众可访问uscis.gov/tps查询。"
+ ],
+ "tags": [
+  "美国移民",
+  "TPS",
+  "喀麦隆",
+  "移民局"
+ ],
+ "original_title": "DHS Terminates Temporary Protected Status for Cameroon",
+ "lang": "en",
+ "published": "2025-06-03T16:04:18+00:00",
+ "created": "2026-11-21T03:14:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

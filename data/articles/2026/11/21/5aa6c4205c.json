@@ -1,0 +1,26 @@
+{
+ "key": "5aa6c4205c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/el-salvador-troops-killed-in-haiti-blast-after-rescue-deployment",
+ "title": "萨尔瓦多士兵出海地救援，遭遇爆炸不幸身亡",
+ "summary": "两名萨尔瓦多士兵在海地执行救援任务时遭遇爆炸身亡。此前，萨尔瓦多总统布克尔刚派出一支大规模部队前往加勒比岛国搜寻失踪人员。",
+ "body": [
+  "两名来自萨尔瓦多的士兵在海地执行任务时，因遭遇爆炸不幸身亡。这场悲剧发生在萨尔瓦多总统纳伊布·布克尔（Nayib Bukele）下令向该加勒比岛国派遣大量部队搜寻失踪士兵的几周之后。",
+  "此前，萨尔瓦多总统布克尔为了寻找失踪人员，派遣了一支规模庞大的特遣队前往局势动荡的海地。然而，这次旨在救援的军事部署却演变成了致命事故。",
+  "截至目前，官方尚未公布关于此次爆炸事件的更多细节，遇难士兵的具体身份及救援行动的后续安排也仍在进一步确认中。"
+ ],
+ "tags": [
+  "萨尔瓦多",
+  "海地",
+  "军事救援",
+  "突发新闻"
+ ],
+ "original_title": "El Salvador Troops Killed in Haiti Blast After Rescue Deployment",
+ "lang": "en",
+ "published": "2026-11-20T23:08:54+00:00",
+ "created": "2026-11-21T03:12:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

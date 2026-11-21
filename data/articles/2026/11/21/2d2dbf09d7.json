@@ -1,0 +1,27 @@
+{
+ "key": "2d2dbf09d7",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels",
+ "title": "史上最大AI IPO降温！Anthropic上市首日大涨后回落8.5%",
+ "summary": "创下史上最大规模IPO记录的AI初创公司Anthropic PBC在周五遭遇回撤，股价从首日暴涨的高位回落8.5%，引发市场对AI板块热潮是否能持续的讨论。",
+ "body": [
+  "刚刚缔造了史上最大规模首次公开募股（IPO）的AI独角兽Anthropic PBC，在周五迎来了市场的冷静期。该公司股价在上市首日大涨后回落了 **8.5%**，这让不少投资者开始重新掂量对当前人工智能板块的投资信心。",
+  "回顾这次历史级的IPO，Anthropic PBC在资本市场上备受瞩目，一度创下了人工智能企业融资的新纪录。然而，上市后的迅速回调表明，即便是最火热的AI概念股，也无法完全避开市场情绪的波动和投资者的获利回吐压力。",
+  "对于关注科技股和AI投资的海外华人来说，这次股价震荡再次提醒大家，科技板块虽然长期前景广阔，但短期波动风险不容忽视。在资金疯狂追逐AI热潮的同时，保持理性的资产配置和风险管理依然是保护钱包的关键。"
+ ],
+ "tags": [
+  "Anthropic",
+  "IPO",
+  "人工智能",
+  "美股投资",
+  "科技股"
+ ],
+ "original_title": "Anthropic Slides 8.5% to Shrink IPO Gain as AI Trade Unravels",
+ "lang": "en",
+ "published": "2026-11-20T14:36:49+00:00",
+ "created": "2026-11-21T03:14:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

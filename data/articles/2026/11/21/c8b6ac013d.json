@@ -1,0 +1,25 @@
+{
+ "key": "c8b6ac013d",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/europe/france-riots-race-colorblind-1a87e24d?mod=rss_worldnews",
+ "title": "法国长期的“禁忌”被撕开：骚乱能逼他们正视种族问题吗？",
+ "summary": "法国长期以来对“种族”话题讳莫如深，但近期发生的骚乱可能成为法国社会转变观念的契机，迫使其寻找新方法来应对长期隐患。",
+ "body": [
+  "法国长期以来一直拒绝公开讨论种族问题，然而最近的社会骚乱，正成为法国人反思这一政策的清醒剂，或许会促使他们采取全新的应对方法。",
+  "长期以来，法国秉持独特的共和价值观，官方不按种族或族裔对国民进行分类或讨论，将其视为维护平等的一种方式。但面对骚乱中的相互指责，这种长久以来的政治禁忌正在被现实撕裂，社会各界开始探讨是否需要正视这一底层痛点。"
+ ],
+ "tags": [
+  "法国骚乱",
+  "种族问题",
+  "海外观察",
+  "社会热点"
+ ],
+ "original_title": "The Political Taboo Tearing France Apart",
+ "lang": "en",
+ "published": "2026-11-21T01:00:00+00:00",
+ "created": "2026-11-21T03:13:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

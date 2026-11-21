@@ -1,0 +1,27 @@
+{
+ "key": "3dc17f4c74",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nasdaq-turns-red-for-the-year-46ad8118?mod=rss_markets_main",
+ "title": "纳斯达克今年居然转绿了？美股这波跳水有点猛",
+ "summary": "根据华尔街日报最新报道，纳斯达克指数今年以来已经转为下跌，同时人工智能公司Anthropic出现回落，美国国债收益率也大幅跳水。",
+ "body": [
+  "美股投资者最近可能感觉钱包有点紧。根据《华尔街日报》(The Wall Street Journal) 的最新报道，纳斯达克指数今年以来的涨幅已经全部吐回，**正式转为下跌**。与此同时，备受关注的人工智能公司 Anthropic 也出现回落，而美国国债收益率更是经历了大幅跳水。",
+  "市场行情的突然变脸让不少华人股民捏了一把汗。近期科技股板块波动加剧，除了纳斯达克表现疲软外，热门 AI 独角兽 Anthropic 的股价或估值回调也牵动着投资者的神经。另一方面，国债收益率的急剧下跌往往暗示着市场对宏观经济走势的担忧在加深，资金正在疯狂寻找避险资产。",
+  "对于在美华人来说，这种金融市场的剧烈震荡直接关系到个人的投资组合、养老金账户以及未来的贷款利率走势。在股市波动和经济前景不明朗的大环境下，大家在资产配置上可能需要更加谨慎，密切关注美联储的下一步动作以及科技股的整体走向。"
+ ],
+ "tags": [
+  "美股",
+  "纳斯达克",
+  "Anthropic",
+  "国债收益率",
+  "华尔街"
+ ],
+ "original_title": "Nasdaq Turns Red For The Year",
+ "lang": "en",
+ "published": "2026-11-20T21:50:00+00:00",
+ "created": "2026-11-21T03:13:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "5a67381010",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+ "title": "金价创3月以来最惨一周！美联储放鹰加上AI板块崩盘砸盘",
+ "summary": "由于美联储释放继续加息的鹰派信号，加上AI股票大跌引发金属市场抛售，黄金价格连续第五天下跌，创下3月以来的最大单周跌幅。",
+ "body": [
+  "受美联储立场强硬以及科技股大跌拖累，黄金市场遭遇重创，**创下了自3月以来表现最差的一周**，金价连续第五个交易日下滑。",
+  "这次黄金遭到抛售的主要原因有两个：一是美联储（Federal Reserve）释放了可能还会继续加息的鹰派信号，打压了市场预期；二是近期AI股票遭遇重挫，引发了整个金属市场的连锁抛售潮。对在美华人来说，美联储若继续维持高利率，不仅会让贷款、买房和信用卡利息居高不下，也会让资产配置的波动变得更加剧烈。"
+ ],
+ "tags": [
+  "黄金价格",
+  "美联储",
+  "加息",
+  "AI股票",
+  "金融市场"
+ ],
+ "original_title": "Gold Logs Worst Week Since March on Hawkish Fed, AI Selloff",
+ "lang": "en",
+ "published": "2026-11-19T23:56:03+00:00",
+ "created": "2026-11-21T03:15:30+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

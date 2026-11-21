@@ -1,0 +1,26 @@
+{
+ "key": "1972f58deb",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/why-are-the-houthis-so-hard-for-saudi-arabia-to-defeat",
+ "title": "停火四年后，沙特为何还是打不过也门胡塞武装？",
+ "summary": "在经历四年相对平静期后，也门胡塞武装与沙特支持的也门政府之间的战火再次重燃，引发国际关注。",
+ "body": [
+  "在经历了四年的相对平静期后，也门胡塞武装（Houthis）与也门国际承认政府及其背后支持者沙特阿拉伯（Saudi Arabia）之间的战火再次重燃。",
+  "这场冲突的核心在于胡塞武装与沙特领导的联军之间长期的对抗。尽管沙特拥有强大的军事实力，但要在复杂的地区环境中彻底击败这支民兵武装始终面临巨大挑战。",
+  "对于海外华人而言，中东局势的再度动荡可能会对国际原油价格、全球供应链以及地缘政治安全产生连锁反应，进而间接影响到大家的能源开支和宏观经济环境。"
+ ],
+ "tags": [
+  "中东局势",
+  "沙特阿拉伯",
+  "胡塞武装",
+  "也门内战"
+ ],
+ "original_title": "Why Are the Houthis So Hard for Saudi Arabia to Defeat?",
+ "lang": "en",
+ "published": "2026-11-20T22:15:04+00:00",
+ "created": "2026-11-21T03:14:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

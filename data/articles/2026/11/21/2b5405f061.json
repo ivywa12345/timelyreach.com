@@ -1,0 +1,26 @@
+{
+ "key": "2b5405f061",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/tech-breakdowns-flights-cyber-security-f6ab51fd?mod=rss_Technology",
+ "title": "万物互联的时代，为什么我们感觉“到处都在坏”？",
+ "summary": "华尔街日报专栏作家乔尔·斯坦（Joel Stein）指出，我们曾极力追求一个高度互联的世界，但如今不得不承担它带来的种种脆弱与故障。",
+ "body": [
+  "我们曾经做梦都想要一个万物互联的世界，把家里的一切都接入网络，让生活变得更聪明、更便捷。但现实是，当所有东西都连在一起时，只要有一个环节出问题，整条链条就会跟着崩塌，让我们不得不开始面对这个“万物皆可坏”的新时代。",
+  "## 现代生活的脆弱面",
+  "从智能家居到公共基础设施，高度的互连性意味着更高的效率，但也带来了巨大的隐患。过去一个电器坏了只是它本身不能用，而现在，一个网络故障、服务器宕机或是系统漏洞，就可能让整栋房子、甚至整个社区的日常生活陷入瘫痪。",
+  "在这场技术狂欢中，普通人成了最大的承受者。我们享受了互联带来的便利，却也失去了传统生活方式的兜底保障。当一切都依赖云端和代码时，我们离彻底的失控其实只有一步之遥。"
+ ],
+ "tags": [
+  "万物互联",
+  "科技反思",
+  "现代生活"
+ ],
+ "original_title": "How to Survive the Coming Age of Everything Breaking",
+ "lang": "en",
+ "published": "2026-11-21T00:00:00+00:00",
+ "created": "2026-11-21T03:14:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

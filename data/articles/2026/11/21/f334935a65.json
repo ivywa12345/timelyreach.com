@@ -1,0 +1,28 @@
+{
+ "key": "f334935a65",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1?mod=rss_markets_main",
+ "title": "AI巨头Anthropic上市就遭遇滑铁卢，华尔街开始甩锅了？",
+ "summary": "人工智能巨头Anthropic在上市第二天股价持续走低，一度跌至仅比IPO发行价高出5美分的位置，引发市场广泛关注与各方指责。",
+ "body": [
+  "人工智能巨头Anthropic（Anthropic）的股票在上市后的第二个交易日遭遇大跌，盘中一度险些跌破发行价，只比IPO价格高出5美分，引发了市场关于谁该为此负责的争论。",
+  "## 股价惊险保卫战",
+  "这次剧烈的市场波动发生在Anthropic上市的头两天。作为备受瞩目的AI独角兽，其交易表现远不如预期平稳，开盘后的走势让不少投资者捏了一把汗，甚至一度逼近发行价。",
+  "随着股价在大起大落中挣扎，市场上的各方利益相关者开始互相推卸责任，寻找这次波折背后的“背锅侠”。目前，这场关于股价动荡的“甩锅大战”才刚刚拉开序幕，未来走势仍有待观察。",
+  "对于关注科技股和海外投资的华人朋友来说，AI概念股的泡沫与波动风险再次敲响了警钟。在资本市场追逐热点时，盲目跟风高估值的次新股可能会对个人投资者的钱包造成不小的冲击。"
+ ],
+ "tags": [
+  "Anthropic",
+  "美股",
+  "人工智能",
+  "IPO"
+ ],
+ "original_title": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
+ "lang": "en",
+ "published": "2026-11-21T02:16:00+00:00",
+ "created": "2026-11-21T03:12:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

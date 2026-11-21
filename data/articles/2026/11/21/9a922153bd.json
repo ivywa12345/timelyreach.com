@@ -1,0 +1,28 @@
+{
+ "key": "9a922153bd",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/20/us-news/woman-62-found-dead-with-neck-trauma-in-nyc-apartment-building/",
+ "title": "曼哈顿华埠发生命案：62岁女子颈部受伤倒地身亡，警方当场带走一人",
+ "summary": "纽约市曼哈顿下城一栋公寓楼内周五下午发生一起命案，一名62岁女子被发现颈部有伤、失去意识当场宣告死亡，警方在现场带走了一名涉案人员，目前案件仍在调查中。",
+ "body": [
+  "周五下午，曼哈顿下城（Lower Manhattan）唐人街附近的一栋公寓楼内发生了一起命案，一名62岁女子被发现倒在屋内，颈部有明显伤痕，不幸身亡。警方目前已经带走了一名涉案人员（person of interest）进行调查。",
+  "纽约市警察局（NYPD）表示，警方是在下午3点22分左右接到911报警电话，赶到位于凯瑟琳街27号（27 Catherine St.）的案发地点。警员进入房间时，发现这名女子处于无意识、无反应状态。随后赶到的急救人员在现场正式宣告她死亡。",
+  "## 案件仍在调查中",
+  "截至周五晚间，由于警方还在联系死者家属，死者的姓名暂未向公众公布。纽约市首席法医办公室（Office of the Chief Medical Examiner）将通过尸检来确定具体的死事原因。警方表示，虽然现场有一名涉案人员被警方控制并带走，但截至周五晚，警方尚未正式对其提出刑事起诉，案件还在进一步侦办中。",
+  "这起悲剧发生在华埠周边的住宅楼内，对于在纽约生活和居住在公寓楼的华人朋友来说，平时出入一定要注意陌生人尾随，切实提高居家和社区的安全防范意识。"
+ ],
+ "tags": [
+  "纽约治安",
+  "曼哈顿华埠",
+  "突发新闻",
+  "海外安全"
+ ],
+ "original_title": "Woman found dead with neck trauma in NYC apartment building as police arrest person of interest",
+ "lang": "en",
+ "published": "2026-11-21T02:21:54+00:00",
+ "created": "2026-11-21T03:16:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

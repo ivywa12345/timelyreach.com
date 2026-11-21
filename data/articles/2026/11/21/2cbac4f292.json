@@ -1,0 +1,29 @@
+{
+ "key": "2cbac4f292",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/why-china-wants-to-control-a-yacht-maker-69ca60c7?mod=rss_markets_main",
+ "title": "中国国企悄悄买下意大利豪华游艇厂，西方这下坐不住了？",
+ "summary": "华尔街日报发表评论文章，以意大利豪华游艇制造商法拉帝集团为例，探讨了西方国家在审查外国战略投资时的漏洞与隐忧。",
+ "body": [
+  "最近，意大利著名豪华游艇制造商法拉帝集团（Ferretti Group）的故事，在外媒上引起了热议。这起收购案看似只是一场商业投资，却直接戳中了西方国家在防范外国对手投资时的软肋。",
+  "## 暴露了哪些投资漏洞",
+  "法拉帝集团原本是意大利的骄傲，但后来被中国企业控股。这不仅引发了外界对高端制造领域所有权转移的关注，也让西方监管机构开始重新审视现有的外资审查机制到底够不够严密。",
+  "## 对海外华人的影响",
+  "对于身在海外的华人来说，这类地缘政治和投资审查的新动向可能会间接影响到中资企业在海外的营商环境，甚至对相关行业的就业和投资带来更多的合规压力。"
+ ],
+ "tags": [
+  "法拉帝集团",
+  "意大利游艇",
+  "外资审查",
+  "海外投资",
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | Why China Wants to Control a Yacht Maker",
+ "lang": "en",
+ "published": "2026-11-20T23:11:00+00:00",
+ "created": "2026-11-21T03:15:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "1777f46414",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/fiber-network-operator-zayo-delays-public-abs-sale-until-2027",
+ "title": "光纤巨头突然急刹车：公开发行债券推迟到2027年！",
+ "summary": "光纤网络运营商Zayo集团决定推迟其资产支持证券（ABS）的公开市场发行计划至2027年，不过私下发行的部分仍将按原计划推进。",
+ "body": [
+  "知情人士透露，光纤网络运营商Zayo集团控股公司（Zayo Group Holdings Inc.）正在调整其融资步伐，决定将计划中的资产支持证券（ABS）公开市场发行部分推迟到2027年，但私下发售（Private Placement）的部分将继续推进。",
+  "## 融资计划生变",
+  "这次调整意味着资本市场对特定债券的公开募资反应可能不如预期，迫使企业不得不分步走，先通过私下发行来解决资金需求，再把公开亮相的时间表往后顺延。",
+  "对于关注科技基建和债券市场的投资人来说，这也反映出当前大环境下的融资成本和市场窗口期仍在发生变化。"
+ ],
+ "tags": [
+  "Zayo",
+  "债券发行",
+  "华尔街",
+  "金融市场"
+ ],
+ "original_title": "Fiber Network Operator Zayo Delays Public ABS Sale Until 2027",
+ "lang": "en",
+ "published": "2026-11-20T21:55:50+00:00",
+ "created": "2026-11-21T03:16:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
