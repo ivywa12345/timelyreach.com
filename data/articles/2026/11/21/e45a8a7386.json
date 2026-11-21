@@ -1,0 +1,26 @@
+{
+ "key": "e45a8a7386",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-21/china-military-bans-sf-express-from-procurement-over-misconduct",
+ "title": "顺丰被解放军物资采购叫停？到底出了啥事",
+ "summary": "国内物流巨头顺丰因涉嫌违规，被暂停参与全军物资工程服务采购活动。",
+ "body": [
+  "据彭博社报道，中国知名快递物流企业顺丰速运（SF Express）近日遇到了麻烦，因涉嫌违规行为，被暂停参与全军范围内的物资、工程和服务采购活动。",
+  "根据官方通报，此次禁令涉及军事采购的各个领域。作为国内物流行业的领头羊，顺丰突然被按下采购“暂停键”，引发了外界对其业务合规性的广泛关注。",
+  "目前，有关方面尚未披露更多关于此次违规行为的具体细节。截至发稿前，顺丰方面也未对这一禁令作出进一步的公开回应。"
+ ],
+ "tags": [
+  "顺丰速运",
+  "军事采购",
+  "物流企业",
+  "合规风险"
+ ],
+ "original_title": "China Military Bars SF Express Over Procurement Misconduct",
+ "lang": "en",
+ "published": "2026-11-21T05:00:48+00:00",
+ "created": "2026-11-21T12:39:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

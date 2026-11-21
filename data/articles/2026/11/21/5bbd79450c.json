@@ -1,0 +1,27 @@
+{
+ "key": "5bbd79450c",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+ "title": "系统动不动就崩溃？美国人开始疯狂囤现金和物资了",
+ "summary": "由于担心全球局势不明朗以及技术故障频发，部分美国人开始选择囤积现金和生活物资以应对突发状况。",
+ "body": [
+  "最近美国人好像有点被接连不断的技术故障和混乱局势吓怕了，不少人开始默默做最坏的打算——囤现金、囤物资。根据媒体的市场观察（MarketWatch）报道，这种现象背后其实反映出大家对未来安全感的一种焦虑。",
+  "作者安德鲁·凯什纳（Andrew Keshner）指出，面对各种让人摸不透的全球局势和频发的系统宕机，普通民众缺乏足够的安全感和明确的信息，只能靠自己动手来增加一份保障。",
+  "对在美华人来说，这种对安全感的追求并不陌生。不管是出于防范极端天气还是突发断网，家里适当备一点应急现金和物资，也能在关键时刻少慌乱、多一份从容。"
+ ],
+ "tags": [
+  "美国社会",
+  "技术故障",
+  "囤货",
+  "应急准备",
+  "海外生活"
+ ],
+ "original_title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+ "lang": "en",
+ "published": "2026-11-21T03:20:00+00:00",
+ "created": "2026-11-21T12:43:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

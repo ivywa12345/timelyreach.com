@@ -1,0 +1,25 @@
+{
+ "key": "e796a2b480",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
+ "title": "中国正如何用AI重塑工业政策？这事儿大有看头",
+ "summary": "彭博社播客探讨了北京关于实现科技自立的最新规划，以及人工智能如何倒逼中国工业政策大变样。",
+ "body": [
+  "近期，彭博社（Bloomberg）的知名商业播客节目关注了中国如何通过人工智能技术来重塑其整体工业政策，并探讨了北京实现科技自立的宏伟蓝图。",
+  "在这期节目中，嘉宾陈凯尔（Kyle Chan，音译）深入分析了中国在面对外部技术压力时，如何通过政策引导和资源倾斜，加速国内高科技产业的升级换代，力求在关键领域不再受制于人。"
+ ],
+ "tags": [
+  "人工智能",
+  "中国经济",
+  "科技自立",
+  "工业政策"
+ ],
+ "original_title": "How AI Is Forcing China to Reshape Industrial Policy",
+ "lang": "en",
+ "published": "2026-11-21T09:00:13+00:00",
+ "created": "2026-11-21T12:40:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "223d821f61",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-21/burnham-s-big-worry-isn-t-brexit-or-welfare-it-s-trump-and-iran",
+ "title": "英国首相安迪·伯汉姆私下最头疼的竟是这事？",
+ "summary": "英国首相安迪·伯汉姆公开关注脱欧和福利改革，但私下里，他其实更担心伊朗战局的发展及其带来的全球影响。",
+ "body": [
+  "说到英国首相安迪·伯汉姆（Andy Burnham），大家最近总能在公开场合听到他谈论如何跟欧盟搞好贸易关系，或者怎么改革英国的福利制度。不过，据彭博社报道，这位英国领导人私底下其实有着更大的担忧——伊朗局势的下一步走向。",
+  "虽然政客们在明面上总得先把国内民生和国际贸易摆在首位，但面对复杂的国际冲突，地缘政治的风险往往才是真正让人夜不能寐的核心问题。",
+  "对于远在海外的华人来说，中东局势升级不仅可能推高国际油价、影响全球金融市场，还会对海外的安全环境和经济预期产生连锁反应。咱们的钱包和投资，往往也会跟着这些大国博弈的波澜起伏。"
+ ],
+ "tags": [
+  "英国政治",
+  "中东局势",
+  "国际新闻",
+  "全球经济"
+ ],
+ "original_title": "Burnham’s Big Worry Isn’t Brexit or Welfare, It’s Trump and Iran",
+ "lang": "en",
+ "published": "2026-11-21T06:00:00+00:00",
+ "created": "2026-11-21T12:37:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

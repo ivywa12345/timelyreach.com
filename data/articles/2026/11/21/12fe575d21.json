@@ -1,0 +1,26 @@
+{
+ "key": "12fe575d21",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-21/switzerland-prolongs-neutrality-soul-searching-with-weapons-vote",
+ "title": "战火烧到家门口？瑞士又在为“要不要中立”吵翻了",
+ "summary": "瑞士正再次就其长期坚持的中立政策展开激烈辩论，自俄罗斯对乌克兰发动全面军事行动以来，这个国家的路线抉择一直陷入两难。",
+ "body": [
+  "俄乌冲突爆发后，欧洲的安全局势彻底变了天，这也让一向标榜“永久中立”的瑞士坐不住了。最近，瑞士国内再次掀起了一场关于是否要放弃或调整中立立场的灵魂拷问，焦点直指武器出口和国防政策。",
+  "## 中立金字招牌面临考验",
+  "自俄罗斯全面入侵乌克兰以来，瑞士如何平衡“人道主义与制裁”以及“国防与中立”成了老大难问题。一方面，周边欧洲国家不断施压，希望瑞士能在武器和弹药转让上开绿灯；另一方面，瑞士国内对于是否要打破传统、参与更广泛的军事合作意见不一，这场关于国家定位的争论至今没有画上句号。"
+ ],
+ "tags": [
+  "瑞士",
+  "中立国",
+  "俄乌冲突",
+  "欧洲政治"
+ ],
+ "original_title": "Switzerland Prolongs Neutrality Soul-Searching With Weapons Vote",
+ "lang": "en",
+ "published": "2026-11-21T06:00:00+00:00",
+ "created": "2026-11-21T12:39:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

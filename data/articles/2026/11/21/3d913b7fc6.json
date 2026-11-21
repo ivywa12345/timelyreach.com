@@ -1,0 +1,25 @@
+{
+ "key": "3d913b7fc6",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-21/europe-s-power-market-is-flashing-a-warning-to-its-economy",
+ "title": "电费贵到工厂直接停工？欧洲电力市场亮起危险红灯！",
+ "summary": "彭博社报道称，欧洲电力市场正向实体经济发出警示讯号，德国甚至有工厂因为电费太贵而不得不选择在特定时段停产钢材。",
+ "body": [
+  "在德国的一家工厂里，越来越多的时间里，生产钢铁的电费实在是太贵了，以至于工厂根本无法负担。这就是当前欧洲电力市场向实体经济发出的强烈预警信号。",
+  "对于靠制造业支撑的欧洲经济来说，能源价格的高企无疑是雪上加霜。电力成本失控不仅在直接挤压传统重工业的利润空间，也让欧洲制造在国际市场上的竞争力大打折扣。"
+ ],
+ "tags": [
+  "欧洲经济",
+  "德国工厂",
+  "电费飙升",
+  "制造业危机"
+ ],
+ "original_title": "Europe’s Power Market Is Flashing a Warning to Its Economy",
+ "lang": "en",
+ "published": "2026-11-21T09:00:00+00:00",
+ "created": "2026-11-21T12:44:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

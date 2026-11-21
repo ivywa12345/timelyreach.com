@@ -1,0 +1,27 @@
+{
+ "key": "8e72c71d3f",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
+ "title": "俄货船在芬兰湾突遭无人机袭击！波罗的海航运风险飙升",
+ "summary": "一艘驶往俄罗斯加里宁格勒的货船在芬兰湾中立水域遭到无人机袭击，这凸显出俄罗斯通过关键波罗的海航线出口能源和粮食面临的风险正在不断加剧。",
+ "body": [
+  "俄罗斯官方表示，一艘原本开往俄罗斯飞地加里宁格勒（Kaliningrad）的货船，在芬兰湾（Gulf of Finland）的中立水域遭遇了无人机袭击。",
+  "这起事件发生在中立水域，不仅让相关海域的安全局势变得更加紧张，也让外界开始担忧俄罗斯经由波罗的海这一关键海上通道的能源和粮食出口安全。",
+  "近年来，波罗的海航运路线的安全问题备受关注。此次货船遇袭事件再次敲响警钟，随着地缘冲突的外溢，关键航运通道上的商用货轮正面临越来越大的潜在威胁。"
+ ],
+ "tags": [
+  "俄罗斯",
+  "无人机袭击",
+  "波罗的海",
+  "航运安全",
+  "芬兰湾"
+ ],
+ "original_title": "Russia Says Cargo Ship Attacked By Drones in Gulf of Finland",
+ "lang": "en",
+ "published": "2026-11-21T11:44:46+00:00",
+ "created": "2026-11-21T12:37:32+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "3f093e5138",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/chips-arent-a-magic-bullet-for-china-risks-772e6d4a?mod=rss_worldnews",
+ "title": "芯片管得住中国？美媒：华盛顿这盘棋可能要被美企掀桌子！",
+ "summary": "华尔街日报专栏文章指出，美国对华芯片出口管制和强硬政策，很难阻挡美国商业界对开源中国人工智能（AI）技术的浓厚兴趣。",
+ "body": [
+  "华尔街日报（Wall Street Journal）专栏作家霍尔曼·詹金斯（Holman W. Jenkins, Jr.）近日撰文指出，华盛顿新近对华展现出的强硬姿态，恐怕很难经受住美国企业对开源中国人工智能（AI）的实际需求和利益考量。",
+  "长期以来，美国政府试图通过芯片出口管制来防范中国风险，将其视为遏制对手的杀手锏。然而作者认为，芯片并不是解决中国风险的“万灵药”，美国商业界对中国开放权重（open-weight）AI技术的追捧，正在让华盛顿的围堵策略面临失效的风险。"
+ ],
+ "tags": [
+  "中美科技战",
+  "人工智能",
+  "芯片管制",
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | Chips Aren’t a Magic Bullet for China Risks",
+ "lang": "en",
+ "published": "2026-11-20T19:55:00+00:00",
+ "created": "2026-11-21T12:40:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,29 @@
+{
+ "key": "9c9d1ed07e",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4?mod=rss_Technology",
+ "title": "黄仁勋的“君子协议”翻车了？英伟达全靠握手谈生意的时代惹争议",
+ "summary": "华尔街日报指出，英伟达CEO黄仁勋过去引以为傲的无合同“握手成交”模式，如今在监管和市场眼中成了潜在的风险红拂。",
+ "body": [
+  "近日，《华尔街日报》记者Tim Higgins撰文指出，英伟达（Nvidia）CEO黄仁勋（Jensen Huang）过去常常津津乐道、不签合同就靠握手做生意的习惯，如今在外界看来却充满了红色警报。",
+  "## 曾经的传奇如今变红线",
+  "在企业界，黄仁勋一向以灵活、讲究信任的商业风格著称，许多重磅合作往往无需繁琐的法律合同就能敲定。然而，随着英伟达成长为全球市值最高的科技巨头之一，这种缺乏书面约束的“君子协议”模式开始引发审视，外界对其透明度和潜在风险的担忧也在与日俱增。",
+  "## 对科技圈与投资人的启示",
+  "对于关注科技股的海外华人投资者来说，大公司的合规治理往往直接关乎股价和长远发展。虽然“握手协议”体现了硅谷式的效率和信任，但在如今更加严格的全球监管环境下，规范的契约精神或许才是巨头稳健前行的保障。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "华尔街日报",
+  "商业内幕",
+  "科技股"
+ ],
+ "original_title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
+ "lang": "en",
+ "published": "2026-11-21T10:30:00+00:00",
+ "created": "2026-11-21T12:37:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

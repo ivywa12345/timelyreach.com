@@ -1,0 +1,25 @@
+{
+ "key": "ea2c0d2c93",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-middle-east-tensions-cdf9de83?mod=rss_markets_main",
+ "title": "中东产油量增加，油价遭遇“三连跌”！",
+ "summary": "由于中东地区的石油供应不断增加，抵消了市场对该地区持续冲突的担忧，原油期货价格连续第三周下跌。",
+ "body": [
+  "近期国际油价连续走低，原油期货价格已经遭遇了周线“三连跌”。虽然中东地区的冲突仍在持续，并一度引发市场担忧，但该地区不断增长的石油供应最终占据了上风，成为主导油价走势的关键因素。",
+  "分析人士指出，尽管地缘政治紧张局势通常会推高油价，但实际产量的上升缓解了供应紧缺的压力。对于在海外生活的华人来说，油价的回落意味着短期内开车出行的燃油成本有望减轻，生活开支压力能得到一定程度的缓解。"
+ ],
+ "tags": [
+  "油价",
+  "中东局势",
+  "能源市场",
+  "海外生活"
+ ],
+ "original_title": "Oil Futures Post Weekly Losses on Rising Middle East Supply",
+ "lang": "en",
+ "published": "2026-11-20T22:09:00+00:00",
+ "created": "2026-11-21T12:43:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

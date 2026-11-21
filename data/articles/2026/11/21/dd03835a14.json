@@ -1,0 +1,28 @@
+{
+ "key": "dd03835a14",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/germanys-green-energy-policies-fuel-the-afds-rise-cb664794?mod=rss_worldnews",
+ "title": "德国“绿色”能源政策，怎么成了右翼崛起的神助攻？",
+ "summary": "知名学者在《华尔街日报》撰文指出，德国主流政党一边高喊担忧民主，一边推行不切实际的气候承诺，而激进的绿色能源政策正是助推选择党（AfD）崛起的重要原因。",
+ "body": [
+  "近期有评论指出，德国主流政党一方面对民主走向表示担忧，另一方面却不断开出不切实际的气候空头支票，而激进的“绿色”能源政策恰恰成为了右翼民粹政党德国选择党（AfD）支持率飙升的催化剂。",
+  "## 气候政策引发民怨",
+  "- 激进的环保目标给民众带来了沉重的经济负担\n- 能源价格飙升让普通家庭和企业苦不堪言\n- 主流政党的脱离实际引发了选民的强烈不满",
+  "对于在海外关心政经局势的华人来说，欧洲在能源转型中的阵痛与民意反弹颇具警示意义，如何在应对气候变化与保障民生经济之间找到平衡，已经成为摆在各国政府面前的一道核心难题。"
+ ],
+ "tags": [
+  "德国",
+  "能源政策",
+  "绿党",
+  "选择党",
+  "海外观察"
+ ],
+ "original_title": "Opinion | Germany’s ‘Green’ Energy Policies Fuel the AfD’s Rise",
+ "lang": "en",
+ "published": "2026-11-20T22:02:00+00:00",
+ "created": "2026-11-21T12:38:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

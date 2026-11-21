@@ -1,0 +1,28 @@
+{
+ "key": "47cbf6706e",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/can-nvidia-thrive-without-jensen-huang-5b0001d5?mod=rss_markets_main",
+ "title": "英伟达离开黄仁勋还能行吗？华尔街大佬发话了",
+ "summary": "华尔街日报发表评论文章探讨英伟达未来的接班人问题，指出公司的持续繁荣取决于董事会能否避开一系列常见的企业治理陷阱。",
+ "body": [
+  "英伟达（Nvidia）现在的风头一时无两，但俗话说得好，打江山容易守江山难。最近《华尔街日报》刊登了一篇署名文章，抛出了一个让无数投资者揪心的问题：如果有一天灵魂人物黄仁勋（Jensen Huang）不在了，这家AI巨头还能继续狂飙吗？",
+  "## 关键全看董事会",
+  "哥伦比亚商学院教授Shivaram Rajgopal在文章中指出，英伟达未来的命运并不完全取决于技术有多牛，而是系于其董事会能否成功避开许多大公司在创始人离场时常踩的“坑”。",
+  "- 董事会必须建立科学严密的接班人计划\n- 避免对单一领袖产生过度依赖\n- 妥善处理公司未来的战略转型与风险管理",
+  "对于咱们海外华人来说，无论是买了他家股票当投资，还是从事科技行业靠AI吃饭，顶尖科技巨头的掌门人更迭从来都不是小事，它直接牵动着整个科技板块的神经和大家的钱包。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "美股投资",
+  "人工智能"
+ ],
+ "original_title": "Opinion | Can Nvidia Thrive Without Jensen Huang?",
+ "lang": "en",
+ "published": "2026-11-16T20:29:00+00:00",
+ "created": "2026-11-21T12:40:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

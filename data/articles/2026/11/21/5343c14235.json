@@ -1,0 +1,26 @@
+{
+ "key": "5343c14235",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/last-weeks-outages-were-only-the-start-361c19ed?mod=rss_markets_main",
+ "title": "AI发展太快要闯祸？专栏作家警告：上周的断电只是个开始！",
+ "summary": "华尔街日报专栏作家Peggy Noonan撰文指出，人工智能（AI）的发展速度已经超过了我们的承受能力，未来两到三年内我们可能会面临一段艰难时期，上周的各种故障仅仅是个开始。",
+ "body": [
+  "知名专栏作家Peggy Noonan在《华尔街日报》发表评论文章，直言随着人工智能（AI）的发展速度远远超出了我们的掌控能力，未来两到三年内，我们将不得不面对一段相当艰难的时期。她提醒大家，上周发生的种种技术故障和断电事故，很可能只是未来混乱局面的一个开始。",
+  "作为近年来科技界最火热的领域，AI算力和应用规模的膨胀速度令人咋舌。文章指出，社会的基建和应对机制根本没有做好准备，这种“快得刹不住车”的发展态势，正在给我们的日常生活和公共服务埋下隐患。",
+  "对于远在海外的华人来说，技术的不稳定和快速迭代可能会直接影响到我们日常使用的各种数字服务、工作环境，甚至波及社区的能源供应安全。面对即将到来的“AI阵痛期”，大家在工作和生活中可能需要对突发的系统故障保持更多心理准备。"
+ ],
+ "tags": [
+  "人工智能",
+  "华尔街日报",
+  "科技隐患",
+  "海外生活"
+ ],
+ "original_title": "Opinion | Last Week’s Outages Were Only the Start",
+ "lang": "en",
+ "published": "2026-11-19T22:57:00+00:00",
+ "created": "2026-11-21T12:37:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
