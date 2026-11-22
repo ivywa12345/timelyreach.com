@@ -1,0 +1,22 @@
+{
+ "key": "3831775fc7",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Realtor.com",
+ "source_url": "https://x.com/realtordotcom/status/2124556012141113447",
+ "title": "美联储纪要：12月再加息可能性较大",
+ "summary": "美联储官员在10月27日至28日的会议上将利率维持在3.75%-4%，但会议纪要显示再次加息可能是合适的，CME FedWatch显示12月加息概率为95%。",
+ "body": [
+  "美联储（Federal Reserve）官员在10月27日至28日的会议上将利率维持在3.75%-4%。但会议纪要显示，再次加息可能是合适的，CME FedWatch（芝商所美联储观察工具）定价12月加息的概率为95%。"
+ ],
+ "tags": [
+  "美联储",
+  "加息"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-22T17:30:00+00:00",
+ "created": "2026-11-22T18:37:14+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
