@@ -1,0 +1,24 @@
+{
+ "key": "69e8eb3377",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/how-to-protect-our-orphans-49870a9e?mod=rss_opinion",
+ "title": "如何保护我们的孤儿？从遗属福利开始做起",
+ "summary": "华尔街日报关注孤儿保障问题，指出从遗属福利入手是正确的一步。",
+ "body": [
+  "近日，《华尔街日报》刊发了题为《如何保护我们的孤儿》（How to Protect Our Orphans）的讨论，核心观点指出，从遗属福利（survivor benefits）切入来建立孤儿保护体系是一个完全正确的决定。"
+ ],
+ "tags": [
+  "孤儿保障",
+  "遗属福利",
+  "华尔街日报",
+  "社会福利"
+ ],
+ "original_title": "How to Protect Our Orphans",
+ "lang": "en",
+ "published": "2026-11-20T17:18:00+00:00",
+ "created": "2026-11-22T09:46:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

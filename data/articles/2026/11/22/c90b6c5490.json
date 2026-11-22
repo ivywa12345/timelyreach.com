@@ -1,0 +1,27 @@
+{
+ "key": "c90b6c5490",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/americas/mexican-drug-gangs-have-found-a-new-cash-cow-in-microfinancing-31a3e07a?mod=rss_worldnews",
+ "title": "墨西哥毒枭不卖白粉改放高利贷？盯上小微贷款当摇钱树",
+ "summary": "墨西哥贩毒集团正在强行接管小型借贷机构并疯狂抬高利率，以实现收入多元化。",
+ "body": [
+  "毒品生意已经满足不了墨西哥贩毒集团的胃口了，他们最近找到了一条生财新路——进军微型金融和小额信贷市场。",
+  "根据《华尔街日报》报道，这些贩毒团伙正通过暴力手段强行接管小微贷款公司（Microfinancing），并把原本救急的普惠贷款变成了吃人不吐骨头的高利贷，以此来洗钱和多元化他们的收入来源。",
+  "对于在海外关注拉丁美洲治安或从事跨境经贸的人来说，这一动向表明黑帮的敛财手段正日益向正规金融领域渗透，其危害不容小觑。"
+ ],
+ "tags": [
+  "墨西哥",
+  "毒品犯罪",
+  "高利贷",
+  "金融安全",
+  "华尔街日报"
+ ],
+ "original_title": "Mexican Drug Gangs Have Found a New Cash Cow in Microfinancing",
+ "lang": "en",
+ "published": "2026-11-22T03:00:00+00:00",
+ "created": "2026-11-22T09:45:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

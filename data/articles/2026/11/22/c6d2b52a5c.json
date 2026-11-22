@@ -1,0 +1,26 @@
+{
+ "key": "c6d2b52a5c",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/ukraine-is-racing-to-keep-its-booming-defense-industry-from-stalling-7e8f4b8c?mod=rss_worldnews",
+ "title": "炸成这样还能造武器？乌克兰国防工业面临资金大危机",
+ "summary": "乌克兰正全力拯救其蓬勃发展的国防工业，但在俄罗斯的猛烈轰炸和严重的资金短缺下，发展势头面临停滞的危险。",
+ "body": [
+  "在俄罗斯的持续轰炸和严重缺乏资金的双重夹击下，乌克兰正在艰难维持其复苏的国防工业，试图避免生产陷入停滞。",
+  "乌克兰国防工业在战火中实现了一定程度的复苏，但由于资金极度匮乏以及基础设施遭受重创，产能进一步扩大面临巨大挑战。",
+  "这场危机也折射出乌克兰在持续对抗中的长期后勤与经济压力，武器自主制造的成败将直接关系到前线局势的发展。"
+ ],
+ "tags": [
+  "乌克兰",
+  "国防工业",
+  "军事科技",
+  "俄乌冲突"
+ ],
+ "original_title": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling",
+ "lang": "en",
+ "published": "2026-11-22T03:00:00+00:00",
+ "created": "2026-11-22T09:44:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

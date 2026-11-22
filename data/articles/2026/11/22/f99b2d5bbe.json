@@ -1,0 +1,27 @@
+{
+ "key": "f99b2d5bbe",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/russia-hits-ukrainian-energy-facilities-straining-power-supply",
+ "title": "俄军夜袭乌克兰能源设施：电网紧绷，港口与货轮也遭殃",
+ "summary": "俄罗斯国防部在社交平台Telegram上发表声明称，俄军于夜间对乌克兰多处目标发动打击，包括发电厂、港口基础设施以及一艘货轮，导致当地电力供应紧张。",
+ "body": [
+  "据彭博社报道，俄乌战事持续胶着，俄罗斯国防部近日通过社交平台Telegram发布声明称，俄军在夜间对乌克兰发动了新一轮空袭，目标直指乌克兰的多处关键基础设施。",
+  "## 袭击造成多重破坏",
+  "此次遭到打击的目标范围广泛，不仅包括了一座关键的发电站，还波及了当地的港口基础设施以及一艘正在停靠或航行的货轮。这一系列夜间袭击给本就脆弱的乌克兰能源网络和物流运输带来了巨大的压力，进一步加剧了当地的电力供应紧张局势。",
+  "目前，乌克兰官方正在评估此次夜袭造成的具体损失，相关抢修和应对工作也在紧急进行中。"
+ ],
+ "tags": [
+  "俄罗斯",
+  "乌克兰局势",
+  "能源危机",
+  "国际新闻"
+ ],
+ "original_title": "Russia Hits Ukrainian Energy Facilities, Straining Power Supply",
+ "lang": "en",
+ "published": "2026-11-22T08:35:31+00:00",
+ "created": "2026-11-22T09:44:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

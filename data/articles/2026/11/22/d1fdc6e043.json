@@ -1,0 +1,28 @@
+{
+ "key": "d1fdc6e043",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/retail/novartis-sees-sales-growth-through-2031-60d33957?mod=rss_Technology",
+ "title": "专利到期也不怕？诺华对未来销售信心满满",
+ "summary": "制药巨头诺华（Novartis）近日向投资者表示，尽管即将迎来新一轮专利到期潮，但公司有信心实现持续的销售增长，并计划借助人工智能（AI）技术助力业务发展。",
+ "body": [
+  "面对即将到来的专利到期挑战，制药巨头诺华（Novartis）近日给投资者吃了一颗定心丸，公司预计未来销售额将保持稳步上升，并释放出有望从人工智能（AI）应用中获益的信号。",
+  "## 应对专利悬崖",
+  "作为跨国制药企业，诺华正在为新一轮的药品专利到期做准备。通常情况下，专利过期意味着仿制药将涌入市场，原研药企的销售额会受到冲击。不过，诺华管理层向市场传递了积极预期，认为公司有能力通过其他业务的增长来对冲这一影响。",
+  "## 押注科技赋能",
+  "除了依靠现有产品线和研发管线，诺华还将目光投向了前沿科技。公司指出，潜在的业务增长点还包括利用人工智能（AI）技术来提升研发和运营效率，为未来的持续扩张寻找新的驱动力。"
+ ],
+ "tags": [
+  "诺华",
+  "医药行业",
+  "专利到期",
+  "人工智能"
+ ],
+ "original_title": "Novartis Sees Sales Growth Through Next Round of Patent Expirations",
+ "lang": "en",
+ "published": "2026-11-19T12:47:00+00:00",
+ "created": "2026-11-22T09:46:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

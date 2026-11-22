@@ -1,0 +1,25 @@
+{
+ "key": "22318de993",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main",
+ "title": "美元又涨了！华尔街日报美元指数实现五连涨",
+ "summary": "华尔街日报美元指数微涨0.1%，实现连续五个交易日上涨。",
+ "body": [
+  "如果你最近正打算换汇或者关注汇率，可能已经注意到美元的强势了。根据《华尔街日报》的数据，衡量美元对一揽子货币汇率走势的华尔街日报美元指数（WSJ Dollar Index）近期表现强劲，最新报收于 **98.46** 点，涨幅约为 0.12%。",
+  "值得注意的是，这已经是该指数**连续五个交易日**保持上涨势头。对于有美元储蓄、需要汇款回国或者关注海淘汇率的海外华人来说，美元走强意味着手头的美元相对其他主要货币更值钱了一些，但对于有回国消费或兑换人民币需求的人来说，则需要承担更高的兑换成本。"
+ ],
+ "tags": [
+  "美元汇率",
+  "华尔街日报",
+  "外汇市场",
+  "海外理财"
+ ],
+ "original_title": "WSJ Dollar Index Rises 0.12% to 98.46",
+ "lang": "en",
+ "published": "2026-11-16T22:54:00+00:00",
+ "created": "2026-11-22T09:44:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

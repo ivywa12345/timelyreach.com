@@ -1,0 +1,27 @@
+{
+ "key": "f46fc63835",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-21/french-protests-draw-fewer-people-after-government-concessions",
+ "title": "法国示威人数骤降！政府让步真的管用了吗？",
+ "summary": "由于法国政府此前作出了提高最低工资和投资教育等让步，周六反对生活成本高昂和财富不均的抗议活动，吸引到的示威人数比前几周明显减少。",
+ "body": [
+  "法国针对生活成本、财富不均以及教育系统短板的抗议活动在周六（当地时间）迎来了新变化，走上街头的示威人数比前几周明显减少。此前，法国政府为了平息民怨，已经采取了一系列安抚措施。",
+  "在这波抗议浪潮中，民众主要对生活成本过高、社会财富分配不均以及学校资源不足感到不满。为了缓解社会压力，法国政府此前已经做出了实质性让步，其中包括**提高最低工资**，并承诺加大对中小学和大学的资金投入。",
+  "> “政府的妥协在一定程度上缓解了街头的紧张气氛。”",
+  "目前来看，官方近期推出的这些经济和教育领域的妥协方案，确实在短期内让抗议的声势有所减弱。至于这能否彻底平息长期的社会矛盾，还有待进一步观察。"
+ ],
+ "tags": [
+  "法国抗议",
+  "生活成本",
+  "最低工资",
+  "海外时政"
+ ],
+ "original_title": "French Protests Draw Fewer People After Government Concessions",
+ "lang": "en",
+ "published": "2026-11-21T18:24:05+00:00",
+ "created": "2026-11-22T09:46:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

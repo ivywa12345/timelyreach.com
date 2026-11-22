@@ -1,0 +1,25 @@
+{
+ "key": "ed8fc7e140",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/beware-of-conflicts-with-medical-platforms-286e6ca2?mod=rss_opinion",
+ "title": "医疗大V还是带货机器？医药公司和医生的关系该管管了！",
+ "summary": "医疗界数十年来一直在应对其与制药行业关系所带来的后果，这种利益交织正面临新的审视。",
+ "body": [
+  "医疗行业和制药企业之间的利益纠葛，可以说是历史悠久。长久以来，医学界一直在试图理清医生、研究人员与制药公司之间千丝万缕的商业联系所带来的各种影响。",
+  "对于咱们普通人来说，看病吃药本来图个安心。如果医生的专业建议背后，可能掺杂了药企的商业利益，难免会让人对诊疗的公正性产生嘀咕。如何平衡医疗专业性与商业合作，依然是摆在整个社会面前的一道难题。"
+ ],
+ "tags": [
+  "医疗健康",
+  "制药行业",
+  "医患关系",
+  "海外生活"
+ ],
+ "original_title": "Beware of Conflicts With Medical Platforms",
+ "lang": "en",
+ "published": "2026-11-20T17:18:00+00:00",
+ "created": "2026-11-22T09:44:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

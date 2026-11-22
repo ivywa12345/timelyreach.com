@@ -1,0 +1,26 @@
+{
+ "key": "b0a8d94ed7",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/africa/a-hunger-crisis-is-making-ebola-even-deadlier-ef14c676?mod=rss_worldnews",
+ "title": "埃博拉遇上大饥荒？东非疫情为啥更致命了",
+ "summary": "东非爆发的埃博拉疫情引发了严重的饥荒危机，这导致感染病毒的人死亡率进一步上升。",
+ "body": [
+  "近期正在东非肆虐的埃博拉疫情，不仅威胁着当地人的生命，还引发了一场严重的大饥荒，让感染者的生存几率变得更加渺茫。",
+  "根据《华尔街日报》记者 Nicholas Bariyo 的报道，这场疫情与粮食危机相互交织，营养不良的人群免疫力更差，一旦感染埃博拉病毒，身体往往更加难以抵御，从而导致死亡风险显著上升。",
+  "对于远在海外的华人来说，虽然身处不同大洲，但全球传染病与人道主义危机的蔓延也提醒大家，关注全球公共卫生安全依然十分重要。"
+ ],
+ "tags": [
+  "埃博拉",
+  "东非疫情",
+  "饥荒危机",
+  "公共卫生"
+ ],
+ "original_title": "A Hunger Crisis Is Making Ebola Even Deadlier",
+ "lang": "en",
+ "published": "2026-11-18T00:00:00+00:00",
+ "created": "2026-11-22T09:47:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

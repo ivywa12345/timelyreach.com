@@ -1,0 +1,26 @@
+{
+ "key": "d89a309008",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/regulation/canadas-banking-regulator-moves-to-level-playing-field-for-smaller-lenders-b8c5eae6?mod=rss_markets_main",
+ "title": "加拿大出手了！给中小银行“松绑”能否打破行业垄断？",
+ "summary": "加拿大金融监管机构计划放宽对中小型贷款机构的资本要求，旨在增加市场竞争，打破几大巨头对银行业的垄断。",
+ "body": [
+  "加拿大金融行业的监管部门最近有了新动作，计划适当降低中小型贷款机构的资本金要求，希望通过这招来刺激市场竞争，打破少数几家大银行对加拿大银行业长期以来的垄断局面。",
+  "长期以来，加拿大的银行业几乎被几家传统大行把持，中小银行和新入局者在资金和合规成本上压力山大。监管机构这次调整资本门槛，显然是希望给中小玩家创造一个更公平的竞争环境，让消费者能有更多选择。",
+  "对于在加拿大生活和打拼的华人来说，银行选择变多意味着未来不仅可能拿到更优惠的房贷利率和存款产品，日常的金融服务也会更加灵活多样，不再只能“死磕”大银行。"
+ ],
+ "tags": [
+  "加拿大",
+  "银行",
+  "金融监管",
+  "海外生活"
+ ],
+ "original_title": "Canada’s Banking Regulator Moves to Level Playing Field for Smaller Lenders",
+ "lang": "en",
+ "published": "2026-11-19T17:21:00+00:00",
+ "created": "2026-11-22T09:46:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

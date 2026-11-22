@@ -1,0 +1,26 @@
+{
+ "key": "a276fcf389",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=rss_markets_main",
+ "title": "突发！英伟达CEO黄仁勋刚走，SEC就盯上了？",
+ "summary": "美国证券交易委员会（SEC）正在对英伟达展开民事调查，重点是该公司是否违反了投资者信息披露法律。",
+ "body": [
+  "华尔街日报（Wall Street Journal）报道称，在英伟达（Nvidia）首席执行官黄仁勋（Jensen Huang）离职之际，美国证券交易委员会（SEC）已经对该公司展开了一项民事调查。目前监管机构正在仔细审查，英伟达在向投资者披露信息时是否存在违规行为。",
+  "对于在美华人投资者和科技从业者来说，英伟达作为近年来AI浪潮中的绝对巨头，其一举一动都牵动着无数人的神经。虽然目前这只是一项民事调查，且尚未定性，但消息一出依然引发了市场的广泛关注，后续进展可能会对科技股板块的走势产生一定影响。"
+ ],
+ "tags": [
+  "英伟达",
+  "SEC",
+  "黄仁勋",
+  "华尔街日报",
+  "美股"
+ ],
+ "original_title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+ "lang": "en",
+ "published": "2026-11-17T20:56:00+00:00",
+ "created": "2026-11-22T09:47:32+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

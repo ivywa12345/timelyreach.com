@@ -1,0 +1,29 @@
+{
+ "key": "d0590fe29e",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/markets/chinese-researchers-develop-electronic-comb-achieves-nearly-98-hair-regrowth-mice",
+ "title": "当代脱发党有救了？新型电子梳能让头发“起死回生”",
+ "summary": "北京航空航天大学与香港城市大学的研究团队研发出一种名为Detangle的电子梳，通过结合电刺激与精准给药技术，在小白鼠实验中实现了近98%的毛发再生率，为脱发治疗带来新希望。",
+ "body": [
+  "每次照镜子看到日益后移的发际线是不是很焦虑？最近，来自北京航空航天大学（Beihang University）和香港城市大学（City University of Hong Kong）的研究团队研发出了一款名为Detangle的创新电子梳，或许能为广大脱发人群带来全新的救星。",
+  "## 梳头就能治脱发",
+  "这款电子梳巧妙地将电刺激与先进的药物输送技术结合在一起。人们在日常梳头时，它就能产生可控的电脉冲，暂时增加毛囊细胞的通透性，让治疗药物更好地渗入头皮。梳子的齿部配备了微电子元件和释药机制，可以同时释放两种治疗成分：一种负责促进毛囊周围血管生成，另一种则帮助阻断与脱发相关的荷尔蒙过程。",
+  "## 实验效果惊艳",
+  "在为期28天的小白鼠实验中，当电刺激与药物每三天配合使用一次时，该设备取得了 **97.85%** 的惊人毛发再生率。相比之下，传统药物米诺地尔（minoxidil）的再生率约为70%，非那雄胺（finasteride）为50%，而单靠电刺激只有约40%。研究还发现，这项技术能将治疗分子输送到传统外用方法约 **9倍** 深的皮肤下，仅需一秒钟就能渗透到约660微米的深度，且未发现明显的皮肤刺激或神经损伤。",
+  "不过需要注意的是，这项研究目前仍处于实验阶段，相关成果已于2026年11月3日发表在《自然·通讯》（Nature Communications）上。它的安全性和有效性尚未在人体上得到证实，研究人员也尚未公布临床试验或商业化计划。对于我们海外华人来说，虽然离买到这款产品还有时日，但科技的进步总算让保住头发多了一丝曙光。"
+ ],
+ "tags": [
+  "脱发救星",
+  "科技创新",
+  "生发黑科技",
+  "海外华人生活"
+ ],
+ "original_title": "Chinese Researchers Develop Electronic Comb That Achieves Nearly 98% Hair Regrowth In Mice",
+ "lang": "en",
+ "published": "2026-11-22T06:00:00+00:00",
+ "created": "2026-11-22T09:46:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

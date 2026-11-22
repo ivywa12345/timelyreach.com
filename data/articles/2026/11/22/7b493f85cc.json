@@ -1,0 +1,27 @@
+{
+ "key": "7b493f85cc",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/news-releases/jamaican-citizen-arrested-for-making-a-false-claim-of-citizenship-to-register-to-vote-in-the-2024",
+ "title": "持旅游签证逾期滞留，牙买加女子因非法注册并参与美国大选初选被捕",
+ "summary": "一名52岁的牙买加公民杰奎琳·黛安·华莱士因涉嫌在2024年佛罗里达州总统初选中假冒美国公民身份进行选民登记并投票而面临联邦刑事指控。若罪名成立，她将面临最高5年监禁并被驱逐出境。",
+ "body": [
+  "近日，佛罗里达州发生了一起非公民参与联邦大选投票的案件。现年52岁的牙买加公民杰奎琳·黛安·华莱士（Jacqueline Dianne Wallace）被联邦刑事起诉，罪名是非法冒充美国公民身份，以在2024年佛罗里达州总统初选中进行选民登记。美国佛罗里达北区联邦检察官办公室宣布了这一指控，美国公民及移民服务局（USCIS）协助了此项调查。",
+  "## 非法滞留与违规投票过程",
+  "根据刑事起诉书显示，华莱士于2010年12月持为期6个月的B-2旅游签证进入美国，但签证到期后并未按规定返回牙买加。2024年1月，华莱士通过一个需要证明美国公民身份的在线系统进行了联邦选举选民登记——而她本人并不具备公民身份。随后在2024年8月，华莱士在2024年佛罗里达州联邦总统初选中投了票。",
+  "国土安全调查局（HSI）和贝县警长办公室（Bay County Sheriff’s Office）的特工随后逮捕了华莱士。如果罪名成立，她将面临 **最高5年监禁**，并将在刑满后被驱逐出美国。本案属于司法部“夺回美国行动”（Operation Take Back America）全国性行动的一部分。司法部强调，目前刑事起诉书仅为指控，被告在法庭被证明有罪之前均推定为无罪。"
+ ],
+ "tags": [
+  "美国大选",
+  "非法投票",
+  "移民执法",
+  "佛罗里达州"
+ ],
+ "original_title": "Jamaican Citizen Arrested for Making a False Claim of Citizenship to Register to Vote in the 2024 Presidential Primary Election",
+ "lang": "en",
+ "published": "2025-05-14T17:44:43+00:00",
+ "created": "2026-11-22T09:45:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
