@@ -1,0 +1,18 @@
+{
+  "title": "OpenAI公开预训练进展，呼吁共建安全标准",
+  "summary": "OpenAI首席科学家帕乔基表示，公司将提高预训练进展的透明度，并主张基于困惑度等指标设定共同限制，超出限制的进展须以理解AI行为的能力为前提。",
+  "body": [
+    "我们决定提高OpenAI预训练进展的透明度，以推动建立共同的安全标准。在《困惑度与智能》（“Perplexity and Intelligence”）一文中，我主张基于困惑度和其他衡量指标设定共同限制，超出这些限制的进展应以我们理解AI行为的能力为前提。"
+  ],
+  "images": [
+    "https://pbs.twimg.com/media/HXvptOTXIAAtrY0.jpg"
+  ],
+  "source_name": "Jakub Pachocki",
+  "source_url": "https://x.com/merettm/status/2124549218995949967",
+  "board": "finance",
+  "tags": [
+    "OpenAI",
+    "人工智能"
+  ],
+  "created": "2026-11-22T17:03:00Z"
+}
