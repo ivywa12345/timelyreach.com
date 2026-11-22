@@ -1,0 +1,27 @@
+{
+ "key": "2d9871f345",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/strongman-s-son-nominated-for-premier-of-bosnia-s-serb-entity",
+ "title": "亲美欧还是搞家族政治？波黑塞族强人儿子被提名总理",
+ "summary": "波黑塞族实体共和国提名了强人米洛拉德·多迪克之子伊戈尔·多迪克出任下一任总理，引发关注。这对父子此前曾因涉嫌腐败遭到美国制裁。",
+ "body": [
+  "波黑塞族共和国（Republika Srpska）近日迎来了重量级的人事变动——当地政治强人米洛拉德·多迪克（Milorad Dodik）的儿子被正式提名为了下一任总理候选人。",
+  "## 曾遭美国制裁的“父子档”",
+  "这次被提名的多迪克之子此前并不陌生。直到去年为止，他曾和父亲米洛拉德·多迪克一起，**因涉嫌腐败和挪用公款**而被美国政府列入制裁名单。",
+  "波黑是由两个实体（穆克联邦与塞族共和国）组成的复杂国家，而塞族共和国的这一人事提名，再次把当地的家族政治和美波关系推到了风口浪尖。"
+ ],
+ "tags": [
+  "波黑",
+  "国际政治",
+  "美国制裁",
+  "家族政治"
+ ],
+ "original_title": "Strongman’s Son Nominated for Premier of Bosnia’s Serb Entity",
+ "lang": "en",
+ "published": "2026-11-22T16:04:47+00:00",
+ "created": "2026-11-22T23:38:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

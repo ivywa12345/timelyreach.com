@@ -1,0 +1,26 @@
+{
+ "key": "1e314bf8ab",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/deals/eli-lilly-to-buy-calytrix-bio-for-up-to-1-5-billion-591745e4?mod=rss_Technology",
+ "title": "大手笔！礼来拟斥资15亿美元收购生物制药公司Calytrix",
+ "summary": "礼来公司宣布将收购专注于罕见血癌疗法的私营生物技术公司Calytrix Bio，交易金额最高可达15亿美元。",
+ "body": [
+  "医药巨头礼来公司（Eli Lilly）近日宣布，拟以最高 **15亿美元** 的价格收购私营生物技术公司 Calytrix Bio，持续加码创新药领域。",
+  "Calytrix Bio 是一家获得摩根大通（JPMorgan Chase）支持的生物技术公司，目前正在开发针对一类罕见血液癌症的创新疗法。",
+  "这笔交易展现了医药巨头对前沿癌症治疗领域的持续看好，未来相关疗法的推进也可能为血癌患者带来新的治疗希望。"
+ ],
+ "tags": [
+  "礼来",
+  "Calytrix Bio",
+  "生物医药",
+  "收购"
+ ],
+ "original_title": "Eli Lilly to Buy Calytrix Bio for Up to $1.5 Billion",
+ "lang": "en",
+ "published": "2026-11-16T16:58:00+00:00",
+ "created": "2026-11-22T23:36:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "c273f804bd",
+ "board": "hot",
+ "source_id": "wsj-lifestyle",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/gerald-ford-thanksgiving-and-friendship-27d76a70?mod=rss_lifestyle",
+ "title": "总统的感恩节：老队友如何帮福特渡过难关？",
+ "summary": "华尔街日报专栏文章回忆了美国前总统杰拉尔德·福特在入主白宫之初，如何通过与密歇根大学老橄榄球队友的聚会寻找心灵慰藉。",
+ "body": [
+  "刚当上总统那会儿，杰拉尔德·福特（Gerald Ford）的日子其实并不好过。面对复杂的政治局势和巨大的压力，这位新总统在一个传统的节日里，从他当年的老橄榄球队友身上找到了久违的安慰和支持。",
+  "这件事也提醒了身在海外的我们：不管地位多高、身处何方，老朋友之间的真挚情谊和过去的共同经历，永远是人生低谷时最温暖的避风港。"
+ ],
+ "tags": [
+  "感恩节",
+  "总统",
+  "友情",
+  "历史故事"
+ ],
+ "original_title": "Opinion | Gerald Ford, Thanksgiving and Friendship",
+ "lang": "en",
+ "published": "2026-11-22T17:57:00+00:00",
+ "created": "2026-11-22T23:38:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

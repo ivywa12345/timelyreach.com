@@ -1,0 +1,28 @@
+{
+ "key": "2a629e8cce",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/how-to-kill-a-bull-market-ai-policy-15fb5af6?mod=rss_markets_main",
+ "title": "AI牛市会怎么被政客玩崩？华尔街日报发话了",
+ "summary": "华尔街日报编辑委员会发表评论文章指出，政客们的政策和干预将在很大程度上决定当前人工智能（AI）板块的回调会深到什么程度。",
+ "body": [
+  "近期AI板块迎来了一波震荡回调，而华尔街日报（Wall Street Journal）的编辑委员会直言不讳地指出，这波牛市究竟能走多远、回调会有多深，其实政客们握有关键的决定权。",
+  "## 政策干预是关键变数",
+  "文章分析认为，华尔街的科技股牛市向来对宏观环境和政策风向极为敏感。如果监管政策过严、税收政策变动或者出台不利于科技创新的法案，极有可能成为压垮当前AI热潮的最后一根稻草。",
+  "## 对华尔街与投资者的影响",
+  "对于咱们海外华人投资者来说，科技股往往是资产配置的重头戏。政客的一举一动直接关乎大家的钱包和退休账户，后续还得密切盯着华盛顿的政策风向，看看有没有针对AI产业的新动作。"
+ ],
+ "tags": [
+  "AI牛市",
+  "华尔街日报",
+  "美股投资",
+  "科技股回调"
+ ],
+ "original_title": "Opinion | How to Kill a Bull Market",
+ "lang": "en",
+ "published": "2026-11-22T22:01:00+00:00",
+ "created": "2026-11-22T23:36:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

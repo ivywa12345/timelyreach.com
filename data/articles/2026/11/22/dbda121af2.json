@@ -1,0 +1,27 @@
+{
+ "key": "dbda121af2",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+ "title": "美股期指今早高开！总算从科技股大跌里缓过劲来了？",
+ "summary": "在经历上周五由人工智能板块回调引发的大跌后，美国股指期货在周一早盘的亚洲交易时段集体高开，给惊魂未定的投资者带来了一丝喘息之机。",
+ "body": [
+  "上周五美股刚刚经历了一场科技股的大跌，特别是人工智能（AI）概念股遭遇抛售，让不少盯着盘面的投资者捏了一把汗。不过好消息是，今早亚洲交易时段刚一开始，美国股指期货就集体高开，暂时给紧绷的市场情绪松了松绑。",
+  "这次市场的波动主要还是和AI热潮的降温有关。此前由于相关板块估值过高，资金选择获利回吐，导致上周五大盘表现惨淡。不过从目前的期指表现来看，短期的恐慌情绪似乎有所收敛，投资者正在重新评估后市走向。",
+  "对于咱们关注美股的海外华人来说，科技股向来是大家资产配置的“重头戏”。虽然单日的期指反弹不代表大趋势已经完全稳固，但至少说明市场没有出现恐慌性崩盘。近期投资操作上，建议大家还是要密切关注科技板块的震荡情况，看紧自己的钱包，切忌盲目追高或斩仓。"
+ ],
+ "tags": [
+  "美股",
+  "科技股",
+  "人工智能",
+  "股市行情",
+  "海外理财"
+ ],
+ "original_title": "US Stock Futures Open Higher After Tech Selloff: Markets Wrap",
+ "lang": "en",
+ "published": "2026-11-22T22:02:27+00:00",
+ "created": "2026-11-22T23:38:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

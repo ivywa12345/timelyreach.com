@@ -1,0 +1,25 @@
+{
+ "key": "b36381fd75",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+ "title": "参议员又说错话？社保听证会焦点被带偏",
+ "summary": "威斯康星州共和党参议员罗恩·约翰逊（Ron Johnson）近日在社保问题上的失言，意外抢走了国会参议院一场重要听证会的风头，让真正讨论如何修复社保系统的关键信息被忽视。",
+ "body": [
+  "威斯康星州共和党参议员罗恩·约翰逊（Ron Johnson）近日在社交安全（Social Security，即社保）问题上发表了一些备受争议的言论，结果彻底带偏了舆论焦点，掩盖了本来非常有价值的国会听证会内容。",
+  "这场由参议院举行的听证会本意是探讨如何修复面临危机的社保系统，讨论原本应该聚焦于具体的财政漏洞和解决方案，但由于罗恩·约翰逊（Ron Johnson）的言论引发争议，媒体和公众的注意力全被吸引到了他的失言上，真正的好消息和实质性建议反而被淹没了。"
+ ],
+ "tags": [
+  "美国社保",
+  "国会听证会",
+  "罗恩·约翰逊",
+  "海外民生"
+ ],
+ "original_title": "Ron Johnson’s Social Security gaffe buried important news",
+ "lang": "en",
+ "published": "2026-11-22T21:28:00+00:00",
+ "created": "2026-11-22T23:37:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

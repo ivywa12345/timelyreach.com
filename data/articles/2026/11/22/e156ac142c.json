@@ -1,0 +1,25 @@
+{
+ "key": "e156ac142c",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
+ "title": "科技股带头跳水，华尔街股民这周又要心惊肉跳了？",
+ "summary": "华尔街股市刚经历了一轮板块大轮动和科技股的剧烈抛售，投资者正严阵以待，迎接新一周可能到来的更多动荡。",
+ "body": [
+  "华尔街正带着巨大的压力进入新的交易周。此前，美国股市经历了一轮猛烈的板块大轮动和科技股大跌，让不少投资者开始琢磨：这波下跌到底还没完，后面是不是还有更多苦日子要受？",
+  "这次动荡的导火索是资金从科技股中迅速撤离，导致市场出现剧烈震荡。过去一段时间撑起美股半边天的科技板块遭遇重挫，也让市场的投资者们措手不及，对未来的行情走向充满了担忧。"
+ ],
+ "tags": [
+  "美股",
+  "华尔街",
+  "科技股",
+  "股市动荡"
+ ],
+ "original_title": "Stock Traders Brace For More Volatility After Tech-Driven Rout",
+ "lang": "en",
+ "published": "2026-11-22T23:04:42+00:00",
+ "created": "2026-11-22T23:39:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,30 @@
+{
+ "key": "fc8d3b43be",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/graphics/hongkong-derivative-warrants-leverage-volume-ping-pong-trades/",
+ "title": "全球最大权证市场疯了？香港期权窝轮藏猫腻",
+ "summary": "根据彭博社报道，知情人士透露，规模达5770亿美元的香港权证市场出现了一些人为推高交易量的迹象。",
+ "body": [
+  "说到炒股和投机，香港市场向来不缺刺激。不过，根据彭博社（Bloomberg）最新报道，这个全球最大的权证市场最近被业内人士盯上了，里面可能存在不少“水分”。",
+  "## 5770亿市场现怪象",
+  "这次被推上风口浪尖的是规模高达 **5770亿美元** 的香港权证市场。据多位知情人士透露，这个体量巨大的市场最近出现了不少人为虚增交易量的明显痕迹。",
+  "权证（Warrants，俗称“窝轮”）因为自带高杠杆，一直是香港散户和短线高手的心头好，但也常常伴随着极高的风险。这次业内传出有操纵嫌疑，也让外界对该市场的透明度和合规性捏了一把汗。",
+  "## 对华人的影响",
+  "对于喜欢涉足港股衍生品的海外华人投资者来说，这类消息无疑是个提醒：在流动性可能存在水分的市场里交易，风险往往被成倍放大。无论是炒窝轮还是牛熊证，盯紧监管动向、捂紧自己的钱包才是上策。"
+ ],
+ "tags": [
+  "香港金融市场",
+  "权证",
+  "窝轮",
+  "港股投资",
+  "彭博社"
+ ],
+ "original_title": "World's Biggest Warrants Market Is Fueled by Unusual Trading in Hong Kong",
+ "lang": "en",
+ "published": "2026-11-22T23:00:17+00:00",
+ "created": "2026-11-22T23:39:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

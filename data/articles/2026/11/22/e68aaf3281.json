@@ -1,0 +1,27 @@
+{
+ "key": "e68aaf3281",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/latest-oil-market-news-and-analysis-for-nov-23",
+ "title": "中东局势剑拔弩张，油价怎么反而跌了？",
+ "summary": "由于强劲的原油出口迹象抵消了中东局势升级带来的担忧，国际油价近期出现下跌。",
+ "body": [
+  "近期国际油市有点魔幻：虽然中东地区的敌对行动眼看要进一步升级，但油价非但没涨，反而向下走了。交易员们目前正在密切博弈两个相反的信号：一边是供应端不断增强的原油出口，另一边则是战火随时可能扩大的地缘政治风险。",
+  "根据彭博社能源记者永昌秦（Yongchang Chin）的报道，目前市场上的多空双方分歧明显。一方面，坚挺的出货量让市场看到原油供应依然充足；另一方面，中东局势的紧绷又让人时刻捏着一把汗，担心随时会断供。这种复杂的局面直接导致了油价的震荡回落。",
+  "对于海外华人朋友来说，国际油价的波动直接关系到大家的切身利益。虽然油价短期内因为出口数据走低，但中东这颗“定时炸弹”如果真的引爆，大家的加油钱包和整体通胀水平还是会受到直接冲击，值得持续关注。"
+ ],
+ "tags": [
+  "油价",
+  "国际原油",
+  "中东局势",
+  "海外生活",
+  "财经快讯"
+ ],
+ "original_title": "Latest Oil Market News and Analysis for Nov. 23",
+ "lang": "en",
+ "published": "2026-11-22T23:06:06+00:00",
+ "created": "2026-11-22T23:36:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

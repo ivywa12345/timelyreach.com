@@ -1,0 +1,26 @@
+{
+ "key": "284a3e8e51",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/america-hits-the-brakes-on-ai-84a63996?mod=rss_worldnews",
+ "title": "AI在美国突然踩急刹车？这一个月到底发生了啥",
+ "summary": "华尔街日报评论指出，从数据中心投票受挫到黄仁勋的风波，过去一个月对AI加速派来说可以说是流年不利。",
+ "body": [
+  "各位海外同胞，最近这一个月，天天喊着要一路狂飙的AI行业好像突然遇到了一道坎，在美国各地开始踩急刹车了。",
+  "## 阻力重重的小标题",
+  "从基层社区对高耗能数据中心的反对投票，再到近期引发热议的英伟达（Nvidia）CEO黄仁勋（Jensen Huang）相关风波，种种迹象表明，狂热的AI发展势头正在面临现实的阻力与审视。",
+  "对于咱们在海外关心科技浪潮和投资的朋友来说，这或许意味着AI疯狂扩张的步伐将变得更加谨慎，相关政策和监管也可能会随之收紧。"
+ ],
+ "tags": [
+  "人工智能",
+  "海外科技",
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | America Hits the Brakes on AI",
+ "lang": "en",
+ "published": "2026-11-22T20:47:00+00:00",
+ "created": "2026-11-22T23:39:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

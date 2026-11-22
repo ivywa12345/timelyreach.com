@@ -1,0 +1,25 @@
+{
+ "key": "bdbf82019b",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/eastern-libya-says-blast-on-russian-ship-likely-due-to-attack",
+ "title": "俄罗斯货轮在利比亚港口离奇爆炸！当地官方：是被无人装备袭击了",
+ "summary": "周日清晨，一艘停靠在利比亚班加西海军基地的俄罗斯船只发生爆炸，当地东部当局表示这很可能是无人载具袭击造成的，随后同一区域再次遭到打击并导致另一艘船只起火。",
+ "body": [
+  "周日清晨，停靠在利比亚班加西（Benghazi）海军基地的**一艘俄罗斯船只突发爆炸**。根据利比亚东部当局的初步调查，这起事故极有可能是遭到了“无人载具”的袭击，紧接着该地区又发生了更多打击，导致另一艘船只起火。",
+  "这起事件发生在星期天早些时候，爆炸地点位于利比亚东部的战略重镇班加西。虽然目前各方仍在核实具体细节，但袭击事件接连发生，已经导致两艘船只分别遭遇爆炸和火灾，安全局势引发关注。目前俄罗斯官方和相关船只的具体受损及人员伤亡情况仍在进一步统计中。"
+ ],
+ "tags": [
+  "利比亚",
+  "俄罗斯",
+  "突发事件",
+  "军事冲突"
+ ],
+ "original_title": "East Libya Says Blast on Russian Ship Likely Due to Attack",
+ "lang": "en",
+ "published": "2026-11-22T14:57:15+00:00",
+ "created": "2026-11-22T23:36:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

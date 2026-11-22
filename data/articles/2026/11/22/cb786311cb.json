@@ -1,0 +1,24 @@
+{
+ "key": "cb786311cb",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/finance-and-economics/2026/11/22/how-much-more-air-can-come-out-of-the-ai-trade",
+ "title": "AI概念股还能吹多久？市场这回真的有点慌了",
+ "summary": "华尔街对人工智能板块的狂热开始出现动摇，市场不安并非空穴来风。",
+ "body": [
+  "最近资本市场对人工智能（AI）板块的态度可以说是喜忧参半，投资者们开始认真琢磨，这股AI热潮到底还能维持多久？",
+  "从目前的市场反应来看，各种担忧并非空穴来风。虽然科技巨头们还在砸钱，但回报能否对得起投入，成了大家心里最大的问号。"
+ ],
+ "tags": [
+  "人工智能",
+  "美股",
+  "投资理财"
+ ],
+ "original_title": "How much more air can come out of the AI trade?",
+ "lang": "en",
+ "published": "2026-11-22T19:44:21+00:00",
+ "created": "2026-11-22T23:36:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

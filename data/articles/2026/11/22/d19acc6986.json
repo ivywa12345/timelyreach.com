@@ -1,0 +1,27 @@
+{
+ "key": "d19acc6986",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/europe/russian-ships-struck-in-attacks-far-from-ukraine-as-wars-fallout-spreads-a51964cb?mod=rss_worldnews",
+ "title": "俄罗斯军舰在利比亚港口被炸沉！战火怎么烧到这儿了？",
+ "summary": "俄罗斯一艘军舰在利比亚港口遭到袭击并沉没，此前波罗的海也发生了一起货船遇袭事件，显示俄乌战争的外溢效应正扩散至远方。",
+ "body": [
+  "最近，俄乌战争的外溢效应越来越让人看不懂了——战场不仅局限在乌克兰周边，连远在北欧和北非的地方也接连出事。根据《华尔街日报》报道，一艘俄罗斯军舰在利比亚的一个港口遭到袭击并沉没，而在那之前，波罗的海上还发生了一起货船遇袭事件。",
+  "这起事件的背景是俄乌冲突引发的国际供应链和海上安全危机正在不断升级。虽然冲突核心仍在东欧，但俄罗斯在海外的资产和航运路线已经频繁成为被袭目标。目前各方正在对这些袭击事件的幕后主使和具体损失情况进行评估。",
+  "对于远在海外的华人来说，这类地缘政治冲突的不断升级，最直接的影响往往体现在国际物流受阻、能源和商品价格波动，进而波及大家的钱包和日常生活。后续局势是否会进一步扩大，值得大家持续关注。"
+ ],
+ "tags": [
+  "俄乌战争",
+  "俄罗斯",
+  "利比亚",
+  "军事冲突",
+  "海外动态"
+ ],
+ "original_title": "Russian Ships Struck in Attacks Far From Ukraine as War’s Fallout Spreads",
+ "lang": "en",
+ "published": "2026-11-22T23:09:00+00:00",
+ "created": "2026-11-22T23:35:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

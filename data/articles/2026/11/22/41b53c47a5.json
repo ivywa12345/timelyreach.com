@@ -1,0 +1,26 @@
+{
+ "key": "41b53c47a5",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/science-and-technology/2026/11/20/ai-has-conquered-mathematics-greatest-challenge",
+ "title": "黎曼猜想被AI攻克了？数学界迎来大地震",
+ "summary": "经济学人报道称AI已经攻克了数学界最大的挑战黎曼猜想，引发了对数学和人工智能未来发展的广泛关注。",
+ "body": [
+  "近日数学界传来震撼消息，被誉为数学界最大挑战的黎曼猜想（Riemann hypothesis）已经被人工智慧攻克，这也引发了人们对数学未来走向的无限遐想。",
+  "黎曼猜想长期以来一直是数学家们心头的一块大石，许多重要的数学推论都建立在这个假设之上。如今AI在这个终极难题上取得突破，标志着人工智能在逻辑推理和复杂问题解决能力上达到了全新的高度。",
+  "对于我们普通人来说，这不仅是科技发展的一个里程碑，也预示着未来AI将在科学研究、药物研发等复杂领域发挥更加不可替代的作用，彻底改变人类探索未知的方式。"
+ ],
+ "tags": [
+  "人工智能",
+  "数学",
+  "黎曼猜想",
+  "科技前沿"
+ ],
+ "original_title": "AI has conquered mathematics’ greatest challenge",
+ "lang": "en",
+ "published": "2026-11-20T21:41:15+00:00",
+ "created": "2026-11-22T23:36:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
