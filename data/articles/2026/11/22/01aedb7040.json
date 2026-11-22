@@ -1,0 +1,27 @@
+{
+ "key": "01aedb7040",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/storm-devastates-rural-brazilian-town-in-threat-to-crops-lives",
+ "title": "巴西南部突发暴风雨！小镇惨遭毁灭，农业重镇拉响警报",
+ "summary": "巴西南部南里奥格兰德州周五遭遇强烈暴风雨袭击，一个小镇被毁，引发外界对当地关键农业产区遭受进一步破坏的担忧。",
+ "body": [
+  "周五，巴西南部农业大省南里奥格兰德州（Rio Grande do Sul）遭遇了一场威力巨大的暴风雨袭击。恶劣天气不仅彻底摧毁了当地的一个小镇，更让人们担心，接连不断的大雨和狂风可能会对该国的核心农业产区造成毁灭性的打击。",
+  "南里奥格兰德州是巴西举足轻重的农业基地。这场突如其来的风暴让当地居民和农场主措手不及，目前气象条件依然严峻，持续的降水和强风随时可能带来更多的灾害和人员财产损失。",
+  "对于关注全球农产品供应链和海外投资的华人朋友来说，南美洲极端天气频发可能会直接影响大豆、玉米等农作物的产量，进而对国际粮价产生波动影响。我们将持续为您关注当地灾情及后续进展。"
+ ],
+ "tags": [
+  "巴西",
+  "暴风雨",
+  "农业",
+  "极端天气",
+  "海外快讯"
+ ],
+ "original_title": "Storm Devastates Rural Brazilian Town in Threat to Crops, Lives",
+ "lang": "en",
+ "published": "2026-11-22T14:41:40+00:00",
+ "created": "2026-11-22T17:54:08+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

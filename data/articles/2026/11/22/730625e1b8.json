@@ -1,0 +1,27 @@
+{
+ "key": "730625e1b8",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8?mod=rss_markets_main",
+ "title": "AI泡沫已经破了？华尔街大佬直呼：这剧本我看过！",
+ "summary": "华尔街日报专栏作家詹姆斯·麦金托什（James Mackintosh）撰文指出，近期席卷股市的AI板块抛售潮，和当年互联网泡沫破裂的情形惊人相似。",
+ "body": [
+  "最近股市上关于人工智能（AI）板块的抛售潮闹得沸沸扬扬，华尔街日报（Wall Street Journal）专栏作家詹姆斯·麦金托什（James Mackintosh）指出，**这场动荡和当年的互联网泡沫破裂简直一模一样**。",
+  "回想当年的互联网泡沫，无数资金疯狂涌入新技术，最终却因为期望过高而遭遇市场残酷清算。如今AI概念股经历的剧烈震荡，让不少老股民闻到了当年的熟悉味道。",
+  "对于咱们海外华人来说，如果手里攥着不少科技股或AI相关投资，这波市场的急刹车可得提高警惕了。毕竟钱包里的真金白银经不起大风大浪，适时关注市场的风险变化，捂紧荷包才是上策。"
+ ],
+ "tags": [
+  "AI泡沫",
+  "美股",
+  "华尔街日报",
+  "科技股",
+  "投资理财"
+ ],
+ "original_title": "Has the AI Bubble Already Burst?",
+ "lang": "en",
+ "published": "2026-11-22T10:30:00+00:00",
+ "created": "2026-11-22T17:49:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

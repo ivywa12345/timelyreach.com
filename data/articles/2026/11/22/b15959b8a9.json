@@ -1,0 +1,30 @@
+{
+ "key": "b15959b8a9",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
+ "title": "养老生意也变味？私募资本盯上临终关怀，医疗支出竟飙升",
+ "summary": "一项最新研究显示，被私募股权公司收购后的临终关怀机构，在医疗支出和病患留院时长上均高于传统机构，引发市场对“金钱逐利”损害临终关怀质量的担忧。",
+ "body": [
+  "最近的一项研究让不少打算为家中长辈考虑临终关怀（Hospice）的华人家庭捏了把汗。数据显示，当私募股权公司（Private Equity）介入医疗领域后，这些机构的运营模式悄然发生了变化，直接导致Medicare（联邦医疗保险）的支出明显增加，而患者在机构中的停留时间也变得更长。",
+  "## 钱花得更多，人待得更久",
+  "这项研究揭示了一个耐人寻味的现象：与非营利性或传统医疗机构相比，被私募资本控制的临终关怀中心往往表现出更高的营利倾向。具体数据让人警觉：",
+  "- Medicare在这些机构上的平均报销金额明显更高。\n- 患者在机构中的停留时间普遍延长，且出院率有所下降。",
+  "研究人员认为，这可能是资本进入后，为了最大化利润而调整了收治标准或治疗流程。虽然对于临终关怀来说，延长生命质量是目标，但如果这种延长是出于财务获利目的，而非患者的医疗需求，那就变了味儿了。",
+  "对于在美华人来说，这无疑是个提醒。在为家人选择临终关怀服务时，除了看地理位置和口碑，最好也要查查该机构的背景。如果是私募背景的连锁品牌，建议多看看第三方评价，不要只听市场推销，以免在最脆弱的时刻，反而被商业机器当作了“摇钱树”。"
+ ],
+ "tags": [
+  "临终关怀",
+  "私募股权",
+  "美国医疗",
+  "Medicare",
+  "海外养老"
+ ],
+ "original_title": "Private equity has been buying up hospice centers — with striking consequences",
+ "lang": "en",
+ "published": "2026-11-22T17:22:00+00:00",
+ "created": "2026-11-22T17:51:51+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

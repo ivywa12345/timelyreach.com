@@ -1,0 +1,27 @@
+{
+ "key": "e791d01d2b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
+ "title": "股市连连跌？AI热潮退去，华尔街正在“未雨绸缪”",
+ "summary": "AI概念股行情震荡，期权交易员对后市波动表示担忧。",
+ "body": [
+  "最近股市这过山车坐得让人心惊胆战，随着AI热潮开始降温，之前一路狂飙的股市变得“脆弱”起来。现在的华尔街气氛相当紧张，不少期权交易员已经开始提前布局，准备迎接接下来的剧烈波动。",
+  "## AI行情还能稳住吗",
+  "过去一段时间，以AI为主导的科技股是支撑市场的支柱，但近期市场的抛售潮让不少投资者信心动摇。彭博社（Bloomberg）分析指出，市场现在变得非常敏感，一点风吹草动都可能引发大盘震荡。",
+  "对于咱们普通投资者来说，这意味着短期内账户可能会有不小的波动。现在的市场情绪非常谨慎，**期权市场的数据显示投资者正在为更大幅度的下跌做对冲准备**。建议大家近期还是稳字当头，别轻易加杠杆，毕竟保住本金才是硬道理。"
+ ],
+ "tags": [
+  "美股",
+  "人工智能",
+  "投资理财",
+  "股市波动"
+ ],
+ "original_title": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters",
+ "lang": "en",
+ "published": "2026-11-22T15:00:00+00:00",
+ "created": "2026-11-22T17:52:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

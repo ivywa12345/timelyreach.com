@@ -1,0 +1,25 @@
+{
+ "key": "279be5f231",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/iran-doubles-down-on-its-nuclear-ambitions-3d3ca7d3?mod=rss_worldnews",
+ "title": "美伊局势变了？美媒：德黑兰正走向“极限威慑”",
+ "summary": "华尔街日报发表评论文章称，由于认为美国实力削弱，伊朗正在放弃过去的“不战不和”策略，转而加码推进核野心，追求“极限威慑”。",
+ "body": [
+  "近日，《华尔街日报》刊登了一篇关于中东局势的评论文章。文章指出，随着德黑兰方面认为美国正处于虚弱状态，伊朗的战略已经发生了明显变化，从过去的“不战不和”直接转向了追求“极限威慑”，进一步加码其核野心。",
+  "长期以来，伊朗在面对美国和西方压力时，多采取相对隐忍或保持张力的“不战不和”策略。但据分析，当前的国际环境和美国在中东的战略收缩，让德黑兰产生了新的判断，认为有机可乘，因而加速推进核计划。"
+ ],
+ "tags": [
+  "中东局势",
+  "伊朗核问题",
+  "美国外交",
+  "国际新闻"
+ ],
+ "original_title": "Opinion | Iran Doubles Down on Its Nuclear Ambitions",
+ "lang": "en",
+ "published": "2026-11-22T16:43:00+00:00",
+ "created": "2026-11-22T17:53:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

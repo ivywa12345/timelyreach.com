@@ -1,0 +1,31 @@
+{
+ "key": "9271d7e01c",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/spy-chief-says-us-probing-alleged-spy-tied-to-former-nvidia-ceo",
+ "title": "英伟达卷入间谍风波？前CEO被曝与中国女子有染，美方已介入调查",
+ "summary": "美国国家情报总监透露，当局正调查一名疑似中国间谍，该女子曾与英伟达前CEO有过恋情。由于英伟达在AI芯片领域的霸主地位，该公司已成为非法窃取技术的目标。",
+ "body": [
+  "人工智能领域的龙头企业英伟达（Nvidia Corp.）最近不太平。美国国家情报总监克莱顿（Jay Clayton）近日公开表示，目前美国政府正在调查一名疑似与中国有关的间谍，而这名女子竟然曾与英伟达的前任CEO有过恋情。",
+  "## 顶级芯片成了“香饽饽”",
+  "克莱顿指出，由于英伟达在全球AI芯片市场拥有无可撼动的地位，该公司长期以来一直是各路势力试图非法获取高端技术的首要目标。对于美方而言，确保这些算力核心不被竞争对手通过非法手段获取，已成为国家安全层面的重要议题。",
+  "## 对在美华人的影响",
+  "这件事再次给在科技圈工作或从事相关研究的华人敲响了警钟。目前美方对所谓“间谍活动”的审查尺度不断收紧，不论是在职场还是社交中，大家务必提高合规意识，保护好个人的职业生涯及合法权益。",
+  "> 英伟达一直是那些试图非法获取高端芯片人士的持续目标。",
+  "美国国家情报总监 克莱顿（Jay Clayton）"
+ ],
+ "tags": [
+  "英伟达",
+  "美国安全",
+  "芯片技术",
+  "科技新闻",
+  "海外华人"
+ ],
+ "original_title": "US Probing Alleged Spy Tied to Ex-Nvidia CEO, Spy Chief Says",
+ "lang": "en",
+ "published": "2026-11-22T15:26:50+00:00",
+ "created": "2026-11-22T17:51:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

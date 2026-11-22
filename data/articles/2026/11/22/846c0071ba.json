@@ -1,0 +1,31 @@
+{
+ "key": "846c0071ba",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/22/us-news/delta-air-lines-outage-delays-thousands-of-flights-in-pre-thanksgiving-travel-chaos/",
+ "title": "感恩节前又要“趴窝”？达美航空系统故障引发全美大延误",
+ "summary": "感恩节假期临近，全球最繁忙的亚特兰大机场因达美航空（Delta Air Lines）系统故障陷入混乱，造成全美范围内数千架次航班延误，令出行旅客苦不堪言。",
+ "body": [
+  "就在感恩节出行高峰即将到来之际，达美航空（Delta Air Lines）掉链子了。周日当天，全球最繁忙的哈茨菲尔德-杰克逊亚特兰大国际机场（Hartsfield-Jackson Atlanta International Airport）突发大规模航班延误，这直接引发了连锁反应，导致全美各地的机场陷入一片混乱。",
+  "## 故障原因与现状",
+  "根据航班追踪网站FlightAware的数据，截至周日中午，亚特兰大机场有835架次航班延误，而在全美范围内，达美航空共有725架次航班被推迟。本次故障的核心原因是航空公司的飞机载重与平衡监控系统出现了问题。",
+  "达美航空方面表示：“团队正在通过手动处理的方式确保航班安全起飞，同时我们也在全力恢复自动化系统。”",
+  "## 连环事故引担忧",
+  "这已经是近期达美航空发生的又一次重大技术故障。事实上，这距离上一次导致全国性地停的严重技术问题才过去一周多。此外，近几个月来，达美还接连发生过飞机在飞行中急降27,000英尺以及飞行员突发医疗状况导致紧急备降等惊险事件。",
+  "对于准备在感恩节回家的华人朋友来说，这无疑是个坏消息。除了航空公司的系统隐患，东部地区本周预计还将迎来恶劣天气，大家在打包行李的同时，务必**提前检查航班状态**，并做好行程调整的心理准备。"
+ ],
+ "tags": [
+  "达美航空",
+  "感恩节",
+  "航空旅行",
+  "航班延误",
+  "美国生活"
+ ],
+ "original_title": "Delta Air Lines outage delays thousands of flights in pre-Thanksgiving travel chaos",
+ "lang": "en",
+ "published": "2026-11-22T16:38:00+00:00",
+ "created": "2026-11-22T17:55:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
