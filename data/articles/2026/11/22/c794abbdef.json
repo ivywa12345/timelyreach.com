@@ -1,0 +1,30 @@
+{
+ "key": "c794abbdef",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/news-releases/uscis-deploys-common-sense-tools-to-verify-voters",
+ "title": "移民局出手了！用这招防止非公民投票",
+ "summary": "美国移民局（USCIS）升级了SAVE系统，允许地方政府仅凭社安号（SSN）核查选民的美国公民身份，旨在防止非公民参与投票，保障选举公正。",
+ "body": [
+  "美国公民及移民服务局（USCIS）近日对“合法身份系统验证”（SAVE）项目进行了重要升级，旨在为全美核实移民身份和美国公民身份提供单一、可靠的权威渠道。现在，州和地方政府可以通过输入社安号（Social Security numbers）来帮助核实美国公民身份，从而防止非公民在各项美国选举中投票。",
+  "## 查选民更方便了",
+  "过去，地方机构在核查时往往需要国土安全部（DHS）的识别号，但这并不是大多数地方机构日常收集的信息。通过与社会安全管理局（Social Security Administration）的新合作，新系统允许直接使用社安号来创建核查公民或移民身份的案件。此外，这也是历史上首次允许地方机构“批量提交”多个案件，大幅提高了审核效率。",
+  "USCIS发言人马修·特拉格瑟（Matthew Tragesser）表示：“多年来，各州一直呼吁提供工具来识别和阻止外籍人士劫持我们的选举。在特朗普总统和诺姆部长领导下，USCIS正迅速行动以消除选民欺诈。”",
+  "> “我们预计很快会有更多改进，并将致力于恢复公众对美国选举的信任。” —— USCIS发言人 Matthew Tragesser",
+  "这项新进展是在国土安全部、USCIS以及政府效率部（DOGE）联合宣布优化SAVE项目之后推出的。为了鼓励各地使用，USCIS已从 **2025年4月1日起**，彻底免除了州、地方、部落及领地政府机构使用该服务的 **所有费用**，确保各地能够无门槛地接入联邦数据库，核对选民名册的合法性。"
+ ],
+ "tags": [
+  "美国移民局",
+  "SAVE系统",
+  "选民资格",
+  "社安号",
+  "选举公正"
+ ],
+ "original_title": "USCIS Deploys Common Sense Tools to Verify Voters",
+ "lang": "en",
+ "published": "2025-05-22T14:27:10+00:00",
+ "created": "2026-11-22T02:14:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

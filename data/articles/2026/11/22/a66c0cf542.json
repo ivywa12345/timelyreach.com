@@ -1,0 +1,27 @@
+{
+ "key": "a66c0cf542",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/gold-silver-drop-to-lowest-levels-in-over-a-year-c657402c?mod=rss_markets_main",
+ "title": "金银价格双双暴跌，创下一年来最大新低！",
+ "summary": "由于市场对货币政策收紧的预期升温，黄金和白银价格双双跌至一年多来的最低水平，避险需求遭到压制。",
+ "body": [
+  "最近打算投资贵金属的朋友可能注意到了，黄金和白银价格双双遭遇重挫，跌到了**一年多来的最低水平**。",
+  "按理说，现在市场上风险情绪不少，黄金这种传统的避险资产应该挺受欢迎才对。但根据《华尔街日报》记者 Megan Cheah 的分析，这次情况不太一样：大家对货币政策将进一步收紧的预期，完全盖过了投资者对避险资产的需求。",
+  "对于咱们海外华人来说，贵金属市场行情的剧烈波动往往也折射出宏观经济和美联储政策的风向。在利率预期高企的背景下，无论是配置资产还是管理手头的闲钱，近期做投资决定时可能都需要多留个心眼，密切关注后续的政策走向。"
+ ],
+ "tags": [
+  "黄金价格",
+  "白银暴跌",
+  "美联储",
+  "投资理财",
+  "海外华人"
+ ],
+ "original_title": "Gold, Silver Drop to Lowest Levels in Over a Year",
+ "lang": "en",
+ "published": "2026-11-20T14:14:00+00:00",
+ "created": "2026-11-22T02:13:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

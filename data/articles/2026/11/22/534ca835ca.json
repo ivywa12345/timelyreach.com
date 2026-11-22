@@ -1,0 +1,27 @@
+{
+ "key": "534ca835ca",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?mod=rss_Technology",
+ "title": "黄仁勋伴侣的商业伙伴，怎么卷入英伟达芯片走私案了？",
+ "summary": "一名涉嫌向中国走私英伟达芯片的被告，被曝出曾与英伟达CEO黄仁勋的浪漫伴侣有过工作合作，引发外界关注。",
+ "body": [
+  "据《华尔街日报》报道，近期美国破获了一起涉及向中国运送高端芯片的走私案件，而案件中的一名被告被发现曾与英伟达（Nvidia）首席执行官黄仁勋（Jensen Huang）的伴侣有过商业合作关系。",
+  "这起案件的核心是指控有人涉嫌违规将英伟达的高性能芯片运往中国。随着案件调查的深入，被告与英伟达高层核心圈子的潜在联系浮出水面，让这起原本的走私案更加受到科技界和监管部门的关注。",
+  "对于在美华人特别是关注科技行业和出口管制政策的人来说，这类案件再次敲响了警钟。随着中美在芯片领域的博关持续升级，任何涉及高端硬件的违规转移都将受到美国执法部门的严厉打击，相关供应链和合作伙伴的背景审查也正变得前所未有地严格。"
+ ],
+ "tags": [
+  "英伟达",
+  "芯片走私",
+  "黄仁勋",
+  "出口管制",
+  "科技新闻"
+ ],
+ "original_title": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
+ "lang": "en",
+ "published": "2026-11-22T02:00:00+00:00",
+ "created": "2026-11-22T02:13:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

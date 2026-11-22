@@ -1,0 +1,26 @@
+{
+ "key": "69fd8a369b",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-d2acd03c?mod=rss_markets_main",
+ "title": "美元创下一年新高！美联储这盘棋怎么走？",
+ "summary": "受美联储会议纪要显示通胀担忧加剧的影响，华尔街日报美元指数上涨0.22%至98.64，创下过去52周以来的新高。",
+ "body": [
+  "美联储最近公布的10月份会议纪要透露出央行官员们对通胀问题的持续担忧，受此消息刺激，美元汇率一路走高，刷新了过去一年来的最高纪录。",
+  "根据市场数据，华尔街日报美元指数（WSJ Dollar Index）在消息公布后上涨了 **0.22%**，最终报收于 **98.64** 点，正式登上了52周以来的最高峰。",
+  "对于在海外生活的华人来说，美元走强意味着手头的美元资产更抗通胀了，但如果近期有计划将人民币兑换成美元，或者有回国消费、海淘的需求，则需要承担更高的汇率成本。"
+ ],
+ "tags": [
+  "美元汇率",
+  "美联储",
+  "通胀",
+  "华尔街日报"
+ ],
+ "original_title": "WSJ Dollar Index Rises 0.22% to 98.64",
+ "lang": "en",
+ "published": "2026-11-18T22:59:00+00:00",
+ "created": "2026-11-22T02:15:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "4533e5810a",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/cio-journal/tech-outages-are-inevitable-business-chaos-doesnt-have-to-be-8394cbaa?mod=rss_Technology",
+ "title": "系统崩溃躲不掉？大厂这次教你如何保住钱包",
+ "summary": "科技股近期遭遇抛售，Anthropic盘前大跌高达10%。华尔街日报指出，虽然技术故障不可避免，但企业完全有办法避免陷入业务混乱。",
+ "body": [
+  "近期科技股市场震荡加剧，根据《华尔街日报》报道，人工智能初创公司 Anthropic 的股价在盘前交易中一度下跌高达 **10%**，引发市场广泛关注。",
+  "在科技股行情动荡的背景下，业内专家指出，虽然网络和系统故障在所难免，但企业完全可以通过做好应急准备，来避免引发整体业务的混乱。",
+  "对于关注美股和科技板块的海外华人来说，这也提醒我们在投资和选择服务供应商时，需要更加关注企业的抗风险能力和技术韧性，以防范潜在的资产波动风险。"
+ ],
+ "tags": [
+  "科技股",
+  "美股动态",
+  "Anthropic",
+  "海外投资"
+ ],
+ "original_title": "Tech Outages Are Inevitable. Business Chaos Doesn’t Have to Be.",
+ "lang": "en",
+ "published": "2026-11-20T14:12:00+00:00",
+ "created": "2026-11-22T02:14:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

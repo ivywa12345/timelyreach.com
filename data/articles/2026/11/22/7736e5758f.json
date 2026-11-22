@@ -1,0 +1,25 @@
+{
+ "key": "7736e5758f",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/ukrainian-strike-severs-part-of-russias-crimean-bridge-a688b0f1?mod=rss_worldnews",
+ "title": "乌军导弹无人机齐上阵，克里米亚大桥又挨炸了！",
+ "summary": "乌克兰使用无人机和巡航导弹对俄罗斯控制的克里米亚大桥发动袭击，部分桥体受损。此前，俄军曾对基辅的桥梁进行了数周的空袭。",
+ "body": [
+  "最近乌克兰和俄罗斯在“炸桥”这事儿上杠上了。在俄罗斯连续几周轰炸基辅的桥梁之后，乌克兰直接用无人机和巡航导弹进行了报复，成功炸断了连接俄罗斯和克里米亚大桥的一部分。",
+  "这次袭击可以说是乌军近期针对克里米亚半岛交通大动脉的一次重要军事动作，不仅让俄军的后勤补给线再度受阻，也让黑海地区的紧张局势进一步升级。"
+ ],
+ "tags": [
+  "乌克兰局势",
+  "克里米亚大桥",
+  "俄乌冲突",
+  "军事动态"
+ ],
+ "original_title": "Ukrainian Strike Severs Part of Russia’s Crimean Bridge",
+ "lang": "en",
+ "published": "2026-11-17T09:47:00+00:00",
+ "created": "2026-11-22T02:15:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

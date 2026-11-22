@@ -1,0 +1,26 @@
+{
+ "key": "16c1d26350",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/politics/national-security/the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-0bc1bd4a?mod=rss_worldnews",
+ "title": "黄仁勋卷入“间谍风暴”？华盛顿对华鹰派这回彻底坐不住了！",
+ "summary": "英伟达CEO黄仁勋卷入的一起AI间谍事件，意外给了华盛顿对华鹰派政客重新活跃的借口。",
+ "body": [
+  "最近围绕人工智能（AI）的一起间谍风闻，让华盛顿那些原本被边缘化的政客们找到了借口，开始再度大肆鼓吹对华强硬立场。",
+  "这起被称为AI间谍案的风波直接把英伟达（NVIDIA）掌门人黄仁勋卷入其中，也让美国政坛对尖端技术出口和国家安全的焦虑情绪再次升温。目前各方正在密切关注事态发展，这也给未来中美科技企业的合规和发展带来了更多不确定性。"
+ ],
+ "tags": [
+  "黄仁勋",
+  "英伟达",
+  "华盛顿",
+  "中美科技",
+  "AI间谍"
+ ],
+ "original_title": "The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
+ "lang": "en",
+ "published": "2026-11-19T02:00:00+00:00",
+ "created": "2026-11-22T02:15:08+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

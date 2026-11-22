@@ -1,0 +1,27 @@
+{
+ "key": "709c408138",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-21/fda-leadership-search-includes-cancer-care-ceo-rfk-jr-adviser",
+ "title": "懂王又要换人？FDA一把手传出这两位候选人",
+ "summary": "彭博社消息称，特朗普政府正在考虑让卫生与公众服务部高级顾问萨拉·布伦纳和纽约一家癌症医疗机构的负责人杰夫·瓦奇尔卡担任美国食品药品监督管理局（FDA）的领导职务，目前该机构正面临新一轮高层人事变动。",
+ "body": [
+  "知情人士透露，随着美国食品药品监督管理局（FDA）的高层即将迎来新一轮人事大地震，特朗普政府目前正在物色新的领导人选，其中有两位候选人浮出水面。",
+  "## 候选人背景",
+  "- 萨拉·布伦纳（Sara Brenner）：现任美国卫生与公众服务部（Department of Health and Human Services）的高级顾问。- 杰夫·瓦奇尔卡（Jeff Vacirca）：纽约一家肿瘤学医疗集团的负责人（CEO）。",
+  "目前相关讨论仍在进行中，最终人选和具体职位尚未完全敲定，这也意味着该机构未来的监管方向可能会迎来新的变化。"
+ ],
+ "tags": [
+  "FDA",
+  "特朗普政府",
+  "人事变动",
+  "美国医疗"
+ ],
+ "original_title": "FDA Leadership Search Includes Cancer Care CEO, RFK Jr. Adviser",
+ "lang": "en",
+ "published": "2026-11-21T21:59:01+00:00",
+ "created": "2026-11-22T02:14:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

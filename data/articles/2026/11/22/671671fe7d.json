@@ -1,0 +1,24 @@
+{
+ "key": "671671fe7d",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-38aa30b7?mod=rss_markets_main",
+ "title": "美元指数本周微涨，究竟发生了啥？",
+ "summary": "WSJ美元指数本周小幅上涨0.42%至98.75，不过最新一个交易日有所回落。",
+ "body": [
+  "本周华尔街日报美元指数（WSJ Dollar Index）整体呈现上涨态势，累计涨幅达到 **0.42%**，最新收于 **98.75**。",
+  "不过在刚刚过去的最后一个交易日中，该指数微跌了 **0.1%**，这也终结了此前连续两个交易日的上涨势头。"
+ ],
+ "tags": [
+  "美元指数",
+  "华尔街日报",
+  "汇率动向"
+ ],
+ "original_title": "WSJ Dollar Index Rises 0.42% This Week to 98.75",
+ "lang": "en",
+ "published": "2026-11-20T22:48:00+00:00",
+ "created": "2026-11-22T02:14:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

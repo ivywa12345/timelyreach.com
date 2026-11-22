@@ -1,0 +1,25 @@
+{
+ "key": "c96552dae6",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-face-drag-from-fed-rate-bets-50c20e86?mod=rss_markets_main",
+ "title": "美元又创新高！华尔街美元指数创下52周新高",
+ "summary": "华尔街美元指数近日攀升至过去52周以来的最高水平，引发市场关注。",
+ "body": [
+  "如果你最近准备把钱汇回国，或者正打算换汇，可能已经感受到了美元的强势。根据《华尔街日报》的数据，衡量美元对一篮子货币汇率的华尔街美元指数（WSJ Dollar Index）近日正式**创下52周新高**。",
+  "作为全球外汇市场的风向标，这一指数的飙升意味着美元在近期对主要货币的汇率表现十分强劲。对于有美元资产配置需求的人来说是个好消息，但对于需要将人民币兑换成美元的海外华人来说，近期的汇率成本可能会有所增加。"
+ ],
+ "tags": [
+  "美元汇率",
+  "华尔街美元指数",
+  "海外理财",
+  "经济动态"
+ ],
+ "original_title": "WSJ Dollar Index Rises to New 52-Week High",
+ "lang": "en",
+ "published": "2026-11-19T22:41:00+00:00",
+ "created": "2026-11-22T02:15:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
