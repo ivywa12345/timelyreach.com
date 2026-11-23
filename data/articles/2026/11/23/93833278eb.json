@@ -1,0 +1,22 @@
+{
+ "key": "93833278eb",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+ "title": "特朗普在接受CNBC采访时表示：“是我促成了这笔交易”，以使英伟达的黄仁勋重返董事会。",
+ "summary": "特朗普总统表示，他的政府向英伟达董事会保证，如果黄仁勋恢复首席执行官职务，他不会对国家安全构成威胁。",
+ "body": [
+  "特朗普总统表示，他的政府向英伟达董事会保证，如果黄仁勋恢复首席执行官职务，他不会对国家安全构成威胁。",
+  "（以上为CNBC内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "CNBC"
+ ],
+ "original_title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
+ "lang": "en",
+ "published": "2026-11-23T17:16:39+00:00",
+ "created": "2026-11-23T20:18:33+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

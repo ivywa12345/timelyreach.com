@@ -1,0 +1,22 @@
+{
+ "key": "88a9fba1a8",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026?mod=rss_markets_main",
+ "title": "今日股市：随着投资者对黄仁勋重返首席执行官职位表示欢呼，英伟达股价飙升",
+ "summary": "纳斯达克在周五的血洗之后反弹7%",
+ "body": [
+  "纳斯达克在周五的血洗之后反弹7%",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Stock Market Today: Nvidia Stock Surges as Investors Cheer Jensen Huang's Return as CEO",
+ "lang": "en",
+ "published": "2026-11-23T09:52:53+00:00",
+ "created": "2026-11-23T20:13:35+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

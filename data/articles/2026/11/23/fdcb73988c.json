@@ -1,0 +1,25 @@
+{
+ "key": "fdcb73988c",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/americas/the-mass-exodus-making-cubas-economic-crisis-even-worse-6fed25bd?mod=rss_worldnews",
+ "title": "古巴正经历大逃亡，经济翻身还有戏吗？",
+ "summary": "华尔街日报报道指出，古巴严重的经济困境和燃料短缺可能掩盖了一个更大的危机，即大规模的人口外流正在让这个国家的经济雪上加霜。",
+ "body": [
+  "最近去过古巴的人都知道，这个加勒比海岛国不仅面临着严重的经济危机和燃料短缺，还正在经历一场悄无声息但规模惊人的“大逃亡”。",
+  "根据《华尔街日报》（The Wall Street Journal）记者罗伯托·费尔德曼（Roberto Ferdman）的报道，这种大规模的人口外流现象，可能会让古巴未来想要实现经济翻身变得难上加难，甚至掩盖了更深层次的危机。"
+ ],
+ "tags": [
+  "古巴经济",
+  "人口外流",
+  "海外移民",
+  "燃料短缺"
+ ],
+ "original_title": "The Mass Exodus Making Cuba’s Economic Crisis Even Worse",
+ "lang": "en",
+ "published": "2026-11-23T18:03:00+00:00",
+ "created": "2026-11-23T20:11:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
