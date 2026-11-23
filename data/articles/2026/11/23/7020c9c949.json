@@ -1,0 +1,22 @@
+{
+ "key": "7020c9c949",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/cisco-openai-launch-project-to-safeguard-agentic-ai-f48e6420?mod=rss_Technology",
+ "title": "思科与OpenAI联手推出项目，旨在保障智能体AI的安全",
+ "summary": "该项目名为Shirudo，有助于在团队推出补丁时，无需重启即可保护正在运行的Linux系统。",
+ "body": [
+  "该项目名为Shirudo，有助于在团队推出补丁时，无需重启即可保护正在运行的Linux系统。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Cisco, OpenAI Launch Project to Safeguard Agentic AI",
+ "lang": "en",
+ "published": "2026-11-23T22:12:00+00:00",
+ "created": "2026-11-23T22:19:13+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

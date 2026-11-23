@@ -1,0 +1,26 @@
+{
+ "key": "26b2bb11a8",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/americas/cocaine-gangs-batter-colombian-security-forces-in-wave-of-attacks-3f14fa2e?mod=rss_worldnews",
+ "title": "毒贩急了？自制火箭弹和无人机猛砸哥伦比亚军警",
+ "summary": "哥伦比亚贩毒武装近期对安全部队发起了密集袭击，动用了自制火箭弹和无人机对抗政府的清剿行动。",
+ "body": [
+  "最近，哥伦比亚的毒品帮派和反叛武装坐不住了，竟然用上了自制火箭弹和无人机，对警察和军事设施发起了一波猛烈的袭击，摆明了是要跟政府叫板。",
+  "## 局势持续升级",
+  "这次暴力升级的背后，是哥伦比亚总统德拉埃斯普里拉（President de la Espriella）此前发下的狠话，他承诺要彻底粉碎国内的犯罪网络。没想到，毒贩非但没有收敛，反而利用改装无人机和土制火箭弹进行疯狂反扑，安全部队面临的压力越来越大。"
+ ],
+ "tags": [
+  "哥伦比亚",
+  "毒品犯罪",
+  "安全局势",
+  "国际新闻"
+ ],
+ "original_title": "Cocaine Gangs Batter Colombian Security Forces in Wave of Attacks",
+ "lang": "en",
+ "published": "2026-11-23T21:54:00+00:00",
+ "created": "2026-11-23T22:16:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

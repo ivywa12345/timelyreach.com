@@ -1,0 +1,22 @@
+{
+ "key": "5b5a2db041",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+ "title": "美联储的约翰·威廉姆斯表示，为应对通胀，利率可能会“随着时间的推移”而走高",
+ "summary": "这位颇具影响力的央行官员表示，他相信通胀将在2027年接近美联储2%的目标。",
+ "body": [
+  "这位颇具影响力的央行官员表示，他相信通胀将在2027年接近美联储2%的目标。",
+  "（以上为CNBC内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "CNBC"
+ ],
+ "original_title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+ "lang": "en",
+ "published": "2026-11-23T21:02:17+00:00",
+ "created": "2026-11-23T22:23:52+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

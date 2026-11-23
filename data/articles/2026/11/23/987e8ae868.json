@@ -1,0 +1,22 @@
+{
+ "key": "987e8ae868",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nvidia-chiefs-return-lifts-many-boats-3b515f16?mod=rss_markets_main",
+ "title": "英伟达首席执行官的回归带动了多家公司",
+ "summary": "此外，信贷市场对黄仁勋的复职以及Anthropic即将面临的债券市场挑战并不那么乐观。",
+ "body": [
+  "此外，信贷市场对黄仁勋的复职以及Anthropic即将面临的债券市场挑战并不那么乐观。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Nvidia Chief’s Return Lifts Many Boats",
+ "lang": "en",
+ "published": "2026-11-23T21:12:00+00:00",
+ "created": "2026-11-23T22:23:14+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
