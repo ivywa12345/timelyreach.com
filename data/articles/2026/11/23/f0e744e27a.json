@@ -1,0 +1,27 @@
+{
+ "key": "f0e744e27a",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/the-ai-correction-trade-arrives-d76f8636?mod=rss_Technology",
+ "title": "AI泡沫要破？华尔街日报警告：这回可能真要回调了！",
+ "summary": "华尔街日报发表评论指出，随着人工智能板块价格从历史高位回落，过高的杠杆率可能成为市场的最大软肋。",
+ "body": [
+  "近期，人工智能（AI）板块迎来了久违的“纠错时刻”，曾经高高在上的股价开始从高位回落，而华尔街的专业人士也开始坐不住了。",
+  "## 杠杆成最大隐患",
+  "华尔街日报（The Wall Street Journal）编辑委员会在最新的评论文章中指出，当前市场最令人担忧的地方不在于技术本身，而是投资者在这一波热潮中借了多少钱。高额的杠杆交易可能成为整个AI板块的软肋，一旦价格继续下跌，连锁反应不容小觑。",
+  "对于咱们海外华人投资者来说，这波AI修正潮提醒大家，投资高科技股票时切忌盲目跟风。如果动用杠杆资金炒股，在市场回调时很容易面临巨大的爆仓风险和资产缩水，护住自己的钱包才是长久之计。"
+ ],
+ "tags": [
+  "人工智能",
+  "华尔街",
+  "美股投资",
+  "科技股"
+ ],
+ "original_title": "Opinion | The AI Correction Trade Arrives",
+ "lang": "en",
+ "published": "2026-11-20T22:55:00+00:00",
+ "created": "2026-11-23T07:33:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

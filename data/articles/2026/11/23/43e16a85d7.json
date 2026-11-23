@@ -1,0 +1,26 @@
+{
+ "key": "43e16a85d7",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-22/treasury-futures-fall-as-rising-stock-futures-damp-haven-demand",
+ "title": "全球股市好像稳了？美债开盘表现很淡定",
+ "summary": "美国国债在欧洲交易时段开盘变动不大，因投资者正在评估全球股市可能企稳的迹象。",
+ "body": [
+  "周二欧洲现金交易时段刚开始时，美国国债表现得相当淡定，价格基本维持在原位，没有太大波动。彭博社（Bloomberg）的记者 Ruth Carson 和 Marcus Wong 报道指出，这是因为市场正在仔细观察全球股市是否真的迎来了企稳的信号。",
+  "近期全球金融市场经历了一阵波折，股市的起伏牵动着无数投资者的心。这次美债开盘波澜不惊，反映出大家在股市动荡之后，正在重新评估风险，暂时没有盲目大举买入或抛售国债。",
+  "对于海外华人投资者来说，美债和股市的动态直接关系到大家的资产配置和理财收益。虽然目前国债走势平稳，但在全球市场大环境不明朗的情况下，多留心股市和债市的联动变化，随时调整投资组合依然很有必要。"
+ ],
+ "tags": [
+  "美债",
+  "全球股市",
+  "海外投资",
+  "金融市场"
+ ],
+ "original_title": "Treasuries Open Steady as Investors Assess Stock Market Risks",
+ "lang": "en",
+ "published": "2026-11-22T23:59:06+00:00",
+ "created": "2026-11-23T07:33:25+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "bb9dfdcc8b",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/the-russian-exile-behind-the-missiles-that-helped-destroy-the-crimea-bridge-39adfa66?mod=rss_worldnews",
+ "title": "反普京俄籍富豪造导弹，把克里米亚大桥给轰了？",
+ "summary": "曾公开反对普京的俄罗斯流亡富豪米哈伊尔·科科里奇（Mikhail Kokorich），其名下公司研发的“鲁塔”（Ruta）巡航导弹被用于袭击克里米亚大桥。",
+ "body": [
+  "最近，袭击克里米亚大桥的武器背后竟然有一个意想不到的推手——一位公开跟俄罗斯总统普京叫板的流亡俄籍富豪。根据《华尔街日报》报道，这位名叫米哈伊尔·科科里奇（Mikhail Kokorich）的CEO，正是 Destinus 公司的掌舵人，而该公司生产的“鲁塔”（Ruta）巡航导弹直接参与了对这座战略大桥的打击。",
+  "## 流亡富豪的武器帝国",
+  "米哈伊尔·科科里奇（Mikhail Kokorich）是一位坚定的反普京人士，目前处于流亡状态。他所创立的 Destinus 公司专注于航空航天和国防技术的研发，此次在乌克兰战场上大显身手的“鲁塔”（Ruta）巡航导弹便出自该公司之手。",
+  "这起事件再次引发了外界对俄乌冲突中武器供应链和流亡商人群体立场的关注。对于在海外的华人朋友来说，地缘政治的持续动荡不仅牵动着全球供应链的神经，也可能对国际经贸和能源价格产生深远影响。"
+ ],
+ "tags": [
+  "俄乌冲突",
+  "克里米亚大桥",
+  "军事科技",
+  "流亡富豪"
+ ],
+ "original_title": "The Russian Exile Behind the Missiles That Helped Destroy the Crimea Bridge",
+ "lang": "en",
+ "published": "2026-11-23T03:00:00+00:00",
+ "created": "2026-11-23T07:31:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

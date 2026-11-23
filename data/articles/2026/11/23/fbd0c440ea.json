@@ -1,0 +1,28 @@
+{
+ "key": "fbd0c440ea",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/news-releases/uscis-assists-investigation-leading-to-sentencing-of-mexican-national-for-smuggling-and-labor",
+ "title": "蛇头栽了！偷渡背上巨额驴打滚债务，还要被逼干免费家务",
+ "summary": "美国移民局及多部门联合破获一起跨国走私与劳工贩运案，主犯墨西哥籍女子玛丽亚被判入狱51个月并面临遣返。",
+ "body": [
+  "美国司法部近日宣布，一名涉嫌跨国走私人口和强迫劳动的墨西哥籍女头目玛丽亚·德尔·卡门·桑切斯·波特罗（Maria Del Carmen Sanchez Potrero，又名Maria Carmela Sanchez）被判处 **51个月** 有期徒刑，刑满后将直接面临遣返。",
+  "这起案件由美国移民局（USCIS）、联邦调查局（FBI）、劳工部等多部门联合侦破。法庭文件显示，该犯罪团伙的操作手法令人发指：",
+  "- 受害者从墨西哥偷渡到美国，需支付高达 **15,000至20,000美元** 的偷渡费，且通常要在墨西哥老家交出房产契约作为抵押\n- 抵达康涅狄格州后，债务瞬间飙升至约 **30,000美元** 并开始计息，还要向团伙支付吃住费用\n- 团伙会为受害者伪造绿卡和社安卡并安排工作，但受害者不仅要还债，还被迫无偿做家务和庭院活\n- 如果还款不及时，犯罪分子会以伤害墨西哥家属、没收房产、举报移民身份等手段进行威胁",
+  "目前，调查人员已确认这起案件共有 **19名** 受害者，其中包含多名未成年人，甚至有至少两人是无人陪伴的未成年偷渡者。除了坐牢，法官还下令玛丽亚必须支付 **574,608美元** 的赔偿金。"
+ ],
+ "tags": [
+  "偷渡",
+  "劳工贩运",
+  "美国移民局",
+  "绿卡造假",
+  "刑事判决"
+ ],
+ "original_title": "USCIS Assists Investigation Leading to Sentencing of Mexican National for Smuggling and Labor Trafficking Scheme",
+ "lang": "en",
+ "published": "2025-04-24T19:04:44+00:00",
+ "created": "2026-11-23T07:33:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

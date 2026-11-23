@@ -1,0 +1,24 @@
+{
+ "key": "bbf5748da9",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-23/french-companies-to-announce-14-9-billion-in-local-investments",
+ "title": "大手笔！法国本土企业周一将官宣近150亿欧元投资",
+ "summary": "法国政府透露，本土企业将在周一宣布81个新投资项目，总额高达149亿欧元（约合164亿美元）。",
+ "body": [
+  "法国政府近日宣布了一项重磅经济消息，当地企业准备在周一集中官宣 **81个** 全新本土投资项目，总金额达到 **14.9亿欧元**（约合164亿美元）。",
+  "根据彭博社（Bloomberg）报道，这批投资由法国政府对外披露，显示出本土企业对当地经济和未来发展的持续信心。这些项目涵盖了多个领域，预计将为法国当地创造新的发展机遇和就业岗位。"
+ ],
+ "tags": [
+  "法国经济",
+  "企业投资",
+  "海外快讯"
+ ],
+ "original_title": "French Companies to Announce €14.9 Billion in Local Investments",
+ "lang": "en",
+ "published": "2026-11-23T07:22:15+00:00",
+ "created": "2026-11-23T07:34:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

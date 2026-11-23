@@ -1,0 +1,26 @@
+{
+ "key": "0e3c1e585f",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/the-ai-build-out-is-sucking-up-resources-and-crowding-out-the-rest-of-the-economy-13143007?mod=rss_Technology",
+ "title": "疯狂砸钱搞AI，把其他行业掏空了？",
+ "summary": "华尔街日报分析指出，当前疯狂的人工智能（AI）基建浪潮正在吸走大量的劳动力、设备、能源和投资，导致其他传统行业面临资源挤压，市场抛售也凸显了其中的风险。",
+ "body": [
+  "最近这股AI基建热潮简直是在“吸血”，把各行各业的资源都快掏空了。",
+  "根据《华尔街日报》专栏作家Justin Lahart的分析，现在大量的工人、专业设备、能源和投资全都被AI大开发给垄断了，留给经济中其他行业的资源少得可怜。这种“旱的旱死，涝的涝死”的局面，从最近的市场抛售潮中就能看出潜在的巨大风险。",
+  "对咱们海外华人来说，这种经济资源的极度倾斜意味着，除了AI相关的科技大厂和高薪岗位外，其他传统行业的发展和招聘可能会受到压制，甚至可能引发更广泛的经济波动，直接影响到大家的投资和就业大局。"
+ ],
+ "tags": [
+  "人工智能",
+  "经济大势",
+  "华尔街日报",
+  "科技泡沫"
+ ],
+ "original_title": "The AI Build-Out Is Sucking Up Resources and Crowding Out the Rest of the Economy",
+ "lang": "en",
+ "published": "2026-11-23T02:00:00+00:00",
+ "created": "2026-11-23T07:31:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

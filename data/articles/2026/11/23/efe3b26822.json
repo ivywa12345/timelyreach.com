@@ -1,0 +1,28 @@
+{
+ "key": "efe3b26822",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/magic-johnson-mark-walters-methodologytal-borrowing-990d6693?mod=rss_markets_main",
+ "title": "华尔街日报是怎么扒出亿万富翁惊人借贷内幕的？",
+ "summary": "华尔街日报记者 Shane Shifflett 详细解密了他们如何通过公开记录和专业分析，计算出亿万富翁 Mark Walter 的真实借贷总额。",
+ "body": [
+  "近日，《华尔街日报》记者 Shane Shifflett 撰文揭秘了媒体团队是如何一步步调查并确定富豪 Mark Walter 的总借贷金额的。",
+  "## 揭秘幕后调查过程",
+  "在这篇报道中，作者指出，由于许多富豪的资产和负债结构极其复杂，往往隐藏在各种实体和私下交易背后，准确统计他们的实际借款数额并不容易。记者团队通过深入挖掘各类公开记录、财务文件以及相关商业交易的数据，最终拼凑出了相对完整的资金流向图，锁定了核心债务数字。",
+  "> “通过系统性的公开记录检索与分析，我们得以一窥顶级富豪庞大资本帝国的杠杆操作。”—— 华尔街日报",
+  "对于关注海外资本市场和财富动向的华人朋友来说，了解这类深度报道背后的数据挖掘方法，也有助于看清大鳄们如何利用金融工具运作资金。"
+ ],
+ "tags": [
+  "华尔街日报",
+  "富豪借贷",
+  "调查新闻",
+  "财经解密"
+ ],
+ "original_title": "How the WSJ Determined Mark Walter’s Total Borrowing",
+ "lang": "en",
+ "published": "2026-11-23T01:44:00+00:00",
+ "created": "2026-11-23T07:35:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

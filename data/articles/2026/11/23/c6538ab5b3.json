@@ -1,0 +1,28 @@
+{
+ "key": "c6538ab5b3",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/23/us-news/trump-says-he-hopes-nvidia-rehires-jensen-huang-best-thing-for-the-usa/",
+ "title": "川普公开喊话英伟达：赶紧把黄仁勋请回来！",
+ "summary": "美国总统川普在社交媒体上公开呼吁英伟达董事会重新聘用卸任CEO黄仁勋，称这是对公司和美国的最佳选择。",
+ "body": [
+  "美国总统川普周日晚间通过社交媒体公开喊话，希望英伟达（Nvidia）董事会能够重新聘用前首席执行官黄仁勋（Jensen Huang），并直言这“对公司和美国都是最好的事”。",
+  "现年 63 岁的黄仁勋于 11 月 13 日宣布卸任英伟达 CEO 职务，此前他承认了与公司员工及新加坡企业 Megaspeed 前负责人 Alice Huang（两人无亲属关系）存在婚外情。美国情报部门此前指控 Alice Huang 涉嫌被中国国家安全部招募，试图接近这位芯片业巨头，相关情况此前已由商务部调查人员跟进。",
+  "尽管卷入丑闻并面临情报调查，川普与黄仁勋私下交情匪浅，今年早些时候黄仁勋还曾随同川普乘坐空军一号。川普在公开场合多次力挺这位“才华横溢”的企业家，不仅在周五对记者表示希望给黄仁勋“二次机会”，还透露自己在不久前的对华访问中曾与中国国家主席习近平讨论过此事。",
+  "> “我希望英伟达董事会重新聘用黄仁勋。这对公司来说是最好的事，对美国也是。” —— 美国总统川普"
+ ],
+ "tags": [
+  "川普",
+  "黄仁勋",
+  "英伟达",
+  "科技新闻",
+  "美国政治"
+ ],
+ "original_title": "Trump says he hopes Nvidia rehires Jensen Huang: ‘Best thing for the USA’",
+ "lang": "en",
+ "published": "2026-11-23T05:44:29+00:00",
+ "created": "2026-11-23T07:32:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

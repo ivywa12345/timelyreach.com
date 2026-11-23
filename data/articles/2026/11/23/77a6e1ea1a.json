@@ -1,0 +1,26 @@
+{
+ "key": "77a6e1ea1a",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-23/uk-traders-face-shaky-start-after-worst-week-for-stocks-since-march",
+ "title": "英国股市开盘悬了？刚经历3月以来最惨一周，期指全线走低",
+ "summary": "英国富时100指数期货显示市场将迎来动荡开局，此前该国股市刚刚遭遇了自3月以来表现最糟糕的一周。",
+ "body": [
+  "如果你最近关注英国股市，可能得做好心理准备了。根据彭博社报道，由于刚刚经历了一段惨淡行情，英国股市本周开盘预计依然会比较动荡，富时100指数（FTSE 100）的期货走势已经发出了谨慎信号。",
+  "就在刚刚过去的这一周里，英国股市创下了**3月以来最差单周表现**，让不少投资者捏了一把汗。目前来看，市场情绪依然脆弱，投资者正密切关注接下来是否有止跌企稳的迹象。",
+  "对于海外华人投资者来说，全球金融市场的波动往往具有传导效应。如果身处英国或持有相关资产，近期配置投资组合时需要格外注意风险，盯紧美欧等主要市场的联动反应，避免资产遭遇不必要的波动冲击。"
+ ],
+ "tags": [
+  "英国股市",
+  "富时100",
+  "金融市场",
+  "海外投资"
+ ],
+ "original_title": "UK Traders Face Shaky Start After Worst Week for Stocks Since March",
+ "lang": "en",
+ "published": "2026-11-23T07:30:16+00:00",
+ "created": "2026-11-23T07:32:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

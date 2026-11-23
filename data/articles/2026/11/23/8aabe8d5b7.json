@@ -1,0 +1,27 @@
+{
+ "key": "8aabe8d5b7",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+ "title": "股市大跌震荡，401(k)百万富翁人数缩水了？",
+ "summary": "根据富达（Fidelity）最新报告，受股市震荡影响，上一季度401(k)退休账户余额出现下滑，百万富翁账户数量减少，民众对生活成本的担忧依然持续。",
+ "body": [
+  "最近股市上蹿下跳，大家的退休金账户还好吗？根据金融服务巨头富达（Fidelity）发布的数据，受市场波动冲击，上一季度401(k)退休账户的余额普遍缩水，曾经让人羡慕的“401(k)百万富翁”人数也跟着减少了。",
+  "> “这是一个动荡的季度。”",
+  "富达（Fidelity）在报告中指出，除了账户余额缩水，高昂的生活成本和通货膨胀带来的负担依然困扰着普通民众，大家对日常开销和未来退休生活的负担能力普遍感到担忧。这也是近年来美国家庭在储蓄和消费上面临的真实写照。"
+ ],
+ "tags": [
+  "401(k)",
+  "退休金",
+  "股市震荡",
+  "富达",
+  "理财"
+ ],
+ "original_title": "The number of 401(k) millionaires drops amid stock-market swings",
+ "lang": "en",
+ "published": "2026-11-23T05:01:00+00:00",
+ "created": "2026-11-23T07:32:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

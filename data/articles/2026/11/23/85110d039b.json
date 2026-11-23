@@ -1,0 +1,29 @@
+{
+ "key": "85110d039b",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/asian-regulators-step-up-efforts-to-calm-ai-driven-market-turmoil-95ea6cf8?mod=rss_worldnews",
+ "title": "AI股票全球大跌！中韩台金融监管紧急出手",
+ "summary": "由于全球人工智能股票遭遇抛售引发市场动荡，中国、韩国和台湾地区的金融监管机构与市场运营方已纷纷推出紧急措施来稳定市场。",
+ "body": [
+  "最近几天，全球人工智能（AI）板块遭遇重挫，波及亚洲市场。为了安抚恐慌情绪并遏制市场动荡，中国、韩国和台湾地区的监管部门及市场运营方已经坐不住了，接连出台了多项紧急应对措施。",
+  "## 亚洲多地紧急拆弹",
+  "面对AI板块带动的股市震荡，亚洲主要经济体的监管和交易所迅速反应。虽然不同地区的具体政策有所差异，但核心目的都是为了防范系统性风险，防止恐慌情绪进一步蔓延，保护投资者的基本利益免受过山车式暴跌的冲击。",
+  "## 科技股波动牵动神经",
+  "作为全球供应链的关键节点，中韩台三地的股市与全球科技股尤其是AI热潮息息相关。近期华尔街及全球AI概念股的集体跳水，直接给亚洲地区的科技板块带来了巨大的抛售压力，也让不少押注科技股的投资者捏了一把汗。"
+ ],
+ "tags": [
+  "人工智能",
+  "股市动荡",
+  "金融监管",
+  "亚洲市场",
+  "科技股"
+ ],
+ "original_title": "Asian Regulators Step Up Efforts to Calm AI-Driven Market Turmoil",
+ "lang": "en",
+ "published": "2026-11-23T04:55:00+00:00",
+ "created": "2026-11-23T07:34:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

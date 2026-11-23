@@ -1,0 +1,28 @@
+{
+ "key": "b6ca88a1bf",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/22/us-news/amtrak-train-derails-afer-ramming-18-wheeler-stuck-on-tracks/",
+ "title": "节假日出行太惊险！美铁列车撞上卡车脱轨",
+ "summary": "美铁（Amtrak）一列载有96人的列车在路易斯安那州撞上卡车导致脱轨，造成4人受伤入院。",
+ "body": [
+  "正值节假日出行高峰，美国美铁（Amtrak）一列载有96人的列车在路易斯安那州与一辆卡车相撞，导致列车脱轨，所幸没有造成生命危险。",
+  "拉斐特警察局（Lafayette Police Department）表示，这起事故发生在周日傍晚6点左右，地点位于路易斯安那州布鲁萨德（Broussard）郊外。当时这列美铁列车正行驶在轨道上，突然撞上了一辆卡在铁道交叉口的18轮大货车（18-wheeler）。",
+  "警方调查发现，事发时这辆大型拖挂车正载着一台推土机，不料卡在了美式90号国道（US 90）的铁道交叉口上。虽然列车发现情况后试图减速，但拦车杆在货车卡住几分钟后才放下，最终未能避免碰撞。事故导致美铁列车的 **前两节车厢** 冲出轨道。",
+  "这起事故共造成 **4人** 因伤势无生命危险而被送往医院治疗，另有数人在现场接受了急救人员的处理。受事故影响，90号国道东侧南向右侧车道一度关闭，当地警方也呼吁过往司机在现场附近小心驾驶。截至目前，美铁官方尚未对此事做出回应。"
+ ],
+ "tags": [
+  "美铁",
+  "列车脱轨",
+  "交通事故",
+  "路易斯安那州",
+  "节假日出行"
+ ],
+ "original_title": "Amtrak train derails after ramming 18-wheeler stuck on tracks amid holiday travel chaos",
+ "lang": "en",
+ "published": "2026-11-23T04:45:20+00:00",
+ "created": "2026-11-23T07:33:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "73db488b5b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-23/malaysia-palm-oil-industry-says-cpo-tax-waiver-window-has-passed",
+ "title": "马来西亚棕榈油行业：免税窗口期已过，现在减税也没用了？",
+ "summary": "马来西亚棕榈油行业表示，通过暂时免除出口税来促进出货和缓解库存积压的最佳窗口期已经错过。",
+ "body": [
+  "马来西亚棕榈油行业近日表态称，此前能够通过免除出口税来帮助提振出货量、缓解国内库存积压的**最佳时机已经错过**。",
+  "根据彭博社（Bloomberg）报道，由于此前库存不断堆积，业界曾期望通过税收优惠政策来加速出口。然而，随着时间推移，这一政策窗口期目前已经关闭，错过了通过减税刺激市场的最佳效果。"
+ ],
+ "tags": [
+  "马来西亚",
+  "棕榈油",
+  "出口税",
+  "库存积压"
+ ],
+ "original_title": "Malaysia Palm Oil Industry Says CPO Tax-Waiver Window Has Passed",
+ "lang": "en",
+ "published": "2026-11-23T06:26:14+00:00",
+ "created": "2026-11-23T07:35:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

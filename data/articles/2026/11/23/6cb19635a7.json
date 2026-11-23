@@ -1,0 +1,27 @@
+{
+ "key": "6cb19635a7",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-23/trump-iran-talks-continue-year-end-republican-party-midterms-middle-east-arab",
+ "title": "特朗普松口：对伊谈判或延至年底",
+ "summary": "美国总统特朗普在接受采访时表示，如果外交谈判未能取得成果，他可能会在明年恢复对伊朗的军事行动，并将其党派在选举中的失利归咎于德黑兰日益激进的政策。",
+ "body": [
+  "美国总统特朗普（Donald Trump）在接受福克斯新闻（Fox News）采访时暗示，如果目前的谈判无法达成外交解决方案，他可能会把对伊朗的谈判和观察期一直延长到今年年底，并在明年视情况决定是否重启对伊朗的军事行动。",
+  "## 选举失利与强硬态度",
+  "特朗普将伊朗近期日益激进的政策，直接归咎于他所在的党派在选举中的失利。他认为，政治格局的变化让德黑兰认为有机可乘，从而采取了更具攻击性的立场。",
+  "目前，美伊之间的外交接触仍在持续。对于关注中东局势以及可能引发的油价波动、地缘政治风险的海外华人来说，年底前的这场外交博弈走向将直接决定未来的安全与经济环境。"
+ ],
+ "tags": [
+  "特朗普",
+  "伊朗",
+  "美国外交",
+  "中东局势"
+ ],
+ "original_title": "Trump Indicates He Might Let Iran Talks Continue Until Year-End",
+ "lang": "en",
+ "published": "2026-11-23T06:55:45+00:00",
+ "created": "2026-11-23T07:32:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
