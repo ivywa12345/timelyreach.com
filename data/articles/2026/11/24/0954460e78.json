@@ -1,0 +1,27 @@
+{
+ "key": "0954460e78",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-24/central-tokyo-used-condo-prices-fall-for-first-time-since-2013",
+ "title": "东京二手房降温了？核心区房价13年来首次下跌！",
+ "summary": "根据彭博社报道，受利率上升和库存积压影响，东京市中心二手公寓价格出现十多年来的首次同比下跌，释放出市场降温信号。",
+ "body": [
+  "如果你一直在关注日本房市，可能会注意到风向有点变了。根据彭博社（Bloomberg）记者 Ryo Horiuchi 的报道，东京市中心的二手公寓价格出现了自 2013 年以来的首次同比下跌。这也释放出了一个明显的信号：在经历了多年的火热之后，这个热门市场的热度终于开始降温了。",
+  "## 房市降温的两大推手",
+  "- 利率上升增加了购房者的贷款成本\n- 市场上的房源库存出现明显积压",
+  "对于在海外关注日本置业的华人来说，虽然东京核心区房产一直被视为资金避风港，但随着日本央行货币政策的调整和贷款利率的变动，过去“闭眼买都能涨”的日子可能正在过去。未来在下手买房时，需要更加关注资金成本和房屋的实际流动性。"
+ ],
+ "tags": [
+  "日本房产",
+  "东京二手房",
+  "海外置业",
+  "房市降温"
+ ],
+ "original_title": "Tokyo Core Used-Condo Prices Fall for First Time Since 2013",
+ "lang": "en",
+ "published": "2026-11-24T02:22:06+00:00",
+ "created": "2026-11-24T04:49:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

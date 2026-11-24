@@ -1,0 +1,26 @@
+{
+ "key": "eca751c3cc",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+ "title": "网红冰淇淋机公司要进标普500了！",
+ "summary": "网红小家电制造商SharkNinja即将被纳入标普500指数，替代AES公司。",
+ "body": [
+  "大家在网上经常刷到的网红冰淇淋机和各种爆款小家电，母公司要迎来高光时刻了！",
+  "根据MarketWatch报道，知名小家电制造商鲨鱼忍者（SharkNinja）即将正式加入标普500指数（S&P 500），它将取代目前的AES公司（AES）。",
+  "对于关注美股和投资的海外华人来说，成分股的变动往往意味着资金流向的变化。入选标普500不仅是对公司业绩的肯定，也会让各类指数基金自动买入，对公司的市值和股价通常是个不小的利好。"
+ ],
+ "tags": [
+  "SharkNinja",
+  "标普500",
+  "美股投资",
+  "财经新闻"
+ ],
+ "original_title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+ "lang": "en",
+ "published": "2026-11-23T23:18:00+00:00",
+ "created": "2026-11-24T04:50:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

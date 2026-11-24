@@ -1,0 +1,28 @@
+{
+ "key": "42ffbe93e1",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-23/south-korea-briefly-issues-air-raid-warning-over-russian-plane",
+ "title": "俄战机逼近领空！韩国紧急升空战机，岛上居民被令避难",
+ "summary": "韩国军方近日紧急出动战斗机，并短暂下令东部某岛屿居民寻求避难，起因是俄罗斯军机逼近韩国领空。这是莫斯科在该地区加强军事活动、试探美国盟友的最新一起类似事件。",
+ "body": [
+  "据彭博社（Bloomberg）报道，俄罗斯战机近日逼近韩国领空，引发韩国军方高度戒备。韩国迅速紧急升空战斗机应对，并短暂下令东部的一座岛屿居民寻找掩体避难。",
+  "## 局势背景与影响",
+  "这次事件并非孤立存在。随着莫斯科方面不断加大军事活动力度，频繁在这一地区采取行动测试美国的亚太盟友，类似的空中对峙和摩擦近年来时有发生。",
+  "对于在海外特别是关注区域安全和地缘政治的华人来说，朝鲜半岛及周边海空域的局势动荡，往往会直接影响到当地的安全氛围与区域稳定。"
+ ],
+ "tags": [
+  "韩国",
+  "俄罗斯",
+  "战机",
+  "领空安全",
+  "地缘政治"
+ ],
+ "original_title": "South Korea Scrambles Jets as Russian Warplanes Near Airspace",
+ "lang": "en",
+ "published": "2026-11-23T23:31:22+00:00",
+ "created": "2026-11-24T04:47:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

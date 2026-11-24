@@ -1,0 +1,27 @@
+{
+ "key": "bebb927404",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/china/alice-huang-us-intel-nvidia-china-34e2404a?mod=rss_worldnews",
+ "title": "数据高管卷入中国情报网？美媒曝惊人婚外情内幕",
+ "summary": "一名数据行业高管在与英伟达CEO黄仁勋保持婚外情期间，曾与中国情报网络进行过接触，引发外界对其真实身份的猜测。",
+ "body": [
+  "曾引发关注的数据行业高管 Alice Huang（Alice Huang）被曝在与英伟达（NVIDIA）CEO黄仁勋（Jensen Huang）交往期间，曾与中国的情报网络有过接触，这也让外界对她的真实身份打上了问号。",
+  "华尔街日报（Wall Street Journal）记者 Lingling Wei 指出，虽然这位高管确实与中方情报人员保持着联系，但她究竟算不算真正意义上的间谍，目前各方仍在探讨与调查之中。",
+  "对于身处海外的华人来说，这类涉及跨国背景和敏感行业的高层交往往往会引发更多的审查与关注，特别是科技圈和商业界人士，在处理人际关系和商业网络时更需要保持警惕，以免无端卷入地缘政治的漩涡之中。"
+ ],
+ "tags": [
+  "华尔街日报",
+  "科技圈",
+  "英伟达",
+  "海外华人",
+  "间谍风云"
+ ],
+ "original_title": "Alice Huang Had Ties to China’s Intelligence Network. But Was She Really a Spy?",
+ "lang": "en",
+ "published": "2026-11-24T02:00:00+00:00",
+ "created": "2026-11-24T04:48:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,29 @@
+{
+ "key": "2a15a88ff3",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-24/goldman-says-won-stability-beats-rate-hikes-in-cooling-inflation",
+ "title": "高盛：韩国与其盲目加息，不如先管好汇率！",
+ "summary": "高盛集团表示，稳定韩国货币汇率比加息更能有效遏制通胀，因为当前的价格压力主要源于进口成本上升，而非国内需求过旺。",
+ "body": [
+  "高盛集团（Goldman Sachs Group Inc.）近日指出，面对降温中的通货膨胀，韩国与其继续加息，不如把重点放在稳定本国货币汇率上，这样打击物价会更有效率。",
+  "## 进口成本才是推手",
+  "高盛分析认为，目前韩国面临的价格压力，根源其实是不断攀升的进口成本，而不是国内消费需求太过强劲。在这种情况下，单纯依靠提高利率来压制总需求，往往无法击中要害，反而可能给实体经济带来不必要的压力。",
+  "## 对我们的启示",
+  "对于关注全球经济和汇率走势的海外华人来说，这也提醒我们，在输入性通胀压力较大的背景下，汇率的波动往往比单纯的利率政策更能直接影响进口商品的物价水平，进而牵动着大家的日常生活成本。"
+ ],
+ "tags": [
+  "高盛",
+  "韩国经济",
+  "通货膨胀",
+  "汇率政策",
+  "加息"
+ ],
+ "original_title": "Goldman Says Won Stability Beats Rate Hikes in Cooling Inflation",
+ "lang": "en",
+ "published": "2026-11-24T04:33:10+00:00",
+ "created": "2026-11-24T04:50:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

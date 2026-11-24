@@ -1,0 +1,26 @@
+{
+ "key": "6c697f2b93",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/house-democrats-258-seats-congress-elections-4892aa7e?mod=rss_opinion",
+ "title": "众议院民主党稳操胜券：优势扩大至85席，超2008年金融危机水平",
+ "summary": "根据《华尔街日报》社论摘要，美国众议院民主党人此轮大胜，多数优势扩大至85席，总数达到258席，超越了2008年金融危机时的规模。",
+ "body": [
+  "美国政坛迎来最新变动，根据《华尔街日报》（The Wall Street Journal）社论指出，众议院民主党人此轮大获全胜，赢得了巨大的议席优势。",
+  "数据显示，民主党在此次选举中的多数优势达到了 **85个席位**，总议席数更是冲高至 **258席**。这一战绩相当亮眼，规模甚至超过了2008年美国金融恐慌时期的水平。",
+  "对于这一选举结果，各方仍在评估其对未来国会立法走向以及华盛顿政治格局的深远影响。"
+ ],
+ "tags": [
+  "美国政治",
+  "民主党",
+  "美国国会",
+  "华尔街日报"
+ ],
+ "original_title": "House Democrats Win an 85-Seat Margin",
+ "lang": "en",
+ "published": "2026-11-23T22:59:00+00:00",
+ "created": "2026-11-24T04:48:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

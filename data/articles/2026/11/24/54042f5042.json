@@ -1,0 +1,29 @@
+{
+ "key": "54042f5042",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/by-engineering-huangs-return-trump-endorses-silicon-valleys-founder-mode-45c613f8?mod=rss_Technology",
+ "title": "川普力挺“创始人模式”，押宝黄仁勋能带飞AI浪潮？",
+ "summary": "美国总统川普通过支持英伟达CEO黄仁勋重返硅谷中心，表态支持科技界的“创始人模式”，希望借此维持人工智能热潮。",
+ "body": [
+  "美国总统川普（Donald Trump）近期通过支持芯片巨头英伟达（NVIDIA）CEO黄仁勋（Jensen Huang）的回归，公开为硅谷推崇的“创始人模式”背书，押注这位芯片领军人物能让当前的AI热潮持续下去。",
+  "## 押注AI与硅谷模式",
+  "在这场科技与政治的交汇中，川普的选择释放了明确信号：白宫正寄希望于英伟达这样的行业巨头和其掌舵人，来确保美国在全球人工智能竞争中的领先地位，并持续推动相关的经济增长。",
+  "> 川普正是在赌这位芯片领军人物能够让AI热潮继续保持下去。 —— 华尔街日报",
+  "对于关注美国科技股和AI行业发展的海外华人来说，白宫与硅谷顶级大佬的深度绑定，或将对未来的科技投资、就业市场以及中美科技竞争走向产生深远影响。"
+ ],
+ "tags": [
+  "川普",
+  "黄仁勋",
+  "英伟达",
+  "硅谷",
+  "人工智能"
+ ],
+ "original_title": "By Engineering Huang’s Return, Trump Endorses Silicon Valley’s Founder Mode",
+ "lang": "en",
+ "published": "2026-11-24T02:00:00+00:00",
+ "created": "2026-11-24T04:48:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "ec2b03b0f7",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/then-and-now-see-how-nvidia-and-the-administration-pivoted-on-huang-d49b1c1b?mod=rss_Technology",
+ "title": "从“嘴炮”到座上宾！美国政坛对黄仁勋的态度为啥大变？",
+ "summary": "美国财长斯科特·贝森特等政客曾公开批评英伟达CEO黄仁勋的言行，但在黄仁勋重返芯片行业掌舵后，政府高层的态度发生了戏剧性的大转弯。",
+ "body": [
+  "曾几何时，美国政坛对人工智能领头羊英伟达（Nvidia）CEO黄仁勋可没这么客气。包括现任财政部长斯科特·贝森特（Scott Bessent）在内的一批政界领导人，过去曾公开批评过这位AI芯片掌门人的行事风格。",
+  "然而，随着黄仁勋重新回到芯片制造的一线，美国政府高层的态度来了个大转弯。面对这位科技界的大佬，华盛顿的官员们迅速调整了风向，从当年的公开指责变成了如今的积极拉拢。",
+  "这件事也提醒了咱们在美华人，在瞬息万变的科技和政治浪潮中，资本与权力的博弈永远充满戏剧性，而芯片产业作为中美科技战的核心，其每一个风吹草动都可能影响到身处海外的华人的职业走向和投资钱包。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "美国政坛",
+  "芯片产业",
+  "科技新闻"
+ ],
+ "original_title": "Then and Now: See How Nvidia and the Administration Pivoted on Huang",
+ "lang": "en",
+ "published": "2026-11-24T03:08:00+00:00",
+ "created": "2026-11-24T04:47:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

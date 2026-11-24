@@ -1,0 +1,28 @@
+{
+ "key": "78b622ed28",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/nvidia-jensen-huang-donald-trump-130e644c?mod=rss_opinion",
+ "title": "懂王又要搞国家资本主义？英伟达和黄仁勋这回麻烦了",
+ "summary": "华尔街日报社论指出，如果让黄仁勋继续担任英伟达CEO，可能会带来重大的国家安全和政治成本。",
+ "body": [
+  "近日，《华尔街日报》发表社论指出，让黄仁勋（Jensen Huang）继续担任英伟达（Nvidia）CEO一事，可能会引发一系列重大的国家安全和政治成本考量。",
+  "## 资本与政治的碰撞",
+  "这篇由编辑委员会（The Editorial Board）撰写的文章分析了当前科技巨头与国家机器之间的微妙关系。在特朗普（Donald Trump）推行国家资本主义背景下，像英伟达这样处于全球AI算力核心地位的企业，其领导层的决策和地缘政治立场正受到前所未有的审视。",
+  "对于关注中美科技战和海外发展环境的华人来说，芯片巨头的高层变动和政策风向，不仅关乎科技股的走势，也直接影响着高科技行业的供应链稳定以及相关从业者的职业走向。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "特朗普",
+  "国家资本主义",
+  "华尔街日报"
+ ],
+ "original_title": "Nvidia and Trump’s State Capitalism",
+ "lang": "en",
+ "published": "2026-11-23T23:00:00+00:00",
+ "created": "2026-11-24T04:47:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

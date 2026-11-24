@@ -1,0 +1,27 @@
+{
+ "key": "0d3e039496",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_markets_main",
+ "title": "黄仁勋复出点燃AI狂潮，亚洲股市周二集体反弹！",
+ "summary": "周二早盘，由于黄仁勋重新担任英伟达CEO的消息提振了市场信心，引发AI概念股大涨，亚洲股市随之强势反弹。",
+ "body": [
+  "周二早盘，亚洲股市迎来了久违的反弹，这波涨势的背后最大功臣可以说是老熟人黄仁勋（Jensen Huang）。随着他重新出任芯片巨头英伟达（Nvidia）的首席执行官，直接在市场上点燃了一把火，引爆了一场轰轰烈烈的AI股票大反弹。",
+  "根据《华尔街日报》报道，这次股市的回暖主要得益于科技板块的强势带动。黄仁勋（Jensen Huang）作为行业领军人物的回归，给原本动荡的投资者吃了一颗定心丸，让大家对人工智能未来的发展重新充满了期待，相关概念股也随之水涨船高。",
+  "对于咱们海外华人来说，科技股的波动直接关乎大家的投资账户和401(k)退休金。英伟达（Nvidia）作为美股乃至全球AI风向标，其高管变动和股价表现往往能牵动整个科技板块的神经，大家在配置资产时不妨多关注这类行业领头羊的动态。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "亚洲股市",
+  "AI概念股",
+  "美股"
+ ],
+ "original_title": "Asian Equities Rebound as Huang Reinstatement Sparks AI-Stock Rally",
+ "lang": "en",
+ "published": "2026-11-24T04:42:00+00:00",
+ "created": "2026-11-24T04:49:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

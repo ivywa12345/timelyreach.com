@@ -1,0 +1,28 @@
+{
+ "key": "9f3c6a1d18",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/news-releases/uscis-assists-in-investigation-leading-to-sentencing-of-uk-man-for-lying-to-immigration-authorities",
+ "title": "绿卡申请隐瞒前科？英国男子谎报身份被判刑",
+ "summary": "美国移民局（USCIS）协助破获了一起移民欺诈案，一名英国男子因在绿卡申请中隐瞒曾用名和犯罪前科，近日被法院判处刑期已满（实际服刑一天）并面临驱逐出境。",
+ "body": [
+  "近日，波士顿联邦检察官办公室宣布了一起移民造假案的判决结果。一名来自英国的男子邓肯·霍兰兹（Duncan Hollands，曾用名邓肯·赫德 Duncan Herd）因在移民申请中作虚假陈述，被判处**服刑一天**（即已服刑时间）以及两年的监督释放，并将在定罪后启动驱逐出境程序。",
+  "根据法院文件，霍兰兹在绿卡（合法永久居民）申请表以及面谈时，信誓旦旦地宣称自己从未用过其他名字，也没有任何犯罪前科。但事实上，他隐瞒了自己曾以“邓肯·赫德”之名在英国因欺诈获取财产等罪名被判处**三年多监禁**的黑历史，他在英国和法国也都有过其他犯罪记录。最终，他在2025年1月15日对移民申请说谎的罪名认罪。",
+  "这起案件由美国波士顿联邦检察官办公室、国土安全调查局（HSI）新英格兰分部以及美国国务院外交安全局（DSS）波士顿现场办公室联合公布。美国移民局（USCIS）以及多地执法部门在此次调查中提供了关键协助。",
+  "对于在美华人来说，这起案件再次敲响了警钟。移民申请切忌心存侥幸隐瞒真实信息或犯罪记录，随着美国各执法部门和移民局之间信息共享的日益完善，任何欺诈行为都难逃法律制裁，不仅面临刑事处罚，更会直接丢掉身份被遣返。"
+ ],
+ "tags": [
+  "移民局",
+  "绿卡申请",
+  "隐瞒前科",
+  "移民欺诈",
+  "驱逐出境"
+ ],
+ "original_title": "USCIS Assists in Investigation Leading to Sentencing of U.K. Man for Lying to Immigration Authorities",
+ "lang": "en",
+ "published": "2025-04-18T15:16:27+00:00",
+ "created": "2026-11-24T04:47:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

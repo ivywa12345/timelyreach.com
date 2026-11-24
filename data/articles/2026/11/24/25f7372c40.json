@@ -1,0 +1,27 @@
+{
+ "key": "25f7372c40",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
+ "title": "油价暴跌安抚通胀焦虑，美债全线上涨！",
+ "summary": "由于油价下跌缓解了市场对通胀的担忧，美国国债全线走高。与此同时，黄仁勋重返英伟达也重新点燃了投资者的风险偏好。",
+ "body": [
+  "近期美国国债迎来了全线上涨，主要推手是国际油价的明显回落。这一变化有效缓解了市场对通货膨胀卷土重来的担忧，让投资者紧绷的神经放松了不少。",
+  "值得注意的是，在美债收益率变动的同时，市场风险偏好也得到了提振。彭博社（Bloomberg）报道指出，这天正好赶上英伟达公司（Nvidia Corp.）的黄仁勋（Jensen Huang）再度露面，成功重振了投资者的风险资产胃口。",
+  "对于海外华人投资者来说，金融市场的这些波动直接关系到大家的资产配置。油价和通胀预期的缓和，意味着美联储的加息压力可能进一步减轻，不管是手中的美元理财还是房贷利率，近期都值得密切关注。"
+ ],
+ "tags": [
+  "美债",
+  "通胀",
+  "油价",
+  "英伟达",
+  "黄仁勋"
+ ],
+ "original_title": "Treasuries Advance as Cheaper Oil Alleviates Inflation Concerns",
+ "lang": "en",
+ "published": "2026-11-24T04:42:33+00:00",
+ "created": "2026-11-24T04:47:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

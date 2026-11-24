@@ -1,0 +1,27 @@
+{
+ "key": "aa36c57f3b",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
+ "title": "美联储加息预期升温，美债价格在亚洲时段下跌",
+ "summary": "受美联储可能进一步加息的预期影响，美债价格在亚洲交易时段小幅走低。",
+ "body": [
+  "受美联储（Federal Reserve）加息预期升温的影响，美国国债（U.S. Treasurys）在亚洲交易时段价格出现小幅下跌。",
+  "近期市场对美国通胀和货币政策走向高度关注，随着美联储继续收紧货币政策的概率上升，债券市场率先做出反应，价格承压下行。",
+  "对于在美华人来说，美债收益率的波动往往会传导至房贷、车贷等各类消费贷款利率。如果利率持续走高，大家的借贷成本和日常财务规划都可能受到直接影响。"
+ ],
+ "tags": [
+  "美联储",
+  "美债",
+  "加息",
+  "华尔街日报",
+  "海外财经"
+ ],
+ "original_title": "U.S. Treasurys Edge Lower Amid Higher Fed Rate-Hike Prospects",
+ "lang": "en",
+ "published": "2026-11-24T03:00:00+00:00",
+ "created": "2026-11-24T04:48:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "6d6c646d7c",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/politics/national-security/iran-us-cyberattack-suspect-fed78942?mod=rss_worldnews",
+ "title": "油轮连遭黑客袭击？美国怀疑幕后黑手是伊朗",
+ "summary": "美国官员透露，多达50艘载有石油等易爆物质的船只疑似遭到网络袭击，美方正将矛头指向伊朗。",
+ "body": [
+  "美国官员近日表示，多达 **50艘** 载有石油和其他易爆物质的船只疑似遭遇了新一轮的网络袭击，而幕后黑手极有可能是伊朗。",
+  "根据《华尔街日报》记者 Shelby Holliday 的报道，这批遭到攻击的船只数量相当惊人，引发了美方高度关注。目前相关部门正在对这些网络攻击事件进行深入调查，以评估具体的安全威胁和潜在损失。",
+  "对于在海外涉及能源运输和航运安全的华人来说，地缘政治冲突引发的网络安全与供应链风险可能会对全球油价和能源市场产生波动影响。"
+ ],
+ "tags": [
+  "网络安全",
+  "伊朗",
+  "航运安全",
+  "美国新闻"
+ ],
+ "original_title": "U.S. Eyes Iran as Possible Culprit in Dozens of New Cyberattacks Against Ships",
+ "lang": "en",
+ "published": "2026-11-24T00:00:00+00:00",
+ "created": "2026-11-24T04:49:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

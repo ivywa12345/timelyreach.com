@@ -1,0 +1,26 @@
+{
+ "key": "0f20087ac0",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade",
+ "title": "黄仁勋一回归，亚洲AI概念股直接买疯了！",
+ "summary": "周二亚洲AI板块全线暴涨，从中国台湾到吉隆坡的芯片制造商和数据中心概念股大幅飙升。此前该板块因市场对AI热潮可持续性的质疑而连续数周受挫，黄仁勋重回英伟达的消息彻底点燃了投资者的买入狂潮。",
+ "body": [
+  "周二，亚洲的AI板块迎来了强劲反弹，此前经历数周低迷的芯片制造商和数据中心概念股纷纷迎来大涨。这场由台积电到吉隆坡（Kuala Lumpur）相关企业的狂欢，直接带动了整个亚洲市场的做多情绪。",
+  "在此之前，市场对人工智能热潮能否持续存在不少怀疑，导致相关板块连续多周遭遇打击。随着英伟达（Nvidia）掌门人黄仁勋（Jensen Huang）的回归，瞬间打消了市场的顾虑，直接引爆了新一轮的抢筹风暴。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "亚洲股市",
+  "人工智能",
+  "芯片股"
+ ],
+ "original_title": "Huang Comeback Ignites Limit-Up Frenzy in Battered Asia AI Trade",
+ "lang": "en",
+ "published": "2026-11-23T23:45:20+00:00",
+ "created": "2026-11-24T04:48:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
