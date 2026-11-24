@@ -1,0 +1,23 @@
+{
+ "key": "be4e1d7700",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Nikkei Asia",
+ "source_url": "https://x.com/NikkeiAsia/status/2125212866072461687",
+ "title": "亚洲英伟达供应商对黄仁勋回归反应谨慎",
+ "summary": "亚洲的英伟达供应商对黄仁勋回归持谨慎欢迎态度，这是日经亚洲在美国隔夜期间阅读量最高的报道。",
+ "body": [
+  "早上好，美国。这是您睡觉期间我们阅读量最高的报道。",
+  "亚洲的英伟达（Nvidia）供应商对黄仁勋（Jensen Huang）回归持谨慎欢迎态度。"
+ ],
+ "tags": [
+  "英伟达",
+  "亚洲"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-24T13:00:06+00:00",
+ "created": "2026-11-24T14:08:18+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
