@@ -1,0 +1,22 @@
+{
+ "key": "b256ac88c8",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
+ "title": "英伟达、Anthropic股价大跌，纳斯达克100指数下挫：市场综述",
+ "summary": "由于对人工智能板块行情持续性的怀疑，股市下跌，华尔街也在解读有关美国新关税的言论。",
+ "body": [
+  "由于对人工智能板块行情持续性的怀疑，股市下跌，华尔街也在解读有关美国新关税的言论。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Nasdaq 100 Sinks as Nvidia, Anthropic Get Hammered: Markets Wrap",
+ "lang": "en",
+ "published": "2026-11-23T22:06:46+00:00",
+ "created": "2026-11-24T17:47:22+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

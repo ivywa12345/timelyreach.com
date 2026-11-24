@@ -1,0 +1,27 @@
+{
+ "key": "89905978fa",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-24/riyadh-s-finance-hub-attacked-saudi-anti-houthi-coalition-says",
+ "title": "利雅得核心区突遭袭击：胡塞武装导弹击中大楼致11人受伤",
+ "summary": "沙特官方证实，胡塞武装对利雅得主要商业区的一座大楼发动袭击，造成11人受伤，这对沙特将首都打造成全球金融中心的努力是个不小的打击。",
+ "body": [
+  "据彭博社报道，沙特阿拉伯官方表示，胡塞武装近日对利雅得主要商业区的一座大楼发动了袭击，导致 **11人** 受伤。",
+  "这起袭击事件发生在一个敏感时期。近年来，沙特正大力推动经济多元化，试图将首都利雅得打造成为吸引全球投资和人才的国际金融中心，而此次袭击无疑给这一宏伟计划带来了又一次挫折。",
+  "目前，沙特当局正在对袭击事件进行处理，相关各方也在密切关注中东局势的进一步发展对当地安全和经济环境可能产生的影响。"
+ ],
+ "tags": [
+  "沙特",
+  "胡塞武装",
+  "利雅得",
+  "中东局势",
+  "商业中心"
+ ],
+ "original_title": "Houthi Attack on Riyadh Tower Injures 11 People, Saudis Say",
+ "lang": "en",
+ "published": "2026-11-24T13:44:45+00:00",
+ "created": "2026-11-24T17:45:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,22 @@
+{
+ "key": "4b28d61064",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-24/nyc-calls-on-kalshi-polymarket-to-testify-on-marketing-to-youth",
+ "title": "调查发现，纽约市21岁以下的Kalshi用户损失了890万美元",
+ "summary": "根据Kalshi向纽约市议会发布的内部数据，纽约市有超过5万名18至21岁的人正在使用Kalshi，并且他们正在以不成比例的速度亏损。",
+ "body": [
+  "根据Kalshi向纽约市议会发布的内部数据，纽约市有超过5万名18至21岁的人正在使用Kalshi，并且他们正在以不成比例的速度亏损。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Kalshi Users Under 21 Lost $8.9 Million in NYC, Probe Finds",
+ "lang": "en",
+ "published": "2026-11-24T15:21:17+00:00",
+ "created": "2026-11-24T17:45:00+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

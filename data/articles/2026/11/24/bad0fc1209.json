@@ -1,0 +1,22 @@
+{
+ "key": "bad0fc1209",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
+ "title": "随着投资者权衡美联储前景以及股市抛售，黄金价格大幅下挫",
+ "summary": "金价下跌，抹去了周一的大幅反弹，原因是白宫的最新关税计划导致股市走低，投资者预计利率将进一步上调。",
+ "body": [
+  "金价下跌，抹去了周一的大幅反弹，原因是白宫的最新关税计划导致股市走低，投资者预计利率将进一步上调。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Gold Slumps as Investors Weigh Fed Outlook, Stocks Selloff",
+ "lang": "en",
+ "published": "2026-11-24T00:06:57+00:00",
+ "created": "2026-11-24T17:46:58+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
