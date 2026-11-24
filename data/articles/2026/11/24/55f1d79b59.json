@@ -1,0 +1,30 @@
+{
+ "key": "55f1d79b59",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/a-bipartisan-backlash-is-hitting-nvidia-in-washington-in-the-wake-of-trumps-push-for-huangs-return-565626f2?mod=mw_rss_topstories",
+ "title": "英伟达在华盛顿“腹背受敌”：两党罕见达成共识，对华出口管制恐再收紧",
+ "summary": "尽管特朗普近期公开力挺黄仁勋，但美国国会两党对英伟达的态度却愈发强硬，正酝酿新一轮对华芯片出口限制及多项调查。",
+ "body": [
+  "最近美国政坛的风向有点耐人寻味，一边是特朗普对英伟达（Nvidia）首席执行官黄仁勋（Jensen Huang）的回归表示支持，另一边华盛顿却突然掀起了一股针对英伟达的跨党派“反弹”浪潮。",
+  "## 华府为何突然“发难”？",
+  "目前，美国国会两党对于进一步限制英伟达与中国的业务往来似乎达成了共识。根据最新动向，议员们正在推动多项行动，不仅要求针对英伟达的对华芯片交易出台更严厉的限制措施，还计划召开多场听证会并要求举行简报会，对公司的运作进行更深入的调查。",
+  "## 对华人意味着什么？",
+  "作为全球AI算力的“军火商”，英伟达的一举一动都牵动着科技圈的神经。对于生活在北美的华人科技从业者来说，这不仅是地缘政治的博弈，更关系到就业市场与职业规划。随着国会态度趋于强硬，未来英伟达的合规成本可能大幅增加，甚至可能影响其在华业务的营收预期。建议从事相关领域的华人密切关注：\n- 美国针对尖端芯片出口的最新管制条款细节\n- 国会后续举行的针对性听证会披露的行业风向\n- 科技巨头在政策施压下可能的裁员或业务重组动作",
+  "对于投资者而言，华盛顿的这种“两党一致”态度是一个明确的风险信号，这意味着英伟达在未来一段时间内将面临**监管不确定性加大**的严峻局面。"
+ ],
+ "tags": [
+  "英伟达",
+  "芯片战争",
+  "华盛顿政治",
+  "AI产业",
+  "对华出口管制"
+ ],
+ "original_title": "A bipartisan backlash is hitting Nvidia in Washington in the wake of Trump’s push for Huang’s return",
+ "lang": "en",
+ "published": "2026-11-24T20:42:00+00:00",
+ "created": "2026-11-24T20:55:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

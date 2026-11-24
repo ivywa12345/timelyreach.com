@@ -1,0 +1,27 @@
+{
+ "key": "ba51d92909",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+ "title": "才上市一周就跌破发行价？AI新贵Anthropic这是怎么了",
+ "summary": "AI领域的明星公司Anthropic在纳斯达克上市仅一周，股价就跌破了83美元的发行价，引发市场关注。",
+ "body": [
+  "AI赛道的日子最近确实不好过。被称为OpenAI最强劲对手的AI公司Anthropic（Anthropic），在纳斯达克挂牌上市还不到一周，股价就没撑住，周二盘中首次跌破了83美元的发行价。",
+  "这次破发对于近期火热的AI IPO市场来说是个不小的打击。虽然公司背靠亚马逊和谷歌等巨头，吸引了大量投资者的目光，但二级市场的买家们显然更加谨慎，对该公司的长期估值和盈利能力打起了问号。",
+  "目前来看，股价下跌反映了华尔街对AI初创公司“泡沫化”的担忧。对于持有相关科技股的华人投资者来说，这种波动也是个提醒：即使是AI大厂，上市初期的股价表现也充满不确定性，盲目跟风投资风险不小。"
+ ],
+ "tags": [
+  "美股",
+  "Anthropic",
+  "AI",
+  "IPO",
+  "科技股"
+ ],
+ "original_title": "Anthropic’s stock just broke below its IPO price for the first time",
+ "lang": "en",
+ "published": "2026-11-24T19:31:00+00:00",
+ "created": "2026-11-24T21:03:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

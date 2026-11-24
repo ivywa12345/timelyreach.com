@@ -1,0 +1,29 @@
+{
+ "key": "466c506a4e",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main",
+ "title": "英伟达热潮退去，金价这波“过山车”坐稳了吗？",
+ "summary": "此前受英伟达（Nvidia）股价大涨带动而上扬的黄金市场，目前已回吐部分涨幅，投资者重新聚焦通胀及美联储利率政策。",
+ "body": [
+  "黄金市场最近有点“坐不住”。前阵子因为科技巨头英伟达（Nvidia）的表现亮眼，带动市场情绪一度高涨，金价也跟着沾了光。不过好景不长，这波涨势没能撑多久，金价已经回吐了前一交易日的大部分涨幅，重新跌回了震荡区间。",
+  "## 还是离不开通胀和利率",
+  "为什么金价又“泄气”了？说到底，市场还是那个老问题：通胀到底什么时候能凉下来？以及美联储（Federal Reserve）到底什么时候打算降息？",
+  "目前市场普遍在观望接下来的通胀数据。对于我们华人投资者来说，这其实是个信号：黄金目前依然极度敏感，任何有关利率政策的“风吹草动”，都可能导致金价出现 **大幅波动**。如果你有配置黄金资产的习惯，短期内恐怕要做好迎接更多震荡的心理准备。",
+  "- 黄金市场近期走势主要受英伟达股价牵动\n- 投资者重新评估通胀压力与美联储利率预期\n- 金价目前处于回调阶段，波动性风险依然较高"
+ ],
+ "tags": [
+  "黄金",
+  "英伟达",
+  "美联储",
+  "投资理财",
+  "通胀"
+ ],
+ "original_title": "Gold Futures Give Back Gains Following Nvidia-Driven Rally",
+ "lang": "en",
+ "published": "2026-11-24T18:52:00+00:00",
+ "created": "2026-11-24T20:59:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

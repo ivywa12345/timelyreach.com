@@ -1,0 +1,27 @@
+{
+ "key": "b0951e4ac3",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
+ "title": "AI泡沫又要破？英伟达大涨一天后，科技股再度“翻车”",
+ "summary": "英伟达股价刚刚经历大涨，美股科技板块周三再度遭遇抛售，市场对AI投资热潮的担忧情绪死灰复燃。",
+ "body": [
+  "美股周三表现疲软，科技股再次成为重灾区。就在前一天，英伟达（Nvidia）首席执行官黄仁勋（Jensen Huang）的回归消息曾带动美股创下自2025年4月以来的单日最大涨幅，但这种乐观情绪仅仅维持了不到24小时。",
+  "目前，投资者对AI领域的“狂热”开始出现降温迹象。作为AI龙头的英伟达，以及背靠大模型的初创公司Anthropic，其股价均出现了明显下滑。这种走势反映出市场对于AI技术能否持续转化成企业实际利润的质疑声依然存在。",
+  "对于在美华人投资者来说，最近的市场波动相当剧烈。虽然AI板块被视为美股长期的增长引擎，但短期内这种“过山车”式的行情也提醒大家：在追逐热点时，依然要警惕估值过高带来的回调风险，切勿盲目跟风操作。"
+ ],
+ "tags": [
+  "美股",
+  "英伟达",
+  "人工智能",
+  "投资理财",
+  "科技股"
+ ],
+ "original_title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+ "lang": "en",
+ "published": "2026-11-24T19:32:00+00:00",
+ "created": "2026-11-24T20:54:04+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "04af64fc02",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+ "title": "美联储最新会议纪要出炉，贴现率决策有何玄机？",
+ "summary": "美联储刚刚公布了10月下旬两次董事会会议的纪要，主要讨论了向存款机构提供的贴现率问题。虽然这与大家常关注的联邦基金利率不同，但仍是观测美联储货币政策动向的重要窗口。",
+ "body": [
+  "美联储（Federal Reserve）在美东时间周二发布了10月19日及10月28日两次董事会会议的纪要。这次会议的核心议题是审核并确定贴现窗口（Discount Window）的贴现率，即美联储向商业银行等存款机构提供短期流动性的利率。",
+  "需要特别提醒大家的是，美联储设定贴现率的过程，与大家平时最关心的联邦公开市场委员会（FOMC）决定联邦基金利率目标区间的流程是**完全分开的**。虽然两者都属于美联储调节货币政策的工具，但分工侧重各有不同。",
+  "对于在美华人来说，贴现窗口的流动性情况往往被视为金融体系的“安全阀”。如果该利率出现变动，通常反映了美联储对于银行系统流动性需求的评估，这也是我们判断贷款利率和市场资金成本走势的参考指标之一。"
+ ],
+ "tags": [
+  "美联储",
+  "利率",
+  "金融",
+  "美国经济"
+ ],
+ "original_title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+ "lang": "en",
+ "published": "2026-11-24T19:00:00+00:00",
+ "created": "2026-11-24T20:55:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

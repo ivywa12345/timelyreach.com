@@ -1,0 +1,32 @@
+{
+ "key": "80a5acb9a1",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+ "title": "Meta的AI不加广告反而更赚钱？Instagram这招太绝了",
+ "summary": "Meta旗下的AI助手Muse虽然不投放广告，却通过整合Instagram的购物数据，成为公司广告业务的新增长引擎。",
+ "body": [
+  "Meta虽然在AI助手Muse内部保持“零广告”状态，但它其实正在后台默默发力，通过Instagram精准助推公司的广告业务。据知情人士透露，Meta正在引导用户将Instagram上的收藏内容整理进Muse，而这些收藏里大量都是种草商品或广告信息。",
+  "## 为什么AI不放广告反而更赚钱？",
+  "Meta的一位高管表示，Muse虽然不直接卖广告位，但它能显著提高转化率。通过减少购物过程中的阻力，Muse让用户更容易回头下单，从而提升广告主的投资回报率（ROI）。这实际上是把AI变成了品牌的超级导购，让广告费花得更值。",
+  "## AI带货实力惊人，Meta已成行业霸主",
+  "根据Meta首席执行官扎克伯格（Mark Zuckerberg）此前披露的数据，Muse用户中有25%都在通过该工具购物，且客单价平均超过了**200美元**。在AI购物领域，Meta已经展现出统治地位：",
+  "- Meta的Muse占据了**51%**的AI购物订单份额\n- SpaceX旗下的Grok占据了24%的份额\n- OpenAI的ChatGPT占据了22%的份额",
+  "> 这对广告主来说价值巨大，因为它通过帮助用户完成购物，从而为广告商带来了更高的投资回报率。——Meta高管",
+  "对于在美华人来说，Meta的这一策略意味着我们在社交平台上看到的“精准推荐”可能会变得越来越聪明，甚至当你动念想买东西时，AI就已经帮你筛选好了。未来Meta很有可能在Muse中加入类似新闻流的广告，但短期内他们更倾向于先培养用户习惯。这不仅是AI技术的竞争，更是未来电商市场谁能更高效帮用户“剁手”的较量。"
+ ],
+ "tags": [
+  "Meta",
+  "人工智能",
+  "Instagram",
+  "电商",
+  "科技新闻"
+ ],
+ "original_title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+ "lang": "en",
+ "published": "2026-11-24T20:37:40+00:00",
+ "created": "2026-11-24T21:02:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

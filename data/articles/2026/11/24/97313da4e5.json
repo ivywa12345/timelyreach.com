@@ -1,0 +1,29 @@
+{
+ "key": "97313da4e5",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/saudi-engineer-accused-of-bugging-openai-to-be-released-on-1-million-bond-954f048e?mod=rss_Technology",
+ "title": "这就是“吃里扒外”？前OpenAI工程师涉嫌窃听公司机密，获准百万美元保释",
+ "summary": "前OpenAI工程师被指控录制机密对话，包括公司内部与客户及政府官员的会议，目前已被获准以100万美元保释。",
+ "body": [
+  "谁能想到，在如今AI圈最炙手可热的OpenAI，竟然出了个“窃听风云”。据《华尔街日报》（The Wall Street Journal）报道，一名来自沙特的前OpenAI工程师被指控在职期间偷偷录制了公司的机密谈话，目前法官已经批准他以100万美元的保证金取保候审。",
+  "## 究竟录了什么？",
+  "根据检方的说法，这位工程师录下的内容可不是什么闲聊，而是真真切切的商业机密。其中包括了OpenAI内部与关键客户的会议，甚至还涉及到了与政府官员的闭门对话。这不仅是职业道德问题，更是直接触碰了法律红线。",
+  "根据检方指控，被告的行为威胁到了公司的核心商业利益：\n- 录制了公司与重要客户的内部讨论\n- 未经授权记录了与政府官员的机密会谈\n- **涉嫌窃取具有高度竞争力的技术和战略信息**",
+  "对于咱们在美职场奋斗的华人朋友来说，这事儿也算是一个警钟。无论在哪个级别的科技公司，商业机密保护永远是红线中的红线。这起案件不仅让OpenAI的安全性备受质疑，也提醒大家，在处理公司敏感数据时，哪怕是稍微越界的操作，都可能引来巨大的法律麻烦，甚至毁掉职业前程。"
+ ],
+ "tags": [
+  "OpenAI",
+  "科技新闻",
+  "职场安全",
+  "保释",
+  "海外华人"
+ ],
+ "original_title": "Saudi Engineer Accused of Bugging OpenAI to Be Released on $1 Million Bond",
+ "lang": "en",
+ "published": "2026-11-24T20:37:00+00:00",
+ "created": "2026-11-24T20:54:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

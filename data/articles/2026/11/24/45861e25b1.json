@@ -1,0 +1,27 @@
+{
+ "key": "45861e25b1",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_worldnews",
+ "title": "中东局势又紧张了？油价刚跌又弹了回来",
+ "summary": "周二国际油价经历了一波起伏，尽管市场担心全球原油供应可能过剩，但中东航运受阻的风险依然让油价在盘中迅速回升。",
+ "body": [
+  "周二的国际油价表现得有些“反直觉”，开盘时本来还有所下跌，但很快就翻红涨了回来。这背后其实是两股力量在打架：一边是大家担心全球原油供应太多可能压垮价格，另一边则是中东地区始终无法消停的航运风险，时刻威胁着石油运输的安全。",
+  "简单来说，目前的油市处于一个纠结状态。如果供应真的过剩，油价本该一路走低，但只要中东那一带出现风吹草动，贸易商们就会立刻警惕起来，担心石油供应链随时会掉链子，导致价格出现波动。",
+  "对于咱们在美的华人来说，这件事最直接的关联就是家门口的加油站价格。虽然国际油价的震荡不一定会立刻反映到油枪上，但这类全球性的能源供应链风险，往往是影响下半年通胀走势的关键，大家加油时建议还是多留意一下当地价格变动。"
+ ],
+ "tags": [
+  "国际油价",
+  "能源市场",
+  "中东局势",
+  "海外生活",
+  "通胀"
+ ],
+ "original_title": "Oil Prices Rebound as Shipping Risks Persist",
+ "lang": "en",
+ "published": "2026-11-24T12:33:00+00:00",
+ "created": "2026-11-24T20:59:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

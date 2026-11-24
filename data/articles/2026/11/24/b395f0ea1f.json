@@ -1,0 +1,27 @@
+{
+ "key": "b395f0ea1f",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-24/netflix-buys-seinfeld-la-studio-lot-after-goldman-forecloses",
+ "title": "Netflix大手笔！3.8亿美元买下《宋飞正传》拍摄地",
+ "summary": "Netflix宣布以3.8亿美元收购洛杉矶著名的Radford Studio Center，这片曾拍摄过经典美剧《宋飞正传》的影棚正式易主。",
+ "body": [
+  "流媒体巨头Netflix终于在好莱坞的地皮争夺战中出手了。据彭博社消息，Netflix斥资3.8亿美元，拿下了位于洛杉矶的Radford Studio Center。这片场地在影视圈地位显赫，不仅是多部经典美剧的“诞生地”，更是美剧《宋飞正传》（Seinfeld）的拍摄主场。",
+  "这次交易背后的故事也相当有看头。原本这块地归属于投资公司，但由于财务问题，华尔街投行高盛（Goldman Sachs）先行收回了该物业的控制权，随后才由Netflix接盘买下。",
+  "对在美华人来说，这类好莱坞核心资产的流转不仅是行业的大新闻，也反映了流媒体平台在加州影视业的持续扩张。作为《宋飞正传》粉丝心目中的圣地，这笔价值 **3.8亿美元** 的地产交易，意味着Netflix正在通过深耕核心制作基地，进一步巩固其在原创内容生产上的“护城河”。"
+ ],
+ "tags": [
+  "Netflix",
+  "好莱坞",
+  "商业地产",
+  "宋飞正传",
+  "高盛"
+ ],
+ "original_title": "Netflix Buys Seinfeld Studio Lot After Goldman Forecloses",
+ "lang": "en",
+ "published": "2026-11-24T20:15:34+00:00",
+ "created": "2026-11-24T20:54:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "6dcff6e7d4",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/nvidia-and-federal-intervention-b812b8ef?mod=rss_opinion",
+ "title": "英伟达的管理权之争：股东说了算，还是政府说了算？",
+ "summary": "关于英伟达（Nvidia）管理权的问题引发了讨论，核心观点在于公司的运营决策权应归属于股东，而非政府介入。",
+ "body": [
+  "最近，关于英伟达（Nvidia）这类科技巨头的公司治理问题引发了热议。简而言之，现在的争议焦点在于：到底谁有权决定公司由谁来经营？",
+  "华尔街日报（The Wall Street Journal）评论员詹姆斯·弗里曼（James Freeman）明确指出，作为企业的真正所有者，股东才应当是管理决策的最终拍板人。如果政府过度介入企业的内部事务，甚至试图干预管理层的任免，这不仅违背了市场化原则，也可能削弱科技创新的活力。",
+  "对于在美华人来说，这类关于企业治理和行政干预的讨论其实并不遥远。无论是身在科技大厂工作的工程师，还是持有相关股票的投资者，政府政策的每一次转向都可能直接影响到公司的股价表现，进而关联到大家的养老金账户和职场稳定。"
+ ],
+ "tags": [
+  "英伟达",
+  "美股",
+  "公司治理",
+  "华尔街日报"
+ ],
+ "original_title": "Nvidia and Federal Intervention",
+ "lang": "en",
+ "published": "2026-11-24T20:35:00+00:00",
+ "created": "2026-11-24T20:54:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
