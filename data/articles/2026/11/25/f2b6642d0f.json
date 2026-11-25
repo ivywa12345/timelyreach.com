@@ -1,0 +1,27 @@
+{
+ "key": "f2b6642d0f",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-25/michael-burry-is-more-long-than-short-after-dumping-nasdaq-puts",
+ "title": "电影《大空头》原型翻多？迈克尔·巴里清空纳斯达克看跌期权",
+ "summary": "因成功预测2008年次贷危机而闻名的大空头迈克尔·巴里近期清空了纳斯达克100指数的看跌期权，目前其看多股票仓位已超过看空仓位。",
+ "body": [
+  "曾因做空美国抵押贷款市场名声大噪的传奇投资者迈克尔·巴里（Michael Burry）最近有了新动作：随着科技股遭遇抛售潮，他不仅卸下了针对纳斯达克100指数的看跌期权（put options），手里的**做多股票仓位**反而比做空还要多了。",
+  "根据彭博社（Bloomberg）的报道，巴里这次的操作主要是清理了此前押空科技股的期权头寸。在科技板块经历了一轮剧烈回调之后，这位华尔街著名的“空神”目前的投资组合天平，已经明显向多头方向倾斜。",
+  "对于关注美股走势的海外华人来说，大空头不再一味唱空，或许折射出当前科技股在经历大跌后，部分机构开始重新评估其长期价值。不过，股市风云变幻，投资做决定前还得根据自身的风险承受能力谨慎评估。"
+ ],
+ "tags": [
+  "迈克尔·巴里",
+  "美股",
+  "科技股",
+  "大空头",
+  "纳斯达克"
+ ],
+ "original_title": "Michael Burry Is More Long Than Short After Dumping Nasdaq Puts",
+ "lang": "en",
+ "published": "2026-11-25T17:18:09+00:00",
+ "created": "2026-11-25T20:19:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "cb4eef16a7",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/deals/dodgers-owner-todd-boehly-clinches-deal-for-overseas-assets-of-russias-lukoil-9679356a?mod=rss_markets_main",
+ "title": "道奇队老板出手！接盘俄罗斯石油巨头海外资产",
+ "summary": "洛杉矶道奇队老板Todd Boehly成功达成交易，收购了俄罗斯第二大石油公司卢克石油（Lukoil）的海外资产。这笔交易源于特朗普政府对卢克石油实施制裁以施压莫斯科。",
+ "body": [
+  "洛杉矶道奇队（Los Angeles Dodgers）的共同所有者托德·伯利（Todd Boehly）近日成功拿下了一笔大买卖，出手接盘了俄罗斯能源巨头卢克石油公司（Lukoil）的海外资产。",
+  "这笔收购案的背后有着明显的政治背景。根据华尔街日报的报道，这起出售交易最初是在特朗普政府对卢克石油资产实施制裁后被点燃的，当时美国政府希望借此在乌克兰战争的谈判中向莫斯科施加压力。",
+  "对于在海外投资或关注国际能源市场的华人来说，这类因地缘政治引发的资产大洗牌往往会直接影响全球油价和相关产业链的变动。虽然这笔交易属于资本层面的商业运作，但其起因纯粹是美俄博弈和严厉制裁的结果，也再次提醒大家地缘政治对全球经济的深远影响。"
+ ],
+ "tags": [
+  "道奇队",
+  "Todd Boehly",
+  "卢克石油",
+  "美国制裁",
+  "海外资产"
+ ],
+ "original_title": "Dodgers Owner Todd Boehly Clinches Deal for Overseas Assets of Russia’s Lukoil",
+ "lang": "en",
+ "published": "2026-11-25T18:41:00+00:00",
+ "created": "2026-11-25T20:21:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

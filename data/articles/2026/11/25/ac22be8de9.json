@@ -1,0 +1,31 @@
+{
+ "key": "ac22be8de9",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+ "title": "AI股怎么了？黄仁勋出马也压不住这波科技股大跌",
+ "summary": "受通胀数据及AI高昂投入担忧影响，科技股周三集体回调。英伟达股价大跌5%，纳斯达克综合指数下跌1%。",
+ "body": [
+  "周三，美国科技股遭遇集体抛售，英伟达（Nvidia）CEO黄仁勋此前亮相带来的市场兴奋感迅速消退，投资者对AI板块可持续性的担忧再度抬头，纳斯达克综合指数盘中受挫并最终收跌1%。",
+  "## 芯片股重挫与市场恐慌",
+  "巴克莱银行（Barclays）美国股票策略主管韦努·克里希纳（Venu Krishna）在接受CNBC采访时表示，市场目前感到有些恐慌。他指出：“市场释放的信号是，AI增长叙事似乎碰壁了，鉴于这一主题对经济的核心影响，市场正预期某种宏观冲击的到来。”",
+  "- 英伟达（Nvidia）在周一创下历史最佳表现之一后连续走低，周三**大跌5%**\n- 美光科技（Micron Technology）同步下跌5%，AMD、迈威尔科技（Marvell Technology）及英特尔（Intel）跌幅均在2%左右\n- 甲骨文（Oracle）跌幅超过4%，亚马逊、特斯拉和谷歌母公司Alphabet均下跌约2%",
+  "## 通胀与高利率的阴影",
+  "这波科技股下跌的背景，是华尔街正在消化一份偏高的通胀数据。这加剧了市场对高利率可能削弱科技等成长股需求的担忧。不过，AI实验室Anthropic逆势上涨超过4%，部分收复了上周IPO以来的失地，Meta也录得微涨。",
+  "对于咱们在美华人来说，科技股和AI板块的剧烈震荡往往直接牵动着401(k)退休账户和科技打工人的心。如果宏观经济和高利率压力持续，不仅投资组合需要系紧安全带，科技行业的招聘和薪酬景气度也可能会受到连带影响。"
+ ],
+ "tags": [
+  "英伟达",
+  "美股",
+  "人工智能",
+  "科技股",
+  "通胀"
+ ],
+ "original_title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+ "lang": "en",
+ "published": "2026-11-25T19:19:05+00:00",
+ "created": "2026-11-25T20:17:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

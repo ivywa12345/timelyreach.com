@@ -1,0 +1,25 @@
+{
+ "key": "7b6b3f78a6",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
+ "title": "美联储12月降息悬了？通胀依然是块大石头",
+ "summary": "在美联储即将迎来关键的12月利率投票之际，官方表态称顽固的通胀仍然是经济扩张的一大痛点。",
+ "body": [
+  "美联储（Federal Reserve）于周三表示，在关键的12月利率投票即将到来之前，美国经济虽然在持续扩张，但**顽固的通胀**依然是挥之不去的“大麻烦”。这意味着，市场原本密切关注的12月降息决策，可能还会再生变数。",
+  "MarketWatch作者 Jeffry Bartash 指出，这次官方表态直接点出了当前美国宏观经济的最大隐忧。尽管整体经济还在增长，但物价上涨的压力并没有如预期般明显缓解，这也让美联储在制定下一步货币政策时陷入了两难境地。"
+ ],
+ "tags": [
+  "美联储",
+  "通胀",
+  "利率",
+  "美国经济"
+ ],
+ "original_title": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
+ "lang": "en",
+ "published": "2026-11-25T19:39:00+00:00",
+ "created": "2026-11-25T20:20:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

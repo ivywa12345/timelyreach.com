@@ -1,0 +1,26 @@
+{
+ "key": "f0784a636c",
+ "board": "finance",
+ "source_id": "fed",
+ "source_name": "美联储",
+ "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+ "title": "明年买车贷款保护线变了！这几个数字华人要看好",
+ "summary": "美联储与消费者金融保护局公布了2027年消费者信贷和租赁规则的金额门槛，受CPI-W上涨影响，适用保护额度将调整为76,300美元或以下。",
+ "body": [
+  "美国联邦储备委员会（Federal Reserve Board）与消费者金融保护局（Consumer Financial Protection Bureau）联合宣布了2027年消费者信贷和租赁交易适用相关联邦法规保护的最新金额门槛。",
+  "按照法律规定，这两家机构每年需要根据城市工薪阶层和文职人员消费价格指数（CPI-W）的年度涨幅来调整门槛。由于截至2026年6月1日的CPI-W年增长率为 **3.9%**，在2027年，规制借贷的《Z条例》（Regulation Z）和规制租赁的《M条例》（Regulation M）普遍将适用于 **76,300美元** 或以下的消费信贷交易和消费租赁。",
+  "不过需要注意的是，不论贷款金额多少，私立教育贷款以及以房地产担保的贷款（如房屋抵押贷款）依然直接适用《Z条例》的保护。对于准备在明年大件消费、买车或进行个人借贷的海外华人来说，了解这个金额变动有助于更好地维护自身的消费权益。"
+ ],
+ "tags": [
+  "美联储",
+  "消费信贷",
+  "贷款保护",
+  "海外生活"
+ ],
+ "original_title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+ "lang": "en",
+ "published": "2026-11-25T20:00:00+00:00",
+ "created": "2026-11-25T20:17:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

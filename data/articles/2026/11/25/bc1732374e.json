@@ -1,0 +1,28 @@
+{
+ "key": "bc1732374e",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/leaders/2026/11/25/britain-needs-to-cut-its-mental-health-benefits-bill",
+ "title": "英国心理健康补贴发放失控？发钱发到手软引发财政担忧",
+ "summary": "英国因心理健康问题申领残疾现金补贴的人数激增，引发了关于财政可持续性和补贴制度改革的讨论。",
+ "body": [
+  "英国目前面临着一个棘手的问题：越来越多的普通人因为心理健康问题，开始领取原本只发给最严重残疾人群体的现金补贴，这让政府的财政账单变得越来越沉重。",
+  "## 补贴本意与现实冲突",
+  "英国的残疾现金补贴本来是为那些生活极其不便、病情最严重的残疾人准备的。然而，现实情况却是，越来越多人以心理健康问题为由申请并获得了这笔资金，导致补贴开支像滚雪球一样不断扩大。",
+  "## 改革呼声日益高涨",
+  "面对日益膨胀的福利开支，如何把有限的资金精准发放到真正需要帮助的人手中，已经成了英国政府亟待解决的难题。如果不加以控制，这笔庞大的心理健康补贴账单将继续拖累国家的财政状况。"
+ ],
+ "tags": [
+  "英国经济",
+  "福利补贴",
+  "心理健康",
+  "财政预算"
+ ],
+ "original_title": "Britain needs to cut its mental-health benefits bill",
+ "lang": "en",
+ "published": "2026-11-25T15:46:57+00:00",
+ "created": "2026-11-25T20:16:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "401c20c4d5",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-25/bnp-paribas-hit-by-higher-capital-surcharge-under-new-gsib-list",
+ "title": "法国最大银行法国巴黎银行被金融稳定委员会上调资本附加费",
+ "summary": "金融稳定委员会发布的全球系统重要性银行最新名单显示，法国巴黎银行因排名变动被额外加收 50 个基点的资本要求。",
+ "body": [
+  "法国巴黎银行（BNP Paribas SA）近日遇到了资金成本增加的新烦恼。由于跻身全球系统重要性银行（G-SIB）的新梯队，该行被金融稳定委员会（Financial Stability Board）额外征收了 **50 个基点**的资本要求。",
+  "作为法国最大的银行，法国巴黎银行此次调整反映了其在全球金融体系中系统重要性的变化。按照监管规定，被列入全球系统重要性银行名单的金融机构，需要持有更高比例的资本缓冲，以防范潜在的金融风险和市场动荡。",
+  "目前，金融稳定委员会定期对全球各大银行进行评估，并根据其资产规模、复杂程度以及跨境业务关联度等指标进行梯队划分。资本要求的提高意味着该行未来在资本分配和盈利能力上将面临更严格的监管约束。"
+ ],
+ "tags": [
+  "法国巴黎银行",
+  "金融监管",
+  "资本要求",
+  "银行新闻"
+ ],
+ "original_title": "BNP Paribas Hit by Higher Capital Surcharge Under New GSIB List",
+ "lang": "en",
+ "published": "2026-11-25T20:03:35+00:00",
+ "created": "2026-11-25T20:16:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

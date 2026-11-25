@@ -1,0 +1,27 @@
+{
+ "key": "f5d17f40c5",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/cio-journal/anthropics-claude-output-can-be-installed-as-software-e840ac45?mod=rss_Technology",
+ "title": "AI界又有大动作！Claude写出的代码直接变软件了？",
+ "summary": "根据《华尔街日报》报道，人工智能公司Anthropic的Claude模型现在能够直接将生成的代码安装为独立软件。同时，英伟达CEO黄仁勋近期也对公司的接班人规划问题做出了回应。",
+ "body": [
+  "人工智能领域的竞争越来越卷了！据《华尔街日报》报道，知名AI公司Anthropic旗下的AI助手Claude现在有了新本事——它输出的代码可以直接被安装并当作软件来运行。这意味着，普通人离“动动嘴就能做软件”的距离又近了一大步。",
+  "除了Anthropic的技术更新，这篇报道还关注了芯片巨头英伟达（Nvidia）的最新动态。作为AI浪潮背后的最大赢家，英伟达的CEO黄仁勋（Jensen Huang）最近公开回击了外界对该公司接班人计划的担忧，展现出他对公司未来发展的掌控力。",
+  "对于咱们海外华人来说，AI技术的发展直接关系到职场竞争力和创业机会。无论是用Claude更高效地开发工具，还是关注英伟达这样的科技风向标，都提醒着我们在科技大潮中得时刻保持敏锐，保住自己的饭碗和钱包。"
+ ],
+ "tags": [
+  "人工智能",
+  "Anthropic",
+  "Claude",
+  "英伟达",
+  "科技新闻"
+ ],
+ "original_title": "Anthropic’s Claude Output Can Be Installed as Software",
+ "lang": "en",
+ "published": "2026-11-25T14:26:00+00:00",
+ "created": "2026-11-25T20:15:51+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

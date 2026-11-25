@@ -1,0 +1,26 @@
+{
+ "key": "b4c0cffbfe",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/why-we-must-defeat-china-7c9fd0f4?mod=rss_opinion",
+ "title": "美国必须战胜中国？华尔街日报：AI赛跑太激烈了！",
+ "summary": "《华尔街日报》发文探讨中美在人工智能领域的竞争，指出中国在发展AI技术方面行动迅速，美国必须全力应对这场科技赛跑。",
+ "body": [
+  "近日，《华尔街日报》（The Wall Street Journal）刊发了一篇题为《我们为什么必须战胜中国》（Why We Must Defeat China）的评论文章，核心直指当前全球最火热的科技焦点——人工智能。",
+  "文章指出，目前中国在发展人工智能（AI）方面正在采取极快的行动。随着中美两国在科技领域的竞争日益白热化，AI技术不仅关乎未来的经济命脉，更成为大国博弈的关键战场。",
+  "对于关注科技走向的海外华人来说，中美两国在AI领域的全方位较量，未来很可能会直接影响到高科技行业的就业机会、投资风向以及长远的技术创新生态。"
+ ],
+ "tags": [
+  "中美关系",
+  "人工智能",
+  "华尔街日报",
+  "科技竞争"
+ ],
+ "original_title": "Why We Must Defeat China",
+ "lang": "en",
+ "published": "2026-11-25T15:48:00+00:00",
+ "created": "2026-11-25T20:19:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

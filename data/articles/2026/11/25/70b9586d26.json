@@ -1,0 +1,28 @@
+{
+ "key": "70b9586d26",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-25/us-targets-china-eu-with-new-tariffs-after-overcapacity-probe",
+ "title": "特朗普又挥关税大棒！这次把中国和欧盟都捎上了",
+ "summary": "美国宣布对中国、欧盟及其他十几个经济体的商品加征新一轮关税，这是特朗普推动恢复曾被最高法院裁定违宪的全球广泛进口关税计划的一部分。",
+ "body": [
+  "美国政府近日宣布了新一轮的关税加征计划，目标直指中国、欧盟以及其他十几个经济体的进口商品。根据彭博社的报道，这是美国总统唐纳德·特朗普（Donald Trump）力推恢复全球广泛进口关税行动的一部分，此前美国最高法院曾裁定这类关税违宪。",
+  "## 关税重燃因何而起",
+  "美方此次挥舞关税大棒的主要理由是所谓的“产能过剩”（overcapacity）问题。特朗普政府希望通过重启大规模的进口税收，来重塑美国的全球贸易格局并保护本土产业，这标志着其标志性的贸易保护主义政策再度卷土重来。",
+  "对于远在大洋彼岸的华人来说，新的关税政策很可能再次推高日常消费品的进口成本。无论是数码产品、家用电器还是各类日常用品，未来在美采购的价格都面临上涨压力，直接考验着大家的钱包。"
+ ],
+ "tags": [
+  "美国关税",
+  "中美贸易",
+  "特朗普",
+  "欧盟",
+  "海外华人"
+ ],
+ "original_title": "US Targets China, EU With New Tariffs Citing Overcapacity",
+ "lang": "en",
+ "published": "2026-11-25T13:13:21+00:00",
+ "created": "2026-11-25T20:16:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

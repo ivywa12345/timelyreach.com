@@ -1,0 +1,27 @@
+{
+ "key": "a39ad1f97b",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/is-nvidia-trumps-waterloo-22a0d3c2?mod=rss_worldnews",
+ "title": "黄仁勋救场也白搭？华尔街：英伟达可能是川普的“滑铁卢”！",
+ "summary": "英伟达CEO黄仁勋的回归暂时支撑了AI生态系统，但并未解决根本问题，这或许会成为川普政府面临的一大考验。",
+ "body": [
+  "近日，《华尔街日报》专栏作家霍尔曼·詹金斯（Holman W. Jenkins, Jr.）发表评论指出，英伟达（Nvidia）CEO黄仁勋（Jensen Huang）的近期回归虽然给火热的AI生态注入了强心剂，但根本问题依然悬而未决，甚至可能演变成川普（Trump）政府难以轻松跨过的政策坎。",
+  "在这篇评论中，作者分析了当前人工智能行业看似繁荣背后的隐忧。尽管巨头们的砸钱狂欢仍在继续，市场对算力的需求也居高不下，但供应链隐患、地缘政治博弈以及技术回报率的不确定性，都在给整个行业敲响警钟。",
+  "对于关注科技股和AI产业的海外华人来说，英伟达的动向直接牵动着无数人的投资账户和科技行业的就业风向。这场由AI驱动的资本游戏究竟能走多远，政商关系的微妙变化将在其中起到决定性作用。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "川普",
+  "人工智能",
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | Is Nvidia Trump’s Waterloo?",
+ "lang": "en",
+ "published": "2026-11-24T22:23:00+00:00",
+ "created": "2026-11-25T20:21:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

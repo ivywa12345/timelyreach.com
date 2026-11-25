@@ -1,0 +1,26 @@
+{
+ "key": "93eee92c81",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/25/us-news/video-shows-pacifica-pier-collapse-as-king-tides-batter-norcal-landmark/",
+ "title": "湾区地标撑不住了！巨浪拍击下帕西菲卡码头轰然坍塌",
+ "summary": "北加州地标建筑帕西菲卡码头周三在巨浪冲击下发生局部坍塌，现场视频记录了这一惊险时刻。目前该码头已无限期关闭，当地正面临洪水和高浪威胁。",
+ "body": [
+  "湾区知名地标帕西菲卡码头（Pacifica Pier）在周三遭到巨浪持续猛烈拍击后，发生了一大块结构坍塌坠入海洋的事故，整个惊险过程被视频记录了下来。",
+  "根据ABC7电视台的报道，由于结构受损，该码头目前已被**无限期关闭**。其实就在今年6月，该市才刚刚因为发现结构性大裂缝而对该码头进行过关闭和维修。",
+  "受这轮极端高潮和巨浪影响，帕西菲卡市的多处道路被迫封闭，部分区域出现水淹，当地居民的安全正受到严重威胁。美国国家气象局（National Weather Service）已对该地区发布了高浪警报和沿海洪水警报。气象部门指出，这次码头坍塌正值厄尔尼诺现象活跃季，加州海岸正持续遭受巨大海浪的猛烈袭击。"
+ ],
+ "tags": [
+  "湾区新闻",
+  "极端天气",
+  "北加州",
+  "安全警报"
+ ],
+ "original_title": "Video shows Pacifica Pier collapse as king tides batter NorCal landmark",
+ "lang": "en",
+ "published": "2026-11-25T20:00:17+00:00",
+ "created": "2026-11-25T20:17:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

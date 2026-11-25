@@ -1,0 +1,27 @@
+{
+ "key": "bf1e506850",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/united-states/2026/11/25/do-americans-have-a-right-to-own-assault-rifles",
+ "title": "突击步枪算不算宪法保护的权利？美国最高法院马上要裁决了！",
+ "summary": "美国最高法院即将对各州禁止突击步枪的法律做出裁决，这一决定将直接影响全美关于枪支管控的走向。",
+ "body": [
+  "美国最高法院目前正准备就各州实施的突击步枪禁令是否违宪做出裁决，这桩备受关注的官司将再次考验美国社会的枪支管理底线。",
+  "长期以来，围绕半自动突击步枪的拥有权在美国一直争议不断。支持禁令的一方认为这类武器杀伤力巨大，容易造成群死群伤的恶性事件；而反对者则坚称，根据宪法修正案，普通公民有权拥有这类自卫武器。",
+  "如果最高法院最终裁定各州无权禁枪，将会对全美多地的枪支管控法律产生颠覆性影响。对于在美华人来说，社区的安全环境、治安状况以及后续的立法走向，都将随着这一判决结果发生新的变化。"
+ ],
+ "tags": [
+  "最高法院",
+  "突击步枪",
+  "枪支管控",
+  "美国法律",
+  "在美华人"
+ ],
+ "original_title": "Do Americans have a right to own assault rifles?",
+ "lang": "en",
+ "published": "2026-11-25T19:13:48+00:00",
+ "created": "2026-11-25T20:19:30+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

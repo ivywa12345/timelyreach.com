@@ -1,0 +1,30 @@
+{
+ "key": "e0e0ff7dd4",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/markets/fcc-clears-musks-million-satellite-ai-empire-heavens-dems-signal-moratoriums-earth",
+ "title": "马斯克要在天上建AI帝国了？FCC批准发射百万颗太空数据中心卫星！",
+ "summary": "美国联邦通信委员会（FCC）正式批准SpaceX部署多达100万个轨道计算模块，用于打造太空数据中心。此举不仅能推动AI基础设施升级，还能帮马斯克绕过地球上的环保和政策限制。",
+ "body": [
+  "美国联邦通信委员会（FCC，Federal Communications Commission）主席布伦丹·卡尔（Brendan Carr）近日在社交媒体X上宣布，该机构已正式批准太空探索技术公司（SpaceX）的申请，允许其部署多达 **100万颗** 轨道计算模块，用于在太空中建立数据中心。",
+  "## 太空AI星座浮出水面",
+  "FCC将这个被称为“Starmind”的计划形容为一个庞大的轨道计算网络，旨在处理海量数据并极大扩展AI基础设施。这次历史性的批准，恰逢SpaceX成功实现星舰（Starship）助推器与船箭回收的关键节点之后，标志着其向全面重复使用迈出了重要一步。马斯克随后在X上回应称：“非常感谢，这将是美国和全世界的一大财富。”",
+  "> “非常感谢，将是美国和全世界的一大财富。” —— 马斯克（Elon Musk）",
+  "## 绕过地面阻碍的新出路",
+  "将AI工作负载（包括推理）转移到太空中，相比地面数据中心不仅能节省成本，还能带来其他运营优势，当然这很大程度上取决于星舰的商业化进度。更重要的是，轨道数据中心能帮助马斯克及其他AI开发者巧妙绕过地面数据中心的种种限制——比如以得克萨斯州（Texas）为重点、由民主党议员支持的旨在推迟或阻止新项目的暂停令。凭借强大的发射能力和多年部署星链（Starlink）的经验，马斯克在构建太空计算帝国方面拥有压倒性优势，能有效避开地面的审批大战和政治阻挠。"
+ ],
+ "tags": [
+  "马斯克",
+  "SpaceX",
+  "FCC",
+  "人工智能",
+  "太空科技"
+ ],
+ "original_title": "FCC Clears Musk's Million-Satellite AI Empire In Heavens As Dems Signal Moratoriums On Earth",
+ "lang": "en",
+ "published": "2026-11-25T18:10:00+00:00",
+ "created": "2026-11-25T20:20:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

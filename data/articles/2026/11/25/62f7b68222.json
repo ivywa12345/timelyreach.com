@@ -1,0 +1,22 @@
+{
+ "key": "62f7b68222",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
+ "title": "随着Anthropic股份上涨，股市跌幅收窄",
+ "summary": "临近感恩节假期，股市正在收窄跌幅。",
+ "body": [
+  "临近感恩节假期，股市正在收窄跌幅。",
+  "（以上为华尔街日报内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "华尔街日报"
+ ],
+ "original_title": "Stocks Pare Losses as Anthropic Shares Swing Higher",
+ "lang": "en",
+ "published": "2026-11-25T19:30:00+00:00",
+ "created": "2026-11-25T20:23:18+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

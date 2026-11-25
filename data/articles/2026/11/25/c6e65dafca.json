@@ -1,0 +1,27 @@
+{
+ "key": "c6e65dafca",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/the-most-important-fact-about-human-history-9da63f88?mod=rss_opinion",
+ "title": "人类历史最重要真相：感恩自由让我们更富有！",
+ "summary": "华尔街日报专栏文章指出，人类历史最重要的事实是对自由的感恩，正是自由让我们变得更加富有、健康和幸福。",
+ "body": [
+  "近日，《华尔街日报》(The Wall Street Journal)刊发了由詹姆斯·弗里曼(James Freeman)撰写的专栏文章，探讨了人类历史发展中最核心的驱动力。文章指出，我们最应该感激的是那些赋予我们财富、健康和幸福的自由。",
+  "## 自由带来繁荣",
+  "文章回顾了人类社会的演变过程，强调正是制度和经济上的自由，打破了过去的桎梏，让人类在创造财富、对抗疾病和追求幸福方面取得了前所未有的突破。",
+  "对于远在海外的华人来说，无论是奋斗职场还是谋求发展，环境所赋予的选择权和宽松度，往往是实现个人价值和家庭幸福的关键所在。"
+ ],
+ "tags": [
+  "人类历史",
+  "自由",
+  "财富与健康",
+  "华尔街日报"
+ ],
+ "original_title": "‘The Most Important Fact About Human History’",
+ "lang": "en",
+ "published": "2026-11-25T19:44:00+00:00",
+ "created": "2026-11-25T20:16:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

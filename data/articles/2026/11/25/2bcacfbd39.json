@@ -1,0 +1,27 @@
+{
+ "key": "2bcacfbd39",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/25/us-news/nj-state-of-emergency-to-go-into-effect-ahead-of-thanksgiving-storms-gov/",
+ "title": "感恩节出行注意！新泽西州长宣布今晚进入紧急状态",
+ "summary": "新泽西州长米基·谢里尔（Mikie Sherrill）宣布，该州将于周三下午6点起进入紧急状态，以应对即将到来的一场严重风暴，并呼吁居民抓紧时间出行。",
+ "body": [
+  "感恩节假期本来是全家团聚的日子，但新泽西州的朋友们可能要经历一场风雨交加的旅程了。新泽西州州长米基·谢里尔（Mikie Sherrill）宣布，由于预报将有一场“显著风暴（significant storm）”袭击当地，全州将于周三下午6点正式进入紧急状态。",
+  "国家气象局（National Weather Service）目前已经向泽西海岸（Jersey Shore）发布了海岸洪水警报（Coastal Flood Alerts），提醒当地居民防范严重的洪水风险。随着风暴逼近，当地的航班延误、交通拥堵等情况恐怕难以避免。",
+  "面对严峻的天气形势，谢里尔州长强烈敦促新泽西州居民**抓紧在周三当天出行**，争取在风暴最恶劣的情况到来之前抵达目的地。对于计划在这个感恩节出行的在美华人来说，如果路过新泽西或身处该地区，务必提前查看航班和路况信息，注意行车安全。"
+ ],
+ "tags": [
+  "新泽西",
+  "感恩节",
+  "风暴",
+  "紧急状态",
+  "交通出行"
+ ],
+ "original_title": "New Jersey state of emergency to go into effect ahead of Thanksgiving storms: gov",
+ "lang": "en",
+ "published": "2026-11-25T20:00:07+00:00",
+ "created": "2026-11-25T20:20:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
