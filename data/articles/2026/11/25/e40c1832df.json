@@ -1,0 +1,27 @@
+{
+ "key": "e40c1832df",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/weather/iconic-thanksgiving-day-tradition-jeopardy-first-time-more-half-century",
+ "title": "55年来首次？这场美国人的感恩节大戏要“飞”不起来了",
+ "summary": "由于东海岸强风暴来袭，纽约市面临大风和强降雨天气，梅西感恩节大游行标志性的大型气球可能在55年来首次被迫禁飞。",
+ "body": [
+  "今年的梅西感恩节大游行（Macy's Thanksgiving Day Parade）迎来具有历史意义的第100场游行，但一场来势汹汹的东北风暴（nor'easter）可能让数百万美国人感到失望，标志性的大型气球面临在半个多世纪里首次被全部禁飞的危机。",
+  "美国国家气象局（National Weather Service）已对纽约市发布大风预警，预计持续风速可达每小时35英里，阵风甚至可能达到每小时60英里，远超游行气球的安全标准。按照纽约市的安全规定，当持续风速超过每小时23英里或阵风超过每小时34英里时，巨型充气气球严禁升空，纽约市警察局（NYPD）将对是否安全拥有最终决定权。这项限制是因1997年“戴帽子的猫”气球撞击路灯导致观众重伤的事故而制定的。",
+  "> “这可能是近年来气球最有可能无法飞上天空的一次。”\n> —— AccuWeather 气象预测副总裁 Dan DePodwin",
+  "尽管天气预报不容乐观，游行主办方仍对顺利举行这场历史性庆典保持乐观看法。游行执行制片人 Will Coss 在接受美国广播公司（ABC News）采访时表示：“风可能会成为一个因素，但我们有信心应对它。”上次也是唯一一次气球因恶劣天气被禁飞是在1971年。"
+ ],
+ "tags": [
+  "感恩节",
+  "梅西游行",
+  "纽约天气",
+  "突发新闻"
+ ],
+ "original_title": "Iconic Thanksgiving Day Tradition In Jeopardy For First Time In More Than Half A Century",
+ "lang": "en",
+ "published": "2026-11-25T00:40:00+00:00",
+ "created": "2026-11-25T02:28:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

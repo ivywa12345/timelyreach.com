@@ -1,0 +1,28 @@
+{
+ "key": "34784abefe",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+ "title": "AI太火了！戴尔销售额直接翻倍，股价蹭蹭涨",
+ "summary": "得益于人工智能（AI）热潮的推动，戴尔（Dell）的销售额实现翻倍增长，带动股价上涨。公司表示，其订单储备都经过了严格审核。",
+ "body": [
+  "近期，科技巨头戴尔（Dell）迎来了好消息，在AI浪潮的强力带动下，公司的销售额实现了翻倍以上的增长，这也直接推高了其股价表现。",
+  "## 订单质量要求高",
+  "面对火爆的市场需求，戴尔透露，公司对目前的订单储备进行了严格把关。",
+  "> 戴尔表示，其订单储备“经过了对客户质量、资金获取能力、土地以及电力供应的严格审核。”",
+  "对于关注科技股和美股市场的海外华人来说，AI产业链的持续爆发不仅带来了投资机会，也反映出相关基础设施（如土地和电力）正在成为行业发展的关键限制因素。"
+ ],
+ "tags": [
+  "戴尔",
+  "人工智能",
+  "美股",
+  "科技新闻"
+ ],
+ "original_title": "Dell’s stock rises as the AI boom helps sales more than double",
+ "lang": "en",
+ "published": "2026-11-25T01:11:00+00:00",
+ "created": "2026-11-25T02:25:55+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

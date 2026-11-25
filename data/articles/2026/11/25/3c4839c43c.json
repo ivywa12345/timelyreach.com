@@ -1,0 +1,32 @@
+{
+ "key": "3c4839c43c",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/24/us-news/disneyland-loses-orange-countys-largest-employer-title-to-uc-irvine/",
+ "title": "王座易主！迪士尼丢了四年的“当地最大雇主”头衔，被谁抢了？",
+ "summary": "根据最新商业报告，迪士尼乐园失去了保持四年的加州橙县最大雇主地位，加州大学欧文分校凭借医疗板块的大规模扩张成功反超。",
+ "body": [
+  "连续坐了四年加州橙县（Orange County）最大雇主宝座的迪士尼乐园（Disneyland），这次不得不把第一名的位置让出来了。",
+  "根据《橙县商业杂志》（Orange County Business Journal）发布的年度调查报告，加州大学欧文分校（UCI）今年将雇员数提升到了 **37,350人**，比去年增长了9.5%，成功超越了员工人数保持在 **36,000人** 的迪士尼度假区。这也是自2021年以来，UCI重新夺回这一头衔。",
+  "## 医疗板块扩张是关键",
+  "这次UCI之所以能实现反超，主要得益于其医疗业务（UCI Health）的大举扩张。该校在Jamboree路上斥资 **13亿美元** 打造了全新的医疗综合体，其中包括一座拥有144张床位的全新急性护理医院，为当地创造了超过2,500个医疗和建筑岗位。",
+  "与此同时，迪士尼乐园、酒店及阿纳海姆（Anaheim）总部的员工人数今年保持平稳。迪士尼发言人对此表示，员工人数自然会随着业务需求而波动，但近年来度假区并没有伴随新景点或大型园区扩张而出现以往那样显著的招聘增长。",
+  "除了员工人数增加，UCI近年来在校长霍华德·吉尔曼（Howard Gillman）的带领下发展迅猛。学生规模从2014年的约2.7万人增长到近4万人，研究经费也从2.9亿美元飙升至 **7亿美元**。",
+  "> “在我和校园共同制定的最初战略规划中，UCI Health的扩张绝对是愿景的核心。”——UCI校长 Howard Gillman",
+  "从整县的就业格局来看，医疗行业在当地正展现出强劲的统治力。除了UCI登顶，普罗维登斯南区（Providence South Division）、凯撒医疗（Kaiser）、霍格（Hoag）和雷迪儿童健康中心（Rady Children’s Health Orange County）等医疗机构也纷纷挤入当地顶级雇主榜单的前列。"
+ ],
+ "tags": [
+  "迪士尼",
+  "加州大学欧文分校",
+  "橙县",
+  "最大雇主",
+  "就业市场"
+ ],
+ "original_title": "Disney suffers humiliating loss after new report exposes stunning employment figures",
+ "lang": "en",
+ "published": "2026-11-25T02:00:12+00:00",
+ "created": "2026-11-25T02:29:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

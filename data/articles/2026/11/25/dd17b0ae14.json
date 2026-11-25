@@ -1,0 +1,26 @@
+{
+ "key": "dd17b0ae14",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nvidias-relief-rally-stalls-a9455613?mod=rss_markets_main",
+ "title": "英伟达反弹势头急刹车！大起大落背后谁赚谁亏？",
+ "summary": "英伟达的反弹行情遭遇停滞，同时AI独角兽Anthropic跌破其IPO价格，引发市场对科技股走势的关注。",
+ "body": [
+  "最近科技股市场又开始折腾了，根据《华尔街日报》的报道，英伟达（Nvidia）之前的喘息反弹行情突然踩了刹车，没能继续往上涨。与此同时，AI明星企业Anthropic的股价也跌破了首次公开募股（IPO）时的价格。",
+  "在这波英伟达（Nvidia）的大起大落中，华尔街的投资者们几家欢喜几家愁，有人赚得盆满钵满，也有人不幸被套牢成了输家。这也再次提醒了关注美股的海外华人，科技板块的波动风险依然不容小觑，大家的钱包可得捏紧了。"
+ ],
+ "tags": [
+  "英伟达",
+  "美股",
+  "Anthropic",
+  "科技股",
+  "投资理财"
+ ],
+ "original_title": "Nvidia’s Relief Rally Stalls",
+ "lang": "en",
+ "published": "2026-11-24T21:23:00+00:00",
+ "created": "2026-11-25T02:28:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

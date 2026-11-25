@@ -1,0 +1,25 @@
+{
+ "key": "b2f33d6089",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
+ "title": "史上最大AI IPO翻车？Anthropic股价跌破发行价",
+ "summary": "Claude开发商Anthropic在上市后遭遇连续下跌，周二正式跌破发行价，引发市场对AI板块的担忧。",
+ "body": [
+  "AI独角兽 Anthropic 刚刚创造了史上最大的IPO纪录，但好景不长，这笔交易现在正面临破发危机。",
+  "据《华尔街日报》报道，开发热门AI模型 Claude 的 Anthropic 公司在周二的交易中股价跌破了发行价，这已经是该股票连续第三个交易日下跌。对于关注美股科技股的华人投资者来说，这无疑给近期火热的AI投资泼了一盆冷水，也让人捏了一把汗。"
+ ],
+ "tags": [
+  "Anthropic",
+  "美股",
+  "IPO",
+  "AI科技股"
+ ],
+ "original_title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
+ "lang": "en",
+ "published": "2026-11-24T22:07:00+00:00",
+ "created": "2026-11-25T02:24:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

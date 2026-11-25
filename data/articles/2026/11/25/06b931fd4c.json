@@ -1,0 +1,32 @@
+{
+ "key": "06b931fd4c",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+ "title": "美股AI股大跌连累亚洲！软银暴跌14%，芯片股集体挨重锤",
+ "summary": "受华尔街隔夜AI板块大跌拖累，周三亚洲科技股遭遇集体重挫，日本半导体板块更是领跌全场，软银集团大跌近14%。不过部分港股中概股表现逆势抗跌。",
+ "body": [
+  "受华尔街隔夜科技股大跌的负面情绪蔓延影响，周三亚洲科技股集体遭遇重挫，其中日本半导体板块更是成了重灾区，日韩台多只芯片巨头股价大跌。",
+  "## 亚洲芯片股集体崩盘",
+  "在这轮暴跌中，日本半导体和科技股跌幅惊人，软银集团（SoftBank Group）股价大跌 **13.8%**。同时，深度绑定全球AI供应链的日本芯片设备商也遭到疯狂抛售：",
+  "- 辉达（Nvidia）芯片测试设备供应商爱德万测试（Advantest）暴跌 12.7%\n- 台积电（TSMC）的设备供应商东京电子（Tokyo Electron）下挫 11.82%\n- 芯片检查设备制造商 Lasertec 下跌 10.15%\n- 迪斯科公司（Disco Corporation）跌 9.41%\n- 瑞萨电子（Renesas Electronics）下跌 9%",
+  "韩国和台湾地区的芯片巨头同样没能幸免。韩国两大内存芯片巨头三星电子（Samsung Electronics）和SK海力士（SK Hynix）双双暴跌超过 **7%**；台积电大跌 6.73%，鸿海精密（Hon Hai Precision Industry）更是重挫 9.05%。",
+  "## 港股中概股逆势走强",
+  "不过，部分在香港上市的中国科技股表现亮眼，逆势扛住了区域大跌的压力。其中小米集团上涨 5.66%，快手上涨 3.5%，阿里巴巴涨 1.4%，腾讯也微涨 0.82%，显示出一定的避险韧性。",
+  "近期全球科技股波动频繁，市场对AI资本开支过大、投资回报率以及所谓的“循环AI融资”存疑，加上此前辉达CEO黄仁勋去留风波引发的市场情绪过山车，都让投资者神经紧绷。"
+ ],
+ "tags": [
+  "美股",
+  "软银",
+  "半导体",
+  "人工智能",
+  "股市跌幅"
+ ],
+ "original_title": "SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names",
+ "lang": "en",
+ "published": "2026-11-25T01:57:29+00:00",
+ "created": "2026-11-25T02:27:42+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

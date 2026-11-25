@@ -1,0 +1,26 @@
+{
+ "key": "803ed1a494",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/economy/trade/china-to-suspend-some-critical-material-export-curbs-to-u-s-until-january-35bc8dca?mod=rss_worldnews",
+ "title": "中美峰会后见效？中国宣布暂缓对美关键物项出口管制",
+ "summary": "在中美领导人深圳会晤几天后，中国宣布将对美部分关键物项的出口管制暂缓期延长至明年1月。",
+ "body": [
+  "就在上周特朗普总统与中国领导人在深圳举行峰会几天后，中国方面有了新动作。根据《华尔街日报》（Wall Street Journal）报道，中国决定将部分针对美国的关键材料（Critical-Material）出口管制措施暂停时间延长至1月。",
+  "这次暂缓的出口管制涉及多项关键材料。对于依赖这些供应链的产业来说，这无疑提供了一个缓冲窗口，暂时缓解了相关企业对原材料断供的焦虑。",
+  "中美双方在深圳的会晤释放了积极的经贸沟通信号。此次延长暂缓出口管制，也被视为两国在缓解经贸摩擦、维护供应链稳定方面迈出的又一步。后续进展如何，仍需观察双方在1月前的进一步磋商情况。"
+ ],
+ "tags": [
+  "中美关系",
+  "出口管制",
+  "供应链",
+  "经贸摩擦"
+ ],
+ "original_title": "China to Suspend Some Critical-Material Export Curbs to U.S. Until January",
+ "lang": "en",
+ "published": "2026-11-24T11:13:00+00:00",
+ "created": "2026-11-25T02:29:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

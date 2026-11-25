@@ -1,0 +1,29 @@
+{
+ "key": "29b6dd8be6",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
+ "title": "AI概念股又跌了？亚洲股市今早全线回落",
+ "summary": "受美股科技股抛售潮影响，亚洲股市今日普遍下跌，市场对人工智能（AI）热潮能否持续产生新的疑虑，同时黄金价格也有所回落。",
+ "body": [
+  "受美国科技股遭到抛售的影响，亚洲股市今日开盘后普遍回落，这场自华尔街蔓延开来的跌势再次引发了市场对人工智能（AI）板块可持续性的担忧。",
+  "## 市场表现如何",
+  "此次亚洲股市的下跌，主要是由于美股科技板块此前遭遇大举抛售，直接打击了投资者的信心。与此同时，避险资产黄金的价格也在市场波动中出现了下跌。",
+  "## 对海外华人的影响",
+  "对于关注投资理财的海外华人来说，科技股和AI概念股的波动可能会直接影响到大家的投资组合。近期市场情绪较为脆弱，建议大家在资产配置时多留意风险，避免盲目追高。"
+ ],
+ "tags": [
+  "亚洲股市",
+  "人工智能",
+  "美股科技股",
+  "黄金价格",
+  "海外投资"
+ ],
+ "original_title": "Asian Stocks Fall as AI Trade Falters, Gold Drops: Markets Wrap",
+ "lang": "en",
+ "published": "2026-11-24T22:09:18+00:00",
+ "created": "2026-11-25T02:27:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

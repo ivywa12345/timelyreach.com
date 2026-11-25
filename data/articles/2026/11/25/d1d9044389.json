@@ -1,0 +1,26 @@
+{
+ "key": "d1d9044389",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-25/australian-inflation-accelerates-even-after-rba-rate-hikes",
+ "title": "澳大利亚通胀意外反弹！澳洲央行加息预期升温",
+ "summary": "澳大利亚10月核心通胀率意外加速，凸显当地经济面临持续的物价压力，这也印证了澳大利亚储备银行官员此前鹰派言论的正确性。",
+ "body": [
+  "根据彭博社报道，澳大利亚的经济压力并没有像预期那样缓和。最新数据显示，澳大利亚的10月核心通胀率意外出现 **加速上升** 的势头。",
+  "这一经济数据直接打破了此前的降息幻想，充分说明了当地经济中物价上涨的顽固性。这也让澳大利亚储备银行（Reserve Bank of Australia，简称 RBA）官员此前维持鹰派立场的强硬表态得到了完全的证实。",
+  "对于关注海外经济动态的华人来说，通胀居高不下意味着当地的降息周期可能会进一步推迟。无论是房贷利率还是日常生活成本，短期内恐怕都很难明显回落，大家的钱包依然要面临不小的压力。"
+ ],
+ "tags": [
+  "澳大利亚",
+  "通货膨胀",
+  "澳洲央行",
+  "海外经济"
+ ],
+ "original_title": "Australia’s Hot Inflation Vindicates RBA’s Hawkish Policy Stance",
+ "lang": "en",
+ "published": "2026-11-25T00:32:01+00:00",
+ "created": "2026-11-25T02:28:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

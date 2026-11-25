@@ -1,0 +1,25 @@
+{
+ "key": "100acaff70",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
+ "title": "中美供应链到底谁更脆弱？经济学人扒了全球贸易的底裤",
+ "summary": "经济学人最新研究绘制了全球商业漏洞地图，探讨了中美两国供应链的脆弱性到底谁更高。",
+ "body": [
+  "最近《经济学人》（The Economist）发布了一份重磅分析，专门绘制了全球商业贸易中隐藏的漏洞地图，引发了外界对中美供应链到底谁更脆弱的激烈讨论。",
+  "长期以来，全球化让各国经济紧密相连，但大国博弈和各种地缘政治冲突也让供应链安全成了各方关注的焦点。究竟是高度依赖海外资源的美国更容易被卡脖子，还是面临复杂国际环境的中国供应链风险更大，这份研究试图给出一个客观的视角。"
+ ],
+ "tags": [
+  "供应链",
+  "中美贸易",
+  "全球经济",
+  "经济学人"
+ ],
+ "original_title": "Are America’s supply chains really more vulnerable than China’s?",
+ "lang": "en",
+ "published": "2026-11-24T20:34:14+00:00",
+ "created": "2026-11-25T02:25:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

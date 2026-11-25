@@ -1,0 +1,26 @@
+{
+ "key": "36cf983d52",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=rss_Technology",
+ "title": "突发！美国联邦陪审团裁定华为涉嫌欺诈罪名成立",
+ "summary": "美国联邦陪审团在一场刑事审判中裁定，中国科技巨头华为犯有欺诈等罪名，不过同时判决其共谋敲诈勒索罪名不成立。",
+ "body": [
+  "美国联邦陪审团近日做出裁决，裁定科技与电信巨头华为（Huawei）在一项刑事诉讼中犯有**欺诈及其他相关罪名**，不过在备受关注的共谋敲诈勒索指控上，陪审团判定其无罪。",
+  "这起案件由《华尔街日报》记者 James T. Areddy 报道。长期以来，华为在美国面临着多项法律指控与审查，此次联邦陪审团的刑事审判结果，也标志着该案在司法程序中取得了关键进展。",
+  "对于在美华人而言，此类中美跨国科技企业的重大法律诉讼往往备受关注，它不仅牵动着全球科技市场的神经，也可能对相关行业的商业环境和合规要求产生深远影响。"
+ ],
+ "tags": [
+  "华为",
+  "美国法律",
+  "刑事审判",
+  "科技新闻"
+ ],
+ "original_title": "China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
+ "lang": "en",
+ "published": "2026-11-24T22:41:00+00:00",
+ "created": "2026-11-25T02:26:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

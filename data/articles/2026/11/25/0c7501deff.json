@@ -1,0 +1,28 @@
+{
+ "key": "0c7501deff",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/24/us-news/peta-activists-brazenly-interrupt-radio-city-rockettes-performance-over-live-animal-nativity-scenes/",
+ "title": "圣诞演出大乱！PETA抗议者冲上舞台",
+ "summary": "善待动物组织（PETA）的抗议者突然冲上纽约无线电城音乐厅的舞台，抗议经典圣诞秀在演出中使用活体动物。",
+ "body": [
+  "近日，纽约著名的无线电城音乐厅（Radio City Music Hall）上演的洛克尼斯女郎（Rockettes）圣诞秀遭到突发抗议，几名善待动物组织（PETA）的活动人士直接冲上舞台，导致演出被迫中断。",
+  "根据PETA在社交媒体X上发布的视频，当时有抗议者冲到表演者附近大喊大叫，现场一片混乱，随后这三名抗议者很快被安保人员强行带离了现场。目前官方尚未明确这场被打断的演出具体发生在什么时间。",
+  "> “别再让动物上台了！让骆驼和驴子离开演出！”\n> —— 现场抗议者",
+  "PETA在随后的声明中表示，他们抗议的核心原因是演出在充满强光、巨响甚至烟花的舞台上使用了骆驼、绵羊和驴等活体动物，而且这些动物在不登台时被关在大楼的地下室里。截至目前，无线电城音乐厅尚未对媒体的置评请求作出回应。"
+ ],
+ "tags": [
+  "纽约",
+  "PETA",
+  "无线电城音乐厅",
+  "动物保护",
+  "圣诞秀"
+ ],
+ "original_title": "PETA activists brazenly interrupt Radio City Rockettes performance over live-animal Nativity scenes",
+ "lang": "en",
+ "published": "2026-11-25T02:02:48+00:00",
+ "created": "2026-11-25T02:28:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

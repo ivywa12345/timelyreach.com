@@ -1,0 +1,28 @@
+{
+ "key": "6aabd7ef4c",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-25/trump-says-huang-pardon-always-an-option-new-york-post-reports",
+ "title": "懂王又语出惊人！暗示随时可能特赦老黄？",
+ "summary": "美国总统特朗普在接受采访时表示，对英伟达CEO黄仁勋给予特赦“一直是个选项”，但他认为没必要走到这一步。此前黄仁勋刚恢复职位，并将在下周出席国会听证会。",
+ "body": [
+  "据《纽约邮报》周二晚间的报道，美国总统唐纳德·特朗普（Donald Trump）在谈到刚官复原职的芯片巨头英伟达（Nvidia Corp.）CEO黄仁勋（Jensen Huang）时，语出惊人地表示特赦他“一直是一个选项”。不过特朗普也补充说，他觉得应该没必要采取这种非同寻常的行动。",
+  "## 听证会在即引关注",
+  "这次表态的时机非常微妙。就在下周，黄仁勋将出席美国国会听证会接受质询。作为全球AI浪潮核心企业的掌舵人，他的每一举动都牵动着科技界和华尔街的神经，此次国会之行更是备受瞩目。",
+  "对于关注科技股和在美职业发展的华人来说，英伟达作为AI算力的绝对龙头，其高层的动向和政策风向直接关系到整个行业的技术走向与就业市场。我们将持续关注下周国会听证会的最新进展。"
+ ],
+ "tags": [
+  "特朗普",
+  "黄仁勋",
+  "英伟达",
+  "美国国会",
+  "科技新闻"
+ ],
+ "original_title": "Trump Says Huang Pardon ‘Always an Option,’ New York Post Says",
+ "lang": "en",
+ "published": "2026-11-25T00:04:21+00:00",
+ "created": "2026-11-25T02:25:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

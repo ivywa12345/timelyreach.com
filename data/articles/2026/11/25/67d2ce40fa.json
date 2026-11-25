@@ -1,0 +1,25 @@
+{
+ "key": "67d2ce40fa",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
+ "title": "霍尔木兹海峡遇袭不断，油价怎么还跌了？",
+ "summary": "由于交易员权衡供应增加的信号与霍尔木兹海峡附近船只遭遇升级的袭击，国际油价出现下跌。",
+ "body": [
+  "近期国际油市有点魔幻：一方面是霍尔木兹海峡周围的船只频频遭到升级袭击，按理说局势紧张油价该涨；另一方面，市场上却传出了供应增加的信号，把油价生生给“压”了下来，出现了微幅下跌。",
+  "彭博社（Bloomberg）在 11 月 25 日的油市分析中指出，目前全球原油交易员正在激烈博弈，一边盯着中东地缘政治冲突对航运安全带来的实质威胁，一边又在盘算着全球原油供应上升的最新动态，导致油价短期内震荡下行。"
+ ],
+ "tags": [
+  "油价",
+  "霍尔木兹海峡",
+  "国际原油",
+  "中东局势"
+ ],
+ "original_title": "Latest Oil Market News and Analysis for Nov. 25",
+ "lang": "en",
+ "published": "2026-11-24T23:06:29+00:00",
+ "created": "2026-11-25T02:25:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

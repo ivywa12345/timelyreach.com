@@ -1,0 +1,28 @@
+{
+ "key": "0fe583e05a",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-u-s-chip-restrictions-amplify-shell-company-headaches-in-ai-ecosystem-fd7a749d?mod=rss_worldnews",
+ "title": "美国芯片禁令生效，AI圈空壳公司麻烦大了！",
+ "summary": "华尔街日报最新报道指出，美国对华芯片出口限制让AI生态系统中的空壳公司问题愈发严重，同时英伟达重新确立黄仁勋的CEO地位，一项新研究再次引发对拜耳公司产品致癌风险的关注。",
+ "body": [
+  "美国对华芯片出口限制持续发酵，不仅让半导体巨头们头疼，也让AI生态系统中的空壳公司问题浮出水面，合规监管面临全新挑战。",
+  "## 科技圈与医药界大新闻",
+  "- 英伟达（Nvidia）正式重新确立黄仁勋（Jensen Huang）的CEO地位\n- 一项最新研究再次引发了对拜耳（Bayer）产品与癌症关联的担忧",
+  "对于关注科技股和海外市场的华人朋友来说，美国对芯片出口的持续收紧不仅关乎科技巨头的业绩，也可能进一步影响相关的投资布局和AI行业的整体走势，值得持续关注。"
+ ],
+ "tags": [
+  "芯片禁令",
+  "人工智能",
+  "英伟达",
+  "拜耳",
+  "海外财经"
+ ],
+ "original_title": "The Morning Risk Report: U.S. Chip Restrictions Amplify Shell Company Headaches in AI Ecosystem",
+ "lang": "en",
+ "published": "2026-11-24T12:36:00+00:00",
+ "created": "2026-11-25T02:28:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
