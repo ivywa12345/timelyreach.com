@@ -1,0 +1,27 @@
+{
+ "key": "0bc00d1946",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
+ "title": "美股科技股这回真要凉？AI热潮遭遇信任危机",
+ "summary": "受PCE通胀数据反弹以及市场对AI概念信心减弱的影响，美股科技股盘前遭遇重挫，英伟达等巨头股价走低。",
+ "body": [
+  "美股科技股的跌势正在进一步加深，这一次连最受追捧的AI板块也开始让投资者心里没底了。",
+  "最新公布的PCE通胀数据意外升温至 **3.8%**，直接打击了市场的降息预期。与此同时，盘前交易中，人工智能新星Anthropic和芯片巨头英伟达（Nvidia）双双出现显著下跌，显示出市场对前期疯狂炒作的AI交易开始产生动摇。",
+  "对于咱们海外华人来说，美股波动直接牵动着投资账户和401(k)养老金的钱包。如果科技股和AI板块持续回调，短期内资产缩水的风险明显增加，建议大家在资产配置上多留个心眼，防范市场震荡带来的风险。"
+ ],
+ "tags": [
+  "美股",
+  "科技股",
+  "人工智能",
+  "通胀",
+  "海外理财"
+ ],
+ "original_title": "Stock Market Today: Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
+ "lang": "en",
+ "published": "2026-11-25T09:56:46+00:00",
+ "created": "2026-11-25T14:20:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

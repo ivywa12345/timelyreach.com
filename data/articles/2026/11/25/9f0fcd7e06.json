@@ -1,0 +1,22 @@
+{
+ "key": "9f0fcd7e06",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+ "title": "人工智能担忧情绪再度升温加剧科技股跌幅，美国股市期货暴跌",
+ "summary": "美国股市期货连续第二天收跌，在抛售潮中跌幅扩大，原因是交易员抛售科技股，对人工智能的担忧主导了华尔街的情绪。",
+ "body": [
+  "美国股市期货连续第二天收跌，在抛售潮中跌幅扩大，原因是交易员抛售科技股，对人工智能的担忧主导了华尔街的情绪。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "US Stock Futures Plunge as Renewed AI Worries Fuels Tech Losses",
+ "lang": "en",
+ "published": "2026-11-25T07:51:43+00:00",
+ "created": "2026-11-25T14:24:57+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

@@ -1,0 +1,22 @@
+{
+ "key": "1e67f5e53b",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+ "title": "美国提议对包括中国和欧盟在内的14个贸易伙伴征收新关税",
+ "summary": "新征税旨在应对被认为不公平、歧视性或对美国商业造成负担的外贸做法。",
+ "body": [
+  "新征税旨在应对被认为不公平、歧视性或对美国商业造成负担的外贸做法。",
+  "（以上为CNBC内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "CNBC"
+ ],
+ "original_title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+ "lang": "en",
+ "published": "2026-11-25T13:37:35+00:00",
+ "created": "2026-11-25T14:24:43+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}
