@@ -1,0 +1,24 @@
+{
+ "key": "5cb3602343",
+ "board": "news",
+ "source_id": "inbox",
+ "source_name": "Kobeissi Letter",
+ "source_url": "https://x.com/KobeissiLetter/status/2125318846571524580",
+ "title": "中情局与国家情报总监办公室遭黑客攻击",
+ "summary": "据《纽约时报》报道，美国中央情报局与国家情报总监办公室遭黑客攻击，未分类情报信息泄露，此前联邦调查局和农业部也传出遭入侵。",
+ "body": [
+  "突发：据《纽约时报》报道，美国中央情报局（CIA）与国家情报总监办公室（ODNI）遭到黑客攻击，未分类情报信息被泄露。",
+  "此前已有报道称，联邦调查局（FBI）和农业部（USDA）遭到入侵。",
+  "这起事件之前，美国政府系统还出现过多次中断。"
+ ],
+ "tags": [
+  "美国",
+  "网络安全"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-24T20:01:14+00:00",
+ "created": "2026-11-25T01:22:20+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

@@ -1,0 +1,23 @@
+{
+ "key": "d7ecbced8a",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2125336668786049462",
+ "title": "微软24小时宕机后宣布进入红色警戒",
+ "summary": "据路透社报道，微软在经历24小时宕机后宣布进入“红色警戒”状态，全面整改重大服务故障的预防与应对机制。",
+ "body": [
+  "最新消息：据路透社报道，微软（MSFT）在经历24小时宕机后宣布进入“红色警戒”（Code Red）状态，全面整改其预防和应对重大服务故障的方式。此次宕机暴露了其工程系统和危机应对方面的不足。"
+ ],
+ "tags": [
+  "微软",
+  "云服务",
+  "宕机"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-24T21:12:03+00:00",
+ "created": "2026-11-25T01:22:20+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
