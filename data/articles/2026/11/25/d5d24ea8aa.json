@@ -1,0 +1,23 @@
+{
+ "key": "d5d24ea8aa",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "路透社",
+ "source_url": "https://x.com/Reuters/status/2125560148848738725",
+ "title": "Alice Huang关联公司以AI服务器融资",
+ "summary": "路透社记录显示，与Alice Huang有关的公司以AI服务器为抵押，为中国主要数据中心筹集了融资；她的婚外情曾引发黄仁勋短暂离职。",
+ "body": [
+  "路透社记录显示，与Alice Huang有关的公司以AI服务器为抵押，为中国主要数据中心筹集了融资；Alice Huang与英伟达首席执行官黄仁勋（Jensen Huang）的婚外情曾引发黄仁勋短暂离职。"
+ ],
+ "tags": [
+  "英伟达",
+  "AI",
+  "数据中心"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-25T12:00:05+00:00",
+ "created": "2026-11-25T17:29:36+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
