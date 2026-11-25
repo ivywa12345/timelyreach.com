@@ -1,0 +1,20 @@
+{
+  "title": "Gemini 4包揽文本榜前三，成本更低",
+  "summary": "谷歌Gemini 4的Carbon、Argon和Neon占据Arena文本榜前三；但在智能体榜单上Claude仍居首，谷歌的优势主要来自更低的任务成本。",
+  "body": [
+    "谷歌Gemini 4的Carbon、Argon和Neon占据Arena文本榜前三名，其中Carbon以1527分居首，Meta的Muse Wonder排第四，Anthropic的Claude Opus 5.5排第五。两个月前，前六名还全部是Claude，但那次包揽只持续了四天。",
+    "Argon在编码、难题、指令遵循、长查询、创意写作以及英语、非英语、中文和俄语等类别中排名第一，混合价格约每百万Token 8美元，约为Opus 5.5的一半。Neon于11月19日发布，在11月22日的文本榜更新中排第三。",
+    "智能体能力上，Claude仍保持领先。11月19日公布的Agent Arena Index中，Claude Fable 5.2以1453分居首；Neon以1336分排第二，仅比Opus 5.5高1分，Carbon以1303分排第四。谷歌自报的CursorBench 4.1成绩为65.4%，高于Opus 5.5的58.1%。",
+    "成本是谷歌追赶的关键。Neon的API价格为每百万输入Token 3美元、输出Token 15美元，真实会话任务成本中位数为2.82美元，比Opus 5.5便宜53%，比Fable 5.2便宜69%。文本榜榜首在不到两个月内已经两次易主，聊天能力与智能体能力的竞争还没有分出最终胜负。"
+  ],
+  "images": [],
+  "source_name": "TimelyReach",
+  "source_url": "https://36kr.com/p/4084426587793792",
+  "board": "finance",
+  "tags": [
+    "谷歌",
+    "Gemini",
+    "AI模型"
+  ],
+  "created": "2026-11-24T11:23:00Z"
+}
