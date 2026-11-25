@@ -1,0 +1,27 @@
+{
+ "key": "67b851b238",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-25/targa-is-said-in-talks-to-buy-kinetik-in-major-pipeline-tie-up",
+ "title": "能源圈又要变天？传Targa正洽谈收购管道巨头Kinetik",
+ "summary": "根据知情人士透露，美国天然气管道运营商Targa Resources正在与由黑石集团部分持股的同行Kinetik Holdings进行收购谈判。",
+ "body": [
+  "据彭博社援引知情人士消息，美国天然气管道运营商塔加资源公司（Targa Resources Corp.）目前正在就收购公开上市的管道公司基尼蒂克控股公司（Kinetik Holdings Inc.）进行深入谈判。Kinetik是一家在天然气管道行业颇具规模的企业，其部分股权由知名投资巨头黑石集团（Blackstone Inc.）持有。",
+  "如果这起重磅交易最终达成，将成为美国能源基础设施领域又一次大规模的强强联合。不过，知情人士也表示，目前谈判仍在进行中，双方尚未做出最终决定，最终也有可能无法达成协议。截至目前，Targa、Kinetik以及黑石集团均未对此事发表公开评论。",
+  "对于关注能源市场和美股的海外华人投资者来说，这类行业巨头的合并往往会引发板块震荡，并可能对相关能源股票的走势和分红产生直接影响，值得持续关注。"
+ ],
+ "tags": [
+  "能源收购",
+  "美股动态",
+  "Targa Resources",
+  "Kinetik Holdings",
+  "黑石集团"
+ ],
+ "original_title": "Targa Is Said in Talks to Buy Kinetik in Major Pipeline Tie-Up",
+ "lang": "en",
+ "published": "2026-11-25T21:00:57+00:00",
+ "created": "2026-11-25T23:09:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

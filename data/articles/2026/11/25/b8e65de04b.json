@@ -1,0 +1,33 @@
+{
+ "key": "b8e65de04b",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+ "title": "马斯克太疯狂！SpaceX获批发射100万颗太空AI卫星",
+ "summary": "美国联邦通信委员会（FCC）近日批准了马斯克的SpaceX公司在轨道上部署100万颗人工智能计算卫星的计划。尽管面临亚马逊等竞争对手和天文界的强烈反对，此举仍将大幅推动美国在太空AI领域的布局。",
+ "body": [
+  "美国联邦通信委员会（FCC）主席布伦丹·卡尔（Brendan Carr）于周三宣布，已正式授权埃隆·马斯克（Elon Musk）旗下的太空探索技术公司（SpaceX）在轨道上部署 **100万颗** 人工智能计算卫星。马斯克随后在社交平台X上回应称，这将成为美国和世界的一大资产。",
+  "## 亚马逊反对遭回怼",
+  "SpaceX的这一名为“Starmind”的卫星星座计划此前引发了不小的争议。FCC的文件显示，该申请收到了大量公众评论，其中包括来自亚马逊旗下的Kuiper Systems（Amazon Leo）、Viasat以及美国天文学会（AAS）等机构的反对请愿。",
+  "亚马逊曾在今年3月向FCC提交请愿书，批评Starmind项目不过是个“不切实际的宏伟抱负”，并称SpaceX需要“几个世纪”才能建成这个星座。对此，FCC主席卡尔反唇相讥，公开表示亚马逊应该多关注一下自己未能按时完成卫星部署目标的现状。",
+  "> “This will be a great asset to America and the world.” —— 马斯克（Elon Musk）",
+  "## 太空竞赛与隐忧",
+  "除了SpaceX，科技巨头们对太空数据中心的布局早已展开激烈竞争：",
+  "- 谷歌去年宣布了将AI送入太空的“Suncatcher计划”，并在10月用SpaceX火箭发射了首批芯片\n- 杰夫·贝佐斯（Jeff Bezos）旗下的蓝色起源（Blue Origin）在3月向FCC申请发射多达 **51,600颗** 卫星，以组建“Sunrise项目”星座\n- 天体物理学家亚当·贝克尔（Adam Becker）则对这一决定提出严厉批评，警告称此举将进一步污染夜空，并带来严重的太空垃圾碰撞风险",
+  "不过，FCC在授权文件中回应称，对于委员会管辖权之外的议题（包括环境关切及对光学天文学的影响），相关意见和担忧均已被驳回。"
+ ],
+ "tags": [
+  "SpaceX",
+  "马斯克",
+  "人工智能",
+  "FCC",
+  "亚马逊"
+ ],
+ "original_title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+ "lang": "en",
+ "published": "2026-11-25T19:52:47+00:00",
+ "created": "2026-11-25T23:12:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

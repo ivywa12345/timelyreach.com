@@ -1,0 +1,28 @@
+{
+ "key": "b46c4e63ab",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/donald-trump-tariffs-sec-301-ebc5d057?mod=rss_opinion",
+ "title": "选民说关税伤经济，川普为啥还要疯狂加税？",
+ "summary": "华尔街日报社论指出，尽管选民认为关税伤害了经济，但川普依然执意推出新一轮边境税。",
+ "body": [
+  "选民明明在选举中表达了对关税会伤害经济的担忧，但候任总统川普（Donald Trump）似乎并不打算收手，反而计划强力推行新一轮的边境税。",
+  "## 关税大棒再度挥起",
+  "在这篇由华尔街日报编辑委员会（The Editorial Board）发表的社论中指出，虽然民调和选民反馈都显示加征关税会增加普通民众的负担、拖累整体经济，但川普依然我行我素，准备在新的任期内继续挥舞关税大棒。",
+  "## 对华人在美生活的影响",
+  "对于远在海外的华人来说，关税政策的加码直接关系到大家的“钱袋子”。如果全面加征边境税，意味着日常消费品、电子产品以及各类进口货物的价格可能会进一步上涨，直接推高通胀水平，增加日常生活成本。"
+ ],
+ "tags": [
+  "关税政策",
+  "川普",
+  "美国经济",
+  "通货膨胀"
+ ],
+ "original_title": "Post-Election Message: More Tariffs",
+ "lang": "en",
+ "published": "2026-11-25T22:28:00+00:00",
+ "created": "2026-11-25T23:10:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

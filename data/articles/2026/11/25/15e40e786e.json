@@ -1,0 +1,25 @@
+{
+ "key": "15e40e786e",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/china/2026/11/25/nuclear-arms-control-is-on-hold-until-china-catches-up",
+ "title": "核军控还要等多久？美国想谈，中国嫌早？",
+ "summary": "特朗普希望在核军控上取得进展的想法并不现实，因为在中国的核力量赶上美俄之前，核军控谈判将一直处于停滞状态。",
+ "body": [
+  "美国当选总统唐纳德·特朗普（Donald Trump）此前对在核军控问题上取得进展抱有幻想，但这在现实中很难实现。目前的核武器军控进程已经按下了暂停键，核心原因在于中国目前的核力量规模和现代化建设尚未达到美俄的水平，在追赶上来之前，北京方面对深度参与军控谈判并不热心。",
+  "长期以来，美俄两国的核武库规模远超其他国家，而中国的核力量近年来虽然在快速现代化，但与美俄相比仍有明显差距。国际社会普遍关注大国之间的战略稳定，但由于各方对“对等裁军”的定义和安全关切不同，多边核军控协议短期内很难看到实质性进展。"
+ ],
+ "tags": [
+  "核军控",
+  "中美关系",
+  "特朗普",
+  "国际政治"
+ ],
+ "original_title": "Nuclear-arms control is on hold until China catches up",
+ "lang": "en",
+ "published": "2026-11-25T19:48:17+00:00",
+ "created": "2026-11-25T23:09:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

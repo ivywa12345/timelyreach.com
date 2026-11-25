@@ -1,0 +1,27 @@
+{
+ "key": "f23f7d855e",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?mod=rss_markets_main",
+ "title": "AI概念股把华尔街折腾惨了！纳指盘中暴跌4.5%",
+ "summary": "周三纳斯达克综合指数盘中一度狂泻4.5%，随后才收复部分失地，显示出华尔街在混乱的AI投资浪潮中正面临迷茫。",
+ "body": [
+  "周三的美国股市让不少投资者惊出一身冷汗。在混乱的新一轮人工智能（AI）交易风暴中，华尔街似乎怎么也找不到方向，纳斯达克综合指数盘中一度 **暴跌高达4.5%**，随后才勉强收窄跌幅。",
+  "作为近年来市场最热的赛道，AI相关股票的波动正变得越来越剧烈。过去那种“无脑买入”就能躺赚的日子似乎正在远去，机构和散户面对瞬息万变的技术路线和估值争议，情绪正变得异常脆弱。",
+  "对于咱们海外华人投资者来说，这种剧烈震荡敲响了警钟。科技股一直是在美华人资产配置的重仓方向，面对AI板块的上蹿下跳，盲目追高或恐慌割肉都可能伤及钱包，近期做资产配置时还是得系紧安全带、注意分散风险。"
+ ],
+ "tags": [
+  "华尔街",
+  "纳斯达克",
+  "人工智能",
+  "美股盘点",
+  "华人理财"
+ ],
+ "original_title": "Wall Street Can’t Seem to Find Its Footing in the Chaos of the New AI Trade",
+ "lang": "en",
+ "published": "2026-11-25T21:48:00+00:00",
+ "created": "2026-11-25T23:10:37+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

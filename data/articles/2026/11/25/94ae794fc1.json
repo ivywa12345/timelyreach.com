@@ -1,0 +1,26 @@
+{
+ "key": "94ae794fc1",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
+ "title": "美债收益率全线回落，通胀数据释放了什么信号？",
+ "summary": "美国最新发布的一系列经济数据（包括美联储最关注的PCE物价指数）出炉后，美国国债收益率延续了下跌趋势。",
+ "body": [
+  "美国国债收益率在近期迎来了一波下跌行情。就在最新的一批美国经济数据集中出炉后，国债收益率短时间内进一步走低，这也让市场对未来的经济和货币政策走向有了新的猜测。",
+  "这次公布的关键数据中，最引人注目的是个人消费支出（PCE）物价指数。作为美联储（Federal Reserve）平时最看重的通胀衡量指标，它的每一个风吹草动都牵动着华尔街的心，也直接决定了接下来的降息预期。"
+ ],
+ "tags": [
+  "美债收益率",
+  "通胀",
+  "美联储",
+  "PCE",
+  "经济数据"
+ ],
+ "original_title": "Treasury Yields Extend Fall After U.S. Data Flurry",
+ "lang": "en",
+ "published": "2026-11-25T21:02:00+00:00",
+ "created": "2026-11-25T23:13:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

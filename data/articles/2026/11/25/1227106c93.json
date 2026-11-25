@@ -1,0 +1,26 @@
+{
+ "key": "1227106c93",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/whats-behind-the-global-youth-revolts-c6a95324?mod=rss_worldnews",
+ "title": "为啥全球年轻人突然都不买账了？",
+ "summary": "华尔街日报专栏文章分析指出，全球年轻人正在掀起一场“叛逆潮”，核心原因是经济前景黯淡，且高等教育已经不再是通往生活稳定的通行证。",
+ "body": [
+  "最近这几年，世界各地的年轻人好像都有点“躺平”或者“造反”的意思。华尔街日报（Wall Street Journal）专栏作家威廉·加尔斯顿（William A. Galston）撰文指出，这背后其实有一个非常现实的根源：大家发现努力读书和工作，好像根本换不来想要的生活了。",
+  "过去几十年的老理儿是，只要你好好上大学、拿个学位，就能稳稳当当过上好日子。但现在的现实是，经济前景看起来很不乐观，高等教育早已不再是铁饭碗的敲门砖。当读书不再管用、未来一眼望不到头，年轻一代自然开始对现状产生强烈的不满和反叛情绪。"
+ ],
+ "tags": [
+  "全球年轻人",
+  "经济前景",
+  "高等教育",
+  "职场压力",
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | What’s Behind the Global Youth Revolts?",
+ "lang": "en",
+ "published": "2026-11-24T17:47:00+00:00",
+ "created": "2026-11-25T23:08:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,29 @@
+{
+ "key": "03e5cf663c",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/25/jensen-huangs-bail-out-will-not-be-the-ai-booms-last",
+ "title": "黄仁勋救得了英伟达，却安抚不了华尔街？",
+ "summary": "英伟达CEO黄仁勋近期重金稳定市场的情绪，但这并未彻底平息华尔街对人工智能泡沫的担忧，这也不会是AI热潮中的最后一次“自救”。",
+ "body": [
+  "英伟达（NVIDIA）掌门人黄仁勋（Jensen Huang）最近通过一系列动作试图给市场吃定心丸，然而华尔街对此并不买账，投资者对AI泡沫破裂的恐惧依然存在。",
+  "## 狂热背后的隐忧",
+  "过去一段时间里，科技股的暴涨让不少人赚得盆满钵满，但随之而来的也是极高的市场波动。华尔街担心巨额的AI基建投入无法在短期内带来对等的回报，这种焦虑感并没有因为个别巨头的表态而消失。",
+  "## AI热潮远未结束",
+  "经济学人指出，黄仁勋这次出面稳定军心只是AI浪潮中的一个插曲。随着技术持续迭代和资本不断涌入，市场未来还将经历更多的震荡与洗牌，这绝对不会是最后一次风波。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "华尔街",
+  "人工智能",
+  "美股"
+ ],
+ "original_title": "Jensen Huang’s bail-out will not be the AI boom’s last",
+ "lang": "en",
+ "published": "2026-11-25T21:09:28+00:00",
+ "created": "2026-11-25T23:11:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

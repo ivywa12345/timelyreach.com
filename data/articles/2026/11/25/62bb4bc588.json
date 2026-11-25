@@ -1,0 +1,26 @@
+{
+ "key": "62bb4bc588",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/finance-and-economics/2026/11/25/can-americas-government-afford-affordability",
+ "title": "天天喊着要“物价亲民”，美国政府的钱包真的吃得消吗？",
+ "summary": "经济学人发文探讨美国政府推行“负担得起”政策的代价，指出通过财政补贴和干预来降低生活成本往往伴随着高昂的经济开销。",
+ "body": [
+  "最近美国政坛和民间都在天天琢磨怎么让老百姓的生活成本降下来，但《经济学人》（The Economist）最近发文灵魂发问：天天喊着要物价亲民，美国政府的钱包真的吃得消吗？",
+  "简单来说，这件事的本质就是“想把东西变便宜，本身却贵得离谱”。无论是通过财政补贴、税收优惠还是行政干预来压低民生用品和服务的价格，政府往往都需要砸进去天文数字的资金。",
+  "对于咱们海外华人来说，政府为了“减负”而大笔撒币，短期内或许能让钱包稍微缓口气，但长远来看，由此引发的财政赤字和潜在通胀压力，最终可能还是要由纳税人来买单。不管是买房、看病还是日常开销，怎么平衡政府干预与市场规律，直接关系到每个家庭的切身利益。"
+ ],
+ "tags": [
+  "美国经济",
+  "生活成本",
+  "通货膨胀",
+  "财政政策"
+ ],
+ "original_title": "Can America’s government afford “affordability”?",
+ "lang": "en",
+ "published": "2026-11-25T22:33:27+00:00",
+ "created": "2026-11-25T23:09:01+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,28 @@
+{
+ "key": "85ca1b6718",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/science-and-technology/2026/11/25/why-mathematicians-must-rely-on-machines-to-check-new-results",
+ "title": "数学界被AI整不会了？复杂证明太庞大，人类大脑根本看不懂！",
+ "summary": "随着AI辅助数学证明的发展，许多新研究成果变得过于庞大，人类数学家已经无法独自消化和验证，必须依靠机器来帮忙。",
+ "body": [
+  "数学界最近面临一个新烦恼：AI参与搞出来的数学证明越来越庞大，复杂到人类根本无法消化。",
+  "## 机器来当审稿人",
+  "传统数学靠的是人类同行的严密推导和审稿，但现在很多AI驱动的证明体积惊人。面对这些超大规模的新结果，数学家们不得不转变观念，开始依赖机器来检查和核实证明的正确性。",
+  "## 对未来的影响",
+  "这件事在学术界引发了讨论。对于关注科技前沿和AI发展的海外华人来说，这也折射出人工智能正在深入传统基础科学的核心领域，未来AI不仅会写代码、做设计，甚至可能重新定义人类探索科学边界的方式。"
+ ],
+ "tags": [
+  "人工智能",
+  "数学研究",
+  "科技前沿",
+  "学术动态"
+ ],
+ "original_title": "Why mathematicians must rely on machines to check new results",
+ "lang": "en",
+ "published": "2026-11-25T18:23:57+00:00",
+ "created": "2026-11-25T23:11:12+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

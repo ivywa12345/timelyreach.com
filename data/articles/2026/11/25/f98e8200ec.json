@@ -1,0 +1,25 @@
+{
+ "key": "f98e8200ec",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+ "title": "大跌虚惊一场？甲骨文等科技股盘中绝地反击",
+ "summary": "周三盘前经历大幅抛售后，甲骨文、CoreWeave等科技股在收盘前成功收复失地，迎来一波反弹。",
+ "body": [
+  "周三（美国当地时间），甲骨文（Oracle）、CoreWeave等科技股在经历早盘的下跌后，在收盘前成功反弹，让虚惊一场的投资者松了一口气。",
+  "在此之前，这些科技股在盘中遭遇了明显的抛售压力，市场一度弥漫着悲观情绪。不过，随着买盘在收盘前逐渐涌入，早盘的跌幅最终得以缓解，多只热门科技股扭转了颓势。"
+ ],
+ "tags": [
+  "科技股",
+  "美股",
+  "甲骨文",
+  "市场动态"
+ ],
+ "original_title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
+ "lang": "en",
+ "published": "2026-11-25T22:16:00+00:00",
+ "created": "2026-11-25T23:12:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "57a50e4435",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/nestle-eyes-wearable-tech-to-match-consumers-with-nutrition-products-c3ca7bb3?mod=rss_Technology",
+ "title": "雀巢放大招？智能手表以后可能直接“点单”买营养品！",
+ "summary": "雀巢（Nestle）旗下的Orgain蛋白粉和Pure Encapsulations保健品业务正在临床试验中引入可穿戴设备，未来有望通过智能手表的数据直接为消费者推荐营养产品。",
+ "body": [
+  "平时戴的智能手表，以后可能不仅能看步数，还能直接帮你挑保健品了！据《华尔街日报》报道，生产Orgain蛋白粉和Pure Encapsulations补充剂的食品巨头雀巢（Nestle），最近在临床试验中开始使用可穿戴设备来监测参与者的数据。他们正在布局一个新未来：让智能手表收集的数据直接为消费者“对症下药”推荐营养产品。",
+  "这项新尝试的核心，是将日常健康监测与精准营养结合起来。虽然目前仍处于临床试验的监测阶段，但业内人士认为，随着技术的成熟，消费者的身体健康指标将与个性化营养方案实现无缝对接。",
+  "对于咱们海外华人来说，这类健康科技的普及意味着未来的保健品消费将更加“量体裁衣”。不用再盲目跟风买一堆维生素，手表的数据可能直接告诉你缺啥。不过，这也引发了一些人对健康数据隐私的担忧，未来如何在享受便利和保护个人隐私之间找到平衡，将是大家需要关注的问题。"
+ ],
+ "tags": [
+  "雀巢",
+  "可穿戴设备",
+  "智能手表",
+  "健康营养",
+  "海外科技"
+ ],
+ "original_title": "Nestle Eyes Wearable Tech to Match Consumers With Nutrition Products",
+ "lang": "en",
+ "published": "2026-11-25T11:34:00+00:00",
+ "created": "2026-11-25T23:10:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

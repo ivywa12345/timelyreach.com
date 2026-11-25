@@ -1,0 +1,28 @@
+{
+ "key": "894319cf0b",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
+ "title": "黄仁勋被炒又复职？华尔街日报复盘惊心动魄的11天",
+ "summary": "《华尔街日报》记者独家复盘了芯片巨头英伟达在经历CEO黄仁勋短暂离职并戏剧性回归的11天里，到底发生了什么。",
+ "body": [
+  "如果你最近关注科技圈，一定被英伟达（Nvidia）的一则重磅消息刷屏了。根据《华尔街日报》的最新报道，芯片巨头英伟达在不久前经历了一场高层大地震——CEO黄仁勋（Jensen Huang）一度被公司罢免，但在短短的11天内，这场风波又以他戏剧性地重返岗位而告终。",
+  "## 惊心动魄的11天",
+  "这场突如其来的权力更迭让华尔街和全球科技界大跌眼镜。虽然具体细节仍在不断披露中，但这短短 **11天** 的高层动荡，不仅直接撼动了这家全球市值最高之一的AI芯片帝国，也让无数投资者和行业观察家捏了一把冷汗。",
+  "目前，《华尔街日报》的记者团队正在持续追踪并深度剖析这起人事风波背后的权力博弈。对于关注美股和AI板块的海外华人来说，英伟达作为科技股的风向标，其高层稳定直接关乎广大投资者的“钱袋子”和整体科技市场的走向，我们将继续为您关注事态的最新进展。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "华尔街日报",
+  "科技新闻",
+  "美股"
+ ],
+ "original_title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
+ "lang": "en",
+ "published": "2026-11-25T22:27:00+00:00",
+ "created": "2026-11-25T23:08:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

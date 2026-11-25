@@ -1,0 +1,27 @@
+{
+ "key": "aed1679767",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+ "title": "把养老金全押在黄仁勋身上？美媒灵魂发问：我们是不是疯了！",
+ "summary": "知名财经媒体MarketWatch发文指出，当今时代令人担忧的一点，在于大家的401(k)退休账户余额居然严重依赖英伟达CEO黄仁勋的宏大愿景，这也引发了外界对华尔街过度集中投资AI巨头的反思。",
+ "body": [
+  "近期，市场对人工智能（AI）的热情居高不下，这也让芯片巨头英伟达（Nvidia）及其掌门人黄仁勋（Jensen Huang）成为了全球资本市场的风向标。然而，知名财经专栏作家Quentin Fottrell在MarketWatch撰文发出灵魂拷问：如果一个未来主义者的宏大愿景直接决定了普通人的退休金账户，我们是不是生活在一个相当危险的时代？",
+  "文章指出，作为极具远见的行业领袖，黄仁勋成功打造了一个让科技界“条条大路通罗马”的庞大商业帝国。但从投资角度来看，当无数投资者的401(k)退休金、共同基金和指数基金都在疯狂涌入同一家公司时，这种高度集中也意味着巨大的潜在风险。一旦科技巨头的增长势头放缓，普通人的钱包将首当其冲受到震动。",
+  "对于在美华人来说，许多人的退休账户和长期投资往往也重仓了美股大盘科技股。这篇报道提醒我们在享受AI红利的同时，或许也需要重新审视自己的资产配置，避免把所有的鸡蛋都放在同一个篮子里，防范市场剧烈波动可能带来的财务风险。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "401k",
+  "美股投资",
+  "资产配置"
+ ],
+ "original_title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+ "lang": "en",
+ "published": "2026-11-25T22:31:00+00:00",
+ "created": "2026-11-25T23:10:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

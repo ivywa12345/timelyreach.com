@@ -1,0 +1,27 @@
+{
+ "key": "9c4abb6f09",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/cybersecurity/ommon-cybersecurity-mistakes-vulnerabilities-6f91faf9?mod=rss_Technology",
+ "title": "天天讲防网络诈骗，这10个低级错误为啥大家还在犯？",
+ "summary": "华尔街日报指出，网络安全漏洞和警告已经存在了几十年，但许多人依然对此置之不理，继续犯下同样的低级错误。",
+ "body": [
+  "网络安全天天讲，怎么还是有人在踩坑？最近《华尔街日报》刊文吐槽，虽然网络安全的薄弱环节已经被科普了几十年，但很多人依然选择“躺平”，什么都不做。",
+  "## 几十年都没变的漏洞",
+  "文章作者 Andrew Blackman 指出，科技发展到现在，黑客攻击的套路其实大同小异，防护指南也早已烂大街。然而，面对这些已经存在了几十年的明显漏洞，无数个人和企业依然选择忽视，最终导致安全事故频发。",
+  "对于咱们海外华人来说，无论是日常网购、处理税务，还是管理公司的业务，网络安全都直接关系到我们的个人隐私和财产安全。一个偷懒的习惯，可能就会让多年的辛苦积蓄打水漂。下次看到安全提示时，千万别再当耳旁风了。"
+ ],
+ "tags": [
+  "网络安全",
+  "华尔街日报",
+  "防骗指南",
+  "海外生活"
+ ],
+ "original_title": "How Can We Still Be Making These 10 Cybersecurity Mistakes?",
+ "lang": "en",
+ "published": "2026-11-24T19:00:00+00:00",
+ "created": "2026-11-25T23:08:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

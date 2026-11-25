@@ -1,0 +1,25 @@
+{
+ "key": "75d48a3975",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-25/xi-unleashes-china-earthquake-with-shock-ouster-of-rising-star",
+ "title": "上海前市委书记陈吉宁闪电下台，外媒：犹如引发政治“地震”",
+ "summary": "彭博社报道称，曾被视为政治新星的上海市委书记陈吉宁在毫无征兆的情况下突然去职，引发外界高度关注。",
+ "body": [
+  "据彭博社报道，就在遭遇突然下台的十个月前，上海市委书记陈吉宁还曾公开露面，前往当地的一家工业园区考察人工智能（AI）初创企业。然而这场突如其来的变动，被外媒形容为犹如在政坛引发了一场“地震”。",
+  "作为备受瞩目的政坛新星，陈吉宁的去职在坊间和国际媒体间引发了诸多猜测。目前相关官方动向和具体原因仍在持续发酵中，各界正密切关注后续的局势发展。"
+ ],
+ "tags": [
+  "中国政坛",
+  "上海",
+  "陈吉宁",
+  "彭博社"
+ ],
+ "original_title": "Xi Unleashes China ‘Earthquake’ With Ouster of Rising Star",
+ "lang": "en",
+ "published": "2026-11-25T12:15:00+00:00",
+ "created": "2026-11-25T23:09:30+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

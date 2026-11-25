@@ -1,0 +1,26 @@
+{
+ "key": "6a43b41d9e",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/alan-milburn-report-u-k-youth-unemployment-52e6b3e6?mod=rss_worldnews",
+ "title": "英国年轻人干嘛不爱上班？华尔街日报点出扎心真相",
+ "summary": "华尔街日报社论指出，英国福利制度存在问题，导致许多年轻人宁愿闲着也不愿找工作，形成了“不工作更划算”的奇特现象。",
+ "body": [
+  "近日，《华尔街日报》(The Wall Street Journal)编辑委员会发表了一篇评论文章，犀利地指出了英国目前面临的一个严重社会问题：由于福利制度的设计存在缺陷，导致大批英国年轻人选择当“躺平族”，宁可长期失业也不愿找工作。",
+  "文章指出，这种现象背后的核心原因是“扭曲的激励机制”。当年轻人发现靠领救济金维持生活，与辛辛苦苦打工拿到的薪水相差无几，甚至活得更轻松时，很多人自然而然地放弃了求职的动力。这种制度不仅加重了国家的财政负担，也让年轻一代失去了奋斗的机会和职场竞争力。对于在海外生活的华人来说，这也是一面镜子，引发了人们对西方福利社会利弊的深思——过度的社会保障，究竟是在帮人还是在养懒人？"
+ ],
+ "tags": [
+  "英国",
+  "年轻人",
+  "失业",
+  "福利制度",
+  "华尔街日报"
+ ],
+ "original_title": "Opinion | The Welfare State and Britain’s Idle Youth",
+ "lang": "en",
+ "published": "2026-11-23T22:56:00+00:00",
+ "created": "2026-11-25T23:12:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

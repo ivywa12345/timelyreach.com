@@ -1,0 +1,29 @@
+{
+ "key": "8ec188521b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-25/compass-delays-380-million-abs-after-data-center-outage",
+ "title": "数据中心出故障，Compass紧急叫停3.8亿美元债券发行",
+ "summary": "由于数据中心发生运营故障加上投资者纷纷退货，Compass Datacenters公司被迫推迟了原定进行的3.8亿美元资产支持证券（ABS）发行计划。",
+ "body": [
+  "据彭博社报道，数据中心运营商Compass Datacenters近期遭遇了不小的麻烦。由于旗下一座数据中心发生运营故障，导致投资者信心受挫、纷纷退出认购，该公司被迫按下了暂停键，延迟了总额高达 **3.8亿美元** 的资产支持证券（ABS）发行计划。",
+  "## 运营故障引发退货潮",
+  "这次被叫停的金融产品是以数据中心资产为支撑的证券化产品。在其中一座数据中心出现运营问题后，原本有意向的投资者选择撤回资金，直接导致了此次发售计划的搁浅。目前，Compass Datacenters尚未公布该债券重新启动发行的具体时间表。",
+  "## 依赖基础设施的风险",
+  "近年来随着云计算和人工智能的爆发，数据中心相关的债券和资产支持证券备受市场追捧。然而，这起事件也暴露出底层硬件和运营一旦出现闪失，资本市场的融资计划就会立刻受到冲击。对于关注美国科技地产和相关金融产品的投资者来说，基础设施的稳定性依然是最大的不确定性。"
+ ],
+ "tags": [
+  "Compass Datacenters",
+  "数据中心",
+  "债券发行",
+  "华尔街",
+  "金融市场"
+ ],
+ "original_title": "Compass Delays $380 Million ABS After Data Center Outage",
+ "lang": "en",
+ "published": "2026-11-25T22:27:09+00:00",
+ "created": "2026-11-25T23:11:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "8fadf88ff4",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
+ "title": "美股尾盘惊险大逆转，亚洲股市今天稳了？",
+ "summary": "受美股尾盘反弹带动，亚洲股市开盘有望小幅上涨，纳斯达克100指数惊险逃过熊市。同时，市场对人工智能（AI）热潮能持续多久的担忧仍在，推动美债价格上涨。",
+ "body": [
+  "受美股尾盘强劲反弹提振，亚洲股市开盘有望迎来小幅上涨。此前，华尔街经历了一波惊心动魄的行情，纳斯达克100指数（Nasdaq 100）在跌入熊市边缘后成功拉回。",
+  "在这场市场波动背后，投资者对人工智能相关股票的热情是否可持续仍存疑虑。这种担忧情绪促使资金流向相对安全的资产，推动美国国债（Treasuries）价格走高。"
+ ],
+ "tags": [
+  "亚洲股市",
+  "美股",
+  "纳斯达克",
+  "AI热潮",
+  "美债"
+ ],
+ "original_title": "Asian Stocks Set for Gains After Late US Rebound: Markets Wrap",
+ "lang": "en",
+ "published": "2026-11-25T22:10:42+00:00",
+ "created": "2026-11-25T23:13:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
