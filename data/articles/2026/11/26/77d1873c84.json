@@ -1,0 +1,27 @@
+{
+ "key": "77d1873c84",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863?mod=rss_markets_main",
+ "title": "美股大盘冰火两重天！英伟达领衔AI板块继续回调",
+ "summary": "受科技股尤其是英伟达相关AI板块持续回调影响，美国股市周二收盘涨跌不一，此前因黄仁勋重任CEO获得的涨幅正被逐渐吐回。",
+ "body": [
+  "美股周二（当地时间）走势分化，科技板块成为重灾区，继续吐出此前黄仁勋（Jensen Huang）恢复担任英伟达（Nvidia）CEO后积累的部分涨幅，导致大盘最终收盘涨跌不一。",
+  "近期，由于AI概念股持续回调，美股科技板块波动明显，投资者情绪趋于谨慎，正在重新评估此前由人工智能热潮带动的估值泡沫。",
+  "对咱们海外华人投资者来说，科技股的震荡意味着资产配置需要更加灵活，盲目追高AI概念的风险正在加大，大家在看紧自己钱包的同时，不妨多关注市场的板块轮动机会。"
+ ],
+ "tags": [
+  "美股",
+  "英伟达",
+  "AI板块",
+  "华尔街",
+  "海外投资"
+ ],
+ "original_title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
+ "lang": "en",
+ "published": "2026-11-25T22:21:00+00:00",
+ "created": "2026-11-26T19:50:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

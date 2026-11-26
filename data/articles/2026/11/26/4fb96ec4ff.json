@@ -1,0 +1,25 @@
+{
+ "key": "4fb96ec4ff",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main",
+ "title": "金价又涨了！每盎司突破3500美元，但短期内难有大动作？",
+ "summary": "黄金价格继续走高，期货上涨1%至每盎司3,579.90美元，但市场分析认为近期大涨大跌的可能性不大。",
+ "body": [
+  "黄金价格近日再度扩大涨幅，根据华尔街日报报道，黄金期货价格上涨了1%，达到了每盎司 **3,579.90美元** 的水平。",
+  "不过，尽管金价稳步上扬，但市场观察人士普遍认为，在当前阶段，金价出现大幅度剧烈波动的可能性相对较低，短期走势或将保持相对平稳。"
+ ],
+ "tags": [
+  "黄金价格",
+  "贵金属",
+  "财经快讯",
+  "投资理财"
+ ],
+ "original_title": "Gold Rises But Big Moves Seen as Unlikely for Now",
+ "lang": "en",
+ "published": "2026-11-26T17:23:00+00:00",
+ "created": "2026-11-26T19:54:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

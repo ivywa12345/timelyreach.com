@@ -1,0 +1,28 @@
+{
+ "key": "a24c67f164",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/does-nvidia-really-need-its-brilliant-nutjob-33b21d47?mod=rss_markets_main",
+ "title": "英伟达真的离不开“黄老板”吗？华尔街这篇评论亮了",
+ "summary": "《华尔街日报》专栏作家探讨了英伟达CEO黄仁勋对公司的核心价值，以及特朗普的回归对这位科技大佬及资本市场的影响。",
+ "body": [
+  "特朗普（Donald Trump）再次当选美国总统，而在投资者还没来得及彻底评估黄仁勋（Jensen Huang）对英伟达（Nvidia）的真正价值之前，这位科技界的大佬就已经再次成为焦点。",
+  "## 资本市场的灵魂人物",
+  "长期以来，黄仁勋独特的管理风格和极具前瞻性的战略眼光带领英伟达登上了全球人工智能芯片的巅峰。然而，随着国际政治环境和经济政策的变化，华尔街开始重新审视像他这样具有极高个人影响力的领袖对公司的长期影响是否足够稳固。",
+  "对于关注科技股和美国经济走向的海外华人来说，英伟达的每一个决策和高层动向都直接牵动着科技板块的神经，进而影响到大家的投资组合与行业风向。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "华尔街日报",
+  "科技股",
+  "特朗普"
+ ],
+ "original_title": "Opinion | Does Nvidia Really Need Its Brilliant Nutjob?",
+ "lang": "en",
+ "published": "2026-11-26T18:10:00+00:00",
+ "created": "2026-11-26T19:53:36+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

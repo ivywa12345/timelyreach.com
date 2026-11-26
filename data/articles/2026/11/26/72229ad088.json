@@ -1,0 +1,25 @@
+{
+ "key": "72229ad088",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/bank-of-england-proposes-cut-to-u-k-bank-capital-requirements-456b852d?mod=rss_worldnews",
+ "title": "英国央行要给银行“松绑”？释放更多资金支持贷款和分红",
+ "summary": "英国央行提议削减银行资本要求，此举将释放更多资本用于分红、回购或贷款，旨在为英国家庭和企业提供更多资金支持。",
+ "body": [
+  "英国央行（Bank of England）近日提出了削减英国银行资本要求的重磅提议，此举将允许银行释放更多资金，用于派发股息、股票回购或扩大信贷规模。",
+  "英国央行表示，这一系列调整将能腾出更多信贷潜能，从而为英国本土的家庭和企业提供更充足的资金支持，激发市场活力。"
+ ],
+ "tags": [
+  "英国央行",
+  "银行资本",
+  "金融政策",
+  "经济动态"
+ ],
+ "original_title": "Bank of England Proposes Cut to U.K. Bank Capital Requirements",
+ "lang": "en",
+ "published": "2026-11-26T11:12:00+00:00",
+ "created": "2026-11-26T19:53:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

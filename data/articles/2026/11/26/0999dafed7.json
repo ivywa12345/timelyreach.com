@@ -1,0 +1,25 @@
+{
+ "key": "0999dafed7",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/business/2026/11/26/chinese-cities-want-to-become-token-factories-for-the-world",
+ "title": "中国城市想当全球“代币工厂”？现实却狠狠泼了冷水",
+ "summary": "根据《经济学人》报道，中国一些城市曾雄心勃勃地想要成为全球区块链代币的制造中心，但目前的实际进展却并不顺利。",
+ "body": [
+  "中国的一些城市曾试图在大潮中分一杯羹，幻想着能转型成为全球区块链和数字资产的“代币工厂（Token Factories）”，但根据《经济学人》的最新报道，这项雄心勃勃的计划目前的进展并不顺利。",
+  "虽然这些地方政府曾希望通过区块链技术和数字资产创新来拉动地方经济、吸引科技人才，但在实际操作中，面对严峻的监管环境和技术落地的种种难题，这些“代币工厂”的梦想遭遇了现实的重击，远没有达到预期效果。"
+ ],
+ "tags": [
+  "区块链",
+  "数字资产",
+  "经济学人",
+  "科技发展"
+ ],
+ "original_title": "Chinese cities want to become “token factories” for the world",
+ "lang": "en",
+ "published": "2026-11-26T13:45:02+00:00",
+ "created": "2026-11-26T19:52:28+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "333c58c459",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-26/canada-government-spending-slowed-in-2025-as-defense-jumped",
+ "title": "加拿大政府2025年开支大降温：环保预算收紧，国防成重头戏",
+ "summary": "根据彭博社报道，加拿大各级政府2025年的开支增速大幅放缓至2.2%，仅为前一年的一半，主要由于加大了国防投入并削减了环保政策预算。",
+ "body": [
+  "根据彭博社（Bloomberg）记者 Nojoud Al Mallees 的报道，加拿大各级政府在 2025 年的财政开支增长明显踩了刹车，增速回落至 **2.2%**，大约只有前一年增长率的一半。",
+  "这一变化背后的主要原因是加拿大政府调整了财政重心：一方面大幅增加了国防领域的开支，另一方面则选择在环保政策上缩减预算、收回资金。",
+  "对于关注北美经济和加国政策走向的海外华人来说，政府预算的调整往往直接关系到税收优惠、绿色补贴以及相关的经济景气度。后续相关政策的落地仍需持续观察。"
+ ],
+ "tags": [
+  "加拿大",
+  "政府开支",
+  "国防预算",
+  "经济新闻"
+ ],
+ "original_title": "Canada Government Spending Slowed in 2025 as Defense Jumped",
+ "lang": "en",
+ "published": "2026-11-26T16:37:41+00:00",
+ "created": "2026-11-26T19:52:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

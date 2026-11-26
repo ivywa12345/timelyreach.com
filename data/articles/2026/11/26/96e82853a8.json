@@ -1,0 +1,26 @@
+{
+ "key": "96e82853a8",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/united-states/2026/11/26/congress-takes-aim-at-the-red-tape-that-makes-it-hard-to-build",
+ "title": "美国国会要对基建“审批长”动手了，两党能谈拢吗？",
+ "summary": "美国国会正试图削减阻碍基础设施建设的繁文缛节，但民主党人是否会支持放松管制仍是个未知数。",
+ "body": [
+  "美国国会最近将矛头对准了那些让建东西变得异常艰难的繁文缛节（red tape）。长期以来，各种冗长的审批程序和官僚主义让美国的基建项目落地难上加难，如今国会正试图通过简化流程来打破僵局。",
+  "不过，这项旨在放松管制的举措也面临着不小的政治考验。外界普遍关注的核心问题是：一向对环保和劳工标准极其重视的民主党人，究竟会不会支持这种大刀阔斧的放松管制？",
+  "对于在美华人来说，基建审批效率的提高不仅关乎社区周边的交通和公用设施建设，也可能影响到整体经济活力和就业机会。后续两党如何博弈，值得我们持续关注。"
+ ],
+ "tags": [
+  "美国国会",
+  "基础设施",
+  "放松管制",
+  "两党博弈"
+ ],
+ "original_title": "Congress takes aim at the red tape that makes it hard to build",
+ "lang": "en",
+ "published": "2026-11-26T13:45:02+00:00",
+ "created": "2026-11-26T19:52:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

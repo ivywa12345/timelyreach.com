@@ -1,0 +1,25 @@
+{
+ "key": "8f41630356",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-26/alberta-raises-projected-surplus-to-6-billion-as-oil-surges",
+ "title": "油价飙升太猛！加拿大艾伯塔省预算盈余暴涨至60亿美元",
+ "summary": "由于伊朗持续冲突推动油价高居不下，加拿大艾伯塔省将当前财年的预计盈余大幅上调至85亿加元（约合60亿美元）。",
+ "body": [
+  "受中东局势影响，加拿大能源大省艾伯塔省（Alberta）迎来了大丰收。彭博社（Bloomberg）记者罗伯特·塔特尔（Robert Tuttle）报道称，由于伊朗战事旷日持久导致国际油价持续高位运行，该省近日将当前财年的预计财政盈余大幅上调至 **85亿加元**（约合 **60亿美元**）。",
+  "作为加拿大主要的石油产地，艾伯塔省的财政收入历来与国际油市紧密挂钩。在此前的预算中，当地政府并没有料到油价能维持这么久的高位。随着能源出口带来丰厚回报，该省的财政账面瞬间变得极为好看，也为当地政府提供了更多资金空间。"
+ ],
+ "tags": [
+  "加拿大",
+  "艾伯塔省",
+  "油价",
+  "财政盈余"
+ ],
+ "original_title": "Alberta Raises Projected Surplus to $6 Billion as Oil Surges",
+ "lang": "en",
+ "published": "2026-11-26T18:29:39+00:00",
+ "created": "2026-11-26T19:51:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

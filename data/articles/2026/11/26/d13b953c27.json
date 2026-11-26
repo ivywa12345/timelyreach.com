@@ -1,0 +1,27 @@
+{
+ "key": "d13b953c27",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
+ "title": "金价在15个月低位附近徘徊，发生了什么？",
+ "summary": "周四，黄金价格在15个月低位附近徘徊，投资者正在权衡美联储进一步加息的前景与科技股回暖带来的市场反弹。",
+ "body": [
+  "周四，黄金价格在约15个月来的最低水平附近徘徊。由于投资者正在密切关注美联储（Federal Reserve）未来的加息路径，同时科技股的强势反弹带动了更广泛市场的反弹，黄金的避险吸引力受到了一定压制。",
+  "近期金融市场波动不断，宏观经济数据和货币政策走向成为左右金价的关键因素。随着科技股等风险资产出现回暖迹象，部分资金从黄金等避险板块流出，导致金价近期持续承压，徘徊在一年多来的低谷附近。",
+  "对于关注全球资产配置的海外华人来说，金价的波动直接关系到个人的投资组合表现。在美联储货币政策尚未完全明朗、科技股等板块剧烈震荡的时期，资产配置更需要兼顾风险与收益，密切关注加息预期的变化。"
+ ],
+ "tags": [
+  "黄金价格",
+  "美联储",
+  "科技股",
+  "海外投资",
+  "财经快讯"
+ ],
+ "original_title": "Gold Hovers Near 15-Month Low as Traders Eye Fed Path, AI Stocks",
+ "lang": "en",
+ "published": "2026-11-26T00:18:09+00:00",
+ "created": "2026-11-26T19:54:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "8f486b14b8",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/russia-europe-attacks-shadow-war-iiss-report-fcee9238?mod=rss_opinion",
+ "title": "俄欧局势再度升级！新报告警告：大规模伤亡事件越来越可能发生",
+ "summary": "华尔街日报最新社论指出，随着俄罗斯对欧洲攻击的升级，一份新报告警告称，欧洲面临大规模伤亡事件的风险正在不断增加。",
+ "body": [
+  "近期欧洲安全局势持续紧张，根据《华尔街日报》（The Wall Street Journal）编辑委员会发表的最新社论，俄罗斯对欧洲的攻击力度正在不断升级，引发外界高度警惕。",
+  "## 局势紧迫",
+  "一份刚刚出炉的新安全报告发出严厉警告，直指随着对抗加剧，**“大规模伤亡事件”**在欧洲发生的可能性正在与日俱增。",
+  "这场持续升级的危机不仅牵动着大西洋两岸的神经，对于关注国际局势的海外华人来说，欧洲的安全动荡也可能对全球经济和地缘政治格局产生深远的外溢影响。"
+ ],
+ "tags": [
+  "俄罗斯",
+  "欧洲安全",
+  "国际局势",
+  "华尔街日报"
+ ],
+ "original_title": "Russia Escalates Attacks on Europe",
+ "lang": "en",
+ "published": "2026-11-26T19:04:00+00:00",
+ "created": "2026-11-26T19:52:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

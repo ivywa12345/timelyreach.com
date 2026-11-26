@@ -1,0 +1,26 @@
+{
+ "key": "c78471f700",
+ "board": "hot",
+ "source_id": "wsj-lifestyle",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/searching-for-god-in-the-ai-machine-4b52e760?mod=rss_lifestyle",
+ "title": "人工智能也会“走邪路”？华尔街日报：想让AI信神怎么这么难",
+ "summary": "为什么很难让聊天机器人给出符合教义的准确回答？《华尔街日报》专栏作家探讨了AI在处理宗教信仰问题时的困境。",
+ "body": [
+  "最近有人发现，想让AI聊天机器人给出符合正统教义的答案简直比登天还难。华尔街日报发表了一篇由克里斯托弗·库普曼（Christopher Koopman）撰写的评论文章，专门探讨了为什么让AI“顶礼膜拜”或理解宗教神学如此困难。",
+  "作者指出，目前的AI在面对复杂的宗教和信仰问题时，往往无法给出符合特定教义的标准答案。这背后的原因不仅在于技术的局限性，也引发了人们对于机器如何理解人类精神世界、价值观以及信仰体系的思考。",
+  "对于关注人工智能发展的海外华人来说，AI在文化、哲学和宗教理解上的“短板”提醒我们，机器虽然聪明，但它们缺乏真正的灵魂和对人类复杂文化底蕴的共情能力。在依赖AI获取信息时，我们仍需保持独立思考。"
+ ],
+ "tags": [
+  "人工智能",
+  "华尔街日报",
+  "宗教",
+  "聊天机器人"
+ ],
+ "original_title": "Opinion | Searching for God in the AI Machine",
+ "lang": "en",
+ "published": "2026-11-26T18:06:00+00:00",
+ "created": "2026-11-26T19:52:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

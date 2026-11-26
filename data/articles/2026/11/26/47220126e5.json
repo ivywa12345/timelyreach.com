@@ -1,0 +1,25 @@
+{
+ "key": "47220126e5",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-26/ghana-buys-back-1-1-billion-domestic-bonds-to-boost-confidence",
+ "title": "提前还钱！加纳花11亿美元回购国债，给市场打气",
+ "summary": "加纳政府提前三个月回购了11亿美元的四年期国内国债，旨在提振投资者对其债务重组后经济复苏的信心。",
+ "body": [
+  "彭博社（Bloomberg）报道，加纳政府近日提前三个月赎回了一笔价值 **11亿美元**（约合11 billion 美元）的四年期国内国债，希望以此向市场释放积极信号，进一步提振投资者对该国经济复苏的信心。此前，加纳刚刚经历了痛苦的债务重组。"
+ ],
+ "tags": [
+  "加纳",
+  "国债回购",
+  "经济复苏",
+  "债务重组",
+  "海外财经"
+ ],
+ "original_title": "Ghana Buys Back $1.1 Billion Domestic Bonds to Boost Confidence",
+ "lang": "en",
+ "published": "2026-11-26T19:31:46+00:00",
+ "created": "2026-11-26T19:51:10+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

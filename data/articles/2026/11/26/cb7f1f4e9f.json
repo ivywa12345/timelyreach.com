@@ -1,0 +1,26 @@
+{
+ "key": "cb7f1f4e9f",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/uk/boe-warns-scale-and-breadth-of-ai-financing-poses-threat-to-financial-stability-005ad739?mod=rss_worldnews",
+ "title": "人工智能融资规模太庞大？英国央行警告：当心金融稳定！",
+ "summary": "英国央行警告称，虽然人工智能投资热潮正支撑着全球经济增长，但其所需的庞大融资规模和广度，正使全球金融系统更容易受到挫折的冲击。",
+ "body": [
+  "最近这股人工智能投资热潮虽然带旺了全球经济，但英国央行（Bank of England）坐不住了，出来发出了最新警告：AI 融资的规模和广度实在太大，正在让全球金融系统变得越来越脆弱，随时可能因为一点小挫折引发大问题。",
+  "作为金融界的重要风向标，央行方面指出，支撑 AI 发展所需要的资金支持不仅数额惊人，而且涉及面极广。一旦这个高歌猛进的投资链条出现任何闪失或遭受打击，整个金融市场的稳定都可能受到牵连。对于咱们关注全球经济动态和资产安全的人来说，这无疑是一个需要提高警惕的信号。"
+ ],
+ "tags": [
+  "英国央行",
+  "人工智能",
+  "金融稳定",
+  "投资热潮",
+  "全球经济"
+ ],
+ "original_title": "BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability",
+ "lang": "en",
+ "published": "2026-11-26T11:37:00+00:00",
+ "created": "2026-11-26T19:51:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

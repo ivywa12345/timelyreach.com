@@ -1,0 +1,27 @@
+{
+ "key": "926f36fc02",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/china/2026/11/26/china-releases-the-first-ever-ai-generated-movie",
+ "title": "中国首部AI动画电影上映，结果票房直接“哑火”了？",
+ "summary": "中国推出了首部完全由人工智能生成的动画电影，但上映后票房表现惨淡，遭遇了滑铁卢。",
+ "body": [
+  "中国近期上映了全球或国内首部由人工智能生成的动画电影，然而这部备受关注的尝鲜之作在市场上并未掀起水花，反而遭遇了票房惨败。",
+  "近年来AI生成内容（AIGC）技术发展迅猛，影视制作行业也一直在探索如何利用AI降低成本、提高效率。这部AI电影的诞生原本被视为技术落地的重要尝试，但从目前的市场反馈来看，观众对纯AI生成的长篇影视作品似乎还不买账，其故事性、画面质感或情感共鸣可能仍难以与传统真人或动画电影匹敌。",
+  "对海外华人来说，AI技术正在深刻改变各行各业的门槛。虽然目前AI大电影在票房上遭遇滑铁卢，但它释放出一个明确信号：技术离全面商业化还有距离，不过影视、创意等行业的颠覆和变革已经在路上，相关从业者和技术的后续发展值得持续关注。"
+ ],
+ "tags": [
+  "人工智能",
+  "AI电影",
+  "中国电影",
+  "票房惨败",
+  "科技前沿"
+ ],
+ "original_title": "China releases the first-ever AI-generated movie",
+ "lang": "en",
+ "published": "2026-11-26T13:45:02+00:00",
+ "created": "2026-11-26T19:53:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
