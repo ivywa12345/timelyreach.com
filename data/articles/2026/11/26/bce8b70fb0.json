@@ -1,0 +1,26 @@
+{
+ "key": "bce8b70fb0",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/26/us-news/5-7-magnitude-earthquake-strikes-off-baja-california-peninsula/",
+ "title": "感恩节不平静！墨西哥海岸突发5.7级地震",
+ "summary": "墨西哥下加利福尼亚半岛外海在感恩节当天发生5.7级地震，震源深度约10公里，由于位置偏远，预计影响有限。",
+ "body": [
+  "据《纽约邮报》（New York Post）报道，正当大家欢度感恩节之际，墨西哥下加利福尼亚州（Baja California Sur）外海的一群偏远岛屿附近在节日当天发生了一场 **5.7级** 的地震。",
+  "这次地震震源深度约为 **10公里**。由于震中位于雷维拉吉格多群岛（Revillagigedo Islands）附近，距离热门旅游地卡波圣卢卡斯（Cabo San Lucas）大约216英里，因此不太会对大面积人群造成影响。不过，未来是否会有余震波及陆地目前还不清楚。值得一提的是，就在这次地震发生的前一天，该地区已经发生过一次4.2级的地震。",
+  "出事的岛屿是一组火山岛，归墨西哥联邦政府管辖。该海域属于海洋保护区，拥有非常丰富的生态系统。对于在美西生活、特别是经常前往墨西哥度假的华人朋友来说，近期去当地旅行或出海时，还是需要稍微关注一下地质活动和安全信息。"
+ ],
+ "tags": [
+  "墨西哥地震",
+  "海外新闻",
+  "自然灾害",
+  "感恩节"
+ ],
+ "original_title": "Preliminary 5.7-magnitude earthquake strikes off Baja California Peninsula",
+ "lang": "en",
+ "published": "2026-11-26T18:15:32+00:00",
+ "created": "2026-11-26T18:26:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

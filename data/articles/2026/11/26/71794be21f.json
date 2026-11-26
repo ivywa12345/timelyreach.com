@@ -1,0 +1,28 @@
+{
+ "key": "71794be21f",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/nvidia-tells-partners-to-pause-shipments-to-southeast-asia-5b791cb0?mod=rss_Technology",
+ "title": "英伟达紧急叫停东南亚出货！华盛顿又堵上什么漏洞？",
+ "summary": "美国政府近期堵住了允许中国企业利用东南亚算力的远程访问漏洞，英伟达随即通知合作伙伴暂停向东南亚发货。",
+ "body": [
+  "如果你最近关注科技圈和中美贸易，一定得听听这个新消息。芯片巨头英伟达（Nvidia）最近突然通知其商业合作伙伴，要求他们暂停向东南亚地区发货。",
+  "## 堵住远程算力漏洞",
+  "这背后的直接导火索，是华盛顿方面最近采取了新动作。美国商务部近期关闭了一个关键的“远程访问漏洞”，此前，一些中国企业正是通过这个漏洞，绕过限制，直接在东南亚地区调用强大的AI计算能力。",
+  "为了配合政策合规，英伟达（Nvidia）不得不迅速踩下刹车，叫停了相关地区的硬件出货。目前供应链和相关企业正在密切评估这一调整带来的后续影响。"
+ ],
+ "tags": [
+  "英伟达",
+  "东南亚",
+  "芯片出口",
+  "人工智能",
+  "中美科技战"
+ ],
+ "original_title": "Nvidia Tells Partners to Pause Shipments to Southeast Asia",
+ "lang": "en",
+ "published": "2026-11-26T17:06:00+00:00",
+ "created": "2026-11-26T18:25:20+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

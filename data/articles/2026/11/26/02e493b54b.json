@@ -1,0 +1,24 @@
+{
+ "key": "02e493b54b",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-26/sweden-s-acting-premier-nears-new-term-after-kingmaker-u-turn",
+ "title": "瑞典政坛大反转：现任首相有望连任，左翼遭遇重大打击",
+ "summary": "瑞典中间党态度大变，准备支持现任首相乌尔夫·克里斯特松（Ulf Kristersson）重新组阁，这意味着在大选中获胜的社会民主党将遭遇政治挫败。",
+ "body": [
+  "瑞典政坛近日迎来戏剧性反转，此前在大选中获胜的社会民主党（Social Democrats）可能要空欢喜一场了。据彭博社报道，在两个多月前的大选后，被称为“造王者”的瑞典中间党（Center Party）态度发生急转弯，准备转而支持乌尔夫·克里斯特松（Ulf Kristersson）重新出任首相。",
+  "这次政治变动对两个多月前在全国大选中赢得多数的社会民主党来说，无疑是一个沉重的打击。原本有望重新掌权的左翼阵营，眼看着胜利果实因为中间党的立场倒戈而可能化为乌有，克里斯特松的保守派阵营则迎来了组阁的曙光。"
+ ],
+ "tags": [
+  "瑞典政治",
+  "欧洲政坛",
+  "首相大选"
+ ],
+ "original_title": "Sweden’s Kristersson Nears New Term After Kingmaker U-Turn",
+ "lang": "en",
+ "published": "2026-11-26T17:11:24+00:00",
+ "created": "2026-11-26T18:27:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

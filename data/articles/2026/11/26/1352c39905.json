@@ -1,0 +1,27 @@
+{
+ "key": "1352c39905",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/middle-east/iranian-drone-attack-kills-two-italians-in-kuwait-5e360a35?mod=rss_worldnews",
+ "title": "突发！科威特遭遇伊朗无人机袭击，2名意大利技术人员不幸身亡",
+ "summary": "科威特发生一起无人机袭击事件，导致两名正在当地工作的意大利技术人员丧生。遇难者生前正在为军工企业莱茵金属意大利公司（Rheinmetall Italia）维护防空系统。",
+ "body": [
+  "据《华尔街日报》报道，科威特近日发生了一起令人震惊的袭击事件。一架无人机突然发动袭击，造成两名意大利技术人员不幸遇难。",
+  "## 袭击细节与背景",
+  "事发时，这两名遇难者正在当地参与防空系统的维护工作。袭击发生后，各方对事件的善后和安全局势高度关注。据了解，遇难者受雇于知名军工企业莱茵金属意大利公司（Rheinmetall Italia），当时正在现场执行防空系统相关的技术任务。",
+  "目前相关各方正在对事件进行进一步处理，中东地区的紧张局势也再次引发了国际社会的担忧。"
+ ],
+ "tags": [
+  "科威特",
+  "无人机袭击",
+  "中东局势",
+  "海外安全"
+ ],
+ "original_title": "Iranian Drone Attack Kills Two Italians in Kuwait",
+ "lang": "en",
+ "published": "2026-11-26T16:55:00+00:00",
+ "created": "2026-11-26T18:28:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

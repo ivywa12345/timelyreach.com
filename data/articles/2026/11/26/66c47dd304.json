@@ -1,0 +1,28 @@
+{
+ "key": "66c47dd304",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/26/us-news/thanksgiving-storm-surges-break-hurricane-sandy-levels-in-spots-down-the-east-coast/",
+ "title": "感恩节风暴太猛！东海岸多地水位打破桑迪飓风纪录",
+ "summary": "感恩节期间袭击美国东海岸的强风暴引发严重风暴潮，新泽西州、弗吉尼亚州等多地水位超过了2012年毁灭性的桑迪飓风创下的纪录。",
+ "body": [
+  "刚刚过去的感恩节假期不太平，一场强劲的风暴猛烈袭击了美国东海岸，多地海平面飙升，部分地区的风暴潮水位甚至超过了2012年曾经重创该地区的桑迪飓风（Hurricane Sandy）。",
+  "根据CNN报道，新泽西州开普梅（Cape May）的水位达到了 **9.41英尺**，比当年的桑迪飓风高出了半英尺多；而弗吉尼亚州的瓦查普雷格（Wachapreague）和特拉华州的鲍瑟斯海滩（Bowsers Beach）更是创下了历史新高，水位分别达到了 **9.94英尺** 和 **9.43英尺**，比桑迪飓风时期高出了足足1.5英尺。",
+  "气象专家指出，这类严重风暴潮通常是由强风助长的高潮位引起的，巨浪被大风迅速吹向海岸，导致水位急剧放大。美国国家气象局（National Weather Service）的数据显示，这场风暴已导致新泽西州、马里兰州、特拉华州和弗吉尼亚州至少30个地区处于最高等级的严重洪水警戒状态。",
+  "对于居住在东海岸的华人朋友来说，极端天气频发不仅可能打乱假期出行计划，低洼地区的房屋和车辆也面临浸水风险。近期有出行或居住在沿海地带的居民，请务必密切关注当地气象部门的最新预警，注意出行安全。"
+ ],
+ "tags": [
+  "美国新闻",
+  "感恩节风暴",
+  "东海岸",
+  "极端天气",
+  "洪水警戒"
+ ],
+ "original_title": "Thanksgiving storm surges break Hurricane Sandy levels in locations across East Coast",
+ "lang": "en",
+ "published": "2026-11-26T18:06:56+00:00",
+ "created": "2026-11-26T18:29:30+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

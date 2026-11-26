@@ -1,0 +1,27 @@
+{
+ "key": "f31285075d",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/finance-and-economics/2026/11/26/historys-warning-lesson-for-anthropic",
+ "title": "科技股大跌，东印度公司的历史警示什么？",
+ "summary": "近期科技股遭遇重挫，《经济学人》通过回顾历史上东印度公司的命运，为当红AI巨头Anthropic敲响了警钟。",
+ "body": [
+  "随着近期科技股出现暴跌行情，历史上的商业巨头命运再次引发关注，《经济学人》发文提醒，如今炙手可热的人工智能公司Anthropic或许应当从历史上寻找一些警示。",
+  "文章指出，科技板块的剧烈震荡不仅反映了市场情绪的变化，更让人回想起当年风光无限的东印度公司（East India Company）最终的兴衰轨迹，提醒人们即使是行业巨头也难逃宏观周期的规律。",
+  "对于关注美股和科技板块的海外华人来说，这类历史对比往往暗示着高估值背后的潜在风险，提醒大家在配置资产时需防范市场波动对个人财富和投资组合可能带来的冲击。"
+ ],
+ "tags": [
+  "科技股",
+  "Anthropic",
+  "美股投资",
+  "经济学人",
+  "历史警示"
+ ],
+ "original_title": "History’s warning lesson for Anthropic",
+ "lang": "en",
+ "published": "2026-11-26T09:49:07+00:00",
+ "created": "2026-11-26T18:25:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

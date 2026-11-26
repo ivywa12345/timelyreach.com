@@ -1,0 +1,27 @@
+{
+ "key": "438eb04604",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+ "title": "美股黑色星期五要迎反弹？华尔街松了一口气",
+ "summary": "周三标普500指数从低谷反弹，在全球市场对美国经济韧性的欢迎下，期货显示华尔街有望在黑色星期五迎来上涨，此前科技股遭遇了一波抛售。",
+ "body": [
+  "经历了一波让人捏一把汗的科技股大跌（tech washout）后，华尔街的投资者们终于能喘口气了。随着标普500指数在周三成功从低谷反弹，全球市场对美国经济的强大韧性表现出了欢迎的态度，这也让美股期货指向了“黑色星期五”的上涨行情。",
+  "在此之前，由于科技股遭遇重挫，整个盘面一度风声鹤唳。不过周三的绝地反击及时安抚了各大交易所（bourses）紧绷的神经。全球资本市场对美国经济基本盘的信心，成为了本次情绪回暖的关键推手，也让即将到来的关键交易日多了一丝底气。",
+  "对于关注美股走势的海外华人投资者来说，节假日期间的市场波动往往牵动着资产账户。虽然短期反弹缓解了科技股下挫带来的焦虑，但市场情绪依然脆弱，大家在配置资产和规划年底财务时，仍需密切留意后续的经济数据与大盘走向。"
+ ],
+ "tags": [
+  "美股",
+  "黑色星期五",
+  "华尔街",
+  "标普500",
+  "科技股"
+ ],
+ "original_title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
+ "lang": "en",
+ "published": "2026-11-26T13:41:00+00:00",
+ "created": "2026-11-26T18:28:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

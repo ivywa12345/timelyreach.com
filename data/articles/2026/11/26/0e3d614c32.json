@@ -1,0 +1,25 @@
+{
+ "key": "0e3d614c32",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-26/new-zealand-poised-to-learn-who-can-form-its-next-government",
+ "title": "大选三周后，新西兰终于要组阁了？本周五见分晓",
+ "summary": "新西兰大选过去三周后，各方即将于本周五确认谁能组建新政府。",
+ "body": [
+  "新西兰大选在经历三周的胶着、胜负难料之后，终于将在本周五迎来最终结果，届时公众将知晓谁能顺利组建下一届政府。",
+  "回顾三周前的那场大选，选情异常激烈，双方票数十分接近，导致迟迟无法分出胜负。经过长时间的艰难谈判和点票，各政党终于有望在周五尘埃落定，给出组阁方案。",
+  "对于远在海外的华人来说，大选结果往往牵动着当地的税收、移民政策和经济走向。新政府的上台将直接决定未来几年的内政外交方向，我们将持续关注周五的最新进展。"
+ ],
+ "tags": [
+  "新西兰大选",
+  "组阁",
+  "海外政治"
+ ],
+ "original_title": "New Zealand Poised to Learn Who Can Form Its Next Government",
+ "lang": "en",
+ "published": "2026-11-26T18:00:00+00:00",
+ "created": "2026-11-26T18:25:46+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

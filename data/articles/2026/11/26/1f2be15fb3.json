@@ -1,0 +1,26 @@
+{
+ "key": "1f2be15fb3",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/as-another-wartime-winter-sets-in-kyiv-residents-weigh-finally-leaving-c76357dc?mod=rss_worldnews",
+ "title": "战时第二个冬天来了，基辅居民撑不住想润了？",
+ "summary": "随着俄罗斯对乌克兰电网和发电厂的轰炸升级，基辅居民的日常生活变成了生存挑战，许多人开始考虑终于离开这座城市。",
+ "body": [
+  "战时第二个冬天悄然来临，乌克兰首都基辅（Kyiv）的居民正面临严峻抉择：是继续留下来苦熬，还是彻底离开这片饱受战火蹂躏的土地。",
+  "俄罗斯近期持续猛烈轰炸乌克兰的输电线路和发电厂，导致当地日常生活变成了真正的生存任务，寒冷与黑暗成为挥之不去的阴影。",
+  "对于在海外关注局势的华人来说，这场能源危机不仅让身处战火中的民众面临严冬考验，也再次凸显了地缘冲突对全球能源和民生供应链的持续冲击。"
+ ],
+ "tags": [
+  "乌克兰局势",
+  "基辅",
+  "能源危机",
+  "海外华人"
+ ],
+ "original_title": "As Another Wartime Winter Sets In, Kyiv Residents Weigh Finally Leaving",
+ "lang": "en",
+ "published": "2026-11-26T17:00:00+00:00",
+ "created": "2026-11-26T18:26:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

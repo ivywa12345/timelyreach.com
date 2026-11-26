@@ -1,0 +1,27 @@
+{
+ "key": "898c7c76ad",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-26/carney-s-major-projects-bill-c-39-slammed-by-conservative-leader-poilievre",
+ "title": "加拿大总理卡尼加速项目审批，惹怒保守党领袖",
+ "summary": "加拿大保守党领袖博励治猛烈抨击总理卡尼推出的旨在加速联邦重大项目审批的C-39法案，誓言将投票反对，并指责该法案过度集权、损害工人权益。",
+ "body": [
+  "加拿大政坛又起波澜！总理马克·卡尼（Mark Carney）最近刚推出了一项旨在加快联邦重大项目审批的 C-39 法案，立刻遭到了保守党领袖皮埃尔·博励治（Pierre Poilievre）的强力阻击，双方火药味十足。",
+  "## 激烈的政治交锋",
+  "博励治公开承诺，保守党将在国会坚决投票反对这项法案。他毫不客气地指责现政府此举是“借机将过多权力集中在联邦手中”，并批评该法案在推进过程中“粗暴践踏了普通工人的合法权益”。",
+  "这场围绕基建项目审批效率与劳工权益的博弈，不仅折射出加拿大朝野政党在国家治理方向上的巨大分歧，也可能对未来的经济政策走向产生实质性影响。"
+ ],
+ "tags": [
+  "加拿大政治",
+  "重大项目",
+  "基建审批",
+  "保守党"
+ ],
+ "original_title": "Carney’s Major Projects Bill C-39 Slammed by Conservative Leader Poilievre",
+ "lang": "en",
+ "published": "2026-11-26T17:50:22+00:00",
+ "created": "2026-11-26T18:25:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "070ff14772",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
+ "title": "美国要加征关税？亚洲股市：当场无视，照涨不误！",
+ "summary": "周四亚洲股市全线上涨，投资者并未受到美国最新关税提案的影响，华尔街也在感恩节假期前收复了大部分失地。",
+ "body": [
+  "周四亚洲股市集体走高，投资者们表现得十分淡定，直接把美国最新的关税提案抛在脑后，跟着美股在感恩节假期前的节奏收复了大部分失地。",
+  "> \"投资者们正在消化新动向，并继续寻找市场支撑。\"",
+  "对于关注全球经济和汇率走势的海外华人来说，虽然短期内市场情绪有所回暖，但后续的贸易政策动向依然值得保持关注，特别是对跨国资产配置可能产生的影响。"
+ ],
+ "tags": [
+  "亚洲股市",
+  "美国关税",
+  "华尔街",
+  "金融市场",
+  "海外投资"
+ ],
+ "original_title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
+ "lang": "en",
+ "published": "2026-11-26T05:22:00+00:00",
+ "created": "2026-11-26T18:28:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,29 @@
+{
+ "key": "afcc57f704",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/does-nvidia-really-need-its-brilliant-nutjob-33b21d47?mod=rss_opinion",
+ "title": "懂王一句话，英伟达黄仁勋又杀回来了？",
+ "summary": "华尔街日报专栏作家探讨了特朗普重新起用英伟达CEO黄仁勋对公司的影响，引发投资者对这位科技界狂人真实价值的思考。",
+ "body": [
+  "在投资者还没来得及完全评估英伟达（Nvidia）CEO黄仁勋（Jensen Huang）对公司的真正价值之前，美国当选总统特朗普（Donald Trump）就已经把他重新请了回来。",
+  "## 科技狂人的价值与风险",
+  "华尔街日报（Wall Street Journal）专栏作家约瑟夫·斯特恩伯格（Joseph C. Sternberg）撰文指出，这位被称为“天才疯子”的掌门人一直引领着英伟达狂飙突进。然而，他的激进风格和独特决策也让市场时刻捏一把汗，投资者正在重新审视他在公司未来发展中究竟能起到多大作用。",
+  "## 对华人的影响",
+  "对于关注科技股和AI浪潮的海外华人投资者来说，黄仁勋的去留和政治风向直接关乎大家的“钱袋子”。英伟达作为AI芯片领域的绝对龙头，其高层的动向和政策环境的变化，将继续牵动无数美股股民的神经。"
+ ],
+ "tags": [
+  "英伟达",
+  "黄仁勋",
+  "特朗普",
+  "美股",
+  "科技新闻"
+ ],
+ "original_title": "Does Nvidia Really Need Its Brilliant Nutjob?",
+ "lang": "en",
+ "published": "2026-11-26T18:10:00+00:00",
+ "created": "2026-11-26T18:25:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

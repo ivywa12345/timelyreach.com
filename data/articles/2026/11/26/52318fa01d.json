@@ -1,0 +1,26 @@
+{
+ "key": "52318fa01d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-26/kkr-banks-line-up-550-million-of-debt-to-back-logoplaste-buyout",
+ "title": "KKR买包装公司，欧洲银行掏了5.5亿欧元支持！",
+ "summary": "知情人士透露，多家中外银行已筹集5.5亿欧元（约合6.035亿美元）的贷款，用于支持KKR & Co.收购包装企业Logoplaste。",
+ "body": [
+  "据知情人士透露，为了支持美国私募巨头KKR & Co.收购塑料包装企业Logoplaste，各大银行已经安排好了**5.5亿欧元**（约合6.035亿美元）的债务融资。",
+  "这笔资金将直接用于这起备受关注的收购案。作为全球知名的投资机构，KKR近年来在欧洲市场动作频频，此次盯上的Logoplaste是一家在业内颇具规模的包装解决方案提供商。",
+  "目前，这笔债务融资的筹备工作正在推进中，这也显示出金融机构对KKR这类大型私募机构在欧洲进行产业并购的资金支持力度依然不减。"
+ ],
+ "tags": [
+  "KKR",
+  "海外并购",
+  "金融贷款",
+  "企业收购"
+ ],
+ "original_title": "KKR Banks Line Up €550 Million of Debt to Back Logoplaste Buyout",
+ "lang": "en",
+ "published": "2026-11-26T17:47:30+00:00",
+ "created": "2026-11-26T18:27:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

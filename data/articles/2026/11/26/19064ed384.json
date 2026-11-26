@@ -1,0 +1,25 @@
+{
+ "key": "19064ed384",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-26/kazakhstan-encouraged-local-banks-to-finance-deal-for-gold-miner",
+ "title": "哈国富豪砸10亿美元买金矿，当地银行被指“开绿灯”！",
+ "summary": "知情人士透露，哈萨克斯坦政府鼓励国内银行为建筑大亨沙赫穆拉特·穆塔利普提供超过10亿美元的贷款，并修改了相关金融法规，以协助其收购金矿企业AK Altynalmas JSC。",
+ "body": [
+  "彭博社援引知情人士消息称，哈萨克斯坦政府近期积极推动国内银行为建筑大亨沙赫穆拉特·穆塔利普（Shakhmurat Mutalip）提供超过 **10亿美元** 的巨额贷款，并专门修改了相关金融监管规定，以扫清他收购大型金矿企业 AK Altynalmas JSC 的资金障碍。",
+  "这笔重磅交易涉及该国核心矿产资源，并获得了金融监管层面的直接支持，在当地引发了广泛关注。目前，相关收购细节仍在推进中。"
+ ],
+ "tags": [
+  "哈萨克斯坦",
+  "金矿收购",
+  "金融监管",
+  "海外财经"
+ ],
+ "original_title": "Kazakhstan Encouraged Local Banks to Finance Deal for Gold Miner",
+ "lang": "en",
+ "published": "2026-11-26T17:35:40+00:00",
+ "created": "2026-11-26T18:29:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

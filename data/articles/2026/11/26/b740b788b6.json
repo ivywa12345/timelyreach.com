@@ -1,0 +1,27 @@
+{
+ "key": "b740b788b6",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
+ "title": "美股期指感恩节前走高！AI热潮稳了，三季度GDP数据向上修正",
+ "summary": "美国第三季度GDP数据向上修正，加上AI相关交易在感恩节假期前趋于稳定，美股期指延续了上一交易日的尾盘涨势，整体市场情绪向好。",
+ "body": [
+  "美股期指在感恩节假期前迎来好消息，延续了上一交易日的尾盘涨势继续走高。这次市场情绪回暖，主要得益于美国第三季度GDP数据的向上修正，给投资者吃了一颗定心丸，而此前备受关注的AI相关交易也逐渐稳住阵脚。",
+  "华尔街日报（Wall Street Journal）记者乔·斯通尔（Joe Stonor）指出，随着假期临近，市场正密切关注经济基本面与科技股板块的最新走向。此前市场对经济增速和科技股估值的担忧有所缓解，三季度经济数据的上修直接提振了多头信心。",
+  "对于海外华人投资者来说，美股在假期前的企稳回升释放了积极信号。虽然节假日期间市场交投可能较为清淡，但整体宏观经济的韧性和科技板块的持续稳定，依然是大家管理资产和配置投资组合时可以参考的重要风向标。"
+ ],
+ "tags": [
+  "美股",
+  "感恩节",
+  "AI热潮",
+  "美国经济",
+  "海外投资"
+ ],
+ "original_title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
+ "lang": "en",
+ "published": "2026-11-26T13:01:00+00:00",
+ "created": "2026-11-26T18:26:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

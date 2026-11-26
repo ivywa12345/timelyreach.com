@@ -1,0 +1,26 @@
+{
+ "key": "915275fcbb",
+ "board": "finance",
+ "source_id": "economist-finance",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/finance-and-economics/2026/11/26/the-fall-of-chinas-most-trusted-wealth-manager",
+ "title": "中国最受信赖的财富管理公司之一，怎么也倒了？",
+ "summary": "曾经备受信任的中国财富管理公司宜信（CreditEase）迎来了硬着陆，引发外界对相关行业现状的关注。",
+ "body": [
+  "曾经在中国财富管理圈备受信赖的巨头宜信（CreditEase），近日迎来了被称为“硬着陆”的艰难陨落。",
+  "作为行业内的知名机构，宜信过去主要为高净值人群提供资产配置和财富管理服务。此次其遭遇重大挫折，不仅标志着一个时代的变化，也折射出大环境下的信用与流动性压力。",
+  "对于关注国内金融市场的海外华人来说，国内财富管理机构的风险暴露提醒大家，在进行跨境资产配置和回国投资时，必须高度警惕信用风险，守护好自己的钱袋子。"
+ ],
+ "tags": [
+  "宜信",
+  "财富管理",
+  "金融风险",
+  "中国经济"
+ ],
+ "original_title": "The fall of China’s most trusted wealth manager",
+ "lang": "en",
+ "published": "2026-11-26T09:47:52+00:00",
+ "created": "2026-11-26T18:27:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
