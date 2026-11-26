@@ -1,0 +1,18 @@
+{
+  "title": "Anthropic称迁移Rust后算力消耗大降",
+  "summary": "Anthropic称迁移到Rust后，每次请求CPU使用量下降约70%，内存下降超过80%，首个token中位时间下降约20%。",
+  "body": [
+    "Anthropic称，在将Messages API从Python迁移到Rust后，每次请求的CPU使用量下降约70%，内存使用量下降超过80%，其中Claude编写了大部分代码。",
+    "据Anthropic一篇工程博客文章，首个token的中位时间也下降约20%。整个切换过程中服务保持在线。"
+  ],
+  "images": [],
+  "source_name": "Unusual Whales",
+  "source_url": "https://x.com/unusual_whales/status/2125667586545517022",
+  "board": "finance",
+  "tags": [
+    "Anthropic",
+    "AI",
+    "算力"
+  ],
+  "created": "2026-11-25T19:07:00Z"
+}

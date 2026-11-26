@@ -1,0 +1,19 @@
+{
+  "title": "OpenAI开始测试Private Inference服务",
+  "summary": "OpenAI正在与一小群客户测试Private Inference，这是OpenAI Private Intelligence的最新产品，旨在加强隐私保护。",
+  "body": [
+    "我们现在正在与一小群客户测试Private Inference，这是我们作为OpenAI Private Intelligence一部分的最新产品。",
+    "更强的隐私保护将使前沿AI对更多工作有用，而商业隐私对健康的生态系统很重要。有兴趣者可联系@shekar4x！",
+    "（另外，带有Private Safety Processing的ZDR可在不让OpenAI人员接触底层内容的情况下进行自动安全审查。）"
+  ],
+  "images": [],
+  "source_name": "Sam Altman",
+  "source_url": "https://x.com/sama/status/2125638790593274259",
+  "board": "finance",
+  "tags": [
+    "OpenAI",
+    "AI",
+    "隐私"
+  ],
+  "created": "2026-11-25T17:12:34Z"
+}
