@@ -1,0 +1,26 @@
+{
+ "key": "22c5326157",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "TimelyReach",
+ "source_url": "https://36kr.com/p/4081737353270405",
+ "title": "Anthropic暴利真相：向用户收“缓存税”",
+ "summary": "分析指出，Anthropic利润的关键在于提示词缓存：95%的token只是从缓存重读、成本近乎为零，却按全新输入收费，订阅费之外再收一笔“缓存税”。",
+ "body": [
+  "Claude Opus 4.6的缓存命中价为每百万token 1.5美元，标准输入价为15美元。一名Anthropic工程师透露，Opus 4.6的缓存写入率只有5%，即每100个token中只有5个是新计算的，其余95%都是从缓存中重读——公司收100个token的钱，实际只算了5个。",
+  "关键在于缓存只有5分钟存活期，每条新消息可以续期，关掉对话或间隔太久，缓存就会被清空、重新计费。Claude Code每轮会发两次请求，第二次携带全部上下文；即便共享前缀可以从缓存读取，用户仍要为每一次缓存读取付费。",
+  "实测差距可达近10倍：同一段代码，消息在30秒内到达时只计7000至10000个token的上下文，间隔约90秒后则按完整的8万至13万个token计费。SemiAnalysis的数据显示，Anthropic需要产出的token中，超过95%以缓存价售出。",
+  "收入端同样亮眼：Anthropic 9月收入约5亿美元，年化约60亿美元；Claude Code 10月收入3亿美元，年化70亿美元，占公司收入的70%。文章的结论是，Anthropic赚的不是算力的钱，而是缓存的钱。"
+ ],
+ "tags": [
+  "Anthropic",
+  "AI",
+  "商业模式"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-22T14:08:00+00:00",
+ "created": "2026-11-26T20:51:07+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

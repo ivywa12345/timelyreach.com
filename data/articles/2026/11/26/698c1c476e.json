@@ -1,0 +1,25 @@
+{
+ "key": "698c1c476e",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2125983167081513076",
+ "title": "两家加州公司被指实为中资，采购英伟达芯片",
+ "summary": "据CBS报道，两家采购英伟达先进芯片的加州公司实为中资企业，涉及RiCloud AI与Aivres及其向东南亚的出口。",
+ "body": [
+  "突发：据CBS报道，两家加州公司正在采购英伟达（NVDA）一些最先进的芯片，但两家公司实际上均为中资企业。",
+  "RiCloud AI（位于圣何塞）是英伟达的“首选”云合作伙伴，这使其能优先获得先进芯片。其母公司是总部位于深圳、在香港上市的Yuxing InfoTech。其首席执行官Cong Yu拥有中国人民解放军军事院校的学位。RiCloud在注册成立约10周后获得了合作伙伴地位。",
+  "Aivres是英伟达的“精英”合作伙伴，即最高等级。该公司此前名为浪潮（Inspur），源于其中国母公司，该母公司于2023年被美国列入黑名单，此后公司更名。CBS援引《纽约时报》的一项分析报道称，Aivres向东南亚出口了至少56亿美元的先进技术，包括约30亿美元配备Blackwell芯片的计算机。其中一部分流向了与Alice Huang有关联的Megaspeed公司，该公司曾为阿里巴巴和字节跳动提供AI云服务。"
+ ],
+ "tags": [
+  "英伟达",
+  "出口管制",
+  "中资企业"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-26T16:01:00+00:00",
+ "created": "2026-11-26T20:51:07+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

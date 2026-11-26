@@ -1,0 +1,22 @@
+{
+ "key": "d06bc153e0",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "路透社",
+ "source_url": "https://x.com/Reuters/status/2125922614098956420",
+ "title": "伊朗称船只触雷未证实，油价下跌",
+ "summary": "路透社报道称，油价下跌；在伊朗称船只遭水雷袭击后，供应忧虑持续，该说法尚未得到证实，消息来源为伊朗。",
+ "body": [
+  "油价下跌，伊朗称船只遭水雷袭击（未证实）后，供应忧虑持续。"
+ ],
+ "tags": [
+  "油价",
+  "伊朗"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-26T12:00:23+00:00",
+ "created": "2026-11-26T20:51:07+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

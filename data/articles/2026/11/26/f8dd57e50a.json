@@ -1,0 +1,25 @@
+{
+ "key": "f8dd57e50a",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2125657520035570014",
+ "title": "FCC批准SpaceX部署多达100万颗卫星",
+ "summary": "美国联邦通信委员会（FCC）已批准SpaceX为其计划中的轨道数据中心网络Starmind部署多达100万颗卫星，并设定了2033年至2038年的部署节点。",
+ "body": [
+  "突发：美国联邦通信委员会（FCC）已批准SpaceX（SPCX）为其计划中的轨道数据中心网络Starmind部署多达100万颗卫星。",
+  "FCC称，这是美国历史上首次为太空数据中心星座作出此类批准。",
+  "SpaceX必须在2033年11月前开始部署，在2035年11月前部署10%的卫星（100,000颗），并在2038年11月前达到50%。"
+ ],
+ "tags": [
+  "SpaceX",
+  "卫星",
+  "数据中心"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-25T18:27:00+00:00",
+ "created": "2026-11-26T20:51:07+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

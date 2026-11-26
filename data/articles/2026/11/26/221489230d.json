@@ -1,0 +1,24 @@
+{
+ "key": "221489230d",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2124831829459136893",
+ "title": "诺华CEO反驳AI能在十年内治愈癌症的说法",
+ "summary": "据《金融时报》报道，诺华首席执行官瓦斯·纳拉辛汉反驳了科技行业关于人工智能能在五到十年内治愈癌症的希望，认为AI可将新药研发时间从约12年缩短至8年。",
+ "body": [
+  "诺华（Novartis）首席执行官瓦斯·纳拉辛汉（Vas Narasimhan）正在反驳科技行业关于人工智能能在五到十年内治愈癌症的希望，据《金融时报》报道。",
+  "纳拉辛汉反驳了Anthropic首席执行官达里奥·阿莫迪（Dario Amodei）关于AI能在十年内帮助找到癌症治愈方法的预测。他在接受CNBC采访时表示：“治愈是一个很大的词。”他说，AI可以将新药研发时间从约12年缩短至8年。",
+  "其他制药高管也持怀疑态度。他们认为，癌症是数千种不同疾病的统称，AI可以加快早期药物发现，但对缩短临床试验时间作用不大。"
+ ],
+ "tags": [
+  "医药",
+  "AI"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-23T11:46:00+00:00",
+ "created": "2026-11-26T20:51:07+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

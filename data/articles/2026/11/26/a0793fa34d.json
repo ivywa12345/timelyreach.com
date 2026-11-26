@@ -1,0 +1,25 @@
+{
+ "key": "a0793fa34d",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2123505841991270765",
+ "title": "黑客泄露Visa与万事达客户数据",
+ "summary": "据《华尔街日报》报道，黑客泄露了与Visa和万事达相关的客户数据；Visa称泄露源于亚太地区第三方服务商，自身系统未受影响。",
+ "body": [
+  "据《华尔街日报》报道，黑客泄露了与Visa和万事达（Mastercard）相关的客户数据。",
+  "一个名为n0n的新勒索软件组织声称对Visa、万事达和摩根大通（JPMorgan Chase）发动了攻击，并已开始公布其声称窃取的数据。",
+  "Visa表示，此次泄露源于亚太地区的一家第三方服务提供商，而非其自身系统。Visa称：“Visa的系统未涉及，也未受影响。”该公司还表示，没有迹象表明卡号或其他支付数据受到影响。"
+ ],
+ "tags": [
+  "网络安全",
+  "Visa",
+  "万事达"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-19T19:57:00+00:00",
+ "created": "2026-11-26T20:51:06+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

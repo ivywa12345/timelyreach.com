@@ -1,0 +1,25 @@
+{
+ "key": "99697e36dd",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "unusual_whales",
+ "source_url": "https://x.com/unusual_whales/status/2125276257747194275",
+ "title": "芯片股再度全线转跌，英伟达回吐8.5%",
+ "summary": "黄仁勋回归引发大涨仅一天后，芯片股便再度全线转跌：ADI跌18.6%、美光跌11.7%，英伟达（NVDA）跌8.5%。",
+ "body": [
+  "半导体板块热力图又变回了一片红色。",
+  "黄仁勋回归引发大涨仅一天后，芯片股就把涨幅回吐了：",
+  "$ADI −18.6%\n$MU −11.7%\n$AMD −10.7%\n$MPWR −10.8%\n$MRVL −10.3%\n$TXN −10.0%\n$INTC −9.0%\n$ON −9.0%\n$NVDA −8.5%"
+ ],
+ "tags": [
+  "美股",
+  "芯片",
+  "英伟达"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-24T17:12:00+00:00",
+ "created": "2026-11-26T20:51:07+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

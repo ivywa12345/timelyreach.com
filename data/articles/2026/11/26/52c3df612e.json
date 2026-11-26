@@ -1,0 +1,23 @@
+{
+ "key": "52c3df612e",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "路透社",
+ "source_url": "https://x.com/Reuters/status/2123937091583082559",
+ "title": "独家：消息人士称美证交会调查聚焦英伟达会计问题",
+ "summary": "路透社独家报道称，据消息人士透露，美国证交会正在进行的英伟达调查，重点是该公司的会计问题。",
+ "body": [
+  "独家：据消息人士透露，美国证券交易委员会（SEC）正在对英伟达（NVDA）展开的调查，重点是该公司的会计问题。"
+ ],
+ "tags": [
+  "英伟达",
+  "证交会",
+  "调查"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-21T00:30:38+00:00",
+ "created": "2026-11-26T20:51:06+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

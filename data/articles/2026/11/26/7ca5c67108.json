@@ -1,0 +1,26 @@
+{
+ "key": "7ca5c67108",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "TimelyReach",
+ "source_url": "https://36kr.com/p/4077377119245191",
+ "title": "DeepSeek张博创业：开源个人Agent",
+ "summary": "DeepSeek前作者张博推出开源个人Agent Linger，可本地部署、自主操作电脑，记忆测试准确率达95%。",
+ "body": [
+  "DeepSeek V1作者之一张博宣布创业，推出开源个人Agent Linger，由其公司Simplex AI开发。Linger不做成手机App，而是直接运行在个人电脑上，能操作用户已登录的Chrome、各类应用、邮箱和日历，卡住时用户可随时接手。",
+  "它的核心是记忆中枢Another Me，会在本地读取收件箱、日历、聊天记录和会议内容，每晚整理成个人Wiki。在长期对话记忆基准LoCoMo上，其准确率达95%，高于Mem0、MemOS等同类记忆增强系统。它还会主动判断事情的重要与紧急程度再提醒，并从反馈中学习。",
+  "底层技术是MoE推理引擎PolyStrata，把最常用的专家模块放在显存中，较少用的放在内存，最少用的放在固态硬盘，并动态调度。官方数据显示，一款125B参数的模型在12GB显存的RTX 3060上跑出每秒45.5个token，在32GB显存的RTX 5090上达到每秒179个token。",
+  "Linger还支持第三方模型，内置模型自动驾驶功能，可根据硬件推荐并安装模型。张博2019年于香港科技大学获得博士学位，曾在微软亚洲研究院工作，2023年加入DeepSeek，离职后任浙江大学百人计划研究员。"
+ ],
+ "tags": [
+  "DeepSeek",
+  "AI智能体",
+  "开源"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-19T11:54:00+00:00",
+ "created": "2026-11-26T20:51:06+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

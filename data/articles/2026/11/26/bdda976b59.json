@@ -1,0 +1,25 @@
+{
+ "key": "bdda976b59",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Disclosed",
+ "source_url": "https://x.com/disclosedhq/status/2125650220499562963",
+ "title": "消息称英伟达芯片卖家在美限制后急寻新买家",
+ "summary": "据CNBC报道，美国限制中国远程访问英伟达顶级芯片后，英伟达芯片卖家据报正在寻找新买家，市场上英伟达GPU供应异常之高。",
+ "body": [
+  "据CNBC报道，美国限制中国远程访问英伟达（NVDA）顶级芯片后，英伟达芯片卖家据报正在寻找新买家。",
+  "据报，自该规定出台以来，市场上出现了异常之高的英伟达GPU供应。",
+  "英伟达拒绝置评。"
+ ],
+ "tags": [
+  "英伟达",
+  "芯片",
+  "中美经贸"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-25T17:57:59+00:00",
+ "created": "2026-11-26T20:51:07+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

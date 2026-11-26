@@ -1,0 +1,25 @@
+{
+ "key": "eedc974085",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2125703825214320816",
+ "title": "金融时报称Anthropic上市后难有来者",
+ "summary": "《金融时报》称Anthropic“已经抽走了梯子”，其以每股83美元融资1073亿美元创下史上最大IPO纪录，竞争对手或更难以类似条件上市。",
+ "body": [
+  "《金融时报》（FT）称，Anthropic“已经抽走了梯子”。",
+  "通过将IPO推向极限，“这家Claude的制造商已经让自己成为一个难以超越的先例。”",
+  "Anthropic以每股83美元融资1073亿美元，是有记录以来最大的IPO。融到如此巨额资金后，竞争对手AI实验室可能更难以类似条件进入市场。"
+ ],
+ "tags": [
+  "Anthropic",
+  "IPO",
+  "AI"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-25T21:31:00+00:00",
+ "created": "2026-11-26T20:51:07+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

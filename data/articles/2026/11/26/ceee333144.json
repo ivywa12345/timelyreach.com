@@ -1,0 +1,23 @@
+{
+ "key": "ceee333144",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "The Kobeissi Letter",
+ "source_url": "https://x.com/KobeissiLetter/status/2125935808930582656",
+ "title": "标普500期货涨0.8%，纳指期货近涨1%",
+ "summary": "突发消息称，标普500期货当日涨幅扩大至0.8%，进一步脱离回调区间，纳斯达克100指数期货上涨近1%，美股期货走强。",
+ "body": [
+  "突发：标普500期货当日涨幅扩大至0.8%，进一步脱离回调区间。",
+  "纳斯达克100指数期货上涨近1%。"
+ ],
+ "tags": [
+  "美股",
+  "期货"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-26T12:52:49+00:00",
+ "created": "2026-11-26T20:51:07+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

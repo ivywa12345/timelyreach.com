@@ -1,0 +1,27 @@
+{
+ "key": "2fb605dc54",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Axel Winter",
+ "source_url": "https://x.com/AxelWinterBkk/status/2125929672836005935",
+ "title": "Anthropic的IPO同时为AI两面定价",
+ "summary": "Anthropic的IPO同时为AI的两面定价：ANT以83美元定价、111.50美元开盘，护栏成为产品、护城河和风险因素。",
+ "body": [
+  "Anthropic的IPO同时为AI的两面定价。",
+  "机会：安全成为分销。Glasswing项目将Claude Mythos交到防御者手中，思科（Cisco）正在将其纳入AI Defense，企业获得治理抓手，而不是“相信我们”的承诺。这是一个政府和董事会可以购买的信任品牌。",
+  "风险：每一个滥用案例——也门的武器代码、自动化的恶意软件规避——如今也成为投资者和监管机构的头条新闻。而Mythos本身证明了这一点：一个强大到无法普遍发布的模型，就是防御产品。",
+  "ANT定价为83美元，开盘价为111.50美元，首日收于97.17美元，随后在第一周跌向90美元。这种波动是市场在学习如何在同一只股票中为能力和滥用定价。",
+  "护栏不再是安全功能。它们是产品、护城河和风险因素。"
+ ],
+ "tags": [
+  "Anthropic",
+  "IPO",
+  "AI"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-26T12:28:26+00:00",
+ "created": "2026-11-26T20:51:07+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}

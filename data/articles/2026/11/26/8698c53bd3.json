@@ -1,0 +1,24 @@
+{
+ "key": "8698c53bd3",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "Unusual Whales",
+ "source_url": "https://x.com/unusual_whales/status/2123808839086535163",
+ "title": "半导体与新云厂商今日全线重挫，跌幅居前",
+ "summary": "半导体与新云厂商板块今日全线重挫，新云厂商平均下跌9.4%，半导体平均下跌6.1%，多只个股跌幅超过9%。",
+ "body": [
+  "半导体与新云厂商今日全线重挫。",
+  "新云厂商跌幅最大，平均下跌9.4%：APLD（-12.0%）、IREN（-9.8%）、CIFR（-9.8%）、WULF（-9.1%）、CRWV（-7.9%）、NBIS（-7.8%）。",
+  "半导体平均下跌6.1%：美光（MU，-9.4%）、安谋（ARM，-8.3%）、迈威尔（MRVL，-7.8%）、博通（AVGO，-7.5%）、超微（AMD，-7.3%）、英伟达（NVDA，-5.0%）。"
+ ],
+ "tags": [
+  "半导体",
+  "美股"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-20T16:01:00+00:00",
+ "created": "2026-11-26T20:51:07+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
