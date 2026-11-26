@@ -1,0 +1,26 @@
+{
+ "key": "6588d94aab",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-26/ukraine-says-it-downed-jet-drone-with-laser-for-first-time",
+ "title": "厉害了！乌军首次用激光击落喷气式无人机",
+ "summary": "乌克兰方面宣布首次使用激光武器成功击落一架喷气式无人机，标志着其在应对空袭的军事技术上取得重大突破。",
+ "body": [
+  "乌克兰近日在战场上实现了一项重大技术突破，官方宣布首次成功使用激光武器击落了一架喷气式无人机（jet drone），这也是该国在对抗空袭方面的又一创新尝试。",
+  "长期以来，乌克兰面对俄罗斯密集的空中打击，一直在寻求成本更低、效率更高的新型防空手段。此次激光武器的成功实战应用，不仅展示了其在军事科技上的进展，也为现代战争中对抗无人机袭击提供了新的解题思路。"
+ ],
+ "tags": [
+  "乌克兰",
+  "激光武器",
+  "无人机",
+  "军事科技",
+  "俄乌冲突"
+ ],
+ "original_title": "Ukraine Says It Downed Jet Drone With Laser For First Time",
+ "lang": "en",
+ "published": "2026-11-26T07:05:20+00:00",
+ "created": "2026-11-26T08:13:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

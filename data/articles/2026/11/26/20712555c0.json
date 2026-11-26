@@ -1,0 +1,25 @@
+{
+ "key": "20712555c0",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797?mod=rss_markets_main",
+ "title": "差点倒闭的知名对冲基金：三季度暴跌65%，现在怎么样了？",
+ "summary": "曾于今年夏天遭遇惨重损失、差点面临倒闭危机的对冲基金 Situational Awareness 向投资者透露，其在第三季度亏损了 65%，目前该基金表示已从错误中吸取了教训。",
+ "body": [
+  "曾差点在今年夏天倒闭的知名对冲基金 Situational Awareness 近日向投资者坦白，该基金在第三季度经历了 **65%** 的惨痛亏损。",
+  "这家由 Aschenbrenner 运营的基金在经历今年夏天的陡峭跌幅后几乎难以为继。面对投资者的质疑，基金方面表示，他们已经在过去一段时间里认真复盘，努力从这次的重大失误中吸取教训，试图挽回颓势。"
+ ],
+ "tags": [
+  "对冲基金",
+  "投资理财",
+  "华尔街",
+  "金融市场"
+ ],
+ "original_title": "Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
+ "lang": "en",
+ "published": "2026-11-26T01:04:00+00:00",
+ "created": "2026-11-26T08:13:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "8c7961a12e",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-26/banks-seek-rbi-fx-swaps-after-record-inflows-into-indian-stocks",
+ "title": "印度股市热钱涌入，银行急求央行出手",
+ "summary": "由于创纪录的外资涌入印度股市，当地银行面临大量美元流入， hedging（套期保值）成本飙升，已请求印度央行进行外汇掉期交易以缓解压力。",
+ "body": [
+  "近期外资大量涌入印度股市，创下历史记录。据知情人士透露，由于手头堆积了大量美元，当地一些银行的套期保值成本不断攀升，因此它们已经向印度储备银行（RBI，即印度央行）寻求帮助，希望央行能开展外汇掉期交易（Foreign-Exchange Swaps），以此来平抑飙升的成本。",
+  "这次事件的背景是印度资本市场吸引了海量海外资金。随着外资大规模买入印度股票，银行系统的美元流动性激增，导致金融机构在进行风险对冲时面临着越来越重的财务负担。"
+ ],
+ "tags": [
+  "印度股市",
+  "外汇掉期",
+  "印度央行",
+  "海外投资"
+ ],
+ "original_title": "Banks Seek RBI FX Swaps After Record Inflows Into Indian Stocks",
+ "lang": "en",
+ "published": "2026-11-26T07:10:15+00:00",
+ "created": "2026-11-26T08:14:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "0225853f8e",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-26/uk-faces-third-day-of-strained-electricity-supplies-on-cold-snap",
+ "title": "英国冻成这样？电网连续三天拉响警报！",
+ "summary": "受寒潮天气影响，英国电力供应连续第三天面临紧张局面，供需压力持续加大。",
+ "body": [
+  "受持续寒潮天气影响，英国民众用电需求激增，导致当地电力供应在周四再次面临严峻考验。这也是英国电网连续第三天陷入紧张状态。",
+  "由于气温骤降，供暖需求大幅上升，直接推高了整个国家的电力负荷。面对严峻的能源压力，相关部门正在密切监控电网运行，以确保能源供应不会出现大面积中断。",
+  "对于海外特别是生活在欧洲的华人来说，极端天气不仅考验着当地的基础设施，也提醒大家在冬季要注意防寒保暖，并合理规划家庭用电，防范能源价格波动可能带来的生活成本压力。"
+ ],
+ "tags": [
+  "英国",
+  "寒潮",
+  "电力供应",
+  "海外生活"
+ ],
+ "original_title": "UK Faces Third Day of Strained Electricity Supplies on Cold Snap",
+ "lang": "en",
+ "published": "2026-11-26T07:05:06+00:00",
+ "created": "2026-11-26T08:15:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "632c7354c6",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/long-term-jgb-yields-rise-as-chip-stocks-rebound-c8e82816?mod=rss_markets_main",
+ "title": "感恩节交投清淡，欧元区国债收益率却悄悄走高",
+ "summary": "在感恩节假期市场交投清淡的背景下，欧元区政府债券收益率在早盘交易中出现上升，且并未受到美债行情的直接带动。",
+ "body": [
+  "周四在感恩节（Thanksgiving）假期的平静氛围中，欧元区政府债券收益率在早盘交易中逆势走高，引发市场关注。",
+  "由于美国金融市场因感恩节休市，此次欧元区国债（Eurozone Government Bonds）收益率的上升并未受到美债（Treasurys）走势的任何指引或推动，完全是欧洲市场自身的波动。",
+  "对于关注全球宏观经济和汇率走势的海外华人来说，虽然这只是假期中的一个小插曲，但欧洲债市的独立波动也提醒我们，年末各国的资金面和债券市场仍可能出现意料之外的波澜，需要适当留心汇率和资产配置的变化。"
+ ],
+ "tags": [
+  "欧元区",
+  "国债收益率",
+  "感恩节",
+  "欧洲经济"
+ ],
+ "original_title": "Eurozone Bond Yields Rise in Quiet Thanksgiving Trade",
+ "lang": "en",
+ "published": "2026-11-26T07:59:00+00:00",
+ "created": "2026-11-26T08:14:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

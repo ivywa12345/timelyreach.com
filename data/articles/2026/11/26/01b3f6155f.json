@@ -1,0 +1,24 @@
+{
+ "key": "01b3f6155f",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-metals-stocks-3b7004c9?mod=rss_markets_main",
+ "title": "北欧股市准备高开，但AI概念股依然让人头疼？",
+ "summary": "北欧股市预计将集体高开，但市场对人工智能（AI）板块的担忧情绪依然是拖累整体股市的主要阴影。",
+ "body": [
+  "根据《华尔街日报》（Wall Street Journal）的最新报道，北欧主要股票市场在开盘前释放了积极信号，有望集体高开。不过，投资者并没有完全放松下来，市场上空依然笼罩着对人工智能（AI）相关忧虑，这也成了压制股市表现的主要拖累因素。"
+ ],
+ "tags": [
+  "北欧股市",
+  "人工智能",
+  "股市行情",
+  "海外财经"
+ ],
+ "original_title": "Nordic Stocks Tipped to Open Higher",
+ "lang": "en",
+ "published": "2026-11-26T07:00:00+00:00",
+ "created": "2026-11-26T08:15:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

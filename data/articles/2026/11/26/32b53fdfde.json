@@ -1,0 +1,25 @@
+{
+ "key": "32b53fdfde",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
+ "title": "感恩节股市到底开不开盘？答案可能有点意外！",
+ "summary": "美股主流交易所在感恩节当天休市，但股票期货盘会进行半天交易。",
+ "body": [
+  "感恩节美股开不开盘？这个问题其实不能简单用“开”或“不开”来回答。根据 MarketWatch 报道，虽然纽约证券交易所（NYSE）和纳斯达克（Nasdaq）等主流交易所在感恩节当天会完全关闭，但股票期货（equity futures）的交易在当天会开放半天。",
+  "对于想要在节日期间随时关注市场动态的投资者来说，虽然不能直接买卖股票，但可以通过期货市场的走势来提前感知节后市场的风向。"
+ ],
+ "tags": [
+  "美股",
+  "感恩节",
+  "股市交易时间",
+  "期货"
+ ],
+ "original_title": "Is the stock market open for Thanksgiving? The answer might surprise you.",
+ "lang": "en",
+ "published": "2026-11-26T07:16:00+00:00",
+ "created": "2026-11-26T08:12:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

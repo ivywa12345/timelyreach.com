@@ -1,0 +1,24 @@
+{
+ "key": "a4a19c0cdb",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-26/diesel-carrying-ship-sinks-off-spanish-island-of-ibiza-one-dead",
+ "title": "运柴油货船在西班牙度假胜地伊比萨岛外海沉没，致1人死亡",
+ "summary": "一艘载有柴油的货船在西班牙伊比萨岛外海沉没，造成1人死亡，当地应急部门已介入处理。",
+ "body": [
+  "据彭博社（Bloomberg）报道，西班牙著名的度假胜地伊比萨岛（Ibiza）海岸外，近日发生了一起货船沉没事故。巴利阿里群岛（Balearic Islands）应急服务部门证实，这艘载有柴油的船只在航行途中沉没，目前已导致1人不幸丧生。"
+ ],
+ "tags": [
+  "西班牙",
+  "伊比萨岛",
+  "货船沉没",
+  "突发新闻"
+ ],
+ "original_title": "Diesel-Carrying Ship Sinks Off Spanish Island of Ibiza, One Dead",
+ "lang": "en",
+ "published": "2026-11-26T07:24:28+00:00",
+ "created": "2026-11-26T08:13:32+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "5f234650d6",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/wife-of-japanese-reporter-held-in-russia-appeals-for-his-release-74bb1712?mod=rss_worldnews",
+ "title": "在日本记者被俄扣押后，他的妻子发声了",
+ "summary": "日本记者在俄罗斯被扣押，其妻通过公开信呼吁将其释放，展现其对俄罗斯文化的喜爱，引发关注。",
+ "body": [
+  "在日本与俄罗斯两国关系持续恶化的大背景下，一名被俄罗斯扣押的日本记者 Yuki Imai 的妻子近日通过媒体分享了一封公开信，深情呼吁俄方尽快释放她的丈夫。",
+  "在这封公开信中，Yuki Imai 的妻子表示，她的丈夫一直以来非常热爱俄罗斯的艺术与文学，展现了其对俄罗斯文化的欣赏与尊重。这起扣押事件发生在日俄双边关系不断走低之际，引发了外界对在俄外国记者安全与命运的担忧。"
+ ],
+ "tags": [
+  "日本记者",
+  "俄罗斯",
+  "国际新闻",
+  "日俄关系"
+ ],
+ "original_title": "Wife of Japanese Reporter Held in Russia Appeals for His Release",
+ "lang": "en",
+ "published": "2026-11-26T07:49:00+00:00",
+ "created": "2026-11-26T08:11:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "27937ee3ac",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a?mod=rss_Technology",
+ "title": "内存芯片疯狂告急！今年节假日买电子产品要大出血？",
+ "summary": "全球内存芯片短缺导致各大公司争抢资源，电子产品价格飙升，假日购物季的消费者将面临更高的价格和购买痛点。",
+ "body": [
+  "最近准备给亲友买电子产品当节日礼物的注意了，全球内存芯片正陷入一场疯狂的短缺荒，不仅各大科技公司在四处抢货，电子产品的价格也一路水涨船高。",
+  "根据《华尔街日报》报道，这场席卷全球的芯片荒已经直接传导到了零售终端，导致各类电子设备的造价成本激增，直接冲击了消费者的钱包。",
+  "对于咱们海外华人来说，年底本来就是电子产品促销和换新机的高峰期。面对芯片短缺导致的普遍涨价，大家在采购节日礼物或升级数码装备时，可能需要提前做好预算，或者精打细算寻找性价比更高的选择了。"
+ ],
+ "tags": [
+  "内存芯片",
+  "芯片短缺",
+  "节日购物",
+  "电子产品涨价",
+  "华尔街日报"
+ ],
+ "original_title": "The Mad Dash for Memory Chips—and the Pain It’s Causing Holiday Shoppers",
+ "lang": "en",
+ "published": "2026-11-26T02:00:00+00:00",
+ "created": "2026-11-26T08:11:41+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

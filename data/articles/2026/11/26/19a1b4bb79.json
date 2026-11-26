@@ -1,0 +1,26 @@
+{
+ "key": "19a1b4bb79",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-26/ftse-100-eyes-rebound-as-shift-to-uk-gilts-pauses",
+ "title": "英国股市要反弹？国债抛售潮暂时停歇",
+ "summary": "彭博社报道称，随着资金流向英国国债（Gilts）的转变暂时按下暂停键，英国富时100指数（FTSE 100）有望迎来反弹，同时英国消费市场的最新动向也引发关注。",
+ "body": [
+  "据彭博社（Bloomberg）报道，随着投资者近期转向英国国债的脚步放缓，英国股市的核心风向标富时100指数（FTSE 100）正准备迎来一波反弹。此前，英国金融市场的资金流向发生了一定变化，直接影响了股市和债市的近期表现。",
+  "与此同时，市场分析人士也在密切关注英国消费者的最新动向。目前英国消费者正面临着一系列复杂的经济挑战，这些“消费迷题”不仅牵动着当地零售商的神经，也成了判断英国经济复苏步伐的关键指标。",
+  "对于海外华人来说，英国市场的这一波资金腾挪和消费走势，折射出欧洲主要经济体在通胀和利率波动下的实时状态。如果你在英国有资产配置、英镑储蓄或是相关商业投资，近期需要密切关注汇率波动以及股市的反弹机会，及时调整自己的理财策略。"
+ ],
+ "tags": [
+  "英国股市",
+  "富时100",
+  "英国国债",
+  "海外投资"
+ ],
+ "original_title": "FTSE 100 Eyes Rebound as Shift to UK Gilts Pauses",
+ "lang": "en",
+ "published": "2026-11-26T07:37:50+00:00",
+ "created": "2026-11-26T08:11:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

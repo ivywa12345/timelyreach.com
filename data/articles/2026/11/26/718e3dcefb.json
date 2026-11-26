@@ -1,0 +1,25 @@
+{
+ "key": "718e3dcefb",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-25/hong-kong-fire-shows-accountability-under-beijing-s-shadow",
+ "title": "香港特首罕见公开问责，这场大火折射出什么？",
+ "summary": "彭博社报道称，香港特首李家超就数十年来最严重的一场火灾发布调查报告，这场事故与问责引发了外界对香港政治生态变化的关注。",
+ "body": [
+  "香港行政长官李家超（John Lee）近期在数十名记者面前，公开公布了一份关于香港数十年来最严重火灾的调查报告。外媒分析认为，这次公开亮相既体现了香港在政治体制上向中国内地靠拢的趋势，同时也保留了某些特有的制度特征。",
+  "这起发生在去年10月下旬的火灾是香港几十年来遭遇的 **最严重火灾** 事故。李家超的公开问责与报告发布，成为观察北京对港全面管治下，香港特区政府如何履行治理责任的一个重要窗口。"
+ ],
+ "tags": [
+  "香港新闻",
+  "李家超",
+  "火灾问责",
+  "彭博社"
+ ],
+ "original_title": "Hong Kong Fire Shows Accountability Under Beijing’s Shadow",
+ "lang": "en",
+ "published": "2026-11-25T23:00:05+00:00",
+ "created": "2026-11-26T08:12:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
