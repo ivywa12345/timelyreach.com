@@ -1,0 +1,27 @@
+{
+ "key": "5afacb54b0",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/newsletters/2026-11-27/nifty-s-sharp-november-rally-gives-india-s-ipo-hopefuls-a-tailwind",
+ "title": "印度股市11月狂飙，这是要掀起年底上市潮？",
+ "summary": "受益于印度 Nifty 指数在11月的强劲反弹，今年印度企业通过首次公开募股（IPO）已筹集约 186 亿美元，预计12月还将迎来一波上市热潮。",
+ "body": [
+  "据彭博社报道（作者：Samie Modak 和 Rajesh Mascarenhas），印度 Nifty 指数在11月迎来了一波犀利的涨势，这为当地渴望上市的企业吹起了一股强劲的东风。",
+  "## 募资成绩亮眼",
+  "数据显示，今年以来印度企业已经通过 IPO 筹集了大约 **186亿美元** 的资金。随着市场情绪回暖，预计在今年最后一个月的12月，还将有一大批企业密集进行上市交易。",
+  "对于关注新兴市场投资机会的海外华人投资者来说，印度资本市场的这波活跃表现无疑释放出了强烈的市场信号，也反映出当地企业融资需求的持续高涨。"
+ ],
+ "tags": [
+  "印度股市",
+  "IPO",
+  "金融市场",
+  "投资"
+ ],
+ "original_title": "Nifty’s Sharp November Rally Gives India’s IPO Hopefuls a Tailwind",
+ "lang": "en",
+ "published": "2026-11-27T02:30:22+00:00",
+ "created": "2026-11-27T02:52:35+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

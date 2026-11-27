@@ -1,0 +1,25 @@
+{
+ "key": "75ef93acd7",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_worldnews",
+ "title": "东京通胀数据火热，日本短债收益率应声上涨！",
+ "summary": "受东京通胀数据走高影响，日本短期国债收益率出现上升，市场对日本央行加息的预期进一步升温。",
+ "body": [
+  "东京最新的通胀数据表现强劲，直接推动日本短期政府债券（JGB）的收益率往上走。这也让市场更加确信，日本央行（Bank of Japan）离再次加息不远了。",
+  "简单来说，通胀居高不下往往会逼着央行出手收紧货币政策。这次东京的数据就像是个“发令枪”，让投资者提前做好了日本央行可能继续加息的准备，从而带动短期国债收益率上升。"
+ ],
+ "tags": [
+  "日本央行",
+  "通胀",
+  "国债收益率",
+  "加息预期"
+ ],
+ "original_title": "Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data",
+ "lang": "en",
+ "published": "2026-11-27T02:16:00+00:00",
+ "created": "2026-11-27T02:52:08+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

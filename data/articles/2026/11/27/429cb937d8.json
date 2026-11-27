@@ -1,0 +1,25 @@
+{
+ "key": "429cb937d8",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
+ "title": "印度股市又被看好？华尔街大行上调盈利预期",
+ "summary": "杰富瑞（Jefferies）小幅上调了MSCI印度指数的盈利预测，称印度企业展现出了极强的韧性。",
+ "body": [
+  "摩根士丹利资本国际印度指数（MSCI India）迎来了一个好消息，华尔街知名投资机构杰富瑞（Jefferies）近日罕见地上调了该指数的盈利预测，理由是印度本土企业展现出了极强的业绩韧性。",
+  "根据杰富瑞的最新评估，他们将MSCI印度指数的盈利预期**上调了大约1%**。在当前全球经济面临诸多不确定性的背景下，印度企业能够顶住压力获得上调，实属不易。这也再次证明了印度市场的抗压能力和成长潜力，吸引了全球不少投资者的目光。"
+ ],
+ "tags": [
+  "印度股市",
+  "杰富瑞",
+  "MSCI",
+  "财经资讯"
+ ],
+ "original_title": "MSCI India Gets Rare Earnings Upgrade",
+ "lang": "en",
+ "published": "2026-11-27T01:21:00+00:00",
+ "created": "2026-11-27T02:54:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

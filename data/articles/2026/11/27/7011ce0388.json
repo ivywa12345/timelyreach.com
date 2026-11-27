@@ -1,0 +1,24 @@
+{
+ "key": "7011ce0388",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d?mod=rss_markets_main",
+ "title": "亚洲股市全线反弹！AI焦虑情绪终于缓和了？",
+ "summary": "受美股期货上涨及人工智能相关情绪趋稳的带动，亚洲主要股市周二多数走高。",
+ "body": [
+  "周二亚洲股市普遍迎来反弹，跟着美股期货的涨势走出一波行情。这主要是因为市场对人工智能（AI）板块的担忧情绪开始趋于稳定，投资者信心逐渐恢复。"
+ ],
+ "tags": [
+  "亚洲股市",
+  "美股期货",
+  "人工智能",
+  "财经快讯"
+ ],
+ "original_title": "Asian Markets Mostly Higher as Sentiment Stabilizes",
+ "lang": "en",
+ "published": "2026-11-27T02:13:00+00:00",
+ "created": "2026-11-27T02:50:32+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

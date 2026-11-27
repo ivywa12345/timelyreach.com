@@ -1,0 +1,31 @@
+{
+ "key": "9058a423a4",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/26/us-news/california-warns-of-deadly-mushroom-bloom-as-el-nino-brings-heavy-rains/",
+ "title": "加州厄尔尼诺引发剧毒蘑菇危机！有人误食丧命、紧急换肝",
+ "summary": "加州卫生部门发出警告，受厄尔尼诺带来的强降雨影响，加州公园和林地预计将大量滋生剧毒蘑菇，近期已有多人因误食或接触中毒甚至死亡。",
+ "body": [
+  "厄尔尼诺给加州带来丰富降水的同时，也唤醒了一种致命的户外威胁——加州公共卫生部（California Department of Public Health, CDPH）近日警告称，当地可能会迎来剧毒蘑菇的大爆发。",
+  "## 毒菇长啥样与致病情况",
+  "这次引发关注的主要是两种剧毒蘑菇：鹅膏蕈（Death Cap）和西部毁灭天使（Western Destroying Angel）。它们由于外表与人们日常食用的普通白蘑菇十分相似，极易让人放松警惕。",
+  "- 误食后可能导致严重的肝脏损伤、肾脏衰竭甚至死亡\n- 在2025年11月至2026年5月期间，相关中毒事件已造成**4人死亡**、**4人接受肝脏移植**\n- 仅在今年5月，纳帕县（Napa County）就有3人因为单纯用手触摸了有毒蘑菇而被送医治疗",
+  "> “这些蘑菇极易被误认为外表相似的常见食用菌。”——加州公共卫生部",
+  "## 在美华人如何防范",
+  "这些剧毒真菌通常生长在加州各地公园和林地里的橡树附近，目前在旧金山湾区（San Francisco Bay Area）和洛杉矶地区（Los Angeles region）都已经有了目击报告。对于喜欢周末去户外徒步、亲近大自然的在美华人家庭来说，近期在野外一定要看管好同行的小孩和宠物，千万不要采摘或食用任何野外野生蘑菇，以免发生悲剧。"
+ ],
+ "tags": [
+  "加州",
+  "厄尔尼诺",
+  "剧毒蘑菇",
+  "食品安全",
+  "户外安全"
+ ],
+ "original_title": "Deadly new threat lurking in California as El Niño fuels toxic mushroom growth",
+ "lang": "en",
+ "published": "2026-11-27T01:40:41+00:00",
+ "created": "2026-11-27T02:54:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

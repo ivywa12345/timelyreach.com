@@ -1,0 +1,25 @@
+{
+ "key": "2cbe9781fb",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/putin-extends-his-war-to-europehes-not-our-friend-175eddc2?mod=rss_worldnews",
+ "title": "普京把战火烧向欧洲？美智库专家呼吁新国会下手更狠",
+ "summary": "华尔街日报发表评论文章称，俄罗斯总统普京正在将战争扩大到欧洲，即将上任的美国国会应当加大对莫斯科的经济施压。",
+ "body": [
+  "近日，《华尔街日报》刊登了战略与国际研究中心（CSIS）专家Seth G. Jones的评论文章，直言普京正在把战火烧向整个欧洲，并提醒美国上下千万别把对方当成“朋友”。",
+  "该文章指出，面对目前的严峻局势，即将上任的美国国会应当采取更强硬的立场，甚至不惜冒着遭遇否决的风险，也要进一步加大对莫斯科的经济制裁和施压力度，以此遏制局势恶化。"
+ ],
+ "tags": [
+  "俄乌冲突",
+  "美国国会",
+  "经济制裁",
+  "国际局势"
+ ],
+ "original_title": "Opinion | Putin Extends His War to Europe—He’s Not Our ‘Friend’",
+ "lang": "en",
+ "published": "2026-11-26T18:08:00+00:00",
+ "created": "2026-11-27T02:53:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

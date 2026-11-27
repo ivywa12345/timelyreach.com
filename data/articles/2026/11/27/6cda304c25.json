@@ -1,0 +1,26 @@
+{
+ "key": "6cda304c25",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/searching-for-god-in-the-ai-machine-4b52e760?mod=rss_opinion",
+ "title": "为什么AI很难给出正统的宗教答案？",
+ "summary": "华尔街日报探讨了人工智能在回答宗教相关问题时，为什么总是难以给出符合教义的标准答案。",
+ "body": [
+  "最近很多人发现，让AI聊天机器人回答正统的宗教问题怎么就这么难？其实这背后折射出AI在处理人类信仰和复杂价值观时的局限性。",
+  "作者克里斯托弗·库普曼（Christopher Koopman）在《华尔街日报》撰文指出，各大聊天机器人在面对神学问题时，往往无法做到严谨和统一，这引发了人们对AI在文化和精神领域应用的思考。",
+  "对于海外华人来说，无论是了解传统文化还是海外宗教社区的融合，我们在使用AI获取文化或信仰相关资讯时，不能盲目相信其给出的“标准答案”，仍需保持独立判断。"
+ ],
+ "tags": [
+  "人工智能",
+  "聊天机器人",
+  "宗教",
+  "华尔街日报"
+ ],
+ "original_title": "Searching for God in the AI Machine",
+ "lang": "en",
+ "published": "2026-11-26T18:06:00+00:00",
+ "created": "2026-11-27T02:50:45+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

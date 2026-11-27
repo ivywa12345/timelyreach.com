@@ -1,0 +1,26 @@
+{
+ "key": "92521bde9b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
+ "title": "日本烟草公司股价大涨！联手美国巨头想吞并帝国烟草？",
+ "summary": "日本烟草公司（Japan Tobacco Inc.）股价上涨，此前有消息称该公司正考虑与奥驰亚集团（Altria Group Inc.）联手收购帝国烟草公司（Imperial Brands Plc）。",
+ "body": [
+  "日本烟草公司（Japan Tobacco Inc.）的股价近日迎来上涨，市场传出消息称，这家卷烟制造商正在探讨与美国同行奥驰亚集团（Altria Group Inc.）合作，联手收购英国的帝国烟草公司（Imperial Brands Plc）。",
+  "彭博社（Bloomberg）记者Mia Glass和Kentaro Tsutsumi报道指出，目前这桩潜在的并购交易还在探讨阶段，几大烟草巨头未来是否会有进一步的实质性动作，依然备受资本市场关注。"
+ ],
+ "tags": [
+  "日本烟草",
+  "帝国烟草",
+  "奥驰亚集团",
+  "商业并购",
+  "股市动态"
+ ],
+ "original_title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
+ "lang": "en",
+ "published": "2026-11-27T00:26:05+00:00",
+ "created": "2026-11-27T02:54:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

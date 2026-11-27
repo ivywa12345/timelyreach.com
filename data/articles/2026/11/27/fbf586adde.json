@@ -1,0 +1,28 @@
+{
+ "key": "fbf586adde",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/alerts/tools-outage",
+ "title": "移民局系统要维护！这几个小时内别查进度",
+ "summary": "美国移民局（USCIS）将于2月19日深夜对核心系统进行维护，届时多项在线服务将短暂中断。近期有移民申请需求或正在等待结果的小伙伴要注意避开这段时间。",
+ "body": [
+  "如果你最近正在焦急等待绿卡、工卡或其他移民申请的审批结果，最近查进度可得挑好时间了。美国移民局（USCIS）发布通知，将于本周进行系统维护，大批在线服务将暂时瘫痪。",
+  "系统维护的具体时间安排在美东时间 **2月19日（星期三）晚上11:50** 开始，一直持续到 **2月20日（星期日，注：原文为Thursday，按原文日期）凌晨2:00** 结束。在此期间，移民局的“联系人关系接口系统”（CRIS）将进行升级。",
+  "- Check My Case Status（查案子进度）\n- e-Request（在线请求）\n- Change of Address online（网上改地址）\n- Check Case Processing Times（查审理时间）\n- File Online（在线提交申请）\n- myUSCIS online account（个人账户）\n- Civil Surgeon Locator 及 Office Locator 等实用工具",
+  "移民局表示，维护期间用户可能会遇到技术故障或无法访问上述工具。建议大家提前做好准备，避开这段维护窗口期，以免白跑一趟或遇到网页报错。"
+ ],
+ "tags": [
+  "美国移民局",
+  "USCIS",
+  "绿卡申请",
+  "移民快讯",
+  "系统维护"
+ ],
+ "original_title": "Tools Outage",
+ "lang": "en",
+ "published": "2025-02-18T15:41:25+00:00",
+ "created": "2026-11-27T02:53:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

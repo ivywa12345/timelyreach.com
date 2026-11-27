@@ -1,0 +1,26 @@
+{
+ "key": "67f624446b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/imf-sees-emerging-risks-in-australia-s-3-1-trillion-of-pensions",
+ "title": "养老金太大也不是好事？澳洲3.1万亿美元退休金被IMF点名",
+ "summary": "国际货币基金组织（IMF）近日对澳大利亚规模达3.1万亿美元的养老金体系发出警告，指出随着大批退休潮涌现，该系统面临资产流动性等多重潜在风险。",
+ "body": [
+  "国际货币基金组织（IMF）最近盯上了澳大利亚的养老金系统，指出这个庞大的资金池正在面临一系列新风险，核心问题是在大批工人退休时，怎么保证手里有足够的现金。",
+  "澳大利亚的养老金规模相当惊人，已经达到了 **3.1万亿美元** 的天文数字，并且还在快速增长。不过，随着越来越多的人开始办理退休并领取养老金，如何保持资产的流动性成了摆在眼前的最大挑战。",
+  "虽然这主要是澳大利亚国内的经济现象，但对于海外华人来说，这也是观察全球经济和养老基金管理风向的一个窗口。巨额资金在面对退休潮时如何平稳过渡，将直接影响当地的经济稳定。"
+ ],
+ "tags": [
+  "澳大利亚",
+  "养老金",
+  "IMF",
+  "海外财经"
+ ],
+ "original_title": "IMF Sees Emerging Risks in Australia’s $3.1 Trillion of Pensions",
+ "lang": "en",
+ "published": "2026-11-27T02:15:34+00:00",
+ "created": "2026-11-27T02:53:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

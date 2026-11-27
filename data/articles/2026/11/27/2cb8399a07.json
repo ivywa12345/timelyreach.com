@@ -1,0 +1,26 @@
+{
+ "key": "2cb8399a07",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/new-zealand-s-official-election-results-reveal-hung-parliament",
+ "title": "新西兰大选爆冷！现任政府想连任没那么容易了",
+ "summary": "新西兰官方大选结果显示，现任中右翼执政联盟面临复杂的组阁局面，可能出现悬峙议会。",
+ "body": [
+  "新西兰官方大选结果刚刚出炉，现任中右翼执政联盟想要顺利拿下第二个任期，前路变得相当棘手，甚至可能面临悬峙议会的罕见局面。",
+  "据彭博社（Bloomberg）记者特雷西·威瑟斯（Tracy Withers）报道，这次选举的结果并未产生绝对多数，这意味着各党派之间必须展开复杂的政治博弈和谈判，才能最终拼凑出能够稳定执政的多数政府。",
+  "对于关注海外政经局势的华人朋友来说，政权更迭或组阁拉锯战往往会直接影响当地的税收政策、移民走向以及整体经济环境。接下来各小党派的态度将成为关键，我们将持续为您关注新西兰政坛的最新进展。"
+ ],
+ "tags": [
+  "新西兰大选",
+  "海外政治",
+  "悬峙议会",
+  "执政联盟"
+ ],
+ "original_title": "New Zealand’s Election Results Reveal Rare Hung Parliament",
+ "lang": "en",
+ "published": "2026-11-27T01:00:00+00:00",
+ "created": "2026-11-27T02:51:05+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

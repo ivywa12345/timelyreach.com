@@ -1,0 +1,27 @@
+{
+ "key": "1dcfc0290b",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/tech/ai/giving-pledge-anthropic-charity-effective-altruism-fef947b2?mod=rss_Technology",
+ "title": "从“捐出10%收入”到AI巨头：这群人怎么统治了硅谷？",
+ "summary": "一个最初只有23人参与的“捐出10%收入”慈善承诺，如今已经演变成一个在全球AI行业（特别是Anthropic公司）拥有巨大影响力的全球运动。",
+ "body": [
+  "如果你听说过有人发誓要把自己收入的 **10%** 捐出去，你可能觉得这是传统的慈善活动。但让人没想到的是，当年发起这个承诺的23个人里，如今走出了一批掌控人工智能（AI）行业的亿万富翁，其中影响力最大的阵地就是当红AI企业Anthropic公司。",
+  "这个名为“有效 altruism”（有效慈善）的运动最早只是个小型承诺，旨在通过理性思考把钱花在刀刃上，最大化地造福人类。随着时间推移，这群早期参与者不仅在理念上紧密相连，还在科技浪潮中赚得盆满钵满，逐渐将这种哲学带入了整个AI产业的核心。",
+  "对于关注科技圈的海外华人来说，这波由硅谷核心圈子主导的AI变革不仅关乎技术走向，更关系到未来整个行业的资金流向和安全治理。这群自带理想主义色彩的AI大佬们，未来还将如何改变我们的数字生活，值得持续关注。"
+ ],
+ "tags": [
+  "人工智能",
+  "Anthropic",
+  "硅谷",
+  "亿万富翁",
+  "科技新闻"
+ ],
+ "original_title": "They Pledged to Give Away 10% of Their Income. Now They’re AI Billionaires.",
+ "lang": "en",
+ "published": "2026-11-27T02:00:00+00:00",
+ "created": "2026-11-27T02:50:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

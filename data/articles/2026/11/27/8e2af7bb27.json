@@ -1,0 +1,27 @@
+{
+ "key": "8e2af7bb27",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
+ "title": "美联储加息风头正劲，金价为什么反而涨了？",
+ "summary": "由于科技股出现初步反弹以及美元走软，成功抵消了美联储可能继续加息的担忧，国际金价近日实现上涨。",
+ "body": [
+  "近期金融市场上演了一出耐人寻味的戏码：尽管美联储（Federal Reserve）加息的阴云不散，但黄金价格非但没有下跌，反而迎风上涨。根据彭博社（Bloomberg）的报道，这主要是沾了科技股试探性反弹和美元走弱的光。",
+  "市场分析指出，虽然投资者一直紧盯着央行的加息动向，但科技板块的回暖给整体市场注入了一丝信心。与此同时，美元指数的走软直接减轻了以美元计价的黄金压力，让不少买家重新将目光投向了避险资产黄金。",
+  "对于咱们海外华人来说，宏观经济的这些微调看似遥远，但往往会通过汇率和通胀悄悄影响大家的钱包。如果你近期有换汇、回国或者配置资产的打算，不妨多留意美元和贵金属的走势变化，提前做好财务规划。"
+ ],
+ "tags": [
+  "黄金",
+  "美联储",
+  "科技股",
+  "美元",
+  "海外理财"
+ ],
+ "original_title": "Gold Rises as Rebound in Tech Stocks Offsets Rate-Hike Concerns",
+ "lang": "en",
+ "published": "2026-11-26T23:53:35+00:00",
+ "created": "2026-11-27T02:50:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "e740c76ba2",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/china/2026/11/26/hong-kongers-commemorate-the-tai-po-fire",
+ "title": "香港悼念大埔火灾：能哭丧，但必须按规矩来？",
+ "summary": "《经济学人》报道称，香港市民悼念大埔火灾遇难者时，面临着政府严格的条条框框。",
+ "body": [
+  "近日，香港市民自发悼念大埔（Tai Po）火灾中的死难者，但这场悼念活动引发了外界对表达自由的关注，相关情况显示公众只能在官方限定的框架内进行哀悼。",
+  "据相关报道指出，虽然民众表达悲痛和缅怀逝者的权利得到了某种程度的允许，但整个过程受到严格管控。外界评论认为，这种现象折射出目前在当地社会环境下，公众集会与纪念活动所面临的种种限制。"
+ ],
+ "tags": [
+  "香港",
+  "大埔火灾",
+  "悼念活动",
+  "言论自由"
+ ],
+ "original_title": "Hong Kongers commemorate the Tai Po fire",
+ "lang": "en",
+ "published": "2026-11-26T13:45:02+00:00",
+ "created": "2026-11-27T02:50:52+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

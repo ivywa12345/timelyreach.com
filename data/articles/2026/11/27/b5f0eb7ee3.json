@@ -1,0 +1,30 @@
+{
+ "key": "b5f0eb7ee3",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/pensions-trusted-by-millions-of-industrial-workers-make-a-surprising-comeback-9937ea46?mod=rss_markets_main",
+ "title": "几百万产业工人的退休金，怎么突然起死回生了？",
+ "summary": "得益于美国股市多年的强劲上涨，曾面临资金缺口的铁人退休计划目前已实现完全资助。",
+ "body": [
+  "几百万美国产业工人一直紧盯着的退休金账户，最近迎来了一个大反转——曾经让人捏一把汗的铁人工人退休计划（retirement plan），现在居然起死回生，实现完全资助了！",
+  "## 股市大涨立大功",
+  "根据《华尔街日报》记者朱丽叶·钟（Juliet Chung）的报道，这个让无数工人心神不定的退休计划能够重新“满血复活”，最大的功臣就是近年来一路狂飙的美国股市。",
+  "在美股连续多年大涨的带动下，基金的资产大幅增值，不仅填平了之前的资金黑洞，还让整个养老金计划的健康状况回到了安全线以上。",
+  "## 对华人群体的启示",
+  "这件事也给关注美国经济和退休规划的海外华人提了个醒：无论是传统产业工人的养老金，还是咱们自己配置的401(k)和 IRA 账户，其安全性与增值空间都和资本市场的表现息息相关。在市场波动的时候，做好资产配置依然是守住钱袋子的关键。"
+ ],
+ "tags": [
+  "退休金",
+  "美股",
+  "产业工人",
+  "养老计划",
+  "华尔街日报"
+ ],
+ "original_title": "Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
+ "lang": "en",
+ "published": "2026-11-26T19:55:00+00:00",
+ "created": "2026-11-27T02:52:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

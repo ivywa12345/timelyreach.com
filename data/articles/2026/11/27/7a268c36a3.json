@@ -1,0 +1,28 @@
+{
+ "key": "7a268c36a3",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/26/us-news/central-park-breaks-20-year-thanksgiving-rain-record-as-nyc-slammed-with-extreme-storms/",
+ "title": "纽约感恩节遭遇极端风暴！中央公园打破20年降雨纪录",
+ "summary": "一场极端风暴周四袭击纽约，中央公园感恩节降雨量创下20年新高，并打破自1870年以来的历史纪录，导致梅西感恩节大游行历史性地延期。",
+ "body": [
+  "周四感恩节当天，一场极端风暴突袭纽约市，中央公园迎来了罕见的暴雨，不仅打破了20年来的感恩节降雨纪录，更是创下了自1870年有记录以来的感恩节最高降雨量。",
+  "根据美国国家气象局（National Weather Service）的数据，中央公园已录得 **1.82英寸** 的降雨量，超过了2006年感恩节创下的1.72英寸的纪录。与此同时，这场东北风暴还带来了高达 **65英里/小时** 的阵风。",
+  "面对恶劣天气，纽约州长凯西·霍楚尔（Kathy Hochul）已于周三晚间宣布纽约市大都会地区进入紧急状态，呼吁居民减少出行。官员们也纷纷发布旅行警告，提醒市民注意高风速和潜在的洪水威胁。",
+  "受极端天气影响，有着百年历史的梅西感恩节大游行（Macy's Thanksgiving Day Parade）不得不历史性地推迟到周六举行。对于节日期间需要出行的在美华人朋友，请务必密切关注天气变化和交通延误信息，确保出行安全。"
+ ],
+ "tags": [
+  "纽约天气",
+  "感恩节",
+  "中央公园",
+  "暴雨",
+  "极端风暴"
+ ],
+ "original_title": "Central Park breaks 20-year Thanksgiving rain record as NYC slammed with extreme storms",
+ "lang": "en",
+ "published": "2026-11-27T02:34:30+00:00",
+ "created": "2026-11-27T02:53:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
