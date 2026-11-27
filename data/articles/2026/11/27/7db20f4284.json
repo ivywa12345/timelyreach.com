@@ -1,0 +1,25 @@
+{
+ "key": "7db20f4284",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/new-serb-leadership-picks-academic-saicic-to-run-for-president",
+ "title": "塞尔维亚变天！大学教授要竞选总统了",
+ "summary": "塞尔维亚新领导层推举大学教授拉多米尔·赛契奇参加下个月举行的总统大选。他曾支持推翻长期领导人亚历山大·武契奇的学生运动。",
+ "body": [
+  "曾支持学生运动把长期执政的领导人赶下台的大学终身教授拉多米尔·赛契奇（Radomir Saicic），将代表塞尔维亚新领导层参加下个月的总统普选。",
+  "这次总统大选定于下个月举行。赛契奇作为学术界人士参选，引发了当地民众的广泛关注，他此前曾公开力挺推翻前领导人亚历山大·武契奇（Aleksandar Vucic）的学生运动。",
+  "目前塞尔维亚政坛正处于关键过渡期，这位大学教授能否顺利转型为国家元首，将直接决定该国未来的政治走向。"
+ ],
+ "tags": [
+  "塞尔维亚",
+  "总统大选",
+  "国际新闻"
+ ],
+ "original_title": "Serbia’s New Leadership Picks Academic to Run for President",
+ "lang": "en",
+ "published": "2026-11-27T11:11:46+00:00",
+ "created": "2026-11-27T13:51:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

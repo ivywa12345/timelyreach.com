@@ -1,0 +1,30 @@
+{
+ "key": "1a6172d83c",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+ "title": "油价太高撑不住！廉航Norse Atlantic欧洲申请破产",
+ "summary": "知名跨大西洋廉价航空公司Norse Atlantic因资金链断裂及油价飙升，于周五正式在欧洲申请破产。",
+ "body": [
+  "以跨大西洋航线闻名的廉价航空公司Norse Atlantic于本周五正式宣布在欧洲申请破产。此前，该公司曾试图寻找金主救场，但最终因为未能筹集到足够资金而黯然退场。",
+  "## 资金链断裂的无奈之举",
+  "Norse Atlantic的母公司Norse Atlantic ASA在评估后认为，这家挪威航空公司已经不具备继续运营的基础。该公司在周五的一份声明中坦言：“尽管进行了广泛的努力，但公司至今未能获得足够的资金来满足短期流动性需求。”",
+  "就在宣布破产的几天前，该公司才刚刚公开承认自己正面临“危急的财务状况”，并考虑过包括战略收购和短期运力租赁（ACMI合同）在内的各种自救方案，但最终仍回天乏术。",
+  "> “尽管进行了广泛的努力，但公司至今未能获得足够的资金来满足短期流动性需求。” —— Norse Atlantic声明",
+  "对于经常往返中美或欧美探亲、旅游的华人朋友来说，又少了一个主打性价比的出行选择。这也提醒大家，近期在购买机票或规划行程时，尽量选择财务状况更稳健的大型航司，或者提前买好旅游保险，以免受到航空公司的突发变故影响。"
+ ],
+ "tags": [
+  "航空新闻",
+  "破产",
+  "海外出行",
+  "廉价航空",
+  "Norse Atlantic"
+ ],
+ "original_title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+ "lang": "en",
+ "published": "2026-11-27T13:32:10+00:00",
+ "created": "2026-11-27T13:52:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

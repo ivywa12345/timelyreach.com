@@ -1,0 +1,25 @@
+{
+ "key": "5cb3c226a2",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
+ "title": "美股周五迎来缩短交易日，三大股指有望集体收涨！",
+ "summary": "美国股市期货在周五短交易日开始前走高，投资者暂时摆脱了对人工智能（AI）的焦虑情绪，三大主要股指本周均有望实现上涨。",
+ "body": [
+  "美国股市期货在周五的一个缩短交易日（shorter session）前夕集体走高，这也让三大主要股指有望在这一周里延续涨势，为本周画上一个不错的句号。",
+  "在此之前，市场曾因对人工智能（AI）板块的担忧情绪而出现波动，不过投资者在近期暂时放下了这些焦虑，推动股市反弹。"
+ ],
+ "tags": [
+  "美股",
+  "华尔街",
+  "股市行情",
+  "海外财经"
+ ],
+ "original_title": "Stocks Poised to End Week Strong as Investors Take Break From AI Jitters",
+ "lang": "en",
+ "published": "2026-11-27T11:35:00+00:00",
+ "created": "2026-11-27T13:51:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

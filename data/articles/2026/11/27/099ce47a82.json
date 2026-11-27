@@ -1,0 +1,26 @@
+{
+ "key": "099ce47a82",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/trump-cant-rescue-the-stock-market-heres-what-can-1b97a560?mod=rss_markets_main",
+ "title": "特朗普也救不了美股？真正能让股市见底的还得看这些",
+ "summary": "华尔街日报分析指出，仅靠政治手段或撮合科技巨头回归无法阻止美股下跌，市场要真正见底需要更根本的转变。",
+ "body": [
+  "最近美股跌跌不休，为了稳住盘面，美国总统特朗普（Donald Trump）甚至试图通过促成黄仁勋（Jensen Huang）重回英伟达（Nvidia）来挽救市场信心，但华尔街分析认为，这种操作根本无法从根本上遏制股市的跌势。",
+  "要让美股真正找到“市场底”，单靠政客的干预和某位大佬的回归是远远不够的，必须要有更根本的经济和市场基本面发生转变。对于我们普通投资者和海外华人来说，这也提醒大家在动荡的行情中要捂紧钱包，切勿盲目抄底，密切关注宏观经济走向比啥都强。"
+ ],
+ "tags": [
+  "美股",
+  "特朗普",
+  "英伟达",
+  "黄仁勋",
+  "华尔街日报"
+ ],
+ "original_title": "Trump Can’t Rescue the Stock Market. Here’s What Can.",
+ "lang": "en",
+ "published": "2026-11-27T10:30:00+00:00",
+ "created": "2026-11-27T13:52:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

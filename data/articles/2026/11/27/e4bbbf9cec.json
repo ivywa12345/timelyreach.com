@@ -1,0 +1,26 @@
+{
+ "key": "e4bbbf9cec",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
+ "title": "纳斯达克期货大涨！抄底资金疯狂涌入AI板块",
+ "summary": "美国股指期货周一走高，显示市场有望迎来反弹，大批投资者正趁着科技股近期下跌的机会入场“抄底”。",
+ "body": [
+  "美股期货周一集体上涨，纳斯达克期货表现亮眼，表明经历前期重挫的科技股终于迎来了买盘支撑。近期被抛售的人工智能（AI）相关股票正成为资金追逐的热门目标。",
+  "对于关注美股走势的华人投资者来说，科技股的波动直接牵动着投资账户的神经。近期AI板块的回调曾让不少人捏了一把汗，而此次期货市场的反弹显示出，逢低吸纳的买盘力量依然强劲，市场信心正在逐步修复。"
+ ],
+ "tags": [
+  "美股",
+  "科技股",
+  "人工智能",
+  "纳斯达克",
+  "投资理财"
+ ],
+ "original_title": "Nasdaq Futures Rally as Traders Pile Into Battered AI Stocks",
+ "lang": "en",
+ "published": "2026-11-27T07:56:20+00:00",
+ "created": "2026-11-27T13:50:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

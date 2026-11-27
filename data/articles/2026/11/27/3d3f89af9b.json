@@ -1,0 +1,25 @@
+{
+ "key": "3d3f89af9b",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/europe/spain-housing-crisis-d09dc62f?mod=rss_worldnews",
+ "title": "没房租、赶不走！西班牙房产危机给所有人敲响警钟",
+ "summary": "西班牙正面临严重的住房危机，市场失灵不仅引发了政治地震，也成为其他国家的前车之鉴。",
+ "body": [
+  "说到租房难和租霸问题，很多身在海外的华人可能深有体会。最近西班牙的住房市场可以说是乱成了一锅粥：一方面是根本找不到房子租，另一方面是房东想把赖着不走的租客赶走难如登天。这场愈演愈烈的住房危机不仅让当地普通百姓苦不堪言，更已经变成了点燃选票的政治导火索，成了摆在政客面前的超级难题。",
+  "根据《华尔街日报》（The Wall Street Journal）的报道，这个失控的房地产市场正在成为其他国家的强烈警示。当住房从基本的生活保障变成了一场“买不起也租不起”的噩梦，随之而来的社会压力正在全面爆发。对于关注海外生活和房产投资的朋友来说，这种政策失灵引发的市场震荡，绝对值得我们高度警惕。"
+ ],
+ "tags": [
+  "西班牙房产",
+  "住房危机",
+  "海外租房",
+  "华尔街日报"
+ ],
+ "original_title": "No Homes to Rent, No Way to Evict: Inside Spain’s Housing Crisis",
+ "lang": "en",
+ "published": "2026-11-27T03:00:00+00:00",
+ "created": "2026-11-27T13:51:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

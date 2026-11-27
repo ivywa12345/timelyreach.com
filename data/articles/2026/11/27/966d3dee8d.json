@@ -1,0 +1,27 @@
+{
+ "key": "966d3dee8d",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/renters-are-now-a-national-political-constituency-that-can-influence-elections-8f028445?mod=mw_rss_topstories",
+ "title": "租客在美国政坛雄起！这股票仓力量不容小觑",
+ "summary": "根据YouGov的数据，在期中选举中，租客群体以61%对31%的压倒性优势支持民主党，显示出租客已成为不可忽视的国家政治力量。",
+ "body": [
+  "美国租客群体现在已经正式成为一股能左右大选结果的国家级政治力量了。",
+  "## 租客成庞大政治势力",
+  "根据民调机构 YouGov 的数据，在之前的期中选举中，租客群体支持民主党的比例高达 **61%**，而支持共和党的仅为 **31%**，两者之间存在 **30个百分点** 的巨大差距。",
+  "这一显著的政治倾向表明，住房成本和租金压力正在转化为切实的投票行为。对于在海外特别是关注美国大选和生活成本的华人来说，租客群体的政治动向未来可能会直接影响到各地的住房政策、房租管制以及相关经济议题的发展。"
+ ],
+ "tags": [
+  "美国大选",
+  "租客",
+  "政治风向",
+  "海外生活"
+ ],
+ "original_title": "Renters are now a national political constituency that can influence elections",
+ "lang": "en",
+ "published": "2026-11-27T13:30:00+00:00",
+ "created": "2026-11-27T13:52:07+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

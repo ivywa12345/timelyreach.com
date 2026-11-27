@@ -1,0 +1,26 @@
+{
+ "key": "7637c84a28",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/sessions/2026-12-01/live-q-amp-a-are-uk-and-european-markets-a-haven-from-the-ai-storm",
+ "title": "美股AI风暴太吓人？英国和欧洲股市成避风港了吗？",
+ "summary": "彭博社将于12月1日举行线上问答直播，探讨在全球AI浪潮冲击下，英国和欧洲股市是否能成为投资者的避风港。",
+ "body": [
+  "近期全球人工智能（AI）热潮掀起巨大波澜，让不少投资者心惊肉跳。彭博社（Bloomberg）的记者团队将于英国时间12月1日下午1点，针对英国和欧洲市场的表现举办一场线上问答直播活动（Live Q&A），专门解答投资者关于欧洲股市是否能成为资金避风港的疑问。",
+  "在这场直播中，彭博社记者Olivia Levieux、Aline Oyamada、Tom Mackenzie和Morwenna Coniam将在线与观众互动，分析在当前充满不确定性的市场环境下，欧洲各大资本市场的最新走向以及投资机会。"
+ ],
+ "tags": [
+  "欧洲股市",
+  "英国股市",
+  "AI风暴",
+  "投资避风港",
+  "彭博社"
+ ],
+ "original_title": "As the AI Storm Rages, Are UK and Europe Markets a Haven For Investors? Live QA",
+ "lang": "en",
+ "published": "2026-11-27T13:35:54+00:00",
+ "created": "2026-11-27T13:52:39+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

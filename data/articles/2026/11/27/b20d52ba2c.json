@@ -1,0 +1,27 @@
+{
+ "key": "b20d52ba2c",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/business/energy-oil/oil-prices-rise-ahead-of-opec-meeting-as-middle-east-supply-risks-persist-63fbb550?mod=rss_worldnews",
+ "title": "OPEC+开会前夕油价震荡，中东局势让人捏把汗",
+ "summary": "由于交易员在OPEC+周末会议前权衡中东供应的新威胁，周五国际油价表现不一。",
+ "body": [
+  "周五国际油价呈现震荡走势。由于OPEC及其盟友（OPEC+）即将在周末召开重要会议，市场交易员们正在密切评估中东地区石油供应面临的最新威胁，这让本就敏感的能源市场神经紧绷。",
+  "> “交易员正密切关注中东局势发展，并在OPEC+会议前调整仓位。”——市场观察人士指出当前多空交织的谨慎情绪。",
+  "对于在美华人来说，国际油价的波动直接关系到日常生活成本。虽然目前油价涨跌不一，但中东局势的不确定性随时可能传导至加油站，影响大家的出行预算和整体通胀水平。"
+ ],
+ "tags": [
+  "油价",
+  "OPEC+",
+  "中东局势",
+  "海外华人",
+  "通胀"
+ ],
+ "original_title": "Oil Prices Mixed Ahead of OPEC+ Meeting as Middle East Supply Risks Persist",
+ "lang": "en",
+ "published": "2026-11-27T12:50:00+00:00",
+ "created": "2026-11-27T13:52:26+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

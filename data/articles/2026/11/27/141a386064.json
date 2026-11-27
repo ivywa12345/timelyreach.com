@@ -1,0 +1,31 @@
+{
+ "key": "141a386064",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/technology/hackers-breach-usafs-critical-cloud-one-platform-insiders-warn-its-big-deal",
+ "title": "美军核心云平台遭黑客入侵！内部人士直呼“事态严重”",
+ "summary": "美国空军用于托管军事应用和敏感数据的核心云平台“Cloud One”在系统升级期间遭到黑客入侵，内部人士称这是一起“大事件”。与此同时，近期美国多个政府机构和科技巨头频频发生故障，网络安全形势引发广泛担忧。",
+ "body": [
+  "美国空军（USAF）的核心云计算平台 Cloud One 近期惊传遭遇黑客入侵，内部人士直呼这是一个“大事件”。路透社报道称，这起入侵事件是在过去一个月内进行系统升级时被发现的，可能导致敏感军事数据面临向外部对手泄露的风险。",
+  "## 核心平台遭黑客潜入",
+  "作为美军规模最大的云平台之一，Cloud One 整合了 Amazon Web Services（亚马逊云）、Microsoft Azure（微软云）、Google Cloud（谷歌云）和 Oracle Cloud（甲骨文云），主要用于支持空军各项任务的软件开发、测试和运行。空军官方对此回应称，不会对特定网络和系统的安全态势或漏洞发表评论，但会持续采取谨慎措施保护国防信息。不过，知情人士警告，如果该平台遭到长期中断或更深度的破坏，后果不堪设想。",
+  "## 官方表态与专家分歧",
+  "此次黑客入侵正值美国政府和企业频遭网络故障之际。过去几周，包括联邦调查局（FBI）和国家安全局（NSA）在内的多个政府机构，以及微软、苹果和各大银行都受到了影响。美国国家情报总监杰伊·克莱顿（Jay Clayton）此前表示这些事件并非有协调的攻击，国务卿马可·卢比奥也称没有证据表明故障由黑客引起。然而，网络安全专家罗德尼·古拉特（Rodney Gullatte Jr.）则公开反驳：“我不再保持沉默了，这绝对是一场正在发生的网络攻击。”",
+  "## AI 黑客工具引发担忧",
+  "与此同时，微软警告称，名为 ARTEX 的中国产 AI 黑客框架已被部分黑客组织整合到其攻击武器库中。FBI 指出，该框架能让技术门槛极低的攻击者以极快速度进行复杂的跨目标入侵。在当前全球地缘政治紧张的背景下，网络空间早已成为无形战场，这也让海外华人群体对科技安全和未来的局势走向多了一层担忧。"
+ ],
+ "tags": [
+  "美军",
+  "网络安全",
+  "黑客入侵",
+  "云计算",
+  "海外快讯"
+ ],
+ "original_title": "Hackers Breach USAF's Critical Cloud One Platform As Insiders Warn It's A \"Big Deal\"",
+ "lang": "en",
+ "published": "2026-11-27T12:45:00+00:00",
+ "created": "2026-11-27T13:52:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

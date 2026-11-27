@@ -1,0 +1,25 @@
+{
+ "key": "9c4de7bb8a",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/poland-warns-on-tech-debt-flood-before-2027-eurobond-sales",
+ "title": "2027年刚开年，波兰就要去国际市场上借钱啦！",
+ "summary": "波兰计划在2027年初发行欧洲债券（Eurobond），不过该国也提醒投资者，届时可能会迎来一波企业借债高潮。",
+ "body": [
+  "波兰（Poland）计划在2027年初试水国际市场，发行欧洲债券（Eurobond），不过波兰官方也发出提醒，市场上可能会涌现出一大批企业借债的需求，投资者将面临不小的关注度分流。",
+  "根据彭博社（Bloomberg）报道，记者阿格涅什卡·巴尔特奇科（Agnieszka Barteczko）指出，波兰这次发债动作的时间点选在了企业融资需求可能出现爆发的时期，这也给接下来的国际资本市场留下了悬念。"
+ ],
+ "tags": [
+  "波兰",
+  "欧洲债券",
+  "国际金融",
+  "海外债市"
+ ],
+ "original_title": "Poland Warns on Tech Debt Flood Before 2027 Eurobond Sales",
+ "lang": "en",
+ "published": "2026-11-27T13:36:03+00:00",
+ "created": "2026-11-27T13:51:34+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

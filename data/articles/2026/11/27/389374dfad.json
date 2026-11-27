@@ -1,0 +1,27 @@
+{
+ "key": "389374dfad",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
+ "title": "美股感恩节后强势反弹！AI概念股带头冲锋，避险情绪降温",
+ "summary": "感恩节假期过后，美国股市迎来强劲反弹，在人工智能（AI）板块强势回归的带动下，市场风险偏好明显回升，而避险需求减弱也导致美债价格下跌。",
+ "body": [
+  "感恩节假期刚过，美股就迎来了一波让人振奋的强势反弹。这背后的主要推手，是人工智能（AI）交易板块的再度火热，重新点燃了投资者对科技股的热情。",
+  "与此同时，随着市场风险偏好的回暖，投资者对避险资产的需求正在减弱，这也直接导致了美国国债（Treasuries）价格出现走低。",
+  "对于关注理财和投资的海外华人来说，科技板块依然是近期市场风向的晴雨表。AI概念的起伏不仅牵动着各大科技巨头的股价，也直接影响着美股整体的大盘走向，后续资产配置仍需密切关注这一板块的动态。"
+ ],
+ "tags": [
+  "美股",
+  "人工智能",
+  "AI概念股",
+  "财经快讯",
+  "海外投资"
+ ],
+ "original_title": "US Stocks Rally After Holiday as AI Trade Rebounds: Markets Wrap",
+ "lang": "en",
+ "published": "2026-11-26T21:59:57+00:00",
+ "created": "2026-11-27T13:53:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

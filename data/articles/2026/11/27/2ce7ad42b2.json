@@ -1,0 +1,26 @@
+{
+ "key": "2ce7ad42b2",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5?mod=rss_worldnews",
+ "title": "法国经济突然陷入衰退，连空客工厂都扛不住了？",
+ "summary": "法国经济在第三季度意外滑入衰退，主要受到夏季极端热浪导致空客等工厂生产放缓以及出口疲软的拖累。",
+ "body": [
+  "法国经济在今年第三季度意外滑入衰退，主要原因是夏季连续的极端热浪拖慢了飞机制造巨头空客（Airbus）等企业的工厂生产，同时出口表现也相当疲软。",
+  "根据《华尔街日报》记者马修·道尔顿（Matthew Dalton）的报道，这场由天气和出口不振引发的经济下滑，直接导致法国这个欧洲重要经济体陷入了负增长的困境。",
+  "对海外华人来说，欧洲经济的疲软不仅会影响欧元汇率，也可能对全球供应链和市场情绪产生连锁反应。在全球经济充满不确定性的当下，大家在投资和资产配置时需要更加谨慎。"
+ ],
+ "tags": [
+  "法国经济",
+  "衰退",
+  "空客",
+  "海外财经"
+ ],
+ "original_title": "French Economy Slips Into Recession as Exports Sag",
+ "lang": "en",
+ "published": "2026-11-27T13:39:00+00:00",
+ "created": "2026-11-27T13:49:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

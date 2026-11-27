@@ -1,0 +1,27 @@
+{
+ "key": "921950e8d5",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/allstate-joins-growing-list-of-companies-hit-by-tech-outages-77dbb488?mod=rss_markets_main",
+ "title": "出行高峰期掉链子！美国大保险公司也遭技术故障",
+ "summary": "美国保险巨头Allstate遭遇持续多天的技术故障，正值一年中最繁忙的出行周，导致客户在急需时无法联系到保险公司。",
+ "body": [
+  "美国保险巨头Allstate（全美保险公司）最近摊上事了，遭遇了持续多天的技术大故障。好死不死，这次故障偏偏赶在了一年中出行最忙碌的假期周，让许多急需联系客服的客户急得直跺脚。",
+  "根据《华尔街日报》的报道，Allstate并不是第一家遭遇技术系统崩溃的大公司。最近一段时间，技术故障频发，已经让不少企业焦头烂额。而对于正准备出门旅游、急需处理保单或意外事故的华人朋友来说，在这个节骨眼上联系不上保险公司，可以说是相当耽误事。",
+  "出门在外，安全第一。建议近期有出行计划的朋友，提前把保险公司的备用联系方式存好，万一遇到紧急情况也能多一条出路。"
+ ],
+ "tags": [
+  "Allstate",
+  "技术故障",
+  "出行高峰",
+  "美国保险",
+  "海外生活"
+ ],
+ "original_title": "Allstate Joins Growing List of Companies Hit by Tech Outages",
+ "lang": "en",
+ "published": "2026-11-27T12:48:00+00:00",
+ "created": "2026-11-27T13:49:57+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
