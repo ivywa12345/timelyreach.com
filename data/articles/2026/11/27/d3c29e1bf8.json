@@ -1,0 +1,25 @@
+{
+ "key": "d3c29e1bf8",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/europe/s-p-revises-outlook-on-french-credit-rating-to-negative-from-stable-eab7384f?mod=rss_worldnews",
+ "title": "法国财政要悬？标普突然下手，信用评级展望被调为“负面”",
+ "summary": "标普全球评级将法国的信用评级展望从“稳定”下调至“负面”，因为不断攀升的公共债务和政治不确定性正威胁着该国的国家财政，这也为未来的评级下调铺平了道路。",
+ "body": [
+  "标普全球评级（S&P Global Ratings）近日宣布，将法国的信用评级展望从“稳定”下调至“负面”，这意味着法国未来面临降级风险。国际评级机构出手的主要原因，是该国日益沉重的公共债务以及挥之不去的政治动荡，正在严重威胁其国家财政健康。"
+ ],
+ "tags": [
+  "法国",
+  "标普",
+  "信用评级",
+  "欧洲经济",
+  "公共债务"
+ ],
+ "original_title": "S&P Revises Outlook on France’s Credit Rating to Negative From Stable",
+ "lang": "en",
+ "published": "2026-11-27T22:08:00+00:00",
+ "created": "2026-11-27T22:41:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

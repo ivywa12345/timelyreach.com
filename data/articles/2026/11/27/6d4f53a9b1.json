@@ -1,0 +1,29 @@
+{
+ "key": "6d4f53a9b1",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/how-to-narrow-americas-racial-wealth-gap-b42134c8?mod=rss_markets_main",
+ "title": "给黑人小孩每人发3万？哈佛教授这个提议炸锅了",
+ "summary": "哈佛大学经济学教授Roland Fryer在《华尔街日报》撰文建议，通过向黑人儿童的投资账户注入3700亿美元来缩小美国的种族财富差距。",
+ "body": [
+  "哈佛大学经济学教授罗兰·弗赖尔（Roland Fryer）近日在《华尔街日报》（The Wall Street Journal）发表观点文章，提出了一项旨在缩小美国种族财富差距的大胆设想：通过向黑人儿童的投资账户注入 **3700亿** 美元，来利用复利带来的长期财富增长效应。",
+  "## 3700亿巨资从哪来",
+  "弗赖尔指出，长期以来的种族财富鸿沟一直是美国社会难以解决的顽疾。他的核心方案是将这笔巨额资金直接投入到黑人儿童的专属投资账户中，让孩子们在成长过程中享受资本市场的复利回报，以此从根本上改变几代人的经济起点。",
+  "## 能否真正解决差距",
+  "对于在美华人来说，这类关于政府财政拨款和种族平等的宏观经济政策往往会引发广泛讨论。它不仅牵涉到纳税人的钱包和联邦预算的分配，也直接关系到美国社会未来的资源平衡与公平竞争环境。"
+ ],
+ "tags": [
+  "种族财富差距",
+  "美国经济",
+  "华尔街日报",
+  "哈佛教授",
+  "社会热点"
+ ],
+ "original_title": "Opinion | How to Narrow America’s Racial Wealth Gap",
+ "lang": "en",
+ "published": "2026-11-27T17:38:00+00:00",
+ "created": "2026-11-27T22:44:27+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

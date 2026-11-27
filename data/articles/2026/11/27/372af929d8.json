@@ -1,0 +1,25 @@
+{
+ "key": "372af929d8",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/em-asia-stocks-set-for-weekly-gain-as-markets-regain-footing",
+ "title": "科技股带头反弹！新兴市场股票迎来6月以来最佳单周表现",
+ "summary": "由于投资者在近期抛售后重新买入科技股，新兴市场股票迎来了6月以来表现最好的一周。",
+ "body": [
+  "本周全球市场经历了一波大起大落，但新兴市场股票在科技股强劲反弹的带动下，成功创下了自今年6月以来的最大单周涨幅。",
+  "随着投资者重返科技板块，此前遭遇抛售的市场情绪明显回暖，这也为近期波动剧烈的全球金融市场注入了一剂强心针。"
+ ],
+ "tags": [
+  "新兴市场",
+  "科技股",
+  "全球股市",
+  "投资理财"
+ ],
+ "original_title": "Emerging-Market Stocks Snag Best Week Since June on Tech Rebound",
+ "lang": "en",
+ "published": "2026-11-27T03:33:48+00:00",
+ "created": "2026-11-27T22:41:50+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,27 @@
+{
+ "key": "dd63ee0437",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
+ "title": "美股黑色星期五收红，美国国债收益率随之走高",
+ "summary": "美国国债收益率在感恩节假期前的回落后实现反弹，随着美股在“黑色星期五”迎来上涨，美元也同步走强。",
+ "body": [
+  "刚刚过去的“黑色星期五（Black Friday）”不仅商场里热闹，金融市场上也是一片红火。随着美国股市迎来上涨，此前在感恩节前有所回落的美国国债收益率迅速反弹，同时美元汇率也表现强势。",
+  "市场分析指出，节假日期间的交易通常会受到假期情绪和零售表现的影响。股市的走高带动了整体市场风险偏好的回升，直接推动了国债收益率的走高，这也反映出投资者对近期经济走向的最新反应。",
+  "对于在美华人来说，国债收益率的波动直接关系到大家的“钱袋子”。**收益率的变动**不仅会影响银行储蓄、房贷利率（如房屋抵押贷款），还会对大家的投资组合和美元汇率产生连锁反应，近期有大额资金调度或买房打算的朋友需要密切关注市场的最新变化。"
+ ],
+ "tags": [
+  "美债收益率",
+  "美股",
+  "黑色星期五",
+  "美元汇率",
+  "海外理财"
+ ],
+ "original_title": "Treasury Yields Gain As U.S. Equities Rally",
+ "lang": "en",
+ "published": "2026-11-27T21:10:00+00:00",
+ "created": "2026-11-27T22:41:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

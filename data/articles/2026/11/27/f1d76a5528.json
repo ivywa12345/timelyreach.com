@@ -1,0 +1,24 @@
+{
+ "key": "f1d76a5528",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/the-times-that-tried-mens-souls-198d8e5d?mod=rss_opinion",
+ "title": "华盛顿和英军当年在新泽西沼泽里齐刷刷“陷车”了？",
+ "summary": "华尔街日报专栏文章回顾了美国独立战争时期的趣事，当时华盛顿的军队和英国军队一同被困在新泽西的泥潭中。",
+ "body": [
+  "当年华盛顿（Washington）的军队和英国军队，竟然十分尴尬地同时被困在了新泽西州（Jersey）的沼泽泥地里动弹不得。这场被称为考验人们灵魂的时期，两军在泥泞中陷入了僵局。"
+ ],
+ "tags": [
+  "历史",
+  "独立战争",
+  "华盛顿",
+  "英国"
+ ],
+ "original_title": "The Times That Tried Men’s Souls",
+ "lang": "en",
+ "published": "2026-11-27T22:37:00+00:00",
+ "created": "2026-11-27T22:41:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

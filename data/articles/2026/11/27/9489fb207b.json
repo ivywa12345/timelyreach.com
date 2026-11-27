@@ -1,0 +1,27 @@
+{
+ "key": "9489fb207b",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
+ "title": "AI用得热火朝天，钱却没赚到？经济学规律失灵了",
+ "summary": "尽管AI的使用量和token消耗量呈爆发式增长，但大模型开发商的营收却没有同步跟上，传统的经济学规律似乎在AI领域失效了。",
+ "body": [
+  "最近科技圈出现了一个让人看不懂的怪现象：大家对人工智能（AI）的使用量在疯狂飙升，但真金白银的花费和收入却好像停滞不前了。按理说，用得越多赚得越多，这回怎么不灵了？",
+  "## 为什么供需规律失灵了",
+  "对于前沿大模型实验室的开发者来说，AI token（也就是他们计算收费的方式）的消费量增加本该是个好消息。然而，现实情况却是，他们并没有从这些暴涨的使用量中捞到等比例的真金白银。",
+  "简单来说，传统的经济学基本规则在AI这波浪潮里遇到了挑战。消费者和企业用得起劲，但底层商业化变现的效率却没有跟上技术爆发的脚步，这让不少靠大模型吃饭的科技巨头和初创公司陷入了叫好不叫座的尴尬境地。"
+ ],
+ "tags": [
+  "人工智能",
+  "科技行业",
+  "商业化",
+  "AI经济"
+ ],
+ "original_title": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
+ "lang": "en",
+ "published": "2026-11-27T15:01:00+00:00",
+ "created": "2026-11-27T22:42:23+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

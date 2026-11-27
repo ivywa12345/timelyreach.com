@@ -1,0 +1,27 @@
+{
+ "key": "580178b767",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/mexican-airport-operator-gap-raises-398-million-for-fibra-trust",
+ "title": "墨西哥机场运营商折腾几个月，靠能源信托募资近4亿美元",
+ "summary": "墨西哥机场运营商 GAP 成功为其能源和基础设施信托基金募资 3.98 亿美元，但金额低于预期且经历了数月延迟。",
+ "body": [
+  "据彭博社报道，墨西哥大型机场运营商太平洋机场集团（Grupo Aeroportuario del Pacifico SAB de CV，简称GAP）近日为其旗下的能源和基础设施信托基金成功筹集了 78亿比索，折合约 **3.98亿美元**。",
+  "## 募资历经波折",
+  "这次募资其实并不顺利，在经历了长达几个月的延误之后，最终的筹资额还是比原本计划的要少。",
+  "目前，拉美地区的基建和能源信托正受到市场关注，GAP 的这次动作也反映了当地企业在资金募集上面临的一些现实挑战。"
+ ],
+ "tags": [
+  "墨西哥",
+  "机场运营",
+  "能源信托",
+  "海外财经"
+ ],
+ "original_title": "Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
+ "lang": "en",
+ "published": "2026-11-27T21:05:05+00:00",
+ "created": "2026-11-27T22:44:33+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

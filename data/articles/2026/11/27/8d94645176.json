@@ -1,0 +1,27 @@
+{
+ "key": "8d94645176",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/americas/canadas-supreme-court-upholds-quebecs-religious-symbols-ban-c1d8371a?mod=rss_worldnews",
+ "title": "公职人员不能戴头巾？加拿大最高法院力挺魁省宗教符号禁令",
+ "summary": "加拿大最高法院近日裁决支持魁北克省的世俗化法律，维持禁止多数公职人员在工作场所佩戴宗教符号的规定，引发广泛关注。",
+ "body": [
+  "加拿大最高法院近日做出裁决，正式支持魁北克省（Quebec）极具争议的“世俗化法律”，维持了禁止大多数公职人员在上班时佩戴如穆斯林头巾、犹太小圆帽等宗教符号的规定。",
+  "这项被称为北美首创的法律在当地社会引发了长期争论。支持者认为这维护了公共机构的世俗化原则，但批评者指出，这严重侵害了少数族裔和宗教群体的基本表达自由与平等权利。",
+  "对于在海外生活的华人来说，这类关于多元文化、宗教自由与政府公权力边界的法律争端并不陌生。它直接关系到不同文化背景的移民在西方社会的职场权益与生存空间，也再次凸显了多元社会在平衡世俗化与包容性时面临的现实挑战。"
+ ],
+ "tags": [
+  "加拿大",
+  "魁北克",
+  "最高法院",
+  "宗教自由",
+  "海外生活"
+ ],
+ "original_title": "Canada’s Supreme Court Upholds Quebec’s Religious-Symbols Ban",
+ "lang": "en",
+ "published": "2026-11-27T19:51:00+00:00",
+ "created": "2026-11-27T22:42:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

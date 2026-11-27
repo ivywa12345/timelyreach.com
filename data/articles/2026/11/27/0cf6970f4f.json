@@ -1,0 +1,25 @@
+{
+ "key": "0cf6970f4f",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/dubais-benchmark-stock-index-erases-wartime-losses-as-banks-property-shares-rise-8b5a7a52?mod=rss_markets_main",
+ "title": "迪拜股市太猛了！直接抹平战时跌幅，本月暴涨近14%",
+ "summary": "迪拜股市基准指数强势反弹，成功超越战争爆发前的水平，本月迄今已录得近14%的涨幅。",
+ "body": [
+  "迪拜股市的复苏速度让人大跌眼镜。在银行股和地产股的强势带领下，当地股市基准指数已经完全抹平了战争带来的所有损失，超越了2月27日（即战争爆发前的最后一个交易日）的收盘水平。",
+  "根据《华尔街日报》（The Wall Street Journal）报道，迪拜股市展现出了极强的韧性。随着资金持续流入，该指数**本月迄今已累计上涨近14%**，成为近期表现亮眼的金融市场之一。"
+ ],
+ "tags": [
+  "迪拜股市",
+  "中东局势",
+  "股票市场",
+  "海外财经"
+ ],
+ "original_title": "Dubai’s Benchmark Stock Index Erases Wartime Losses as Banks, Property Shares Rise",
+ "lang": "en",
+ "published": "2026-11-27T10:16:00+00:00",
+ "created": "2026-11-27T22:43:54+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

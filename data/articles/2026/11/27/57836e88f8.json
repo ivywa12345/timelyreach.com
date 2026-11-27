@@ -1,0 +1,27 @@
+{
+ "key": "57836e88f8",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/nvidia-chips-u-s-export-controls-china-jensen-huang-c457c915?mod=rss_opinion",
+ "title": "美国对华芯片出口管控制度失效？国会准备彻查！",
+ "summary": "最新报道显示中国企业仍能获取高端芯片，华尔街日报编辑委员会呼吁美国国会对此展开调查。",
+ "body": [
+  "最新曝光的报告揭示了一个让美国政界坐立不安的事实：尽管华盛顿层层加码，但中国企业获取美国高端芯片的渠道依然畅通，这套出口管制系统似乎漏洞百出。",
+  "## 漏洞出在哪",
+  "- 监督机制形同虚设，高端芯片依然流入中国市场\n- 现行出口管制政策未能达到预期的拦截效果\n- 供应链环节复杂，给违规转运和规避制裁留下了空间",
+  "这不仅暴动了美国科技出口政策的漏洞，也让长期关注中美科技战和海外合规的华人对未来的政策走向感到担忧，相关监管风暴或将进一步升级。"
+ ],
+ "tags": [
+  "英伟达",
+  "芯片出口管制",
+  "美国国会",
+  "中美科技战"
+ ],
+ "original_title": "Nvidia and Failing U.S. Export Controls",
+ "lang": "en",
+ "published": "2026-11-27T21:52:00+00:00",
+ "created": "2026-11-27T22:43:02+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,25 @@
+{
+ "key": "b50fb8fe7c",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/meloni-seethes-at-zelenskyy-for-not-warning-her-on-libya-strike",
+ "title": "乌克兰在利比亚炸俄舰，意大利总理梅洛尼气炸了！",
+ "summary": "意大利总理梅洛尼与乌克兰总统泽连斯基进行了一场紧张的对话，起因是乌军在利比亚海岸打击俄罗斯船只时，事先完全没有通知意大利或任何盟友。",
+ "body": [
+  "近日，意大利总理焦尔吉娅·梅洛尼（Giorgia Meloni）与乌克兰总统弗拉基米尔·泽连斯基（Volodymyr Zelenskyy）进行了一次火药味十足的对话。起因是乌克兰此前对利比亚海岸附近的俄罗斯船只发动了打击，但事先不仅没有和盟友协调，甚至连一句招呼都没打。",
+  "这让一向在对乌支持上表现积极的意大利感到十分被动和不满。作为地中海核心国家，利比亚局势直接牵动着意大利的安全神经，而盟友的“先斩后奏”显然踩到了罗马方面的红线。目前，双方正试图通过外交渠道平息这场由突发袭击引发的风波。"
+ ],
+ "tags": [
+  "意大利",
+  "乌克兰",
+  "利比亚",
+  "国际新闻"
+ ],
+ "original_title": "Meloni Seethes at Zelenskyy for Not Warning Her on Libya Strike",
+ "lang": "en",
+ "published": "2026-11-27T19:50:52+00:00",
+ "created": "2026-11-27T22:43:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

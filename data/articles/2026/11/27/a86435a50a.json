@@ -1,0 +1,23 @@
+{
+ "key": "a86435a50a",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/americas/canada-posts-current-account-surplus-of-c-4-48-billion-6d4451a7?mod=rss_worldnews",
+ "title": "加拿大连续两个季度实现经常账盈余，四年来头一遭！",
+ "summary": "加拿大国家统计局数据显示，第三季度加拿大录得44.8亿加元的经常账盈余，这是约四年来首次出现连续两个季度盈余，但规模小于市场预期。",
+ "body": [
+  "加拿大经济近期迎来了一个小亮点，根据《华尔街日报》记者Paul Vieira的报道，加拿大在第三季度实现了 **44.8亿加元** 的经常账盈余。这也是大约四年来，该国首次连续两个季度录得经常账盈余，不过实际数据比经济学家预期的要小一些。"
+ ],
+ "tags": [
+  "加拿大经济",
+  "经常账盈余",
+  "海外财经"
+ ],
+ "original_title": "Canada Posts Current-Account Surplus of C$4.48 Billion",
+ "lang": "en",
+ "published": "2026-11-27T14:48:00+00:00",
+ "created": "2026-11-27T22:43:47+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

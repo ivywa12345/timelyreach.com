@@ -1,0 +1,25 @@
+{
+ "key": "60e8e0833b",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister",
+ "title": "巴西总统放大招！请来大咖当财长，雷亚尔创四年最大单周涨幅",
+ "summary": "巴西总统卢拉任命知名银行家担任财政部长，成功安抚了市场情绪，令巴西雷亚尔创下2020年以来的最佳单周表现。",
+ "body": [
+  "巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦（Luiz Inacio Lula da Silva）上个月意外胜选后，其经济政策一度引发市场大跌。不过随着他日前挑选了巴西国内最著名的银行家之一出任财政部长，市场担忧情绪明显缓解，金融市场迎来强劲反弹。",
+  "这不仅让巴西资产摆脱了前期的抛售阴影，也让当地货币雷亚尔（Real）迎来了 **2020年以来表现最好的一周**。资本市场用真金白银表达了对这一重磅人事任命的认可与期待。"
+ ],
+ "tags": [
+  "巴西经济",
+  "雷亚尔",
+  "卢拉",
+  "财经快讯"
+ ],
+ "original_title": "Brazil’s Real Caps Best Week Since 2020 as Trabuco Lifts Mood",
+ "lang": "en",
+ "published": "2026-11-27T01:08:00+00:00",
+ "created": "2026-11-27T22:44:00+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,24 @@
+{
+ "key": "3b91a12f96",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
+ "title": "匈牙利财政要好转？标普上调其评级展望！",
+ "summary": "标普全球评级将匈牙利的主权债务评级展望从负面调至稳定，主要原因是总理彼得·马扎尔内阁计划削减预算赤字并最终采用欧元。",
+ "body": [
+  "标普全球评级（S&P Global Ratings）近日宣布，将匈牙利的主权债务评级展望从**负面调至稳定**。这一转变得益于匈牙利总理彼得·马扎尔（Peter Magyar）内阁计划采取的实际行动，包括削减预算赤字以及为未来最终采用欧元做准备。"
+ ],
+ "tags": [
+  "匈牙利",
+  "标普评级",
+  "经济展望",
+  "欧元区"
+ ],
+ "original_title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+ "lang": "en",
+ "published": "2026-11-27T21:19:31+00:00",
+ "created": "2026-11-27T22:43:08+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

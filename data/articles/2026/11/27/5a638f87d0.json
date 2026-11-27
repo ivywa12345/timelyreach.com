@@ -1,0 +1,28 @@
+{
+ "key": "5a638f87d0",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/precious-metals-rally-as-ai-trade-revives-risk-appetite-86477a98?mod=rss_markets_main",
+ "title": "AI概念又活了？贵金属价格迎来强势反弹",
+ "summary": "由于投资者重新回流人工智能板块带动全球股市反弹，市场风险偏好回升，此前因流动性需求遭抛售的贵金属价格迎来大涨。",
+ "body": [
+  "最近一段时间由于市场流动性需求而遭到抛售的贵金属，终于迎来了喘息的机会。随着投资者重新投向人工智能（AI）板块并推动全球股市回暖，市场的风险偏好明显升温，直接刺激贵金属价格出现了强劲反弹。",
+  "## 市场情绪显著回暖",
+  "华尔街日报（Wall Street Journal）记者 Giulia Petroni 指出，此轮贵金属价格飙升的背后，是投资者风险胃口的重新打开。此前，由于资金面紧张，许多投资者不得不变现资产以满足流动性需求，导致贵金属价格承压。随着 AI 交易热度再次被点燃，全球股市的反弹有效缓解了此类资产的抛售压力。",
+  "对于关注全球资本市场动向的海外华人来说，宏观情绪的这种快速切换往往会直接影响到各类资产的表现。无论是股市还是避险资产的波动，都提醒我们在配置资产时需要密切关注资金流向与市场情绪的变化。"
+ ],
+ "tags": [
+  "贵金属",
+  "人工智能",
+  "全球股市",
+  "华尔街日报",
+  "市场风险"
+ ],
+ "original_title": "Precious Metals Rally as AI Trade Revives Risk Appetite",
+ "lang": "en",
+ "published": "2026-11-27T20:20:00+00:00",
+ "created": "2026-11-27T22:42:49+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
