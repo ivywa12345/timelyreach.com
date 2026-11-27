@@ -1,0 +1,27 @@
+{
+ "key": "146229ca79",
+ "board": "finance",
+ "source_id": "inbox",
+ "source_name": "NoLimit",
+ "source_url": "https://x.com/NoLimitGains/status/2126374946091987417",
+ "title": "彭博追踪序列号发现上海数据中心英伟达芯片",
+ "summary": "彭博社通过贷款文件中的序列号追踪到一台英伟达Blackwell机架，安装在与Alice Huang关联的上海数据中心。",
+ "body": [
+  "彭博社（Bloomberg）在中国发现英伟达（NVDA）芯片的方式确实令人震惊。",
+  "一家中国公司将一台英伟达Blackwell机架用作贷款抵押品，并将其列入提交给监管机构的文件中，其中包括序列号。",
+  "彭博社将该序列号输入一个公开保修数据库，结果显示这是一台由技嘉（Gigabyte）在台湾制造的机架。",
+  "它安装在哪里？一个与Alice Huang有关联的上海数据中心。",
+  "Blackwell芯片进入中国一直需要美国许可证……"
+ ],
+ "tags": [
+  "英伟达",
+  "芯片",
+  "中美经贸"
+ ],
+ "original_title": "",
+ "lang": "zh",
+ "published": "2026-11-27T17:57:47+00:00",
+ "created": "2026-11-27T18:52:28+00:00",
+ "rewriter": "inbox",
+ "show_link": true
+}
