@@ -1,0 +1,27 @@
+{
+ "key": "5977c8d95a",
+ "board": "news",
+ "source_id": "uscis",
+ "source_name": "美国移民局",
+ "source_url": "https://www.uscis.gov/newsroom/alerts/uscis-waives-covid-19-vaccination-requirement-for-adjustment-of-status-applicants",
+ "title": "重磅！绿卡体检免打新冠疫苗了",
+ "summary": "美国移民局（USCIS）宣布，自2025年1月22日起，申请调整身份为合法永久居民（绿卡）的人士，无需再提交接种新冠疫苗的证明文件。",
+ "body": [
+  "正在办理绿卡身份转换（Adjustment of Status）的朋友们迎来了一个好消息：美国移民局（USCIS）近日发布新政，正式取消了绿卡体检中关于接种新冠疫苗的要求。",
+  "根据移民局的规定，从2025年1月22日起，申请人在提交I-693表（移民体检和疫苗记录报告）时，**不再需要提供接种过新冠疫苗的证明**。",
+  "同时，移民局明确表示，不会再因为申请人缺少新冠疫苗接种证明而发出补件通知（RFE）或拒绝意向书（NOID），更不会以此为由拒绝任何绿卡申请。这项调整能为近期准备体检和交表的华人申请者省去不少麻烦和额外流程。"
+ ],
+ "tags": [
+  "美国移民",
+  "绿卡体检",
+  "USCIS",
+  "新冠疫苗",
+  "移民政策"
+ ],
+ "original_title": "USCIS Waives COVID-19 Vaccination Requirement for Adjustment of Status Applicants",
+ "lang": "en",
+ "published": "2025-01-22T23:12:54+00:00",
+ "created": "2026-11-27T19:42:21+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

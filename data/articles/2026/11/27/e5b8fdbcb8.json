@@ -1,0 +1,25 @@
+{
+ "key": "e5b8fdbcb8",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/treasuries-retreat-as-gains-in-equities-sap-demand-for-havens",
+ "title": "股市大涨避险情绪降温，美债刚过完节就迎风下跌",
+ "summary": "感恩节假期刚过，美国国债市场重新开盘，由于股市上涨削弱了投资者对避险资产的需求，美债价格出现下跌。",
+ "body": [
+  "感恩节假期刚过，美国国债市场在当地时间恢复交易。受股市上涨的带动，市场上的避险情绪明显降温，投资者对美债这类传统避险资产的需求随之减少，导致美债价格出现回落。",
+  "根据彭博社（Bloomberg）记者 Elizabeth Stanton 和 Liau Y-Sing 的报道，此次美债下跌的直接诱因是权益类资产（股票）的走强，这吸走了原本流向避险市场的资金，使得美债遭到抛售。"
+ ],
+ "tags": [
+  "美债",
+  "股市",
+  "财经",
+  "避险资产"
+ ],
+ "original_title": "Treasuries Drop as Stock Rise Saps Demand for Haven Bonds",
+ "lang": "en",
+ "published": "2026-11-27T02:43:08+00:00",
+ "created": "2026-11-27T19:40:17+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

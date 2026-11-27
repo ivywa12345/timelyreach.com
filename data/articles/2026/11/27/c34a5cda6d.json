@@ -1,0 +1,25 @@
+{
+ "key": "c34a5cda6d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/copper-rebounds-from-11-month-low-on-return-of-risk-appetite",
+ "title": "铜价创7个月最大单日涨幅！这波反弹是怎么回事？",
+ "summary": "由于市场风险偏好回暖，铜价录得自4月以来的最大单日涨幅，从本周早些时候触及的11个月低位强劲反弹。",
+ "body": [
+  "本周铜价迎来了一次扬眉吐气的反弹！由于市场风险偏好重新回暖，铜价创下了自4月以来的最大单日涨幅，成功从本周早些时候跌至的**11个月低位**中拉升回来。",
+  "在此之前，市场曾经历了一波因人工智能（AI）交易担忧情绪引发的抛售潮，导致包括铜在内的多种资产承压。不过随着恐慌情绪消退，资金重新流入风险资产，带动铜价强劲反弹。"
+ ],
+ "tags": [
+  "铜价",
+  "国际金融",
+  "市场动态",
+  "彭博社"
+ ],
+ "original_title": "Copper Surges Most in Seven Months as Risk Appetite Returns",
+ "lang": "en",
+ "published": "2026-11-27T03:33:07+00:00",
+ "created": "2026-11-27T19:41:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

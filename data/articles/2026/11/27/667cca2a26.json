@@ -1,0 +1,25 @@
+{
+ "key": "667cca2a26",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0?mod=rss_markets_main",
+ "title": "美股期指强势反弹！AI板块要满血复活了？",
+ "summary": "受人工智能板块有望反弹带动，周五短交易日盘前美股期指集体走高，纳斯达克期指更是大涨2%。",
+ "body": [
+  "周五（美国时间）短交易日开盘前，美股期指迎来集体上涨，其中纳斯达克期指涨幅达到 **2%**，标普500指数和道琼斯工业平均指数相关的合约也均呈现上升势头。",
+  "根据《华尔街日报》记者 Joe Stonor 的报道，这次期指上涨主要是因为市场预期之前热门的人工智能（AI）交易即将迎来反弹。对于关注美股走势和科技股投资的华人群体来说，这无疑给近期震荡的市场注入了一剂强心针，相关科技板块的动向依然是大家资产配置需要紧密盯防的风向标。"
+ ],
+ "tags": [
+  "美股",
+  "人工智能",
+  "纳斯达克",
+  "财经新闻"
+ ],
+ "original_title": "Stock Futures Jump as AI Trade Set for Rebound",
+ "lang": "en",
+ "published": "2026-11-27T13:46:00+00:00",
+ "created": "2026-11-27T19:43:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

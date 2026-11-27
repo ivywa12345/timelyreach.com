@@ -1,0 +1,31 @@
+{
+ "key": "d2aa545b6c",
+ "board": "finance",
+ "source_id": "cnbc",
+ "source_name": "CNBC",
+ "source_url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+ "title": "AI代购正火，为什么各大电商巨头却纷纷关门谢客？",
+ "summary": "各大科技公司推出的AI代购代理（Agent）本想帮用户省去网购麻烦，但却遭到了亚马逊等电商巨头的集体抵制和技术限制，导致目前的AI购物体验十分混乱，成败参半。",
+ "body": [
+  "OpenAI、Meta、谷歌等科技巨头最近纷纷推出了能帮用户自动下单的AI购物代理（AI shopping agents），但由于各大电商平台的限制和技术漏洞，用户的实际网购体验常常翻车。",
+  "## 权限乱象与巨头封杀",
+  "虽然沃尔玛和丝芙兰等零售商对AI代购持开放态度，但很多平台却在筑起高墙。亚马逊不仅完全屏蔽了多款AI代理，还曾起诉初创公司Perplexity；与此同时，Coach和Gap只允许AI浏览却不能结账，Target甚至会“误杀”合法的购物代理。Visa最近的一项研究显示，在测试中AI代理的失败率高达 **43%**。",
+  "> 坦率地说，现在最靠谱的途径还是你自己去亚马逊下单。——Meta AI代理 Muse",
+  "## 责任归属与安全隐患",
+  "除了买错商品或遇到诈骗网站，责任划分也是一大难题。金融机构和零售商对AI代购态度谨慎，百思买（Best Buy）明确表示，如果AI代购出错，责任依然由用户承担，因为交易被视为“你亲自操作的”。不过，摩根大通（JPMorgan Chase）等机构则直接出于安全考虑，屏蔽了外部AI代理的操作。",
+  "麦肯锡等机构预测，到2030年，美国的AI代购市场规模有望达到 **1万亿美元**。但目前这仍然是一个小众工具，全球电商交易额中仅有 **0.4%** 来自AI代理。对于海外华人来说，虽然AI代购在处理黑五打折或寻找断货商品时很诱人，但现阶段由于规则混乱和售后扯皮风险，网购时最好还是亲自动手，以免贪图方便反而踩了雷。"
+ ],
+ "tags": [
+  "AI代购",
+  "亚马逊",
+  "网购",
+  "人工智能",
+  "海外消费"
+ ],
+ "original_title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+ "lang": "en",
+ "published": "2026-11-27T16:43:14+00:00",
+ "created": "2026-11-27T19:40:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

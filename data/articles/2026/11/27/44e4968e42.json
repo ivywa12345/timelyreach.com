@@ -1,0 +1,22 @@
+{
+ "key": "44e4968e42",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/dangerous-nor-easter-storm-triggers-widespread-power-outages",
+ "title": "飓风离开东海岸后，停电和洪涝风险依然存在",
+ "summary": "感恩节当天，一场猛烈的风暴在皇后区和曼哈顿连根拔起树木，并淹没了新泽西州的通勤铁路，导致东海岸沿线的40多万户家庭和企业停电。",
+ "body": [
+  "感恩节当天，一场猛烈的风暴在皇后区和曼哈顿连根拔起树木，并淹没了新泽西州的通勤铁路，导致东海岸沿线的40多万户家庭和企业停电。",
+  "（以上为彭博社内容摘译，详情请看原文。欢迎在下面跟帖讨论！）"
+ ],
+ "tags": [
+  "彭博社"
+ ],
+ "original_title": "Power Outages, Flood Risks Linger as Storm Leaves East Coast",
+ "lang": "en",
+ "published": "2026-11-27T14:20:06+00:00",
+ "created": "2026-11-27T19:43:54+00:00",
+ "rewriter": "free-translate",
+ "show_link": true
+}

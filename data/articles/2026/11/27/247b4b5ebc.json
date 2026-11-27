@@ -1,0 +1,27 @@
+{
+ "key": "247b4b5ebc",
+ "board": "finance",
+ "source_id": "marketwatch",
+ "source_name": "MarketWatch",
+ "source_url": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+ "title": "美股大涨背后的隐忧：周末读物给我们提了个醒",
+ "summary": "MarketWatch专栏作家Philip van Doorn分享了本周美股大涨背后的警告，并带来了医保注册、防范网购诈骗及婚姻理财等实用建议。",
+ "body": [
+  "本周美股市场上演了一波强劲的上涨行情，但市场分析人士却提醒投资者需要保持警惕，注意繁荣背后的潜在风险。",
+  "## 实用生活与理财指南",
+  "- 重要的红蓝卡（Medicare）注册技巧与注意事项\n- 教你如何火眼金睛识别各类网络购物诈骗\n- 来自理财专栏 The Moneyist 的婚姻与金钱建议",
+  "对于海外华人来说，无论是资产配置还是日常生活中的防骗与福利申请，都需要时刻关注专业人士的提醒，守好自己的钱袋子。"
+ ],
+ "tags": [
+  "美股",
+  "理财防骗",
+  "海外生活",
+  "医保注册"
+ ],
+ "original_title": "The warnings behind this week’s stock-market rally",
+ "lang": "en",
+ "published": "2026-11-27T18:40:00+00:00",
+ "created": "2026-11-27T19:42:14+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
