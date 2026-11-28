@@ -1,0 +1,25 @@
+{
+ "key": "bbb348cc29",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-28/nigeria-central-bank-plans-2027-launch-of-repo-and-swap-markets",
+ "title": "尼日利亚央行大动作！计划2027年推出回购和互换市场",
+ "summary": "尼日利亚中央银行计划在2027年第一季度推出回购和隔夜指数互换市场，旨在加强流动性管理并改善货币政策传导。",
+ "body": [
+  "尼日利亚中央银行（Central Bank of Nigeria）近日宣布，计划在**2027年第一季度**正式启动回购（repo）和隔夜指数互换市场。",
+  "此举的核心目的是为了进一步加强该国的流动性管理，并确保国家的货币政策决定能够更有效、更顺畅地传导到整个金融系统中去。"
+ ],
+ "tags": [
+  "尼日利亚",
+  "央行",
+  "金融市场",
+  "流动性管理"
+ ],
+ "original_title": "Nigeria Central Bank Plans 2027 Launch of Repo and Swap Markets",
+ "lang": "en",
+ "published": "2026-11-28T14:39:36+00:00",
+ "created": "2026-11-28T16:52:19+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "419616c444",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-28/norway-s-wealth-fund-again-votes-no-to-musk-s-tesla-pay-package",
+ "title": "又投反对票！挪威主权财富基金拒绝马斯克的天价薪酬",
+ "summary": "挪威规模达2.2万亿美元的主权财富基金宣布，将在下周的特斯拉年度股东大会上，继续对埃隆·马斯克的2025年薪酬方案投反对票。",
+ "body": [
+  "特斯拉（Tesla Inc.）的股东大会下周即将召开，而手握巨资的大股东已经提前亮明了态度。据彭博社报道，管理着 **2.2万亿美元** 资产的挪威主权财富基金（Norway's sovereign wealth fund）公开表示，他们将再次对首席执行官埃隆·马斯克（Elon Musk）的最新薪酬方案投下反对票。",
+  "这并非该基金第一次对马斯克的薪酬说“不”。此前，这家全球最大的主权财富基金就曾对马斯克引发巨大争议的巨额薪酬计划表达过立场，其对公司治理和高管薪酬合理性的担忧一直没有改变。",
+  "作为特斯拉的重要机构投资者，挪威主权财富基金的这一举动备受市场关注。虽然这不一定会直接决定投票结果，但它反映了部分大型机构对科技巨头高管激励机制的持续审视与质疑。"
+ ],
+ "tags": [
+  "特斯拉",
+  "埃隆马斯克",
+  "挪威主权财富基金",
+  "美股"
+ ],
+ "original_title": "Norway’s Wealth Fund Again Votes No to Musk’s Tesla Pay Package",
+ "lang": "en",
+ "published": "2026-11-28T10:15:53+00:00",
+ "created": "2026-11-28T16:55:22+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

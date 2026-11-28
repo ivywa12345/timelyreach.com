@@ -1,0 +1,26 @@
+{
+ "key": "3346525406",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/28/us-news/two-earthquakes-hit-california-overnight-saturday/",
+ "title": "加州周末连环地震！一晚上晃两回，震级还在往上升",
+ "summary": "加州中部在周五晚至周六凌晨接连发生两起3级左右的地震，且震级比过去几周的2级地震有所增强，引发当地居民关注。",
+ "body": [
+  "加州的小伙伴们最近是不是觉得屁股底下的椅子总在晃？就在周五晚上到周六凌晨短短几个小时里，加州中部接连发生了**两起3级左右**的地震，而且震级比最近几周频繁出现的2级小地震还要猛一些。",
+  "根据美国地质调查局（USGS）的数据，这两次地震具体情况如下：\n- 周五晚上7点左右，圣卢卡斯（San Lucas）附近发生 **3.2级** 地震，不少居民表示有震感。\n- 周六早上5点左右，赫奇赫奇水库（Hetch Hetchy Reservoir）西北偏北16公里处发生 **3.0级** 地震。",
+  "值得注意的是，这波地震之前，加州周边已经很不平静了。不久前，下加利福尼亚州（Baja California Sur）海岸刚刚发生了一场 5.7 级的大地震，南加州的海滩城市（如曼哈顿海滩和橙县）最近几天也频繁遭到 3.2 级和 3.3 级的小地震袭击。对于身处地震带的加州华人来说，平时还是得把应急包和防震意识准备好，以防万一。"
+ ],
+ "tags": [
+  "加州地震",
+  "海外生活",
+  "安全警示",
+  "自然灾害"
+ ],
+ "original_title": "Two earthquakes jolt California overnight Saturday as rumblings increase in size",
+ "lang": "en",
+ "published": "2026-11-28T15:44:11+00:00",
+ "created": "2026-11-28T16:54:56+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

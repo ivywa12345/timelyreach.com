@@ -1,0 +1,25 @@
+{
+ "key": "3d31875c3a",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-28/ukraine-says-it-hit-novoshakhtinsk-refinery-in-southern-russia",
+ "title": "俄乌战火再烧！乌军导弹突袭罗斯托夫炼油厂",
+ "summary": "乌克兰总参谋部表示，乌军成功袭击了位于俄罗斯南部罗斯托夫州的独立炼油厂，并引发了一场大火。",
+ "body": [
+  "乌克兰军方近日又有大动作！根据乌克兰总参谋部在社交平台 Telegram 上发布的消息，乌军近日对位于俄罗斯南部罗斯托夫州（Rostov）的诺沃沙赫特金斯克（Novoshakhtinsk）独立炼油厂发动了攻击，袭击并直接引发了该设施的一场大火。",
+  "近年来，随着俄乌冲突持续升级，俄罗斯本土的能源基础设施频繁成为乌军无人机和导弹打击的目标。通过打击炼油厂等关键设施，乌方意在削弱俄军的燃油供应能力和后勤保障。"
+ ],
+ "tags": [
+  "俄乌冲突",
+  "炼油厂",
+  "俄罗斯",
+  "乌克兰"
+ ],
+ "original_title": "Ukraine Says It Hit Novoshakhtinsk Refinery in Southern Russia",
+ "lang": "en",
+ "published": "2026-11-28T16:18:32+00:00",
+ "created": "2026-11-28T16:53:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

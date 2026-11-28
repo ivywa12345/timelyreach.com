@@ -1,0 +1,27 @@
+{
+ "key": "bc3635818a",
+ "board": "news",
+ "source_id": "economist-world",
+ "source_name": "经济学人",
+ "source_url": "https://www.economist.com/united-states/2026/11/28/checks-and-balance-newsletter-how-gta-helped-build-the-ai-revolution",
+ "title": "打游戏怎么就成了美国AI霸业的幕后功臣？",
+ "summary": "《经济学人》执行主编John Prideaux探讨了电子游戏产业如何为美国后来的AI革命奠定了意想不到的技术基础。",
+ "body": [
+  "你可能想不到，今天席卷全球的AI革命，竟然跟平时玩的电子游戏有着千丝万缕的联系。《经济学人》（The Economist）执行主编约翰·普赖多斯（John Prideaux）近日撰文，揭秘了美国科技霸权背后那些鲜为人知的“跨界”起源。",
+  "## 意想不到的技术渊源",
+  "文章指出，游戏产业在过去几十年里对图形处理器（GPU）和并行计算能力的巨大需求，恰恰为后来的机器学习和人工智能发展铺平了道路。当年为了让游戏画面更逼真、运行更流畅而砸进去的真金白银，无意中催生了如今训练大模型不可或缺的底层算力。",
+  "对于关注科技浪潮的海外华人来说，无论是身处IT行业还是关心子女未来教育方向，底层硬件和计算能力的演进始终是职业发展和资产配置的重要风向标。当年游戏行业的野蛮生长，最终竟成了撬动AI时代的金钥匙。"
+ ],
+ "tags": [
+  "人工智能",
+  "电子游戏",
+  "科技发展",
+  "经济学人"
+ ],
+ "original_title": "Checks and Balance newsletter: How GTA helped build the AI revolution",
+ "lang": "en",
+ "published": "2026-11-28T11:14:32+00:00",
+ "created": "2026-11-28T16:52:13+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

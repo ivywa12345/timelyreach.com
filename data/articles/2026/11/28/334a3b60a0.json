@@ -1,0 +1,25 @@
+{
+ "key": "334a3b60a0",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/personal-finance/long-term-care-insurance-is-it-worth-it-d1e9f610?mod=rss_markets_main",
+ "title": "曾经的养老救命稻草，怎么成了美国老人的噩梦？",
+ "summary": "长期护理保险（Long-Term-Care Insurance）本该为美国老人的晚年生活提供保障，但由于保险公司精算失误，许多保单持有人反倒陷入了财务困境。",
+ "body": [
+  "许多原本指望通过长期护理保险安度晚年的美国老人发现，自己买的保险不仅没有带来安心，反而变成了一场挥之不去的噩梦，核心原因在于很多保险公司当年把数学账目算错了。",
+  "这类保险最初在市场上推广时，被包装成解决高昂护理费用的灵丹妙药，专门用来宽慰那些担心年老后无力支付照护成本的民众。然而事与愿违，大批保险公司在长期的资金盘算上出现了严重偏差，导致后续承诺的兑现出了大问题，让投保人叫苦不迭。"
+ ],
+ "tags": [
+  "长期护理保险",
+  "美国养老",
+  "海外生活",
+  "保险陷阱"
+ ],
+ "original_title": "Long-Term-Care Insurance Promised Them Peace of Mind. It Became a Nightmare.",
+ "lang": "en",
+ "published": "2026-11-28T10:00:00+00:00",
+ "created": "2026-11-28T16:53:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

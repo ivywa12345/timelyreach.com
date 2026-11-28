@@ -1,0 +1,26 @@
+{
+ "key": "e15c366976",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/gold-fortunes-tied-to-stocks-in-near-term-42ce98be?mod=rss_markets_main",
+ "title": "金银价格突然大涨！这波行情你看懂了吗？",
+ "summary": "受亚洲股市和美国股指期货上涨的带动，市场情绪回暖，推动黄金和白银价格出现强劲上涨。",
+ "body": [
+  "近期贵金属市场迎来一波亮眼行情，黄金和白银价格双双大幅走高。分析指出，这主要是因为整体市场情绪正在逐步改善，给贵金属带来了强劲支撑。",
+  "从盘面表现来看，亚洲股市的集体走强以及美国股指期货的上涨，是这波黄金和白银价格上涨的主要推手。在风险偏好回暖的背景下，贵金属依然表现出不俗的吸金能力，吸引了大量资金入场。"
+ ],
+ "tags": [
+  "黄金",
+  "白银",
+  "贵金属",
+  "市场情绪",
+  "美股期货"
+ ],
+ "original_title": "Gold, Silver Rally as Market Sentiment Improves",
+ "lang": "en",
+ "published": "2026-11-27T05:59:00+00:00",
+ "created": "2026-11-28T16:55:15+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

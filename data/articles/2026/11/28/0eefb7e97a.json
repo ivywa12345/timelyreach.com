@@ -1,0 +1,26 @@
+{
+ "key": "0eefb7e97a",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-28/india-s-sebi-weighs-exchange-platform-for-pre-ipo-shares",
+ "title": "印度证监会放大招？正考虑为准IPO股票搭建官方交易平台",
+ "summary": "印度证券交易委员会（SEBI）正在考虑推出一个专门的交易平台，旨在规范和整治企业首次公开募股（IPO）前的灰色市场交易。",
+ "body": [
+  "印度资本市场正在酝酿新动作！据彭博社报道，印度证券交易委员会（SEBI）目前正在认真考虑推出一个专门的交易平台。这个举动背后的核心目的，是为了出手整治那些在公司正式上市前私下交易的“灰色市场”。",
+  "一直以来，很多即将进行首次公开募股（IPO）的公司股票，都会在非官方的灰色市场（grey market）里提前流通，存在不小的监管盲区和投资风险。监管部门此举，就是希望能把这部分地下交易纳入正规监管框架，保护投资者利益并保障市场公平。",
+  "虽然目前该计划还在评估和讨论阶段，但外界普遍认为，如果这一专门平台最终落地，将对印度的拟上市公司及一级半市场产生深远影响，有望大幅提升市场透明度。"
+ ],
+ "tags": [
+  "印度股市",
+  "IPO",
+  "证券监管",
+  "金融市场"
+ ],
+ "original_title": "India’s SEBI Weighs Exchange Platform for Pre-IPO Shares",
+ "lang": "en",
+ "published": "2026-11-28T11:56:38+00:00",
+ "created": "2026-11-28T16:53:38+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

@@ -1,0 +1,26 @@
+{
+ "key": "352d8d1b0c",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-fall-as-front-month-shifts-to-january-3b1ef621?mod=rss_markets_main",
+ "title": "气温预报变暖，美国天然气期货大跌4.5%",
+ "summary": "受近期天气预测将转暖的影响，美国天然气期货价格在作为主力合约的首个交易日遭遇下跌。",
+ "body": [
+  "近期准备开暖气的华人朋友可能要松口气了，因为美国天然气价格迎来了一波明显下跌。根据《华尔街日报》（Wall Street Journal）报道，由于短期天气预报显示气温将比预期温和，美国天然气期货在周一迎来了首个作为主力合约的交易日，价格遭遇了明显的下滑。",
+  "具体来看，纽约商品交易所（Nymex）交割的1月天然气期货合约盘面大跌了 **4.5%**，最终结算价跌至每百万英热单位 **$3.491美元**。这也是该合约正式成为主力合约后的第一天交易表现。",
+  "对于在美华人来说，天然气期货价格的回落通常是一个好兆头。随着取暖季的到来，天然气价格直接关系到家里的水电煤气账单。虽然短期内气温偏暖缓解了能源压力，但冬季天气变化莫测，大家的保暖支出仍需根据后续的气候情况合理规划。"
+ ],
+ "tags": [
+  "天然气",
+  "能源价格",
+  "美国经济",
+  "生活成本"
+ ],
+ "original_title": "U.S. Natural Gas Futures Fall on Milder Near-Term Weather Outlook",
+ "lang": "en",
+ "published": "2026-11-27T20:44:00+00:00",
+ "created": "2026-11-28T16:54:30+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

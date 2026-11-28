@@ -1,0 +1,26 @@
+{
+ "key": "7b894838f7",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-28/modi-nears-majority-needed-to-increase-india-s-parliament-seats",
+ "title": "莫迪扩建印度国会法案稳了？关键地方党派突然倒戈",
+ "summary": "印度总理莫迪推动的扩大国会席位争议法案迎来重大进展，随着一个关键地方反对党宣布支持，该法案距离通过所需多数票已越来越近。",
+ "body": [
+  "彭博社（Bloomberg）报道称，印度总理纳伦德拉·莫迪（Narendra Modi）政府在推动一项备受争议的扩大印度国会规模法案时取得了关键突破，因为一个地区性的反对党已经公开宣布支持该立法。",
+  "这项扩建国会的计划长期以来备受关注，一旦获得通过，将对印度的政治格局产生深远影响。目前，随着该反对党的加入，莫迪政府已经**更接近获得国会多数席位**所需的关键支持。",
+  "分析人士指出，虽然该法案的具体细节和最终表决时间仍有待观察，但这一政治转向意味着莫迪在推进其核心政治议程时少了一个巨大的阻碍。"
+ ],
+ "tags": [
+  "印度政治",
+  "莫迪",
+  "国会扩建",
+  "海外热点"
+ ],
+ "original_title": "Modi Nears Majority Needed to Increase India’s Parliament Seats",
+ "lang": "en",
+ "published": "2026-11-28T10:17:39+00:00",
+ "created": "2026-11-28T16:54:43+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

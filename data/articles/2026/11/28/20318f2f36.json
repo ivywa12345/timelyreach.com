@@ -1,0 +1,24 @@
+{
+ "key": "20318f2f36",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/articles/news-quiz-for-nov-28-2026-62cce1b4?mod=rss_worldnews",
+ "title": "华尔街日报每周新闻小测验上线，来测测你对本周大事了解多少！",
+ "summary": "华尔街日报发布了2026年11月28日当周的新闻小测验，邀请读者测试自己对过去一周重大事件的了解程度。",
+ "body": [
+  "《华尔街日报》（The Wall Street Journal）近日推出了最新一期的新闻小测验，让读者通过答题来回顾和检验自己对近期国内外时政与经济大事的掌握情况。",
+  "如果你平时有关心新闻、喜欢了解时事动态，不妨去挑战一下，看看自己是不是名副其实的“消息灵通人士”。"
+ ],
+ "tags": [
+  "华尔街日报",
+  "新闻测验",
+  "时事热点"
+ ],
+ "original_title": "News Quiz for Nov. 28, 2026",
+ "lang": "en",
+ "published": "2026-11-28T11:00:00+00:00",
+ "created": "2026-11-28T16:53:11+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
