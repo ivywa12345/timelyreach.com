@@ -1,0 +1,29 @@
+{
+ "key": "d2d6221758",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/stocks/us-stock-market-wealth-0caf5bac?mod=rss_markets_main",
+ "title": "跌成这样还在买？美国人对股市的痴迷创下历史新高！",
+ "summary": "尽管美股市场经历了一波令人头晕目眩的下跌，但美国投资者对股票基金的热情丝毫未减，资金持续涌入，目前美国人对股市的敞口达到了历史最高水平。",
+ "body": [
+  "华尔街日报（Wall Street Journal）记者Gunjan Banerji报道指出，近期美国股市虽然遭遇了动荡下跌，但资金并没有从股市逃离，反而出现了一波持续不断的股票基金投资浪潮。",
+  "## 散户越跌越买",
+  "过去几年和近期市场调整期间，普通美国投资者展现出了极大的韧性甚至“越跌越买”的冲劲。这种对股票资产的前所未有的大规模暴露，意味着千家万户的财富已经深度绑定在资本市场的风浪之中。",
+  "## 对华人的启示",
+  "对于在美华人来说，这种全民炒股的热潮反映了美国储蓄和投资习惯的深刻变化。当整个社会对股市的敞口达到历史高位时，市场的每一次大起大落都将更加直接地牵动大家的退休账户和投资钱包，资产配置的风险管理也变得比以往任何时候都更加重要。"
+ ],
+ "tags": [
+  "美股",
+  "投资理财",
+  "华尔街日报",
+  "资产配置",
+  "美国经济"
+ ],
+ "original_title": "Americans Are More Exposed to the Stock Market Than Ever Before",
+ "lang": "en",
+ "published": "2026-11-28T02:00:00+00:00",
+ "created": "2026-11-28T07:43:40+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

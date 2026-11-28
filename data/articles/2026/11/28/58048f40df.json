@@ -1,0 +1,26 @@
+{
+ "key": "58048f40df",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/banking/citigroups-35-billion-bookkeeping-snafu-sparks-shake-up-in-upper-ranks-71d8afe9?mod=rss_markets_main",
+ "title": "花旗350亿美元账目大乌龙！高管大换血，伦敦多名高层走人",
+ "summary": "花旗银行因350亿美元的账目混乱引发高管层大地震，多名驻伦敦的高管即将离职，目前正由高级风险官接手清理交易枢纽的烂摊子。",
+ "body": [
+  "近日，华尔街金融巨头花旗集团（Citigroup）因为高达 **350亿美元** 的账目乌龙事件，迎来了高层大地震，多名驻伦敦的高管纷纷离职。",
+  "这起严重的账目混乱发生在该行的交易枢纽，目前花旗的一位顶级风险管理官员正在亲自监督并收拾残局。此次人事变动涉及多位关键岗位的伦敦高管，显示出管理层对这一重大失误的震怒与整顿决心。"
+ ],
+ "tags": [
+  "花旗银行",
+  "华尔街",
+  "金融监管",
+  "高管离职",
+  "海外财经"
+ ],
+ "original_title": "Citigroup’s $35 Billion Bookkeeping Snafu Sparks Shake-Up in Upper Ranks",
+ "lang": "en",
+ "published": "2026-11-28T01:44:00+00:00",
+ "created": "2026-11-28T07:44:58+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

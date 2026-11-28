@@ -1,0 +1,26 @@
+{
+ "key": "da84e34885",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/banking/jpmorgan-plans-a-private-club-for-well-heeled-clients-in-a-1930s-branch-c609a03c?mod=rss_markets_main",
+ "title": "摩根大通要在老银行里开私人会所？只有顶级富豪能进！",
+ "summary": "摩根大通正在将一栋建于20世纪30年代的历史建筑改造为高端私人会所，配备休息室、餐厅和酒吧，专门服务富裕客户。",
+ "body": [
+  "摩根大通（JPMorgan Chase）计划把一处有着悠久历史的老银行大楼，改造成一个只对高端富裕客户开放的豪华私人会所。",
+  "根据城市规划文件显示，这栋带有豪宅风格的历史建筑目前正在进行全面翻新。改造后的空间将包括专属的休息室、正式餐厅、独立厨房以及酒吧，旨在为高净值客户提供一个私密且高端的社交与商务场所。",
+  "近年来，各大华尔街金融巨头都在积极拓展针对富裕阶层的专属体验服务。这类私人会所不仅能进一步绑定高净值客户的资产，也折现出金融机构在激烈的市场竞争中，越来越注重提供定制化的线下生活方式服务。"
+ ],
+ "tags": [
+  "摩根大通",
+  "私人会所",
+  "富裕客户",
+  "华尔街"
+ ],
+ "original_title": "JPMorgan Plans a Private Club for Well-Heeled Clients in a 1930s Branch",
+ "lang": "en",
+ "published": "2026-11-28T00:00:00+00:00",
+ "created": "2026-11-28T07:46:09+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

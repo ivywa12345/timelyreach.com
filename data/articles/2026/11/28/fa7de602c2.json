@@ -1,0 +1,32 @@
+{
+ "key": "fa7de602c2",
+ "board": "finance",
+ "source_id": "zerohedge",
+ "source_name": "ZeroHedge",
+ "source_url": "https://www.zerohedge.com/ai/holy-sht-top-computer-scientist-warns-ai-labs-hiding-bombshells-could-shatter-encryption",
+ "title": "AI实验室藏着惊天炸弹？知名学者警告：全球加密或被瞬间破解",
+ "summary": "德克萨斯大学奥斯汀分校的知名理论计算机科学家斯科特·阿伦森（Scott Aaronson）发出警告，称AI在数学和密码学领域的突破速度惊人，OpenAI和Anthropic等实验室可能正掌握着能颠覆全球加密体系的“重磅炸弹”。",
+ "body": [
+  "德克萨斯大学奥斯汀分校（University of Texas at Austin）的知名理论计算机科学家斯科特·阿伦森（Scott Aaronson）近日在博客中连发粗口警告，称人工智能在数学领域的发现速度正在呈指数级加速，甚至让他觉得这已经有了“AI奇点”降临的感觉。他透露，各大顶尖AI实验室可能正在捂着几个足以颠覆世界的秘密。",
+  "## 加密安全面临威胁",
+  "阿伦森在题为一连串粗口的博客文章中爆料称，根据多个可靠消息来源，OpenAI和Anthropic等AI巨头在攻克数学难题的速度快得惊人，部分突破甚至直接被扔上了GitHub，连传统的新闻发布都省了。最让人坐立不安的是密码学领域——现代社会的加密技术支撑着从加密货币钱包、银行交易到政府机密通信的一切安全。",
+  "> “我几乎可以肯定，从多个可靠消息来源来看，各大AI实验室现在正手握该领域的一个或多个重磅炸弹。”阿伦森这样声称。",
+  "不过他也坦言，自己并没有亲眼见过这些突破的具体细节，也没有去猜测究竟哪些加密系统会面临危险。除了密码学，AI现在还在接连破解困扰人类数代研究人员的基础数学难题。过去需要数年挤牙膏似推进的研究，现在直接就被AI给出了答案。他举例称，研究者Yupan Liu利用AI辅助证明复杂性理论的结果，在如今已经变得极其稀松平常，甚至不会让人多挑一下眉毛。",
+  "## 紧绷的网络安全神经",
+  "值得注意的是，阿伦森发出这番警告的背景，正值美国多起科技故障和网络安全事件频发之际。包括微软（Microsoft）、亚马逊云科技（Amazon Web Services）、摩根大通（JPMorgan Chase）以及国家安全局（NSA）在内的多家美国重量级机构和企业近期都遭遇了服务中断，中央情报局（CIA）、联邦调查局（FBI）和国土安全部也受到了独立网络安全事件的打击。",
+  "虽然目前官方尚未证实这些技术故障与AI驱动的密码学突破之间有直接联系，但在美华人的网络安全、资产钱包以及个人隐私未来是否会因此受到冲击，无疑成为了大家不得不防的潜在隐患。"
+ ],
+ "tags": [
+  "人工智能",
+  "密码学",
+  "网络安全",
+  "OpenAI",
+  "科技新闻"
+ ],
+ "original_title": "\"HOLY SH*T\": Top Computer Scientist Warns AI Labs Hiding \"Bombshells\" That Could Shatter Encryption Worldwide",
+ "lang": "en",
+ "published": "2026-11-28T04:30:00+00:00",
+ "created": "2026-11-28T07:47:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

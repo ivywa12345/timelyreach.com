@@ -1,0 +1,28 @@
+{
+ "key": "9f3a30b169",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/fcc-disney-brendan-carr-lawsuit-loren-alikhan-de27f8cf?mod=rss_opinion",
+ "title": "迪士尼赢了！法官裁定FCC威胁ABC违宪",
+ "summary": "联邦法官裁定美国联邦通信委员会（FCC）对ABC的威胁违反了美国宪法第一修正案。",
+ "body": [
+  "迪士尼（Disney）旗下的ABC电视台最近在联邦法院赢得了一场关键官司，联邦法官裁定该监管机构此前的威胁举动违反了宪法第一修正案（First Amendment）。",
+  "这起案件源于美国联邦通信委员会（FCC）此前对ABC采取的施压和威胁行动。主审法官明确指出，政府监管机构无权通过威胁的手段来干预媒体的言论自由。",
+  "对在美华人来说，言论自由和媒体监管的界限一直备受关注，这场官司不仅关乎主流媒体的权益，也再次凸显了美国宪法第一修正案在限制政府权力方面的重要作用。",
+  "目前迪士尼和FCC双方尚未就该判决做出进一步的详细回应，但法律界普遍认为这是一个保护媒体免受政治压力干扰的重要判例。"
+ ],
+ "tags": [
+  "迪士尼",
+  "言论自由",
+  "美国法律",
+  "ABC电视台",
+  "FCC"
+ ],
+ "original_title": "Disney Beats the FCC in Court",
+ "lang": "en",
+ "published": "2026-11-27T21:50:00+00:00",
+ "created": "2026-11-28T07:43:59+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

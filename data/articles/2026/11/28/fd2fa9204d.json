@@ -1,0 +1,28 @@
+{
+ "key": "fd2fa9204d",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-28/rbi-steps-up-gold-loan-scrutiny-as-bullion-rout-signals-strain",
+ "title": "金价大跌惹的祸？印度央行紧急盯上2400亿黄金贷款",
+ "summary": "印度央行正加大对该国高达2470亿美元的黄金贷款行业的审查力度，因为金价的暴跌削弱了贷款机构要求的抵押品价值，引发市场对金融风险的担忧。",
+ "body": [
+  "由于近期金价出现急剧下跌，削弱了银行和贷款机构发放贷款时所要求的抵押品价值，知情人士透露，印度储备银行（RBI）正在加紧审查该国规模高达**2470亿美元**的黄金贷款行业。",
+  "## 抵押品缩水埋下隐患",
+  "黄金贷款在印度金融体系中占据重要地位，许多个人和小企业会选择将黄金首饰抵押给银行以获取紧急资金。然而，随着国际金价近期的回调和波动，借款人手中抵押黄金的实际价值大打折扣，这直接增加了贷款机构坏账的风险，也引起了监管部门的高度警惕。",
+  "对于在海外关注全球金融市场和黄金走势的华人来说，大宗商品的剧烈波动往往会波及相关信贷市场的稳定。虽然这主要发生在印度本土，但它再次提醒大家，在经济波动期，任何依赖资产抵押的借贷业务都可能面临突发的监管收紧和信用风险。"
+ ],
+ "tags": [
+  "印度央行",
+  "黄金贷款",
+  "金融监管",
+  "金价下跌",
+  "海外财经"
+ ],
+ "original_title": "RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain",
+ "lang": "en",
+ "published": "2026-11-28T06:39:08+00:00",
+ "created": "2026-11-28T07:44:06+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

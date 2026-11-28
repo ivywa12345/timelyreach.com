@@ -1,0 +1,26 @@
+{
+ "key": "8c5c357a56",
+ "board": "hot",
+ "source_id": "wsj-opinion",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/the-plot-to-subvert-the-electoral-college-16540209?mod=rss_opinion",
+ "title": "民主党悄悄攒够了州？美国大选的底层规则要变天！",
+ "summary": "民主党目前控制的州已经达到了“全国普选州际协议”所需的门槛，这意味着左翼阵营长期以来试图绕过选举人团制度的目标取得了实质性进展。",
+ "body": [
+  "华尔街日报（The Wall Street Journal）编辑委员会发文指出，目前民主党控制的州数量已经足够推进一项名为“全国普选州际协议”（National Popular Vote Interstate Compact）的政治计划，这也是美国政治左翼长期以来的核心目标之一。",
+  "长期以来，美国的总统选举实行选举人团（Electoral College）制度，这也是美国政治体制中极具争议的一部分。而这项普选协议的核心内容，是让加入的各州承诺将本州的选举人票投给在全国普选（Popular Vote）中获得最多选票的候选人，无论该州选民具体的投票结果如何。",
+  "如果该协议最终全面生效，将实质性地架空现有的选举人团制度，使得总统大选的结果彻底由全国总票数决定。对于关注美国政治走向的海外华人来说，这一规则的改变可能会彻底重塑未来的总统大选格局，对两党候选人的竞选策略以及各州在联邦政治中的分量产生深远影响。"
+ ],
+ "tags": [
+  "美国大选",
+  "选举人团",
+  "民主党",
+  "美国政治"
+ ],
+ "original_title": "The Plot to Subvert the Electoral College",
+ "lang": "en",
+ "published": "2026-11-27T21:50:00+00:00",
+ "created": "2026-11-28T07:45:18+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

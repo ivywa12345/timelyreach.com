@@ -1,0 +1,29 @@
+{
+ "key": "429e8857c4",
+ "board": "news",
+ "source_id": "wsj-world",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/world/how-starlink-limits-force-ukraine-to-fight-with-the-brakes-on-3fd1d605?mod=rss_worldnews",
+ "title": "星链网速有限？乌克兰战场上的“限速”烦恼",
+ "summary": "由于马斯克的星链服务存在速度限制和地理围栏，乌克兰军队在使用无人机时面临诸多束缚，不得不小心翼翼地平衡飞行速度与信号中断的风险。",
+ "body": [
+  "在乌克兰战场上，前线作战人员发现他们离不开马斯克（Elon Musk）的星链（Starlink）网络，但也深受其“限速”之苦。根据《华尔街日报》的报道，由于连接限制，乌军在操作无人机时必须在速度和信号之间艰难走钢丝。",
+  "## 速度与信号的艰难平衡",
+  "无人机在战场上发挥着侦察和打击的重要作用，但乌军士兵在使用星链时发现：- 飞行速度太快，连接可能会直接中断\n- 飞行速度太慢，无人机又极易被敌方拦截击落",
+  "> “飞得太快断网，飞得太慢挨打。”——前线乌军操作员",
+  "除了速度限制，星链在技术上还设置了地理围栏，防止该系统被用于某些特定区域的远程打击。对于远在海外、高度依赖科技供应链的华人群体来说，这场冲突再次凸显了民用商业卫星技术在现代地缘政治和军事冲突中扮演的双重角色，以及高科技产品背后的规则限制。"
+ ],
+ "tags": [
+  "星链",
+  "乌克兰战场",
+  "无人机",
+  "马斯克",
+  "科技与战争"
+ ],
+ "original_title": "How Starlink Limits Force Ukraine to Fight With the Brakes On",
+ "lang": "en",
+ "published": "2026-11-28T03:00:00+00:00",
+ "created": "2026-11-28T07:46:03+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

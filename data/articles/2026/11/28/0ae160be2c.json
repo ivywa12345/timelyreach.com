@@ -1,0 +1,24 @@
+{
+ "key": "0ae160be2c",
+ "board": "finance",
+ "source_id": "wsj-markets",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
+ "title": "OPEC+开会前夕，油价为啥又跌了？",
+ "summary": "由于市场正密切等待OPEC+周末关于2027年产量政策的会议，国际原油期货价格在会前收盘走低。",
+ "body": [
+  "原油期货价格在最新交易日收盘走低，市场的目光全聚焦在这个周末即将召开的OPEC（石油输出国组织）及其盟友的会议上，大家都在等各方对2027年的产量政策给出个说法。"
+ ],
+ "tags": [
+  "国际油价",
+  "OPEC+",
+  "能源市场",
+  "财经快讯"
+ ],
+ "original_title": "Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting",
+ "lang": "en",
+ "published": "2026-11-27T20:47:00+00:00",
+ "created": "2026-11-28T07:46:48+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

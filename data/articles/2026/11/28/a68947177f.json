@@ -1,0 +1,29 @@
+{
+ "key": "a68947177f",
+ "board": "finance",
+ "source_id": "wsj-tech",
+ "source_name": "华尔街日报",
+ "source_url": "https://www.wsj.com/opinion/treasury-aims-at-china-hits-american-cancer-patients-c6656739?mod=rss_Technology",
+ "title": "美财政部盯上中国生物医药，结果坑了自家的癌症患者？",
+ "summary": "华尔街日报发表评论文章指出，美国联邦政府拟议禁止美国企业与中国生物科技公司进行合资，这一举措可能会导致美国肿瘤药物研发减少约20%，最终受害的是美国癌症患者。",
+ "body": [
+  "近日，《华尔街日报》刊登了一篇由 Tomas J. Philipson 撰写的评论文章，指出美国财政部针对中国生物科技行业的限制政策，可能会带来“误伤”，最终让美国的癌症患者买单。",
+  "## 限制中企合作的代价",
+  "根据文章提出的数据，美国联邦政府拟议中的这项禁令，主要针对美国与中国生物科技公司之间的合资企业。然而，这种“脱钩”动作并非毫无代价，它可能会直接**斩断约20%的肿瘤药物研发项目**，对新药研发进度造成严重打击。",
+  "## 对患者与行业的深远影响",
+  "对于身处海外、关注美国医疗健康与生活质量的华人来说，这类政策不仅关乎中美科技与经济博弈，更直接关系到创新药的可及性与治病救人的大局。当政策大棒挥向跨国医疗合作时，原本有望拯救生命的创新疗法可能会被无限期搁置。"
+ ],
+ "tags": [
+  "生物医药",
+  "中美关系",
+  "癌症治疗",
+  "华尔街日报",
+  "海外华人"
+ ],
+ "original_title": "Opinion | Treasury Aims at China, Hits American Cancer Patients",
+ "lang": "en",
+ "published": "2026-11-27T21:46:00+00:00",
+ "created": "2026-11-28T07:43:53+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

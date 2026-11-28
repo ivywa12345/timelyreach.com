@@ -1,0 +1,26 @@
+{
+ "key": "da331e4e1a",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/28/us-news/boy-17-shot-inside-nyc-subway-station-police/",
+ "title": "惊险！纽约地铁站突发枪击，17岁男孩腿部中弹",
+ "summary": "周五深夜，纽约布鲁克林一个地铁站台发生枪击案，一名17岁男孩腿部中弹送医，嫌疑人目前仍在逃。",
+ "body": [
+  "周五深夜，纽约布鲁克林（Brooklyn）的一处地铁站台内发生了一起枪击事件，一名17岁男孩不幸腿部中弹，嫌疑人作案后迅速逃跑。",
+  "根据纽约市警察局（NYPD）及警方消息源，这起案件发生在东纽约（East New York）的尤克利德大道车站（Euclid Station）。当晚11点半左右，受害少年在北向列车站台上遭到两名男子接近，其中一人突然拔枪朝地面连开两枪，导致少年右腿中弹。",
+  "案发后，两名嫌疑人迅速逃向地面并不知所踪。受伤少年被紧急送往布鲁克戴尔医院（Brookdale Hospital），目前伤情稳定。截至目前，警方尚未逮捕任何人，作案动机也仍在调查中。受此事件影响，MTA发布警报称，警方调查期间，A线列车双向均一度未在尤克利德大道站停靠。"
+ ],
+ "tags": [
+  "纽约地铁",
+  "枪击案",
+  "布鲁克林",
+  "治安"
+ ],
+ "original_title": "Boy, 17, shot inside NYC subway station: police",
+ "lang": "en",
+ "published": "2026-11-28T06:26:16+00:00",
+ "created": "2026-11-28T07:45:44+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

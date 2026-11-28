@@ -1,0 +1,25 @@
+{
+ "key": "5950ed6e3b",
+ "board": "news",
+ "source_id": "bloomberg-politics",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-28/taiwan-goes-to-polls-in-tight-local-elections-as-china-watches",
+ "title": "台湾地方选举今天投票！台北选情胶着，结果牵动2028大位",
+ "summary": "台湾数百万选民周六冒雨前往投票所，进行备受瞩目的地方选举。这场选举不仅可能重塑岛内政治版图，更因台北市长选战异常胶着，而被视为2028年总统大选的前哨战，引发海内外高度关注。",
+ "body": [
+  "数百万台湾选民在周六（当地时间）走向投票所，参加这场对政坛格局有着深远影响的地方选举。由于本次选举恰逢2028年总统大选之前，尤其是台北市（Taipei）的选情出现了意料之外的胶着状态，极大地激发了选民的投票热情，连远在北京的目光也紧紧盯着这场选举的动向。",
+  "彭博社（Bloomberg）报道指出，地方选举的结果往往被视为各大政党备战大选的实力测验。台北市作为政治与经济中心，其选情异常紧凑，候选人之间的竞争进入白热化阶段，这也让这场原本聚焦民生的地方选举，多了一层浓厚的政治博弈色彩。"
+ ],
+ "tags": [
+  "台湾选举",
+  "台北市长",
+  "2028大选",
+  "政坛动向"
+ ],
+ "original_title": "Taiwan Votes in Close Local Elections With China Watching",
+ "lang": "en",
+ "published": "2026-11-28T00:20:10+00:00",
+ "created": "2026-11-28T07:45:31+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

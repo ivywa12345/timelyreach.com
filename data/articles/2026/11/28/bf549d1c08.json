@@ -1,0 +1,25 @@
+{
+ "key": "bf549d1c08",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-28/china-import-logistics-fell-0-6-in-january-october-xinhua-says",
+ "title": "今年前10个月，国内进口物流需求为啥还在缩水？",
+ "summary": "根据新华社援引中国物流与采购联合会的数据，今年前10个月中国进口物流需求进一步收缩，同比下降0.6%。",
+ "body": [
+  "今年前10个月，国内的进口物流需求继续放缓。根据新华社援引中国物流与采购联合会（China Federation of Logistics and Purchasing）公布的数据，今年1至10月期间，我国进口物流需求同比**下降0.6%**。",
+  "回顾今年初的情况，当时物流增长势头其实相当不错。今年1至2月时，进口物流需求还保持着9.6%的较高增长速度，但随着时间推移，这一增长势头逐渐放缓并最终陷入负增长，显示出近几个月进口物流领域面临的持续压力。"
+ ],
+ "tags": [
+  "中国经济",
+  "进口物流",
+  "物流数据",
+  "新华社"
+ ],
+ "original_title": "China Import Logistics Fell 0.6% in January-October, Xinhua Says",
+ "lang": "en",
+ "published": "2026-11-28T03:01:44+00:00",
+ "created": "2026-11-28T07:45:24+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

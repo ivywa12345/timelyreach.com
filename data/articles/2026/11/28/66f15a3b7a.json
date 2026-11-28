@@ -1,0 +1,25 @@
+{
+ "key": "66f15a3b7a",
+ "board": "finance",
+ "source_id": "bloomberg-markets",
+ "source_name": "彭博社",
+ "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute",
+ "title": "巴西沙滩足球名将，怎么成了美俄谍战的筹码？",
+ "summary": "一名巴西沙滩足球明星意外卷入了一场美俄之间的间谍争端，成为了双方博弈的罕见筹码。",
+ "body": [
+  "谁能想到，一个踢沙滩足球的运动员，竟然会被卷入大国之间的间谍风波？据彭博社报道，一名巴西沙滩足球明星（未具名）最近成了美俄两国争夺一个涉嫌间谍身份之人的意外“筹码”。",
+  "这场风波的核心是一名被莫斯科和华盛顿同时通缉的俄罗斯疑似间谍。目前，这位巴西球星的命运如何与大国情报战交织在一起，已经引发了外界的广泛关注。"
+ ],
+ "tags": [
+  "美俄关系",
+  "间谍风云",
+  "沙滩足球",
+  "国际新闻"
+ ],
+ "original_title": "Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
+ "lang": "en",
+ "published": "2026-11-27T22:29:56+00:00",
+ "created": "2026-11-28T07:46:16+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}

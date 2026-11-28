@@ -1,0 +1,29 @@
+{
+ "key": "9785d49344",
+ "board": "news",
+ "source_id": "nypost",
+ "source_name": "纽约邮报",
+ "source_url": "https://nypost.com/2026/11/28/us-news/nyc-mayor-mamdani-has-surgery-after-tearing-achilles-tendon-playing-soccer/",
+ "title": "纽约市长踢球把跟腱弄断了！刚做完手术，幽默搬出NBA球星",
+ "summary": "纽约市长佐赫兰·马姆达尼（Zohran Mamdani）在上周与记者的足球赛中不幸撕裂右侧跟腱，周五顺利完成了手术，目前正在市长官邸休养。",
+ "body": [
+  "纽约市长佐赫兰·马姆达尼（Zohran Mamdani）因上周踢球受伤，于周五进行了跟腱修复手术，好在手术非常顺利，目前正在官邸休息。",
+  "现年 35 岁的马姆达尼是个狂热的足球迷。他在 11 月 19 日市长办公室与记者团的友谊赛中登场，不仅进了一球，还帮球队赢了比赛。不过他后来懊恼地承认，自己进球后不久就拉断了跟腱，而且赛前根本没做拉伸运动。",
+  "> “市长预计会完全康复。”\n> —— 新闻秘书乔·卡尔韦洛（Joe Calvello）",
+  "受伤后，这位市长一直戴着医疗靴并拄着拐杖坚持公开露面。谈到即将到来的手术时，他曾半开玩笑地说：“我一直告诉自己：杰森·塔图姆（Jayson Tatum）也经历过。”借此跟凯尔特人球星开起了玩笑。",
+  "虽然市长大人进了手术室，不过市政工作也没有耽误。在他手术当天，常务副市长迪恩·富利汉（Dean Fuleihan）代为负责市内的日常运作。"
+ ],
+ "tags": [
+  "纽约市长",
+  "跟腱受伤",
+  "佐赫兰·马姆达尼",
+  "足球",
+  "政坛趣闻"
+ ],
+ "original_title": "Mamdani has surgery for torn Achilles tendon from soccer match injury",
+ "lang": "en",
+ "published": "2026-11-28T05:51:13+00:00",
+ "created": "2026-11-28T07:46:29+00:00",
+ "rewriter": "openai-compatible",
+ "show_link": true
+}
